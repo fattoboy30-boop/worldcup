@@ -209,85 +209,55 @@
             <div class="section-header">
                 <span class="section-tag">Fixtures</span>
                 <h2 class="section-title">Match Schedule</h2>
-                <p class="section-description">Don't miss a single moment of the action</p>
+                <p class="section-description">104 matches across 16 venues in USA, Mexico & Canada</p>
+            </div>
+
+            <div class="schedule-stats">
+                <div class="stat-item">
+                    <span class="stat-number">48</span>
+                    <span class="stat-label">Teams</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number">104</span>
+                    <span class="stat-label">Matches</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number">16</span>
+                    <span class="stat-label">Venues</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number">39</span>
+                    <span class="stat-label">Days</span>
+                </div>
             </div>
 
             <div class="schedule-tabs">
-                <button class="tab-btn active" data-tab="group">Group Stage</button>
-                <button class="tab-btn" data-tab="round16">Round of 16</button>
-                <button class="tab-btn" data-tab="quarters">Quarter Finals</button>
-                <button class="tab-btn" data-tab="semis">Semi Finals</button>
-                <button class="tab-btn" data-tab="final">Final</button>
+                <button class="tab-btn active" data-stage="group">Group Stage</button>
+                <button class="tab-btn" data-stage="roundOf32">Round of 32</button>
+                <button class="tab-btn" data-stage="roundOf16">Round of 16</button>
+                <button class="tab-btn" data-stage="quarterFinals">Quarter Finals</button>
+                <button class="tab-btn" data-stage="semiFinals">Semi Finals</button>
+                <button class="tab-btn" data-stage="final">Final</button>
+            </div>
+
+            <div class="schedule-filters" id="groupFilters" style="display: block;">
+                <button class="filter-btn active" data-group="all">All Groups</button>
+                <button class="filter-btn" data-group="A">A</button>
+                <button class="filter-btn" data-group="B">B</button>
+                <button class="filter-btn" data-group="C">C</button>
+                <button class="filter-btn" data-group="D">D</button>
+                <button class="filter-btn" data-group="E">E</button>
+                <button class="filter-btn" data-group="F">F</button>
+                <button class="filter-btn" data-group="G">G</button>
+                <button class="filter-btn" data-group="H">H</button>
+                <button class="filter-btn" data-group="I">I</button>
+                <button class="filter-btn" data-group="J">J</button>
+                <button class="filter-btn" data-group="K">K</button>
+                <button class="filter-btn" data-group="L">L</button>
             </div>
 
             <div class="schedule-content" id="scheduleContent">
-                <div class="schedule-card opening">
-                    <div class="match-date">June 11, 2026</div>
-                    <div class="match-teams">
-                        <div class="team">
-                            <img src="https://flagcdn.com/w160/mx.png" alt="Mexico" class="match-flag">
-                            <span class="team-name">Mexico</span>
-                        </div>
-                        <span class="match-vs">VS</span>
-                        <div class="team">
-                            <div class="match-flag tbd">TBD</div>
-                            <span class="team-name">Qualifier</span>
-                        </div>
-                    </div>
-                    <div class="match-venue">Estadio Azteca, Mexico City</div>
-                    <div class="match-time">Opening Match</div>
-                </div>
-
-                <div class="schedule-card">
-                    <div class="match-date">June 12, 2026</div>
-                    <div class="match-teams">
-                        <div class="team">
-                            <img src="https://flagcdn.com/w160/us.png" alt="USA" class="match-flag">
-                            <span class="team-name">USA</span>
-                        </div>
-                        <span class="match-vs">VS</span>
-                        <div class="team">
-                            <div class="match-flag tbd">TBD</div>
-                            <span class="team-name">Qualifier</span>
-                        </div>
-                    </div>
-                    <div class="match-venue">SoFi Stadium, Los Angeles</div>
-                    <div class="match-time">Host Nation Opener</div>
-                </div>
-
-                <div class="schedule-card">
-                    <div class="match-date">June 12, 2026</div>
-                    <div class="match-teams">
-                        <div class="team">
-                            <img src="https://flagcdn.com/w160/ca.png" alt="Canada" class="match-flag">
-                            <span class="team-name">Canada</span>
-                        </div>
-                        <span class="match-vs">VS</span>
-                        <div class="team">
-                            <div class="match-flag tbd">TBD</div>
-                            <span class="team-name">Qualifier</span>
-                        </div>
-                    </div>
-                    <div class="match-venue">BMO Field, Toronto</div>
-                    <div class="match-time">Host Nation Opener</div>
-                </div>
-
-                <div class="schedule-card final-match">
-                    <div class="match-date">July 19, 2026</div>
-                    <div class="match-teams">
-                        <div class="team">
-                            <div class="match-flag trophy">🏆</div>
-                            <span class="team-name">TBD</span>
-                        </div>
-                        <span class="match-vs">VS</span>
-                        <div class="team">
-                            <div class="match-flag trophy">🏆</div>
-                            <span class="team-name">TBD</span>
-                        </div>
-                    </div>
-                    <div class="match-venue">MetLife Stadium, New York/New Jersey</div>
-                    <div class="match-time">WORLD CUP FINAL</div>
-                </div>
+                <!-- Fixtures loaded dynamically by JavaScript -->
             </div>
         </div>
     </section>

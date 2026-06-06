@@ -724,6 +724,142 @@ a {
     color: var(--accent);
 }
 
+.match-flag {
+    width: 60px;
+    height: 40px;
+    object-fit: cover;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+}
+
+.match-flag.tbd {
+    width: 60px;
+    height: 40px;
+    background: var(--dark-light);
+    border: 1px dashed var(--gray-light);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.7rem;
+    color: var(--text-muted);
+}
+
+.match-group-badge {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    background: var(--primary);
+    color: white;
+    border-radius: 20px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    margin-bottom: 0.75rem;
+}
+
+.match-label {
+    font-size: 0.8rem;
+    color: var(--gold);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-top: 0.5rem;
+}
+
+.schedule-card.host-opener {
+    border-color: var(--primary);
+}
+
+.schedule-card.knockout {
+    background: linear-gradient(145deg, rgba(0, 123, 255, 0.05) 0%, var(--dark-light) 100%);
+}
+
+.matchday-header {
+    grid-column: 1 / -1;
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.3rem;
+    color: var(--accent);
+    padding: 1rem 0;
+    border-bottom: 2px solid var(--primary);
+    margin-bottom: 0.5rem;
+}
+
+.knockout-header {
+    grid-column: 1 / -1;
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.5rem;
+    color: var(--gold);
+    text-align: center;
+    padding: 1.5rem 0;
+    border-bottom: 2px solid var(--gold);
+    margin-bottom: 1rem;
+}
+
+.no-fixtures {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 3rem;
+    color: var(--text-muted);
+    font-size: 1.1rem;
+}
+
+.tbd-team .team-name {
+    color: var(--text-muted) !important;
+    font-style: italic;
+}
+
+.schedule-stats {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+}
+
+.stat-item {
+    text-align: center;
+}
+
+.stat-number {
+    display: block;
+    font-family: 'Oswald', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--primary);
+}
+
+.stat-label {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.schedule-filters {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+}
+
+.filter-btn {
+    padding: 0.5rem 1rem;
+    background: transparent;
+    border: 1px solid var(--gray-light);
+    border-radius: 5px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+.filter-btn:hover,
+.filter-btn.active {
+    background: var(--primary);
+    border-color: var(--primary);
+    color: white;
+}
+
 /* ===== Players Section ===== */
 .players-carousel {
     display: flex;

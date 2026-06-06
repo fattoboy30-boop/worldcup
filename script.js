@@ -152,6 +152,7 @@ document.addEventListener('DOMContentLoaded', () => {
     initQuiz();
     initFacts();
     initPolls();
+    initSchedule();
     initNews();
     initScrollAnimations();
 });
@@ -489,13 +490,148 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     });
 });
 
-// ===== Schedule Tab Filtering =====
-document.querySelectorAll('.tab-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-        document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-        btn.classList.add('active');
+// ===== Schedule Section =====
+let fixturesData = null;
+let currentStage = 'group';
+let currentGroup = 'all';
+
+async function initSchedule() {
+    try {
+        const response = await fetch('fixtures.json');
+        fixturesData = await response.json();
+        renderSchedule();
+        initScheduleTabs();
+        initGroupFilters();
+    } catch (error) {
+        console.log('Fixtures data not available');
+    }
+}
+
+function initScheduleTabs() {
+    document.querySelectorAll('.tab-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+            document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            currentStage = btn.dataset.stage;
+            
+            const groupFilters = document.getElementById('groupFilters');
+            if (groupFilters) {
+                groupFilters.style.display = currentStage === 'group' ? 'flex' : 'none';
+            }
+            
+            renderSchedule();
+        });
     });
-});
+}
+
+function initGroupFilters() {
+    document.querySelectorAll('.filter-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            currentGroup = btn.dataset.group;
+            renderSchedule();
+        });
+    });
+}
+
+function renderSchedule() {
+    const content = document.getElementById('scheduleContent');
+    if (!content || !fixturesData) return;
+    
+    if (currentStage === 'group') {
+        renderGroupStage(content);
+    } else {
+        renderKnockoutStage(content);
+    }
+}
+
+function renderGroupStage(container) {
+    let fixtures = fixturesData.fixtures.filter(f => f.stage === 'group');
+    
+    if (currentGroup !== 'all') {
+        fixtures = fixtures.filter(f => f.group === currentGroup);
+    }
+    
+    const groupedByMatchday = {};
+    fixtures.forEach(f => {
+        const key = `matchday-${f.matchday}`;
+        if (!groupedByMatchday[key]) groupedByMatchday[key] = [];
+        groupedByMatchday[key].push(f);
+    });
+    
+    let html = '';
+    
+    for (const [matchday, matches] of Object.entries(groupedByMatchday)) {
+        const matchdayNum = matchday.split('-')[1];
+        html += `<div class="matchday-header">Matchday ${matchdayNum}</div>`;
+        
+        matches.forEach(match => {
+            const date = new Date(match.date);
+            const formattedDate = date.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' });
+            const isOpener = match.label === 'Opening Match';
+            const isHostOpener = match.label === 'Host Nation Opener';
+            
+            html += `
+                <div class="schedule-card ${isOpener ? 'opening' : ''} ${isHostOpener ? 'host-opener' : ''}">
+                    <div class="match-group-badge">Group ${match.group}</div>
+                    <div class="match-date">${formattedDate} • ${match.time}</div>
+                    <div class="match-teams">
+                        <div class="team">
+                            <img src="${match.homeFlag}" alt="${match.homeTeam}" class="match-flag" onerror="this.src='https://flagcdn.com/w160/un.png'">
+                            <span class="team-name">${match.homeTeam}</span>
+                        </div>
+                        <span class="match-vs">VS</span>
+                        <div class="team">
+                            <img src="${match.awayFlag}" alt="${match.awayTeam}" class="match-flag" onerror="this.src='https://flagcdn.com/w160/un.png'">
+                            <span class="team-name">${match.awayTeam}</span>
+                        </div>
+                    </div>
+                    <div class="match-venue">${match.venue}, ${match.city}</div>
+                    ${match.label ? `<div class="match-label">${match.label}</div>` : ''}
+                </div>
+            `;
+        });
+    }
+    
+    container.innerHTML = html;
+}
+
+function renderKnockoutStage(container) {
+    const stageData = fixturesData.knockoutStage[currentStage];
+    if (!stageData) {
+        container.innerHTML = '<p class="no-fixtures">Schedule to be determined after group stage.</p>';
+        return;
+    }
+    
+    let html = `<div class="knockout-header">${stageData.name}</div>`;
+    
+    stageData.matches.forEach(match => {
+        const date = new Date(match.date);
+        const formattedDate = date.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' });
+        
+        html += `
+            <div class="schedule-card knockout ${currentStage === 'final' ? 'final-match' : ''}">
+                <div class="match-date">${formattedDate} • ${match.time}</div>
+                <div class="match-teams">
+                    <div class="team tbd-team">
+                        <div class="match-flag tbd">TBD</div>
+                        <span class="team-name">Winner ${match.label.split(' vs ')[0].replace('Winner ', '')}</span>
+                    </div>
+                    <span class="match-vs">VS</span>
+                    <div class="team tbd-team">
+                        <div class="match-flag tbd">TBD</div>
+                        <span class="team-name">Winner ${match.label.split(' vs ')[1].replace('Winner ', '')}</span>
+                    </div>
+                </div>
+                <div class="match-venue">${match.venue}, ${match.city}</div>
+                <div class="match-label">${match.label}</div>
+            </div>
+        `;
+    });
+    
+    container.innerHTML = html;
+}
 
 // ===== News Section =====
 async function initNews() {
