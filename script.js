@@ -434,6 +434,8 @@ function initQuiz() {
         currentQuestion = (currentQuestion + 1) % quizQuestions.length;
         updateQuiz();
     });
+
+    updateQuiz();
 }
 
 function updateQuiz() {
