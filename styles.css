@@ -181,6 +181,18 @@ a {
     .hero {
         flex-direction: column;
         padding-top: 100px;
+        padding-bottom: 2rem;
+    }
+    
+    .hero-trophy {
+        position: relative;
+        right: auto;
+        bottom: auto;
+        margin-top: 1rem;
+    }
+    
+    .trophy-img {
+        width: 150px;
     }
 }
 
@@ -2006,5 +2018,352 @@ a {
     .news-filter-btn {
         padding: 0.5rem 1rem;
         font-size: 0.75rem;
+    }
+}
+
+/* ===== Comprehensive Mobile Responsive ===== */
+@media (max-width: 768px) {
+    /* Hero Section */
+    .hero {
+        min-height: auto;
+        padding: 120px 1rem 2rem;
+    }
+    
+    .hero-badge {
+        font-size: 0.9rem;
+        padding: 0.5rem 1rem;
+    }
+    
+    .title-line {
+        display: block;
+    }
+    
+    .title-large {
+        font-size: 2.5rem;
+    }
+    
+    .title-year {
+        font-size: 2rem;
+    }
+    
+    .hero-subtitle {
+        font-size: 1rem;
+    }
+    
+    .host-flags-hero {
+        gap: 1rem;
+    }
+    
+    .hero-flag {
+        width: 60px;
+        height: 40px;
+    }
+    
+    .countdown-container {
+        padding: 1rem;
+    }
+    
+    .countdown {
+        gap: 0.3rem;
+    }
+    
+    .countdown-value {
+        font-size: 1.5rem;
+        min-width: 50px;
+        padding: 0.5rem;
+    }
+    
+    .hero-stats {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1rem;
+        width: 100%;
+    }
+    
+    .stat-item {
+        text-align: center;
+    }
+    
+    .stat-number {
+        font-size: 1.8rem;
+    }
+    
+    .stat-label {
+        font-size: 0.75rem;
+    }
+    
+    .hero-cta {
+        width: 100%;
+    }
+    
+    .btn {
+        width: 100%;
+        justify-content: center;
+    }
+    
+    /* Trophy */
+    .hero-trophy {
+        position: relative;
+        right: auto;
+        bottom: auto;
+        margin-top: 1.5rem;
+    }
+    
+    .trophy-img {
+        width: 120px;
+    }
+    
+    .trophy-glow {
+        width: 150px;
+        height: 150px;
+    }
+    
+    /* Sections */
+    .section {
+        padding: 3rem 1rem;
+    }
+    
+    .section-title {
+        font-size: 1.8rem;
+    }
+    
+    .section-subtitle {
+        font-size: 0.9rem;
+    }
+    
+    /* Teams Grid */
+    .teams-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 0.75rem;
+    }
+    
+    .team-card {
+        padding: 0.75rem;
+    }
+    
+    .team-flag-img {
+        width: 50px;
+        height: 35px;
+    }
+    
+    .team-name {
+        font-size: 0.7rem;
+    }
+    
+    /* Players Carousel */
+    .players-carousel {
+        gap: 1rem;
+        padding: 0 1rem;
+    }
+    
+    .player-card {
+        min-width: 240px;
+        max-width: 280px;
+    }
+    
+    .player-image {
+        height: 200px;
+    }
+    
+    .player-info {
+        padding: 1rem;
+    }
+    
+    .player-name {
+        font-size: 1.1rem;
+    }
+    
+    .player-bio {
+        font-size: 0.8rem;
+    }
+    
+    /* Schedule */
+    .schedule-card {
+        padding: 1rem;
+    }
+    
+    .match-teams {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+    
+    .match-vs {
+        font-size: 0.8rem;
+    }
+    
+    .tab-btns {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .tab-btn {
+        padding: 0.5rem 1rem;
+        font-size: 0.8rem;
+    }
+    
+    /* Fan Zone */
+    .fanzone-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .quiz-options {
+        grid-template-columns: 1fr;
+    }
+    
+    /* Cities */
+    .cities-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .city-card {
+        padding: 1rem;
+    }
+    
+    /* Timeline */
+    .timeline {
+        padding-left: 30px;
+    }
+    
+    .timeline::before {
+        left: 10px;
+    }
+    
+    .timeline-item {
+        padding-left: 40px;
+    }
+    
+    .timeline-item::before {
+        left: 10px;
+    }
+    
+    .timeline-year {
+        left: 10px;
+        font-size: 0.8rem;
+    }
+    
+    .timeline-content {
+        padding: 1rem;
+    }
+    
+    /* News */
+    .news-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .news-filters {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    /* Footer */
+    .footer {
+        padding: 2rem 1rem;
+    }
+    
+    .footer-grid {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+    
+    .footer-col {
+        text-align: center;
+    }
+    
+    .footer-flags {
+        justify-content: center;
+    }
+    
+    .social-links {
+        justify-content: center;
+    }
+    
+    .social-logo {
+        height: 30px;
+    }
+    
+    /* Newsletter */
+    .newsletter-form {
+        flex-direction: column;
+    }
+    
+    .newsletter-input {
+        width: 100%;
+    }
+    
+    /* Buttons */
+    .btn-primary, .btn-secondary {
+        padding: 0.8rem 1.5rem;
+        font-size: 0.9rem;
+    }
+    
+    /* Cards */
+    .card {
+        padding: 1rem;
+        margin-bottom: 1rem;
+    }
+    
+    /* Scroll indicator */
+    .scroll-indicator {
+        display: none;
+    }
+}
+
+/* Small phones */
+@media (max-width: 480px) {
+    .title-large {
+        font-size: 2rem;
+    }
+    
+    .title-year {
+        font-size: 1.5rem;
+    }
+    
+    .countdown-value {
+        font-size: 1.2rem;
+        min-width: 45px;
+    }
+    
+    .hero-stats {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .stat-number {
+        font-size: 1.5rem;
+    }
+    
+    .teams-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+    
+    .team-flag-img {
+        width: 40px;
+        height: 28px;
+    }
+    
+    .team-name {
+        font-size: 0.65rem;
+    }
+    
+    .player-card {
+        min-width: 220px;
+    }
+    
+    .section-title {
+        font-size: 1.5rem;
+    }
+}
+
+/* Touch devices */
+@media (hover: none) {
+    .team-card:hover .team-flag-img {
+        transform: none;
+    }
+    
+    .player-card:hover {
+        transform: none;
+    }
+    
+    .btn:hover {
+        transform: none;
     }
 }
