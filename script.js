@@ -84,7 +84,7 @@ const players = [
         club: "Real Madrid",
         age: 27,
         bio: "France captain, 2018 World Cup winner, 2022 Golden Boot winner. The world's most dangerous attacker.",
-        image: "https://img.a.transfermarkt.technology/portrait/header/342229-1700087573.jpg"
+        image: "assets/players/kylian_mbappe.jpg"
     },
     {
         name: "Lamine Yamal",
@@ -95,7 +95,7 @@ const players = [
         club: "Barcelona",
         age: 18,
         bio: "Euro 2024 winner at 17. The most exciting teenage talent since Pelé. First World Cup.",
-        image: "https://img.a.transfermarkt.technology/portrait/header/937958-1710017583.jpg"
+        image: "assets/players/lamine_yamal.jpg"
     },
     {
         name: "Lionel Messi",
