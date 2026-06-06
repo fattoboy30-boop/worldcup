@@ -1442,6 +1442,18 @@ a {
     color: var(--primary);
 }
 
+.social-logo {
+    height: 40px;
+    width: auto;
+    border-radius: 8px;
+    transition: var(--transition);
+}
+
+.facebook-link:hover .social-logo {
+    transform: scale(1.1);
+    box-shadow: 0 0 20px rgba(200, 16, 46, 0.5);
+}
+
 .footer-bottom {
     text-align: center;
     padding-top: 2rem;
