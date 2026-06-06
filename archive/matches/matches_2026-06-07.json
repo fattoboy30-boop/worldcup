@@ -1,0 +1,51 @@
+{
+  "lastUpdated": "2026-06-07T00:00:00Z",
+  "liveMatches": [],
+  "recentResults": [
+    {
+      "id": 1,
+      "date": "2026-06-11",
+      "time": "21:00",
+      "homeTeam": "Mexico",
+      "homeCode": "mx",
+      "homeScore": 0,
+      "awayTeam": "South Africa",
+      "awayCode": "za",
+      "awayScore": 0,
+      "venue": "Estadio Azteca",
+      "city": "Mexico City",
+      "status": "upcoming",
+      "label": "Opening Match"
+    }
+  ],
+  "upcomingMatches": [
+    {
+      "id": 2,
+      "date": "2026-06-11",
+      "time": "17:00",
+      "homeTeam": "USA",
+      "homeCode": "us",
+      "homeScore": null,
+      "awayTeam": "TBD",
+      "awayCode": "un",
+      "awayScore": null,
+      "venue": "SoFi Stadium",
+      "city": "Los Angeles",
+      "status": "upcoming"
+    },
+    {
+      "id": 3,
+      "date": "2026-06-11",
+      "time": "19:00",
+      "homeTeam": "Canada",
+      "homeCode": "ca",
+      "homeScore": null,
+      "awayTeam": "TBD",
+      "awayCode": "un",
+      "awayScore": null,
+      "venue": "BMO Field",
+      "city": "Toronto",
+      "status": "upcoming"
+    }
+  ]
+}

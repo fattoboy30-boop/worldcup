@@ -242,6 +242,7 @@ document.addEventListener('DOMContentLoaded', () => {
     initNews();
     initScores();
     initStandings();
+    initArchive();
     initScrollAnimations();
     
     // Auto-refresh scores every 60 seconds
@@ -1119,4 +1120,236 @@ function renderStandings() {
             </tbody>
         </table>
     `;
+}
+
+// ===== Archive Section =====
+let archiveData = null;
+let currentArchiveTab = 'archive-news';
+
+async function initArchive() {
+    try {
+        const response = await fetch('archive/index.json');
+        archiveData = await response.json();
+        
+        // Update archive count
+        const archiveCount = document.getElementById('archiveCount');
+        if (archiveCount) {
+            const totalItems = (archiveData.archiveIndex.news?.length || 0) + 
+                             (archiveData.archiveIndex.matches?.length || 0) +
+                             (archiveData.archiveIndex.standings?.length || 0);
+            archiveCount.textContent = totalItems;
+        }
+        
+        initArchiveTabs();
+        loadArchiveContent();
+    } catch (error) {
+        console.log('Archive data not available');
+    }
+}
+
+function initArchiveTabs() {
+    document.querySelectorAll('.archive-tab').forEach(tab => {
+        tab.addEventListener('click', () => {
+            document.querySelectorAll('.archive-tab').forEach(t => t.classList.remove('active'));
+            tab.classList.add('active');
+            currentArchiveTab = tab.dataset.tab;
+            loadArchiveContent();
+        });
+    });
+}
+
+async function loadArchiveContent() {
+    const content = document.getElementById('archiveContent');
+    if (!content) return;
+    
+    content.innerHTML = '<p class="loading">Loading archive...</p>';
+    
+    try {
+        switch (currentArchiveTab) {
+            case 'archive-news':
+                await loadNewsArchive(content);
+                break;
+            case 'archive-matches':
+                await loadMatchesArchive(content);
+                break;
+            case 'archive-standings':
+                await loadStandingsArchive(content);
+                break;
+            case 'archive-daily':
+                await loadDailyArchive(content);
+                break;
+        }
+    } catch (error) {
+        content.innerHTML = '<p class="no-archive">Error loading archive data.</p>';
+    }
+}
+
+async function loadNewsArchive(container) {
+    try {
+        const response = await fetch('archive/index.json');
+        const data = await response.json();
+        const newsFiles = data.archiveIndex.news || [];
+        
+        if (newsFiles.length === 0) {
+            container.innerHTML = '<p class="no-archive">No news archived yet. News will be archived daily during the tournament.</p>';
+            return;
+        }
+        
+        let allNews = [];
+        for (const file of newsFiles.slice(-5)) { // Last 5 days
+            try {
+                const res = await fetch(`archive/news/${file}`);
+                const newsData = await res.json();
+                allNews = allNews.concat(newsData.articles || []);
+            } catch (e) {
+                console.log(`Could not load ${file}`);
+            }
+        }
+        
+        // Remove duplicates by id
+        const uniqueNews = [...new Map(allNews.map(n => [n.id, n])).values()];
+        
+        container.innerHTML = `
+            <div class="archive-list">
+                ${uniqueNews.slice(0, 20).map(article => `
+                    <article class="archive-item">
+                        <a href="${article.url}" target="_blank" rel="noopener noreferrer">
+                            <span class="archive-date">${article.date}</span>
+                            <span class="archive-title">${article.title}</span>
+                            <span class="archive-source">${article.source}</span>
+                        </a>
+                    </article>
+                `).join('')}
+            </div>
+            <p class="archive-note">Showing latest ${Math.min(20, uniqueNews.length)} archived articles</p>
+        `;
+    } catch (error) {
+        container.innerHTML = '<p class="no-archive">Error loading news archive.</p>';
+    }
+}
+
+async function loadMatchesArchive(container) {
+    try {
+        const response = await fetch('archive/index.json');
+        const data = await response.json();
+        const matchFiles = data.archiveIndex.matches || [];
+        
+        if (matchFiles.length === 0) {
+            container.innerHTML = '<p class="no-archive">No match results archived yet. Results will be archived after each matchday.</p>';
+            return;
+        }
+        
+        let allMatches = [];
+        for (const file of matchFiles.slice(-3)) { // Last 3 days
+            try {
+                const res = await fetch(`archive/matches/${file}`);
+                const matchData = await res.json();
+                allMatches = allMatches.concat(matchData.recentResults || []);
+            } catch (e) {
+                console.log(`Could not load ${file}`);
+            }
+        }
+        
+        if (allMatches.length === 0) {
+            container.innerHTML = '<p class="no-archive">No completed matches yet. Check back after June 11!</p>';
+            return;
+        }
+        
+        container.innerHTML = `
+            <div class="archive-matches">
+                ${allMatches.map(match => `
+                    <div class="archive-match-card">
+                        <div class="match-date">${match.date}</div>
+                        <div class="match-teams">
+                            <span>${match.homeTeam} ${match.homeScore}</span>
+                            <span>vs</span>
+                            <span>${match.awayScore} ${match.awayTeam}</span>
+                        </div>
+                        <div class="match-venue">${match.venue}</div>
+                    </div>
+                `).join('')}
+            </div>
+        `;
+    } catch (error) {
+        container.innerHTML = '<p class="no-archive">Error loading match archive.</p>';
+    }
+}
+
+async function loadStandingsArchive(container) {
+    try {
+        const response = await fetch('archive/index.json');
+        const data = await response.json();
+        const standingsFiles = data.archiveIndex.standings || [];
+        
+        if (standingsFiles.length === 0) {
+            container.innerHTML = '<p class="no-archive">No standings archived yet. Standings will be archived after each matchday.</p>';
+            return;
+        }
+        
+        const latestFile = standingsFiles[standingsFiles.length - 1];
+        const res = await fetch(`archive/standings/${latestFile}`);
+        const standingsData = await res.json();
+        
+        container.innerHTML = `
+            <div class="archive-standings">
+                <p class="archive-date">Standings from: ${latestFile.replace('standings_', '').replace('.json', '')}</p>
+                <div class="standings-grid">
+                    ${Object.entries(standingsData.groups || {}).map(([group, data]) => `
+                        <div class="standings-group">
+                            <h4>Group ${group}</h4>
+                            <table>
+                                <thead>
+                                    <tr>
+                                        <th>Pos</th>
+                                        <th>Team</th>
+                                        <th>Pts</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    ${(data.teams || []).map((team, i) => `
+                                        <tr>
+                                            <td>${i + 1}</td>
+                                            <td>${team.name}</td>
+                                            <td>${team.points}</td>
+                                        </tr>
+                                    `).join('')}
+                                </tbody>
+                            </table>
+                        </div>
+                    `).join('')}
+                </div>
+            </div>
+        `;
+    } catch (error) {
+        container.innerHTML = '<p class="no-archive">Error loading standings archive.</p>';
+    }
+}
+
+async function loadDailyArchive(container) {
+    try {
+        const response = await fetch('archive/index.json');
+        const data = await response.json();
+        const dailyFiles = data.archiveIndex.daily || [];
+        
+        if (dailyFiles.length === 0) {
+            container.innerHTML = '<p class="no-archive">No daily summaries yet. Summaries will be created each day during the tournament.</p>';
+            return;
+        }
+        
+        container.innerHTML = `
+            <div class="archive-daily">
+                ${dailyFiles.slice().reverse().map(file => {
+                    const date = file.replace('daily_', '').replace('.json', '');
+                    return `
+                        <div class="daily-item">
+                            <h4>${date}</h4>
+                            <p><a href="archive/daily/${file}" target="_blank">View full summary</a></p>
+                        </div>
+                    `;
+                }).join('')}
+            </div>
+        `;
+    } catch (error) {
+        container.innerHTML = '<p class="no-archive">Error loading daily archive.</p>';
+    }
 }

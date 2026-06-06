@@ -41,6 +41,7 @@
                 <li><a href="#players" class="nav-link">Star Players</a></li>
                 <li><a href="#history" class="nav-link">History</a></li>
                 <li><a href="#news" class="nav-link">News</a></li>
+                <li><a href="#archive" class="nav-link">Archive</a></li>
                 <li><a href="#fanzone" class="nav-link">Fan Zone</a></li>
             </ul>
             <button class="hamburger" id="hamburger">
@@ -474,6 +475,36 @@
             <div class="news-meta">
                 <p>Powered by FIFA World Cup News Collector Agent</p>
                 <p>Last updated: <span id="newsLastUpdated">--</span></p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Archive Section -->
+    <section class="section archive-section" id="archive">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">History</span>
+                <h2 class="section-title">Tournament Archive</h2>
+                <p class="section-description">Browse past matches, news, and standings from the 2026 World Cup</p>
+            </div>
+            
+            <div class="archive-tabs">
+                <button class="archive-tab active" data-tab="archive-news">News Archive</button>
+                <button class="archive-tab" data-tab="archive-matches">Match Results</button>
+                <button class="archive-tab" data-tab="archive-standings">Standings History</button>
+                <button class="archive-tab" data-tab="archive-daily">Daily Summaries</button>
+            </div>
+            
+            <div class="archive-content" id="archiveContent">
+                <div class="archive-info">
+                    <p>Archive will be populated as the tournament progresses.</p>
+                    <p>Each day's data is preserved for historical reference.</p>
+                </div>
+            </div>
+            
+            <div class="archive-meta">
+                <p>Archive started: June 7, 2026</p>
+                <p>Total archived items: <span id="archiveCount">0</span></p>
             </div>
         </div>
     </section>

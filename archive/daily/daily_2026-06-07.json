@@ -1,0 +1,840 @@
+{
+  "date": "2026-06-07",
+  "tournament": "FIFA World Cup 2026",
+  "news": {
+    "lastUpdated": "2026-06-07T04:00:00Z",
+    "totalArticles": 15,
+    "articles": [
+      {
+        "id": 1,
+        "title": "Germany's Lennart Karl ruled out of World Cup with muscle injury",
+        "source": "BBC Sport",
+        "date": "2026-06-06",
+        "url": "https://www.bbc.com/sport/football/articles/cz020zdklmmo",
+        "category": "injuries",
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baf5/live/03caafb0-6132-11f1-8250-9b8ef0ee255e.jpg",
+        "description": "Germany forward Lennart Karl is ruled out of the 2026 World Cup with a thigh muscle bundle tear. Assan Ouédraogo called up as replacement."
+      },
+      {
+        "id": 2,
+        "title": "Iran players granted US visas before World Cup opener in Los Angeles",
+        "source": "Reuters",
+        "date": "2026-06-06",
+        "url": "https://www.jpost.com/international/article-898507",
+        "category": "breaking",
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de59/live/4501e9e0-614f-11f1-89a3-d1f559421220.jpg",
+        "description": "Iran's World Cup soccer players have been granted visas to enter the United States, ending weeks of uncertainty. Team moves training base to Tijuana, Mexico."
+      },
+      {
+        "id": 3,
+        "title": "FIFA reverses water bottle ban - fans can now bring sealed bottles",
+        "source": "Yahoo Sports",
+        "date": "2026-06-06",
+        "url": "https://sports.yahoo.com/soccer/breaking-news/article/fifa-reverses-course-again-will-permit-fans-to-take-1-water-bottle-each-to-world-cup-games-in-the-us-canada-002143067.html",
+        "category": "venues",
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b564/live/a0b5e3d0-6132-11f1-89a3-d1f559421220.jpg",
+        "description": "FIFA reverses course again, will permit fans to take 1 sealed water bottle each to World Cup games in the U.S. and Canada."
+      },
+      {
+        "id": 4,
+        "title": "Côte d'Ivoire stuns France 2-1 in World Cup warm-up friendly",
+        "source": "Yahoo Sports",
+        "date": "2026-06-06",
+        "url": "https://sports.yahoo.com/soccer/live/2026-world-cup-news-live-tracker-injuries-squads-storylines-and-updates-as-the-tournament-looms-200000653.html",
+        "category": "results",
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1551/live/8b4a4050-602d-11f1-8b8c-6d33e1d5abb6.jpg",
+        "description": "Côte d'Ivoire beat France for the first time in history with a stunning 2-1 win. Amad Diallo scored in the 83rd minute."
+      },
+      {
+        "id": 5,
+        "title": "Iraq draws with Spain after Merchas Doski's incredible strike",
+        "source": "Yahoo Sports",
+        "date": "2026-06-06",
+        "url": "https://sports.yahoo.com/soccer/live/2026-world-cup-news-live-tracker-injuries-squads-storylines-and-updates-as-the-tournament-looms-200000653.html",
+        "category": "results",
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daf9/live/b2a9ef40-60e3-11f1-82ca-1380a42b6773.jpg",
+        "description": "Spain and Iraq drew 1-1 after a stunning goal from Merchas Doski. Spain took the lead through Ferran Torres."
+      },
+      {
+        "id": 6,
+        "title": "Lionel Messi 'doing well' and could play vs Honduras",
+        "source": "Yahoo Sports",
+        "date": "2026-06-06",
+        "url": "https://sports.yahoo.com/soccer/live/2026-world-cup-news-live-tracker-injuries-squads-storylines-and-updates-as-the-tournament-looms-200000653.html",
+        "category": "injuries",
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a36/live/fb50dd20-6198-11f1-80e4-07386a28f8fd.jpg",
+        "description": "Argentina manager Lionel Scaloni says Messi is progressing well from hamstring injury and could play Saturday vs Honduras."
+      },
+      {
+        "id": 7,
+        "title": "New pre-match ceremony announced for World Cup 2026",
+        "source": "Yahoo Sports",
+        "date": "2026-06-06",
+        "url": "https://sports.yahoo.com/soccer/live/2026-world-cup-news-live-tracker-injuries-squads-storylines-and-updates-as-the-tournament-looms-200000653.html",
+        "category": "news",
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/11b21080-60b7-11f1-9b5a-5531746793c9.jpg",
+        "description": "FIFA announces new pre-match ceremony where all squad players gather around center circle for anthems, not just starting XI."
+      },
+      {
+        "id": 8,
+        "title": "Rule changes confirmed: VAR expanded, time-wasting crackdown",
+        "source": "NBC Sports",
+        "date": "2026-06-05",
+        "url": "https://www.nbcsports.com/soccer/news/rule-changes-confirmed-for-2026-world-cup-as-ifab-alters-var-cracks-down-on-subs-and-timeouts",
+        "category": "news",
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d050/live/82cae000-6006-11f1-88e1-8920f3bb90a6.jpg",
+        "description": "IFAB confirms rule changes for World Cup: VAR expanded to corner kicks, 10-second substitution limit, hydration breaks remain."
+      },
+      {
+        "id": 9,
+        "title": "Pochettino rules out Chris Richards vs Germany friendly",
+        "source": "Yahoo Sports",
+        "date": "2026-06-06",
+        "url": "https://sports.yahoo.com/soccer/live/2026-world-cup-news-live-tracker-injuries-squads-storylines-and-updates-as-the-tournament-looms-200000653.html",
+        "category": "injuries",
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a4a/live/b7dd7e80-618f-11f1-b927-d7e60ed16f70.jpg",
+        "description": "US manager Pochettino rules out center back Chris Richards for Saturday's friendly vs Germany due to ankle injury."
+      },
+      {
+        "id": 10,
+        "title": "Neymar to miss Brazil's warm-up match vs Egypt",
+        "source": "Yahoo Sports",
+        "date": "2026-06-06",
+        "url": "https://sports.yahoo.com/soccer/live/2026-world-cup-news-live-tracker-injuries-squads-storylines-and-updates-as-the-tournament-looms-200000653.html",
+        "category": "injuries",
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd9e/live/367c0230-60e5-11f1-82ca-1380a42b6773.jpg",
+        "description": "Neymar will miss Brazil's warm-up vs Egypt as he recovers from right calf injury. No return date set yet."
+      },
+      {
+        "id": 11,
+        "title": "Ticketing error allowed fans to buy World Cup tickets for $0",
+        "source": "Yahoo Sports",
+        "date": "2026-06-06",
+        "url": "https://sports.yahoo.com/soccer/live/2026-world-cup-news-live-tracker-injuries-squads-storylines-and-updates-as-the-tournament-looms-200000653.html",
+        "category": "tickets",
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/11b21080-60b7-11f1-9b5a-5531746793c9.jpg",
+        "description": "About 60 fans got World Cup tickets for free due to a system error. FIFA now demands they pay full price within 7 days."
+      },
+      {
+        "id": 12,
+        "title": "Paraguay star Julio Enciso injured in warm-up, World Cup in doubt",
+        "source": "BBC Sport",
+        "date": "2026-06-06",
+        "url": "https://www.bbc.com/sport/football/articles/cq812vlx992o",
+        "category": "injuries",
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a36/live/fb50dd20-6198-11f1-80e4-07386a28f8fd.jpg",
+        "description": "Paraguay forward Julio Enciso's World Cup is in doubt after he was stretchered off during a 4-0 friendly win over Nicaragua."
+      },
+      {
+        "id": 13,
+        "title": "Messi vs Ronaldo - who is the greatest? Legends debate",
+        "source": "BBC Sport",
+        "date": "2026-06-05",
+        "url": "https://www.bbc.com/sport/football/videos/c3v2gg2ldr5o",
+        "category": "analysis",
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d050/live/82cae000-6006-11f1-88e1-8920f3bb90a6.jpg",
+        "description": "Some of the greats of the game debate the long-asked question: Lionel Messi or Cristiano Ronaldo?"
+      },
+      {
+        "id": 14,
+        "title": "How thunderstorms could impact World Cup games in Texas",
+        "source": "BBC Sport",
+        "date": "2026-06-05",
+        "url": "https://www.bbc.com/sport/football/articles/cqjpjgqe42ro",
+        "category": "venues",
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daf9/live/b2a9ef40-60e3-11f1-82ca-1380a42b6773.jpg",
+        "description": "With several host cities in peak thunderstorm season there is a high chance games could be disrupted by extreme weather."
+      },
+      {
+        "id": 15,
+        "title": "USA vs Paraguay preview: Everything you need to know",
+        "source": "Goal.com",
+        "date": "2026-06-06",
+        "url": "https://www.goal.com/en-us/news/usa-paraguay-world-cup-preview/blt6d2779c2ca4a708f",
+        "category": "preview",
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1551/live/8b4a4050-602d-11f1-8b8c-6d33e1d5abb6.jpg",
+        "description": "USA face Paraguay in Group D opener at SoFi Stadium. Christian Pulisic leads USMNT against Gustavo Alfaro's defensive powerhouse."
+      }
+    ]
+  },
+  "matches": {
+    "lastUpdated": "2026-06-07T00:00:00Z",
+    "liveMatches": [],
+    "recentResults": [
+      {
+        "id": 1,
+        "date": "2026-06-11",
+        "time": "21:00",
+        "homeTeam": "Mexico",
+        "homeCode": "mx",
+        "homeScore": 0,
+        "awayTeam": "South Africa",
+        "awayCode": "za",
+        "awayScore": 0,
+        "venue": "Estadio Azteca",
+        "city": "Mexico City",
+        "status": "upcoming",
+        "label": "Opening Match"
+      }
+    ],
+    "upcomingMatches": [
+      {
+        "id": 2,
+        "date": "2026-06-11",
+        "time": "17:00",
+        "homeTeam": "USA",
+        "homeCode": "us",
+        "homeScore": null,
+        "awayTeam": "TBD",
+        "awayCode": "un",
+        "awayScore": null,
+        "venue": "SoFi Stadium",
+        "city": "Los Angeles",
+        "status": "upcoming"
+      },
+      {
+        "id": 3,
+        "date": "2026-06-11",
+        "time": "19:00",
+        "homeTeam": "Canada",
+        "homeCode": "ca",
+        "homeScore": null,
+        "awayTeam": "TBD",
+        "awayCode": "un",
+        "awayScore": null,
+        "venue": "BMO Field",
+        "city": "Toronto",
+        "status": "upcoming"
+      }
+    ]
+  },
+  "standings": {
+    "lastUpdated": "2026-06-07T00:00:00Z",
+    "groups": {
+      "A": {
+        "teams": [
+          {
+            "name": "Mexico",
+            "code": "mx",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          }
+        ]
+      },
+      "B": {
+        "teams": [
+          {
+            "name": "USA",
+            "code": "us",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          }
+        ]
+      },
+      "C": {
+        "teams": [
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          }
+        ]
+      },
+      "D": {
+        "teams": [
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          }
+        ]
+      },
+      "E": {
+        "teams": [
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          }
+        ]
+      },
+      "F": {
+        "teams": [
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          }
+        ]
+      },
+      "G": {
+        "teams": [
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          }
+        ]
+      },
+      "H": {
+        "teams": [
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          }
+        ]
+      },
+      "I": {
+        "teams": [
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          }
+        ]
+      },
+      "J": {
+        "teams": [
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          }
+        ]
+      },
+      "K": {
+        "teams": [
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          }
+        ]
+      },
+      "L": {
+        "teams": [
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          },
+          {
+            "name": "TBD",
+            "code": "un",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "gf": 0,
+            "ga": 0,
+            "gd": 0,
+            "points": 0
+          }
+        ]
+      }
+    }
+  }
+}

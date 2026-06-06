@@ -1,0 +1,27 @@
+{
+  "lastUpdated": "2026-06-07T04:52:40.580004Z",
+  "tournament": "FIFA World Cup 2026",
+  "hostCountries": [
+    "USA",
+    "Canada",
+    "Mexico"
+  ],
+  "startDate": "2026-06-11",
+  "endDate": "2026-07-19",
+  "totalTeams": 48,
+  "totalMatches": 104,
+  "archiveIndex": {
+    "news": [
+      "news_2026-06-07.json"
+    ],
+    "matches": [
+      "matches_2026-06-07.json"
+    ],
+    "standings": [
+      "standings_2026-06-07.json"
+    ],
+    "daily": [
+      "daily_2026-06-07.json"
+    ]
+  }
+}
