@@ -218,6 +218,14 @@ let filteredNews = [];
 let newsToShow = 6;
 let currentNewsCategory = 'all';
 
+// ===== Scores Data =====
+let scoresData = null;
+let currentScoreTab = 'live';
+
+// ===== Standings Data =====
+let standingsData = null;
+let currentGroup = 'A';
+
 // ===== Initialize =====
 document.addEventListener('DOMContentLoaded', () => {
     initNavbar();
@@ -232,7 +240,12 @@ document.addEventListener('DOMContentLoaded', () => {
     initPolls();
     initSchedule();
     initNews();
+    initScores();
+    initStandings();
     initScrollAnimations();
+    
+    // Auto-refresh scores every 60 seconds
+    setInterval(refreshScores, 60000);
 });
 
 // ===== Navbar =====
@@ -934,4 +947,173 @@ function initLoadMoreNews() {
             renderNews();
         });
     }
+}
+
+// ===== Scores Section =====
+async function initScores() {
+    try {
+        const response = await fetch('scores.json');
+        scoresData = await response.json();
+        
+        // Update last updated time
+        const lastUpdated = document.getElementById('scoresLastUpdated');
+        if (lastUpdated) {
+            lastUpdated.textContent = new Date(scoresData.lastUpdated).toLocaleString();
+        }
+        
+        renderScores();
+        initScoreTabs();
+    } catch (error) {
+        console.log('Scores data not available');
+    }
+}
+
+function initScoreTabs() {
+    document.querySelectorAll('.score-tab').forEach(tab => {
+        tab.addEventListener('click', () => {
+            document.querySelectorAll('.score-tab').forEach(t => t.classList.remove('active'));
+            tab.classList.add('active');
+            currentScoreTab = tab.dataset.tab;
+            renderScores();
+        });
+    });
+}
+
+function renderScores() {
+    const content = document.getElementById('scoresContent');
+    if (!content || !scoresData) return;
+    
+    let matches = [];
+    
+    switch (currentScoreTab) {
+        case 'live':
+            matches = scoresData.liveMatches || [];
+            break;
+        case 'results':
+            matches = scoresData.recentResults || [];
+            break;
+        case 'upcoming':
+            matches = scoresData.upcomingMatches || [];
+            break;
+    }
+    
+    if (matches.length === 0) {
+        content.innerHTML = `<p class="no-scores">No ${currentScoreTab} matches at the moment.</p>`;
+        return;
+    }
+    
+    content.innerHTML = matches.map(match => `
+        <div class="score-card ${match.status === 'live' ? 'live-match' : ''}">
+            <div class="score-status">
+                <span class="status-badge ${match.status}">${match.status.toUpperCase()}</span>
+                ${match.label ? `<span class="match-label">${match.label}</span>` : ''}
+            </div>
+            <div class="score-teams">
+                <div class="score-team">
+                    <img src="https://flagcdn.com/w80/${match.homeCode}.png" alt="${match.homeTeam}" class="score-flag" onerror="this.src='https://flagcdn.com/w80/un.png'">
+                    <span class="team-name">${match.homeTeam}</span>
+                    <span class="score">${match.homeScore !== null ? match.homeScore : '-'}</span>
+                </div>
+                <span class="score-vs">VS</span>
+                <div class="score-team">
+                    <img src="https://flagcdn.com/w80/${match.awayCode}.png" alt="${match.awayTeam}" class="score-flag" onerror="this.src='https://flagcdn.com/w80/un.png'">
+                    <span class="team-name">${match.awayTeam}</span>
+                    <span class="score">${match.awayScore !== null ? match.awayScore : '-'}</span>
+                </div>
+            </div>
+            <div class="score-venue">${match.venue}, ${match.city}</div>
+            <div class="score-date">${match.date} • ${match.time}</div>
+        </div>
+    `).join('');
+}
+
+async function refreshScores() {
+    try {
+        const response = await fetch('scores.json?' + Date.now());
+        scoresData = await response.json();
+        
+        const lastUpdated = document.getElementById('scoresLastUpdated');
+        if (lastUpdated) {
+            lastUpdated.textContent = new Date(scoresData.lastUpdated).toLocaleString();
+        }
+        
+        renderScores();
+    } catch (error) {
+        console.log('Could not refresh scores');
+    }
+}
+
+// ===== Standings Section =====
+async function initStandings() {
+    try {
+        const response = await fetch('standings.json');
+        standingsData = await response.json();
+        
+        // Update last updated time
+        const lastUpdated = document.getElementById('standingsLastUpdated');
+        if (lastUpdated) {
+            lastUpdated.textContent = new Date(standingsData.lastUpdated).toLocaleString();
+        }
+        
+        renderStandings();
+        initStandingsTabs();
+    } catch (error) {
+        console.log('Standings data not available');
+    }
+}
+
+function initStandingsTabs() {
+    document.querySelectorAll('.standings-tab').forEach(tab => {
+        tab.addEventListener('click', () => {
+            document.querySelectorAll('.standings-tab').forEach(t => t.classList.remove('active'));
+            tab.classList.add('active');
+            currentGroup = tab.dataset.group;
+            renderStandings();
+        });
+    });
+}
+
+function renderStandings() {
+    const content = document.getElementById('standingsContent');
+    if (!content || !standingsData || !standingsData.groups[currentGroup]) return;
+    
+    const group = standingsData.groups[currentGroup];
+    
+    content.innerHTML = `
+        <table class="standings-table-inner">
+            <thead>
+                <tr>
+                    <th>Pos</th>
+                    <th>Team</th>
+                    <th>P</th>
+                    <th>W</th>
+                    <th>D</th>
+                    <th>L</th>
+                    <th>GF</th>
+                    <th>GA</th>
+                    <th>GD</th>
+                    <th>Pts</th>
+                </tr>
+            </thead>
+            <tbody>
+                ${group.teams.map((team, index) => `
+                    <tr class="${index < 2 ? 'qualified' : ''}">
+                        <td>${index + 1}</td>
+                        <td class="team-cell">
+                            <img src="https://flagcdn.com/w40/${team.code}.png" alt="${team.name}" class="standing-flag" onerror="this.src='https://flagcdn.com/w40/un.png'">
+                            <span>${team.name}</span>
+                        </td>
+                        <td>${team.played}</td>
+                        <td>${team.won}</td>
+                        <td>${team.drawn}</td>
+                        <td>${team.lost}</td>
+                        <td>${team.gf}</td>
+                        <td>${team.ga}</td>
+                        <td>${team.gd > 0 ? '+' : ''}${team.gd}</td>
+                        <td class="points">${team.points}</td>
+                    </tr>
+                `).join('')}
+            </tbody>
+        </table>
+    `;
 }

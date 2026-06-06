@@ -36,6 +36,8 @@
                 <li><a href="#home" class="nav-link active">Home</a></li>
                 <li><a href="#teams" class="nav-link">Teams</a></li>
                 <li><a href="#schedule" class="nav-link">Schedule</a></li>
+                <li><a href="#scores" class="nav-link">Scores</a></li>
+                <li><a href="#standings" class="nav-link">Standings</a></li>
                 <li><a href="#players" class="nav-link">Star Players</a></li>
                 <li><a href="#history" class="nav-link">History</a></li>
                 <li><a href="#news" class="nav-link">News</a></li>
@@ -258,6 +260,66 @@
 
             <div class="schedule-content" id="scheduleContent">
                 <!-- Fixtures loaded dynamically by JavaScript -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Live Scores Section -->
+    <section class="section scores-section" id="scores">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">Live</span>
+                <h2 class="section-title">Scores & Results</h2>
+                <p class="section-description">Latest match results and upcoming games</p>
+            </div>
+            
+            <div class="scores-tabs">
+                <button class="score-tab active" data-tab="live">Live</button>
+                <button class="score-tab" data-tab="results">Results</button>
+                <button class="score-tab" data-tab="upcoming">Upcoming</button>
+            </div>
+            
+            <div class="scores-content" id="scoresContent">
+                <p class="no-scores">No live matches right now. Tournament starts June 11!</p>
+            </div>
+            
+            <div class="scores-meta">
+                <p>Last updated: <span id="scoresLastUpdated">-</span></p>
+                <button class="btn btn-secondary btn-sm" onclick="refreshScores()">Refresh</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Group Standings Section -->
+    <section class="section standings-section" id="standings">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">Groups</span>
+                <h2 class="section-title">Group Standings</h2>
+                <p class="section-description">Follow your team's progress</p>
+            </div>
+            
+            <div class="standings-tabs" id="standingsTabs">
+                <button class="standings-tab active" data-group="A">A</button>
+                <button class="standings-tab" data-group="B">B</button>
+                <button class="standings-tab" data-group="C">C</button>
+                <button class="standings-tab" data-group="D">D</button>
+                <button class="standings-tab" data-group="E">E</button>
+                <button class="standings-tab" data-group="F">F</button>
+                <button class="standings-tab" data-group="G">G</button>
+                <button class="standings-tab" data-group="H">H</button>
+                <button class="standings-tab" data-group="I">I</button>
+                <button class="standings-tab" data-group="J">J</button>
+                <button class="standings-tab" data-group="K">K</button>
+                <button class="standings-tab" data-group="L">L</button>
+            </div>
+            
+            <div class="standings-table" id="standingsContent">
+                <p class="no-standings">Standings will appear when matches begin.</p>
+            </div>
+            
+            <div class="standings-meta">
+                <p>Last updated: <span id="standingsLastUpdated">-</span></p>
             </div>
         </div>
     </section>
