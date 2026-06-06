@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FIFA World Cup 2026 - United North America</title>
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://fattobiy30.github.io/worldcup/">
+    <meta property="og:title" content="FIFA World Cup 2026 - United North America">
+    <meta property="og:description" content="Experience the greatest football tournament on Earth! FIFA World Cup 2026 across USA, Canada & Mexico. Follow all the action!">
+    <meta property="og:image" content="https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=1200&h=630&fit=crop">
+    
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="FIFA World Cup 2026">
+    <meta name="twitter:description" content="The greatest football tournament comes to North America!">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <a href="#" class="nav-logo">
+                <span class="logo-fifa">FIFA</span>
+                <span class="logo-world">WORLD CUP</span>
+                <span class="logo-year">2026</span>
+            </a>
+            <ul class="nav-menu">
+                <li><a href="#home" class="nav-link active">Home</a></li>
+                <li><a href="#teams" class="nav-link">Teams</a></li>
+                <li><a href="#schedule" class="nav-link">Schedule</a></li>
+                <li><a href="#players" class="nav-link">Star Players</a></li>
+                <li><a href="#history" class="nav-link">History</a></li>
+                <li><a href="#news" class="nav-link">News</a></li>
+                <li><a href="#fanzone" class="nav-link">Fan Zone</a></li>
+            </ul>
+            <button class="hamburger" id="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero" id="home">
+        <div class="hero-background">
+            <div class="particles" id="particles"></div>
+        </div>
+        <div class="hero-content">
+            <div class="hero-badge">UNITED 2026</div>
+            <h1 class="hero-title">
+                <span class="title-line">FIFA</span>
+                <span class="title-line title-large">WORLD CUP</span>
+                <span class="title-line title-year">2026</span>
+            </h1>
+            <p class="hero-subtitle">48 Nations. 3 Countries. 1 Champion.</p>
+            
+            <div class="host-flags-hero">
+                <img src="https://flagcdn.com/w160/us.png" alt="USA" class="hero-flag">
+                <img src="https://flagcdn.com/w160/mx.png" alt="Mexico" class="hero-flag">
+                <img src="https://flagcdn.com/w160/ca.png" alt="Canada" class="hero-flag">
+            </div>
+            
+            <div class="countdown-container">
+                <div class="countdown-label">Tournament Begins In</div>
+                <div class="countdown" id="countdown">
+                    <div class="countdown-item">
+                        <span class="countdown-value" id="days">000</span>
+                        <span class="countdown-label-small">Days</span>
+                    </div>
+                    <div class="countdown-separator">:</div>
+                    <div class="countdown-item">
+                        <span class="countdown-value" id="hours">00</span>
+                        <span class="countdown-label-small">Hours</span>
+                    </div>
+                    <div class="countdown-separator">:</div>
+                    <div class="countdown-item">
+                        <span class="countdown-value" id="minutes">00</span>
+                        <span class="countdown-label-small">Minutes</span>
+                    </div>
+                    <div class="countdown-separator">:</div>
+                    <div class="countdown-item">
+                        <span class="countdown-value" id="seconds">00</span>
+                        <span class="countdown-label-small">Seconds</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="hero-stats">
+                <div class="stat-item">
+                    <span class="stat-number">48</span>
+                    <span class="stat-label">Teams</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number">16</span>
+                    <span class="stat-label">Host Cities</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number">104</span>
+                    <span class="stat-label">Matches</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number">3</span>
+                    <span class="stat-label">Nations</span>
+                </div>
+            </div>
+
+            <div class="hero-cta">
+                <a href="#teams" class="btn btn-primary">Explore Teams</a>
+                <button class="btn btn-secondary" onclick="shareOnFacebook()">
+                    <svg class="btn-icon" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
+                    </svg>
+                    Share on Facebook
+                </button>
+            </div>
+        </div>
+        <div class="scroll-indicator">
+            <span>Scroll to Explore</span>
+            <div class="scroll-arrow"></div>
+        </div>
+    </section>
+
+    <!-- Host Cities Section -->
+    <section class="section host-cities" id="cities">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">Venues</span>
+                <h2 class="section-title">16 Host Cities</h2>
+                <p class="section-description">Three nations united to host the greatest football event</p>
+            </div>
+            
+            <div class="cities-grid">
+                <div class="city-card country-usa">
+                    <img src="https://flagcdn.com/w160/us.png" alt="USA" class="city-flag-img">
+                    <h3 class="city-name">United States</h3>
+                    <div class="city-venues">
+                        <span class="venue">MetLife Stadium - New York/New Jersey</span>
+                        <span class="venue">SoFi Stadium - Los Angeles</span>
+                        <span class="venue">AT&T Stadium - Dallas</span>
+                        <span class="venue">Hard Rock Stadium - Miami</span>
+                        <span class="venue">Lumen Field - Seattle</span>
+                        <span class="venue">NRG Stadium - Houston</span>
+                        <span class="venue">Lincoln Financial Field - Philadelphia</span>
+                        <span class="venue">Levi's Stadium - San Francisco</span>
+                        <span class="venue">Mercedes-Benz Stadium - Atlanta</span>
+                        <span class="venue">Gillette Stadium - Boston</span>
+                    </div>
+                </div>
+                
+                <div class="city-card country-mexico">
+                    <img src="https://flagcdn.com/w160/mx.png" alt="Mexico" class="city-flag-img">
+                    <h3 class="city-name">Mexico</h3>
+                    <div class="city-venues">
+                        <span class="venue">Estadio Azteca - Mexico City</span>
+                        <span class="venue">Estadio BBVA - Monterrey</span>
+                        <span class="venue">Estadio Akron - Guadalajara</span>
+                    </div>
+                </div>
+                
+                <div class="city-card country-canada">
+                    <img src="https://flagcdn.com/w160/ca.png" alt="Canada" class="city-flag-img">
+                    <h3 class="city-name">Canada</h3>
+                    <div class="city-venues">
+                        <span class="venue">BMO Field - Toronto</span>
+                        <span class="venue">BC Place - Vancouver</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Teams Section -->
+    <section class="section teams-section" id="teams">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">Qualified</span>
+                <h2 class="section-title">48 Nations</h2>
+                <p class="section-description">The world's best teams competing for glory</p>
+            </div>
+            
+            <div class="team-filters">
+                <button class="filter-btn active" data-filter="all">All Teams</button>
+                <button class="filter-btn" data-filter="europe">Europe (UEFA)</button>
+                <button class="filter-btn" data-filter="south-america">South America (CONMEBOL)</button>
+                <button class="filter-btn" data-filter="asia">Asia (AFC)</button>
+                <button class="filter-btn" data-filter="africa">Africa (CAF)</button>
+                <button class="filter-btn" data-filter="concacaf">CONCACAF</button>
+                <button class="filter-btn" data-filter="oceania">Oceania (OFC)</button>
+            </div>
+
+            <div class="teams-grid" id="teamsGrid">
+                <!-- Teams populated by JavaScript with flag images -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Schedule Section -->
+    <section class="section schedule-section" id="schedule">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">Fixtures</span>
+                <h2 class="section-title">Match Schedule</h2>
+                <p class="section-description">Don't miss a single moment of the action</p>
+            </div>
+
+            <div class="schedule-tabs">
+                <button class="tab-btn active" data-tab="group">Group Stage</button>
+                <button class="tab-btn" data-tab="round16">Round of 16</button>
+                <button class="tab-btn" data-tab="quarters">Quarter Finals</button>
+                <button class="tab-btn" data-tab="semis">Semi Finals</button>
+                <button class="tab-btn" data-tab="final">Final</button>
+            </div>
+
+            <div class="schedule-content" id="scheduleContent">
+                <div class="schedule-card opening">
+                    <div class="match-date">June 11, 2026</div>
+                    <div class="match-teams">
+                        <div class="team">
+                            <img src="https://flagcdn.com/w160/mx.png" alt="Mexico" class="match-flag">
+                            <span class="team-name">Mexico</span>
+                        </div>
+                        <span class="match-vs">VS</span>
+                        <div class="team">
+                            <div class="match-flag tbd">TBD</div>
+                            <span class="team-name">Qualifier</span>
+                        </div>
+                    </div>
+                    <div class="match-venue">Estadio Azteca, Mexico City</div>
+                    <div class="match-time">Opening Match</div>
+                </div>
+
+                <div class="schedule-card">
+                    <div class="match-date">June 12, 2026</div>
+                    <div class="match-teams">
+                        <div class="team">
+                            <img src="https://flagcdn.com/w160/us.png" alt="USA" class="match-flag">
+                            <span class="team-name">USA</span>
+                        </div>
+                        <span class="match-vs">VS</span>
+                        <div class="team">
+                            <div class="match-flag tbd">TBD</div>
+                            <span class="team-name">Qualifier</span>
+                        </div>
+                    </div>
+                    <div class="match-venue">SoFi Stadium, Los Angeles</div>
+                    <div class="match-time">Host Nation Opener</div>
+                </div>
+
+                <div class="schedule-card">
+                    <div class="match-date">June 12, 2026</div>
+                    <div class="match-teams">
+                        <div class="team">
+                            <img src="https://flagcdn.com/w160/ca.png" alt="Canada" class="match-flag">
+                            <span class="team-name">Canada</span>
+                        </div>
+                        <span class="match-vs">VS</span>
+                        <div class="team">
+                            <div class="match-flag tbd">TBD</div>
+                            <span class="team-name">Qualifier</span>
+                        </div>
+                    </div>
+                    <div class="match-venue">BMO Field, Toronto</div>
+                    <div class="match-time">Host Nation Opener</div>
+                </div>
+
+                <div class="schedule-card final-match">
+                    <div class="match-date">July 19, 2026</div>
+                    <div class="match-teams">
+                        <div class="team">
+                            <div class="match-flag trophy">🏆</div>
+                            <span class="team-name">TBD</span>
+                        </div>
+                        <span class="match-vs">VS</span>
+                        <div class="team">
+                            <div class="match-flag trophy">🏆</div>
+                            <span class="team-name">TBD</span>
+                        </div>
+                    </div>
+                    <div class="match-venue">MetLife Stadium, New York/New Jersey</div>
+                    <div class="match-time">WORLD CUP FINAL</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Star Players Section -->
+    <section class="section players-section" id="players">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">Stars</span>
+                <h2 class="section-title">Players to Watch</h2>
+                <p class="section-description">The world's most talented footballers</p>
+            </div>
+
+            <div class="players-carousel" id="playersCarousel">
+                <!-- Players populated by JavaScript -->
+            </div>
+
+            <div class="carousel-controls">
+                <button class="carousel-btn prev" id="prevBtn">&#8592;</button>
+                <button class="carousel-btn next" id="nextBtn">&#8594;</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- History Section -->
+    <section class="section history-section" id="history">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">Legacy</span>
+                <h2 class="section-title">World Cup History</h2>
+                <p class="section-description">A journey through the greatest moments in football</p>
+            </div>
+
+            <div class="timeline">
+                <div class="timeline-item">
+                    <div class="timeline-year">1930</div>
+                    <div class="timeline-content">
+                        <h3>Uruguay 1930</h3>
+                        <p>The first-ever FIFA World Cup. Uruguay defeats Argentina 4-2 in the final to become the first champions.</p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-year">1950</div>
+                    <div class="timeline-content">
+                        <h3>Brazil 1950</h3>
+                        <p>The "Maracanazo" - Uruguay shocks Brazil 2-1 in the final match at Maracana Stadium.</p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-year">1958</div>
+                    <div class="timeline-content">
+                        <h3>Sweden 1958</h3>
+                        <p>17-year-old Pele announces himself to the world, scoring twice in the final as Brazil wins.</p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-year">1966</div>
+                    <div class="timeline-content">
+                        <h3>England 1966</h3>
+                        <p>"They think it's all over... it is now!" Geoff Hurst's hat-trick wins it for England at home.</p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-year">1970</div>
+                    <div class="timeline-content">
+                        <h3>Mexico 1970</h3>
+                        <p>Brazil's beautiful football. Pele, Jairzinho, Tostao - the greatest team ever assembled.</p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-year">1986</div>
+                    <div class="timeline-content">
+                        <h3>Mexico 1986</h3>
+                        <p>"Hand of God" and "Goal of the Century" - Diego Maradona's legendary tournament.</p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-year">1998</div>
+                    <div class="timeline-content">
+                        <h3>France 1998</h3>
+                        <p>Zinedine Zidane scores twice in the final as France wins on home soil.</p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-year">2002</div>
+                    <div class="timeline-content">
+                        <h3>Korea/Japan 2002</h3>
+                        <p>First World Cup in Asia. Ronaldo's redemption as Brazil wins fifth title.</p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-year">2010</div>
+                    <div class="timeline-content">
+                        <h3>South Africa 2010</h3>
+                        <p>"Waka Waka" - Africa hosts for the first time. Spain's tiki-taka prevails.</p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-year">2014</div>
+                    <div class="timeline-content">
+                        <h3>Brazil 2014</h3>
+                        <p>Germany's 7-1 demolition of Brazil. The most shocking World Cup match ever.</p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-year">2022</div>
+                    <div class="timeline-content">
+                        <h3>Qatar 2022</h3>
+                        <p>The greatest final ever. Messi vs Mbappe. Argentina wins in penalties. Football at its peak.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- News Section -->
+    <section class="section news-section" id="news">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">Latest</span>
+                <h2 class="section-title">World Cup News</h2>
+                <p class="section-description">Stay updated with the latest from the tournament</p>
+            </div>
+
+            <div class="news-filters">
+                <button class="news-filter-btn active" data-category="all">All News</button>
+                <button class="news-filter-btn" data-category="breaking">Breaking</button>
+                <button class="news-filter-btn" data-category="transfers">Transfers</button>
+                <button class="news-filter-btn" data-category="injuries">Injuries</button>
+                <button class="news-filter-btn" data-category="venues">Venues</button>
+                <button class="news-filter-btn" data-category="tickets">Tickets</button>
+            </div>
+
+            <div class="news-grid" id="newsGrid">
+                <!-- News articles loaded dynamically -->
+            </div>
+
+            <div class="news-load-more">
+                <button class="btn btn-primary" id="loadMoreNews">Load More News</button>
+            </div>
+
+            <div class="news-meta">
+                <p>Powered by FIFA World Cup News Collector Agent</p>
+                <p>Last updated: <span id="newsLastUpdated">--</span></p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Fan Zone Section -->
+    <section class="section fanzone-section" id="fanzone">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">Community</span>
+                <h2 class="section-title">Fan Zone</h2>
+                <p class="section-description">Join the conversation and share your passion</p>
+            </div>
+
+            <div class="fanzone-grid">
+                <div class="fan-card poll-card">
+                    <h3>Who will win the 2026 World Cup?</h3>
+                    <div class="poll-options">
+                        <button class="poll-btn" data-votes="245">
+                            <img src="https://flagcdn.com/w40/br.png" alt="Brazil" class="poll-flag"> Brazil <span class="vote-count">245</span>
+                        </button>
+                        <button class="poll-btn" data-votes="312">
+                            <img src="https://flagcdn.com/w40/fr.png" alt="France" class="poll-flag"> France <span class="vote-count">312</span>
+                        </button>
+                        <button class="poll-btn" data-votes="198">
+                            <img src="https://flagcdn.com/w40/ar.png" alt="Argentina" class="poll-flag"> Argentina <span class="vote-count">198</span>
+                        </button>
+                        <button class="poll-btn" data-votes="156">
+                            <img src="https://flagcdn.com/w40/gb-eng.png" alt="England" class="poll-flag"> England <span class="vote-count">156</span>
+                        </button>
+                        <button class="poll-btn" data-votes="89">
+                            <img src="https://flagcdn.com/w40/us.png" alt="USA" class="poll-flag"> USA <span class="vote-count">89</span>
+                        </button>
+                    </div>
+                </div>
+
+                <div class="fan-card social-card">
+                    <h3>Share Your Excitement</h3>
+                    <p>Tag us in your World Cup predictions and fan content!</p>
+                    <div class="social-buttons">
+                        <button class="social-btn facebook" onclick="shareOnFacebook()">
+                            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+                            Share on Facebook
+                        </button>
+                        <button class="social-btn twitter" onclick="shareOnTwitter()">
+                            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg>
+                            Share on Twitter
+                        </button>
+                    </div>
+                </div>
+
+                <div class="fan-card quiz-card">
+                    <h3>Test Your Knowledge</h3>
+                    <p>How well do you know the World Cup?</p>
+                    <div class="quiz-question" id="quizQuestion">
+                        <p class="question">Which country has won the most World Cup titles?</p>
+                        <div class="quiz-options">
+                            <button class="quiz-btn" data-correct="false">Germany (4)</button>
+                            <button class="quiz-btn" data-correct="true">Brazil (5)</button>
+                            <button class="quiz-btn" data-correct="false">Italy (4)</button>
+                            <button class="quiz-btn" data-correct="false">Argentina (3)</button>
+                        </div>
+                    </div>
+                    <button class="btn btn-primary" id="nextQuestion">Next Question &#8594;</button>
+                </div>
+
+                <div class="fan-card facts-card">
+                    <h3>Did You Know?</h3>
+                    <div class="fact-slideshow" id="factSlideshow">
+                        <div class="fact active">The 2026 World Cup will be the first with 48 teams, up from 32.</div>
+                        <div class="fact">It will also be the first hosted by three countries simultaneously.</div>
+                        <div class="fact">The tournament will feature 104 matches, the most ever in World Cup history.</div>
+                        <div class="fact">16 venues across the USA, Canada, and Mexico will host matches.</div>
+                        <div class="fact">The final will be held at MetLife Stadium in New York/New Jersey.</div>
+                    </div>
+                    <div class="fact-dots" id="factDots">
+                        <span class="dot active"></span>
+                        <span class="dot"></span>
+                        <span class="dot"></span>
+                        <span class="dot"></span>
+                        <span class="dot"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Newsletter Section -->
+    <section class="section newsletter-section">
+        <div class="container">
+            <div class="newsletter-content">
+                <h2>Stay Updated on All Things World Cup</h2>
+                <p>Get the latest news, schedules, and exclusive content delivered to your inbox</p>
+                <form class="newsletter-form" id="newsletterForm">
+                    <input type="email" placeholder="Enter your email" required>
+                    <button type="submit" class="btn btn-primary">Subscribe</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-col">
+                    <h3>FIFA World Cup 2026</h3>
+                    <p>The greatest football tournament on Earth comes to North America. United as one, celebrating the beautiful game.</p>
+                    <div class="footer-flags">
+                        <img src="https://flagcdn.com/w80/us.png" alt="USA" class="footer-flag">
+                        <img src="https://flagcdn.com/w80/mx.png" alt="Mexico" class="footer-flag">
+                        <img src="https://flagcdn.com/w80/ca.png" alt="Canada" class="footer-flag">
+                    </div>
+                    <div class="social-links">
+                        <a href="#" class="social-link" onclick="shareOnFacebook()">Facebook</a>
+                        <a href="#" class="social-link">Twitter</a>
+                        <a href="#" class="social-link">Instagram</a>
+                        <a href="#" class="social-link">YouTube</a>
+                    </div>
+                </div>
+                <div class="footer-col">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="#teams">Teams</a></li>
+                        <li><a href="#schedule">Schedule</a></li>
+                        <li><a href="#players">Star Players</a></li>
+                        <li><a href="#history">History</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Host Cities</h4>
+                    <ul>
+                        <li><a href="#cities">New York</a></li>
+                        <li><a href="#cities">Los Angeles</a></li>
+                        <li><a href="#cities">Mexico City</a></li>
+                        <li><a href="#cities">Toronto</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Connect With Us</h4>
+                    <p>Follow us for the latest updates and exclusive content.</p>
+                    <button class="btn btn-primary" onclick="shareOnFacebook()">Share This Page</button>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 FIFA World Cup. Made with love for football fans everywhere.</p>
+                <p>This is a fan-made page. Not officially affiliated with FIFA.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

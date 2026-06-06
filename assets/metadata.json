@@ -1,0 +1,583 @@
+{
+  "tournament": "FIFA World Cup 2026",
+  "edition": "23rd FIFA World Cup",
+  "hostCountries": ["USA", "Mexico", "Canada"],
+  "startDate": "2026-06-11",
+  "endDate": "2026-07-19",
+  "teams": 48,
+  "matches": 104,
+  "venues": 16,
+  "flagSource": "https://flagcdn.com",
+  "playerImageSource": "https://img.a.transfermarkt.technology",
+  "countries": [
+    {
+      "name": "France",
+      "code": "fr",
+      "confederation": "UEFA",
+      "flag": "https://flagcdn.com/w160/fr.png",
+      "hostCity": null
+    },
+    {
+      "name": "England",
+      "code": "gb-eng",
+      "confederation": "UEFA",
+      "flag": "https://flagcdn.com/w160/gb-eng.png",
+      "hostCity": null
+    },
+    {
+      "name": "Germany",
+      "code": "de",
+      "confederation": "UEFA",
+      "flag": "https://flagcdn.com/w160/de.png",
+      "hostCity": null
+    },
+    {
+      "name": "Spain",
+      "code": "es",
+      "confederation": "UEFA",
+      "flag": "https://flagcdn.com/w160/es.png",
+      "hostCity": null
+    },
+    {
+      "name": "Portugal",
+      "code": "pt",
+      "confederation": "UEFA",
+      "flag": "https://flagcdn.com/w160/pt.png",
+      "hostCity": null
+    },
+    {
+      "name": "Netherlands",
+      "code": "nl",
+      "confederation": "UEFA",
+      "flag": "https://flagcdn.com/w160/nl.png",
+      "hostCity": null
+    },
+    {
+      "name": "Belgium",
+      "code": "be",
+      "confederation": "UEFA",
+      "flag": "https://flagcdn.com/w160/be.png",
+      "hostCity": null
+    },
+    {
+      "name": "Croatia",
+      "code": "hr",
+      "confederation": "UEFA",
+      "flag": "https://flagcdn.com/w160/hr.png",
+      "hostCity": null
+    },
+    {
+      "name": "Italy",
+      "code": "it",
+      "confederation": "UEFA",
+      "flag": "https://flagcdn.com/w160/it.png",
+      "hostCity": null
+    },
+    {
+      "name": "Switzerland",
+      "code": "ch",
+      "confederation": "UEFA",
+      "flag": "https://flagcdn.com/w160/ch.png",
+      "hostCity": null
+    },
+    {
+      "name": "Denmark",
+      "code": "dk",
+      "confederation": "UEFA",
+      "flag": "https://flagcdn.com/w160/dk.png",
+      "hostCity": null
+    },
+    {
+      "name": "Poland",
+      "code": "pl",
+      "confederation": "UEFA",
+      "flag": "https://flagcdn.com/w160/pl.png",
+      "hostCity": null
+    },
+    {
+      "name": "Serbia",
+      "code": "rs",
+      "confederation": "UEFA",
+      "flag": "https://flagcdn.com/w160/rs.png",
+      "hostCity": null
+    },
+    {
+      "name": "Ukraine",
+      "code": "ua",
+      "confederation": "UEFA",
+      "flag": "https://flagcdn.com/w160/ua.png",
+      "hostCity": null
+    },
+    {
+      "name": "Czech Republic",
+      "code": "cz",
+      "confederation": "UEFA",
+      "flag": "https://flagcdn.com/w160/cz.png",
+      "hostCity": null
+    },
+    {
+      "name": "Austria",
+      "code": "at",
+      "confederation": "UEFA",
+      "flag": "https://flagcdn.com/w160/at.png",
+      "hostCity": null
+    },
+    {
+      "name": "Scotland",
+      "code": "gb-sct",
+      "confederation": "UEFA",
+      "flag": "https://flagcdn.com/w160/gb-sct.png",
+      "hostCity": null
+    },
+    {
+      "name": "Norway",
+      "code": "no",
+      "confederation": "UEFA",
+      "flag": "https://flagcdn.com/w160/no.png",
+      "hostCity": null
+    },
+    {
+      "name": "Sweden",
+      "code": "se",
+      "confederation": "UEFA",
+      "flag": "https://flagcdn.com/w160/se.png",
+      "hostCity": null
+    },
+    {
+      "name": "Wales",
+      "code": "gb-wls",
+      "confederation": "UEFA",
+      "flag": "https://flagcdn.com/w160/gb-wls.png",
+      "hostCity": null
+    },
+    {
+      "name": "Hungary",
+      "code": "hu",
+      "confederation": "UEFA",
+      "flag": "https://flagcdn.com/w160/hu.png",
+      "hostCity": null
+    },
+    {
+      "name": "Romania",
+      "code": "ro",
+      "confederation": "UEFA",
+      "flag": "https://flagcdn.com/w160/ro.png",
+      "hostCity": null
+    },
+    {
+      "name": "Greece",
+      "code": "gr",
+      "confederation": "UEFA",
+      "flag": "https://flagcdn.com/w160/gr.png",
+      "hostCity": null
+    },
+    {
+      "name": "Turkey",
+      "code": "tr",
+      "confederation": "UEFA",
+      "flag": "https://flagcdn.com/w160/tr.png",
+      "hostCity": null
+    },
+    {
+      "name": "Brazil",
+      "code": "br",
+      "confederation": "CONMEBOL",
+      "flag": "https://flagcdn.com/w160/br.png",
+      "hostCity": null
+    },
+    {
+      "name": "Argentina",
+      "code": "ar",
+      "confederation": "CONMEBOL",
+      "flag": "https://flagcdn.com/w160/ar.png",
+      "hostCity": null
+    },
+    {
+      "name": "Uruguay",
+      "code": "uy",
+      "confederation": "CONMEBOL",
+      "flag": "https://flagcdn.com/w160/uy.png",
+      "hostCity": null
+    },
+    {
+      "name": "Colombia",
+      "code": "co",
+      "confederation": "CONMEBOL",
+      "flag": "https://flagcdn.com/w160/co.png",
+      "hostCity": null
+    },
+    {
+      "name": "Ecuador",
+      "code": "ec",
+      "confederation": "CONMEBOL",
+      "flag": "https://flagcdn.com/w160/ec.png",
+      "hostCity": null
+    },
+    {
+      "name": "Paraguay",
+      "code": "py",
+      "confederation": "CONMEBOL",
+      "flag": "https://flagcdn.com/w160/py.png",
+      "hostCity": null
+    },
+    {
+      "name": "Chile",
+      "code": "cl",
+      "confederation": "CONMEBOL",
+      "flag": "https://flagcdn.com/w160/cl.png",
+      "hostCity": null
+    },
+    {
+      "name": "Peru",
+      "code": "pe",
+      "confederation": "CONMEBOL",
+      "flag": "https://flagcdn.com/w160/pe.png",
+      "hostCity": null
+    },
+    {
+      "name": "Japan",
+      "code": "jp",
+      "confederation": "AFC",
+      "flag": "https://flagcdn.com/w160/jp.png",
+      "hostCity": null
+    },
+    {
+      "name": "South Korea",
+      "code": "kr",
+      "confederation": "AFC",
+      "flag": "https://flagcdn.com/w160/kr.png",
+      "hostCity": null
+    },
+    {
+      "name": "Australia",
+      "code": "au",
+      "confederation": "AFC",
+      "flag": "https://flagcdn.com/w160/au.png",
+      "hostCity": null
+    },
+    {
+      "name": "Iran",
+      "code": "ir",
+      "confederation": "AFC",
+      "flag": "https://flagcdn.com/w160/ir.png",
+      "hostCity": null
+    },
+    {
+      "name": "Saudi Arabia",
+      "code": "sa",
+      "confederation": "AFC",
+      "flag": "https://flagcdn.com/w160/sa.png",
+      "hostCity": null
+    },
+    {
+      "name": "Qatar",
+      "code": "qa",
+      "confederation": "AFC",
+      "flag": "https://flagcdn.com/w160/qa.png",
+      "hostCity": null
+    },
+    {
+      "name": "China",
+      "code": "cn",
+      "confederation": "AFC",
+      "flag": "https://flagcdn.com/w160/cn.png",
+      "hostCity": null
+    },
+    {
+      "name": "Iraq",
+      "code": "iq",
+      "confederation": "AFC",
+      "flag": "https://flagcdn.com/w160/iq.png",
+      "hostCity": null
+    },
+    {
+      "name": "Uzbekistan",
+      "code": "uz",
+      "confederation": "AFC",
+      "flag": "https://flagcdn.com/w160/uz.png",
+      "hostCity": null
+    },
+    {
+      "name": "Jordan",
+      "code": "jo",
+      "confederation": "AFC",
+      "flag": "https://flagcdn.com/w160/jo.png",
+      "hostCity": null
+    },
+    {
+      "name": "Morocco",
+      "code": "ma",
+      "confederation": "CAF",
+      "flag": "https://flagcdn.com/w160/ma.png",
+      "hostCity": null
+    },
+    {
+      "name": "Senegal",
+      "code": "sn",
+      "confederation": "CAF",
+      "flag": "https://flagcdn.com/w160/sn.png",
+      "hostCity": null
+    },
+    {
+      "name": "Tunisia",
+      "code": "tn",
+      "confederation": "CAF",
+      "flag": "https://flagcdn.com/w160/tn.png",
+      "hostCity": null
+    },
+    {
+      "name": "Cameroon",
+      "code": "cm",
+      "confederation": "CAF",
+      "flag": "https://flagcdn.com/w160/cm.png",
+      "hostCity": null
+    },
+    {
+      "name": "Ghana",
+      "code": "gh",
+      "confederation": "CAF",
+      "flag": "https://flagcdn.com/w160/gh.png",
+      "hostCity": null
+    },
+    {
+      "name": "Nigeria",
+      "code": "ng",
+      "confederation": "CAF",
+      "flag": "https://flagcdn.com/w160/ng.png",
+      "hostCity": null
+    },
+    {
+      "name": "Algeria",
+      "code": "dz",
+      "confederation": "CAF",
+      "flag": "https://flagcdn.com/w160/dz.png",
+      "hostCity": null
+    },
+    {
+      "name": "Egypt",
+      "code": "eg",
+      "confederation": "CAF",
+      "flag": "https://flagcdn.com/w160/eg.png",
+      "hostCity": null
+    },
+    {
+      "name": "Mali",
+      "code": "ml",
+      "confederation": "CAF",
+      "flag": "https://flagcdn.com/w160/ml.png",
+      "hostCity": null
+    },
+    {
+      "name": "Côte d'Ivoire",
+      "code": "ci",
+      "confederation": "CAF",
+      "flag": "https://flagcdn.com/w160/ci.png",
+      "hostCity": null
+    },
+    {
+      "name": "USA",
+      "code": "us",
+      "confederation": "CONCACAF",
+      "flag": "https://flagcdn.com/w160/us.png",
+      "hostCity": ["New York", "Los Angeles", "Dallas", "Miami", "Seattle", "Houston", "Philadelphia", "San Francisco", "Atlanta", "Boston"]
+    },
+    {
+      "name": "Mexico",
+      "code": "mx",
+      "confederation": "CONCACAF",
+      "flag": "https://flagcdn.com/w160/mx.png",
+      "hostCity": ["Mexico City", "Monterrey", "Guadalajara"]
+    },
+    {
+      "name": "Canada",
+      "code": "ca",
+      "confederation": "CONCACAF",
+      "flag": "https://flagcdn.com/w160/ca.png",
+      "hostCity": ["Toronto", "Vancouver"]
+    },
+    {
+      "name": "Costa Rica",
+      "code": "cr",
+      "confederation": "CONCACAF",
+      "flag": "https://flagcdn.com/w160/cr.png",
+      "hostCity": null
+    },
+    {
+      "name": "Jamaica",
+      "code": "jm",
+      "confederation": "CONCACAF",
+      "flag": "https://flagcdn.com/w160/jm.png",
+      "hostCity": null
+    },
+    {
+      "name": "Panama",
+      "code": "pa",
+      "confederation": "CONCACAF",
+      "flag": "https://flagcdn.com/w160/pa.png",
+      "hostCity": null
+    },
+    {
+      "name": "Honduras",
+      "code": "hn",
+      "confederation": "CONCACAF",
+      "flag": "https://flagcdn.com/w160/hn.png",
+      "hostCity": null
+    },
+    {
+      "name": "New Zealand",
+      "code": "nz",
+      "confederation": "OFC",
+      "flag": "https://flagcdn.com/w160/nz.png",
+      "hostCity": null
+    }
+  ],
+  "players": [
+    {
+      "name": "Kylian Mbappé",
+      "country": "France",
+      "countryCode": "fr",
+      "position": "Forward",
+      "number": 10,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/342229-1700087573.jpg",
+      "caption": "France forward and 2018 World Cup winner"
+    },
+    {
+      "name": "Lionel Messi",
+      "country": "Argentina",
+      "countryCode": "ar",
+      "position": "Forward",
+      "number": 10,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/28003-1700087553.jpg",
+      "caption": "Argentina captain and 2022 World Cup champion"
+    },
+    {
+      "name": "Erling Haaland",
+      "country": "Norway",
+      "countryCode": "no",
+      "position": "Striker",
+      "number": 9,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/418560-1682783524.jpg",
+      "caption": "Norway's goal machine"
+    },
+    {
+      "name": "Vinícius Jr.",
+      "country": "Brazil",
+      "countryCode": "br",
+      "position": "Winger",
+      "number": 7,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/371998-1694600404.jpg",
+      "caption": "Brazil's electrifying winger"
+    },
+    {
+      "name": "Jude Bellingham",
+      "country": "England",
+      "countryCode": "gb-eng",
+      "position": "Midfielder",
+      "number": 8,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/581678-1694600380.jpg",
+      "caption": "England and Real Madrid midfielder"
+    },
+    {
+      "name": "Bukayo Saka",
+      "country": "England",
+      "countryCode": "gb-eng",
+      "position": "Winger",
+      "number": 9,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/532498-1668022304.jpg",
+      "caption": "Arsenal's star winger"
+    }
+  ],
+  "hostCities": [
+    {
+      "name": "MetLife Stadium",
+      "city": "New York/New Jersey",
+      "country": "USA",
+      "capacity": 82500
+    },
+    {
+      "name": "SoFi Stadium",
+      "city": "Los Angeles",
+      "country": "USA",
+      "capacity": 70240
+    },
+    {
+      "name": "AT&T Stadium",
+      "city": "Dallas",
+      "country": "USA",
+      "capacity": 80000
+    },
+    {
+      "name": "Hard Rock Stadium",
+      "city": "Miami",
+      "country": "USA",
+      "capacity": 64767
+    },
+    {
+      "name": "Lumen Field",
+      "city": "Seattle",
+      "country": "USA",
+      "capacity": 68740
+    },
+    {
+      "name": "NRG Stadium",
+      "city": "Houston",
+      "country": "USA",
+      "capacity": 72220
+    },
+    {
+      "name": "Lincoln Financial Field",
+      "city": "Philadelphia",
+      "country": "USA",
+      "capacity": 69176
+    },
+    {
+      "name": "Levi's Stadium",
+      "city": "San Francisco",
+      "country": "USA",
+      "capacity": 68500
+    },
+    {
+      "name": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "country": "USA",
+      "capacity": 71000
+    },
+    {
+      "name": "Gillette Stadium",
+      "city": "Boston",
+      "country": "USA",
+      "capacity": 65878
+    },
+    {
+      "name": "Estadio Azteca",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "capacity": 87523
+    },
+    {
+      "name": "Estadio BBVA",
+      "city": "Monterrey",
+      "country": "Mexico",
+      "capacity": 53500
+    },
+    {
+      "name": "Estadio Akron",
+      "city": "Guadalajara",
+      "country": "Mexico",
+      "capacity": 49850
+    },
+    {
+      "name": "BMO Field",
+      "city": "Toronto",
+      "country": "Canada",
+      "capacity": 45500
+    },
+    {
+      "name": "BC Place",
+      "city": "Vancouver",
+      "country": "Canada",
+      "capacity": 54320
+    }
+  ],
+  "generatedAt": "2026-06-07T00:00:00Z"
+}

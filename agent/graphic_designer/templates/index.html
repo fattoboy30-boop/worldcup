@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FIFA World Cup 2026 - Graphic Designer</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="templates.css">
+</head>
+<body>
+    <div class="designer-container">
+        <header class="designer-header">
+            <h1>FIFA World Cup 2026 Graphic Designer</h1>
+            <p>Generate match posters, social media graphics, and team cards</p>
+        </header>
+
+        <!-- Match Poster Template -->
+        <section class="template-section">
+            <h2>Match Poster Generator</h2>
+            <div class="poster-controls">
+                <select id="homeTeam">
+                    <option value="Brazil">Brazil</option>
+                    <option value="Argentina">Argentina</option>
+                    <option value="France">France</option>
+                    <option value="England">England</option>
+                    <option value="Germany">Germany</option>
+                    <option value="Spain">Spain</option>
+                    <option value="USA" selected>USA</option>
+                    <option value="Mexico">Mexico</option>
+                    <option value="Canada">Canada</option>
+                    <option value="Japan">Japan</option>
+                    <option value="Morocco">Morocco</option>
+                </select>
+                <span class="vs-text">VS</span>
+                <select id="awayTeam">
+                    <option value="Brazil">Brazil</option>
+                    <option value="Argentina">Argentina</option>
+                    <option value="France" selected>France</option>
+                    <option value="England">England</option>
+                    <option value="Germany">Germany</option>
+                    <option value="Spain">Spain</option>
+                    <option value="USA">USA</option>
+                    <option value="Mexico">Mexico</option>
+                    <option value="Canada">Canada</option>
+                    <option value="Japan">Japan</option>
+                    <option value="Morocco">Morocco</option>
+                </select>
+                <button onclick="generatePoster()">Generate Poster</button>
+            </div>
+            
+            <div class="poster-preview" id="posterPreview">
+                <div class="poster-canvas" id="posterCanvas">
+                    <div class="poster-header">FIFA WORLD CUP 2026</div>
+                    <div class="poster-teams">
+                        <div class="poster-team" id="posterHome">
+                            <img id="posterHomeFlag" src="https://flagcdn.com/w160/us.png" alt="Home">
+                            <span id="posterHomeName">USA</span>
+                        </div>
+                        <div class="poster-vs">VS</div>
+                        <div class="poster-team" id="posterAway">
+                            <img id="posterAwayFlag" src="https://flagcdn.com/w160/fr.png" alt="Away">
+                            <span id="posterAwayName">France</span>
+                        </div>
+                    </div>
+                    <div class="poster-info">
+                        <div class="poster-date">June 12, 2026</div>
+                        <div class="poster-venue">SoFi Stadium, Los Angeles</div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="template-actions">
+                <button onclick="downloadPoster()">Download PNG</button>
+                <button onclick="sharePoster()">Share</button>
+            </div>
+        </section>
+
+        <!-- Social Media Graphics -->
+        <section class="template-section">
+            <h2>Social Media Graphics</h2>
+            <div class="social-controls">
+                <select id="socialType">
+                    <option value="countdown">Countdown</option>
+                    <option value="announcement">Announcement</option>
+                    <option value="result">Result</option>
+                </select>
+                <input type="text" id="socialTitle" placeholder="Title" value="WORLD CUP 2026">
+                <input type="text" id="socialSubtitle" placeholder="Subtitle" value="The Wait Is Almost Over">
+                <button onclick="generateSocial()">Generate</button>
+            </div>
+            
+            <div class="social-preview">
+                <div class="social-canvas" id="socialCanvas">
+                    <div class="social-content">
+                        <h2 id="socialPreviewTitle">WORLD CUP 2026</h2>
+                        <p id="socialPreviewSubtitle">The Wait Is Almost Over</p>
+                    </div>
+                    <div class="social-footer">FIFA WORLD CUP 2026</div>
+                </div>
+            </div>
+            
+            <div class="template-actions">
+                <button onclick="downloadSocial()">Download PNG</button>
+                <button onclick="shareSocial()">Share</button>
+            </div>
+        </section>
+
+        <!-- Team Card Template -->
+        <section class="template-section">
+            <h2>Team Card Generator</h2>
+            <div class="card-controls">
+                <select id="cardTeam">
+                    <option value="Brazil">Brazil</option>
+                    <option value="Argentina">Argentina</option>
+                    <option value="France">France</option>
+                    <option value="England">England</option>
+                    <option value="Germany">Germany</option>
+                    <option value="Spain">Spain</option>
+                    <option value="USA" selected>USA</option>
+                    <option value="Mexico">Mexico</option>
+                    <option value="Canada">Canada</option>
+                    <option value="Japan">Japan</option>
+                    <option value="Morocco">Morocco</option>
+                </select>
+                <button onclick="generateCard()">Generate Card</button>
+            </div>
+            
+            <div class="card-preview">
+                <div class="team-card-canvas" id="teamCardCanvas">
+                    <div class="card-header">
+                        <span class="card-tournament">FIFA WORLD CUP 2026</span>
+                        <h2 class="card-team-name" id="cardTeamName">USA</h2>
+                    </div>
+                    <div class="card-flag">
+                        <img id="cardTeamFlag" src="https://flagcdn.com/w160/us.png" alt="Flag">
+                    </div>
+                    <div class="card-info">
+                        <div class="card-stat">
+                            <span class="stat-label">Confederation</span>
+                            <span class="stat-value" id="cardConfederation">CONCACAF</span>
+                        </div>
+                    </div>
+                    <div class="card-footer">UNITED 2026</div>
+                </div>
+            </div>
+            
+            <div class="template-actions">
+                <button onclick="downloadCard()">Download PNG</button>
+                <button onclick="shareCard()">Share</button>
+            </div>
+        </section>
+    </div>
+
+    <!-- html2canvas for screenshot functionality -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <script src="templates.js"></script>
+</body>
+</html>

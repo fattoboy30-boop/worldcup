@@ -1,0 +1,397 @@
+/* ===== Designer Container ===== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background: #0a0a0a;
+    color: #fff;
+    min-height: 100vh;
+}
+
+.designer-container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.designer-header {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.designer-header h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 2.5rem;
+    background: linear-gradient(135deg, #c8102e 0%, #ffc72c 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 0.5rem;
+}
+
+.designer-header p {
+    color: #b0b0b0;
+    font-size: 1.1rem;
+}
+
+/* ===== Template Sections ===== */
+.template-section {
+    background: #1a1a1a;
+    border-radius: 20px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    border: 1px solid #2a2a2a;
+}
+
+.template-section h2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.5rem;
+    color: #ffc72c;
+    margin-bottom: 1.5rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+/* ===== Controls ===== */
+.poster-controls,
+.social-controls,
+.card-controls {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+}
+
+.poster-controls select,
+.social-controls select,
+.card-controls select,
+.social-controls input {
+    padding: 0.75rem 1rem;
+    background: #2a2a2a;
+    border: 1px solid #3a3a3a;
+    border-radius: 8px;
+    color: #fff;
+    font-size: 1rem;
+    font-family: 'Roboto', sans-serif;
+    min-width: 150px;
+}
+
+.poster-controls button,
+.social-controls button,
+.card-controls button,
+.template-actions button {
+    padding: 0.75rem 1.5rem;
+    background: #c8102e;
+    border: none;
+    border-radius: 8px;
+    color: #fff;
+    font-family: 'Oswald', sans-serif;
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.poster-controls button:hover,
+.social-controls button:hover,
+.card-controls button:hover,
+.template-actions button:hover {
+    background: #a00d24;
+    transform: translateY(-2px);
+}
+
+.vs-text {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.5rem;
+    color: #c8102e;
+    font-weight: 700;
+}
+
+/* ===== Poster Preview ===== */
+.poster-preview {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+}
+
+.poster-canvas {
+    width: 400px;
+    height: 500px;
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    border-radius: 15px;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 1.5rem;
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5);
+}
+
+.poster-header {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.2rem;
+    color: #ffc72c;
+    text-align: center;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
+.poster-teams {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex: 1;
+}
+
+.poster-team {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+.poster-team img {
+    width: 80px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 5px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.poster-team span {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1rem;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.poster-vs {
+    font-family: 'Oswald', sans-serif;
+    font-size: 2rem;
+    color: #c8102e;
+    font-weight: 700;
+}
+
+.poster-info {
+    text-align: center;
+}
+
+.poster-date {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1rem;
+    color: #ffc72c;
+    margin-bottom: 0.25rem;
+}
+
+.poster-venue {
+    font-size: 0.85rem;
+    color: #b0b0b0;
+}
+
+/* ===== Social Media Preview ===== */
+.social-preview {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+}
+
+.social-canvas {
+    width: 400px;
+    height: 400px;
+    background: linear-gradient(135deg, #c8102e 0%, #a00d24 100%);
+    border-radius: 15px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+}
+
+.social-canvas::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 5px;
+    background: #ffc72c;
+}
+
+.social-canvas::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 5px;
+    background: #ffc72c;
+}
+
+.social-content {
+    text-align: center;
+    padding: 2rem;
+}
+
+.social-content h2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 2.5rem;
+    color: #fff;
+    margin-bottom: 0.5rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.social-content p {
+    font-size: 1.2rem;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.social-footer {
+    position: absolute;
+    bottom: 20px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 0.9rem;
+    color: #ffc72c;
+    letter-spacing: 2px;
+}
+
+/* ===== Team Card Preview ===== */
+.card-preview {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+}
+
+.team-card-canvas {
+    width: 300px;
+    height: 450px;
+    background: linear-gradient(180deg, #003087 0%, #001845 100%);
+    border-radius: 15px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5);
+}
+
+.card-header {
+    padding: 1.5rem;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.3);
+}
+
+.card-tournament {
+    font-size: 0.7rem;
+    color: #ffc72c;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.card-team-name {
+    font-family: 'Oswald', sans-serif;
+    font-size: 2rem;
+    color: #fff;
+    margin-top: 0.5rem;
+    text-transform: uppercase;
+}
+
+.card-flag {
+    padding: 1.5rem;
+    display: flex;
+    justify-content: center;
+}
+
+.card-flag img {
+    width: 120px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.card-info {
+    padding: 1rem 1.5rem;
+}
+
+.card-stat {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.75rem;
+    background: rgba(0, 0, 0, 0.3);
+    border-radius: 8px;
+}
+
+.stat-label {
+    font-size: 0.8rem;
+    color: #b0b0b0;
+}
+
+.stat-value {
+    font-family: 'Oswald', sans-serif;
+    font-size: 0.9rem;
+    color: #ffc72c;
+}
+
+.card-footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 1rem;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.5);
+    font-family: 'Oswald', sans-serif;
+    font-size: 0.8rem;
+    color: #ffc72c;
+    letter-spacing: 2px;
+}
+
+/* ===== Template Actions ===== */
+.template-actions {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.template-actions button {
+    background: #2a2a2a;
+    border: 1px solid #3a3a3a;
+}
+
+.template-actions button:hover {
+    background: #c8102e;
+    border-color: #c8102e;
+}
+
+/* ===== Responsive ===== */
+@media (max-width: 768px) {
+    .poster-controls,
+    .social-controls,
+    .card-controls {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    
+    .poster-canvas,
+    .social-canvas {
+        width: 100%;
+        max-width: 350px;
+        height: auto;
+        aspect-ratio: 4/5;
+    }
+    
+    .social-canvas {
+        aspect-ratio: 1;
+    }
+    
+    .team-card-canvas {
+        width: 100%;
+        max-width: 280px;
+    }
+}

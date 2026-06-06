@@ -1,0 +1,34 @@
+worldcup-hub/
+
+├── agents/
+│   ├── intelligence.md
+│   ├── writer.md
+│   ├── designer.md
+│   ├── video.md
+│   └── publisher.md
+│
+├── data/
+│   ├── news/
+│   ├── teams/
+│   ├── standings/
+│   ├── fixtures/
+│   └── players/
+│
+├── content/
+│   ├── articles/
+│   ├── social/
+│   └── newsletters/
+│
+├── assets/
+│   ├── images/
+│   └── videos/
+│
+├── scripts/
+│   ├── fetch-news.py
+│   ├── generate-content.py
+│   ├── generate-images.py
+│   └── publish.py
+│
+└── .github/
+    └── workflows/
+        └── update.yml

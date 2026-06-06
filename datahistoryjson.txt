@@ -1,0 +1,6 @@
+{
+  "published": [
+    "Brazil squad announcement",
+    "Argentina injury update"
+  ]
+}

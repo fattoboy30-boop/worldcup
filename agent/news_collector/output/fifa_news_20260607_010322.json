@@ -1,0 +1,399 @@
+{
+  "metadata": {
+    "collected_at": "2026-06-07 01:03:45",
+    "total_articles": 42,
+    "sources": [
+      "The Guardian Football",
+      "BBC Sport",
+      "Sky Sports"
+    ],
+    "categories": [
+      "qualifiers",
+      "transfers",
+      "other",
+      "injuries",
+      "breaking",
+      "match_reports"
+    ]
+  },
+  "articles": [
+    {
+      "title": "French Open final LIVE! Andreeva takes on shock qualifier Chwalinska",
+      "source": "Sky Sports",
+      "date": "2026-06-06 13:30:00",
+      "url": "https://www.skysports.com/tennis/live-blog/12040/13551116/french-open-final-live-score-results-game-by-game-updates-as-mirra-andreeva-takes-on-qualifier-maja-chwalinska-at-roland-garros",
+      "category": "qualifiers",
+      "thumbnail": "",
+      "description": ""
+    },
+    {
+      "title": "Bolivia vs Scotland: Clarke previews final World Cup warm-up game",
+      "source": "Sky Sports",
+      "date": "2026-06-06 12:15:00",
+      "url": "https://www.skysports.com/football/bolivia-vs-scotland/live/555767",
+      "category": "match_reports",
+      "thumbnail": "",
+      "description": ""
+    },
+    {
+      "title": "Lightning halts pre-World Cup friendly in Texas for two hours",
+      "source": "BBC Sport",
+      "date": "2026-06-06 10:56:09",
+      "url": "https://www.bbc.com/sport/football/articles/c5yz3p6vjd1o?at_medium=RSS&at_campaign=rss",
+      "category": "match_reports",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a4a/live/b7dd7e80-618f-11f1-b927-d7e60ed16f70.jpg",
+      "description": "Saudi Arabia's World Cup warm-up game against Puerto Rico in Texas is halted for nearly two hours because of extreme weather."
+    },
+    {
+      "title": "The pioneer in an unlikely World Cup team",
+      "source": "BBC Sport",
+      "date": "2026-06-06 06:11:06",
+      "url": "https://www.bbc.com/sport/football/articles/cn4p4jw7pzko?at_medium=RSS&at_campaign=rss",
+      "category": "other",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd9e/live/367c0230-60e5-11f1-82ca-1380a42b6773.jpg",
+      "description": "When Desmond Armstrong faced the media at the World Cup in 1990, the first question he got was one that would stick in his mind for the wrong reasons."
+    },
+    {
+      "title": "Which World Cup team are you? Take our quiz",
+      "source": "BBC Sport",
+      "date": "2026-06-06 06:52:15",
+      "url": "https://www.bbc.com/sport/football/articles/ckgpy79y53eo?at_medium=RSS&at_campaign=rss",
+      "category": "match_reports",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dbf/live/1d79ba80-4eb5-11f1-ac78-2112837ce2aa.png",
+      "description": "Whether you're a neutral in need of a team to support or just fancy following a second side, BBC Sport has got you covered."
+    },
+    {
+      "title": "Iran says staff blocked from entering US after players given World Cup visas",
+      "source": "BBC Sport",
+      "date": "2026-06-06 11:56:25",
+      "url": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
+      "category": "other",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de59/live/4501e9e0-614f-11f1-89a3-d1f559421220.jpg",
+      "description": "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country."
+    },
+    {
+      "title": "Paraguay star Enciso injured in World Cup warm-up",
+      "source": "BBC Sport",
+      "date": "2026-06-06 13:04:53",
+      "url": "https://www.bbc.com/sport/football/articles/cq812vlx992o?at_medium=RSS&at_campaign=rss",
+      "category": "match_reports",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a36/live/fb50dd20-6198-11f1-80e4-07386a28f8fd.jpg",
+      "description": "Paraguay forward Julio Enciso's World Cup is in doubt after he was injured during a 4-0 friendly win over Nicaragua."
+    },
+    {
+      "title": "The story of Norway's Viking World Cup photoshoot",
+      "source": "BBC Sport",
+      "date": "2026-06-05 13:52:59",
+      "url": "https://www.bbc.com/sport/football/articles/cjdpd18xx5lo?at_medium=RSS&at_campaign=rss",
+      "category": "other",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d64/live/cd846d50-60d3-11f1-b808-9f0a293e0062.jpg",
+      "description": "Renowned British photographer David Yarrow tells BBC Sport what inspired his viral Norway World Cup send-off photo."
+    },
+    {
+      "title": "'The things that forge them are similar' - the origins of Messi & Ronaldo",
+      "source": "BBC Sport",
+      "date": "2026-06-06 05:10:22",
+      "url": "https://www.bbc.com/sport/football/videos/c9363yer2deo?at_medium=RSS&at_campaign=rss",
+      "category": "other",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e24/live/2d9437d0-6029-11f1-89a3-d1f559421220.jpg",
+      "description": "Both from humble beginnings, BBC Sport looks at how Lionel Messi and Cristiano Ronaldo became two of the greatest footballers of all time."
+    },
+    {
+      "title": "Messi or Ronaldo - who is the greatest of all time?",
+      "source": "BBC Sport",
+      "date": "2026-06-05 05:18:06",
+      "url": "https://www.bbc.com/sport/football/videos/c3v2gg2ldr5o?at_medium=RSS&at_campaign=rss",
+      "category": "match_reports",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d050/live/82cae000-6006-11f1-88e1-8920f3bb90a6.jpg",
+      "description": "Some of the greats of the game debate the long-asked question: Lionel Messi or Cristiano Ronaldo?"
+    },
+    {
+      "title": "Will transfers be a distraction for England at World Cup?",
+      "source": "BBC Sport",
+      "date": "2026-06-05 21:25:02",
+      "url": "https://www.bbc.com/sport/football/articles/crlpglx66z9o?at_medium=RSS&at_campaign=rss",
+      "category": "transfers",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1551/live/8b4a4050-602d-11f1-8b8c-6d33e1d5abb6.jpg",
+      "description": "England's World Cup campaign is also in the middle of a busy summer transfer window, but how much of a distraction is it?"
+    },
+    {
+      "title": "How thunderstorms and lightning could impact games at World Cup",
+      "source": "BBC Sport",
+      "date": "2026-06-05 15:33:23",
+      "url": "https://www.bbc.com/sport/football/articles/cqjpjgqe42ro?at_medium=RSS&at_campaign=rss",
+      "category": "match_reports",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daf9/live/b2a9ef40-60e3-11f1-82ca-1380a42b6773.jpg",
+      "description": "With several host cities in peak thunderstorm season there is a high chance that some World Cup games could be disrupted. Here is how and why."
+    },
+    {
+      "title": "Fifa demands fans pay after ticketing error offered free World Cup tickets",
+      "source": "BBC Sport",
+      "date": "2026-06-05 09:10:45",
+      "url": "https://www.bbc.com/sport/football/articles/cy828v7r5ydo?at_medium=RSS&at_campaign=rss",
+      "category": "match_reports",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/11b21080-60b7-11f1-9b5a-5531746793c9.jpg",
+      "description": "Fifa says fans who were mistakenly given free tickets to World Cup group stage matches in Toronto must pay for them within seven days or lose the seats."
+    },
+    {
+      "title": "Fifa clarifies water bottle stadium rule",
+      "source": "BBC Sport",
+      "date": "2026-06-05 23:10:54",
+      "url": "https://www.bbc.com/sport/football/articles/c79490e8g37o?at_medium=RSS&at_campaign=rss",
+      "category": "match_reports",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b564/live/a0b5e3d0-6132-11f1-89a3-d1f559421220.jpg",
+      "description": "Fifa says fans will be able to bring sealed disposable water bottles into World Cup stadiums following criticism over a decision to ban reusable bottles."
+    },
+    {
+      "title": "Germany forward Karl ruled out of World Cup",
+      "source": "BBC Sport",
+      "date": "2026-06-05 23:04:51",
+      "url": "https://www.bbc.com/sport/football/articles/cz020zdklmmo?at_medium=RSS&at_campaign=rss",
+      "category": "injuries",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baf5/live/03caafb0-6132-11f1-8250-9b8ef0ee255e.jpg",
+      "description": "Germany forward Lennart Karl is ruled out of the 2026 World Cup with a thigh injury."
+    },
+    {
+      "title": "Robodogs and helicopters: One Mexican city's approach to World Cup security",
+      "source": "BBC Sport",
+      "date": "2026-06-04 05:42:34",
+      "url": "https://www.bbc.com/news/videos/c4g4n4nzl2yo?at_medium=RSS&at_campaign=rss",
+      "category": "other",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c10/live/b88c1e10-601b-11f1-8b8c-6d33e1d5abb6.jpg",
+      "description": "In the shadow of cartel violence, BBC’s Will Grant got a first-hand look at security plans in Monterrey."
+    },
+    {
+      "title": "Diana Ross & 'GOAT' Ronaldo - Richards watches World Cup moments",
+      "source": "BBC Sport",
+      "date": "2026-06-03 09:00:06",
+      "url": "https://www.bbc.com/sport/football/videos/c1w2xy0r2r3o?at_medium=RSS&at_campaign=rss",
+      "category": "other",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9567/live/d9a51a90-5f29-11f1-89a3-d1f559421220.jpg",
+      "description": "Former England defender and current pundit Micah Richards looks at some of the most memorable World Cup moments."
+    },
+    {
+      "title": "Rivals: Messi v Ronaldo - watch the trailer",
+      "source": "BBC Sport",
+      "date": "2026-06-03 05:14:33",
+      "url": "https://www.bbc.com/sport/videos/cvgz0x19n9ro?at_medium=RSS&at_campaign=rss",
+      "category": "other",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdb5/live/f3c31490-60c8-11f1-8b8c-6d33e1d5abb6.jpg",
+      "description": "The story of how Lionel Messi v Cristiano Ronaldo became the rivalry that transformed football and defined a generation."
+    },
+    {
+      "title": "How England can still qualify for the Women's World Cup",
+      "source": "BBC Sport",
+      "date": "2026-06-05 23:07:27",
+      "url": "https://www.bbc.com/sport/football/articles/c1k2k18r4ymo?at_medium=RSS&at_campaign=rss",
+      "category": "match_reports",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1105/live/500bda60-612e-11f1-83c8-eb17c0ff297e.jpg",
+      "description": "England, Wales, Scotland and Northern Ireland are all vying for places at the Women's World Cup - but how can they get there with one round of group games left in European qualifying?"
+    },
+    {
+      "title": "Messi v Ronaldo: A rivalry that's dominated for two decades",
+      "source": "BBC Sport",
+      "date": "2026-06-05 05:28:32",
+      "url": "https://www.bbc.com/sport/football/articles/czr2p81g5zro?at_medium=RSS&at_campaign=rss",
+      "category": "match_reports",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bea4/live/df3f4350-569f-11f1-82a8-f7509e7dd289.jpg",
+      "description": "Cristiano Ronaldo and Lionel Messi have been at the top of the game for the past 20 years, BBC Sport looks at a rivalry that has shaped football."
+    },
+    {
+      "title": "Football Daily",
+      "source": "BBC Sport",
+      "date": "2026-06-05 21:45:00",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nqfjsp?at_medium=RSS&at_campaign=rss",
+      "category": "other",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0nqfjtv.jpg",
+      "description": "Katie Smith is joined by Fran Kirby & Vicki Sparks reacting to England's defeat in Spain."
+    },
+    {
+      "title": "World Cup 2026 news; England and Scotland friendlies; Sullivan resigns at West Ham – matchday live",
+      "source": "The Guardian Football",
+      "date": "2026-06-06 13:48:46",
+      "url": "https://www.theguardian.com/football/live/2026/jun/06/world-cup-2026-buildup-as-england-and-scotland-gear-up-for-friendlies-matchday-live",
+      "category": "transfers",
+      "thumbnail": "https://i.guim.co.uk/img/media/8fd9c1fe4acf861c0dea89d5178f630708ad970a/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=fd725beb01c27b9a9682c392f3ca3ed1",
+      "description": "World Cup friendly football news from 8am UK timeYour essential guide to every player at the World CupYou can email us here|Sign up for Football DailyAs always,feel free tomessage intoday with any tho"
+    },
+    {
+      "title": "Iran slams US ‘discriminatory treatment’ over World Cup visa refusals",
+      "source": "The Guardian Football",
+      "date": "2026-06-06 09:52:29",
+      "url": "https://www.theguardian.com/football/2026/jun/05/iran-world-cup-visas-united-states",
+      "category": "transfers",
+      "thumbnail": "https://i.guim.co.uk/img/media/5a971a456d1ccf83483579203d7c5e4fca07d8ab/556_0_5563_4451/master/5563.jpg?width=140&quality=85&auto=format&fit=max&s=01a7b5b83c2ee106aba711778af846b0",
+      "description": "Backroom staff denied entry visas for US, claims post on XTeam have moved training base from Arizona to MexicoIran has slammed World Cup co-hosts the United States over what it called “discriminatory "
+    },
+    {
+      "title": "Fifa backtracks on plastic water bottles ban at World Cup after fury from fans",
+      "source": "The Guardian Football",
+      "date": "2026-06-06 08:33:18",
+      "url": "https://www.theguardian.com/football/2026/jun/06/fifa-backtracks-on-plastic-water-bottles-at-world-cup-after-backlash-to-ban",
+      "category": "breaking",
+      "thumbnail": "https://i.guim.co.uk/img/media/5947674ca952a7b598d7bd515ab274391eedd9c7/220_0_2501_2001/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=d3e33bc2e009258763ee55142bab9ad8",
+      "description": "Fans will now be allowed one sealed bottle at matchesKeir Starmer among critics of previous U-turn on policyFifa has again amended its water bottle policy for the World Cup in North America, allowing "
+    },
+    {
+      "title": "Zohran Mamdani plays the Guardian's Bracketology to predict World Cup winner – video",
+      "source": "The Guardian Football",
+      "date": "2026-06-06 11:03:53",
+      "url": "https://www.theguardian.com/football/video/2026/jun/06/zohran-mamdani-the-guardian-bracketology-predict-world-cup-winner-video",
+      "category": "match_reports",
+      "thumbnail": "https://i.guim.co.uk/img/media/7a14b0cc82042f62443d3b389ff1e18fdcf65b83/281_0_1349_1080/master/1349.jpg?width=140&quality=85&auto=format&fit=max&s=eabf0bc1f7fee947453316b481c8c5a5",
+      "description": "The New York City mayor,Zohran Mamdani, briefly stepped away from City Hall to tackle the ultimate soccer challenge: predicting the entire World Cup bracket In the Guardian's exclusive interactive gam"
+    },
+    {
+      "title": "World Cup 2026: guide to all 1,248 players",
+      "source": "The Guardian Football",
+      "date": "2026-06-04 08:55:49",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
+      "category": "injuries",
+      "thumbnail": "https://i.guim.co.uk/img/media/a569c2e0ea21b9408faeb01cdea36464550b20ff/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=8aca12c1b2027a1c6896f7c27eae3f6c",
+      "description": "Everything you need to know (and more) about every squad member. Click on the player pictures for more informationContinue reading..."
+    },
+    {
+      "title": "Power and glory: World Cup promises a spectacle impossible to ignore",
+      "source": "The Guardian Football",
+      "date": "2026-06-06 07:00:03",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/06/power-and-glory-world-cup-promises-a-spectacle-impossible-to-ignore",
+      "category": "match_reports",
+      "thumbnail": "https://i.guim.co.uk/img/media/7135ac4788a388c87b8433873c51e21271872de4/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=06f7b624499b66c41b6a2cd428ee68c5",
+      "description": "Ten years in the making, the greatest show on earth is set for a six-week sprint through Trump’s AmericaThis is the end, of our elaborate plans, the end. Of everything that stands, the end. It seems f"
+    },
+    {
+      "title": "Relentless rise of VAR, new red card offences and more: those new World Cup rules in full",
+      "source": "The Guardian Football",
+      "date": "2026-06-06 09:00:06",
+      "url": "https://www.theguardian.com/football/2026/jun/06/relentless-rise-of-var-new-red-card-offences-and-more-those-new-world-cup-rules-in-full",
+      "category": "match_reports",
+      "thumbnail": "https://i.guim.co.uk/img/media/d82a337b82cce6b3e9d994cd2253182a60ec1c65/743_110_2424_1939/master/2424.jpg?width=140&quality=85&auto=format&fit=max&s=8b9ce36101fd28b35e7c1adf274a5e33",
+      "description": "2026 tournament will be the biggest, longest and most expensive – and the most intricately refereed – ever seenThe 2026 World Cup will be the biggest, longest and most expensive. It will also feature "
+    },
+    {
+      "title": "Bracketology: predict a path to World Cup victory",
+      "source": "The Guardian Football",
+      "date": "2026-06-04 10:00:48",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory",
+      "category": "injuries",
+      "thumbnail": "https://i.guim.co.uk/img/media/1cea2e8ed37468fb2c19c41dd71768e94fbc0f8d/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=b6957e8cafc738866bd75836ecf4f204",
+      "description": "Click your way through the group stage and the knockouts to crown championContinue reading..."
+    },
+    {
+      "title": "Uruguay World Cup 2026 team guide",
+      "source": "The Guardian Football",
+      "date": "2026-06-06 07:00:04",
+      "url": "https://www.theguardian.com/football/2026/jun/06/uruguay-world-cup-2026-team-guide",
+      "category": "match_reports",
+      "thumbnail": "https://i.guim.co.uk/img/media/c9fbee05f247844c61dae1e7a2a2a2cea178e7d7/299_0_3064_2451/master/3064.jpg?width=140&quality=85&auto=format&fit=max&s=368603e57e672c9e01f7c0f1fa748d07",
+      "description": "Uruguayans hope Marcelo Bielsa will have less of a rollercoaster of results so Federico Valverde can inspire them to reach the latter stagesThis article is part of the Guardian’s2026 World Cup Experts"
+    },
+    {
+      "title": "Iraola’s dynamic football will energise Liverpool despite worry over workload | Jonathan Wilson",
+      "source": "The Guardian Football",
+      "date": "2026-06-05 06:30:28",
+      "url": "https://www.theguardian.com/football/2026/jun/05/iraolas-dynamic-football-will-energise-liverpool-despite-worry-over-workload",
+      "category": "injuries",
+      "thumbnail": "https://i.guim.co.uk/img/media/fe88e4d39978c653a6c5355c3ae9e4cf08623c40/1428_0_6438_5151/master/6438.jpg?width=140&quality=85&auto=format&fit=max&s=c0d74c745cdf15d732e6038265a130e9",
+      "description": "New manager achieved much at Bournemouth with style reminiscent of Jürgen Klopp’s counterpressThere comes a point in most discussions when all the detail and complications fall away and the issue can "
+    },
+    {
+      "title": "French Open finals, Monaco GP and World Cup warm-ups for England and Scotland – follow with us",
+      "source": "The Guardian Football",
+      "date": "2026-06-05 16:20:27",
+      "url": "https://www.theguardian.com/sport/2026/jun/05/french-open-finals-monaco-gp-and-world-cup-warm-ups-for-england-and-scotland-follow-with-us",
+      "category": "other",
+      "thumbnail": "https://i.guim.co.uk/img/media/99375fe1651a49aebdeee3eb26ea2a6a7c5aadce/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=843be20a1b3c979dd0f7b293f7190c41",
+      "description": "Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reportsContinue reading..."
+    },
+    {
+      "title": "Football regulator will reject call to play bigger role in promoting equality at clubs",
+      "source": "The Guardian Football",
+      "date": "2026-06-05 08:29:25",
+      "url": "https://www.theguardian.com/football/2026/jun/05/football-regulator-will-reject-call-equality-diversity-and-inclusion-kick-it-out",
+      "category": "injuries",
+      "thumbnail": "https://i.guim.co.uk/img/media/1fe7063b8281ce7d7940d4941c84398d2f34635e/209_0_2346_1876/master/2346.jpg?width=140&quality=85&auto=format&fit=max&s=4358c20a2a672ef4f35cc1c0d1e6bc06",
+      "description": "Kick It Out wants equality, diversity and inclusion targetsRegulator decides against after licensing consultationThe Independent Football Regulator (IFR) is poised to reject calls from Kick It Out to "
+    },
+    {
+      "title": "Chris Richards’s World Cup in doubt as ankle injury rules USMNT defender out for Germany friendly",
+      "source": "The Guardian Football",
+      "date": "2026-06-05 16:17:01",
+      "url": "https://www.theguardian.com/football/2026/jun/05/chris-richards-injury-status-world-cup",
+      "category": "match_reports",
+      "thumbnail": "https://i.guim.co.uk/img/media/071df9d037053953885b09a0565661df5ed4fa9e/516_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2bd682c34dab31232e800a2d4efc095e",
+      "description": "Pochettino ‘not happy’ with Palace’s injury assessmentRichards missed Conference League finalPredict your World Cup bracket|Complete player guideChris Richards will not take part in the United States’"
+    },
+    {
+      "title": "Crystal Palace victorious in Europe and can Arsenal beat PSG? - Football Weekly",
+      "source": "The Guardian Football",
+      "date": "2026-05-28 11:39:07",
+      "url": "https://www.theguardian.com/football/audio/2026/may/28/crystal-palace-victorious-in-europe-and-can-arsenal-beat-psg-football-weekly",
+      "category": "match_reports",
+      "thumbnail": "https://i.guim.co.uk/img/media/e1edfa40d5d042243a88f5c813d264163ca72c25/8_0_4050_3240/master/4050.jpg?width=140&quality=85&auto=format&fit=max&s=7b356b38b6c91071c2a8aa2e823cfccc",
+      "description": "Max Rushdenis joined byBarry Glendenning, Mark Langdon, Paul Watson and Ed Aarons as Crystal Palace win the Europa Conference LeagueRate, review, share onApple Podcastsand join the conversation onemai"
+    },
+    {
+      "title": "Sign up for the Football Daily newsletter: our free football email",
+      "source": "The Guardian Football",
+      "date": "2022-11-14 09:05:50",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "category": "transfers",
+      "thumbnail": "https://i.guim.co.uk/img/media/513d45c136273d89f0c4a831b7aba27fd761d10c/0_0_5000_3000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=869500836bb6390fc5978a4318c4f6e6",
+      "description": "Kick off your afternoon with the Guardian’s take on the world of footballEvery weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very oc"
+    },
+    {
+      "title": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+      "source": "The Guardian Football",
+      "date": "2022-03-22 16:57:35",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "category": "transfers",
+      "thumbnail": "https://i.guim.co.uk/img/media/f05addc1c6b98dc15f73f332ba340b8f5b5afb9f/0_0_5000_3000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=8e304ab3a2bd98487919a4fcfa0e5eaf",
+      "description": "Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena ErikssonJoin us as we delve deeper into the wonderful world of women’s "
+    },
+    {
+      "title": "Football seems to have forgotten about fun: the World Sevens has brought it back | Tom Garry",
+      "source": "The Guardian Football",
+      "date": "2026-06-03 13:50:49",
+      "url": "https://www.theguardian.com/football/2026/jun/03/football-seems-to-have-forgotten-about-fun-the-world-sevens-has-brought-it-back",
+      "category": "match_reports",
+      "thumbnail": "https://i.guim.co.uk/img/media/8e4ebaaf95dc182fb214a443d8fec9cdd2e65f39/301_0_4937_3950/master/4937.jpg?width=140&quality=85&auto=format&fit=max&s=56af782c6fc689e3ac18ad272f81bce1",
+      "description": "We all have a tendency to take the game far too seriously – this seven-a-side tournament provided the perfect antidoteAs much as it is tempting to romanticise about Bill Shankly’s most famous quote, h"
+    },
+    {
+      "title": "NWSL plans to gain growth through men’s World Cup pandemonium",
+      "source": "The Guardian Football",
+      "date": "2026-06-03 10:30:03",
+      "url": "https://www.theguardian.com/football/2026/jun/03/nwsl-us-mens-world-cup-womens-football",
+      "category": "match_reports",
+      "thumbnail": "https://i.guim.co.uk/img/media/53f0f5c3ed61d817f4bd5506546a299aba4acab3/640_10_6119_4895/master/6119.jpg?width=140&quality=85&auto=format&fit=max&s=430db166d69ad3ffc05c3faedcee6e0f",
+      "description": "Plenty of women watch the men’s tournament but are yet to translate fandom to the women’s game – will that change this summer?The NWSL’s 14th regular season wrapped up match week 10 of 27 over the wee"
+    },
+    {
+      "title": "Which football goalkeepers have won major finals without making a save? | The Knowledge",
+      "source": "The Guardian Football",
+      "date": "2026-06-03 07:00:45",
+      "url": "https://www.theguardian.com/football/2026/jun/03/which-football-goalkeepers-have-won-major-finals-without-making-a-save",
+      "category": "match_reports",
+      "thumbnail": "https://i.guim.co.uk/img/media/ed53d150a65f219fda5ff210e88af5c49a353e97/814_0_4416_3533/master/4416.jpg?width=140&quality=85&auto=format&fit=max&s=77192785f34d1e3a07915fdd6b4554e3",
+      "description": "Plus: which teams had the most wins without promotion and can anyone match Jadon Sancho’s hat-trick?“Matvey Safonov did not make a single save in the Champions League final, across normal time, extra "
+    },
+    {
+      "title": "Creaking Cristiano Ronaldo’s presence at World Cup is more a curse than a blessing | Jonathan Wilson",
+      "source": "The Guardian Football",
+      "date": "2026-05-30 21:35:17",
+      "url": "https://www.theguardian.com/football/2026/may/30/cristiano-ronaldo-world-cup-lionel-messi-luka-modric",
+      "category": "match_reports",
+      "thumbnail": "https://i.guim.co.uk/img/media/97771202189877d4cfe21d56328cc21a228bb9db/98_0_3342_2673/master/3342.jpg?width=140&quality=85&auto=format&fit=max&s=98d64e08127f3001adff898d7182ddbf",
+      "description": "Veterans such as Messi and Modric are much in evidence at the finals, but an obsession with celebrity may undermine PortugalIt turns out that 2022 wasn’t Lionel Messi’s last dance after all. He will t"
+    },
+    {
+      "title": "Football Daily | Will AI bring heavy-metal football back to Liverpool?",
+      "source": "The Guardian Football",
+      "date": "2026-06-03 14:40:37",
+      "url": "https://www.theguardian.com/football/2026/jun/03/football-daily-newsletter-andoni-iraola-managerial-merry-go-round",
+      "category": "transfers",
+      "thumbnail": "https://i.guim.co.uk/img/media/fe365906540dc93a766c540a1406715754418e4f/233_68_4052_3241/master/4052.jpg?width=140&quality=85&auto=format&fit=max&s=b3ac5e4cea25df085a052b370267d10a",
+      "description": "Sign up now! Sign up now! Sign up now? Sign up now!It was only a matter of time before one of football’s big clubs placed their future in the hands of AI. Happily for Liverpool,they’ve plumped for a m"
+    }
+  ]
+}

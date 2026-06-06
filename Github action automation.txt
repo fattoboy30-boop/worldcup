@@ -1,0 +1,23 @@
+name: World Cup Hub
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - run: python scripts/fetch-news.py
+
+      - run: python scripts/generate-content.py
+
+      - run: python scripts/publish.py
+
+      - run: |
+          git add .
+          git commit -m "Auto update"
+          git push

@@ -1,0 +1,8 @@
+Agent 1 → News Intelligence
+Agent 2 → Fact Verification
+Agent 3 → Writer
+Agent 4 → SEO Optimizer
+Agent 5 → Graphic Designer
+Agent 6 → Video Creator
+Agent 7 → Publisher
+Agent 8 → Analytics Tracker
