@@ -510,24 +510,43 @@ function initPolls() {
 // ===== Scroll Animations =====
 function initScrollAnimations() {
     const observerOptions = {
-        threshold: 0.1,
-        rootMargin: '0px 0px -50px 0px'
+        threshold: 0.01,
+        rootMargin: '50px 0px'
     };
 
     const observer = new IntersectionObserver((entries) => {
         entries.forEach(entry => {
             if (entry.isIntersecting) {
                 entry.target.classList.add('animate-in');
+                observer.unobserve(entry.target);
             }
         });
     }, observerOptions);
 
-    document.querySelectorAll('.section-header, .city-card, .team-card, .schedule-card, .player-card, .fan-card, .timeline-item').forEach(el => {
+    const animateElements = '.section-header, .city-card, .team-card, .schedule-card, .player-card, .fan-card, .timeline-item, .news-card, .score-card';
+    
+    document.querySelectorAll(animateElements).forEach(el => {
         el.style.opacity = '0';
         el.style.transform = 'translateY(30px)';
         el.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
         observer.observe(el);
     });
+    
+    // MutationObserver to watch for dynamically added elements
+    const mutationObserver = new MutationObserver((mutations) => {
+        mutations.forEach(mutation => {
+            mutation.addedNodes.forEach(node => {
+                if (node.nodeType === 1 && node.matches && node.matches(animateElements)) {
+                    node.style.opacity = '0';
+                    node.style.transform = 'translateY(30px)';
+                    node.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+                    observer.observe(node);
+                }
+            });
+        });
+    });
+    
+    mutationObserver.observe(document.body, { childList: true, subtree: true });
 }
 
 // Add CSS for scroll animations
@@ -874,13 +893,14 @@ function renderNews() {
     if (!grid) return;
     
     const newsToRender = filteredNews.slice(0, newsToShow);
+    const onErrorHandler = `this.onerror=null;this.parentElement.innerHTML='<div class="news-placeholder">📰</div>'`;
     
     grid.innerHTML = newsToRender.map(article => `
         <article class="news-card" data-category="${article.category}">
             <a href="${article.url}" target="_blank" rel="noopener noreferrer" class="news-link">
                 <div class="news-image">
                     ${article.thumbnail 
-                        ? `<img src="${article.thumbnail}" alt="${article.title}" loading="lazy" onerror="this.parentElement.innerHTML='<div class=\\'news-placeholder\\'>📰</div>'">`
+                        ? `<img src="${article.thumbnail}" alt="${article.title}" loading="lazy" onerror="${onErrorHandler}">`
                         : '<div class="news-placeholder">📰</div>'
                     }
                     <span class="news-category">${article.category}</span>
