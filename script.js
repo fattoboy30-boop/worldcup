@@ -523,7 +523,7 @@ function initScrollAnimations() {
         });
     }, observerOptions);
 
-    document.querySelectorAll('.section-header, .city-card, .team-card, .fan-card, .timeline-item').forEach(el => {
+    document.querySelectorAll('.city-card, .team-card, .fan-card, .timeline-item').forEach(el => {
         el.style.opacity = '0';
         el.style.transform = 'translateY(30px)';
         el.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
@@ -590,7 +590,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 // ===== Schedule Section =====
 let fixturesData = null;
 let currentStage = 'group';
-let currentGroup = 'all';
+let currentScheduleGroup = 'all';
 
 async function initSchedule() {
     try {
@@ -626,7 +626,7 @@ function initGroupFilters() {
         btn.addEventListener('click', () => {
             document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
-            currentGroup = btn.dataset.group;
+            currentScheduleGroup = btn.dataset.group;
             renderSchedule();
         });
     });
@@ -646,8 +646,8 @@ function renderSchedule() {
 function renderGroupStage(container) {
     let fixtures = fixturesData.fixtures.filter(f => f.stage === 'group');
     
-    if (currentGroup !== 'all') {
-        fixtures = fixtures.filter(f => f.group === currentGroup);
+    if (currentScheduleGroup !== 'all') {
+        fixtures = fixtures.filter(f => f.group === currentScheduleGroup);
     }
     
     const groupedByMatchday = {};
