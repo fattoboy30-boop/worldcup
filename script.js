@@ -106,7 +106,7 @@ const players = [
         club: "Inter Miami",
         age: 38,
         bio: "8x Ballon d'Or winner. 2022 World Cup champion. Possibly his last World Cup.",
-        image: "https://img.a.transfermarkt.technology/portrait/header/28003-1700087553.jpg"
+        image: "assets/players/lionel_messi.jpg"
     },
     {
         name: "Harry Kane",
@@ -117,7 +117,7 @@ const players = [
         club: "Bayern Munich",
         age: 32,
         bio: "England's all-time top scorer. 2018 Golden Boot winner. 61 goals in 2025-26.",
-        image: "https://img.a.transfermarkt.technology/portrait/header/132098-1694596471.jpg"
+        image: "assets/players/harry_kane.jpg"
     },
     {
         name: "Vinícius Jr.",
@@ -128,7 +128,7 @@ const players = [
         club: "Real Madrid",
         age: 25,
         bio: "Brazil's talisman. 2024 Ballon d'Or runner-up. Electrifying pace and skill.",
-        image: "https://img.a.transfermarkt.technology/portrait/header/371998-1694600404.jpg"
+        image: "assets/players/vinicius_junior.jpg"
     },
     {
         name: "Jude Bellingham",
@@ -139,7 +139,7 @@ const players = [
         club: "Real Madrid",
         age: 22,
         bio: "England's creative engine. Champions League winner at 20. Big-game player.",
-        image: "https://img.a.transfermarkt.technology/portrait/header/581678-1694600380.jpg"
+        image: "assets/players/jude_bellingham.jpg"
     },
     {
         name: "Erling Haaland",
@@ -150,7 +150,7 @@ const players = [
         club: "Manchester City",
         age: 25,
         bio: "Goal machine. First World Cup. 16 goals in qualifiers. Most lethal striker.",
-        image: "https://img.a.transfermarkt.technology/portrait/header/418560-1682783524.jpg"
+        image: "assets/players/erling_haaland.jpg"
     },
     {
         name: "Rodri",
@@ -161,7 +161,7 @@ const players = [
         club: "Manchester City",
         age: 29,
         bio: "2024 Ballon d'Or holder. Euro 2024 winner. Spain's midfield pivot.",
-        image: "https://img.a.transfermarkt.technology/portrait/header/357524-1694596415.jpg"
+        image: "assets/players/rodri.jpg"
     },
     {
         name: "Cristiano Ronaldo",
@@ -172,7 +172,7 @@ const players = [
         club: "Al-Nassr",
         age: 41,
         bio: "Record 6th World Cup. All-time top international scorer. 143 goals.",
-        image: "https://img.a.transfermarkt.technology/portrait/header/8198-1694596387.jpg"
+        image: "assets/players/cristiano_ronaldo.jpg"
     },
     {
         name: "Florian Wirtz",
@@ -183,7 +183,7 @@ const players = [
         club: "Bayer Leverkusen",
         age: 23,
         bio: "German Footballer of the Year. Best left-footed midfielder of his generation.",
-        image: "https://img.a.transfermarkt.technology/portrait/header/706498-1694600356.jpg"
+        image: "assets/players/florian_wirtz.jpg"
     },
     {
         name: "Jamal Musiala",
@@ -194,7 +194,7 @@ const players = [
         club: "Bayern Munich",
         age: 23,
         bio: "Germany's 'Bambi'. Dribbles like nobody else. Bayern's chief creator.",
-        image: "https://img.a.transfermarkt.technology/portrait/header/634267-1694600372.jpg"
+        image: "assets/players/jamal_musiala.jpg"
     },
     {
         name: "Christian Pulisic",
@@ -205,7 +205,7 @@ const players = [
         club: "AC Milan",
         age: 27,
         bio: "USA's face. Champions League winner. Home World Cup hero.",
-        image: "https://img.a.transfermarkt.technology/portrait/header/363001-1694600420.jpg"
+        image: "assets/players/christian_pulisic.jpg"
     }
 ];
 
