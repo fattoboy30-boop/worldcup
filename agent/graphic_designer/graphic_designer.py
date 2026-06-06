@@ -709,6 +709,58 @@ class GraphicDesignerAgent:
             [30, 30, width - 30, height - 30], radius=25, outline=secondary_rgb, width=3
         )
 
+        # Try to load and draw player image
+        player_name = player_data.get("name", "Player")
+        image_path = player_data.get("image_path")
+
+        if not image_path:
+            # Try to find image in assets/players directory
+            possible_names = [
+                f"{player_name.lower().replace(' ', '_').replace('.', '')}.jpg",
+                f"{player_name.lower().replace(' ', '_').replace('.', '')}.png",
+                f"{player_name.split()[0].lower()}_{player_name.split()[-1].lower()}.jpg"
+                if len(player_name.split()) > 1
+                else None,
+            ]
+            assets_dir = Path(__file__).parent.parent.parent / "assets" / "players"
+            for name in possible_names:
+                if name:
+                    test_path = assets_dir / name
+                    if test_path.exists():
+                        image_path = str(test_path)
+                        break
+
+        if image_path and Path(image_path).exists():
+            try:
+                player_img = Image.open(image_path)
+                # Resize and crop to fit circular area
+                img_size = 400
+                player_img = player_img.resize(
+                    (img_size, img_size), Image.Resampling.LANCZOS
+                )
+
+                # Create circular mask
+                mask = Image.new("L", (img_size, img_size), 0)
+                mask_draw = ImageDraw.Draw(mask)
+                mask_draw.ellipse([0, 0, img_size, img_size], fill=255)
+
+                # Apply mask
+                player_img.putalpha(mask)
+
+                # Paste player image
+                img_x = width // 2 - img_size // 2
+                img_y = 150
+                img.paste(player_img, (img_x, img_y), player_img)
+
+                # Draw border around image
+                draw.ellipse(
+                    [img_x - 5, img_y - 5, img_x + img_size + 5, img_y + img_size + 5],
+                    outline=secondary_rgb,
+                    width=4,
+                )
+            except Exception as e:
+                print(f"[Player Poster] Could not load image: {e}")
+
         # Load fonts
         try:
             font_xl = ImageFont.truetype("arial.ttf", 80)
@@ -1049,6 +1101,12 @@ def main():
                     "club": "Real Madrid",
                     "age": "27",
                     "caption": "France captain, 2018 World Cup winner",
+                    "image_path": str(
+                        Path(__file__).parent.parent.parent
+                        / "assets"
+                        / "players"
+                        / "kylian_mbappe.jpg"
+                    ),
                 },
                 {
                     "name": "Lamine Yamal",
@@ -1059,6 +1117,12 @@ def main():
                     "club": "Barcelona",
                     "age": "18",
                     "caption": "Euro 2024 winner, youngest goalscorer in Euros history",
+                    "image_path": str(
+                        Path(__file__).parent.parent.parent
+                        / "assets"
+                        / "players"
+                        / "lamine_yamal.jpg"
+                    ),
                 },
                 {
                     "name": "Lionel Messi",
