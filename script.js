@@ -81,8 +81,21 @@ const players = [
         countryCode: "fr",
         position: "Forward",
         number: 10,
-        bio: "The fastest player in world football. 2018 World Cup winner and 2022 Golden Boot winner.",
+        club: "Real Madrid",
+        age: 27,
+        bio: "France captain, 2018 World Cup winner, 2022 Golden Boot winner. The world's most dangerous attacker.",
         image: "https://img.a.transfermarkt.technology/portrait/header/342229-1700087573.jpg"
+    },
+    {
+        name: "Lamine Yamal",
+        country: "Spain",
+        countryCode: "es",
+        position: "Winger",
+        number: 19,
+        club: "Barcelona",
+        age: 18,
+        bio: "Euro 2024 winner at 17. The most exciting teenage talent since Pelé. First World Cup.",
+        image: "https://img.a.transfermarkt.technology/portrait/header/937958-1710017583.jpg"
     },
     {
         name: "Lionel Messi",
@@ -90,17 +103,21 @@ const players = [
         countryCode: "ar",
         position: "Forward",
         number: 10,
-        bio: "2022 World Cup champion. Greatest of all time. Last dance in 2026?",
+        club: "Inter Miami",
+        age: 38,
+        bio: "8x Ballon d'Or winner. 2022 World Cup champion. Possibly his last World Cup.",
         image: "https://img.a.transfermarkt.technology/portrait/header/28003-1700087553.jpg"
     },
     {
-        name: "Erling Haaland",
-        country: "Norway",
-        countryCode: "no",
+        name: "Harry Kane",
+        country: "England",
+        countryCode: "gb-eng",
         position: "Striker",
         number: 9,
-        bio: "Goal machine. Norway's first World Cup in decades.",
-        image: "https://img.a.transfermarkt.technology/portrait/header/418560-1682783524.jpg"
+        club: "Bayern Munich",
+        age: 32,
+        bio: "England's all-time top scorer. 2018 Golden Boot winner. 61 goals in 2025-26.",
+        image: "https://img.a.transfermarkt.technology/portrait/header/132098-1694596471.jpg"
     },
     {
         name: "Vinícius Jr.",
@@ -108,7 +125,9 @@ const players = [
         countryCode: "br",
         position: "Winger",
         number: 7,
-        bio: "Electrifying pace and skill. Brazil's talisman.",
+        club: "Real Madrid",
+        age: 25,
+        bio: "Brazil's talisman. 2024 Ballon d'Or runner-up. Electrifying pace and skill.",
         image: "https://img.a.transfermarkt.technology/portrait/header/371998-1694600404.jpg"
     },
     {
@@ -117,17 +136,76 @@ const players = [
         countryCode: "gb-eng",
         position: "Midfielder",
         number: 8,
-        bio: "Young English star. Real Madrid's midfield maestro.",
+        club: "Real Madrid",
+        age: 22,
+        bio: "England's creative engine. Champions League winner at 20. Big-game player.",
         image: "https://img.a.transfermarkt.technology/portrait/header/581678-1694600380.jpg"
     },
     {
-        name: "Bukayo Saka",
-        country: "England",
-        countryCode: "gb-eng",
-        position: "Winger",
+        name: "Erling Haaland",
+        country: "Norway",
+        countryCode: "no",
+        position: "Striker",
         number: 9,
-        bio: "Arsenal's star boy. Deadly on the right wing.",
-        image: "https://img.a.transfermarkt.technology/portrait/header/532498-1668022304.jpg"
+        club: "Manchester City",
+        age: 25,
+        bio: "Goal machine. First World Cup. 16 goals in qualifiers. Most lethal striker.",
+        image: "https://img.a.transfermarkt.technology/portrait/header/418560-1682783524.jpg"
+    },
+    {
+        name: "Rodri",
+        country: "Spain",
+        countryCode: "es",
+        position: "Midfielder",
+        number: 16,
+        club: "Manchester City",
+        age: 29,
+        bio: "2024 Ballon d'Or holder. Euro 2024 winner. Spain's midfield pivot.",
+        image: "https://img.a.transfermarkt.technology/portrait/header/357524-1694596415.jpg"
+    },
+    {
+        name: "Cristiano Ronaldo",
+        country: "Portugal",
+        countryCode: "pt",
+        position: "Forward",
+        number: 7,
+        club: "Al-Nassr",
+        age: 41,
+        bio: "Record 6th World Cup. All-time top international scorer. 143 goals.",
+        image: "https://img.a.transfermarkt.technology/portrait/header/8198-1694596387.jpg"
+    },
+    {
+        name: "Florian Wirtz",
+        country: "Germany",
+        countryCode: "de",
+        position: "Midfielder",
+        number: 10,
+        club: "Bayer Leverkusen",
+        age: 23,
+        bio: "German Footballer of the Year. Best left-footed midfielder of his generation.",
+        image: "https://img.a.transfermarkt.technology/portrait/header/706498-1694600356.jpg"
+    },
+    {
+        name: "Jamal Musiala",
+        country: "Germany",
+        countryCode: "de",
+        position: "Midfielder",
+        number: 42,
+        club: "Bayern Munich",
+        age: 23,
+        bio: "Germany's 'Bambi'. Dribbles like nobody else. Bayern's chief creator.",
+        image: "https://img.a.transfermarkt.technology/portrait/header/634267-1694600372.jpg"
+    },
+    {
+        name: "Christian Pulisic",
+        country: "USA",
+        countryCode: "us",
+        position: "Forward",
+        number: 10,
+        club: "AC Milan",
+        age: 27,
+        bio: "USA's face. Champions League winner. Home World Cup hero.",
+        image: "https://img.a.transfermarkt.technology/portrait/header/363001-1694600420.jpg"
     }
 ];
 

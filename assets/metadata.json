@@ -438,8 +438,23 @@
       "countryCode": "fr",
       "position": "Forward",
       "number": 10,
+      "club": "Real Madrid",
+      "age": 27,
       "image": "https://img.a.transfermarkt.technology/portrait/header/342229-1700087573.jpg",
-      "caption": "France forward and 2018 World Cup winner"
+      "caption": "France captain, 2018 World Cup winner, 2022 Golden Boot winner",
+      "ranking": 1
+    },
+    {
+      "name": "Lamine Yamal",
+      "country": "Spain",
+      "countryCode": "es",
+      "position": "Winger",
+      "number": 19,
+      "club": "Barcelona",
+      "age": 18,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/937958-1710017583.jpg",
+      "caption": "Euro 2024 winner, youngest goalscorer in Euros history",
+      "ranking": 2
     },
     {
       "name": "Lionel Messi",
@@ -447,17 +462,23 @@
       "countryCode": "ar",
       "position": "Forward",
       "number": 10,
+      "club": "Inter Miami",
+      "age": 38,
       "image": "https://img.a.transfermarkt.technology/portrait/header/28003-1700087553.jpg",
-      "caption": "Argentina captain and 2022 World Cup champion"
+      "caption": "8x Ballon d'Or winner, 2022 World Cup champion, captain",
+      "ranking": 3
     },
     {
-      "name": "Erling Haaland",
-      "country": "Norway",
-      "countryCode": "no",
+      "name": "Harry Kane",
+      "country": "England",
+      "countryCode": "gb-eng",
       "position": "Striker",
       "number": 9,
-      "image": "https://img.a.transfermarkt.technology/portrait/header/418560-1682783524.jpg",
-      "caption": "Norway's goal machine"
+      "club": "Bayern Munich",
+      "age": 32,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/132098-1694596471.jpg",
+      "caption": "England's all-time top scorer, 2018 Golden Boot winner",
+      "ranking": 4
     },
     {
       "name": "Vinícius Jr.",
@@ -465,8 +486,11 @@
       "countryCode": "br",
       "position": "Winger",
       "number": 7,
+      "club": "Real Madrid",
+      "age": 25,
       "image": "https://img.a.transfermarkt.technology/portrait/header/371998-1694600404.jpg",
-      "caption": "Brazil's electrifying winger"
+      "caption": "Brazil's talisman, 2024 Ballon d'Or runner-up",
+      "ranking": 5
     },
     {
       "name": "Jude Bellingham",
@@ -474,17 +498,131 @@
       "countryCode": "gb-eng",
       "position": "Midfielder",
       "number": 8,
+      "club": "Real Madrid",
+      "age": 22,
       "image": "https://img.a.transfermarkt.technology/portrait/header/581678-1694600380.jpg",
-      "caption": "England and Real Madrid midfielder"
+      "caption": "England's creative engine, Champions League winner at 20",
+      "ranking": 6
+    },
+    {
+      "name": "Erling Haaland",
+      "country": "Norway",
+      "countryCode": "no",
+      "position": "Striker",
+      "number": 9,
+      "club": "Manchester City",
+      "age": 25,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/418560-1682783524.jpg",
+      "caption": "Goal machine, first World Cup, 16 goals in qualifiers",
+      "ranking": 7
+    },
+    {
+      "name": "Rodri",
+      "country": "Spain",
+      "countryCode": "es",
+      "position": "Midfielder",
+      "number": 16,
+      "club": "Manchester City",
+      "age": 29,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/357524-1694596415.jpg",
+      "caption": "2024 Ballon d'Or holder, Euro 2024 winner",
+      "ranking": 8
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "country": "Portugal",
+      "countryCode": "pt",
+      "position": "Forward",
+      "number": 7,
+      "club": "Al-Nassr",
+      "age": 41,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/8198-1694596387.jpg",
+      "caption": "Record 6th World Cup, all-time top international scorer",
+      "ranking": 9
+    },
+    {
+      "name": "Florian Wirtz",
+      "country": "Germany",
+      "countryCode": "de",
+      "position": "Midfielder",
+      "number": 10,
+      "club": "Bayer Leverkusen",
+      "age": 23,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/706498-1694600356.jpg",
+      "caption": "German Footballer of the Year, Liverpool target",
+      "ranking": 10
+    },
+    {
+      "name": "Jamal Musiala",
+      "country": "Germany",
+      "countryCode": "de",
+      "position": "Midfielder",
+      "number": 42,
+      "club": "Bayern Munich",
+      "age": 23,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/634267-1694600372.jpg",
+      "caption": "Germany's 'Bambi', Euro 2024 star",
+      "ranking": 11
+    },
+    {
+      "name": "Christian Pulisic",
+      "country": "USA",
+      "countryCode": "us",
+      "position": "Forward",
+      "number": 10,
+      "club": "AC Milan",
+      "age": 27,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/363001-1694600420.jpg",
+      "caption": "USA's face, Champions League winner, home World Cup",
+      "ranking": 12
+    },
+    {
+      "name": "Kevin De Bruyne",
+      "country": "Belgium",
+      "countryCode": "be",
+      "position": "Midfielder",
+      "number": 17,
+      "club": "Manchester City",
+      "age": 34,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/258734-1694600396.jpg",
+      "caption": "Belgium's midfield maestro, one of the best ever",
+      "ranking": 18
     },
     {
       "name": "Bukayo Saka",
       "country": "England",
       "countryCode": "gb-eng",
       "position": "Winger",
-      "number": 9,
+      "number": 7,
+      "club": "Arsenal",
+      "age": 24,
       "image": "https://img.a.transfermarkt.technology/portrait/header/532498-1668022304.jpg",
-      "caption": "Arsenal's star winger"
+      "caption": "Arsenal's star boy, deadly on the right wing",
+      "ranking": 27
+    },
+    {
+      "name": "Pedri",
+      "country": "Spain",
+      "countryCode": "es",
+      "position": "Midfielder",
+      "number": 8,
+      "club": "Barcelona",
+      "age": 23,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/583113-1694600432.jpg",
+      "caption": "Spain's midfield orchestrator, 12 assists in 2025-26",
+      "ranking": 10
+    },
+    {
+      "name": "Michael Olise",
+      "country": "France",
+      "countryCode": "fr",
+      "position": "Winger",
+      "number": 7,
+      "club": "Bayern Munich",
+      "age": 24,
+      "image": "https://img.a.transfermarkt.technology/portrait/header/506407-1694600444.jpg",
+      "caption": "Bundesliga Player of the Season, 53 goal involvements",
+      "ranking": 9
     }
   ],
   "hostCities": [

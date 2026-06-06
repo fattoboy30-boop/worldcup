@@ -1,10 +1,11 @@
 # FIFA World Cup 2026 Graphic Designer Agent
 
-Generate match posters, social media graphics, and team cards for the FIFA World Cup 2026.
+Generate match posters, social media graphics, team cards, and player posters for the FIFA World Cup 2026.
 
 ## Features
 
 - **Match Posters**: Generate VS-style match posters with team colors
+- **Player Posters**: Create star player poster cards with stats and bio
 - **Social Media Graphics**: Create countdown, announcement, and result graphics
 - **Team Cards**: Design team information cards with flag and stats
 - **Multiple Generation Methods**: ComfyUI, Pillow, or HTML/CSS templates
@@ -21,6 +22,9 @@ pip install -r requirements.txt
 # Generate match poster
 python graphic_designer.py poster --home "Brazil" --away "Argentina" --date "June 15, 2026" --time "20:00" --venue "MetLife Stadium"
 
+# Generate player poster
+python graphic_designer.py player --name "Kylian Mbappé" --country "France" --country-code "fr" --position "Forward" --number "10" --club "Real Madrid" --age "27" --bio "France captain, 2018 World Cup winner"
+
 # Generate social media graphic
 python graphic_designer.py social --type "countdown" --title "WORLD CUP 2026" --subtitle "Coming Soon"
 
@@ -28,7 +32,7 @@ python graphic_designer.py social --type "countdown" --title "WORLD CUP 2026" --
 python graphic_designer.py card --team "Brazil"
 
 # Batch generation
-python graphic_designer.py batch --posters --cards --social-pack
+python graphic_designer.py batch --posters --cards --players --social-pack
 ```
 
 ### 2. HTML/CSS Templates

@@ -654,6 +654,208 @@ class GraphicDesignerAgent:
             print(f"[ComfyUI] Error: {e}")
             return None
 
+    # ===== Player Poster Generation =====
+
+    def generate_player_poster(self, player_data, output_name=None):
+        """Generate a player poster card."""
+        print(f"[Player Poster] Generating: {player_data.get('name', 'Unknown')}")
+
+        if self.comfyui_available:
+            return self._generate_with_comfyui("player_poster", player_data)
+        elif HAS_PILLOW:
+            return self._generate_player_poster_pillow(player_data, output_name)
+        else:
+            print("[Player Poster] No generation method available")
+            return None
+
+    def _generate_player_poster_pillow(self, player_data, output_name):
+        """Generate player poster using Pillow."""
+        width, height = 1080, 1350
+
+        img = Image.new("RGB", (width, height))
+        draw = ImageDraw.Draw(img)
+
+        # Get team colors
+        team_name = player_data.get("country", "")
+        team_colors = self.teams.get(team_name, {}).get("colors", ["#1a1a2e", "#fff"])
+
+        # Parse hex color to RGB
+        def hex_to_rgb(hex_color):
+            hex_color = hex_color.lstrip("#")
+            if len(hex_color) == 3:
+                hex_color = "".join([c * 2 for c in hex_color])
+            return tuple(int(hex_color[i : i + 2], 16) for i in (0, 2, 4))
+
+        primary_rgb = hex_to_rgb(team_colors[0])
+        secondary_rgb = (
+            hex_to_rgb(team_colors[1]) if len(team_colors) > 1 else (255, 255, 255)
+        )
+
+        # Draw gradient background
+        for y in range(height):
+            ratio = y / height
+            r = int(primary_rgb[0] * (1 - ratio) + 20 * ratio)
+            g = int(primary_rgb[1] * (1 - ratio) + 10 * ratio)
+            b = int(primary_rgb[2] * (1 - ratio) + 30 * ratio)
+            draw.line(
+                [(0, y), (width, y)], fill=(min(r, 255), min(g, 255), min(b, 255))
+            )
+
+        # Draw diagonal accent
+        draw.polygon([(0, 0), (width, 0), (width, height // 3)], fill=primary_rgb)
+
+        # Draw decorative elements
+        draw.rounded_rectangle(
+            [30, 30, width - 30, height - 30], radius=25, outline=secondary_rgb, width=3
+        )
+
+        # Load fonts
+        try:
+            font_xl = ImageFont.truetype("arial.ttf", 80)
+            font_large = ImageFont.truetype("arial.ttf", 48)
+            font_medium = ImageFont.truetype("arial.ttf", 36)
+            font_small = ImageFont.truetype("arial.ttf", 28)
+            font_number = ImageFont.truetype("arial.ttf", 200)
+        except:
+            font_xl = ImageFont.load_default()
+            font_large = ImageFont.load_default()
+            font_medium = ImageFont.load_default()
+            font_small = ImageFont.load_default()
+            font_number = ImageFont.load_default()
+
+        # Draw player number (large, faded in background)
+        player_number = player_data.get("number", "10")
+        draw.text(
+            (width // 2, height // 2 + 50),
+            str(player_number),
+            fill=(255, 255, 255, 30),
+            font=font_number,
+            anchor="mm",
+        )
+
+        # Draw FIFA World Cup header
+        draw.text(
+            (width // 2, 80),
+            "FIFA WORLD CUP 2026",
+            fill="#ffc72c",
+            font=font_small,
+            anchor="mm",
+        )
+
+        # Draw player name
+        player_name = player_data.get("name", "Player Name")
+        draw.text(
+            (width // 2, height // 2 - 150),
+            player_name.upper(),
+            fill="white",
+            font=font_xl,
+            anchor="mm",
+        )
+
+        # Draw player info
+        info_y = height // 2 - 50
+
+        # Country flag placeholder
+        country_code = player_data.get("countryCode", "un")
+        draw.rounded_rectangle(
+            [width // 2 - 50, info_y, width // 2 + 50, info_y + 40],
+            radius=5,
+            fill="white",
+        )
+        draw.text(
+            (width // 2, info_y + 20),
+            country_code.upper(),
+            fill=primary_rgb,
+            font=font_small,
+            anchor="mm",
+        )
+
+        # Position and number
+        draw.text(
+            (width // 2, info_y + 70),
+            f"#{player_number} • {player_data.get('position', 'Forward')}",
+            fill="#ffc72c",
+            font=font_medium,
+            anchor="mm",
+        )
+
+        # Club
+        club = player_data.get("club", "")
+        if club:
+            draw.text(
+                (width // 2, info_y + 120),
+                club,
+                fill="#b0b0b0",
+                font=font_small,
+                anchor="mm",
+            )
+
+        # Age
+        age = player_data.get("age", "")
+        if age:
+            draw.text(
+                (width // 2, info_y + 160),
+                f"Age: {age}",
+                fill="#b0b0b0",
+                font=font_small,
+                anchor="mm",
+            )
+
+        # Bio/Caption
+        bio = player_data.get("caption", player_data.get("bio", ""))
+        if bio:
+            # Word wrap bio text
+            words = bio.split()
+            lines = []
+            current_line = []
+            for word in words:
+                test_line = " ".join(current_line + [word])
+                if len(test_line) < 45:
+                    current_line.append(word)
+                else:
+                    lines.append(" ".join(current_line))
+                    current_line = [word]
+            if current_line:
+                lines.append(" ".join(current_line))
+
+            bio_y = height - 250
+            for i, line in enumerate(lines[:3]):
+                draw.text(
+                    (width // 2, bio_y + i * 35),
+                    line,
+                    fill="white",
+                    font=font_small,
+                    anchor="mm",
+                )
+
+        # Draw bottom accent bar
+        draw.rectangle([0, height - 60, width, height], fill=primary_rgb)
+        draw.text(
+            (width // 2, height - 30),
+            "STAR PLAYER",
+            fill="white",
+            font=font_small,
+            anchor="mm",
+        )
+
+        # Save
+        if not output_name:
+            output_name = f"player_poster_{player_name.lower().replace(' ', '_')}"
+
+        filepath = self.output_dir / f"{output_name}.png"
+        img.save(filepath, quality=95)
+        print(f"[Player Poster] Saved: {filepath}")
+        return filepath
+
+    def generate_all_player_posters(self, players_list):
+        """Generate posters for multiple players."""
+        results = []
+        for player in players_list:
+            result = self.generate_player_poster(player)
+            if result:
+                results.append(result)
+        return results
+
     # ===== Batch Generation =====
 
     def generate_all_match_posters(self, matches):
@@ -739,6 +941,17 @@ def main():
     card_parser = subparsers.add_parser("card", help="Generate team card")
     card_parser.add_argument("--team", required=True, help="Team name")
 
+    # Player poster command
+    player_parser = subparsers.add_parser("player", help="Generate player poster")
+    player_parser.add_argument("--name", required=True, help="Player name")
+    player_parser.add_argument("--country", required=True, help="Country name")
+    player_parser.add_argument("--country-code", default="un", help="Country code")
+    player_parser.add_argument("--position", default="Forward", help="Player position")
+    player_parser.add_argument("--number", default="10", help="Jersey number")
+    player_parser.add_argument("--club", default="", help="Club team")
+    player_parser.add_argument("--age", default="", help="Player age")
+    player_parser.add_argument("--bio", default="", help="Player bio/caption")
+
     # Batch commands
     batch_parser = subparsers.add_parser("batch", help="Batch generation")
     batch_parser.add_argument(
@@ -746,6 +959,9 @@ def main():
     )
     batch_parser.add_argument(
         "--cards", action="store_true", help="Generate all team cards"
+    )
+    batch_parser.add_argument(
+        "--players", action="store_true", help="Generate all player posters"
     )
     batch_parser.add_argument(
         "--social-pack", action="store_true", help="Generate social media pack"
@@ -767,6 +983,20 @@ def main():
 
     elif args.command == "card":
         designer.generate_team_card(args.team)
+
+    elif args.command == "player":
+        player_data = {
+            "name": args.name,
+            "country": args.country,
+            "countryCode": args.country_code,
+            "position": args.position,
+            "number": args.number,
+            "club": args.club,
+            "age": args.age,
+            "bio": args.bio,
+            "caption": args.bio,
+        }
+        designer.generate_player_poster(player_data)
 
     elif args.command == "batch":
         if args.posters:
@@ -807,6 +1037,91 @@ def main():
                 "Mexico",
             ]
             designer.generate_all_team_cards(teams)
+
+        if args.players:
+            players = [
+                {
+                    "name": "Kylian Mbappé",
+                    "country": "France",
+                    "countryCode": "fr",
+                    "position": "Forward",
+                    "number": "10",
+                    "club": "Real Madrid",
+                    "age": "27",
+                    "caption": "France captain, 2018 World Cup winner",
+                },
+                {
+                    "name": "Lamine Yamal",
+                    "country": "Spain",
+                    "countryCode": "es",
+                    "position": "Winger",
+                    "number": "19",
+                    "club": "Barcelona",
+                    "age": "18",
+                    "caption": "Euro 2024 winner, youngest goalscorer in Euros history",
+                },
+                {
+                    "name": "Lionel Messi",
+                    "country": "Argentina",
+                    "countryCode": "ar",
+                    "position": "Forward",
+                    "number": "10",
+                    "club": "Inter Miami",
+                    "age": "38",
+                    "caption": "8x Ballon d'Or winner, 2022 World Cup champion",
+                },
+                {
+                    "name": "Harry Kane",
+                    "country": "England",
+                    "countryCode": "gb-eng",
+                    "position": "Striker",
+                    "number": "9",
+                    "club": "Bayern Munich",
+                    "age": "32",
+                    "caption": "England's all-time top scorer, 2018 Golden Boot winner",
+                },
+                {
+                    "name": "Vinícius Jr.",
+                    "country": "Brazil",
+                    "countryCode": "br",
+                    "position": "Winger",
+                    "number": "7",
+                    "club": "Real Madrid",
+                    "age": "25",
+                    "caption": "Brazil's talisman, 2024 Ballon d'Or runner-up",
+                },
+                {
+                    "name": "Erling Haaland",
+                    "country": "Norway",
+                    "countryCode": "no",
+                    "position": "Striker",
+                    "number": "9",
+                    "club": "Manchester City",
+                    "age": "25",
+                    "caption": "Goal machine, first World Cup, 16 goals in qualifiers",
+                },
+                {
+                    "name": "Cristiano Ronaldo",
+                    "country": "Portugal",
+                    "countryCode": "pt",
+                    "position": "Forward",
+                    "number": "7",
+                    "club": "Al-Nassr",
+                    "age": "41",
+                    "caption": "Record 6th World Cup, all-time top international scorer",
+                },
+                {
+                    "name": "Christian Pulisic",
+                    "country": "USA",
+                    "countryCode": "us",
+                    "position": "Forward",
+                    "number": "10",
+                    "club": "AC Milan",
+                    "age": "27",
+                    "caption": "USA's face, Champions League winner, home World Cup",
+                },
+            ]
+            designer.generate_all_player_posters(players)
 
         if args.social_pack:
             designer.generate_social_media_pack()
