@@ -139,7 +139,7 @@ const players = [
         club: "Bayern Munich",
         age: 24,
         bio: "2025-26 Bundesliga Player of Season. 53 goal involvements in 57 matches. France's creative spark.",
-        image: "assets/players/florian_wirtz.jpg"
+        image: "assets/players/team_kevin_de_bruyne.jpg"
     },
     {
         name: "Erling Haaland",
@@ -161,7 +161,7 @@ const players = [
         club: "Barcelona",
         age: 23,
         bio: "Spain's midfield maestro. 12 assists last season. Key to La Roja's title defense.",
-        image: "assets/players/jude_bellingham.jpg"
+        image: "assets/players/team_jamal_musiala.jpg"
     },
     {
         name: "Cristiano Ronaldo",
@@ -183,7 +183,7 @@ const players = [
         club: "Real Madrid",
         age: 21,
         bio: "Turkey's golden boy. Back at World Cup after 24-year absence. Pure magic on the ball.",
-        image: "assets/players/florian_wirtz.jpg"
+        image: "assets/players/rodri.jpg"
     },
     {
         name: "Nico Paz",
@@ -194,7 +194,7 @@ const players = [
         club: "Como",
         age: 21,
         bio: "Tipped as Messi's successor. Versatile attacking midfielder. Ready for his first World Cup.",
-        image: "assets/players/jamal_musiala.jpg"
+        image: "assets/players/team_lamine_yamal.jpg"
     },
     {
         name: "Christian Pulisic",
@@ -523,7 +523,7 @@ function initScrollAnimations() {
         });
     }, observerOptions);
 
-    document.querySelectorAll('.section-header, .city-card, .team-card, .schedule-card, .player-card, .fan-card, .timeline-item').forEach(el => {
+    document.querySelectorAll('.section-header, .city-card, .team-card, .fan-card, .timeline-item').forEach(el => {
         el.style.opacity = '0';
         el.style.transform = 'translateY(30px)';
         el.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
