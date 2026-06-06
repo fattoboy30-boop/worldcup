@@ -362,9 +362,12 @@ function initPlayers() {
     players.forEach((player, index) => {
         const card = document.createElement('div');
         card.className = `player-card ${index === 0 ? 'featured' : ''}`;
+        
+        const onErrorHandler = `this.onerror=null;this.parentElement.innerHTML='<div class="player-placeholder">⚽</div>'`;
+        
         card.innerHTML = `
             <div class="player-image">
-                <img class="player-img" src="${player.image}" alt="${player.name}" onerror="this.parentElement.innerHTML='<div class=\\'player-placeholder\\'>⚽</div>'">
+                <img class="player-img" src="${player.image}" alt="${player.name}" onerror="${onErrorHandler}">
                 <img class="player-country-flag" src="${getFlagUrl(player.countryCode)}" alt="${player.country}">
                 <div class="player-number">#${player.number}</div>
             </div>
