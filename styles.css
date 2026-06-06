@@ -241,100 +241,53 @@ a {
 /* Trophy */
 .hero-trophy {
     position: absolute;
-    right: 8%;
-    bottom: 5%;
+    right: 5%;
+    bottom: 10%;
     z-index: 1;
-    animation: trophyFloat 4s ease-in-out infinite;
 }
 
 .trophy-img {
-    width: 180px;
+    width: 120px;
     height: auto;
-    border-radius: 12px;
-    box-shadow: 0 0 40px rgba(212, 175, 55, 0.4), 0 0 80px rgba(212, 175, 55, 0.2);
-    animation: trophyGlow 3s ease-in-out infinite alternate;
+    border-radius: 10px;
+    box-shadow: 0 0 30px rgba(212, 175, 55, 0.3), 0 0 60px rgba(212, 175, 55, 0.15);
     object-fit: cover;
-    transform: rotate(-15deg);
+    transform: rotate(-10deg);
     transition: transform 0.3s ease;
 }
 
 .trophy-img:hover {
-    transform: rotate(0deg) scale(1.1);
+    transform: rotate(0deg) scale(1.05);
 }
 
 .trophy-glow {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 200px;
-    height: 200px;
-    background: radial-gradient(circle, rgba(212, 175, 55, 0.3) 0%, transparent 70%);
-    border-radius: 50%;
-    animation: glowPulse 2s ease-in-out infinite;
-    z-index: -1;
-}
-
-@keyframes trophyFloat {
-    0%, 100% { transform: translateY(0) rotate(-15deg); }
-    50% { transform: translateY(-10px) rotate(-12deg); }
-}
-
-@keyframes trophyGlow {
-    0% { box-shadow: 0 0 30px rgba(212, 175, 55, 0.3), 0 0 60px rgba(212, 175, 55, 0.1); }
-    100% { box-shadow: 0 0 50px rgba(212, 175, 55, 0.6), 0 0 100px rgba(212, 175, 55, 0.3); }
-}
-
-@keyframes glowPulse {
-    0%, 100% { opacity: 0.5; transform: translate(-50%, -50%) scale(1); }
-    50% { opacity: 1; transform: translate(-50%, -50%) scale(1.1); }
+    display: none;
 }
 
 /* Stadium */
 .hero-stadium {
     position: absolute;
     left: 5%;
-    top: 15%;
+    top: 20%;
     z-index: 1;
-    animation: stadiumFloat 5s ease-in-out infinite;
 }
 
 .stadium-img {
-    width: 220px;
+    width: 140px;
     height: auto;
-    border-radius: 12px;
-    box-shadow: 0 0 40px rgba(0, 48, 135, 0.4), 0 0 80px rgba(0, 48, 135, 0.2);
-    animation: stadiumGlow 4s ease-in-out infinite alternate;
+    border-radius: 10px;
+    box-shadow: 0 0 30px rgba(0, 48, 135, 0.3), 0 0 60px rgba(0, 48, 135, 0.15);
     object-fit: cover;
-    transform: rotate(10deg);
+    transform: rotate(8deg);
     transition: transform 0.3s ease;
 }
 
 .stadium-img:hover {
-    transform: rotate(0deg) scale(1.1);
+    transform: rotate(0deg) scale(1.05);
 }
 
 .stadium-glow {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 250px;
-    height: 250px;
-    background: radial-gradient(circle, rgba(0, 48, 135, 0.3) 0%, transparent 70%);
-    border-radius: 50%;
-    animation: glowPulse 3s ease-in-out infinite;
-    z-index: -1;
-}
-
-@keyframes stadiumFloat {
-    0%, 100% { transform: translateY(0) rotate(10deg); }
-    50% { transform: translateY(-15px) rotate(8deg); }
-}
-
-@keyframes stadiumGlow {
-    0% { box-shadow: 0 0 30px rgba(0, 48, 135, 0.3), 0 0 60px rgba(0, 48, 135, 0.1); }
-    100% { box-shadow: 0 0 60px rgba(0, 48, 135, 0.5), 0 0 120px rgba(0, 48, 135, 0.2); }
+    display: none;
 }
 
 @media (max-width: 1024px) {
@@ -345,7 +298,7 @@ a {
         margin-top: 1rem;
     }
     .trophy-img {
-        width: 120px;
+        width: 90px;
     }
     .hero-stadium {
         position: relative;
@@ -354,7 +307,7 @@ a {
         margin-bottom: 1rem;
     }
     .stadium-img {
-        width: 150px;
+        width: 90px;
     }
 }
 
