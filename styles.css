@@ -290,6 +290,53 @@ a {
     50% { opacity: 1; transform: translate(-50%, -50%) scale(1.1); }
 }
 
+/* Stadium */
+.hero-stadium {
+    position: absolute;
+    left: 5%;
+    top: 15%;
+    z-index: 1;
+    animation: stadiumFloat 5s ease-in-out infinite;
+}
+
+.stadium-img {
+    width: 220px;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 0 40px rgba(0, 48, 135, 0.4), 0 0 80px rgba(0, 48, 135, 0.2);
+    animation: stadiumGlow 4s ease-in-out infinite alternate;
+    object-fit: cover;
+    transform: rotate(10deg);
+    transition: transform 0.3s ease;
+}
+
+.stadium-img:hover {
+    transform: rotate(0deg) scale(1.1);
+}
+
+.stadium-glow {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 250px;
+    height: 250px;
+    background: radial-gradient(circle, rgba(0, 48, 135, 0.3) 0%, transparent 70%);
+    border-radius: 50%;
+    animation: glowPulse 3s ease-in-out infinite;
+    z-index: -1;
+}
+
+@keyframes stadiumFloat {
+    0%, 100% { transform: translateY(0) rotate(10deg); }
+    50% { transform: translateY(-15px) rotate(8deg); }
+}
+
+@keyframes stadiumGlow {
+    0% { box-shadow: 0 0 30px rgba(0, 48, 135, 0.3), 0 0 60px rgba(0, 48, 135, 0.1); }
+    100% { box-shadow: 0 0 60px rgba(0, 48, 135, 0.5), 0 0 120px rgba(0, 48, 135, 0.2); }
+}
+
 @media (max-width: 1024px) {
     .hero-trophy {
         position: relative;
@@ -299,6 +346,15 @@ a {
     }
     .trophy-img {
         width: 120px;
+    }
+    .hero-stadium {
+        position: relative;
+        left: auto;
+        top: auto;
+        margin-bottom: 1rem;
+    }
+    .stadium-img {
+        width: 150px;
     }
 }
 
