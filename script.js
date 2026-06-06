@@ -83,7 +83,7 @@ const players = [
         number: 10,
         club: "Real Madrid",
         age: 27,
-        bio: "France captain, 2018 World Cup winner, 2022 Golden Boot winner. The world's most dangerous attacker.",
+        bio: "2018 World Cup winner. 2022 Golden Boot with 8 goals. France's all-time danger man chasing second title.",
         image: "assets/players/kylian_mbappe.jpg"
     },
     {
@@ -94,7 +94,7 @@ const players = [
         number: 19,
         club: "Barcelona",
         age: 18,
-        bio: "Euro 2024 winner at 17. The most exciting teenage talent since Pelé. First World Cup.",
+        bio: "Euro 2024 winner at 17. World's best young player. First World Cup - ready to make history.",
         image: "assets/players/lamine_yamal.jpg"
     },
     {
@@ -105,7 +105,7 @@ const players = [
         number: 10,
         club: "Inter Miami",
         age: 38,
-        bio: "8x Ballon d'Or winner. 2022 World Cup champion. Possibly his last World Cup.",
+        bio: "8x Ballon d'Or. 2022 World Cup champion. Possibly his last World Cup. Recovering from hamstring injury.",
         image: "assets/players/lionel_messi.jpg"
     },
     {
@@ -116,7 +116,7 @@ const players = [
         number: 9,
         club: "Bayern Munich",
         age: 32,
-        bio: "England's all-time top scorer. 2018 Golden Boot winner. 61 goals in 2025-26.",
+        bio: "England's all-time top scorer with 78 goals. 61 goals in 2025-26. Chasing first major trophy.",
         image: "assets/players/harry_kane.jpg"
     },
     {
@@ -127,19 +127,19 @@ const players = [
         number: 7,
         club: "Real Madrid",
         age: 25,
-        bio: "Brazil's talisman. 2024 Ballon d'Or runner-up. Electrifying pace and skill.",
+        bio: "Brazil's talisman. 2024 Ballon d'Or runner-up. Leading Brazil's quest for 6th World Cup.",
         image: "assets/players/vinicius_junior.jpg"
     },
     {
-        name: "Jude Bellingham",
-        country: "England",
-        countryCode: "gb-eng",
-        position: "Midfielder",
-        number: 8,
-        club: "Real Madrid",
-        age: 22,
-        bio: "England's creative engine. Champions League winner at 20. Big-game player.",
-        image: "assets/players/jude_bellingham.jpg"
+        name: "Michael Olise",
+        country: "France",
+        countryCode: "fr",
+        position: "Winger",
+        number: 7,
+        club: "Bayern Munich",
+        age: 24,
+        bio: "2025-26 Bundesliga Player of Season. 53 goal involvements in 57 matches. France's creative spark.",
+        image: "assets/players/florian_wirtz.jpg"
     },
     {
         name: "Erling Haaland",
@@ -149,19 +149,19 @@ const players = [
         number: 9,
         club: "Manchester City",
         age: 25,
-        bio: "Goal machine. First World Cup. 16 goals in qualifiers. Most lethal striker.",
+        bio: "55 goals in 48 Norway matches. First World Cup. Fastest to 100 Premier League goals.",
         image: "assets/players/erling_haaland.jpg"
     },
     {
-        name: "Rodri",
+        name: "Pedri",
         country: "Spain",
         countryCode: "es",
         position: "Midfielder",
-        number: 16,
-        club: "Manchester City",
-        age: 29,
-        bio: "2024 Ballon d'Or holder. Euro 2024 winner. Spain's midfield pivot.",
-        image: "assets/players/rodri.jpg"
+        number: 8,
+        club: "Barcelona",
+        age: 23,
+        bio: "Spain's midfield maestro. 12 assists last season. Key to La Roja's title defense.",
+        image: "assets/players/jude_bellingham.jpg"
     },
     {
         name: "Cristiano Ronaldo",
@@ -171,29 +171,29 @@ const players = [
         number: 7,
         club: "Al-Nassr",
         age: 41,
-        bio: "Record 6th World Cup. All-time top international scorer. 143 goals.",
+        bio: "Record 6th World Cup. All-time top international scorer with 143 goals. Still chasing World Cup glory.",
         image: "assets/players/cristiano_ronaldo.jpg"
     },
     {
-        name: "Florian Wirtz",
-        country: "Germany",
-        countryCode: "de",
+        name: "Arda Güler",
+        country: "Turkey",
+        countryCode: "tr",
         position: "Midfielder",
         number: 10,
-        club: "Bayer Leverkusen",
-        age: 23,
-        bio: "German Footballer of the Year. Best left-footed midfielder of his generation.",
+        club: "Real Madrid",
+        age: 21,
+        bio: "Turkey's golden boy. Back at World Cup after 24-year absence. Pure magic on the ball.",
         image: "assets/players/florian_wirtz.jpg"
     },
     {
-        name: "Jamal Musiala",
-        country: "Germany",
-        countryCode: "de",
+        name: "Nico Paz",
+        country: "Argentina",
+        countryCode: "ar",
         position: "Midfielder",
-        number: 42,
-        club: "Bayern Munich",
-        age: 23,
-        bio: "Germany's 'Bambi'. Dribbles like nobody else. Bayern's chief creator.",
+        number: 11,
+        club: "Como",
+        age: 21,
+        bio: "Tipped as Messi's successor. Versatile attacking midfielder. Ready for his first World Cup.",
         image: "assets/players/jamal_musiala.jpg"
     },
     {
@@ -204,7 +204,7 @@ const players = [
         number: 10,
         club: "AC Milan",
         age: 27,
-        bio: "USA's face. Champions League winner. Home World Cup hero.",
+        bio: "USA's talisman. Champions League winner. Leading USMNT on home soil at historic World Cup.",
         image: "assets/players/christian_pulisic.jpg"
     }
 ];
