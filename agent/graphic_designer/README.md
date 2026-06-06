@@ -1,104 +1,83 @@
 # FIFA World Cup 2026 Graphic Designer Agent
 
-Generate match posters, social media graphics, team cards, and player posters for the FIFA World Cup 2026.
+Canvas Design-powered graphics for the FIFA World Cup 2026. Generates museum-quality match posters, player cards, team cards, and social media graphics using design philosophies.
 
-## Features
+## Design Philosophies
 
-- **Match Posters**: Generate VS-style match posters with team colors
-- **Player Posters**: Create star player poster cards with stats and bio
-- **Social Media Graphics**: Create countdown, announcement, and result graphics
-- **Team Cards**: Design team information cards with flag and stats
-- **Multiple Generation Methods**: ComfyUI, Pillow, or HTML/CSS templates
+Each graphic type is guided by a design philosophy:
 
-## Generation Methods
+- **Monumental Clash** (`design_philosophies/match_poster.md`) - Bilateral confrontation, architectural geometry, team color warfare
+- **Atomic Portrait** (`design_philosophies/player_card.md`) - Scientific documentation of athletic brilliance
+- **Signal Amplification** (`design_philosophies/social_media.md`) - Rhythmic geometry, bold typography, urgent energy
 
-### 1. Python (Pillow)
-Generate graphics programmatically using Pillow library.
+## Quick Start
 
 ```bash
 # Install dependencies
 pip install -r requirements.txt
 
-# Generate match poster
+# Generate a match poster
 python graphic_designer.py poster --home "Brazil" --away "Argentina" --date "June 15, 2026" --time "20:00" --venue "MetLife Stadium"
 
-# Generate player poster
-python graphic_designer.py player --name "Kylian Mbappé" --country "France" --country-code "fr" --position "Forward" --number "10" --club "Real Madrid" --age "27" --bio "France captain, 2018 World Cup winner"
+# Generate a player card
+python graphic_designer.py player --name "Kylian Mbappe" --country "France" --position "Forward" --number "10" --club "Real Madrid" --age "27" --bio "2018 World Cup winner"
 
-# Generate social media graphic
-python graphic_designer.py social --type "countdown" --title "WORLD CUP 2026" --subtitle "Coming Soon"
-
-# Generate team card
+# Generate a team card
 python graphic_designer.py card --team "Brazil"
 
-# Batch generation
-python graphic_designer.py batch --posters --cards --players --social-pack
+# Generate social media graphic
+python graphic_designer.py social --type "countdown" --title "5" --subtitle "Days until kickoff"
+
+# List all available teams
+python graphic_designer.py teams
 ```
 
-### 2. HTML/CSS Templates
-Use the browser-based template generator for interactive design.
+## Graphic Types
 
-```bash
-# Open templates/index.html in a browser
-# Use the controls to customize and download graphics
-```
+### Match Poster (1080x1350)
+VS-style bilateral composition with team colors, architectural geometry, and clinical match info notation.
 
-### 3. ComfyUI Integration
-Generate AI-powered graphics using ComfyUI (requires ComfyUI installation).
+### Player Card (1080x1350)
+Atomic Portrait style - large jersey number watermark, concentric circle framework, clinical stat display.
 
-```bash
-# Start ComfyUI server
-# Ensure workflows are in the workflows/ directory
-# Run the generator with ComfyUI enabled
-```
+### Team Card (700x1000)
+National identity as geometric artifact - team code as monumental letterform, color swatches, confederation marker.
 
-## Output Formats
+### Social Media Graphic (1080x1080)
+Signal Amplification - rhythmic concentric circles, bold countdown numbers, gold accent branding.
 
-- **PNG**: High-quality images for web and print
-- **JPEG**: Compressed images for social media
-- **SVG**: Vector graphics for scalability
+## Font System
+
+Uses 50+ Canvas Design fonts from `canvas-fonts/`:
+- **BigShoulders-Bold** - Headlines, numbers, team names
+- **Outfit-Bold/Regular** - Subheadings, details, labels
+- **DMMono-Regular** - Clinical notation, data labels
+- **BricolageGrotesque** - Fallback bold text
+
+## Output
+
+All graphics save to `output/` directory as high-quality PNG files.
 
 ## File Structure
 
 ```
 graphic_designer/
-├── graphic_designer.py      # Main Python script
-├── requirements.txt         # Python dependencies
-├── README.md               # Documentation
-├── workflows/              # ComfyUI workflows
-│   ├── match_poster.json
-│   ├── social_media.json
-│   └── team_card.json
-├── templates/              # HTML/CSS templates
-│   ├── index.html
-│   ├── templates.css
-│   └── templates.js
-└── output/                 # Generated graphics
+├── graphic_designer.py          # Main generator (Canvas Design approach)
+├── canvas-fonts/                # 50+ design-forward fonts
+├── design_philosophies/         # .md philosophy files
+│   ├── match_poster.md
+│   ├── player_card.md
+│   └── social_media.md
+├── output/                      # Generated graphics
+├── requirements.txt
+└── README.md
 ```
 
-## Supported Teams
+## Social Media Types
 
-- Brazil, Argentina, France, England, Germany, Spain
-- USA, Mexico, Canada, Japan, Morocco, South Korea
-- And 32 more qualified teams...
-
-## Customization
-
-### Team Colors
-Edit the `teams` dictionary in `graphic_designer.py` to add or modify team colors.
-
-### Templates
-Modify HTML/CSS templates in the `templates/` directory to change the design.
-
-### Workflows
-Create custom ComfyUI workflows in the `workflows/` directory for AI generation.
-
-## Browser Requirements
-
-For HTML/CSS template generator:
-- Modern browser (Chrome, Firefox, Edge, Safari)
-- html2canvas library (loaded via CDN)
-
-## License
-
-Fan-made graphics tool for educational purposes. Not officially affiliated with FIFA.
+| Type | Description |
+|------|-------------|
+| `countdown` | Large number + label (e.g., "5 DAYS") |
+| `result` | Match result display |
+| `announcement` | Event announcement with tag bar |
+| `general` | Title + subtitle layout |
