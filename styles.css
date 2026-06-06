@@ -230,7 +230,7 @@ a {
 .hero-trophy {
     position: absolute;
     right: 8%;
-    bottom: 15%;
+    bottom: 5%;
     z-index: 1;
     animation: trophyFloat 4s ease-in-out infinite;
 }
