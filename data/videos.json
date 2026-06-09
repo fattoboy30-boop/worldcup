@@ -1,17 +1,89 @@
 {
-  "lastUpdated": "2026-06-09T16:05:56.715Z",
+  "lastUpdated": "2026-06-09T19:18:00.071Z",
   "featured": {
-    "match": "6SwdvR_JBhs",
-    "highlight": "pCob36F8h1E",
-    "interview": "6SwdvR_JBhs"
+    "match": "7V2KqVn39Dk",
+    "highlight": "7V2KqVn39Dk",
+    "interview": "7V2KqVn39Dk"
   },
   "videos": [
     {
-      "title": "Messi, Robben, Honda: Cool Skills From 2010 World Cup",
+      "title": "FIFA World Cup 2026 | Stories From The Cities | Episode 15: Dallas",
+      "videoId": "7V2KqVn39Dk",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-09",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7V2KqVn39Dk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Fabio Cannavaro Lifts The Trophy For Champions Italy #shorts #italy #worldcup",
+      "videoId": "ah8GAPw-ZMU",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-09",
+      "category": "Highlights",
+      "team": [
+        "Italy"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ah8GAPw-ZMU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Best Ever Headed Goals In FIFA World Cup History",
+      "videoId": "vxPgiLFVms4",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-09",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vxPgiLFVms4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Fastest Goals In FIFA World Cup History",
+      "videoId": "muZW_mF7kC0",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-09",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/muZW_mF7kC0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "FIFA World Cup 2026 | Stories From The Cities | Episode 2: Miami",
+      "videoId": "E4M4MUIoWS4",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-09",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/E4M4MUIoWS4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "10 MINUTES OF PURE SKILL | 2010 FIFA World Cup",
       "videoId": "6SwdvR_JBhs",
       "channel": "FIFA",
       "publishedAt": "2026-06-09",
-      "category": "Viral",
+      "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
@@ -67,7 +139,7 @@
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "THE BEST EVER FIFA WORLD CUP GOALS | Part 1",
+      "title": "THE HISTORY OF THE BEST FIFA WORLD CUP GOALS EVER | Part 1",
       "videoId": "QY5RBIYFYzw",
       "channel": "FIFA",
       "publishedAt": "2026-06-09",
@@ -142,94 +214,75 @@
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "20 Years Since Germany 2006 | The Stars of 2026 Remember the 2006 #FIFAWorldCup",
-      "videoId": "pf1vaE6fhEQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-09",
-      "category": "Highlights",
-      "team": [
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/pf1vaE6fhEQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "group",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Jay-Jay Okocha Incredible Showboat Skills! #shorts #nigeria #worldcup",
-      "videoId": "Zxxg5sqrp04",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-09",
-      "category": "Viral",
-      "team": [
-        "Nigeria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Zxxg5sqrp04/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "group",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "FIFA World Cup 2026 | Stories From The Cities | Episode 13: Monterrey",
-      "videoId": "fb9GJidpoYU",
-      "channel": "FIFA",
+      "title": "They really enjoy the days before the start 😅",
+      "videoId": "adRb_g8nEnk",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-09",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fb9GJidpoYU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/adRb_g8nEnk/mqdefault.jpg",
       "matchday": 1,
       "stage": "group",
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Hugo Broos On South Africa's Opening Match vs Mexico | FIFA World Cup 2026",
-      "videoId": "mHM2x83Gv14",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-09",
-      "category": "Highlights",
-      "team": [
-        "Mexico",
-        "South Africa"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/mHM2x83Gv14/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "group",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Kane, Saka & More: All England Goals (2018-2022)",
-      "videoId": "iyRHrzuhrLA",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-09",
-      "category": "Highlights",
-      "team": [
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/iyRHrzuhrLA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "group",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "FIFA World Cup 2026 | Preview Series | Episode 10: \"New Voices\"",
-      "videoId": "RTRPF6OBGtI",
-      "channel": "FIFA",
+      "title": "Anything for a Messi autograph 😂 (via @fcdofficial/TT)",
+      "videoId": "yMhBFQi52UU",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-09",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/RTRPF6OBGtI/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/yMhBFQi52UU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Best defensive teams qualified for the 2026 World Cup",
+      "videoId": "wG7C6BrKuC0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-09",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/wG7C6BrKuC0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Starting the week with Portugal’s aura 🤩🇵🇹",
+      "videoId": "AZHvQ5CkHHo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-09",
+      "category": "Highlights",
+      "team": [
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/AZHvQ5CkHHo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Colombia vs. Jordan EXTENDED HIGHLIGHTS [June 7, 2026] | ESPN FC",
+      "videoId": "UIhF36vpYLU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-09",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/UIhF36vpYLU/mqdefault.jpg",
       "matchday": 1,
       "stage": "group",
       "fixtureTeams": "Mexico vs South Africa"
@@ -375,80 +428,21 @@
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "What lineup adjustments will Deschamps make for France in the World Cup⁉️ | ESPN FC",
-      "videoId": "ZHKEIbJmri0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-08",
+      "title": "LIVE NOW: Argentina v France | 2022 FIFA World Cup Final",
+      "videoId": "ORzHdV_NVnQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-03-27",
       "category": "Highlights",
       "team": [
+        "Argentina",
         "France"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ZHKEIbJmri0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "group",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Joachim Klement predicts the Netherlands to win the 2026 World Cup | ESPN FC",
-      "videoId": "f8BlDTOrx5U",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-08",
-      "category": "Highlights",
-      "team": [
-        "Netherlands"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/f8BlDTOrx5U/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "group",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "USMNT vs. Paraguay ⚽ What would a successful World Cup look like for USMNT? | ESPN FC",
-      "videoId": "HqMQiuQ5ooo",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-08",
-      "category": "Highlights",
-      "team": [
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/HqMQiuQ5ooo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "group",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "‘Mbappe is LAZY’ 😳 What changes do Real Madrid need to make this summer? | ESPN FC",
-      "videoId": "DbqCnmKMpTI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-08",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/DbqCnmKMpTI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "group",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "🚨 USMNT’S Chris Richards will be ready for the 2026 FIFA World Cup opener 🚨 | SportsCenter",
-      "videoId": "HmcdiccPfSU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-08",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/HmcdiccPfSU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "group",
-      "fixtureTeams": "Mexico vs South Africa"
+      "thumbnail": "https://img.youtube.com/vi/ORzHdV_NVnQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
     }
   ]
 }
