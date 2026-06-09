@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-09T21:49:45.120Z",
+  "lastUpdated": "2026-06-09T23:19:07.351Z",
   "featured": {
     "match": "RgqKdplLIk4",
-    "highlight": "Mkn4PmbQL-o",
+    "highlight": "POq1xSApsjg",
     "interview": "RgqKdplLIk4"
   },
   "videos": [
@@ -19,6 +19,37 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/RgqKdplLIk4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "10-Minute Classic | Italy 3-2 Brazil |1982 FIFA World Cup",
+      "videoId": "POq1xSApsjg",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-09",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Italy"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/POq1xSApsjg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "FIFA World Cup 2026 | Stories From The Cities | Episode 16: New York New Jersey",
+      "videoId": "uNpK2hD56-o",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-09",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/uNpK2hD56-o/mqdefault.jpg",
       "matchday": 1,
       "stage": "group",
       "fixtureTeams": "Mexico vs South Africa"
@@ -200,29 +231,93 @@
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Remember These Awesome 2006 FIFA World Cup Moments?",
-      "videoId": "oS958djrsyk",
-      "channel": "FIFA",
+      "title": "Gotta be serious 😭😂 (via @equipedefrance/TT)",
+      "videoId": "uX4SJ9ZBua8",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-09",
       "category": "Highlights",
-      "team": [],
+      "team": [
+        "France"
+      ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/oS958djrsyk/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/uX4SJ9ZBua8/mqdefault.jpg",
       "matchday": 1,
       "stage": "group",
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "THE HISTORY OF THE BEST FIFA WORLD CUP GOALS EVER | Part 1",
-      "videoId": "QY5RBIYFYzw",
-      "channel": "FIFA",
+      "title": "Previewing USMNT & France ahead of FIFA World Cup + Updates on Julian Alvarez & Savinho | ESPN FC",
+      "videoId": "SU1wU6Mu6e4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-09",
+      "category": "Highlights",
+      "team": [
+        "France"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/SU1wU6Mu6e4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Why does Florian Wirtz look better playing for Germany than for Liverpool? | ESPN FC Extra Time",
+      "videoId": "nQagp1alJug",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-09",
+      "category": "Highlights",
+      "team": [
+        "Germany"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/nQagp1alJug/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Is Kylian Mbappe UNDROPPABLE⁉️ Debating Mbappe's importance for France | ESPN FC",
+      "videoId": "K1qRAQU3M58",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-09",
+      "category": "Highlights",
+      "team": [
+        "France"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/K1qRAQU3M58/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Real Madrid announce €150M offer for Julian Alvarez was REJECTED by Atletico Madrid | ESPN FC",
+      "videoId": "YpZMZBluGUI",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-09",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/QY5RBIYFYzw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/YpZMZBluGUI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Jurgen Klinsmann explains USMNT'S FOCUS & APPROACH as the 2026 World Cup begins 🧠 | ESPN FC",
+      "videoId": "2RXkur0We7w",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-09",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/2RXkur0We7w/mqdefault.jpg",
       "matchday": 1,
       "stage": "group",
       "fixtureTeams": "Mexico vs South Africa"
@@ -353,90 +448,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/t5wbENFiqkA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "group",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Luis Garcia reflects on his early days playing with Lionel Messi | ESPN FC",
-      "videoId": "2WjT0A6TDW4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-09",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/2WjT0A6TDW4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "group",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Lamine Yamal and Vinicius Jr. headline LALIGA stars at World Cup | ESPN FC",
-      "videoId": "St3NKMRT708",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-09",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/St3NKMRT708/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "group",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Lamine Yamal says not winning the Ballon D'or has been good for him 🗣️ (via @lamine.yamal/TT)",
-      "videoId": "w25oPrTAsn0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-09",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/w25oPrTAsn0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "group",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Frank Leboeuf calls for Kylian Mbappe to improve ‘SOME PARTS’ of his game | ESPN FC",
-      "videoId": "RKOjzu8G9CM",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-09",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/RKOjzu8G9CM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "group",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "🗣️🇺🇸 (🎥 @zachcavsports/TT)",
-      "videoId": "OOrvQ2mfWBk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-09",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/OOrvQ2mfWBk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "group",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "26 things to watch for in the 2026 World Cup",
-      "videoId": "iBXXpX9dru8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-09",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/iBXXpX9dru8/mqdefault.jpg",
       "matchday": 1,
       "stage": "group",
       "fixtureTeams": "Mexico vs South Africa"
