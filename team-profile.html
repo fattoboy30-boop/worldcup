@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team Profile - FIFA World Cup 2026</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css?v=13.0">
+    <link rel="stylesheet" href="team-profile.css">
+</head>
+<body>
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="nav-logo">
+                <span class="logo-fifa">FIFA</span>
+                <span class="logo-world">WORLD CUP</span>
+                <span class="logo-year">2026</span>
+            </a>
+            <ul class="nav-menu">
+                <li><a href="index.html" class="nav-link">Home</a></li>
+                <li><a href="index.html#teams" class="nav-link active">Teams</a></li>
+                <li><a href="index.html#schedule" class="nav-link">Schedule</a></li>
+                <li><a href="index.html#videos" class="nav-link">Videos</a></li>
+                <li><a href="index.html#news" class="nav-link">News</a></li>
+            </ul>
+            <button class="hamburger" id="hamburger">
+                <span></span><span></span><span></span>
+            </button>
+        </div>
+    </nav>
+
+    <!-- Hero Cover -->
+    <section class="profile-hero" id="profileHero">
+        <div class="profile-cover" id="profileCover"></div>
+        <div class="profile-hero-overlay"></div>
+        <div class="profile-hero-content">
+            <a href="index.html#teams" class="back-btn">&larr; All Teams</a>
+            <div class="profile-hero-info">
+                <img id="profileFlag" class="profile-flag" src="" alt="">
+                <div class="profile-hero-text">
+                    <span class="profile-conf" id="profileConf"></span>
+                    <h1 class="profile-team-name" id="profileTeamName"></h1>
+                    <span class="profile-rank" id="profileRank"></span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Stats Bar -->
+    <section class="profile-stats-bar">
+        <div class="container">
+            <div class="stats-row">
+                <div class="stat-box">
+                    <span class="stat-val" id="statWC"></span>
+                    <span class="stat-lbl">World Cup Titles</span>
+                </div>
+                <div class="stat-box">
+                    <span class="stat-val" id="statRank"></span>
+                    <span class="stat-lbl">FIFA Ranking</span>
+                </div>
+                <div class="stat-box">
+                    <span class="stat-val" id="statBest"></span>
+                    <span class="stat-lbl">Best Finish</span>
+                </div>
+                <div class="stat-box">
+                    <span class="stat-val" id="statCoach"></span>
+                    <span class="stat-lbl">Head Coach</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <section class="profile-content">
+        <div class="container">
+            <div class="profile-grid">
+                <!-- Head Coach -->
+                <div class="profile-card coach-card" id="coachCard">
+                    <div class="coach-bg" id="coachBg"></div>
+                    <div class="coach-overlay"></div>
+                    <div class="coach-content">
+                        <div class="coach-left">
+                            <div class="coach-photo-wrap">
+                                <img id="coachPhoto" class="coach-photo" src="" alt="" onerror="this.parentElement.classList.add('no-photo')">
+                            </div>
+                            <span id="coachNatBadge" class="coach-nationality-badge"></span>
+                        </div>
+                        <div class="coach-right">
+                            <span class="coach-label">Head Coach</span>
+                            <h2 class="coach-name" id="coachName"></h2>
+                            <div class="coach-meta" id="coachMeta"></div>
+                            <p class="coach-bio" id="coachBio"></p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Key Players -->
+                <div class="profile-card players-card">
+                    <h2 class="card-title">Key Players</h2>
+                    <div class="players-list" id="playersList"></div>
+                </div>
+
+                <!-- Team Facts -->
+                <div class="profile-card facts-card">
+                    <h2 class="card-title">Team Facts</h2>
+                    <p class="fact-text" id="teamFacts"></p>
+                </div>
+
+                <!-- Group Fixtures -->
+                <div class="profile-card fixtures-card">
+                    <h2 class="card-title">Group Stage Fixtures</h2>
+                    <div class="fixtures-list" id="fixturesList"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-bottom">
+                <p>&copy; 2026 FIFA World Cup. Fan-made page. Not affiliated with FIFA.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="embedded_fixtures.js"></script>
+    <script src="teamdata.js"></script>
+    <script>
+        (async function() {
+            const params = new URLSearchParams(window.location.search);
+            const teamName = params.get('team');
+            const profile = teamProfiles[teamName];
+
+            if (!profile) {
+                document.body.innerHTML = '<div style="display:flex;align-items:center;justify-content:center;height:100vh;color:white;font-family:Oswald,sans-serif;text-align:center;"><div><h1>Team not found</h1><p><a href="index.html#teams" style="color:var(--accent)">Go back to Teams</a></p></div></div>';
+                return;
+            }
+
+            document.title = teamName + ' - FIFA World Cup 2026';
+
+            const color1 = profile.colors[0];
+            const color2 = profile.colors[1];
+
+            document.documentElement.style.setProperty('--team-primary', color1);
+            document.documentElement.style.setProperty('--team-secondary', color2);
+
+            const flagUrl = 'https://flagcdn.com/w320/' + profile.code + '.png';
+            const coverPath = profile.folder + '/' + profile.cover;
+
+            document.getElementById('profileFlag').src = flagUrl;
+            document.getElementById('profileFlag').alt = teamName;
+            document.getElementById('profileTeamName').textContent = teamName;
+            document.getElementById('profileConf').textContent = profile.confName;
+            document.getElementById('profileRank').textContent = 'FIFA Ranking #' + profile.fifaRank;
+            document.getElementById('profileCover').style.backgroundImage = 'url(' + coverPath + ')';
+            document.getElementById('profileHero').style.background = 'linear-gradient(135deg, ' + color1 + ' 0%, #0a0a0a 60%)';
+
+            document.getElementById('statWC').textContent = profile.worldCupTitles;
+            document.getElementById('statRank').textContent = '#' + profile.fifaRank;
+            document.getElementById('statBest').textContent = profile.bestFinish;
+            document.getElementById('statCoach').textContent = profile.coach;
+
+            const playersList = document.getElementById('playersList');
+            profile.keyPlayers.forEach(p => {
+                playersList.innerHTML += '<div class="player-item"><img src="' + p.image + '" alt="' + p.name + '" class="player-thumb" onerror="this.style.display=\'none\'"><div class="player-detail"><span class="player-name">' + p.name + '</span><span class="player-pos">#' + p.number + ' · ' + p.position + ' · ' + p.club + '</span></div></div>';
+            });
+
+            document.getElementById('teamFacts').textContent = profile.facts;
+
+            // Coach card
+            if (profile.coach) {
+                document.getElementById('coachName').textContent = profile.coach;
+                document.getElementById('coachMeta').textContent = (profile.coachNationality || '') + (profile.coachAge ? ' · Age ' + profile.coachAge : '');
+                document.getElementById('coachBio').textContent = profile.coachBio || '';
+                document.getElementById('coachNatBadge').textContent = profile.coachNationality || '';
+                const coachPhoto = document.getElementById('coachPhoto');
+                const coachBg = document.getElementById('coachBg');
+                if (profile.coachImage) {
+                    coachPhoto.src = profile.coachImage;
+                    coachPhoto.alt = profile.coach;
+                    coachBg.style.backgroundImage = 'url(' + profile.coachImage + ')';
+                }
+            }
+
+            // Load fixtures from embedded data
+            const fixtureContainer = document.getElementById('fixturesList');
+            let fixtureData = null;
+            try {
+                const response = await fetch('fixtures.json');
+                if (response.ok) fixtureData = await response.json();
+            } catch(e) {}
+            if (!fixtureData && typeof embeddedFixtures !== 'undefined') {
+                fixtureData = { fixtures: embeddedFixtures };
+            }
+            if (fixtureData) {
+                const teamFixtures = fixtureData.fixtures.filter(f => f.homeTeam === teamName || f.awayTeam === teamName);
+                if (teamFixtures.length === 0) {
+                    fixtureContainer.innerHTML = '<p class="no-data">No fixtures available.</p>';
+                } else {
+                    teamFixtures.forEach(f => {
+                        const date = new Date(f.date);
+                        const dateStr = date.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' });
+                        const isHome = f.homeTeam === teamName;
+                        const opponent = isHome ? f.awayTeam : f.homeTeam;
+                        const opponentFlag = isHome ? f.awayFlag : f.homeFlag;
+                        const teamFlag = isHome ? f.homeFlag : f.awayFlag;
+                        const venue = f.venue + ', ' + f.city;
+                        fixtureContainer.innerHTML += '<div class="fixture-item"><div class="fixture-date">' + dateStr + ' · ' + f.time + '</div><div class="fixture-match"><img src="' + teamFlag + '" class="fixture-flag"><span class="fixture-badge">' + (isHome ? 'HOME' : 'AWAY') + '</span><span class="fixture-vs">vs</span><img src="' + opponentFlag + '" class="fixture-flag"><span class="fixture-opponent">' + opponent + '</span></div><div class="fixture-venue">' + venue + '</div><div class="fixture-group">Group ' + f.group + ' · Matchday ' + f.matchday + '</div></div>';
+                    });
+                }
+            } else {
+                fixtureContainer.innerHTML = '<p class="no-data">Fixture data not available.</p>';
+            }
+
+            // Navbar scroll
+            window.addEventListener('scroll', () => {
+                document.getElementById('navbar').classList.toggle('scrolled', window.scrollY > 50);
+            });
+        })();
+    </script>
+</body>
+</html>

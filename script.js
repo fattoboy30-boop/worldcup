@@ -9,23 +9,15 @@ const teams = [
     { name: "Netherlands", code: "nl", confederation: "europe" },
     { name: "Belgium", code: "be", confederation: "europe" },
     { name: "Croatia", code: "hr", confederation: "europe" },
-    { name: "Italy", code: "it", confederation: "europe" },
     { name: "Switzerland", code: "ch", confederation: "europe" },
-    { name: "Denmark", code: "dk", confederation: "europe" },
-    { name: "Poland", code: "pl", confederation: "europe" },
-    { name: "Serbia", code: "rs", confederation: "europe" },
-    { name: "Ukraine", code: "ua", confederation: "europe" },
-    { name: "Czech Republic", code: "cz", confederation: "europe" },
     { name: "Austria", code: "at", confederation: "europe" },
     { name: "Scotland", code: "gb-sct", confederation: "europe" },
     { name: "Norway", code: "no", confederation: "europe" },
     { name: "Sweden", code: "se", confederation: "europe" },
-    { name: "Wales", code: "gb-wls", confederation: "europe" },
-    { name: "Hungary", code: "hu", confederation: "europe" },
-    { name: "Romania", code: "ro", confederation: "europe" },
-    { name: "Greece", code: "gr", confederation: "europe" },
-    { name: "Turkey", code: "tr", confederation: "europe" },
-    
+    { name: "Czechia", code: "cz", confederation: "europe" },
+    { name: "Bosnia and Herzegovina", code: "ba", confederation: "europe" },
+    { name: "Türkiye", code: "tr", confederation: "europe" },
+
     // South America (CONMEBOL)
     { name: "Brazil", code: "br", confederation: "south-america" },
     { name: "Argentina", code: "ar", confederation: "south-america" },
@@ -33,42 +25,38 @@ const teams = [
     { name: "Colombia", code: "co", confederation: "south-america" },
     { name: "Ecuador", code: "ec", confederation: "south-america" },
     { name: "Paraguay", code: "py", confederation: "south-america" },
-    { name: "Chile", code: "cl", confederation: "south-america" },
-    { name: "Peru", code: "pe", confederation: "south-america" },
-    
+
     // Asia (AFC)
     { name: "Japan", code: "jp", confederation: "asia" },
     { name: "South Korea", code: "kr", confederation: "asia" },
     { name: "Australia", code: "au", confederation: "asia" },
-    { name: "Iran", code: "ir", confederation: "asia" },
+    { name: "IR Iran", code: "ir", confederation: "asia" },
     { name: "Saudi Arabia", code: "sa", confederation: "asia" },
     { name: "Qatar", code: "qa", confederation: "asia" },
-    { name: "China", code: "cn", confederation: "asia" },
     { name: "Iraq", code: "iq", confederation: "asia" },
     { name: "Uzbekistan", code: "uz", confederation: "asia" },
     { name: "Jordan", code: "jo", confederation: "asia" },
-    
+    { name: "Curaçao", code: "cw", confederation: "asia" },
+
     // Africa (CAF)
     { name: "Morocco", code: "ma", confederation: "africa" },
     { name: "Senegal", code: "sn", confederation: "africa" },
     { name: "Tunisia", code: "tn", confederation: "africa" },
-    { name: "Cameroon", code: "cm", confederation: "africa" },
     { name: "Ghana", code: "gh", confederation: "africa" },
-    { name: "Nigeria", code: "ng", confederation: "africa" },
     { name: "Algeria", code: "dz", confederation: "africa" },
     { name: "Egypt", code: "eg", confederation: "africa" },
-    { name: "Mali", code: "ml", confederation: "africa" },
     { name: "Côte d'Ivoire", code: "ci", confederation: "africa" },
-    
+    { name: "Cabo Verde", code: "cv", confederation: "africa" },
+    { name: "DR Congo", code: "cd", confederation: "africa" },
+    { name: "South Africa", code: "za", confederation: "africa" },
+
     // CONCACAF
     { name: "USA", code: "us", confederation: "concacaf" },
     { name: "Mexico", code: "mx", confederation: "concacaf" },
     { name: "Canada", code: "ca", confederation: "concacaf" },
-    { name: "Costa Rica", code: "cr", confederation: "concacaf" },
-    { name: "Jamaica", code: "jm", confederation: "concacaf" },
     { name: "Panama", code: "pa", confederation: "concacaf" },
-    { name: "Honduras", code: "hn", confederation: "concacaf" },
-    
+    { name: "Haiti", code: "ht", confederation: "concacaf" },
+
     // Oceania (OFC)
     { name: "New Zealand", code: "nz", confederation: "oceania" }
 ];
@@ -139,7 +127,7 @@ const players = [
         club: "Bayern Munich",
         age: 24,
         bio: "2025-26 Bundesliga Player of Season. 53 goal involvements in 57 matches. France's creative spark.",
-        image: "assets/players/team_kevin_de_bruyne.jpg"
+        image: "assets/players/michael_olise.jpg"
     },
     {
         name: "Erling Haaland",
@@ -161,7 +149,7 @@ const players = [
         club: "Barcelona",
         age: 23,
         bio: "Spain's midfield maestro. 12 assists last season. Key to La Roja's title defense.",
-        image: "assets/players/team_jamal_musiala.jpg"
+        image: "assets/players/pedri.jpg"
     },
     {
         name: "Cristiano Ronaldo",
@@ -194,7 +182,7 @@ const players = [
         club: "Como",
         age: 21,
         bio: "Tipped as Messi's successor. Versatile attacking midfielder. Ready for his first World Cup.",
-        image: "assets/players/team_lamine_yamal.jpg"
+        image: "assets/players/nico_paz.jpg"
     },
     {
         name: "Christian Pulisic",
@@ -243,6 +231,7 @@ document.addEventListener('DOMContentLoaded', () => {
     initScores();
     initStandings();
     initArchive();
+    initVideoHub();
     initScrollAnimations();
     
     // Auto-refresh scores every 60 seconds
@@ -333,8 +322,9 @@ function initTeams(filter = 'all') {
         : teams.filter(team => team.confederation === filter);
 
     filteredTeams.forEach(team => {
-        const card = document.createElement('div');
+        const card = document.createElement('a');
         card.className = 'team-card';
+        card.href = 'team-profile.html?team=' + encodeURIComponent(team.name);
         card.innerHTML = `
             <img class="team-flag-img" src="${getFlagUrl(team.code)}" alt="${team.name} flag" loading="lazy" onerror="this.src='https://flagcdn.com/w160/un.png'">
             <span class="team-name">${team.name}</span>
@@ -344,7 +334,7 @@ function initTeams(filter = 'all') {
 }
 
 function initFilters() {
-    const filterBtns = document.querySelectorAll('.filter-btn');
+    const filterBtns = document.querySelectorAll('.team-filters .filter-btn');
     
     filterBtns.forEach(btn => {
         btn.addEventListener('click', () => {
@@ -591,17 +581,29 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 let fixturesData = null;
 let currentStage = 'group';
 let currentScheduleGroup = 'all';
+let currentDateFilter = 'all';
 
 async function initSchedule() {
     try {
         const response = await fetch('fixtures.json');
+        if (!response.ok) throw new Error('Failed to load fixtures');
         fixturesData = await response.json();
-        renderSchedule();
-        initScheduleTabs();
-        initGroupFilters();
     } catch (error) {
-        console.log('Fixtures data not available');
+        console.warn('Fixtures fetch failed, using embedded data:', error.message);
+        if (typeof embeddedFixtures !== 'undefined' && typeof embeddedKnockout !== 'undefined') {
+            fixturesData = { fixtures: embeddedFixtures, knockoutStage: embeddedKnockout };
+        } else {
+            const content = document.getElementById('scheduleContent');
+            if (content) {
+                content.innerHTML = '<p class="no-fixtures">Match schedule will appear here. Run <code>node serve.js</code> and open <a href="http://localhost:3000" target="_blank">localhost:3000</a> to load fixture data.</p>';
+            }
+            return;
+        }
     }
+    renderSchedule();
+    initScheduleTabs();
+    initGroupFilters();
+    initDateFilter();
 }
 
 function initScheduleTabs() {
@@ -622,13 +624,86 @@ function initScheduleTabs() {
 }
 
 function initGroupFilters() {
-    document.querySelectorAll('.filter-btn').forEach(btn => {
+    document.querySelectorAll('#groupFilters .filter-btn').forEach(btn => {
         btn.addEventListener('click', () => {
-            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+            document.querySelectorAll('#groupFilters .filter-btn').forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
             currentScheduleGroup = btn.dataset.group;
             renderSchedule();
         });
+    });
+}
+
+function initDateFilter() {
+    const datePicker = document.getElementById('scheduleDate');
+    const dateTomorrow = document.getElementById('dateTomorrow');
+    const dateThisWeek = document.getElementById('dateThisWeek');
+    const dateAll = document.getElementById('dateAll');
+
+    if (datePicker) {
+        datePicker.addEventListener('change', () => {
+            currentDateFilter = datePicker.value || 'all';
+            clearDateQuickBtns();
+            renderSchedule();
+        });
+    }
+
+    if (dateTomorrow) {
+        dateTomorrow.addEventListener('click', () => {
+            const tomorrow = new Date();
+            tomorrow.setDate(tomorrow.getDate() + 1);
+            const dateStr = tomorrow.toISOString().split('T')[0];
+            if (datePicker) datePicker.value = dateStr;
+            currentDateFilter = dateStr;
+            clearDateQuickBtns();
+            dateTomorrow.classList.add('active');
+            renderSchedule();
+        });
+    }
+
+    if (dateThisWeek) {
+        dateThisWeek.addEventListener('click', () => {
+            const today = new Date();
+            const dayOfWeek = today.getDay();
+            const startOfWeek = new Date(today);
+            startOfWeek.setDate(today.getDate() - dayOfWeek);
+            const endOfWeek = new Date(startOfWeek);
+            endOfWeek.setDate(startOfWeek.getDate() + 6);
+
+            const startStr = startOfWeek.toISOString().split('T')[0];
+            const endStr = endOfWeek.toISOString().split('T')[0];
+
+            currentDateFilter = { start: startStr, end: endStr };
+            if (datePicker) datePicker.value = '';
+            clearDateQuickBtns();
+            dateThisWeek.classList.add('active');
+            renderSchedule();
+        });
+    }
+
+    if (dateAll) {
+        dateAll.addEventListener('click', () => {
+            currentDateFilter = 'all';
+            if (datePicker) datePicker.value = '';
+            clearDateQuickBtns();
+            dateAll.classList.add('active');
+            renderSchedule();
+        });
+    }
+}
+
+function clearDateQuickBtns() {
+    document.querySelectorAll('.date-quick-btn').forEach(b => b.classList.remove('active'));
+}
+
+function filterByDate(fixtures) {
+    if (currentDateFilter === 'all') return fixtures;
+
+    return fixtures.filter(f => {
+        if (typeof currentDateFilter === 'object') {
+            return f.date >= currentDateFilter.start && f.date <= currentDateFilter.end;
+        }
+        return f.date === currentDateFilter;
     });
 }
 
@@ -648,6 +723,13 @@ function renderGroupStage(container) {
     
     if (currentScheduleGroup !== 'all') {
         fixtures = fixtures.filter(f => f.group === currentScheduleGroup);
+    }
+
+    fixtures = filterByDate(fixtures);
+    
+    if (fixtures.length === 0) {
+        container.innerHTML = '<p class="no-fixtures">No matches found for this date.</p>';
+        return;
     }
     
     const groupedByMatchday = {};
@@ -1352,4 +1434,281 @@ async function loadDailyArchive(container) {
     } catch (error) {
         container.innerHTML = '<p class="no-archive">Error loading daily archive.</p>';
     }
+}
+
+// ===== Video Hub Section =====
+let videoData = null;
+let filteredVideos = [];
+let currentVideoCategory = 'all';
+let currentMatchday = 'all';
+let videoSwiperInstance = null;
+
+async function initVideoHub() {
+    try {
+        const response = await fetch('data/videos.json');
+        if (!response.ok) throw new Error('Failed to fetch');
+        videoData = await response.json();
+        filteredVideos = sortVideosByLatest([...videoData.videos]);
+
+        const lastUpdated = document.getElementById('videoLastUpdated');
+        if (lastUpdated) {
+            lastUpdated.textContent = new Date(videoData.lastUpdated).toLocaleString();
+        }
+
+        renderFeaturedVideo();
+        renderVideoCarousel();
+        initVideoSwiper();
+        initVideoFilters();
+        initMatchdayFilters();
+        initVideoSearch();
+    } catch (error) {
+        console.log('Video fetch failed, using inline data');
+        videoData = getInlineVideoData();
+        filteredVideos = sortVideosByLatest([...videoData.videos]);
+
+        const lastUpdated = document.getElementById('videoLastUpdated');
+        if (lastUpdated) {
+            lastUpdated.textContent = new Date(videoData.lastUpdated).toLocaleString();
+        }
+
+        renderFeaturedVideo();
+        renderVideoCarousel();
+        initVideoSwiper();
+        initVideoFilters();
+        initMatchdayFilters();
+        initVideoSearch();
+    }
+}
+
+function sortVideosByLatest(videos) {
+    return videos.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+}
+
+function applyVideoFilters() {
+    let result = [...videoData.videos];
+
+    if (currentVideoCategory !== 'all') {
+        result = result.filter(v => v.category === currentVideoCategory);
+    }
+
+    if (currentMatchday !== 'all') {
+        if (currentMatchday === 'knockout') {
+            result = result.filter(v => v.matchday && v.matchday > 3);
+        } else {
+            result = result.filter(v => v.matchday === parseInt(currentMatchday));
+        }
+    }
+
+    filteredVideos = sortVideosByLatest(result);
+    renderVideoCarousel();
+    initVideoSwiper();
+}
+
+function getInlineVideoData() {
+    return {
+        lastUpdated: new Date().toISOString(),
+        featured: { match: 'zhEWqfP6V_w', highlight: 'yK3qL3wc7Sc', interview: 'KhqjxoTiOsA' },
+        videos: [
+            { title: "Brazil vs. Egypt | Full Game Highlights | ESPN FC", videoId: "yK3qL3wc7Sc", channel: "ESPN FC", publishedAt: "2026-06-07", category: "Highlights", team: ["Brazil", "Egypt"], duration: "24:57", views: 2700000 },
+            { title: "THE GREATEST FINAL EVER?! | Argentina v France | FIFA World Cup Qatar 2022 Highlights", videoId: "zhEWqfP6V_w", channel: "FIFA", publishedAt: "2022-12-19", category: "Highlights", team: ["Argentina", "France"], duration: "02:07", views: 31000000 },
+            { title: "Argentina v France: Full Penalty Shoot-out | 2022 #FIFAWorldCup Final", videoId: "MCWJNOfJoSM", channel: "FIFA", publishedAt: "2023-12-18", category: "Full Match", team: ["Argentina", "France"], duration: "07:39", views: 29800000 },
+            { title: "Wild Fightback From Japan Stuns Germany | 2022 FIFA World Cup", videoId: "7AnsXinGmGI", channel: "FIFA", publishedAt: "2026-05-22", category: "Highlights", team: ["Japan", "Germany"], duration: "11:43", views: 147600 },
+            { title: "10-Minute Shocker | Korean Comeback Pips Portugal | 2022 FIFA World Cup", videoId: "519WBNsYIgc", channel: "FIFA", publishedAt: "2026-06-03", category: "Highlights", team: ["Korea Republic", "Portugal"], duration: "10:01", views: 104600 },
+            { title: "HIGHLIGHTS: Iraq vs Bolivia | FIFA World Cup Play-off Tournament Final", videoId: "6YTxxwzCEp4", channel: "FIFA", publishedAt: "2026-04-01", category: "Highlights", team: ["Iraq", "Bolivia"], duration: "02:00", views: 1800000 }
+        ]
+    };
+}
+
+function renderFeaturedVideo() {
+    const player = document.getElementById('featuredPlayer');
+    const title = document.getElementById('featuredTitle');
+    const channel = document.getElementById('featuredChannel');
+
+    if (!player || !videoData || !videoData.featured) return;
+
+    const featuredId = videoData.featured.match;
+    player.innerHTML = `
+        <div class="featured-thumbnail" onclick="playFeaturedVideo('${featuredId}')" style="cursor:pointer;width:100%;height:100%;background:url(https://img.youtube.com/vi/${featuredId}/maxresdefault.jpg) center/cover no-repeat;position:relative;">
+            <div style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:80px;height:80px;background:rgba(200,16,46,0.9);border-radius:50%;display:flex;align-items:center;justify-content:center;">
+                <div style="width:0;height:0;border-style:solid;border-width:15px 0 15px 28px;border-color:transparent transparent transparent white;margin-left:5px;"></div>
+            </div>
+        </div>
+    `;
+
+    const featuredVideo = videoData.videos.find(v => v.videoId === featuredId);
+    if (featuredVideo) {
+        title.textContent = featuredVideo.title;
+        channel.textContent = featuredVideo.channel;
+    }
+}
+
+function renderVideoCarousel() {
+    const wrapper = document.getElementById('videoWrapper');
+    if (!wrapper) return;
+
+    if (filteredVideos.length === 0) {
+        wrapper.innerHTML = '<p class="no-videos">No videos found.</p>';
+        return;
+    }
+
+    wrapper.innerHTML = filteredVideos.map(video => `
+        <div class="swiper-slide">
+            <div class="video-card" data-category="${video.category}">
+                <div class="video-thumbnail">
+                    <img src="https://img.youtube.com/vi/${video.videoId}/mqdefault.jpg" alt="${video.title}" loading="lazy">
+                    <span class="video-duration">${video.duration}</span>
+                    <div class="video-play-btn" onclick="playVideo('${video.videoId}', this)"></div>
+                </div>
+                <div class="video-info">
+                    <span class="video-category-badge">${video.category}</span>
+                    <h3 class="video-title">${video.title}</h3>
+                    <p class="video-channel-name">${video.channel}</p>
+                    <p class="video-date">${formatVideoDate(video.publishedAt)}</p>
+                    <a href="https://www.youtube.com/watch?v=${video.videoId}" target="_blank" rel="noopener noreferrer" class="video-watch-btn">
+                        Watch on YouTube
+                    </a>
+                </div>
+            </div>
+        </div>
+    `).join('');
+}
+
+function formatVideoDate(dateStr) {
+    const date = new Date(dateStr);
+    const now = new Date();
+    const diff = now - date;
+    const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+
+    if (days === 0) return 'Today';
+    if (days === 1) return 'Yesterday';
+    if (days < 7) return `${days} days ago`;
+    if (days < 30) return `${Math.floor(days / 7)} weeks ago`;
+
+    return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+}
+
+function playVideo(videoId, btn) {
+    window.open(`https://www.youtube.com/watch?v=${videoId}`, '_blank');
+}
+
+function playFeaturedVideo(videoId) {
+    window.open(`https://www.youtube.com/watch?v=${videoId}`, '_blank');
+}
+
+function initVideoSwiper() {
+    if (videoSwiperInstance) {
+        videoSwiperInstance.destroy(true, true);
+    }
+
+    if (typeof Swiper === 'undefined') {
+        console.log('Swiper not loaded, skipping carousel');
+        return;
+    }
+
+    videoSwiperInstance = new Swiper('#videoSwiper', {
+        slidesPerView: 1,
+        spaceBetween: 20,
+        navigation: {
+            nextEl: '#videoNext',
+            prevEl: '#videoPrev',
+        },
+        breakpoints: {
+            640: {
+                slidesPerView: 2,
+            },
+            1024: {
+                slidesPerView: 3,
+            },
+            1400: {
+                slidesPerView: 4,
+            },
+        },
+    });
+}
+
+function initVideoFilters() {
+    const filterBtns = document.querySelectorAll('.video-filter-btn');
+
+    filterBtns.forEach(btn => {
+        btn.addEventListener('click', () => {
+            filterBtns.forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            currentVideoCategory = btn.dataset.category;
+            applyVideoFilters();
+        });
+    });
+}
+
+function initMatchdayFilters() {
+    const matchdayBtns = document.querySelectorAll('.matchday-filter-btn');
+
+    matchdayBtns.forEach(btn => {
+        btn.addEventListener('click', () => {
+            matchdayBtns.forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            currentMatchday = btn.dataset.matchday;
+            applyVideoFilters();
+        });
+    });
+}
+
+function initVideoSearch() {
+    const searchInput = document.getElementById('videoSearch');
+    if (!searchInput) return;
+
+    let debounceTimer;
+    searchInput.addEventListener('input', () => {
+        clearTimeout(debounceTimer);
+        debounceTimer = setTimeout(() => {
+            const query = searchInput.value.toLowerCase().trim();
+
+            if (!query) {
+                applyVideoFilters();
+            } else {
+                let result = [...videoData.videos];
+
+                if (currentVideoCategory !== 'all') {
+                    result = result.filter(v => v.category === currentVideoCategory);
+                }
+                if (currentMatchday !== 'all') {
+                    if (currentMatchday === 'knockout') {
+                        result = result.filter(v => v.matchday && v.matchday > 3);
+                    } else {
+                        result = result.filter(v => v.matchday === parseInt(currentMatchday));
+                    }
+                }
+
+                filteredVideos = sortVideosByLatest(result.filter(v => {
+                    return v.title.toLowerCase().includes(query) ||
+                        v.channel.toLowerCase().includes(query) ||
+                        v.category.toLowerCase().includes(query) ||
+                        (v.team && v.team.some(t => t.toLowerCase().includes(query)));
+                }));
+
+                renderVideoCarousel();
+                initVideoSwiper();
+            }
+        }, 300);
+    });
+}
+
+// IntersectionObserver for video autoplay
+function initVideoAutoplay() {
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                const iframe = entry.target.querySelector('iframe');
+                if (iframe && iframe.src.includes('youtube')) {
+                    iframe.contentWindow.postMessage('{"event":"command","func":"playVideo","args":""}', '*');
+                }
+            } else {
+                const iframe = entry.target.querySelector('iframe');
+                if (iframe && iframe.src.includes('youtube')) {
+                    iframe.contentWindow.postMessage('{"event":"command","func":"pauseVideo","args":""}', '*');
+                }
+            }
+        });
+    }, { threshold: 0.5 });
+
+    document.querySelectorAll('.featured-video').forEach(el => observer.observe(el));
 }

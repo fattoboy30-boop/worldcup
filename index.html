@@ -21,7 +21,8 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
     
-    <link rel="stylesheet" href="styles.css?v=12.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
+    <link rel="stylesheet" href="styles.css?v=13.0">
 </head>
 <body>
     <!-- Navigation -->
@@ -40,6 +41,7 @@
                 <li><a href="#standings" class="nav-link">Standings</a></li>
                 <li><a href="#players" class="nav-link">Star Players</a></li>
                 <li><a href="#history" class="nav-link">History</a></li>
+                <li><a href="#videos" class="nav-link">Videos</a></li>
                 <li><a href="#news" class="nav-link">News</a></li>
                 <li><a href="#archive" class="nav-link">Archive</a></li>
                 <li><a href="#fanzone" class="nav-link">Fan Zone</a></li>
@@ -259,6 +261,16 @@
                 <button class="filter-btn" data-group="L">L</button>
             </div>
 
+            <div class="date-filter" id="dateFilter">
+                <div class="date-filter-label">Filter by Date</div>
+                <div class="date-filter-row">
+                    <input type="date" id="scheduleDate" class="date-picker" min="2026-06-11" max="2026-06-27">
+                    <button class="date-quick-btn" id="dateTomorrow">Tomorrow</button>
+                    <button class="date-quick-btn" id="dateThisWeek">This Week</button>
+                    <button class="date-quick-btn active" id="dateAll">All Dates</button>
+                </div>
+            </div>
+
             <div class="schedule-content" id="scheduleContent">
                 <!-- Fixtures loaded dynamically by JavaScript -->
             </div>
@@ -442,6 +454,67 @@
                         <p>The greatest final ever. Messi vs Mbappe. Argentina wins in penalties. Football at its peak.</p>
                     </div>
                 </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Video Hub Section -->
+    <section class="section video-section" id="videos">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">Watch</span>
+                <h2 class="section-title">World Cup Videos</h2>
+                <p class="section-description">Latest highlights, full matches & viral moments from FIFA and ESPN</p>
+            </div>
+
+            <!-- Featured Video -->
+            <div class="featured-video" id="featuredVideo">
+                <div class="featured-video-player" id="featuredPlayer"></div>
+                <div class="featured-video-info">
+                    <span class="featured-badge">Featured</span>
+                    <h3 class="featured-title" id="featuredTitle">Loading...</h3>
+                    <p class="featured-channel" id="featuredChannel"></p>
+                </div>
+            </div>
+
+            <!-- Search -->
+            <div class="video-search">
+                <input type="text" id="videoSearch" placeholder="Search videos by team, player, or match..." class="video-search-input">
+            </div>
+
+            <!-- Filters -->
+            <div class="video-filters" id="videoFilters">
+                <button class="video-filter-btn active" data-category="all">All Videos</button>
+                <button class="video-filter-btn" data-category="Highlights">Highlights</button>
+                <button class="video-filter-btn" data-category="Full Match">Full Match</button>
+                <button class="video-filter-btn" data-category="Viral">Viral</button>
+            </div>
+
+            <!-- Matchday Filters -->
+            <div class="video-filters" id="matchdayFilters">
+                <button class="matchday-filter-btn active" data-matchday="all">All Dates</button>
+                <button class="matchday-filter-btn" data-matchday="1">Matchday 1 (Jun 11-13)</button>
+                <button class="matchday-filter-btn" data-matchday="2">Matchday 2 (Jun 16-20)</button>
+                <button class="matchday-filter-btn" data-matchday="3">Matchday 3 (Jun 23-26)</button>
+                <button class="matchday-filter-btn" data-matchday="knockout">Knockouts</button>
+            </div>
+
+            <!-- Video Carousel -->
+            <div class="swiper video-swiper" id="videoSwiper">
+                <div class="swiper-wrapper" id="videoWrapper">
+                    <!-- Videos loaded dynamically -->
+                </div>
+            </div>
+
+            <!-- Carousel Navigation -->
+            <div class="video-carousel-nav">
+                <button class="video-nav-btn video-prev" id="videoPrev">&#8592;</button>
+                <button class="video-nav-btn video-next" id="videoNext">&#8594;</button>
+            </div>
+
+            <div class="video-meta">
+                <p>Channels: <a href="https://youtube.com/@fifa" target="_blank" rel="noopener">FIFA</a> &amp; <a href="https://youtube.com/@espnfc" target="_blank" rel="noopener">ESPN FC</a> | Sorted by latest</p>
+                <p>Last updated: <span id="videoLastUpdated">--</span></p>
             </div>
         </div>
     </section>
@@ -657,6 +730,8 @@
         </div>
     </footer>
 
-    <script src="script.js?v=4.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="embedded_fixtures.js"></script>
+    <script src="script.js?v=7.0"></script>
 </body>
 </html>

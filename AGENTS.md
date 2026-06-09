@@ -11,6 +11,15 @@ Interactive FIFA World Cup 2026 webpage with automated news collection and graph
 
 ## Agents
 
+### 0. Slash Commands (Quick Update)
+| Command | Script | Description |
+|---------|--------|-------------|
+| `/video update` | `fetch-videos.js` | Fetch latest FIFA & ESPN FC YouTube videos, auto-categorize (Highlights/Full Match/Viral), tag matchdays from fixtures |
+| `/news update` | `fetch-news.js` | Fetch latest World Cup news from BBC Sport, ESPN FC, Guardian, Sky Sports, Google News RSS |
+| `/stats update` | `fetch-stats.js` | Fetch live match scores, standings, and fixture updates from football-data.org API |
+
+**Usage**: Type `/video update`, `/news update`, or `/stats update` in the chat to trigger.
+
 ### 1. News Collector Agent
 **Location**: `agent/news_collector/`
 
@@ -63,6 +72,65 @@ python graphic_designer.py batch --posters --cards --social-pack
 
 ---
 
+### 3. Data Updater Agent
+**Location**: `agent/data_updater/`
+
+Fetches live FIFA World Cup data from football-data.org API and updates project JSON files.
+
+Based on the data structure from [ha-world-cup-2026](https://github.com/Adya84/ha-world-cup-2026).
+
+| Data | Source | Updates |
+|------|--------|---------|
+| Matches | `/competitions/WC/matches` | fixtures.json, scores.json |
+| Standings | `/competitions/WC/standings` | standings.json |
+| Scorers | `/competitions/WC/scorers` | scorers.json |
+| Statistics | Derived from all data | statistics.json |
+
+**Setup**:
+```bash
+# Get free API key at: https://www.football-data.org/client/register
+# Set environment variable:
+export FOOTBALL_DATA_API_KEY=your_key_here
+
+# Or install requirements
+cd agent/data_updater
+pip install -r requirements.txt
+```
+
+**Usage**:
+```bash
+# Update all JSON files
+python agent/data_updater/data_updater.py
+
+# Update specific files only
+python agent/data_updater/data_updater.py -- files scores standings
+
+# Preview without writing (dry run)
+python agent/data_updater/data_updater.py --dry-run
+
+# Use specific API key
+python agent/data_updater/data_updater.py --api-key YOUR_KEY
+
+# Verbose output
+python agent/data_updater/data_updater.py -v
+```
+
+**Output Files**:
+| File | Description |
+|------|-------------|
+| `fixtures.json` | Updated with live scores, statuses, half-time results |
+| `scores.json` | Live matches, recent results, upcoming matches |
+| `standings.json` | Group standings with points, goal difference, form |
+| `scorers.json` | Top scorers with goals, assists, penalties |
+| `statistics.json` | Tournament stats (goals/match, BTTS rate, etc.) |
+
+**API Rate Limits**:
+- Free tier: 10 requests/minute
+- The tool makes 3 requests per run (matches, standings, scorers)
+- Use `-- files scores` to make fewer requests when only scores are needed
+
+---
+
 ## Main Webpage
 
 **Files**:
@@ -80,6 +148,14 @@ python graphic_designer.py batch --posters --cards --social-pack
 - Fan zone with polls and quiz
 - Facebook sharing integration
 - Fully responsive design
+
+**Team Profile Pages** (`team-profile.html`):
+- Hero cover with team colors
+- Stats bar (World Cup titles, FIFA ranking, best finish, head coach)
+- Head Coach card with photo, nationality, age, and bio
+- Key Players card with photos, positions, and clubs
+- Team Facts (rich 2-3 sentence narratives)
+- Group Stage Fixtures from `fixtures.json`
 
 ---
 
@@ -102,7 +178,23 @@ python graphic_designer.py batch --posters --cards --social-pack
 ## Quick Commands
 
 ```bash
-# Run news collector
+# ===== SLASH COMMANDS =====
+
+# Update YouTube videos (FIFA + ESPN FC channels, World Cup content)
+/video update
+
+# Update news (BBC Sport, ESPN, Guardian, Sky Sports, Google News)
+/news update
+
+# Update live game stats (scores, standings from football-data.org)
+/stats update
+
+# ===== AGENT COMMANDS =====
+
+# Update live data from football-data.org
+python agent/data_updater/data_updater.py
+
+# Run news collector (Python agent)
 python agent/news_collector/main.py --source all
 
 # Generate graphics
@@ -129,6 +221,7 @@ git add . && git commit -m "update" && git push
 
 ### Adding New Teams
 Edit `script.js` and `agent/graphic_designer/graphic_designer.py` to add team data.
+Also update `TEAM_CODE_MAP` in `agent/data_updater/data_updater.py` for flag image mapping.
 
 ### Adding New News Sources
 Edit `agent/news_collector/config.py` to add RSS feeds or YouTube channels.

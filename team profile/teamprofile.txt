@@ -1,0 +1,652 @@
+FIFA World Cup 2026 - Team Profiles
+====================================
+Source: mundialanalytics.com/teams + FIFA Official Data
+Last Updated: 2026-06-09
+
+========================================
+UEFA - EUROPE (16 Teams)
+========================================
+
+FRANCE
+  Confederation: UEFA
+  Coach: Didier Deschamps
+  Formation: 4-3-3 / 4-2-3-1
+  FIFA Ranking: 2
+  World Cup Titles: 2 (1998, 2018)
+  Best Finish: Champions
+  Key Players: Kylian Mbappé (Real Madrid), Antoine Griezmann (Atlético Madrid), Aurélien Tchouaméni (Real Madrid)
+  Description: Two-time champions with Mbappé-led transition attack and elite squad depth; perennial title contender.
+  Folder: team profile/france
+  Cover: fifa-world-cup-2026-france-team-images.jpg.jpg
+  Colors: #002395, #ed2939
+
+ENGLAND
+  Confederation: UEFA
+  Coach: Thomas Tuchel
+  Formation: 4-2-3-1 / 4-3-3
+  FIFA Ranking: 4
+  World Cup Titles: 1 (1966)
+  Best Finish: Champions
+  Key Players: Harry Kane (Bayern Munich), Jude Bellingham (Real Madrid), Bukayo Saka (Arsenal)
+  Description: Talented squad with elite attacking depth under Tuchel; desperate to end 60-year title wait.
+  Folder: team profile/england
+  Cover: fifa-world-cup-2026-england-team-images.jpg.jpg
+  Colors: #fff, #e3000b
+
+SPAIN
+  Confederation: UEFA
+  Coach: Luis de la Fuente
+  Formation: 4-3-3
+  FIFA Ranking: 3
+  World Cup Titles: 1 (2010)
+  Best Finish: Champions
+  Key Players: Rodri (Man City), Pedri (Barcelona), Lamine Yamal (Barcelona)
+  Description: Euro 2024 champions with elite midfield control and dynamic wingers; more vertical than classic tiki-taka.
+  Folder: team profile/spain
+  Cover: fifa-world-cup-2026-spain-team-images.jpg.jpg
+  Colors: #aa151b, #f1bf00
+
+GERMANY
+  Confederation: UEFA
+  Coach: Julian Nagelsmann
+  Formation: 4-2-3-1 / 4-3-3
+  FIFA Ranking: 10
+  World Cup Titles: 4 (1954, 1974, 1990, 2014)
+  Best Finish: Champions
+  Key Players: Jamal Musiala (Bayern Munich), Florian Wirtz (Bayer Leverkusen), Joshua Kimmich (Bayern Munich)
+  Description: Historic powerhouse rebuilding around Musiala-Wirtz creative core after two straight group-stage exits.
+  Folder: team profile/germany
+  Cover: fifa-world-cup-2026-germany-team-images.jpg.jpg
+  Colors: #000, #dd0000
+
+PORTUGAL
+  Confederation: UEFA
+  Coach: Roberto Martínez
+  Formation: 4-3-3 / 4-2-3-1
+  FIFA Ranking: 6
+  World Cup Titles: 0
+  Best Finish: Third Place (1966)
+  Key Players: Cristiano Ronaldo (Al-Nassr), Bruno Fernandes (Man United), Bernardo Silva (Man City)
+  Description: Deep midfield-led squad with elite technical control; needs to translate dominance into knockout runs.
+  Folder: team profile/portugal
+  Cover: fifa-world-cup-2026-portugal-team-images.jpg.jpg
+  Colors: #006600, #ff0000
+
+NETHERLANDS
+  Confederation: UEFA
+  Coach: Ronald Koeman
+  Formation: 4-3-3 / 3-4-3
+  FIFA Ranking: 7
+  World Cup Titles: 0
+  Best Finish: Runners-up (1974, 1978, 2010)
+  Key Players: Virgil van Dijk (Liverpool), Memphis Depay (Atlético Madrid), Frenkie de Jong (Barcelona)
+  Description: Defensively strong contender with flexible back-three and possession structures.
+  Folder: team profile/netherlands
+  Cover: fifa-world-cup-2026-netherlands-team-images.jpg.jpg
+  Colors: #ae1c28, #fff
+
+BELGIUM
+  Confederation: UEFA
+  Coach: Domenico Tedesco
+  Formation: 4-2-3-1 / 3-4-3
+  FIFA Ranking: 5
+  World Cup Titles: 0
+  Best Finish: Third Place (2018)
+  Key Players: Kevin De Bruyne (Man City), Romelu Lukaku (Napoli), Jérémy Doku (Man City)
+  Description: Transitioning contender still carrying attacking quality and tournament experience.
+  Folder: team profile/belguim
+  Cover: fifa-world-cup-2026-belgium-team-images.jpg.jpg
+  Colors: #000, #fdda24
+
+CROATIA
+  Confederation: UEFA
+  Coach: Zlatko Dalić
+  Formation: 4-3-3 / 4-2-3-1
+  FIFA Ranking: 12
+  World Cup Titles: 0
+  Best Finish: Runners-up (2018)
+  Key Players: Luka Modrić (Real Madrid), Joško Gvardiol (Man City), Mateo Kovačić (Man City)
+  Description: Tournament specialists with elite game management and midfield intelligence.
+  Folder: team profile/croatia
+  Cover: fifa-world-cup-2026-croatia-team-images.jpg.jpg
+  Colors: #ff0000, #fff
+
+SWITZERLAND
+  Confederation: UEFA
+  Coach: Murat Yakın
+  Formation: 4-2-3-1 / 3-4-1-2
+  FIFA Ranking: 15
+  World Cup Titles: 0
+  Best Finish: Quarter-Finals (1954)
+  Key Players: Granit Xhaka (Bayer Leverkusen), Xherdan Shaqiri (Chicago Fire), Manuel Neuer (Bayern Munich)
+  Description: Reliable knockout-stage candidate built on structure and tournament discipline.
+  Folder: team profile/switzerland
+  Cover: fifa-world-cup-2026-switzerland-team-images.jpg.jpg
+  Colors: #ff0000, #fff
+
+AUSTRIA
+  Confederation: UEFA
+  Coach: Ralf Rangnick
+  Formation: 4-2-3-1 / 4-4-2
+  FIFA Ranking: 22
+  World Cup Titles: 0
+  Best Finish: Third Place (1954)
+  Key Players: David Alaba (Real Madrid), Marko Arnautović (Bologna), Marcel Sabitzer (Dortmund)
+  Description: Pressing-focused European side with tactical intensity and dark horse upside.
+  Folder: team profile/austria
+  Cover: fifa-world-cup-2026-austria-team-images.jpg.jpg
+  Colors: #ed2939, #fff
+
+CZECHIA
+  Confederation: UEFA
+  Coach: Ivan Hašek
+  Formation: 4-2-3-1 / 4-3-3
+  FIFA Ranking: 30
+  World Cup Titles: 0
+  Best Finish: Semi-Finals (1934, 1962)
+  Key Players: Patrik Schick (Bayer Leverkusen), Tomáš Souček (West Ham), Antonín Barák (Fiorentina)
+  Description: Physical and organized European team with set-piece and midfield strength.
+  Folder: team profile/czechia
+  Cover: fifa-world-cup-2026-Czechia-team-images.jpg.jpg
+  Colors: #11457e, #fff
+
+NORWAY
+  Confederation: UEFA
+  Coach: Ståle Solbakken
+  Formation: 4-3-3 / 4-2-3-1
+  FIFA Ranking: 25
+  World Cup Titles: 0
+  Best Finish: Round of 16 (1998)
+  Key Players: Erling Haaland (Man City), Martin Ødegaard (Arsenal), Alexander Sørloth (Atlético Madrid)
+  Description: High-upside team led by Erling Haaland and Martin Ødegaard.
+  Folder: team profile/norway
+  Cover: fifa-world-cup-2026-norway-team-images.jpg.jpg
+  Colors: #ba0c2f, #fff
+
+SCOTLAND
+  Confederation: UEFA
+  Coach: Steve Clarke
+  Formation: 3-5-2 / 4-2-3-1
+  FIFA Ranking: 33
+  World Cup Titles: 0
+  Best Finish: Group Stage (1958, 1974, 1978, 1982, 1986, 1998)
+  Key Players: Andrew Robertson (Liverpool), Scott McTominay (Napoli), John McGinn (Aston Villa)
+  Description: Physical, emotional and set-piece capable side targeting a historic breakthrough.
+  Folder: team profile/scotland
+  Cover: fifa-world-cup-2026-scotland-team-images.jpg.jpg
+  Colors: #003078, #fff
+
+SWEDEN
+  Confederation: UEFA
+  Coach: Janne Andersson
+  Formation: 4-4-2 / 4-2-3-1
+  FIFA Ranking: 32
+  World Cup Titles: 0
+  Best Finish: Runners-up (1958)
+  Key Players: Alexander Isak (Newcastle), Dejan Kulusevski (Tottenham), Emil Forsberg (New York RB)
+  Description: Structured European side with physical strength and direct attacking options.
+  Folder: team profile/sweden
+  Cover: fifa-world-cup-2026-sweden-team-images.jpg.jpg
+  Colors: #006aa7, #fecc02
+
+TÜRKIYE
+  Confederation: UEFA
+  Coach: Vincenzo Montella
+  Formation: 4-2-3-1 / 4-3-3
+  FIFA Ranking: 26
+  World Cup Titles: 0
+  Best Finish: Third Place (2002)
+  Key Players: Arda Güler (Real Madrid), Hakan Çalhanoğlu (Inter Milan), Kenan Yıldız (Juventus)
+  Description: Energetic side with technical midfielders and wide attacking threat.
+  Folder: team profile/turkey
+  Cover: fifa-world-cup-2026-turkey-team-images.jpg.jpg
+  Colors: #e30a17, #fff
+
+BOSNIA AND HERZEGOVINA
+  Confederation: UEFA
+  Coach: Savo Milošević
+  Formation: 4-3-3 / 4-2-3-1
+  FIFA Ranking: 55
+  World Cup Titles: 0
+  Best Finish: Group Stage (2014)
+  Key Players: Edin Džeko (Fenerbahçe), Miralem Pjanić (Sharjah), Rade Krunić (AC Milan)
+  Description: Only their 2nd World Cup. Džeko could be at his last WC at age 40.
+  Folder: team profile/bosnia
+  Cover: fifa-world-cup-2026-Bosnia-and-Herzegovina-team-images.jpg.jpg
+  Colors: #002395, #fdb913
+
+========================================
+CONMEBOL - SOUTH AMERICA (6 Teams)
+========================================
+
+ARGENTINA
+  Confederation: CONMEBOL
+  Coach: Lionel Scaloni
+  Formation: 4-3-3 / 4-4-2
+  FIFA Ranking: 1
+  World Cup Titles: 3 (1978, 1986, 2022)
+  Best Finish: Champions
+  Key Players: Lionel Messi (Inter Miami), Julián Álvarez (Atlético Madrid), Enzo Fernández (Chelsea)
+  Description: Defending champions with proven tournament mentality and tactical flexibility.
+  Folder: team profile/agentin
+  Cover: fifa-world-cup-2026-argentina-team-images.jpg.jpg
+  Colors: #74acdf, #f6b40e
+
+BRAZIL
+  Confederation: CONMEBOL
+  Coach: Carlo Ancelotti
+  Formation: 4-3-3 / 4-2-3-1
+  FIFA Ranking: 5
+  World Cup Titles: 5 (1958, 1962, 1970, 1994, 2002)
+  Best Finish: Champions
+  Key Players: Vinícius Jr (Real Madrid), Rodrygo (Real Madrid), Endrick (Real Madrid)
+  Description: Most decorated nation seeking first title since 2002; elite attacking talent under Ancelotti's structure.
+  Folder: team profile/brazil
+  Cover: fifa-world-cup-2026-brazil-team-images.jpg.jpg
+  Colors: #009c3b, #ffdf00
+
+URUGUAY
+  Confederation: CONMEBOL
+  Coach: Marcelo Bielsa
+  Formation: 4-3-3 / 4-2-3-1
+  FIFA Ranking: 11
+  World Cup Titles: 2 (1930, 1950)
+  Best Finish: Champions
+  Key Players: Federico Valverde (Real Madrid), Ronald Araújo (Barcelona), Darwin Núñez (Liverpool)
+  Description: Physical knockout threat with intensity, midfield quality and competitive edge.
+  Folder: team profile/uruguay
+  Cover: fifa-world-cup-2026-uruguay-team-images.jpg.jpg
+  Colors: #5b9fae, #fff
+
+COLOMBIA
+  Confederation: CONMEBOL
+  Coach: Néstor Lorenzo
+  Formation: 4-3-3 / 4-2-3-1
+  FIFA Ranking: 9
+  World Cup Titles: 0
+  Best Finish: Quarter-Finals (2014)
+  Key Players: James Rodríguez (León), Luis Díaz (Liverpool), Juan Cuadrado (Internacional)
+  Description: High-upside South American outsider with explosive attacking quality.
+  Folder: team profile/colombia
+  Cover: fifa-world-cup-2026-colombia-team-images.jpg.jpg
+  Colors: #fcd116, #003893
+
+ECUADOR
+  Confederation: CONMEBOL
+  Coach: Sebastián Beccacece
+  Formation: 4-3-3 / 4-4-2
+  FIFA Ranking: 31
+  World Cup Titles: 0
+  Best Finish: Round of 16 (2006)
+  Key Players: Moisés Caicedo (Chelsea), Enner Valencia (Internacional), Pervis Estupinan (Brighton)
+  Description: Athletic, defensively strong side with growing European-based talent.
+  Folder: team profile/ecuador
+  Cover: fifa-world-cup-2026-ecuador-team-images.jpg.jpg
+  Colors: #fd0000, #0033a0
+
+PARAGUAY
+  Confederation: CONMEBOL
+  Coach: Gustavo Alfaro
+  Formation: 4-4-2 / 4-2-3-1
+  FIFA Ranking: 50
+  World Cup Titles: 0
+  Best Finish: Quarter-Finals (2010)
+  Key Players: Miguel Almirón (Newcastle), Antonio Sanabria (Toro), Mathías Villasanti (Grêmio)
+  Description: Compact defensive side built for low-scoring tournament battles.
+  Folder: team profile/paraguay
+  Cover: fifa-world-cup-2026-paraguay-team-images.jpg.jpg
+  Colors: #d52b1e, #0038a8
+
+========================================
+CONCACAF - NORTH & CENTRAL AMERICA (6 Teams)
+========================================
+
+UNITED STATES
+  Confederation: CONCACAF
+  Coach: Mauricio Pochettino
+  Formation: 4-3-3 / 4-2-3-1
+  FIFA Ranking: 13
+  World Cup Titles: 0
+  Best Finish: Third Place (1930)
+  Key Players: Christian Pulisic (AC Milan), Weston McKennie (Juventus), Tyler Adams (Bournemouth)
+  Description: Host nation with most talented generation ever; home advantage meets sky-high expectations.
+  Folder: team profile/usa
+  Cover: fifa-world-cup-2026-usa-team-images.jpg.jpg
+  Colors: #3c3b6e, #b22234
+
+MEXICO
+  Confederation: CONCACAF
+  Coach: Javier Aguirre
+  Formation: 4-3-3 / 4-4-2
+  FIFA Ranking: 16
+  World Cup Titles: 0
+  Best Finish: Quarter-Finals (1970, 1986)
+  Key Players: Hirving Lozano (San Diego FC), Edson Álvarez (West Marti), Raúl Jiménez (Fulham)
+  Description: Co-host with massive crowd support and pressure to make a deeper run.
+  Folder: team profile/mexico
+  Cover: fifa-world-cup-2026-mexico-team-images.jpg.jpg
+  Colors: #006847, #ce1126
+
+CANADA
+  Confederation: CONCACAF
+  Coach: Jesse Marsch
+  Formation: 4-3-3 / 4-2-3-1
+  FIFA Ranking: 39
+  World Cup Titles: 0
+  Best Finish: Group Stage (1986, 2022)
+  Key Players: Alphonso Davies (Real Madrid), Jonathan David (Barcelona), Tajon Buchanan (Inter Milan)
+  Description: Host nation with wide speed, transition threat and rising tournament ambitions.
+  Folder: team profile/canada
+  Cover: fifa-world-cup-2026-canada-team-images.jpg.jpg
+  Colors: #ff0000, #fff
+
+PANAMA
+  Confederation: CONCACAF
+  Coach: Thomas Christiansen
+  Formation: 4-2-3-1 / 4-4-2
+  FIFA Ranking: 33
+  World Cup Titles: 0
+  Best Finish: Round of 16 (2018)
+  Key Players: Michael Murillo (Marseille), Cecilio Waterman (Plaza Amador), Aníbal Godoy (Saprissa)
+  Description: Organized underdog with collective work rate and improved tactical maturity.
+  Folder: team profile/panama
+  Cover: fifa-world-cup-2026-panama-team-images.jpg.jpg
+  Colors: #d21034, #003da5
+
+HAITI
+  Confederation: CONCACAF
+  Coach: Jean-Jacques Pierre
+  Formation: 4-3-3 / 4-4-2
+  FIFA Ranking: 80
+  World Cup Titles: 0
+  Best Finish: Group Stage (1974)
+  Key Players: Duckens Nazon (Quevilly-Rouen), Steevens Joseph (USL Dunkerque), Frantzly Pierrot (Miami FC)
+  Description: Emotional underdog with speed, transition threat and low external pressure.
+  Folder: team profile/haiti
+  Cover: fifa-world-cup-2026-haiti-team-images.jpg.jpg
+  Colors: #00209f, #d21034
+
+CURAÇAO
+  Confederation: CONCACAF
+  Coach: Guus Hiddink
+  Formation: 4-3-3 / 4-2-3-1
+  FIFA Ranking: 68
+  World Cup Titles: 0
+  Best Finish: First World Cup
+  Key Players: Vurnon Anita (NEC), Leandro Bacuna (FC Groningen), Juninho Bacuna (Royal Antwerp)
+  Description: Historic qualifier with technical profiles and major underdog energy.
+  Folder: team profile/curaco
+  Cover: fifa-world-cup-2026-curacao-team-images.jpg.jpg
+  Colors: #002b7f, #ffd100
+
+========================================
+AFC - ASIA (10 Teams)
+========================================
+
+JAPAN
+  Confederation: AFC
+  Coach: Hajime Moriyasu
+  Formation: 4-2-3-1 / 4-3-3
+  FIFA Ranking: 18
+  World Cup Titles: 0
+  Best Finish: Round of 16 (2002, 2010, 2018, 2022)
+  Key Players: Kaoru Mitoma (Brighton), Takefusa Kubo (Real Sociedad), Wataru Endo (Liverpool)
+  Description: Asia's best with tactical flexibility and European-based core; targeting first-ever quarter-final.
+  Folder: team profile/japan
+  Cover: fifa-world-cup-2026-japan-team-images.jpg.jpg
+  Colors: #bc002d, #fff
+
+SOUTH KOREA
+  Confederation: AFC
+  Coach: Jürgen Klinsmann
+  Formation: 4-2-3-1 / 4-3-3
+  FIFA Ranking: 23
+  World Cup Titles: 0
+  Best Finish: Fourth Place (2002)
+  Key Players: Son Heung-min (Tottenham), Lee Kang-in (PSG), Hwang Hee-chan (Wolves)
+  Description: Fast transition team led by elite attackers and major tournament experience.
+  Folder: team profile/south korea
+  Cover: fifa-world-cup-2026-south-korea-team-images.jpg.jpg
+  Colors: #003478, #c60c30
+
+IR IRAN
+  Confederation: AFC
+  Coach: Amir Ghalenoei
+  Formation: 4-4-2 / 4-2-3-1
+  FIFA Ranking: 20
+  World Cup Titles: 0
+  Best Finish: Group Stage (1978, 1998, 2006, 2014, 2018, 2022)
+  Key Players: Mehdi Taremi (Inter Milan), Sardar Azmoun (Shabab Al Ahli), Alireza Jahanbakhsh (Heerenveen)
+  Description: Compact and experienced Asian contender with disciplined defensive structure.
+  Folder: team profile/iran
+  Cover: fifa-world-cup-2026-iran-team-images.jpg.jpg
+  Colors: #239f40, #da0000
+
+SAUDI ARABIA
+  Confederation: AFC
+  Coach: Roberto Mancini
+  Formation: 4-2-3-1 / 4-3-3
+  FIFA Ranking: 42
+  World Cup Titles: 0
+  Best Finish: Round of 16 (1994)
+  Key Players: Salem Al-Dawsari (Al-Hilal), Neymar (Al-Hilal), Salman Al-Faraj (Al-Hilal)
+  Description: Experienced World Cup side with compact defending and upset history.
+  Folder: team profile/saudi arabia
+  Cover: fifa-world-cup-2026-saudi-arabia-team-images.jpg.jpg
+  Colors: #006c35, #fff
+
+AUSTRALIA
+  Confederation: AFC
+  Coach: Tony Popovic
+  Formation: 4-2-3-1 / 4-4-2
+  FIFA Ranking: 24
+  World Cup Titles: 0
+  Best Finish: Round of 16 (2006, 2022)
+  Key Players: Mathew Leckie (Melbourne City), Jackson Irvine (St. Pauli), Harry Souttar (Leicester)
+  Description: Physical and direct tournament side with strong set-piece and duel profile.
+  Folder: team profile/australia
+  Cover: fifa-world-cup-2026-australia-team-images.jpg.jpg
+  Colors: #00843d, #fff
+
+QATAR
+  Confederation: AFC
+  Coach: Bruno Pinheiro
+  Formation: 4-2-3-1 / 4-3-3
+  FIFA Ranking: 34
+  World Cup Titles: 0
+  Best Finish: Group Stage (2022)
+  Key Players: Akram Afif (Al-Sadd), Almoez Ali (Al-Duhail), Hassan Al-Haydos (Al-Sadd)
+  Description: Asian champion profile with creative talent and a tactical reset after 2022.
+  Folder: team profile/qatar
+  Cover: fifa-world-cup-2026-qatar-team-images.jpg.jpg
+  Colors: #8d1b3d, #fff
+
+IRAQ
+  Confederation: AFC
+  Coach: Jesús Casas
+  Formation: 4-2-3-1 / 4-4-2
+  FIFA Ranking: 55
+  World Cup Titles: 0
+  Best Finish: Group Stage (1986)
+  Key Players: Aymen Hussein (Al-Quwa Al-Jawiya), Mohannad Ali (Al-Shorta), Ali Adnan (Mes Kerman)
+  Description: Emotional World Cup return built on compact defending and collective spirit.
+  Folder: team profile/iraq
+  Cover: fifa-world-cup-2026-iraq-team-images.jpg.jpg
+  Colors: #ce1126, #000
+
+JORDAN
+  Confederation: AFC
+  Coach: Arnold Mechkatari
+  Formation: 4-2-3-1 / 4-4-2
+  FIFA Ranking: 62
+  World Cup Titles: 0
+  Best Finish: First World Cup
+  Key Players: Musammar Al-Naimat (Al-Ahli), Yazan Al-Arab (Al-Wehdat), Baha Abdel-Rahman (Al-Faisaly)
+  Description: Organized debutant with compact structure and strong transition routes.
+  Folder: team profile/jordan
+  Cover: fifa-world-cup-2026-jordan-team-images.jpg.jpg
+  Colors: #ce1126, #000
+
+UZBEKISTAN
+  Confederation: AFC
+  Coach: Srečko Katanec
+  Formation: 4-4-2 / 4-2-3-1
+  FIFA Ranking: 58
+  World Cup Titles: 0
+  Best Finish: First World Cup
+  Key Players: Eldor Shomurodov (Cagliari), Odiljon Hamrobekov (FC Bunyodkor), Jaloliddin Masharipov (Pakhtakor)
+  Description: World Cup debutant with energy, organization and growing Asian football momentum.
+  Folder: team profile/uzbekistan
+  Cover: fifa-world-cup-2026-uzbekistan-team-images.jpg.jpg
+  Colors: #1eb53a, #ce1126
+
+========================================
+CAF - AFRICA (10 Teams)
+========================================
+
+MOROCCO
+  Confederation: CAF
+  Coach: Mohamed Ouahbi
+  Formation: 4-3-3 / 4-2-3-1
+  FIFA Ranking: 14
+  World Cup Titles: 0
+  Best Finish: Semi-Finals (2022)
+  Key Players: Achraf Hakimi (PSG), Yassine Bounou (Al-Hilal), Sofyan Amrabat (Fenerbahçe)
+  Description: Historic 2022 semi-finalists built on defensive organization and Hakimi's two-way dominance.
+  Folder: team profile/morroco
+  Cover: fifa-world-cup-2026-morocco-team-images.jpg.jpg
+  Colors: #c1272d, #006233
+
+SENEGAL
+  Confederation: CAF
+  Coach: Aliou Cissé
+  Formation: 4-3-3 / 4-2-3-1
+  FIFA Ranking: 17
+  World Cup Titles: 0
+  Best Finish: Quarter-Finals (2002)
+  Key Players: Sadio Mané (Al-Nassr), Kalidou Koulibaly (Al-Hilal), Ismaïla Sarr (Marseille)
+  Description: Physical and talented African contender with strong knockout-stage potential.
+  Folder: team profile/senegal
+  Cover: fifa-world-cup-2026-senegal-team-images.jpg.jpg
+  Colors: #00853f, #fdef42
+
+EGYPT
+  Confederation: CAF
+  Coach: Hossam Hassan
+  Formation: 4-2-3-1 / 4-3-3
+  FIFA Ranking: 28
+  World Cup Titles: 0
+  Best Finish: Group Stage (1934, 1990, 2018)
+  Key Players: Mohamed Salah (Liverpool), Trezeguet (Al-Ahli Jeddah), Omar Marmoush (Man City)
+  Description: Experienced African power with elite attacking reference and tactical discipline.
+  Folder: team profile/egypt
+  Cover: fifa-world-cup-2026-egypt-team-images.jpg.jpg
+  Colors: #ce1126, #fff
+
+GHANA
+  Confederation: CAF
+  Coach: Chris Hughton
+  Formation: 4-2-3-1 / 4-3-3
+  FIFA Ranking: 38
+  World Cup Titles: 0
+  Best Finish: Quarter-Finals (2010)
+  Key Players: Mohammed Kudus (West Ham), Thomas Partey (Arsenal), Iñaki Williams (Athletic Bilbao)
+  Description: Explosive attacking side with transition threat and high tournament volatility.
+  Folder: team profile/ghana
+  Cover: fifa-world-cup-2026-ghana-team-images.jpg.jpg
+  Colors: #006b3f, #fcd116
+
+ALGERIA
+  Confederation: CAF
+  Coach: Vladimir Petković
+  Formation: 4-3-3 / 4-2-3-1
+  FIFA Ranking: 36
+  World Cup Titles: 0
+  Best Finish: Group Stage (1982, 1986, 2010, 2014)
+  Key Players: Riyad Mahrez (Al-Ahli), Ismaël Bennacer (AC Milan), Baghdad Bounedjah (Al Sadd)
+  Description: Technical North African side with attacking creativity and upset potential.
+  Folder: team profile/algeria
+  Cover: fifa-world-cup-2026-algeria-team-images.jpg.jpg
+  Colors: #006233, #fff
+
+SOUTH AFRICA
+  Confederation: CAF
+  Coach: Hugo Broos
+  Formation: 4-2-3-1 / 4-4-2
+  FIFA Ranking: 37
+  World Cup Titles: 0
+  Best Finish: Group Stage (2010)
+  Key Players: Percy Tau (Al Ahly), Ronwen Williams (Mamelodi Sundowns), Teboho Mokoena (Mamelodi Sundowns)
+  Description: Bafana Bafana return with pace, pressing energy and disciplined structure.
+  Folder: team profile/south africa
+  Cover: fifa-world-cup-2026-south-africa-team-images.jpg.jpg
+  Colors: #007a4d, #000
+
+CABO VERDE
+  Confederation: CAF
+  Coach: Beto
+  Formation: 4-4-2 / 4-3-3
+  FIFA Ranking: 60
+  World Cup Titles: 0
+  Best Finish: First World Cup
+  Key Players: Ryan Mendes (Al-Wakrah), Stopira (Al-Tadamon), Djaniny (Al-Sadd)
+  Description: Historic debutant with defensive organization and low-pressure upside.
+  Folder: team profile/cape-verde
+  Cover: fifa-world-cup-2026-cape-verde-team-images.jpg.jpg
+  Colors: #003893, #fff
+
+DR CONGO
+  Confederation: CAF
+  Coach: Dario Bonetti
+  Formation: 4-3-3 / 4-2-3-1
+  FIFA Ranking: 40
+  World Cup Titles: 0
+  Best Finish: Group Stage (1974)
+  Key Players: Cédric Bakambu (Al-Nassr), Charles Pickel (Basel), Yoann Wissa (Brentford)
+  Description: Powerful underdog with athleticism, set-piece threat and transition potential.
+  Folder: team profile/congo
+  Cover: fifa-world-cup-2026-Congo-team-images.jpg.jpg
+  Colors: #007fff, #f7d618
+
+TUNISIA
+  Confederation: CAF
+  Coach: Jalel Kadri
+  Formation: 4-2-3-1 / 4-4-2
+  FIFA Ranking: 35
+  World Cup Titles: 0
+  Best Finish: Group Stage (1978, 1998, 2002, 2006, 2018, 2022)
+  Key Players: Wahbi Khazri (Montpellier), Ellyes Skhiri (Eintracht Frankfurt), Youssef Msakni (Al-Arabi)
+  Description: Compact North African team built around discipline and low-scoring control.
+  Folder: team profile/tunisia
+  Cover: fifa-world-cup-2026-tunisia-team-images.jpg.jpg
+  Colors: #ce1126, #fff
+
+CÔTE D'IVOIRE
+  Confederation: CAF
+  Coach: Emerson
+  Formation: 4-2-3-1 / 4-3-3
+  FIFA Ranking: 27
+  World Cup Titles: 0
+  Best Finish: Group Stage (2006, 2010, 2014)
+  Key Players: Sébastien Haller (Dortmund), Frank Kessié (Al-Ahli), Nicolas Pépé (Trabzonspor)
+  Description: 2024 African Cup champions on home soil. Haller overcame testicular cancer to return.
+  Folder: team profile/ivory cost
+  Cover: fifa-world-cup-2026-ivory-coast-team-images.jpg.jpg
+  Colors: #f77f00, #009e60
+
+========================================
+OFC - OCEANIA (1 Team)
+========================================
+
+NEW ZEALAND
+  Confederation: OFC
+  Coach: Darren Bazeley
+  Formation: 4-4-2 / 4-2-3-1
+  FIFA Ranking: 65
+  World Cup Titles: 0
+  Best Finish: Group Stage (1982, 2010)
+  Key Players: Chris Wood (Nottm Forest), Libby Cacace (Sint-Truiden), Marko Stamenic (Nottingham Forest)
+  Description: Oceania representative with aerial power, set-piece threat and underdog discipline.
+  Folder: team profile/new zealand
+  Cover: fifa-world-cup-2026-new-zealand-team-images.jpg.jpg
+  Colors: #000, #fff
