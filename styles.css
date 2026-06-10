@@ -158,6 +158,9 @@ a {
     border: none;
     cursor: pointer;
     padding: 5px;
+    position: relative;
+    z-index: 1002;
+    -webkit-tap-highlight-color: transparent;
 }
 
 .hamburger span {
@@ -1822,7 +1825,7 @@ a {
     }
     
     .hamburger {
-        display: flex;
+        display: flex !important;
         z-index: 1002;
         position: relative;
     }
