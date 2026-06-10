@@ -180,8 +180,9 @@ a {
 @media (max-width: 1024px) {
     .hero {
         flex-direction: column;
-        padding-top: 100px;
+        padding-top: 80px;
         padding-bottom: 2rem;
+        min-height: auto;
     }
     
     .hero-trophy {
@@ -1647,7 +1648,7 @@ a {
 @media (max-width: 768px) {
     .nav-menu {
         position: fixed;
-        top: 70px;
+        top: 60px;
         left: 0;
         right: 0;
         background: rgba(10, 10, 10, 0.98);
@@ -1657,6 +1658,9 @@ a {
         gap: 1.5rem;
         transform: translateY(-150%);
         transition: var(--transition);
+        z-index: 1001;
+        max-height: calc(100vh - 60px);
+        overflow-y: auto;
     }
     
     .nav-menu.active {
@@ -1665,6 +1669,13 @@ a {
     
     .hamburger {
         display: flex;
+        z-index: 1002;
+        position: relative;
+    }
+    
+    .hero {
+        min-height: auto;
+        padding: 5rem 1rem 2rem;
     }
     
     .title-large {
@@ -1699,8 +1710,17 @@ a {
         align-items: center;
     }
     
+    .section-header {
+        margin-bottom: 2rem;
+    }
+    
     .section-title {
         font-size: 2.5rem;
+    }
+    
+    /* Scroll indicator */
+    .scroll-indicator {
+        display: none;
     }
     
     .timeline::before {
@@ -1781,6 +1801,10 @@ a {
     
     .player-card {
         min-width: 260px;
+    }
+    
+    .player-number {
+        display: none;
     }
 }
 
@@ -2613,7 +2637,11 @@ a {
     
     /* Sections */
     .section {
-        padding: 3rem 1rem;
+        padding: 2.5rem 1rem;
+    }
+    
+    .section-header {
+        margin-bottom: 2rem;
     }
     
     .section-title {
@@ -2812,6 +2840,10 @@ a {
 
 /* Small phones */
 @media (max-width: 480px) {
+    .hero {
+        padding: 4rem 1rem 1.5rem;
+    }
+    
     .title-large {
         font-size: 2rem;
     }
@@ -2852,6 +2884,15 @@ a {
     
     .section-title {
         font-size: 1.5rem;
+    }
+    
+    .host-flags-hero {
+        gap: 0.75rem;
+    }
+    
+    .hero-flag {
+        width: 50px;
+        height: 33px;
     }
 }
 

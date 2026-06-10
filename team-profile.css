@@ -517,6 +517,7 @@
     .coach-photo-wrap {
         width: 150px;
         height: 150px;
+        box-shadow: 0 4px 15px rgba(0,0,0,0.4);
     }
 
     .coach-name {

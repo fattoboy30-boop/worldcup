@@ -36,7 +36,7 @@ const teams = [
     { name: "Iraq", code: "iq", confederation: "asia" },
     { name: "Uzbekistan", code: "uz", confederation: "asia" },
     { name: "Jordan", code: "jo", confederation: "asia" },
-    { name: "Curaçao", code: "cw", confederation: "asia" },
+    { name: "Curaçao", code: "cw", confederation: "concacaf" },
 
     // Africa (CAF)
     { name: "Morocco", code: "ma", confederation: "africa" },
@@ -171,7 +171,7 @@ const players = [
         club: "Real Madrid",
         age: 21,
         bio: "Turkey's golden boy. Back at World Cup after 24-year absence. Pure magic on the ball.",
-        image: "assets/players/rodri.jpg"
+        image: "assets/players/arda_guler.jpg"
     },
     {
         name: "Nico Paz",

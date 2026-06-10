@@ -87,7 +87,7 @@ const teamProfiles = {
     "Belgium": {
         code: "be", confederation: "europe", confName: "UEFA",
         colors: ["#000", "#fdda24"],
-        folder: "team profile/belguim",
+        folder: "team profile/belgium",
         cover: "fifa-world-cup-2026-belgium-team-images.jpg.jpg",
         coach: "Domenico Tedesco", coachNationality: "Italy", coachAge: 40, coachImage: "assets/coaches/domenico_tedesco.webp", coachBio: "The Italian-born Belgian coach brought fresh energy to Belgium's aging golden generation with a high-pressing system. His youthful approach and tactical innovation have reinvigorated the Red Devils' campaign.", fifaRank: 5, worldCupTitles: 0,
         bestFinish: "Third Place (2018)",
@@ -241,7 +241,7 @@ const teamProfiles = {
     "Argentina": {
         code: "ar", confederation: "south-america", confName: "CONMEBOL",
         colors: ["#74acdf", "#f6b40e"],
-        folder: "team profile/agentin",
+        folder: "team profile/argentina",
         cover: "fifa-world-cup-2026-argentina-team-images.jpg.jpg",
         coach: "Lionel Scaloni", coachNationality: "Argentina", coachAge: 47, coachImage: "assets/coaches/lionel_scaloni.jpg", coachBio: "The unheralded assistant manager who became Argentina's World Cup-winning coach in 2022, ending a 36-year wait. His tactical flexibility and ability to build an unbreakable team spirit around Messi's genius was the key to their triumph.", fifaRank: 1, worldCupTitles: 3,
         bestFinish: "Winners (1978, 1986, 2022)",
@@ -437,7 +437,7 @@ const teamProfiles = {
     "Curaçao": {
         code: "cw", confederation: "asia", confName: "AFC",
         colors: ["#002b7f", "#ffd100"],
-        folder: "team profile/curaco",
+        folder: "team profile/curacao",
         cover: "fifa-world-cup-2026-curacao-team-images.jpg.jpg",
         coach: "Guus Hiddink", coachNationality: "Netherlands", coachAge: 79, coachImage: "assets/coaches/guus_hiddink.webp", coachBio: "The legendary Dutch coach, now 79, made history by guiding tiny Curaçao to their first-ever World Cup. His decades of international experience with Netherlands, South Korea, Australia and Russia proved invaluable.", fifaRank: 68, worldCupTitles: 0,
         bestFinish: "First World Cup",
@@ -451,7 +451,7 @@ const teamProfiles = {
     "Morocco": {
         code: "ma", confederation: "africa", confName: "CAF",
         colors: ["#c1272d", "#006233"],
-        folder: "team profile/morroco",
+        folder: "team profile/morocco",
         cover: "fifa-world-cup-2026-morocco-team-images.jpg.jpg",
         coach: "Mohamed Ouahbi", coachNationality: "Morocco", coachAge: 48, coachImage: "assets/coaches/mohamed_ouahbi.webp", coachBio: "The Moroccan coach inherited the 2022 semi-final legacy and maintained Morocco's position as Africa's top-ranked team. His defensive organization and tactical discipline continued the Atlas Lions' remarkable upward trajectory.", fifaRank: 14, worldCupTitles: 0,
         bestFinish: "Fourth Place (2022)",
@@ -535,7 +535,7 @@ const teamProfiles = {
     "Côte d'Ivoire": {
         code: "ci", confederation: "africa", confName: "CAF",
         colors: ["#f77f00", "#009e60"],
-        folder: "team profile/ivory cost",
+        folder: "team profile/cote-divoire",
         cover: "fifa-world-cup-2026-ivory-coast-team-images.jpg.jpg",
         coach: "Emerse Faé", coachNationality: "Ivory Coast", coachAge: 42, coachImage: "assets/coaches/emerse_fae.webp", coachBio: "The former Ivorian midfielder won the 2023 AFCON as caretaker manager, becoming the first coach in history to win a tournament after being appointed mid-competition. His attacking philosophy and man-management skills have made the Elephants genuine contenders.", fifaRank: 27, worldCupTitles: 0,
         bestFinish: "Group Stage (2006, 2010, 2014)",
