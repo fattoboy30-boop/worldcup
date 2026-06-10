@@ -1828,6 +1828,16 @@ a {
         display: flex !important;
         z-index: 1002;
         position: relative;
+        padding: 8px;
+        border-radius: 6px;
+    }
+
+    .hamburger span {
+        background: var(--text);
+    }
+
+    .player-number {
+        display: none;
     }
     
     .hero {
