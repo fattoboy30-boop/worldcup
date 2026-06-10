@@ -1,9 +1,461 @@
 {
-  "lastUpdated": "2026-06-10T04:04:34.448Z",
+  "lastUpdated": "2026-06-10T08:51:40.698Z",
   "featured": {
-    "match": "",
-    "highlight": "",
-    "interview": ""
+    "match": "y1NZ--JmycU",
+    "highlight": "06t8oS2jdeU",
+    "interview": "5Xowas4rLNI"
   },
-  "videos": []
+  "videos": [
+    {
+      "title": "Another Magical Milla Moment From World Cup History! #shorts #rogermilla #worldcup",
+      "videoId": "06t8oS2jdeU",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-10",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/06t8oS2jdeU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "30+ Minutes Of Brazil! Every World Cup Goal (1970-82)",
+      "videoId": "qEN_WaqUtzQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-10",
+      "category": "Highlights",
+      "team": [
+        "Brazil"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/qEN_WaqUtzQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "M'Boma, Eto'o, More: All Cameroon World Cup Goals",
+      "videoId": "EctHi2Ipfcw",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-10",
+      "category": "Highlights",
+      "team": [
+        "Cameroon"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/EctHi2Ipfcw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Cristiano Ronaldo Makes World Cup History #shorts #ronaldo #portugal",
+      "videoId": "plxErSZtv8U",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-10",
+      "category": "Highlights",
+      "team": [
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/plxErSZtv8U/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "World Cup Hat-Tricks: Post-2000 | Klose, Ronaldo, Mbappe, More",
+      "videoId": "5Xowas4rLNI",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-10",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/5Xowas4rLNI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "THE BEST EVER FIFA WORLD CUP GOALS | Part 2",
+      "videoId": "tTK90W_2Yh8",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-10",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tTK90W_2Yh8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Peak Pele, Brazil & Banks! Why 1970 Was Awesome",
+      "videoId": "je92hnInDnM",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-10",
+      "category": "Highlights",
+      "team": [
+        "Brazil"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/je92hnInDnM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Eusebio's Famous Four Goals In 1966 Match #shorts #eusebio #portugal",
+      "videoId": "5TvmG6mATSo",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-10",
+      "category": "Highlights",
+      "team": [
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/5TvmG6mATSo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "1-Minute Match | Morocco 2-2 Norway | 1998 FIFA World Cup",
+      "videoId": "SWUgnFJorKc",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-10",
+      "category": "Highlights",
+      "team": [
+        "Morocco",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/SWUgnFJorKc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Messi scores his potentially LAST international friendly goal of his career 🚨",
+      "videoId": "QOX9Yl0HYr0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-10",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QOX9Yl0HYr0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "What a night in front of 88,000 at Auburn 🍿",
+      "videoId": "Z2ACErsXen0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-10",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Z2ACErsXen0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Last game before the World Cup begins 👀",
+      "videoId": "gZv7hs-WhBk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-10",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/gZv7hs-WhBk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Messi. Fireworks. Cinema 🔥🐐",
+      "videoId": "rcOa20Q0QAk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-10",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/rcOa20Q0QAk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Iceland players wasted NO time asking Messi for his shirt after the whistle 😂💯",
+      "videoId": "ObDfxBwncK8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-10",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ObDfxBwncK8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Argentina vs. Iceland | Full Game Highlights | ESPN FC",
+      "videoId": "y1NZ--JmycU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-10",
+      "category": "Full Match",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/y1NZ--JmycU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "The crowd reaction to Messi getting ready to sub on 🔥",
+      "videoId": "U6Yzqod9DBE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-10",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/U6Yzqod9DBE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Messi reacting to Mac Allister’s shot off the post 😅",
+      "videoId": "3lYIMZ1RFbQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-10",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/3lYIMZ1RFbQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "What a bench for Argentina in its final international friendly!",
+      "videoId": "4lRGYqRuh0Q",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-10",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4lRGYqRuh0Q/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Messi is for the fans 🔥",
+      "videoId": "v8H54oJzTp4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-10",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/v8H54oJzTp4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Messi and Argentina’s last friendly before the World Cup 🍿",
+      "videoId": "lWeAzmH7qBA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-10",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/lWeAzmH7qBA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Lionel Messi takes pitch, immediately scores in potential last World Cup tune-up of career | ESPN FC",
+      "videoId": "1U9M0O--btc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-10",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/1U9M0O--btc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Messi comes out to the field at Jordan-Hare Stadium 👀",
+      "videoId": "Grt3kz4yczc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-10",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Grt3kz4yczc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Rodrigo De Paul and Leandro Paredes acknowledging the Argentina fans at Auburn 🤝",
+      "videoId": "hOIHKUyKm7s",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-10",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/hOIHKUyKm7s/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Messi and the Argentina squad arrive 🇦🇷 Watch Argentina vs. Iceland on ESPN and the ESPN App at 9 PM",
+      "videoId": "u6yTUFzeOlw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-10",
+      "category": "Viral",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/u6yTUFzeOlw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "FULL MATCH: Argentina v France | 2022 FIFA World Cup Final",
+      "videoId": "RgqKdplLIk4",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-09",
+      "category": "Full Match",
+      "team": [
+        "Argentina",
+        "France"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RgqKdplLIk4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "The Goals To Know | 1970-86 World Cup Group Stages",
+      "videoId": "zTLnSvtMl9Y",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-09",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/zTLnSvtMl9Y/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "10-Minute Classic | Italy 3-2 Brazil |1982 FIFA World Cup",
+      "videoId": "POq1xSApsjg",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-09",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Italy"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/POq1xSApsjg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "FIFA World Cup 2026 | Stories From The Cities | Episode 16: New York New Jersey",
+      "videoId": "uNpK2hD56-o",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-09",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/uNpK2hD56-o/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Cameroon Icon Milla Skips, Scores, Dances! #shorts #milla #cameroon",
+      "videoId": "Mkn4PmbQL-o",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-09",
+      "category": "Highlights",
+      "team": [
+        "Cameroon"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Mkn4PmbQL-o/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "FIFA World Cup 2026 | Preview Series | Episode 12: \"Legacy\"",
+      "videoId": "wqNzEdFX-PA",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-09",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/wqNzEdFX-PA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "group",
+      "fixtureTeams": "Mexico vs South Africa"
+    }
+  ]
 }
