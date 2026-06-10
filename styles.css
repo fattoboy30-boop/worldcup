@@ -1804,6 +1804,7 @@ a {
 
 @media (max-width: 768px) {
     .nav-menu {
+        display: none;
         position: fixed;
         top: 60px;
         left: 0;
@@ -1813,15 +1814,13 @@ a {
         align-items: center;
         padding: 2rem;
         gap: 1.5rem;
-        transform: translateY(-150%);
-        transition: var(--transition);
         z-index: 1001;
         max-height: calc(100vh - 60px);
         overflow-y: auto;
     }
     
     .nav-menu.active {
-        transform: translateY(0);
+        display: flex !important;
     }
     
     .hamburger {

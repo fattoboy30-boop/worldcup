@@ -253,7 +253,8 @@ function initNavbar() {
         }
     });
 
-    hamburger.addEventListener('click', () => {
+    hamburger.addEventListener('click', (e) => {
+        e.stopPropagation();
         hamburger.classList.toggle('active');
         navMenu.classList.toggle('active');
     });
@@ -265,6 +266,13 @@ function initNavbar() {
             navLinks.forEach(l => l.classList.remove('active'));
             link.classList.add('active');
         });
+    });
+
+    document.addEventListener('click', (e) => {
+        if (!hamburger.contains(e.target) && !navMenu.contains(e.target)) {
+            hamburger.classList.remove('active');
+            navMenu.classList.remove('active');
+        }
     });
 }
 
