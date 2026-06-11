@@ -896,73 +896,36 @@ function renderGroupStage(container) {
 }
 
 function renderKnockoutStage(container) {
-    const stageMap = {
-        roundOf32: 'LAST_32',
-        roundOf16: 'LAST_16',
-        quarterFinals: 'QUARTER_FINALS',
-        semiFinals: 'SEMI_FINALS',
-        thirdPlace: 'THIRD_PLACE',
-        final: 'FINAL',
-    };
-    const apiStage = stageMap[currentStage];
-    const matches = fixturesData.fixtures.filter(f => f.stage === apiStage);
-    
-    if (!matches.length) {
+    const stageData = fixturesData.knockoutStage[currentStage];
+    if (!stageData) {
         container.innerHTML = '<p class="no-fixtures">Schedule to be determined after group stage.</p>';
         return;
     }
     
-    const stageLabels = {
-        roundOf32: 'Round of 32',
-        roundOf16: 'Round of 16',
-        quarterFinals: 'Quarter Finals',
-        semiFinals: 'Semi Finals',
-        thirdPlace: 'Third Place',
-        final: 'Final',
-    };
+    let html = `<div class="knockout-header">${stageData.name}</div>`;
     
-    let html = `<div class="knockout-header">${stageLabels[currentStage] || currentStage}</div>`;
-    
-    matches.forEach(match => {
+    stageData.matches.forEach(match => {
         const date = new Date(match.date);
         const formattedDate = date.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' });
         const solomonTime = toSolomonTime(match.date, match.time);
-        const status = match.status || 'timed';
-        const isLive = ['in_play','paused','live','1h','2h','ht'].includes(status);
-        const isFinished = ['finished','ft','aet','pen'].includes(status);
-        const hasScore = match.homeScore != null && match.awayScore != null;
-        
-        let statusBadge = '';
-        if (isLive) statusBadge = `<span class="status-badge live">LIVE</span>`;
-        else if (isFinished) statusBadge = `<span class="status-badge finished">FT</span>`;
-        
-        let scoreDisplay = '';
-        if (hasScore) {
-            scoreDisplay = `<div class="match-score-inline"><span>${match.homeScore}</span> - <span>${match.awayScore}</span></div>`;
-        }
-
-        const homeDisplay = match.homeTeam || 'TBD';
-        const awayDisplay = match.awayTeam || 'TBD';
         
         html += `
-            <div class="schedule-card knockout ${currentStage === 'final' ? 'final-match' : ''} ${isLive ? 'live-card' : ''} ${isFinished ? 'finished-card' : ''}">
+            <div class="schedule-card knockout ${currentStage === 'final' ? 'final-match' : ''}">
                 <div class="match-date">${formattedDate} • ${match.time}</div>
                 <div class="match-date-sbt">Solomon Islands: ${solomonTime}</div>
                 <div class="match-teams">
-                    <div class="team">
-                        ${match.homeFlag ? `<img src="${match.homeFlag}" alt="${homeDisplay}" class="match-flag" onerror="this.src='https://flagcdn.com/w160/un.png'">` : '<div class="match-flag tbd">TBD</div>'}
-                        <span class="team-name">${homeDisplay}</span>
+                    <div class="team tbd-team">
+                        <div class="match-flag tbd">TBD</div>
+                        <span class="team-name">Winner ${match.label.split(' vs ')[0].replace('Winner ', '')}</span>
                     </div>
-                    <div class="match-vs-block">
-                        ${scoreDisplay || '<span class="match-vs">VS</span>'}
-                        ${statusBadge}
-                    </div>
-                    <div class="team">
-                        ${match.awayFlag ? `<img src="${match.awayFlag}" alt="${awayDisplay}" class="match-flag" onerror="this.src='https://flagcdn.com/w160/un.png'">` : '<div class="match-flag tbd">TBD</div>'}
-                        <span class="team-name">${awayDisplay}</span>
+                    <span class="match-vs">VS</span>
+                    <div class="team tbd-team">
+                        <div class="match-flag tbd">TBD</div>
+                        <span class="team-name">Winner ${match.label.split(' vs ')[1].replace('Winner ', '')}</span>
                     </div>
                 </div>
                 <div class="match-venue">${match.venue}, ${match.city}</div>
+                <div class="match-label">${match.label}</div>
             </div>
         `;
     });

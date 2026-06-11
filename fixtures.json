@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T19:31:57.015Z",
+  "lastUpdated": "2026-06-11T19:45:52.755Z",
   "fixtures": [
     {
       "id": 537327,
@@ -2185,5 +2185,293 @@
       "matchday": 0,
       "minute": null
     }
-  ]
+  ],
+  "knockoutStage": {
+    "roundOf32": {
+      "name": "Round of 32",
+      "matches": [
+        {
+          "id": 537417,
+          "date": "2026-06-28",
+          "time": "06:00",
+          "venue": "",
+          "city": "World",
+          "label": "TBD vs TBD"
+        },
+        {
+          "id": 537423,
+          "date": "2026-06-29",
+          "time": "04:00",
+          "venue": "",
+          "city": "World",
+          "label": "TBD vs TBD"
+        },
+        {
+          "id": 537415,
+          "date": "2026-06-29",
+          "time": "07:30",
+          "venue": "",
+          "city": "World",
+          "label": "TBD vs TBD"
+        },
+        {
+          "id": 537418,
+          "date": "2026-06-30",
+          "time": "12:00",
+          "venue": "",
+          "city": "World",
+          "label": "TBD vs TBD"
+        },
+        {
+          "id": 537424,
+          "date": "2026-06-30",
+          "time": "04:00",
+          "venue": "",
+          "city": "World",
+          "label": "TBD vs TBD"
+        },
+        {
+          "id": 537416,
+          "date": "2026-06-30",
+          "time": "08:00",
+          "venue": "",
+          "city": "World",
+          "label": "TBD vs TBD"
+        },
+        {
+          "id": 537425,
+          "date": "2026-07-01",
+          "time": "12:00",
+          "venue": "",
+          "city": "World",
+          "label": "TBD vs TBD"
+        },
+        {
+          "id": 537426,
+          "date": "2026-07-01",
+          "time": "03:00",
+          "venue": "",
+          "city": "World",
+          "label": "TBD vs TBD"
+        },
+        {
+          "id": 537422,
+          "date": "2026-07-01",
+          "time": "07:00",
+          "venue": "",
+          "city": "World",
+          "label": "TBD vs TBD"
+        },
+        {
+          "id": 537421,
+          "date": "2026-07-02",
+          "time": "11:00",
+          "venue": "",
+          "city": "World",
+          "label": "TBD vs TBD"
+        },
+        {
+          "id": 537420,
+          "date": "2026-07-02",
+          "time": "06:00",
+          "venue": "",
+          "city": "World",
+          "label": "TBD vs TBD"
+        },
+        {
+          "id": 537419,
+          "date": "2026-07-02",
+          "time": "10:00",
+          "venue": "",
+          "city": "World",
+          "label": "TBD vs TBD"
+        },
+        {
+          "id": 537429,
+          "date": "2026-07-03",
+          "time": "14:00",
+          "venue": "",
+          "city": "World",
+          "label": "TBD vs TBD"
+        },
+        {
+          "id": 537428,
+          "date": "2026-07-03",
+          "time": "05:00",
+          "venue": "",
+          "city": "World",
+          "label": "TBD vs TBD"
+        },
+        {
+          "id": 537427,
+          "date": "2026-07-03",
+          "time": "09:00",
+          "venue": "",
+          "city": "World",
+          "label": "TBD vs TBD"
+        },
+        {
+          "id": 537430,
+          "date": "2026-07-04",
+          "time": "12:30",
+          "venue": "",
+          "city": "World",
+          "label": "TBD vs TBD"
+        }
+      ]
+    },
+    "roundOf16": {
+      "name": "Round of 16",
+      "matches": [
+        {
+          "id": 537376,
+          "date": "2026-07-04",
+          "time": "04:00",
+          "venue": "",
+          "city": "World",
+          "label": "TBD vs TBD"
+        },
+        {
+          "id": 537375,
+          "date": "2026-07-04",
+          "time": "08:00",
+          "venue": "",
+          "city": "World",
+          "label": "TBD vs TBD"
+        },
+        {
+          "id": 537377,
+          "date": "2026-07-05",
+          "time": "07:00",
+          "venue": "",
+          "city": "World",
+          "label": "TBD vs TBD"
+        },
+        {
+          "id": 537378,
+          "date": "2026-07-06",
+          "time": "11:00",
+          "venue": "",
+          "city": "World",
+          "label": "TBD vs TBD"
+        },
+        {
+          "id": 537379,
+          "date": "2026-07-06",
+          "time": "06:00",
+          "venue": "",
+          "city": "World",
+          "label": "TBD vs TBD"
+        },
+        {
+          "id": 537380,
+          "date": "2026-07-07",
+          "time": "11:00",
+          "venue": "",
+          "city": "World",
+          "label": "TBD vs TBD"
+        },
+        {
+          "id": 537381,
+          "date": "2026-07-07",
+          "time": "03:00",
+          "venue": "",
+          "city": "World",
+          "label": "TBD vs TBD"
+        },
+        {
+          "id": 537382,
+          "date": "2026-07-07",
+          "time": "07:00",
+          "venue": "",
+          "city": "World",
+          "label": "TBD vs TBD"
+        }
+      ]
+    },
+    "quarterFinals": {
+      "name": "Quarter-Finals",
+      "matches": [
+        {
+          "id": 537383,
+          "date": "2026-07-09",
+          "time": "07:00",
+          "venue": "",
+          "city": "World",
+          "label": "TBD vs TBD"
+        },
+        {
+          "id": 537384,
+          "date": "2026-07-10",
+          "time": "06:00",
+          "venue": "",
+          "city": "World",
+          "label": "TBD vs TBD"
+        },
+        {
+          "id": 537385,
+          "date": "2026-07-11",
+          "time": "08:00",
+          "venue": "",
+          "city": "World",
+          "label": "TBD vs TBD"
+        },
+        {
+          "id": 537386,
+          "date": "2026-07-12",
+          "time": "12:00",
+          "venue": "",
+          "city": "World",
+          "label": "TBD vs TBD"
+        }
+      ]
+    },
+    "semiFinals": {
+      "name": "Semi-Finals",
+      "matches": [
+        {
+          "id": 537387,
+          "date": "2026-07-14",
+          "time": "06:00",
+          "venue": "",
+          "city": "World",
+          "label": "TBD vs TBD"
+        },
+        {
+          "id": 537388,
+          "date": "2026-07-15",
+          "time": "06:00",
+          "venue": "",
+          "city": "World",
+          "label": "TBD vs TBD"
+        }
+      ]
+    },
+    "thirdPlace": {
+      "name": "Third-Place Match",
+      "matches": [
+        {
+          "id": 537389,
+          "date": "2026-07-18",
+          "time": "08:00",
+          "venue": "",
+          "city": "World",
+          "label": "TBD vs TBD"
+        }
+      ]
+    },
+    "final": {
+      "name": "Final",
+      "matches": [
+        {
+          "id": 537390,
+          "date": "2026-07-19",
+          "time": "06:00",
+          "venue": "",
+          "city": "World",
+          "label": "TBD vs TBD"
+        }
+      ]
+    }
+  }
 }

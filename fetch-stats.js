@@ -189,7 +189,33 @@ function buildFixtures(matches) {
     };
   });
 
-  return { lastUpdated: new Date().toISOString(), fixtures };
+  const knockoutMap = {
+    LAST_32: { key: 'roundOf32', name: 'Round of 32' },
+    LAST_16: { key: 'roundOf16', name: 'Round of 16' },
+    QUARTER_FINALS: { key: 'quarterFinals', name: 'Quarter-Finals' },
+    SEMI_FINALS: { key: 'semiFinals', name: 'Semi-Finals' },
+    THIRD_PLACE: { key: 'thirdPlace', name: 'Third-Place Match' },
+    FINAL: { key: 'final', name: 'Final' },
+  };
+
+  const knockoutStage = {};
+  for (const [apiStage, meta] of Object.entries(knockoutMap)) {
+    const stageMatches = fixtures.filter(f => f.stage === apiStage);
+    if (stageMatches.length) {
+      knockoutStage[meta.key] = {
+        name: meta.name,
+        matches: stageMatches.map(m => ({
+          id: m.id, date: m.date, time: m.time,
+          venue: m.venue, city: m.city,
+          label: m.homeTeam && m.awayTeam
+            ? `${m.homeTeam} vs ${m.awayTeam}`
+            : `Winner TBD vs Winner TBD`,
+        })),
+      };
+    }
+  }
+
+  return { lastUpdated: new Date().toISOString(), fixtures, knockoutStage };
 }
 
 function buildStandings(standingsData) {
