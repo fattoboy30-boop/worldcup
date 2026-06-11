@@ -972,8 +972,17 @@ a {
     font-family: 'Oswald', sans-serif;
     font-size: 0.9rem;
     color: var(--accent);
-    margin-bottom: 1rem;
+    margin-bottom: 0.3rem;
     letter-spacing: 1px;
+}
+
+.match-date-sbt {
+    font-family: 'Oswald', sans-serif;
+    font-size: 0.8rem;
+    color: #4fc3f7;
+    margin-bottom: 1rem;
+    letter-spacing: 0.5px;
+    opacity: 0.9;
 }
 
 .match-teams {
@@ -3413,6 +3422,13 @@ a {
     font-size: 0.75rem;
     color: var(--text-muted);
     text-align: center;
+}
+
+.score-date-sbt {
+    font-size: 0.7rem;
+    color: #4fc3f7;
+    text-align: center;
+    opacity: 0.8;
 }
 
 .no-scores {

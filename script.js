@@ -742,6 +742,11 @@ function filterByDate(fixtures) {
     });
 }
 
+function toSolomonTime(dateStr, timeStr) {
+    const dt = new Date(dateStr + 'T' + timeStr + ':00Z');
+    return dt.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', hour12: true, timeZone: 'Pacific/Guadalcanal' });
+}
+
 function renderSchedule() {
     const content = document.getElementById('scheduleContent');
     if (!content || !fixturesData) return;
@@ -785,11 +790,13 @@ function renderGroupStage(container) {
             const formattedDate = date.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' });
             const isOpener = match.label === 'Opening Match';
             const isHostOpener = match.label === 'Host Nation Opener';
+            const solomonTime = toSolomonTime(match.date, match.time);
             
             html += `
                 <div class="schedule-card ${isOpener ? 'opening' : ''} ${isHostOpener ? 'host-opener' : ''}">
                     <div class="match-group-badge">Group ${match.group}</div>
                     <div class="match-date">${formattedDate} • ${match.time}</div>
+                    <div class="match-date-sbt">Solomon Islands: ${solomonTime}</div>
                     <div class="match-teams">
                         <div class="team">
                             <img src="${match.homeFlag}" alt="${match.homeTeam}" class="match-flag" onerror="this.src='https://flagcdn.com/w160/un.png'">
@@ -823,10 +830,12 @@ function renderKnockoutStage(container) {
     stageData.matches.forEach(match => {
         const date = new Date(match.date);
         const formattedDate = date.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' });
+        const solomonTime = toSolomonTime(match.date, match.time);
         
         html += `
             <div class="schedule-card knockout ${currentStage === 'final' ? 'final-match' : ''}">
                 <div class="match-date">${formattedDate} • ${match.time}</div>
+                <div class="match-date-sbt">Solomon Islands: ${solomonTime}</div>
                 <div class="match-teams">
                     <div class="team tbd-team">
                         <div class="match-flag tbd">TBD</div>
@@ -1144,6 +1153,7 @@ function renderScores() {
             </div>
             <div class="score-venue">${match.venue}, ${match.city}</div>
             <div class="score-date">${match.date} • ${match.time}</div>
+            <div class="score-date-sbt">Solomon Islands: ${toSolomonTime(match.date, match.time)}</div>
         </div>
     `).join('');
 }
