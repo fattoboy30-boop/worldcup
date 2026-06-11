@@ -744,7 +744,7 @@ function filterByDate(fixtures) {
 
 function toSolomonTime(dateStr, timeStr) {
     const dt = new Date(dateStr + 'T' + timeStr + ':00Z');
-    return dt.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', hour12: true, timeZone: 'Pacific/Guadalcanal' });
+    return dt.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric', timeZone: 'Pacific/Guadalcanal' }) + ', ' + dt.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', hour12: true, timeZone: 'Pacific/Guadalcanal' });
 }
 
 function renderSchedule() {
