@@ -1,0 +1,1538 @@
+{
+  "0": {
+    "name": "0",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Javier Aguirre",
+    "playingStyle": "Defensively disciplined with quick transitions and strong set-piece play.",
+    "keyPlayers": [
+      {
+        "name": "Edson Alvarez",
+        "position": "MID",
+        "club": "Fenerbahce"
+      },
+      {
+        "name": "Santiago Gimenez",
+        "position": "FWD",
+        "club": "AC Milan"
+      },
+      {
+        "name": "Guillermo Ochoa",
+        "position": "GK",
+        "club": "AEL Limassol"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 17,
+      "best_result": "Quarter-finals (1970, 1986)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Automatic qualification as co-hosts."
+  },
+  "1": {
+    "name": "1",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Hugo Broos",
+    "playingStyle": "High-energy pressing with young, athletic talent and direct attacking play.",
+    "keyPlayers": [
+      {
+        "name": "Percy Tau",
+        "position": "FWD",
+        "club": "Thep Xanh Nam Dinh"
+      },
+      {
+        "name": "Ronwen Williams",
+        "position": "GK",
+        "club": "Mamelodi Sundowns"
+      },
+      {
+        "name": "Themba Zwane",
+        "position": "MID",
+        "club": "Mamelodi Sundowns"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 4,
+      "best_result": "Group stage (1998, 2002, 2010)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Qualified through CAF World Cup qualifiers, finishing top of their group."
+  },
+  "2": {
+    "name": "2",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Hong Myung-bo",
+    "playingStyle": "Tactically versatile with high pressing intensity and strong collective discipline.",
+    "keyPlayers": [
+      {
+        "name": "Son Heung-min",
+        "position": "FWD",
+        "club": "Tottenham Hotspur"
+      },
+      {
+        "name": "Kim Min-jae",
+        "position": "DEF",
+        "club": "Bayern Munich"
+      },
+      {
+        "name": "Lee Kang-in",
+        "position": "MID",
+        "club": "Paris Saint-Germain"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 11,
+      "best_result": "Semi-finals (2002)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Qualified through AFC qualifiers, securing automatic qualification from their group."
+  },
+  "3": {
+    "name": "3",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "TBD",
+    "playingStyle": "To be determined after UEFA Playoff D concludes.",
+    "keyPlayers": [],
+    "worldCupHistory": {
+      "appearances": 0,
+      "best_result": "TBD",
+      "titles": 0
+    },
+    "qualifyingSummary": "Winner of UEFA Playoff Path D, to be decided by March 2026."
+  },
+  "4": {
+    "name": "4",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Jesse Marsch",
+    "playingStyle": "High-pressing, physically imposing side with pace on the wings and direct attacking transitions.",
+    "keyPlayers": [
+      {
+        "name": "Alphonso Davies",
+        "position": "DEF",
+        "club": "Bayern Munich"
+      },
+      {
+        "name": "Jonathan David",
+        "position": "FWD",
+        "club": "Juventus"
+      },
+      {
+        "name": "Tajon Buchanan",
+        "position": "MID",
+        "club": "Villarreal"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 2,
+      "best_result": "Group stage (2022)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Automatic qualification as co-hosts."
+  },
+  "5": {
+    "name": "5",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Murat Yakin",
+    "playingStyle": "Organized and compact defensively with a structured build-up and ability to absorb pressure before striking on the counter.",
+    "keyPlayers": [
+      {
+        "name": "Granit Xhaka",
+        "position": "MID",
+        "club": "Bayer Leverkusen"
+      },
+      {
+        "name": "Manuel Akanji",
+        "position": "DEF",
+        "club": "Manchester City"
+      },
+      {
+        "name": "Breel Embolo",
+        "position": "FWD",
+        "club": "Monaco"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 12,
+      "best_result": "Quarter-finals (1934, 1938, 1954)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Qualified through UEFA qualifiers, finishing runners-up in their group and winning their playoff."
+  },
+  "6": {
+    "name": "6",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Julen Lopetegui",
+    "playingStyle": "Possession-based approach with emphasis on technical quality and tactical discipline.",
+    "keyPlayers": [
+      {
+        "name": "Akram Afif",
+        "position": "FWD",
+        "club": "Al Sadd"
+      },
+      {
+        "name": "Almoez Ali",
+        "position": "FWD",
+        "club": "Al Duhail"
+      },
+      {
+        "name": "Hassan Al-Haydos",
+        "position": "MID",
+        "club": "Al Sadd"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 2,
+      "best_result": "Group stage (2022)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Qualified through AFC qualifiers as Asian Cup champions, securing a spot through their group-stage performance."
+  },
+  "7": {
+    "name": "7",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "TBD",
+    "playingStyle": "To be determined after UEFA Playoff A concludes.",
+    "keyPlayers": [],
+    "worldCupHistory": {
+      "appearances": 0,
+      "best_result": "TBD",
+      "titles": 0
+    },
+    "qualifyingSummary": "Winner of UEFA Playoff Path A, to be decided by March 2026."
+  },
+  "8": {
+    "name": "8",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Dorival Junior",
+    "playingStyle": "Flair-driven attack with creative wide players, strong individual skill, and a tradition of expansive football.",
+    "keyPlayers": [
+      {
+        "name": "Vinicius Junior",
+        "position": "FWD",
+        "club": "Real Madrid"
+      },
+      {
+        "name": "Rodrygo",
+        "position": "FWD",
+        "club": "Real Madrid"
+      },
+      {
+        "name": "Bruno Guimaraes",
+        "position": "MID",
+        "club": "Newcastle United"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 22,
+      "best_result": "Champions (2002)",
+      "titles": 5
+    },
+    "qualifyingSummary": "Qualified through CONMEBOL qualifiers after a challenging campaign, finishing in the top four."
+  },
+  "9": {
+    "name": "9",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Walid Regragui",
+    "playingStyle": "Defensively resolute with rapid counter-attacks and a fearless big-game mentality built on 2022 semi-final run.",
+    "keyPlayers": [
+      {
+        "name": "Achraf Hakimi",
+        "position": "DEF",
+        "club": "Paris Saint-Germain"
+      },
+      {
+        "name": "Hakim Ziyech",
+        "position": "MID",
+        "club": "Wydad AC"
+      },
+      {
+        "name": "Youssef En-Nesyri",
+        "position": "FWD",
+        "club": "Fenerbahce"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 7,
+      "best_result": "Semi-finals (2022)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Qualified through CAF qualifiers, topping their group with a dominant defensive record."
+  },
+  "10": {
+    "name": "10",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Sebastien Migne",
+    "playingStyle": "Energetic and passionate with quick passing combinations and reliance on speed in transition.",
+    "keyPlayers": [
+      {
+        "name": "Frantzdy Pierrot",
+        "position": "FWD",
+        "club": "AEK Athens"
+      },
+      {
+        "name": "Derrick Etienne Jr.",
+        "position": "MID",
+        "club": "Columbus Crew"
+      },
+      {
+        "name": "Josue Duverger",
+        "position": "GK",
+        "club": "Real Espana"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 1,
+      "best_result": "Group stage (1974)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Qualified through CONCACAF qualifiers after a historic campaign, finishing in the top qualifying spots."
+  },
+  "11": {
+    "name": "11",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Steve Clarke",
+    "playingStyle": "Compact and disciplined with a low block and direct build-up, relying on set pieces and physicality.",
+    "keyPlayers": [
+      {
+        "name": "Andrew Robertson",
+        "position": "DEF",
+        "club": "Liverpool"
+      },
+      {
+        "name": "John McGinn",
+        "position": "MID",
+        "club": "Aston Villa"
+      },
+      {
+        "name": "Scott McTominay",
+        "position": "MID",
+        "club": "Napoli"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 9,
+      "best_result": "Group stage (1974, 1978, 1982, 1986, 1990, 1998)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Qualified through UEFA qualifiers, navigating a competitive group and playoff to reach their first World Cup since 1998."
+  },
+  "12": {
+    "name": "12",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Mauricio Pochettino",
+    "playingStyle": "Athletic and high-pressing with a young, technically gifted squad and versatile attacking options.",
+    "keyPlayers": [
+      {
+        "name": "Christian Pulisic",
+        "position": "FWD",
+        "club": "AC Milan"
+      },
+      {
+        "name": "Weston McKennie",
+        "position": "MID",
+        "club": "Juventus"
+      },
+      {
+        "name": "Yunus Musah",
+        "position": "MID",
+        "club": "AC Milan"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 11,
+      "best_result": "Semi-finals (1930)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Automatic qualification as co-hosts."
+  },
+  "13": {
+    "name": "13",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Gustavo Alfaro",
+    "playingStyle": "Physically combative with a deep defensive block and dangerous set-piece delivery.",
+    "keyPlayers": [
+      {
+        "name": "Miguel Almiron",
+        "position": "MID",
+        "club": "Atlanta United"
+      },
+      {
+        "name": "Julio Enciso",
+        "position": "FWD",
+        "club": "Strasbourg"
+      },
+      {
+        "name": "Gustavo Gomez",
+        "position": "DEF",
+        "club": "Palmeiras"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 9,
+      "best_result": "Round of 16 (1998, 2002, 2006, 2010)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Qualified through CONMEBOL qualifiers after a steady campaign, securing a direct qualification spot."
+  },
+  "14": {
+    "name": "14",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Tony Popovic",
+    "playingStyle": "Hard-working and organized with a counter-attacking focus and strong aerial presence.",
+    "keyPlayers": [
+      {
+        "name": "Mathew Leckie",
+        "position": "FWD",
+        "club": "Melbourne City"
+      },
+      {
+        "name": "Jackson Irvine",
+        "position": "MID",
+        "club": "St. Pauli"
+      },
+      {
+        "name": "Harry Souttar",
+        "position": "DEF",
+        "club": "Leicester City"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 6,
+      "best_result": "Round of 16 (2006, 2022)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Qualified through AFC qualifiers, securing a spot from the third round of Asian qualifying."
+  },
+  "15": {
+    "name": "15",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "TBD",
+    "playingStyle": "To be determined after UEFA Playoff C concludes.",
+    "keyPlayers": [],
+    "worldCupHistory": {
+      "appearances": 0,
+      "best_result": "TBD",
+      "titles": 0
+    },
+    "qualifyingSummary": "Winner of UEFA Playoff Path C, to be decided by March 2026."
+  },
+  "16": {
+    "name": "16",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Julian Nagelsmann",
+    "playingStyle": "Possession-oriented with aggressive pressing, tactical flexibility, and quick vertical transitions.",
+    "keyPlayers": [
+      {
+        "name": "Jamal Musiala",
+        "position": "MID",
+        "club": "Bayern Munich"
+      },
+      {
+        "name": "Florian Wirtz",
+        "position": "MID",
+        "club": "Liverpool"
+      },
+      {
+        "name": "Kai Havertz",
+        "position": "FWD",
+        "club": "Arsenal"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 20,
+      "best_result": "Champions (2014)",
+      "titles": 4
+    },
+    "qualifyingSummary": "Qualified through UEFA qualifiers, topping their group convincingly."
+  },
+  "17": {
+    "name": "17",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Sebastian Beccacece",
+    "playingStyle": "High-altitude conditioning translates to relentless pressing and physical endurance with pacey forwards.",
+    "keyPlayers": [
+      {
+        "name": "Moises Caicedo",
+        "position": "MID",
+        "club": "Chelsea"
+      },
+      {
+        "name": "Enner Valencia",
+        "position": "FWD",
+        "club": "Pachuca"
+      },
+      {
+        "name": "Piero Hincapie",
+        "position": "DEF",
+        "club": "Arsenal"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 4,
+      "best_result": "Round of 16 (2006)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Qualified through CONMEBOL qualifiers, finishing in the top four of the South American table."
+  },
+  "18": {
+    "name": "18",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Emerse Fae",
+    "playingStyle": "Explosive attacking talent combined with aggressive pressing and flair on the ball.",
+    "keyPlayers": [
+      {
+        "name": "Sebastien Haller",
+        "position": "FWD",
+        "club": "FC Utrecht"
+      },
+      {
+        "name": "Franck Kessie",
+        "position": "MID",
+        "club": "Al Ahli"
+      },
+      {
+        "name": "Simon Adingra",
+        "position": "FWD",
+        "club": "Monaco"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 4,
+      "best_result": "Group stage (2006, 2010, 2014)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Qualified through CAF qualifiers as reigning AFCON champions, finishing top of their qualifying group."
+  },
+  "19": {
+    "name": "19",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Dick Advocaat",
+    "playingStyle": "Compact and defensively oriented with quick transitions and reliance on individual quality in attack.",
+    "keyPlayers": [
+      {
+        "name": "Juninho Bacuna",
+        "position": "MID",
+        "club": "FC Volendam"
+      },
+      {
+        "name": "Kenji Gorre",
+        "position": "FWD",
+        "club": "Maccabi Haifa"
+      },
+      {
+        "name": "Eloy Room",
+        "position": "GK",
+        "club": "Miami FC"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 1,
+      "best_result": "Debut appearance (2026)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Historic first World Cup qualification through CONCACAF qualifiers, finishing in the top qualifying positions."
+  },
+  "20": {
+    "name": "20",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Ronald Koeman",
+    "playingStyle": "Total Football philosophy with positional interchange, technical build-up, and possession dominance.",
+    "keyPlayers": [
+      {
+        "name": "Cody Gakpo",
+        "position": "FWD",
+        "club": "Liverpool"
+      },
+      {
+        "name": "Virgil van Dijk",
+        "position": "DEF",
+        "club": "Liverpool"
+      },
+      {
+        "name": "Frenkie de Jong",
+        "position": "MID",
+        "club": "Barcelona"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 11,
+      "best_result": "Runners-up (1974, 1978, 2010)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Qualified through UEFA qualifiers, finishing at the top of their group."
+  },
+  "21": {
+    "name": "21",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Hajime Moriyasu",
+    "playingStyle": "Tactically astute with rapid transitions, high pressing, and disciplined defensive structure. Known for upsetting favorites.",
+    "keyPlayers": [
+      {
+        "name": "Takefusa Kubo",
+        "position": "FWD",
+        "club": "Real Sociedad"
+      },
+      {
+        "name": "Wataru Endo",
+        "position": "MID",
+        "club": "Liverpool"
+      },
+      {
+        "name": "Kaoru Mitoma",
+        "position": "FWD",
+        "club": "Brighton"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 7,
+      "best_result": "Round of 16 (2002, 2010, 2022)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Qualified through AFC qualifiers, topping their group with a strong unbeaten run."
+  },
+  "22": {
+    "name": "22",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Sami Trabelsi",
+    "playingStyle": "Physically strong and well-organized with a pragmatic approach and clinical counter-attacking.",
+    "keyPlayers": [
+      {
+        "name": "Aissa Laidouni",
+        "position": "MID",
+        "club": "Al-Wakrah"
+      },
+      {
+        "name": "Youssef Msakni",
+        "position": "FWD",
+        "club": "Esperance de Tunis"
+      },
+      {
+        "name": "Hannibal Mejbri",
+        "position": "MID",
+        "club": "Burnley"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 6,
+      "best_result": "Group stage (1978, 1998, 2002, 2006, 2018, 2022)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Qualified through CAF qualifiers, navigating a tough group to earn their spot."
+  },
+  "23": {
+    "name": "23",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "TBD",
+    "playingStyle": "To be determined after UEFA Playoff B concludes.",
+    "keyPlayers": [],
+    "worldCupHistory": {
+      "appearances": 0,
+      "best_result": "TBD",
+      "titles": 0
+    },
+    "qualifyingSummary": "Winner of UEFA Playoff Path B, to be decided by March 2026."
+  },
+  "24": {
+    "name": "24",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Rudi Garcia",
+    "playingStyle": "Technically gifted with creative midfield play, though transitioning from a golden generation to emerging new talent.",
+    "keyPlayers": [
+      {
+        "name": "Kevin De Bruyne",
+        "position": "MID",
+        "club": "Napoli"
+      },
+      {
+        "name": "Jeremy Doku",
+        "position": "FWD",
+        "club": "Manchester City"
+      },
+      {
+        "name": "Amadou Onana",
+        "position": "MID",
+        "club": "Aston Villa"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 14,
+      "best_result": "Semi-finals (2018)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Qualified through UEFA qualifiers, finishing at the top of their group."
+  },
+  "25": {
+    "name": "25",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Amir Ghalenoei",
+    "playingStyle": "Defensively resilient with a low block, physical duels, and dangerous on set pieces and counter-attacks.",
+    "keyPlayers": [
+      {
+        "name": "Mehdi Taremi",
+        "position": "FWD",
+        "club": "Olympiacos"
+      },
+      {
+        "name": "Sardar Azmoun",
+        "position": "FWD",
+        "club": "Shabab Al-Ahli"
+      },
+      {
+        "name": "Alireza Beiranvand",
+        "position": "GK",
+        "club": "Persepolis"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 6,
+      "best_result": "Group stage (1978, 1998, 2006, 2014, 2018, 2022)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Qualified through AFC qualifiers, finishing in a direct qualification spot from their group."
+  },
+  "26": {
+    "name": "26",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Hossam Hassan",
+    "playingStyle": "Structured defensively with a reliance on star forward Mohamed Salah for creative spark and goals.",
+    "keyPlayers": [
+      {
+        "name": "Mohamed Salah",
+        "position": "FWD",
+        "club": "Liverpool"
+      },
+      {
+        "name": "Omar Marmoush",
+        "position": "FWD",
+        "club": "Manchester City"
+      },
+      {
+        "name": "Mohamed Elneny",
+        "position": "MID",
+        "club": "Al Jazira"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 4,
+      "best_result": "Group stage (1934, 1990, 2018)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Qualified through CAF qualifiers, finishing at the top of their qualifying group."
+  },
+  "27": {
+    "name": "27",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Darren Bazeley",
+    "playingStyle": "Resolute and hardworking with a direct, physical approach and strong team cohesion.",
+    "keyPlayers": [
+      {
+        "name": "Chris Wood",
+        "position": "FWD",
+        "club": "Nottingham Forest"
+      },
+      {
+        "name": "Liberato Cacace",
+        "position": "DEF",
+        "club": "Wrexham"
+      },
+      {
+        "name": "Matt Garbett",
+        "position": "MID",
+        "club": "Torino"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 3,
+      "best_result": "Group stage (1982, 2010)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Qualified as OFC representatives, winning the Oceania qualifying tournament."
+  },
+  "28": {
+    "name": "28",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Luis de la Fuente",
+    "playingStyle": "Tiki-taka evolved — possession-dominant with penetrating passing, young dynamic wingers, and a high defensive line.",
+    "keyPlayers": [
+      {
+        "name": "Lamine Yamal",
+        "position": "FWD",
+        "club": "Barcelona"
+      },
+      {
+        "name": "Pedri",
+        "position": "MID",
+        "club": "Barcelona"
+      },
+      {
+        "name": "Rodri",
+        "position": "MID",
+        "club": "Manchester City"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 16,
+      "best_result": "Champions (2010)",
+      "titles": 1
+    },
+    "qualifyingSummary": "Qualified through UEFA qualifiers as reigning European champions, topping their group comfortably."
+  },
+  "29": {
+    "name": "29",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Marcelo Bielsa",
+    "playingStyle": "Aggressive pressing with relentless intensity, fluid attacking movements, and a fearless mentality under Bielsa's demanding system.",
+    "keyPlayers": [
+      {
+        "name": "Federico Valverde",
+        "position": "MID",
+        "club": "Real Madrid"
+      },
+      {
+        "name": "Darwin Nunez",
+        "position": "FWD",
+        "club": "Al-Hilal"
+      },
+      {
+        "name": "Ronald Araujo",
+        "position": "DEF",
+        "club": "Barcelona"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 14,
+      "best_result": "Champions (1930, 1950)",
+      "titles": 2
+    },
+    "qualifyingSummary": "Qualified through CONMEBOL qualifiers, finishing in the top positions of the South American table."
+  },
+  "30": {
+    "name": "30",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Herve Renard",
+    "playingStyle": "Possession-focused with improved tactical discipline and a growing emphasis on developing domestic talent.",
+    "keyPlayers": [
+      {
+        "name": "Salem Al-Dawsari",
+        "position": "FWD",
+        "club": "Al Hilal"
+      },
+      {
+        "name": "Firas Al-Buraikan",
+        "position": "FWD",
+        "club": "Al Ahli"
+      },
+      {
+        "name": "Mohammed Al-Owais",
+        "position": "GK",
+        "club": "Al Hilal"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 7,
+      "best_result": "Round of 16 (1994)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Qualified through AFC qualifiers, finishing in a direct qualification spot from the third round."
+  },
+  "31": {
+    "name": "31",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Bubista",
+    "playingStyle": "Technically skilled with flair on the ball, emphasizing width and individual creativity in tight spaces.",
+    "keyPlayers": [
+      {
+        "name": "Garry Rodrigues",
+        "position": "FWD",
+        "club": "Apollon Limassol"
+      },
+      {
+        "name": "Kenny Rocha Santos",
+        "position": "MID",
+        "club": "Al-Ittihad"
+      },
+      {
+        "name": "Stopira",
+        "position": "DEF",
+        "club": "Giresunspor"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 1,
+      "best_result": "Debut appearance (2026)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Historic first World Cup qualification through CAF qualifiers, topping their qualifying group."
+  },
+  "32": {
+    "name": "32",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Didier Deschamps",
+    "playingStyle": "Pragmatic and adaptable with world-class individual talent, capable of both defensive solidity and explosive attacking football.",
+    "keyPlayers": [
+      {
+        "name": "Kylian Mbappe",
+        "position": "FWD",
+        "club": "Real Madrid"
+      },
+      {
+        "name": "Michael Olise",
+        "position": "FWD",
+        "club": "Bayern Munich"
+      },
+      {
+        "name": "Aurelien Tchouameni",
+        "position": "MID",
+        "club": "Real Madrid"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 16,
+      "best_result": "Champions (2018)",
+      "titles": 2
+    },
+    "qualifyingSummary": "Qualified through UEFA qualifiers, finishing at the top of their group as one of the tournament favorites."
+  },
+  "33": {
+    "name": "33",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Pape Thiaw",
+    "playingStyle": "Physically powerful with pace on the flanks, tactical discipline, and strong defensive organization.",
+    "keyPlayers": [
+      {
+        "name": "Sadio Mane",
+        "position": "FWD",
+        "club": "Al Nassr"
+      },
+      {
+        "name": "Kalidou Koulibaly",
+        "position": "DEF",
+        "club": "Al Hilal"
+      },
+      {
+        "name": "Ismaila Sarr",
+        "position": "FWD",
+        "club": "Crystal Palace"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 4,
+      "best_result": "Quarter-finals (2002)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Qualified through CAF qualifiers as reigning AFCON runners-up, finishing top of their qualifying group."
+  },
+  "34": {
+    "name": "34",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Stale Solbakken",
+    "playingStyle": "Direct and physical with a focus on getting the ball to star striker Haaland quickly, supported by disciplined defending.",
+    "keyPlayers": [
+      {
+        "name": "Erling Haaland",
+        "position": "FWD",
+        "club": "Manchester City"
+      },
+      {
+        "name": "Martin Odegaard",
+        "position": "MID",
+        "club": "Arsenal"
+      },
+      {
+        "name": "Alexander Sorloth",
+        "position": "FWD",
+        "club": "Atletico Madrid"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 3,
+      "best_result": "Round of 16 (1998)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Qualified through UEFA qualifiers, finishing runners-up in their group and winning their playoff to reach a first World Cup since 1998."
+  },
+  "35": {
+    "name": "35",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "TBD",
+    "playingStyle": "To be determined after Intercontinental Playoff 2 concludes.",
+    "keyPlayers": [],
+    "worldCupHistory": {
+      "appearances": 0,
+      "best_result": "TBD",
+      "titles": 0
+    },
+    "qualifyingSummary": "Winner of Intercontinental Playoff 2, to be decided by March 2026."
+  },
+  "36": {
+    "name": "36",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Lionel Scaloni",
+    "playingStyle": "Balanced and cohesive with elite individual quality, a rock-solid defense, and Messi's orchestration in attack.",
+    "keyPlayers": [
+      {
+        "name": "Lionel Messi",
+        "position": "FWD",
+        "club": "Inter Miami"
+      },
+      {
+        "name": "Julian Alvarez",
+        "position": "FWD",
+        "club": "Atletico Madrid"
+      },
+      {
+        "name": "Enzo Fernandez",
+        "position": "MID",
+        "club": "Chelsea"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 18,
+      "best_result": "Champions (2022)",
+      "titles": 3
+    },
+    "qualifyingSummary": "Qualified through CONMEBOL qualifiers as defending world champions, finishing near the top of the South American table."
+  },
+  "37": {
+    "name": "37",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Ralf Rangnick",
+    "playingStyle": "Intense gegenpressing with a structured positional game, vertical transitions, and relentless energy under Rangnick.",
+    "keyPlayers": [
+      {
+        "name": "David Alaba",
+        "position": "DEF",
+        "club": "Real Madrid"
+      },
+      {
+        "name": "Marcel Sabitzer",
+        "position": "MID",
+        "club": "Borussia Dortmund"
+      },
+      {
+        "name": "Christoph Baumgartner",
+        "position": "MID",
+        "club": "RB Leipzig"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 8,
+      "best_result": "Semi-finals (1934, 1954)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Qualified through UEFA qualifiers, finishing at the top of a competitive group under Rangnick's revitalized system."
+  },
+  "38": {
+    "name": "38",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Vladimir Petkovic",
+    "playingStyle": "Technically proficient with a structured build-up, strong midfield control, and clinical finishing.",
+    "keyPlayers": [
+      {
+        "name": "Riyad Mahrez",
+        "position": "FWD",
+        "club": "Al Ahli"
+      },
+      {
+        "name": "Ismael Bennacer",
+        "position": "MID",
+        "club": "Dinamo Zagreb"
+      },
+      {
+        "name": "Islam Slimani",
+        "position": "FWD",
+        "club": "CFR Cluj"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 5,
+      "best_result": "Round of 16 (2014)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Qualified through CAF qualifiers, finishing at the top of their group."
+  },
+  "39": {
+    "name": "39",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Hussein Ammouta",
+    "playingStyle": "Defensively organized with disciplined shape and capable of producing surprise results through collective effort.",
+    "keyPlayers": [
+      {
+        "name": "Mousa Al-Taamari",
+        "position": "FWD",
+        "club": "Montpellier"
+      },
+      {
+        "name": "Yazan Al-Naimat",
+        "position": "FWD",
+        "club": "Young Boys"
+      },
+      {
+        "name": "Yazeed Abo Laila",
+        "position": "GK",
+        "club": "Omonoia"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 1,
+      "best_result": "Debut appearance (2026)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Historic first World Cup qualification through AFC qualifiers, reaching the tournament as Asian Cup finalists."
+  },
+  "40": {
+    "name": "40",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Roberto Martinez",
+    "playingStyle": "Technically excellent with patient build-up play, creative midfield, and devastating finishing from Cristiano Ronaldo.",
+    "keyPlayers": [
+      {
+        "name": "Cristiano Ronaldo",
+        "position": "FWD",
+        "club": "Al Nassr"
+      },
+      {
+        "name": "Bernardo Silva",
+        "position": "MID",
+        "club": "Manchester City"
+      },
+      {
+        "name": "Rafael Leao",
+        "position": "FWD",
+        "club": "AC Milan"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 8,
+      "best_result": "Semi-finals (1966, 2006)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Qualified through UEFA qualifiers, topping their group with a strong campaign under Roberto Martinez."
+  },
+  "41": {
+    "name": "41",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Nestor Lorenzo",
+    "playingStyle": "Possession-based with technical flair, creative playmaking through James Rodriguez, and physicality in midfield.",
+    "keyPlayers": [
+      {
+        "name": "Luis Diaz",
+        "position": "FWD",
+        "club": "Liverpool"
+      },
+      {
+        "name": "James Rodriguez",
+        "position": "MID",
+        "club": "Minnesota United"
+      },
+      {
+        "name": "Jhon Arias",
+        "position": "FWD",
+        "club": "Palmeiras"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 7,
+      "best_result": "Quarter-finals (2014)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Qualified through CONMEBOL qualifiers, finishing in a strong position in the South American standings."
+  },
+  "42": {
+    "name": "42",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Fabio Cannavaro",
+    "playingStyle": "Well-organized with a disciplined defensive shape and ability to compete physically against stronger opponents.",
+    "keyPlayers": [
+      {
+        "name": "Eldor Shomurodov",
+        "position": "FWD",
+        "club": "Istanbul Basaksehir"
+      },
+      {
+        "name": "Abbosbek Fayzullaev",
+        "position": "MID",
+        "club": "Istanbul Basaksehir"
+      },
+      {
+        "name": "Otabek Shukurov",
+        "position": "MID",
+        "club": "Baniyas"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 1,
+      "best_result": "Debut appearance (2026)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Historic first World Cup qualification through AFC qualifiers, finishing in a direct qualification spot from the third round."
+  },
+  "43": {
+    "name": "43",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "TBD",
+    "playingStyle": "To be determined after Intercontinental Playoff 1 concludes.",
+    "keyPlayers": [],
+    "worldCupHistory": {
+      "appearances": 0,
+      "best_result": "TBD",
+      "titles": 0
+    },
+    "qualifyingSummary": "Winner of Intercontinental Playoff 1, to be decided by March 2026."
+  },
+  "44": {
+    "name": "44",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Thomas Tuchel",
+    "playingStyle": "Structured and tactically sophisticated with strong defensive organization and quality in wide areas.",
+    "keyPlayers": [
+      {
+        "name": "Jude Bellingham",
+        "position": "MID",
+        "club": "Real Madrid"
+      },
+      {
+        "name": "Bukayo Saka",
+        "position": "FWD",
+        "club": "Arsenal"
+      },
+      {
+        "name": "Phil Foden",
+        "position": "MID",
+        "club": "Manchester City"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 16,
+      "best_result": "Champions (1966)",
+      "titles": 1
+    },
+    "qualifyingSummary": "Qualified through UEFA qualifiers, finishing at the top of their group under new manager Thomas Tuchel."
+  },
+  "45": {
+    "name": "45",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Zlatko Dalic",
+    "playingStyle": "Technically masterful midfield-driven team with exceptional passing quality and big-tournament pedigree.",
+    "keyPlayers": [
+      {
+        "name": "Luka Modric",
+        "position": "MID",
+        "club": "Real Madrid"
+      },
+      {
+        "name": "Mateo Kovacic",
+        "position": "MID",
+        "club": "Manchester City"
+      },
+      {
+        "name": "Josko Gvardiol",
+        "position": "DEF",
+        "club": "Manchester City"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 7,
+      "best_result": "Runners-up (2018)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Qualified through UEFA qualifiers, finishing in a qualifying position from their group."
+  },
+  "46": {
+    "name": "46",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Otto Addo",
+    "playingStyle": "Athletic and dynamic with pace in attack, spirited performances, and strong team unity.",
+    "keyPlayers": [
+      {
+        "name": "Mohammed Kudus",
+        "position": "MID",
+        "club": "Tottenham Hotspur"
+      },
+      {
+        "name": "Thomas Partey",
+        "position": "MID",
+        "club": "Villarreal"
+      },
+      {
+        "name": "Antoine Semenyo",
+        "position": "FWD",
+        "club": "Bournemouth"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 5,
+      "best_result": "Quarter-finals (2010)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Qualified through CAF qualifiers, finishing top of their group in the African qualifying rounds."
+  },
+  "47": {
+    "name": "47",
+    "code": "un",
+    "flag": "https://flagcdn.com/w160/un.png",
+    "confederation": "",
+    "fifaRanking": 0,
+    "group": "",
+    "isHost": false,
+    "coach": "Thomas Christiansen",
+    "playingStyle": "Physically strong and combative with an organized defensive block and aerial threat from set pieces.",
+    "keyPlayers": [
+      {
+        "name": "Michael Murillo",
+        "position": "DEF",
+        "club": "Anderlecht"
+      },
+      {
+        "name": "Jose Fajardo",
+        "position": "FWD",
+        "club": "Saprissa"
+      },
+      {
+        "name": "Adalberto Carrasquilla",
+        "position": "MID",
+        "club": "Houston Dynamo"
+      }
+    ],
+    "worldCupHistory": {
+      "appearances": 2,
+      "best_result": "Group stage (2018)",
+      "titles": 0
+    },
+    "qualifyingSummary": "Qualified through CONCACAF qualifiers, finishing in a direct qualification spot from the final round."
+  }
+}

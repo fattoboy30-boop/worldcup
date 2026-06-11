@@ -4484,6 +4484,103 @@ a {
     }
 }
 
+/* ===== Injuries Section ===== */
+.injuries-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.injury-card {
+    background: var(--gradient-card);
+    border-radius: 14px;
+    padding: 1.25rem;
+    border: var(--border-subtle);
+    transition: var(--transition);
+}
+
+.injury-card:hover {
+    border-color: rgba(200, 16, 46, 0.2);
+    transform: translateY(-3px);
+}
+
+.injury-header {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 0.75rem;
+}
+
+.injury-flag {
+    width: 40px;
+    height: 28px;
+    object-fit: cover;
+    border-radius: 3px;
+}
+
+.injury-player-name {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--text);
+}
+
+.injury-team {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+}
+
+.injury-details {
+    margin-bottom: 0.5rem;
+}
+
+.injury-type {
+    font-size: 0.85rem;
+    color: var(--text);
+    margin-bottom: 0.25rem;
+}
+
+.injury-status {
+    display: inline-block;
+    padding: 0.2rem 0.6rem;
+    border-radius: 10px;
+    font-size: 0.65rem;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.injury-status.doubtful {
+    background: rgba(255, 199, 44, 0.2);
+    color: var(--accent);
+}
+
+.injury-status.recovering {
+    background: rgba(0, 200, 150, 0.2);
+    color: #00c896;
+}
+
+.injury-status.out {
+    background: rgba(255, 60, 60, 0.2);
+    color: #ff3c3c;
+}
+
+.injury-status.fit {
+    background: rgba(0, 255, 0, 0.15);
+    color: #00ff00;
+}
+
+.injury-return {
+    font-size: 0.7rem;
+    color: var(--text-muted);
+}
+
+.injuries-meta {
+    text-align: center;
+    font-size: 0.75rem;
+    color: var(--text-muted);
+}
+
 /* --- Reduced motion: disable all animations and transitions --- */
 @media (prefers-reduced-motion: reduce) {
     *,

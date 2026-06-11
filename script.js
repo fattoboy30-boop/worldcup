@@ -232,6 +232,7 @@ document.addEventListener('DOMContentLoaded', () => {
     initStandings();
     initArchive();
     initVideoHub();
+    initInjuries();
     initScrollAnimations();
     initStreaming();
     
@@ -1374,6 +1375,52 @@ async function refreshStandings() {
     } catch (error) {
         // Silently fail
     }
+}
+
+// ===== Injuries Section =====
+async function initInjuries() {
+    try {
+        const response = await fetch('data/wc26-injuries.json');
+        if (!response.ok) throw new Error('Failed to load injuries');
+        const data = await response.json();
+        
+        const lastUpdated = document.getElementById('injuriesLastUpdated');
+        if (lastUpdated && data.lastUpdated) {
+            lastUpdated.textContent = new Date(data.lastUpdated).toLocaleDateString();
+        }
+        
+        renderInjuries(data.injuries || []);
+    } catch (error) {
+        console.log('Injuries data not available');
+        const grid = document.getElementById('injuriesGrid');
+        if (grid) {
+            grid.innerHTML = '<p class="no-scores">Injury data will appear here.</p>';
+        }
+    }
+}
+
+function renderInjuries(injuries) {
+    const grid = document.getElementById('injuriesGrid');
+    if (!grid || !injuries.length) return;
+    
+    grid.innerHTML = injuries.map(inj => `
+        <div class="injury-card">
+            <div class="injury-header">
+                <img src="${inj.flag}" alt="${inj.team}" class="injury-flag" onerror="this.src='https://flagcdn.com/w160/un.png'">
+                <div>
+                    <div class="injury-player-name">${inj.player}</div>
+                    <div class="injury-team">${inj.team} | ${inj.position}</div>
+                </div>
+            </div>
+            <div class="injury-details">
+                <div class="injury-type">${inj.injury}</div>
+                <span class="injury-status ${inj.status}">${inj.status}</span>
+            </div>
+            <div class="injury-return">Expected return: ${inj.expectedReturn}</div>
+        </div>
+    `).join('');
+    
+    setTimeout(initScrollAnimations, 100);
 }
 
 // ===== Archive Section =====
