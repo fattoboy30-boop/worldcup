@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T14:52:26.121Z",
+  "lastUpdated": "2026-06-11T17:58:49.451Z",
   "liveMatches": [],
   "recentResults": [],
   "upcomingMatches": [
@@ -225,7 +225,7 @@
       "awayScore": null,
       "venue": "",
       "city": "",
-      "status": "scheduled",
+      "status": "timed",
       "group": "E",
       "stage": "GROUP_STAGE",
       "minute": null,
