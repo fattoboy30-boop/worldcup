@@ -69,6 +69,54 @@ a {
     background: transparent;
 }
 
+/* ===== Live Banner ===== */
+.live-banner {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1100;
+    background: linear-gradient(90deg, #cc0000, #ff0000, #cc0000);
+    text-align: center;
+    padding: 8px 1rem;
+    display: none;
+}
+
+.live-banner.visible {
+    display: block;
+}
+
+.live-banner a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+    color: #fff;
+    font-family: 'Oswald', sans-serif;
+    font-size: 0.85rem;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.live-banner a:hover {
+    opacity: 0.9;
+}
+
+.live-dot-banner {
+    width: 8px;
+    height: 8px;
+    background: #fff;
+    border-radius: 50%;
+    display: inline-block;
+    animation: livePulse 1.5s ease-in-out infinite;
+    flex-shrink: 0;
+}
+
+.live-arrow {
+    font-size: 1rem;
+}
+
 .navbar.scrolled {
     background: rgba(10, 10, 16, 0.85);
     backdrop-filter: blur(24px) saturate(180%);
@@ -572,6 +620,39 @@ a {
     background: rgba(255, 255, 255, 0.12);
     border-color: rgba(255, 255, 255, 0.2);
     transform: translateY(-2px);
+}
+
+.btn-live {
+    background: linear-gradient(135deg, #cc0000 0%, #ff0000 100%);
+    color: #fff;
+    box-shadow: 0 4px 20px rgba(255, 0, 0, 0.4);
+    animation: liveGlow 2s ease-in-out infinite;
+}
+
+.btn-live:hover {
+    background: linear-gradient(135deg, #ff0000 0%, #ff3333 100%);
+    transform: translateY(-2px) scale(1.02);
+    box-shadow: 0 6px 30px rgba(255, 0, 0, 0.5);
+}
+
+.live-dot {
+    width: 10px;
+    height: 10px;
+    background: #fff;
+    border-radius: 50%;
+    display: inline-block;
+    animation: livePulse 1.5s ease-in-out infinite;
+    flex-shrink: 0;
+}
+
+@keyframes liveGlow {
+    0%, 100% { box-shadow: 0 4px 20px rgba(255, 0, 0, 0.4); }
+    50% { box-shadow: 0 4px 35px rgba(255, 0, 0, 0.7), 0 0 60px rgba(255, 0, 0, 0.2); }
+}
+
+@keyframes livePulse {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.5; transform: scale(0.7); }
 }
 
 .btn-icon {
