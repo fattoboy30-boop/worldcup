@@ -668,7 +668,7 @@ let currentDateFilter = 'all';
 
 async function initSchedule() {
     try {
-        const response = await fetch('fixtures.json');
+        const response = await fetch('fixtures.json?' + Date.now());
         if (!response.ok) throw new Error('Failed to load fixtures');
         fixturesData = await response.json();
     } catch (error) {
@@ -1162,7 +1162,7 @@ function initLoadMoreNews() {
 // ===== Scores Section =====
 async function initScores() {
     try {
-        const response = await fetch('scores.json');
+        const response = await fetch('scores.json?' + Date.now());
         scoresData = await response.json();
         
         // Update last updated time
@@ -1286,7 +1286,7 @@ async function refreshScores() {
 // ===== Standings Section =====
 async function initStandings() {
     try {
-        const response = await fetch('standings.json');
+        const response = await fetch('standings.json?' + Date.now());
         standingsData = await response.json();
         
         // Update last updated time
