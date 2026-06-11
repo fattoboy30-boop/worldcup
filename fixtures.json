@@ -1,113 +1,305 @@
 {
   "tournament": "FIFA World Cup 2026",
-  "lastUpdated": "2026-06-07T00:00:00Z",
+  "lastUpdated": "2026-06-11T14:52:26.124Z",
   "groups": {
     "A": {
       "name": "Group A",
       "teams": [
-        {"name": "Mexico", "code": "mx", "flag": "https://flagcdn.com/w160/mx.png"},
-        {"name": "South Africa", "code": "za", "flag": "https://flagcdn.com/w160/za.png"},
-        {"name": "South Korea", "code": "kr", "flag": "https://flagcdn.com/w160/kr.png"},
-        {"name": "Czechia", "code": "cz", "flag": "https://flagcdn.com/w160/cz.png"}
+        {
+          "name": "Mexico",
+          "code": "mx",
+          "flag": "https://flagcdn.com/w160/mx.png"
+        },
+        {
+          "name": "South Africa",
+          "code": "za",
+          "flag": "https://flagcdn.com/w160/za.png"
+        },
+        {
+          "name": "South Korea",
+          "code": "kr",
+          "flag": "https://flagcdn.com/w160/kr.png"
+        },
+        {
+          "name": "Czechia",
+          "code": "cz",
+          "flag": "https://flagcdn.com/w160/cz.png"
+        }
       ]
     },
     "B": {
       "name": "Group B",
       "teams": [
-        {"name": "Canada", "code": "ca", "flag": "https://flagcdn.com/w160/ca.png"},
-        {"name": "Bosnia and Herzegovina", "code": "ba", "flag": "https://flagcdn.com/w160/ba.png"},
-        {"name": "Qatar", "code": "qa", "flag": "https://flagcdn.com/w160/qa.png"},
-        {"name": "Switzerland", "code": "ch", "flag": "https://flagcdn.com/w160/ch.png"}
+        {
+          "name": "Canada",
+          "code": "ca",
+          "flag": "https://flagcdn.com/w160/ca.png"
+        },
+        {
+          "name": "Bosnia and Herzegovina",
+          "code": "ba",
+          "flag": "https://flagcdn.com/w160/ba.png"
+        },
+        {
+          "name": "Qatar",
+          "code": "qa",
+          "flag": "https://flagcdn.com/w160/qa.png"
+        },
+        {
+          "name": "Switzerland",
+          "code": "ch",
+          "flag": "https://flagcdn.com/w160/ch.png"
+        }
       ]
     },
     "C": {
       "name": "Group C",
       "teams": [
-        {"name": "Brazil", "code": "br", "flag": "https://flagcdn.com/w160/br.png"},
-        {"name": "Morocco", "code": "ma", "flag": "https://flagcdn.com/w160/ma.png"},
-        {"name": "Haiti", "code": "ht", "flag": "https://flagcdn.com/w160/ht.png"},
-        {"name": "Scotland", "code": "gb-sct", "flag": "https://flagcdn.com/w160/gb-sct.png"}
+        {
+          "name": "Brazil",
+          "code": "br",
+          "flag": "https://flagcdn.com/w160/br.png"
+        },
+        {
+          "name": "Morocco",
+          "code": "ma",
+          "flag": "https://flagcdn.com/w160/ma.png"
+        },
+        {
+          "name": "Haiti",
+          "code": "ht",
+          "flag": "https://flagcdn.com/w160/ht.png"
+        },
+        {
+          "name": "Scotland",
+          "code": "gb-sct",
+          "flag": "https://flagcdn.com/w160/gb-sct.png"
+        }
       ]
     },
     "D": {
       "name": "Group D",
       "teams": [
-        {"name": "USA", "code": "us", "flag": "https://flagcdn.com/w160/us.png"},
-        {"name": "Paraguay", "code": "py", "flag": "https://flagcdn.com/w160/py.png"},
-        {"name": "Australia", "code": "au", "flag": "https://flagcdn.com/w160/au.png"},
-        {"name": "Türkiye", "code": "tr", "flag": "https://flagcdn.com/w160/tr.png"}
+        {
+          "name": "USA",
+          "code": "us",
+          "flag": "https://flagcdn.com/w160/us.png"
+        },
+        {
+          "name": "Paraguay",
+          "code": "py",
+          "flag": "https://flagcdn.com/w160/py.png"
+        },
+        {
+          "name": "Australia",
+          "code": "au",
+          "flag": "https://flagcdn.com/w160/au.png"
+        },
+        {
+          "name": "Türkiye",
+          "code": "tr",
+          "flag": "https://flagcdn.com/w160/tr.png"
+        }
       ]
     },
     "E": {
       "name": "Group E",
       "teams": [
-        {"name": "Germany", "code": "de", "flag": "https://flagcdn.com/w160/de.png"},
-        {"name": "Curaçao", "code": "cw", "flag": "https://flagcdn.com/w160/cw.png"},
-        {"name": "Côte d'Ivoire", "code": "ci", "flag": "https://flagcdn.com/w160/ci.png"},
-        {"name": "Ecuador", "code": "ec", "flag": "https://flagcdn.com/w160/ec.png"}
+        {
+          "name": "Germany",
+          "code": "de",
+          "flag": "https://flagcdn.com/w160/de.png"
+        },
+        {
+          "name": "Curaçao",
+          "code": "cw",
+          "flag": "https://flagcdn.com/w160/cw.png"
+        },
+        {
+          "name": "Côte d'Ivoire",
+          "code": "ci",
+          "flag": "https://flagcdn.com/w160/ci.png"
+        },
+        {
+          "name": "Ecuador",
+          "code": "ec",
+          "flag": "https://flagcdn.com/w160/ec.png"
+        }
       ]
     },
     "F": {
       "name": "Group F",
       "teams": [
-        {"name": "Netherlands", "code": "nl", "flag": "https://flagcdn.com/w160/nl.png"},
-        {"name": "Japan", "code": "jp", "flag": "https://flagcdn.com/w160/jp.png"},
-        {"name": "Sweden", "code": "se", "flag": "https://flagcdn.com/w160/se.png"},
-        {"name": "Tunisia", "code": "tn", "flag": "https://flagcdn.com/w160/tn.png"}
+        {
+          "name": "Netherlands",
+          "code": "nl",
+          "flag": "https://flagcdn.com/w160/nl.png"
+        },
+        {
+          "name": "Japan",
+          "code": "jp",
+          "flag": "https://flagcdn.com/w160/jp.png"
+        },
+        {
+          "name": "Sweden",
+          "code": "se",
+          "flag": "https://flagcdn.com/w160/se.png"
+        },
+        {
+          "name": "Tunisia",
+          "code": "tn",
+          "flag": "https://flagcdn.com/w160/tn.png"
+        }
       ]
     },
     "G": {
       "name": "Group G",
       "teams": [
-        {"name": "Belgium", "code": "be", "flag": "https://flagcdn.com/w160/be.png"},
-        {"name": "Egypt", "code": "eg", "flag": "https://flagcdn.com/w160/eg.png"},
-        {"name": "IR Iran", "code": "ir", "flag": "https://flagcdn.com/w160/ir.png"},
-        {"name": "New Zealand", "code": "nz", "flag": "https://flagcdn.com/w160/nz.png"}
+        {
+          "name": "Belgium",
+          "code": "be",
+          "flag": "https://flagcdn.com/w160/be.png"
+        },
+        {
+          "name": "Egypt",
+          "code": "eg",
+          "flag": "https://flagcdn.com/w160/eg.png"
+        },
+        {
+          "name": "IR Iran",
+          "code": "ir",
+          "flag": "https://flagcdn.com/w160/ir.png"
+        },
+        {
+          "name": "New Zealand",
+          "code": "nz",
+          "flag": "https://flagcdn.com/w160/nz.png"
+        }
       ]
     },
     "H": {
       "name": "Group H",
       "teams": [
-        {"name": "Spain", "code": "es", "flag": "https://flagcdn.com/w160/es.png"},
-        {"name": "Cabo Verde", "code": "cv", "flag": "https://flagcdn.com/w160/cv.png"},
-        {"name": "Saudi Arabia", "code": "sa", "flag": "https://flagcdn.com/w160/sa.png"},
-        {"name": "Uruguay", "code": "uy", "flag": "https://flagcdn.com/w160/uy.png"}
+        {
+          "name": "Spain",
+          "code": "es",
+          "flag": "https://flagcdn.com/w160/es.png"
+        },
+        {
+          "name": "Cabo Verde",
+          "code": "cv",
+          "flag": "https://flagcdn.com/w160/cv.png"
+        },
+        {
+          "name": "Saudi Arabia",
+          "code": "sa",
+          "flag": "https://flagcdn.com/w160/sa.png"
+        },
+        {
+          "name": "Uruguay",
+          "code": "uy",
+          "flag": "https://flagcdn.com/w160/uy.png"
+        }
       ]
     },
     "I": {
       "name": "Group I",
       "teams": [
-        {"name": "France", "code": "fr", "flag": "https://flagcdn.com/w160/fr.png"},
-        {"name": "Senegal", "code": "sn", "flag": "https://flagcdn.com/w160/sn.png"},
-        {"name": "Iraq", "code": "iq", "flag": "https://flagcdn.com/w160/iq.png"},
-        {"name": "Norway", "code": "no", "flag": "https://flagcdn.com/w160/no.png"}
+        {
+          "name": "France",
+          "code": "fr",
+          "flag": "https://flagcdn.com/w160/fr.png"
+        },
+        {
+          "name": "Senegal",
+          "code": "sn",
+          "flag": "https://flagcdn.com/w160/sn.png"
+        },
+        {
+          "name": "Iraq",
+          "code": "iq",
+          "flag": "https://flagcdn.com/w160/iq.png"
+        },
+        {
+          "name": "Norway",
+          "code": "no",
+          "flag": "https://flagcdn.com/w160/no.png"
+        }
       ]
     },
     "J": {
       "name": "Group J",
       "teams": [
-        {"name": "Argentina", "code": "ar", "flag": "https://flagcdn.com/w160/ar.png"},
-        {"name": "Algeria", "code": "dz", "flag": "https://flagcdn.com/w160/dz.png"},
-        {"name": "Austria", "code": "at", "flag": "https://flagcdn.com/w160/at.png"},
-        {"name": "Jordan", "code": "jo", "flag": "https://flagcdn.com/w160/jo.png"}
+        {
+          "name": "Argentina",
+          "code": "ar",
+          "flag": "https://flagcdn.com/w160/ar.png"
+        },
+        {
+          "name": "Algeria",
+          "code": "dz",
+          "flag": "https://flagcdn.com/w160/dz.png"
+        },
+        {
+          "name": "Austria",
+          "code": "at",
+          "flag": "https://flagcdn.com/w160/at.png"
+        },
+        {
+          "name": "Jordan",
+          "code": "jo",
+          "flag": "https://flagcdn.com/w160/jo.png"
+        }
       ]
     },
     "K": {
       "name": "Group K",
       "teams": [
-        {"name": "Portugal", "code": "pt", "flag": "https://flagcdn.com/w160/pt.png"},
-        {"name": "DR Congo", "code": "cd", "flag": "https://flagcdn.com/w160/cd.png"},
-        {"name": "Uzbekistan", "code": "uz", "flag": "https://flagcdn.com/w160/uz.png"},
-        {"name": "Colombia", "code": "co", "flag": "https://flagcdn.com/w160/co.png"}
+        {
+          "name": "Portugal",
+          "code": "pt",
+          "flag": "https://flagcdn.com/w160/pt.png"
+        },
+        {
+          "name": "DR Congo",
+          "code": "cd",
+          "flag": "https://flagcdn.com/w160/cd.png"
+        },
+        {
+          "name": "Uzbekistan",
+          "code": "uz",
+          "flag": "https://flagcdn.com/w160/uz.png"
+        },
+        {
+          "name": "Colombia",
+          "code": "co",
+          "flag": "https://flagcdn.com/w160/co.png"
+        }
       ]
     },
     "L": {
       "name": "Group L",
       "teams": [
-        {"name": "England", "code": "gb-eng", "flag": "https://flagcdn.com/w160/gb-eng.png"},
-        {"name": "Croatia", "code": "hr", "flag": "https://flagcdn.com/w160/hr.png"},
-        {"name": "Ghana", "code": "gh", "flag": "https://flagcdn.com/w160/gh.png"},
-        {"name": "Panama", "code": "pa", "flag": "https://flagcdn.com/w160/pa.png"}
+        {
+          "name": "England",
+          "code": "gb-eng",
+          "flag": "https://flagcdn.com/w160/gb-eng.png"
+        },
+        {
+          "name": "Croatia",
+          "code": "hr",
+          "flag": "https://flagcdn.com/w160/hr.png"
+        },
+        {
+          "name": "Ghana",
+          "code": "gh",
+          "flag": "https://flagcdn.com/w160/gh.png"
+        },
+        {
+          "name": "Panama",
+          "code": "pa",
+          "flag": "https://flagcdn.com/w160/pa.png"
+        }
       ]
     }
   },
@@ -1127,63 +1319,287 @@
     "roundOf32": {
       "name": "Round of 32",
       "matches": [
-        {"id": 73, "date": "2026-06-28", "time": "16:00", "venue": "Estadio Azteca", "city": "Mexico City", "label": "Runner-up Group A vs Runner-up Group B"},
-        {"id": 74, "date": "2026-06-28", "time": "20:00", "venue": "AT&T Stadium", "city": "Dallas", "label": "Winner Group D vs 3rd Place C/E/F"},
-        {"id": 75, "date": "2026-06-28", "time": "21:00", "venue": "MetLife Stadium", "city": "New York/New Jersey", "label": "Winner Group B vs Runner-up Group F"},
-        {"id": 76, "date": "2026-06-28", "time": "22:00", "venue": "Estadio Akron", "city": "Guadalajara", "label": "Winner Group A vs 3rd Place D/E/I"},
-        {"id": 77, "date": "2026-06-29", "time": "16:00", "venue": "NRG Stadium", "city": "Houston", "label": "Winner Group E vs Runner-up Group G"},
-        {"id": 78, "date": "2026-06-29", "time": "17:00", "venue": "BMO Field", "city": "Toronto", "label": "Winner Group G vs Runner-up Group E"},
-        {"id": 79, "date": "2026-06-29", "time": "19:00", "venue": "SoFi Stadium", "city": "Los Angeles", "label": "Winner Group C vs 3rd Place A/F/G"},
-        {"id": 80, "date": "2026-06-29", "time": "20:00", "venue": "Hard Rock Stadium", "city": "Miami", "label": "Winner Group F vs Runner-up Group H"},
-        {"id": 81, "date": "2026-06-30", "time": "16:00", "venue": "Lumen Field", "city": "Seattle", "label": "Winner Group H vs Runner-up Group L"},
-        {"id": 82, "date": "2026-06-30", "time": "17:00", "venue": "Lincoln Financial Field", "city": "Philadelphia", "label": "Winner Group J vs Runner-up Group I"},
-        {"id": 83, "date": "2026-06-30", "time": "19:00", "venue": "Levi's Stadium", "city": "San Francisco", "label": "Winner Group L vs 3rd Place B/H/I"},
-        {"id": 84, "date": "2026-06-30", "time": "20:00", "venue": "Arrowhead Stadium", "city": "Kansas City", "label": "Winner Group I vs Runner-up Group J"},
-        {"id": 85, "date": "2026-07-01", "time": "16:00", "venue": "Estadio BBVA", "city": "Monterrey", "label": "Runner-up Group C vs Runner-up Group D"},
-        {"id": 86, "date": "2026-07-01", "time": "20:00", "venue": "Mercedes-Benz Stadium", "city": "Atlanta", "label": "Winner Group K vs 3rd Place G/H/L"},
-        {"id": 87, "date": "2026-07-01", "time": "21:00", "venue": "Gillette Stadium", "city": "Boston", "label": "Winner Group I vs Runner-up Group K"},
-        {"id": 88, "date": "2026-07-01", "time": "22:00", "venue": "BC Place", "city": "Vancouver", "label": "3rd Place A/B/H vs 3rd Place E/F/J"}
+        {
+          "id": 73,
+          "date": "2026-06-28",
+          "time": "16:00",
+          "venue": "Estadio Azteca",
+          "city": "Mexico City",
+          "label": "Runner-up Group A vs Runner-up Group B"
+        },
+        {
+          "id": 74,
+          "date": "2026-06-28",
+          "time": "20:00",
+          "venue": "AT&T Stadium",
+          "city": "Dallas",
+          "label": "Winner Group D vs 3rd Place C/E/F"
+        },
+        {
+          "id": 75,
+          "date": "2026-06-28",
+          "time": "21:00",
+          "venue": "MetLife Stadium",
+          "city": "New York/New Jersey",
+          "label": "Winner Group B vs Runner-up Group F"
+        },
+        {
+          "id": 76,
+          "date": "2026-06-28",
+          "time": "22:00",
+          "venue": "Estadio Akron",
+          "city": "Guadalajara",
+          "label": "Winner Group A vs 3rd Place D/E/I"
+        },
+        {
+          "id": 77,
+          "date": "2026-06-29",
+          "time": "16:00",
+          "venue": "NRG Stadium",
+          "city": "Houston",
+          "label": "Winner Group E vs Runner-up Group G"
+        },
+        {
+          "id": 78,
+          "date": "2026-06-29",
+          "time": "17:00",
+          "venue": "BMO Field",
+          "city": "Toronto",
+          "label": "Winner Group G vs Runner-up Group E"
+        },
+        {
+          "id": 79,
+          "date": "2026-06-29",
+          "time": "19:00",
+          "venue": "SoFi Stadium",
+          "city": "Los Angeles",
+          "label": "Winner Group C vs 3rd Place A/F/G"
+        },
+        {
+          "id": 80,
+          "date": "2026-06-29",
+          "time": "20:00",
+          "venue": "Hard Rock Stadium",
+          "city": "Miami",
+          "label": "Winner Group F vs Runner-up Group H"
+        },
+        {
+          "id": 81,
+          "date": "2026-06-30",
+          "time": "16:00",
+          "venue": "Lumen Field",
+          "city": "Seattle",
+          "label": "Winner Group H vs Runner-up Group L"
+        },
+        {
+          "id": 82,
+          "date": "2026-06-30",
+          "time": "17:00",
+          "venue": "Lincoln Financial Field",
+          "city": "Philadelphia",
+          "label": "Winner Group J vs Runner-up Group I"
+        },
+        {
+          "id": 83,
+          "date": "2026-06-30",
+          "time": "19:00",
+          "venue": "Levi's Stadium",
+          "city": "San Francisco",
+          "label": "Winner Group L vs 3rd Place B/H/I"
+        },
+        {
+          "id": 84,
+          "date": "2026-06-30",
+          "time": "20:00",
+          "venue": "Arrowhead Stadium",
+          "city": "Kansas City",
+          "label": "Winner Group I vs Runner-up Group J"
+        },
+        {
+          "id": 85,
+          "date": "2026-07-01",
+          "time": "16:00",
+          "venue": "Estadio BBVA",
+          "city": "Monterrey",
+          "label": "Runner-up Group C vs Runner-up Group D"
+        },
+        {
+          "id": 86,
+          "date": "2026-07-01",
+          "time": "20:00",
+          "venue": "Mercedes-Benz Stadium",
+          "city": "Atlanta",
+          "label": "Winner Group K vs 3rd Place G/H/L"
+        },
+        {
+          "id": 87,
+          "date": "2026-07-01",
+          "time": "21:00",
+          "venue": "Gillette Stadium",
+          "city": "Boston",
+          "label": "Winner Group I vs Runner-up Group K"
+        },
+        {
+          "id": 88,
+          "date": "2026-07-01",
+          "time": "22:00",
+          "venue": "BC Place",
+          "city": "Vancouver",
+          "label": "3rd Place A/B/H vs 3rd Place E/F/J"
+        }
       ]
     },
     "roundOf16": {
       "name": "Round of 16",
       "matches": [
-        {"id": 89, "date": "2026-07-04", "time": "12:00", "venue": "Estadio Azteca", "city": "Mexico City", "label": "Winner Match 73 vs Winner Match 74"},
-        {"id": 90, "date": "2026-07-04", "time": "20:00", "venue": "SoFi Stadium", "city": "Los Angeles", "label": "Winner Match 75 vs Winner Match 76"},
-        {"id": 91, "date": "2026-07-04", "time": "21:00", "venue": "AT&T Stadium", "city": "Dallas", "label": "Winner Match 77 vs Winner Match 78"},
-        {"id": 92, "date": "2026-07-05", "time": "16:00", "venue": "Mercedes-Benz Stadium", "city": "Atlanta", "label": "Winner Match 79 vs Winner Match 80"},
-        {"id": 93, "date": "2026-07-05", "time": "20:00", "venue": "NRG Stadium", "city": "Houston", "label": "Winner Match 81 vs Winner Match 82"},
-        {"id": 94, "date": "2026-07-05", "time": "21:00", "venue": "MetLife Stadium", "city": "New York/New Jersey", "label": "Winner Match 83 vs Winner Match 84"},
-        {"id": 95, "date": "2026-07-06", "time": "16:00", "venue": "Hard Rock Stadium", "city": "Miami", "label": "Winner Match 85 vs Winner Match 86"},
-        {"id": 96, "date": "2026-07-06", "time": "20:00", "venue": "Arrowhead Stadium", "city": "Kansas City", "label": "Winner Match 87 vs Winner Match 88"}
+        {
+          "id": 89,
+          "date": "2026-07-04",
+          "time": "12:00",
+          "venue": "Estadio Azteca",
+          "city": "Mexico City",
+          "label": "Winner Match 73 vs Winner Match 74"
+        },
+        {
+          "id": 90,
+          "date": "2026-07-04",
+          "time": "20:00",
+          "venue": "SoFi Stadium",
+          "city": "Los Angeles",
+          "label": "Winner Match 75 vs Winner Match 76"
+        },
+        {
+          "id": 91,
+          "date": "2026-07-04",
+          "time": "21:00",
+          "venue": "AT&T Stadium",
+          "city": "Dallas",
+          "label": "Winner Match 77 vs Winner Match 78"
+        },
+        {
+          "id": 92,
+          "date": "2026-07-05",
+          "time": "16:00",
+          "venue": "Mercedes-Benz Stadium",
+          "city": "Atlanta",
+          "label": "Winner Match 79 vs Winner Match 80"
+        },
+        {
+          "id": 93,
+          "date": "2026-07-05",
+          "time": "20:00",
+          "venue": "NRG Stadium",
+          "city": "Houston",
+          "label": "Winner Match 81 vs Winner Match 82"
+        },
+        {
+          "id": 94,
+          "date": "2026-07-05",
+          "time": "21:00",
+          "venue": "MetLife Stadium",
+          "city": "New York/New Jersey",
+          "label": "Winner Match 83 vs Winner Match 84"
+        },
+        {
+          "id": 95,
+          "date": "2026-07-06",
+          "time": "16:00",
+          "venue": "Hard Rock Stadium",
+          "city": "Miami",
+          "label": "Winner Match 85 vs Winner Match 86"
+        },
+        {
+          "id": 96,
+          "date": "2026-07-06",
+          "time": "20:00",
+          "venue": "Arrowhead Stadium",
+          "city": "Kansas City",
+          "label": "Winner Match 87 vs Winner Match 88"
+        }
       ]
     },
     "quarterFinals": {
       "name": "Quarter-Finals",
       "matches": [
-        {"id": 97, "date": "2026-07-09", "time": "16:00", "venue": "NRG Stadium", "city": "Houston", "label": "Winner QF1 vs Winner QF2"},
-        {"id": 98, "date": "2026-07-09", "time": "20:00", "venue": "Arrowhead Stadium", "city": "Kansas City", "label": "Winner QF3 vs Winner QF4"},
-        {"id": 99, "date": "2026-07-10", "time": "16:00", "venue": "Lumen Field", "city": "Seattle", "label": "Winner QF5 vs Winner QF6"},
-        {"id": 100, "date": "2026-07-10", "time": "20:00", "venue": "Hard Rock Stadium", "city": "Miami", "label": "Winner QF7 vs Winner QF8"}
+        {
+          "id": 97,
+          "date": "2026-07-09",
+          "time": "16:00",
+          "venue": "NRG Stadium",
+          "city": "Houston",
+          "label": "Winner QF1 vs Winner QF2"
+        },
+        {
+          "id": 98,
+          "date": "2026-07-09",
+          "time": "20:00",
+          "venue": "Arrowhead Stadium",
+          "city": "Kansas City",
+          "label": "Winner QF3 vs Winner QF4"
+        },
+        {
+          "id": 99,
+          "date": "2026-07-10",
+          "time": "16:00",
+          "venue": "Lumen Field",
+          "city": "Seattle",
+          "label": "Winner QF5 vs Winner QF6"
+        },
+        {
+          "id": 100,
+          "date": "2026-07-10",
+          "time": "20:00",
+          "venue": "Hard Rock Stadium",
+          "city": "Miami",
+          "label": "Winner QF7 vs Winner QF8"
+        }
       ]
     },
     "semiFinals": {
       "name": "Semi-Finals",
       "matches": [
-        {"id": 101, "date": "2026-07-14", "time": "20:00", "venue": "MetLife Stadium", "city": "New York/New Jersey", "label": "Winner SF1 vs Winner SF2"},
-        {"id": 102, "date": "2026-07-15", "time": "20:00", "venue": "SoFi Stadium", "city": "Los Angeles", "label": "Winner SF3 vs Winner SF4"}
+        {
+          "id": 101,
+          "date": "2026-07-14",
+          "time": "20:00",
+          "venue": "MetLife Stadium",
+          "city": "New York/New Jersey",
+          "label": "Winner SF1 vs Winner SF2"
+        },
+        {
+          "id": 102,
+          "date": "2026-07-15",
+          "time": "20:00",
+          "venue": "SoFi Stadium",
+          "city": "Los Angeles",
+          "label": "Winner SF3 vs Winner SF4"
+        }
       ]
     },
     "thirdPlace": {
       "name": "Third-Place Match",
       "matches": [
-        {"id": 103, "date": "2026-07-18", "time": "20:00", "venue": "Hard Rock Stadium", "city": "Miami", "label": "Loser SF1 vs Loser SF2"}
+        {
+          "id": 103,
+          "date": "2026-07-18",
+          "time": "20:00",
+          "venue": "Hard Rock Stadium",
+          "city": "Miami",
+          "label": "Loser SF1 vs Loser SF2"
+        }
       ]
     },
     "final": {
       "name": "Final",
       "matches": [
-        {"id": 104, "date": "2026-07-19", "time": "16:00", "venue": "MetLife Stadium", "city": "New York/New Jersey", "label": "Winner SF1 vs Winner SF2", "label": "FIFA World Cup 2026 Final"}
+        {
+          "id": 104,
+          "date": "2026-07-19",
+          "time": "16:00",
+          "venue": "MetLife Stadium",
+          "city": "New York/New Jersey",
+          "label": "FIFA World Cup 2026 Final"
+        }
       ]
     }
   }
