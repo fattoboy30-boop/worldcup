@@ -85,7 +85,6 @@ a {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    position: relative;
 }
 
 .nav-logo {
@@ -144,23 +143,18 @@ a {
 /* Nav Menu - desktop: horizontal */
 .nav-menu {
     display: flex;
-    align-items: center;
-    gap: 0;
     list-style: none;
-    margin: 0;
-    padding: 0;
+    gap: 2rem;
 }
 
 .nav-link {
     font-family: 'Oswald', sans-serif;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     letter-spacing: 1px;
     text-transform: uppercase;
     color: var(--text-muted);
     transition: var(--transition);
     position: relative;
-    padding: 0.5rem 0.75rem;
-    white-space: nowrap;
 }
 
 .nav-link::after {
@@ -1953,31 +1947,34 @@ a {
     }
 
     .nav-menu {
-        display: none;
-        flex-direction: column;
-        align-items: stretch;
-        width: 100%;
-        background: rgba(10, 10, 10, 0.98);
-        border-top: 1px solid rgba(255,255,255,0.06);
-        padding: 0.5rem 0;
-        gap: 0;
-        position: absolute;
-        top: 100%;
+        position: fixed;
+        top: 70px;
         left: 0;
         right: 0;
-        z-index: 1001;
-        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
+        background: rgba(10, 10, 10, 0.98);
+        flex-direction: column;
+        align-items: center;
+        padding: 2rem;
+        gap: 1.5rem;
+        transform: translateY(-150%);
+        transition: var(--transition);
     }
 
     .nav-menu.active {
+        transform: translateY(0);
+    }
+
+    .hamburger {
         display: flex;
     }
 
     .nav-link {
-        font-size: 1rem;
-        letter-spacing: 1.5px;
-        padding: 0.85rem 1.2rem;
-        min-height: 44px;
+        font-size: 1.2rem;
+        letter-spacing: 2px;
+        padding: 0.75rem 1.5rem;
+        min-height: 48px;
+        display: flex;
+        align-items: center;
     }
 
     .nav-link::after {

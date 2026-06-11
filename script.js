@@ -253,26 +253,25 @@ function initNavbar() {
     const navLinks = document.querySelectorAll('.nav-link');
 
     window.addEventListener('scroll', () => {
-        navbar.classList.toggle('scrolled', window.scrollY > 50);
+        if (window.scrollY > 50) {
+            navbar.classList.add('scrolled');
+        } else {
+            navbar.classList.remove('scrolled');
+        }
     });
 
-    hamburger.addEventListener('click', (e) => {
-        e.stopPropagation();
+    hamburger.addEventListener('click', () => {
+        hamburger.classList.toggle('active');
         navMenu.classList.toggle('active');
     });
 
     navLinks.forEach(link => {
         link.addEventListener('click', () => {
+            hamburger.classList.remove('active');
             navMenu.classList.remove('active');
             navLinks.forEach(l => l.classList.remove('active'));
             link.classList.add('active');
         });
-    });
-
-    document.addEventListener('click', (e) => {
-        if (navMenu.classList.contains('active') && !navMenu.contains(e.target) && !hamburger.contains(e.target)) {
-            navMenu.classList.remove('active');
-        }
     });
 }
 
