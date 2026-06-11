@@ -112,7 +112,7 @@ function parseDate(utcDate) {
   const d = new Date(utcDate);
   return {
     date: d.toISOString().split('T')[0],
-    time: d.toTimeString().slice(0, 5),
+    time: utcDate ? utcDate.split('T')[1]?.slice(0, 5) || '' : '',
   };
 }
 

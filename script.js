@@ -1211,31 +1211,57 @@ function renderScores() {
         content.innerHTML = `<p class="no-scores">No ${currentScoreTab} matches at the moment.</p>`;
         return;
     }
+
+    const statusLabel = (s) => {
+        if (['in_play','paused','live','1h','2h','ht'].includes(s)) return 'LIVE';
+        if (['finished','ft','aet','pen'].includes(s)) return 'FT';
+        return 'UPCOMING';
+    };
+
+    const statusClass = (s) => {
+        if (['in_play','paused','live','1h','2h','ht'].includes(s)) return 'live';
+        if (['finished','ft','aet','pen'].includes(s)) return 'finished';
+        return 'upcoming';
+    };
     
-    content.innerHTML = matches.map(match => `
-        <div class="score-card ${match.status === 'live' ? 'live-match' : ''}">
+    content.innerHTML = matches.map(match => {
+        const isLive = ['in_play','paused','live','1h','2h','ht'].includes(match.status);
+        const isFinished = ['finished','ft','aet','pen'].includes(match.status);
+        const hasScore = match.homeScore != null && match.awayScore != null;
+        const venueParts = [match.venue, match.city].filter(Boolean);
+
+        let centerDisplay = '';
+        if (hasScore) {
+            centerDisplay = `<span class="score-result">${match.homeScore} - ${match.awayScore}</span>`;
+        } else {
+            centerDisplay = `<span class="score-vs">VS</span>`;
+        }
+
+        return `
+        <div class="score-card ${isLive ? 'live-match' : ''} ${isFinished ? 'finished-match' : ''}">
             <div class="score-status">
-                <span class="status-badge ${match.status}">${match.status.toUpperCase()}</span>
-                ${match.label ? `<span class="match-label">${match.label}</span>` : ''}
+                <span class="status-badge ${statusClass(match.status)}">${statusLabel(match.status)}</span>
+                ${match.group ? `<span class="match-group-label">Group ${match.group}</span>` : ''}
+                ${match.minute ? `<span class="match-minute">${match.minute}'</span>` : ''}
             </div>
             <div class="score-teams">
                 <div class="score-team">
                     <img src="https://flagcdn.com/w80/${match.homeCode}.png" alt="${match.homeTeam}" class="score-flag" onerror="this.src='https://flagcdn.com/w80/un.png'">
                     <span class="team-name">${match.homeTeam}</span>
-                    <span class="score">${match.homeScore !== null ? match.homeScore : '-'}</span>
+                    <span class="score ${hasScore ? 'has-score' : ''}">${match.homeScore != null ? match.homeScore : '-'}</span>
                 </div>
-                <span class="score-vs">VS</span>
+                ${centerDisplay}
                 <div class="score-team">
                     <img src="https://flagcdn.com/w80/${match.awayCode}.png" alt="${match.awayTeam}" class="score-flag" onerror="this.src='https://flagcdn.com/w80/un.png'">
                     <span class="team-name">${match.awayTeam}</span>
-                    <span class="score">${match.awayScore !== null ? match.awayScore : '-'}</span>
+                    <span class="score ${hasScore ? 'has-score' : ''}">${match.awayScore != null ? match.awayScore : '-'}</span>
                 </div>
             </div>
-            <div class="score-venue">${match.venue}, ${match.city}</div>
-            <div class="score-date">${match.date} • ${match.time}</div>
+            ${venueParts.length ? `<div class="score-venue">${venueParts.join(', ')}</div>` : ''}
             <div class="score-date-sbt">Solomon Islands: ${toSolomonTime(match.date, match.time)}</div>
         </div>
-    `).join('');
+        `;
+    }).join('');
 
     setTimeout(initScrollAnimations, 100);
 }

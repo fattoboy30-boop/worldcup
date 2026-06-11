@@ -2,7 +2,7 @@ name: Fetch Live Scores & Standings
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Every 5 minutes (during tournament)
+    - cron: '*/2 * * * *'  # Every 2 minutes during tournament
   workflow_dispatch:
 
 permissions:
