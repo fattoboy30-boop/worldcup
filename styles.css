@@ -85,6 +85,7 @@ a {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    position: relative;
 }
 
 .nav-logo {
@@ -158,13 +159,18 @@ a {
     display: none;
     flex-direction: column;
     align-items: stretch;
-    width: 100%;
+    width: 220px;
     background: rgba(10, 10, 10, 0.98);
-    border-top: 1px solid rgba(255, 255, 255, 0.06);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: 8px;
     padding: 0.5rem 0;
     gap: 0;
     list-style: none;
     margin: 0;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
 }
 
 .nav-menu.active {
