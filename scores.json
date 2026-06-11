@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-06-11T20:23:00.092Z",
+  "lastUpdated": "2026-06-11T20:31:28.551Z",
   "liveMatches": [],
   "recentResults": [],
   "upcomingMatches": [
     {
       "id": 537327,
       "date": "2026-06-11",
-      "time": "19:00",
+      "time": "06:00",
       "utcDate": "2026-06-11T19:00:00Z",
       "homeTeam": "Mexico",
       "homeCode": "mx",
@@ -28,7 +28,7 @@
     {
       "id": 537328,
       "date": "2026-06-12",
-      "time": "02:00",
+      "time": "13:00",
       "utcDate": "2026-06-12T02:00:00Z",
       "homeTeam": "Korea Republic",
       "homeCode": "kr",
@@ -50,7 +50,7 @@
     {
       "id": 537333,
       "date": "2026-06-12",
-      "time": "19:00",
+      "time": "06:00",
       "utcDate": "2026-06-12T19:00:00Z",
       "homeTeam": "Canada",
       "homeCode": "ca",
@@ -72,7 +72,7 @@
     {
       "id": 537345,
       "date": "2026-06-13",
-      "time": "01:00",
+      "time": "12:00",
       "utcDate": "2026-06-13T01:00:00Z",
       "homeTeam": "USA",
       "homeCode": "us",
@@ -94,7 +94,7 @@
     {
       "id": 537334,
       "date": "2026-06-13",
-      "time": "19:00",
+      "time": "06:00",
       "utcDate": "2026-06-13T19:00:00Z",
       "homeTeam": "Qatar",
       "homeCode": "qa",
@@ -116,7 +116,7 @@
     {
       "id": 537339,
       "date": "2026-06-13",
-      "time": "22:00",
+      "time": "09:00",
       "utcDate": "2026-06-13T22:00:00Z",
       "homeTeam": "Brazil",
       "homeCode": "br",
@@ -138,7 +138,7 @@
     {
       "id": 537340,
       "date": "2026-06-14",
-      "time": "01:00",
+      "time": "12:00",
       "utcDate": "2026-06-14T01:00:00Z",
       "homeTeam": "Haiti",
       "homeCode": "ht",
@@ -160,7 +160,7 @@
     {
       "id": 537346,
       "date": "2026-06-14",
-      "time": "04:00",
+      "time": "15:00",
       "utcDate": "2026-06-14T04:00:00Z",
       "homeTeam": "Australia",
       "homeCode": "au",
@@ -182,7 +182,7 @@
     {
       "id": 537351,
       "date": "2026-06-14",
-      "time": "17:00",
+      "time": "04:00",
       "utcDate": "2026-06-14T17:00:00Z",
       "homeTeam": "Germany",
       "homeCode": "de",
@@ -204,7 +204,7 @@
     {
       "id": 537357,
       "date": "2026-06-14",
-      "time": "20:00",
+      "time": "07:00",
       "utcDate": "2026-06-14T20:00:00Z",
       "homeTeam": "Netherlands",
       "homeCode": "nl",
@@ -226,7 +226,7 @@
     {
       "id": 537352,
       "date": "2026-06-14",
-      "time": "23:00",
+      "time": "10:00",
       "utcDate": "2026-06-14T23:00:00Z",
       "homeTeam": "Ivory Coast",
       "homeCode": "ci",
@@ -248,7 +248,7 @@
     {
       "id": 537358,
       "date": "2026-06-15",
-      "time": "02:00",
+      "time": "13:00",
       "utcDate": "2026-06-15T02:00:00Z",
       "homeTeam": "Sweden",
       "homeCode": "se",
@@ -270,7 +270,7 @@
     {
       "id": 537369,
       "date": "2026-06-15",
-      "time": "16:00",
+      "time": "03:00",
       "utcDate": "2026-06-15T16:00:00Z",
       "homeTeam": "Spain",
       "homeCode": "es",
@@ -292,7 +292,7 @@
     {
       "id": 537363,
       "date": "2026-06-15",
-      "time": "19:00",
+      "time": "06:00",
       "utcDate": "2026-06-15T19:00:00Z",
       "homeTeam": "Belgium",
       "homeCode": "be",
@@ -314,7 +314,7 @@
     {
       "id": 537370,
       "date": "2026-06-15",
-      "time": "22:00",
+      "time": "09:00",
       "utcDate": "2026-06-15T22:00:00Z",
       "homeTeam": "Saudi Arabia",
       "homeCode": "sa",
@@ -336,7 +336,7 @@
     {
       "id": 537364,
       "date": "2026-06-16",
-      "time": "01:00",
+      "time": "12:00",
       "utcDate": "2026-06-16T01:00:00Z",
       "homeTeam": "Iran",
       "homeCode": "ir",
@@ -358,7 +358,7 @@
     {
       "id": 537391,
       "date": "2026-06-16",
-      "time": "19:00",
+      "time": "06:00",
       "utcDate": "2026-06-16T19:00:00Z",
       "homeTeam": "France",
       "homeCode": "fr",
@@ -380,7 +380,7 @@
     {
       "id": 537392,
       "date": "2026-06-16",
-      "time": "22:00",
+      "time": "09:00",
       "utcDate": "2026-06-16T22:00:00Z",
       "homeTeam": "Iraq",
       "homeCode": "iq",
@@ -402,7 +402,7 @@
     {
       "id": 537397,
       "date": "2026-06-17",
-      "time": "01:00",
+      "time": "12:00",
       "utcDate": "2026-06-17T01:00:00Z",
       "homeTeam": "Argentina",
       "homeCode": "ar",
@@ -424,7 +424,7 @@
     {
       "id": 537398,
       "date": "2026-06-17",
-      "time": "04:00",
+      "time": "15:00",
       "utcDate": "2026-06-17T04:00:00Z",
       "homeTeam": "Austria",
       "homeCode": "at",
@@ -446,7 +446,7 @@
     {
       "id": 537403,
       "date": "2026-06-17",
-      "time": "17:00",
+      "time": "04:00",
       "utcDate": "2026-06-17T17:00:00Z",
       "homeTeam": "Portugal",
       "homeCode": "pt",
@@ -468,7 +468,7 @@
     {
       "id": 537409,
       "date": "2026-06-17",
-      "time": "20:00",
+      "time": "07:00",
       "utcDate": "2026-06-17T20:00:00Z",
       "homeTeam": "England",
       "homeCode": "gb-eng",
@@ -490,7 +490,7 @@
     {
       "id": 537410,
       "date": "2026-06-17",
-      "time": "23:00",
+      "time": "10:00",
       "utcDate": "2026-06-17T23:00:00Z",
       "homeTeam": "Ghana",
       "homeCode": "gh",
@@ -512,7 +512,7 @@
     {
       "id": 537404,
       "date": "2026-06-18",
-      "time": "02:00",
+      "time": "13:00",
       "utcDate": "2026-06-18T02:00:00Z",
       "homeTeam": "Uzbekistan",
       "homeCode": "uz",
@@ -534,7 +534,7 @@
     {
       "id": 537329,
       "date": "2026-06-18",
-      "time": "16:00",
+      "time": "03:00",
       "utcDate": "2026-06-18T16:00:00Z",
       "homeTeam": "Czechia",
       "homeCode": "cz",
@@ -556,7 +556,7 @@
     {
       "id": 537335,
       "date": "2026-06-18",
-      "time": "19:00",
+      "time": "06:00",
       "utcDate": "2026-06-18T19:00:00Z",
       "homeTeam": "Switzerland",
       "homeCode": "ch",
@@ -578,7 +578,7 @@
     {
       "id": 537336,
       "date": "2026-06-18",
-      "time": "22:00",
+      "time": "09:00",
       "utcDate": "2026-06-18T22:00:00Z",
       "homeTeam": "Canada",
       "homeCode": "ca",
@@ -600,7 +600,7 @@
     {
       "id": 537330,
       "date": "2026-06-19",
-      "time": "01:00",
+      "time": "12:00",
       "utcDate": "2026-06-19T01:00:00Z",
       "homeTeam": "Mexico",
       "homeCode": "mx",
@@ -622,7 +622,7 @@
     {
       "id": 537348,
       "date": "2026-06-19",
-      "time": "19:00",
+      "time": "06:00",
       "utcDate": "2026-06-19T19:00:00Z",
       "homeTeam": "USA",
       "homeCode": "us",
@@ -644,7 +644,7 @@
     {
       "id": 537342,
       "date": "2026-06-19",
-      "time": "22:00",
+      "time": "09:00",
       "utcDate": "2026-06-19T22:00:00Z",
       "homeTeam": "Scotland",
       "homeCode": "gb-sct",
@@ -666,7 +666,7 @@
     {
       "id": 537341,
       "date": "2026-06-20",
-      "time": "00:30",
+      "time": "11:30",
       "utcDate": "2026-06-20T00:30:00Z",
       "homeTeam": "Brazil",
       "homeCode": "br",
@@ -688,7 +688,7 @@
     {
       "id": 537347,
       "date": "2026-06-20",
-      "time": "03:00",
+      "time": "14:00",
       "utcDate": "2026-06-20T03:00:00Z",
       "homeTeam": "Turkey",
       "homeCode": "tr",
@@ -710,7 +710,7 @@
     {
       "id": 537359,
       "date": "2026-06-20",
-      "time": "17:00",
+      "time": "04:00",
       "utcDate": "2026-06-20T17:00:00Z",
       "homeTeam": "Netherlands",
       "homeCode": "nl",
@@ -732,7 +732,7 @@
     {
       "id": 537353,
       "date": "2026-06-20",
-      "time": "20:00",
+      "time": "07:00",
       "utcDate": "2026-06-20T20:00:00Z",
       "homeTeam": "Germany",
       "homeCode": "de",
@@ -754,7 +754,7 @@
     {
       "id": 537354,
       "date": "2026-06-21",
-      "time": "00:00",
+      "time": "11:00",
       "utcDate": "2026-06-21T00:00:00Z",
       "homeTeam": "Ecuador",
       "homeCode": "ec",
@@ -776,7 +776,7 @@
     {
       "id": 537360,
       "date": "2026-06-21",
-      "time": "04:00",
+      "time": "15:00",
       "utcDate": "2026-06-21T04:00:00Z",
       "homeTeam": "Tunisia",
       "homeCode": "tn",
@@ -798,7 +798,7 @@
     {
       "id": 537371,
       "date": "2026-06-21",
-      "time": "16:00",
+      "time": "03:00",
       "utcDate": "2026-06-21T16:00:00Z",
       "homeTeam": "Spain",
       "homeCode": "es",
@@ -820,7 +820,7 @@
     {
       "id": 537365,
       "date": "2026-06-21",
-      "time": "19:00",
+      "time": "06:00",
       "utcDate": "2026-06-21T19:00:00Z",
       "homeTeam": "Belgium",
       "homeCode": "be",
@@ -842,7 +842,7 @@
     {
       "id": 537372,
       "date": "2026-06-21",
-      "time": "22:00",
+      "time": "09:00",
       "utcDate": "2026-06-21T22:00:00Z",
       "homeTeam": "Uruguay",
       "homeCode": "uy",
@@ -864,7 +864,7 @@
     {
       "id": 537366,
       "date": "2026-06-22",
-      "time": "01:00",
+      "time": "12:00",
       "utcDate": "2026-06-22T01:00:00Z",
       "homeTeam": "New Zealand",
       "homeCode": "nz",
@@ -886,7 +886,7 @@
     {
       "id": 537399,
       "date": "2026-06-22",
-      "time": "17:00",
+      "time": "04:00",
       "utcDate": "2026-06-22T17:00:00Z",
       "homeTeam": "Argentina",
       "homeCode": "ar",
@@ -908,7 +908,7 @@
     {
       "id": 537393,
       "date": "2026-06-22",
-      "time": "21:00",
+      "time": "08:00",
       "utcDate": "2026-06-22T21:00:00Z",
       "homeTeam": "France",
       "homeCode": "fr",
@@ -930,7 +930,7 @@
     {
       "id": 537394,
       "date": "2026-06-23",
-      "time": "00:00",
+      "time": "11:00",
       "utcDate": "2026-06-23T00:00:00Z",
       "homeTeam": "Norway",
       "homeCode": "no",
@@ -952,7 +952,7 @@
     {
       "id": 537400,
       "date": "2026-06-23",
-      "time": "03:00",
+      "time": "14:00",
       "utcDate": "2026-06-23T03:00:00Z",
       "homeTeam": "Jordan",
       "homeCode": "jo",
@@ -974,7 +974,7 @@
     {
       "id": 537405,
       "date": "2026-06-23",
-      "time": "17:00",
+      "time": "04:00",
       "utcDate": "2026-06-23T17:00:00Z",
       "homeTeam": "Portugal",
       "homeCode": "pt",
@@ -996,7 +996,7 @@
     {
       "id": 537411,
       "date": "2026-06-23",
-      "time": "20:00",
+      "time": "07:00",
       "utcDate": "2026-06-23T20:00:00Z",
       "homeTeam": "England",
       "homeCode": "gb-eng",
@@ -1018,7 +1018,7 @@
     {
       "id": 537412,
       "date": "2026-06-23",
-      "time": "23:00",
+      "time": "10:00",
       "utcDate": "2026-06-23T23:00:00Z",
       "homeTeam": "Panama",
       "homeCode": "pa",
@@ -1040,7 +1040,7 @@
     {
       "id": 537406,
       "date": "2026-06-24",
-      "time": "02:00",
+      "time": "13:00",
       "utcDate": "2026-06-24T02:00:00Z",
       "homeTeam": "Colombia",
       "homeCode": "co",
@@ -1062,7 +1062,7 @@
     {
       "id": 537337,
       "date": "2026-06-24",
-      "time": "19:00",
+      "time": "06:00",
       "utcDate": "2026-06-24T19:00:00Z",
       "homeTeam": "Switzerland",
       "homeCode": "ch",
@@ -1084,7 +1084,7 @@
     {
       "id": 537338,
       "date": "2026-06-24",
-      "time": "19:00",
+      "time": "06:00",
       "utcDate": "2026-06-24T19:00:00Z",
       "homeTeam": "Bosnia-H.",
       "homeCode": "un",
@@ -1106,7 +1106,7 @@
     {
       "id": 537344,
       "date": "2026-06-24",
-      "time": "22:00",
+      "time": "09:00",
       "utcDate": "2026-06-24T22:00:00Z",
       "homeTeam": "Morocco",
       "homeCode": "ma",
@@ -1128,7 +1128,7 @@
     {
       "id": 537343,
       "date": "2026-06-24",
-      "time": "22:00",
+      "time": "09:00",
       "utcDate": "2026-06-24T22:00:00Z",
       "homeTeam": "Scotland",
       "homeCode": "gb-sct",
@@ -1150,7 +1150,7 @@
     {
       "id": 537331,
       "date": "2026-06-25",
-      "time": "01:00",
+      "time": "12:00",
       "utcDate": "2026-06-25T01:00:00Z",
       "homeTeam": "Czechia",
       "homeCode": "cz",
@@ -1172,7 +1172,7 @@
     {
       "id": 537332,
       "date": "2026-06-25",
-      "time": "01:00",
+      "time": "12:00",
       "utcDate": "2026-06-25T01:00:00Z",
       "homeTeam": "South Africa",
       "homeCode": "za",
@@ -1194,7 +1194,7 @@
     {
       "id": 537355,
       "date": "2026-06-25",
-      "time": "20:00",
+      "time": "07:00",
       "utcDate": "2026-06-25T20:00:00Z",
       "homeTeam": "Ecuador",
       "homeCode": "ec",
@@ -1216,7 +1216,7 @@
     {
       "id": 537356,
       "date": "2026-06-25",
-      "time": "20:00",
+      "time": "07:00",
       "utcDate": "2026-06-25T20:00:00Z",
       "homeTeam": "Curaçao",
       "homeCode": "cw",
@@ -1238,7 +1238,7 @@
     {
       "id": 537361,
       "date": "2026-06-25",
-      "time": "23:00",
+      "time": "10:00",
       "utcDate": "2026-06-25T23:00:00Z",
       "homeTeam": "Tunisia",
       "homeCode": "tn",
@@ -1260,7 +1260,7 @@
     {
       "id": 537362,
       "date": "2026-06-25",
-      "time": "23:00",
+      "time": "10:00",
       "utcDate": "2026-06-25T23:00:00Z",
       "homeTeam": "Japan",
       "homeCode": "jp",
@@ -1282,7 +1282,7 @@
     {
       "id": 537349,
       "date": "2026-06-26",
-      "time": "02:00",
+      "time": "13:00",
       "utcDate": "2026-06-26T02:00:00Z",
       "homeTeam": "Turkey",
       "homeCode": "tr",
@@ -1304,7 +1304,7 @@
     {
       "id": 537350,
       "date": "2026-06-26",
-      "time": "02:00",
+      "time": "13:00",
       "utcDate": "2026-06-26T02:00:00Z",
       "homeTeam": "Paraguay",
       "homeCode": "py",
@@ -1326,7 +1326,7 @@
     {
       "id": 537395,
       "date": "2026-06-26",
-      "time": "19:00",
+      "time": "06:00",
       "utcDate": "2026-06-26T19:00:00Z",
       "homeTeam": "Norway",
       "homeCode": "no",
@@ -1348,7 +1348,7 @@
     {
       "id": 537396,
       "date": "2026-06-26",
-      "time": "19:00",
+      "time": "06:00",
       "utcDate": "2026-06-26T19:00:00Z",
       "homeTeam": "Senegal",
       "homeCode": "sn",
@@ -1370,7 +1370,7 @@
     {
       "id": 537373,
       "date": "2026-06-27",
-      "time": "00:00",
+      "time": "11:00",
       "utcDate": "2026-06-27T00:00:00Z",
       "homeTeam": "Uruguay",
       "homeCode": "uy",
@@ -1392,7 +1392,7 @@
     {
       "id": 537374,
       "date": "2026-06-27",
-      "time": "00:00",
+      "time": "11:00",
       "utcDate": "2026-06-27T00:00:00Z",
       "homeTeam": "Cape Verde",
       "homeCode": "cv",
@@ -1414,7 +1414,7 @@
     {
       "id": 537367,
       "date": "2026-06-27",
-      "time": "03:00",
+      "time": "14:00",
       "utcDate": "2026-06-27T03:00:00Z",
       "homeTeam": "New Zealand",
       "homeCode": "nz",
@@ -1436,7 +1436,7 @@
     {
       "id": 537368,
       "date": "2026-06-27",
-      "time": "03:00",
+      "time": "14:00",
       "utcDate": "2026-06-27T03:00:00Z",
       "homeTeam": "Egypt",
       "homeCode": "eg",
@@ -1458,7 +1458,7 @@
     {
       "id": 537413,
       "date": "2026-06-27",
-      "time": "21:00",
+      "time": "08:00",
       "utcDate": "2026-06-27T21:00:00Z",
       "homeTeam": "Panama",
       "homeCode": "pa",
@@ -1480,7 +1480,7 @@
     {
       "id": 537414,
       "date": "2026-06-27",
-      "time": "21:00",
+      "time": "08:00",
       "utcDate": "2026-06-27T21:00:00Z",
       "homeTeam": "Croatia",
       "homeCode": "hr",
@@ -1502,7 +1502,7 @@
     {
       "id": 537407,
       "date": "2026-06-27",
-      "time": "23:30",
+      "time": "10:30",
       "utcDate": "2026-06-27T23:30:00Z",
       "homeTeam": "Colombia",
       "homeCode": "co",
@@ -1524,7 +1524,7 @@
     {
       "id": 537408,
       "date": "2026-06-27",
-      "time": "23:30",
+      "time": "10:30",
       "utcDate": "2026-06-27T23:30:00Z",
       "homeTeam": "Congo DR",
       "homeCode": "un",
@@ -1546,7 +1546,7 @@
     {
       "id": 537401,
       "date": "2026-06-28",
-      "time": "02:00",
+      "time": "13:00",
       "utcDate": "2026-06-28T02:00:00Z",
       "homeTeam": "Jordan",
       "homeCode": "jo",
@@ -1568,7 +1568,7 @@
     {
       "id": 537402,
       "date": "2026-06-28",
-      "time": "02:00",
+      "time": "13:00",
       "utcDate": "2026-06-28T02:00:00Z",
       "homeTeam": "Algeria",
       "homeCode": "dz",
@@ -1590,7 +1590,7 @@
     {
       "id": 537417,
       "date": "2026-06-28",
-      "time": "19:00",
+      "time": "06:00",
       "utcDate": "2026-06-28T19:00:00Z",
       "homeTeam": "TBD",
       "homeCode": "un",
@@ -1612,7 +1612,7 @@
     {
       "id": 537423,
       "date": "2026-06-29",
-      "time": "17:00",
+      "time": "04:00",
       "utcDate": "2026-06-29T17:00:00Z",
       "homeTeam": "TBD",
       "homeCode": "un",
@@ -1634,7 +1634,7 @@
     {
       "id": 537415,
       "date": "2026-06-29",
-      "time": "20:30",
+      "time": "07:30",
       "utcDate": "2026-06-29T20:30:00Z",
       "homeTeam": "TBD",
       "homeCode": "un",
@@ -1656,7 +1656,7 @@
     {
       "id": 537418,
       "date": "2026-06-30",
-      "time": "01:00",
+      "time": "12:00",
       "utcDate": "2026-06-30T01:00:00Z",
       "homeTeam": "TBD",
       "homeCode": "un",
@@ -1678,7 +1678,7 @@
     {
       "id": 537424,
       "date": "2026-06-30",
-      "time": "17:00",
+      "time": "04:00",
       "utcDate": "2026-06-30T17:00:00Z",
       "homeTeam": "TBD",
       "homeCode": "un",
@@ -1700,7 +1700,7 @@
     {
       "id": 537416,
       "date": "2026-06-30",
-      "time": "21:00",
+      "time": "08:00",
       "utcDate": "2026-06-30T21:00:00Z",
       "homeTeam": "TBD",
       "homeCode": "un",
@@ -1722,7 +1722,7 @@
     {
       "id": 537425,
       "date": "2026-07-01",
-      "time": "01:00",
+      "time": "12:00",
       "utcDate": "2026-07-01T01:00:00Z",
       "homeTeam": "TBD",
       "homeCode": "un",
@@ -1744,7 +1744,7 @@
     {
       "id": 537426,
       "date": "2026-07-01",
-      "time": "16:00",
+      "time": "03:00",
       "utcDate": "2026-07-01T16:00:00Z",
       "homeTeam": "TBD",
       "homeCode": "un",
@@ -1766,7 +1766,7 @@
     {
       "id": 537422,
       "date": "2026-07-01",
-      "time": "20:00",
+      "time": "07:00",
       "utcDate": "2026-07-01T20:00:00Z",
       "homeTeam": "TBD",
       "homeCode": "un",
@@ -1788,7 +1788,7 @@
     {
       "id": 537421,
       "date": "2026-07-02",
-      "time": "00:00",
+      "time": "11:00",
       "utcDate": "2026-07-02T00:00:00Z",
       "homeTeam": "TBD",
       "homeCode": "un",
@@ -1810,7 +1810,7 @@
     {
       "id": 537420,
       "date": "2026-07-02",
-      "time": "19:00",
+      "time": "06:00",
       "utcDate": "2026-07-02T19:00:00Z",
       "homeTeam": "TBD",
       "homeCode": "un",
@@ -1832,7 +1832,7 @@
     {
       "id": 537419,
       "date": "2026-07-02",
-      "time": "23:00",
+      "time": "10:00",
       "utcDate": "2026-07-02T23:00:00Z",
       "homeTeam": "TBD",
       "homeCode": "un",
@@ -1854,7 +1854,7 @@
     {
       "id": 537429,
       "date": "2026-07-03",
-      "time": "03:00",
+      "time": "14:00",
       "utcDate": "2026-07-03T03:00:00Z",
       "homeTeam": "TBD",
       "homeCode": "un",
@@ -1876,7 +1876,7 @@
     {
       "id": 537428,
       "date": "2026-07-03",
-      "time": "18:00",
+      "time": "05:00",
       "utcDate": "2026-07-03T18:00:00Z",
       "homeTeam": "TBD",
       "homeCode": "un",
@@ -1898,7 +1898,7 @@
     {
       "id": 537427,
       "date": "2026-07-03",
-      "time": "22:00",
+      "time": "09:00",
       "utcDate": "2026-07-03T22:00:00Z",
       "homeTeam": "TBD",
       "homeCode": "un",
@@ -1920,7 +1920,7 @@
     {
       "id": 537430,
       "date": "2026-07-04",
-      "time": "01:30",
+      "time": "12:30",
       "utcDate": "2026-07-04T01:30:00Z",
       "homeTeam": "TBD",
       "homeCode": "un",
@@ -1942,7 +1942,7 @@
     {
       "id": 537376,
       "date": "2026-07-04",
-      "time": "17:00",
+      "time": "04:00",
       "utcDate": "2026-07-04T17:00:00Z",
       "homeTeam": "TBD",
       "homeCode": "un",
@@ -1964,7 +1964,7 @@
     {
       "id": 537375,
       "date": "2026-07-04",
-      "time": "21:00",
+      "time": "08:00",
       "utcDate": "2026-07-04T21:00:00Z",
       "homeTeam": "TBD",
       "homeCode": "un",
@@ -1986,7 +1986,7 @@
     {
       "id": 537377,
       "date": "2026-07-05",
-      "time": "20:00",
+      "time": "07:00",
       "utcDate": "2026-07-05T20:00:00Z",
       "homeTeam": "TBD",
       "homeCode": "un",
@@ -2008,7 +2008,7 @@
     {
       "id": 537378,
       "date": "2026-07-06",
-      "time": "00:00",
+      "time": "11:00",
       "utcDate": "2026-07-06T00:00:00Z",
       "homeTeam": "TBD",
       "homeCode": "un",
@@ -2030,7 +2030,7 @@
     {
       "id": 537379,
       "date": "2026-07-06",
-      "time": "19:00",
+      "time": "06:00",
       "utcDate": "2026-07-06T19:00:00Z",
       "homeTeam": "TBD",
       "homeCode": "un",
@@ -2052,7 +2052,7 @@
     {
       "id": 537380,
       "date": "2026-07-07",
-      "time": "00:00",
+      "time": "11:00",
       "utcDate": "2026-07-07T00:00:00Z",
       "homeTeam": "TBD",
       "homeCode": "un",
@@ -2074,7 +2074,7 @@
     {
       "id": 537381,
       "date": "2026-07-07",
-      "time": "16:00",
+      "time": "03:00",
       "utcDate": "2026-07-07T16:00:00Z",
       "homeTeam": "TBD",
       "homeCode": "un",
@@ -2096,7 +2096,7 @@
     {
       "id": 537382,
       "date": "2026-07-07",
-      "time": "20:00",
+      "time": "07:00",
       "utcDate": "2026-07-07T20:00:00Z",
       "homeTeam": "TBD",
       "homeCode": "un",
@@ -2118,7 +2118,7 @@
     {
       "id": 537383,
       "date": "2026-07-09",
-      "time": "20:00",
+      "time": "07:00",
       "utcDate": "2026-07-09T20:00:00Z",
       "homeTeam": "TBD",
       "homeCode": "un",
@@ -2140,7 +2140,7 @@
     {
       "id": 537384,
       "date": "2026-07-10",
-      "time": "19:00",
+      "time": "06:00",
       "utcDate": "2026-07-10T19:00:00Z",
       "homeTeam": "TBD",
       "homeCode": "un",
@@ -2162,7 +2162,7 @@
     {
       "id": 537385,
       "date": "2026-07-11",
-      "time": "21:00",
+      "time": "08:00",
       "utcDate": "2026-07-11T21:00:00Z",
       "homeTeam": "TBD",
       "homeCode": "un",
@@ -2184,7 +2184,7 @@
     {
       "id": 537386,
       "date": "2026-07-12",
-      "time": "01:00",
+      "time": "12:00",
       "utcDate": "2026-07-12T01:00:00Z",
       "homeTeam": "TBD",
       "homeCode": "un",
@@ -2206,7 +2206,7 @@
     {
       "id": 537387,
       "date": "2026-07-14",
-      "time": "19:00",
+      "time": "06:00",
       "utcDate": "2026-07-14T19:00:00Z",
       "homeTeam": "TBD",
       "homeCode": "un",
@@ -2228,7 +2228,7 @@
     {
       "id": 537388,
       "date": "2026-07-15",
-      "time": "19:00",
+      "time": "06:00",
       "utcDate": "2026-07-15T19:00:00Z",
       "homeTeam": "TBD",
       "homeCode": "un",
@@ -2250,7 +2250,7 @@
     {
       "id": 537389,
       "date": "2026-07-18",
-      "time": "21:00",
+      "time": "08:00",
       "utcDate": "2026-07-18T21:00:00Z",
       "homeTeam": "TBD",
       "homeCode": "un",
@@ -2272,7 +2272,7 @@
     {
       "id": 537390,
       "date": "2026-07-19",
-      "time": "19:00",
+      "time": "06:00",
       "utcDate": "2026-07-19T19:00:00Z",
       "homeTeam": "TBD",
       "homeCode": "un",
