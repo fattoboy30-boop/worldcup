@@ -291,7 +291,10 @@ function initStreaming() {
                 banner.querySelector('a').href = data.url;
                 if (data.status === 'live') {
                     banner.classList.add('visible');
-                    document.querySelector('.hero').style.marginTop = '80px';
+                    const navbar = document.querySelector('.navbar');
+                    const hero = document.querySelector('.hero');
+                    if (navbar) navbar.classList.add('banner-active');
+                    if (hero) hero.style.marginTop = '120px';
                 }
             }
         })

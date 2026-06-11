@@ -87,6 +87,10 @@ a {
     display: block;
 }
 
+.navbar.banner-active {
+    top: 36px;
+}
+
 .live-banner a {
     display: inline-flex;
     align-items: center;
@@ -1266,6 +1270,7 @@ a {
     display: flex;
     gap: 2rem;
     overflow-x: auto;
+    overflow-y: hidden;
     scroll-snap-type: x mandatory;
     scrollbar-width: none;
     -ms-overflow-style: none;
@@ -1332,8 +1337,9 @@ a {
     font-family: 'Oswald', sans-serif;
     font-size: 2rem;
     font-weight: 700;
-    color: rgba(255, 255, 255, 0.3);
+    color: rgba(255, 255, 255, 0.15);
     z-index: 2;
+    pointer-events: none;
 }
 
 .player-info {
