@@ -240,6 +240,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Auto-refresh schedule/fixtures every 5 minutes
     setInterval(refreshSchedule, 300000);
+
+    // Auto-refresh standings every 5 minutes
+    setInterval(refreshStandings, 300000);
 });
 
 // ===== Navbar =====
@@ -1278,6 +1281,22 @@ function renderStandings() {
     `;
 
     setTimeout(initScrollAnimations, 100);
+}
+
+async function refreshStandings() {
+    try {
+        const response = await fetch('standings.json?' + Date.now());
+        standingsData = await response.json();
+        
+        const lastUpdated = document.getElementById('standingsLastUpdated');
+        if (lastUpdated) {
+            lastUpdated.textContent = new Date(standingsData.lastUpdated).toLocaleString();
+        }
+        
+        renderStandings();
+    } catch (error) {
+        // Silently fail
+    }
 }
 
 // ===== Archive Section =====
