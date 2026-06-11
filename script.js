@@ -243,35 +243,22 @@ document.addEventListener('DOMContentLoaded', () => {
 function initNavbar() {
     const navbar = document.getElementById('navbar');
     const hamburger = document.getElementById('hamburger');
-    const navMenu = document.querySelector('.nav-menu');
+    const navMenu = document.getElementById('navMenu');
     const navLinks = document.querySelectorAll('.nav-link');
-    let menuOpen = false;
 
     window.addEventListener('scroll', () => {
-        if (window.scrollY > 50) {
-            navbar.classList.add('scrolled');
-        } else {
-            navbar.classList.remove('scrolled');
-        }
+        navbar.classList.toggle('scrolled', window.scrollY > 50);
     });
 
-    function toggleMenu(e) {
+    hamburger.addEventListener('click', (e) => {
         e.preventDefault();
         e.stopPropagation();
-        menuOpen = !menuOpen;
-        hamburger.classList.toggle('active', menuOpen);
-        navMenu.classList.toggle('active', menuOpen);
-    }
-
-    hamburger.addEventListener('click', toggleMenu);
-    hamburger.addEventListener('touchend', (e) => {
-        e.preventDefault();
-        toggleMenu(e);
+        hamburger.classList.toggle('active');
+        navMenu.classList.toggle('active');
     });
 
     navLinks.forEach(link => {
         link.addEventListener('click', () => {
-            menuOpen = false;
             hamburger.classList.remove('active');
             navMenu.classList.remove('active');
             navLinks.forEach(l => l.classList.remove('active'));
@@ -280,8 +267,7 @@ function initNavbar() {
     });
 
     document.addEventListener('click', (e) => {
-        if (menuOpen && !hamburger.contains(e.target) && !navMenu.contains(e.target)) {
-            menuOpen = false;
+        if (navMenu.classList.contains('active') && !hamburger.contains(e.target) && !navMenu.contains(e.target)) {
             hamburger.classList.remove('active');
             navMenu.classList.remove('active');
         }
