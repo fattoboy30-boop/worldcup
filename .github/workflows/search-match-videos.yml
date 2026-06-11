@@ -1,0 +1,37 @@
+name: Search Match Videos
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'  # Every 15 minutes during tournament
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  search-videos:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch latest scores (to know which matches are live/finished)
+        run: node fetch-stats.js
+        env:
+          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+
+      - name: Search for match videos
+        run: node fetch-match-videos.js
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/videos.json scores.json fixtures.json standings.json
+          git diff --staged --quiet || git commit -m "Auto-update match videos [automated]"
+          git push
