@@ -172,7 +172,7 @@ function buildFixtures(matches) {
     return {
       id: m.id,
       date: m.utcDate ? new Date(m.utcDate).toISOString().split('T')[0] : '',
-      time: m.utcDate ? new Date(m.utcDate).toTimeString().slice(0, 5) : '',
+      time: m.utcDate ? new Date(m.utcDate).toISOString().split('T')[1].slice(0, 5) : '',
       utcDate: m.utcDate || '',
       homeTeam: home, homeCode: TEAM_CODES[home] || 'un',
       homeFlag: TEAM_FLAGS[home] || '',
