@@ -1949,14 +1949,18 @@ a {
         font-size: 2.5rem;
     }
     
+    .countdown {
+        gap: 0.5rem;
+    }
+
     .countdown-value {
-        font-size: 2.5rem;
-        min-width: 70px;
-        padding: 0.8rem 1rem;
+        font-size: 2.2rem;
+        min-width: 65px;
+        padding: 0.7rem 0.8rem;
     }
     
     .countdown-separator {
-        font-size: 2rem;
+        font-size: 1.8rem;
     }
     
     .hero-stats {
@@ -1971,6 +1975,14 @@ a {
     .hero-cta {
         flex-direction: column;
         align-items: center;
+        width: 100%;
+        max-width: 320px;
+        margin: 0 auto;
+    }
+
+    .hero-cta .btn {
+        width: 100%;
+        text-align: center;
     }
     
     .section-header {
@@ -2055,6 +2067,228 @@ a {
         width: 65px;
         height: 42px;
     }
+
+    /* Live banner mobile */
+    .live-banner {
+        padding: 6px 0.75rem;
+    }
+
+    .live-banner a {
+        font-size: 0.75rem;
+        gap: 0.4rem;
+    }
+
+    /* Schedule cards mobile */
+    .schedule-content {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+
+    .schedule-card {
+        padding: 1.2rem;
+    }
+
+    .schedule-card .match-teams {
+        gap: 0.5rem;
+    }
+
+    .schedule-card .team .team-name {
+        font-size: 0.9rem;
+    }
+
+    .schedule-card .match-flag {
+        width: 45px;
+        height: 30px;
+    }
+
+    /* Score cards mobile */
+    .scores-content {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+
+    .score-card {
+        padding: 1.2rem;
+    }
+
+    .score-card .score-flag {
+        width: 40px;
+        height: 28px;
+    }
+
+    /* Standings mobile */
+    .standings-table-inner th,
+    .standings-table-inner td {
+        padding: 0.6rem 0.4rem;
+        font-size: 0.8rem;
+    }
+
+    .standings-tab {
+        width: 34px;
+        height: 34px;
+        font-size: 0.8rem;
+    }
+
+    .team-cell {
+        gap: 0.4rem;
+    }
+
+    .standing-flag {
+        width: 24px;
+        height: 16px;
+    }
+
+    /* Player carousel mobile */
+    .player-card {
+        min-width: 260px;
+    }
+
+    .player-card.featured {
+        min-width: 280px;
+    }
+
+    .player-image {
+        height: 220px;
+    }
+
+    .carousel-btn {
+        width: 40px;
+        height: 40px;
+        font-size: 1.2rem;
+    }
+
+    /* News section mobile */
+    .news-grid {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+
+    /* Video section mobile */
+    .video-section .section-content {
+        padding: 0 0.5rem;
+    }
+
+    .video-filters {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    /* Fan zone mobile */
+    .fanzone-grid {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+
+    .fan-card {
+        padding: 1.5rem;
+    }
+
+    .fan-card h3 {
+        font-size: 1.3rem;
+    }
+
+    .poll-btn {
+        padding: 0.75rem 0.9rem;
+        font-size: 0.9rem;
+    }
+
+    .quiz-btn {
+        padding: 0.7rem;
+        font-size: 0.85rem;
+    }
+
+    .question {
+        font-size: 1rem;
+    }
+
+    /* Archive mobile */
+    .archive-matches {
+        grid-template-columns: 1fr;
+    }
+
+    .standings-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .archive-content {
+        padding: 1rem;
+    }
+
+    /* Newsletter mobile */
+    .newsletter-content h2 {
+        font-size: 2rem;
+    }
+
+    .newsletter-content p {
+        font-size: 0.95rem;
+    }
+
+    .newsletter-form input {
+        padding: 0.85rem 1rem;
+        font-size: 0.9rem;
+    }
+
+    /* Section padding mobile */
+    .container {
+        padding: 0 15px;
+    }
+
+    /* Match day header mobile */
+    .matchday-header {
+        font-size: 1.1rem;
+    }
+
+    .knockout-header {
+        font-size: 1.2rem;
+    }
+
+    /* Tabs mobile */
+    .tab-btn {
+        padding: 0.5rem 1rem;
+        font-size: 0.8rem;
+    }
+
+    .score-tab {
+        padding: 0.5rem 1rem;
+        font-size: 0.8rem;
+    }
+
+    .archive-tab {
+        padding: 0.5rem 1rem;
+        font-size: 0.8rem;
+    }
+
+    /* Filter buttons mobile */
+    .schedule-filters {
+        gap: 0.4rem;
+    }
+
+    .filter-btn {
+        padding: 0.4rem 0.7rem;
+        font-size: 0.78rem;
+    }
+
+    /* Match venue/time mobile */
+    .match-venue {
+        font-size: 0.78rem;
+    }
+
+    .match-time {
+        font-size: 0.8rem;
+    }
+
+    .score-venue {
+        font-size: 0.75rem;
+    }
+
+    /* Daily items mobile */
+    .daily-item {
+        padding: 0.8rem;
+    }
+
+    .daily-item h4 {
+        font-size: 1rem;
+    }
 }
 
 @media (max-width: 480px) {
@@ -2067,17 +2301,17 @@ a {
     }
     
     .countdown {
-        gap: 0.5rem;
+        gap: 0.4rem;
     }
     
     .countdown-value {
-        font-size: 1.8rem;
-        min-width: 55px;
-        padding: 0.6rem 0.8rem;
+        font-size: 1.6rem;
+        min-width: 50px;
+        padding: 0.5rem 0.6rem;
     }
     
     .countdown-separator {
-        font-size: 1.5rem;
+        font-size: 1.3rem;
     }
     
     .stat-number {
@@ -2085,11 +2319,11 @@ a {
     }
     
     .section-title {
-        font-size: 2rem;
+        font-size: 1.8rem;
     }
     
     .player-card {
-        min-width: 260px;
+        min-width: 240px;
     }
     
     .player-number {
@@ -2097,38 +2331,183 @@ a {
     }
 
     .video-search-input {
-        padding: 0.8rem 1.2rem;
-        font-size: 0.9rem;
+        padding: 0.7rem 1rem;
+        font-size: 0.85rem;
     }
 
     .video-filter-btn {
-        padding: 0.45rem 0.9rem;
-        font-size: 0.75rem;
+        padding: 0.4rem 0.8rem;
+        font-size: 0.72rem;
     }
 
     .video-card {
-        min-width: 240px;
+        min-width: 220px;
     }
 
     .video-nav-btn {
-        width: 40px;
-        height: 40px;
-        font-size: 1.2rem;
+        width: 36px;
+        height: 36px;
+        font-size: 1.1rem;
     }
 
     .social-btn {
-        padding: 0.8rem;
-        font-size: 0.9rem;
+        padding: 0.75rem;
+        font-size: 0.85rem;
     }
 
     .hero-flag {
-        width: 60px;
-        height: 38px;
+        width: 55px;
+        height: 35px;
     }
 
     .date-quick-btn {
-        padding: 0.4rem 0.8rem;
+        padding: 0.35rem 0.7rem;
+        font-size: 0.72rem;
+    }
+
+    /* Small phone live banner */
+    .live-banner a {
+        font-size: 0.68rem;
+    }
+
+    /* Small phone schedule */
+    .schedule-card .match-flag {
+        width: 38px;
+        height: 25px;
+    }
+
+    .schedule-card .team .team-name {
+        font-size: 0.82rem;
+    }
+
+    .match-date {
+        font-size: 0.8rem;
+    }
+
+    .match-date-sbt {
+        font-size: 0.72rem;
+    }
+
+    /* Small phone scores */
+    .score-card .score-flag {
+        width: 35px;
+        height: 24px;
+    }
+
+    .score-card .score-team .team-name {
+        font-size: 0.78rem;
+    }
+
+    .score {
+        font-size: 1.3rem;
+    }
+
+    .score-date {
+        font-size: 0.68rem;
+    }
+
+    .score-date-sbt {
+        font-size: 0.63rem;
+    }
+
+    /* Small phone standings */
+    .standings-table-inner th,
+    .standings-table-inner td {
+        padding: 0.5rem 0.3rem;
+        font-size: 0.72rem;
+    }
+
+    .standings-tab {
+        width: 30px;
+        height: 30px;
         font-size: 0.75rem;
+    }
+
+    /* Small phone player card */
+    .player-card {
+        min-width: 220px;
+    }
+
+    .player-card.featured {
+        min-width: 240px;
+    }
+
+    .player-image {
+        height: 180px;
+    }
+
+    .player-name {
+        font-size: 1.2rem;
+    }
+
+    .player-info {
+        padding: 1rem;
+    }
+
+    /* Small phone hero */
+    .hero {
+        padding: 4rem 0.75rem 1.5rem;
+    }
+
+    .title-large {
+        font-size: 1.8rem;
+    }
+
+    .title-year {
+        font-size: 1.5rem;
+    }
+
+    /* Small phone newsletter */
+    .newsletter-content h2 {
+        font-size: 1.6rem;
+    }
+
+    /* Small phone fan zone */
+    .fan-card {
+        padding: 1.2rem;
+    }
+
+    .fan-card h3 {
+        font-size: 1.1rem;
+    }
+
+    .quiz-question .question {
+        font-size: 0.9rem;
+    }
+
+    /* Small phone archive */
+    .archive-info {
+        padding: 1.5rem;
+    }
+
+    /* Small phone matchday headers */
+    .matchday-header {
+        font-size: 0.95rem;
+    }
+
+    .knockout-header {
+        font-size: 1rem;
+    }
+
+    /* Tabs scrolling on small screens */
+    .schedule-tabs,
+    .score-tabs {
+        overflow-x: auto;
+        flex-wrap: nowrap;
+        justify-content: flex-start;
+        padding-bottom: 0.5rem;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .tab-btn,
+    .score-tab {
+        white-space: nowrap;
+        flex-shrink: 0;
+    }
+
+    /* Hero CTA stack on small phones */
+    .hero-cta {
+        max-width: 280px;
     }
 }
 
@@ -3495,7 +3874,6 @@ a {
 .standings-tab:hover:not(.active) {
     background: rgba(255, 255, 255, 0.08);
     border-color: rgba(255, 255, 255, 0.15);
-}
 }
 
 .standings-table {
