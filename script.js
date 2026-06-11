@@ -538,36 +538,40 @@ function initPolls() {
 
 // ===== Scroll Animations =====
 function initScrollAnimations() {
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+
     const observerOptions = {
-        threshold: 0.1,
-        rootMargin: '0px 0px -50px 0px'
+        threshold: 0.08,
+        rootMargin: '0px 0px -40px 0px'
     };
 
     const observer = new IntersectionObserver((entries) => {
         entries.forEach(entry => {
             if (entry.isIntersecting) {
-                entry.target.classList.add('animate-in');
+                entry.target.classList.add('visible');
+                observer.unobserve(entry.target);
             }
         });
     }, observerOptions);
 
-    document.querySelectorAll('.city-card, .team-card, .fan-card, .timeline-item').forEach(el => {
-        el.style.opacity = '0';
-        el.style.transform = 'translateY(30px)';
-        el.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+    // Single reveal elements
+    document.querySelectorAll('.section-title:not(.reveal), .hero-content:not(.reveal), .hero-badge:not(.reveal), .hero-cta:not(.reveal)').forEach(el => {
+        el.classList.add('reveal');
+        observer.observe(el);
+    });
+
+    // Stagger grids
+    document.querySelectorAll('.teams-grid:not(.reveal-stagger), .scores-content:not(.reveal-stagger), .standings-table:not(.reveal-stagger), .news-grid:not(.reveal-stagger), .fan-zone-grid:not(.reveal-stagger), .cities-grid:not(.reveal-stagger), .quiz-options:not(.reveal-stagger), .poll-options:not(.reveal-stagger)').forEach(el => {
+        el.classList.add('reveal', 'reveal-stagger');
+        observer.observe(el);
+    });
+
+    // Individual cards not yet revealed
+    document.querySelectorAll('.team-card:not(.reveal), .score-card:not(.reveal), .player-card:not(.reveal), .city-card:not(.reveal), .fan-card:not(.reveal), .timeline-item:not(.reveal), .schedule-card:not(.reveal), .archive-item:not(.reveal)').forEach(el => {
+        el.classList.add('reveal');
         observer.observe(el);
     });
 }
-
-// Add CSS for scroll animations
-const style = document.createElement('style');
-style.textContent = `
-    .animate-in {
-        opacity: 1 !important;
-        transform: translateY(0) !important;
-    }
-`;
-document.head.appendChild(style);
 
 // ===== Social Sharing =====
 function shareOnFacebook() {
@@ -759,6 +763,8 @@ function renderSchedule() {
     } else {
         renderKnockoutStage(content);
     }
+
+    setTimeout(initScrollAnimations, 100);
 }
 
 function renderGroupStage(container) {
@@ -881,6 +887,8 @@ async function initNews() {
         
         // Initialize load more button
         initLoadMoreNews();
+        
+        setTimeout(initScrollAnimations, 100);
         
     } catch (error) {
         console.log('News data not available, using embedded data');
@@ -1096,6 +1104,7 @@ async function initScores() {
         
         renderScores();
         initScoreTabs();
+        setTimeout(initScrollAnimations, 100);
     } catch (error) {
         console.log('Scores data not available');
     }
@@ -1159,6 +1168,8 @@ function renderScores() {
             <div class="score-date-sbt">Solomon Islands: ${toSolomonTime(match.date, match.time)}</div>
         </div>
     `).join('');
+
+    setTimeout(initScrollAnimations, 100);
 }
 
 async function refreshScores() {
@@ -1191,6 +1202,7 @@ async function initStandings() {
         
         renderStandings();
         initStandingsTabs();
+        setTimeout(initScrollAnimations, 100);
     } catch (error) {
         console.log('Standings data not available');
     }
@@ -1250,6 +1262,8 @@ function renderStandings() {
             </tbody>
         </table>
     `;
+
+    setTimeout(initScrollAnimations, 100);
 }
 
 // ===== Archive Section =====
