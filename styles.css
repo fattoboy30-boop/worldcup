@@ -69,7 +69,6 @@ a {
     padding: 1rem 0;
     transition: var(--transition);
     background: transparent;
-    overflow: hidden;
 }
 
 .navbar.scrolled {
@@ -86,7 +85,6 @@ a {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    overflow: hidden;
 }
 
 .nav-logo {

@@ -245,6 +245,7 @@ function initNavbar() {
     const hamburger = document.getElementById('hamburger');
     const navMenu = document.querySelector('.nav-menu');
     const navLinks = document.querySelectorAll('.nav-link');
+    let menuOpen = false;
 
     window.addEventListener('scroll', () => {
         if (window.scrollY > 50) {
@@ -254,14 +255,23 @@ function initNavbar() {
         }
     });
 
-    hamburger.addEventListener('click', (e) => {
+    function toggleMenu(e) {
+        e.preventDefault();
         e.stopPropagation();
-        hamburger.classList.toggle('active');
-        navMenu.classList.toggle('active');
+        menuOpen = !menuOpen;
+        hamburger.classList.toggle('active', menuOpen);
+        navMenu.classList.toggle('active', menuOpen);
+    }
+
+    hamburger.addEventListener('click', toggleMenu);
+    hamburger.addEventListener('touchend', (e) => {
+        e.preventDefault();
+        toggleMenu(e);
     });
 
     navLinks.forEach(link => {
         link.addEventListener('click', () => {
+            menuOpen = false;
             hamburger.classList.remove('active');
             navMenu.classList.remove('active');
             navLinks.forEach(l => l.classList.remove('active'));
@@ -270,7 +280,8 @@ function initNavbar() {
     });
 
     document.addEventListener('click', (e) => {
-        if (!hamburger.contains(e.target) && !navMenu.contains(e.target)) {
+        if (menuOpen && !hamburger.contains(e.target) && !navMenu.contains(e.target)) {
+            menuOpen = false;
             hamburger.classList.remove('active');
             navMenu.classList.remove('active');
         }
@@ -600,8 +611,9 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         e.preventDefault();
         const target = document.querySelector(this.getAttribute('href'));
         if (target) {
+            const isMobile = window.innerWidth <= 768;
             target.scrollIntoView({
-                behavior: 'smooth',
+                behavior: isMobile ? 'auto' : 'smooth',
                 block: 'start'
             });
         }
