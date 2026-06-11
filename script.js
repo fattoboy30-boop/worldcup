@@ -820,7 +820,7 @@ function renderSchedule() {
 }
 
 function renderGroupStage(container) {
-    let fixtures = fixturesData.fixtures.filter(f => f.stage === 'GROUP_STAGE');
+    let fixtures = fixturesData.fixtures.filter(f => f.stage === 'GROUP_STAGE' || f.stage === 'group');
     
     if (currentScheduleGroup !== 'all') {
         fixtures = fixtures.filter(f => f.group === currentScheduleGroup);
