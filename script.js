@@ -305,15 +305,33 @@ function initParticles() {
 
 // ===== Countdown =====
 function initCountdown() {
-    const tournamentStart = new Date('2026-06-12T02:00:00Z');
+    const countdownEl = document.getElementById('countdown');
+    const container = document.querySelector('.countdown-container');
+    if (!countdownEl || !container) return;
 
-    function updateCountdown() {
+    function getNextMatch() {
+        return fetch('fixtures.json')
+            .then(r => r.json())
+            .then(data => {
+                const now = new Date();
+                const matches = (data.fixtures || [])
+                    .map(m => {
+                        const dt = m.utcDate ? new Date(m.utcDate) : new Date(m.date + 'T' + (m.time || '00:00') + ':00Z');
+                        return { ...m, dt };
+                    })
+                    .filter(m => m.dt > now)
+                    .sort((a, b) => a.dt - b.dt);
+                return matches[0] || null;
+            })
+            .catch(() => null);
+    }
+
+    function updateCountdown(targetDate, matchLabel) {
         const now = new Date();
-        const diff = tournamentStart - now;
+        const diff = targetDate - now;
 
         if (diff <= 0) {
-            const container = document.querySelector('.countdown-container');
-            if (container) container.remove();
+            container.innerHTML = '<div class="countdown-label">Match in Progress!</div>';
             clearInterval(intervalId);
             return;
         }
@@ -327,10 +345,23 @@ function initCountdown() {
         document.getElementById('hours').textContent = hours.toString().padStart(2, '0');
         document.getElementById('minutes').textContent = minutes.toString().padStart(2, '0');
         document.getElementById('seconds').textContent = seconds.toString().padStart(2, '0');
+
+        if (matchLabel) {
+            const label = container.querySelector('.countdown-label');
+            if (label) label.textContent = matchLabel;
+        }
     }
 
-    updateCountdown();
-    const intervalId = setInterval(updateCountdown, 1000);
+    let intervalId;
+    getNextMatch().then(match => {
+        if (!match) {
+            container.innerHTML = '<div class="countdown-label">Tournament Complete!</div>';
+            return;
+        }
+        const label = 'Next: ' + (match.homeTeam || '') + ' vs ' + (match.awayTeam || '');
+        updateCountdown(match.dt, label);
+        intervalId = setInterval(() => updateCountdown(match.dt, label), 1000);
+    });
 }
 
 // ===== Teams =====

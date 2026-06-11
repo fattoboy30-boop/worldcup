@@ -140,7 +140,7 @@ function buildScores(matches) {
     const group = cleanGroup(m.group);
 
     const base = {
-      id: m.id, date, time,
+      id: m.id, date, time, utcDate: m.utcDate || '',
       homeTeam: home, homeCode: TEAM_CODES[home] || 'un',
       homeScore: ft.home, awayTeam: away, awayCode: TEAM_CODES[away] || 'un',
       awayScore: ft.away, venue: m.venue || '', city: '',
@@ -158,6 +158,38 @@ function buildScores(matches) {
     lastUpdated: new Date().toISOString(),
     liveMatches: live, recentResults: results, upcomingMatches: upcoming,
   };
+}
+
+function buildFixtures(matches) {
+  const TEAM_FLAGS = {};
+  for (const [name, code] of Object.entries(TEAM_CODES)) {
+    TEAM_FLAGS[name] = `https://flagcdn.com/w160/${code}.png`;
+  }
+
+  const fixtures = matches.map(m => {
+    const home = teamName(m.homeTeam);
+    const away = teamName(m.awayTeam);
+    return {
+      id: m.id,
+      date: m.utcDate ? new Date(m.utcDate).toISOString().split('T')[0] : '',
+      time: m.utcDate ? new Date(m.utcDate).toTimeString().slice(0, 5) : '',
+      utcDate: m.utcDate || '',
+      homeTeam: home, homeCode: TEAM_CODES[home] || 'un',
+      homeFlag: TEAM_FLAGS[home] || '',
+      awayTeam: away, awayCode: TEAM_CODES[away] || 'un',
+      awayFlag: TEAM_FLAGS[away] || '',
+      homeScore: m.score?.fullTime?.home,
+      awayScore: m.score?.fullTime?.away,
+      venue: m.venue || '', city: m.area?.name || '',
+      status: (m.status || '').toLowerCase(),
+      group: cleanGroup(m.group),
+      stage: m.stage || '',
+      matchday: m.matchday || 0,
+      minute: m.minute || null,
+    };
+  });
+
+  return { lastUpdated: new Date().toISOString(), fixtures };
 }
 
 function buildStandings(standingsData) {
@@ -215,26 +247,9 @@ async function main() {
     const standingsData = buildStandings(standings);
     saveJson(FILES.standings, standingsData);
 
-    // Update fixtures (merge scores into existing)
-    const fixtures = loadJson(FILES.fixtures);
-    if (fixtures.fixtures) {
-      const apiById = {};
-      matches.forEach(m => apiById[m.id] = m);
-      for (const f of fixtures.fixtures) {
-        const api = apiById[f.id];
-        if (api) {
-          const ft = api.score?.fullTime || {};
-          const ht = api.score?.halfTime || {};
-          f.status = (api.status || '').toLowerCase();
-          if (ft.home != null) f.homeScore = ft.home;
-          if (ft.away != null) f.awayScore = ft.away;
-          if (ht.home != null) f.homeScoreHT = ht.home;
-          if (ht.away != null) f.awayScoreHT = ht.away;
-        }
-      }
-      fixtures.lastUpdated = new Date().toISOString();
-      saveJson(FILES.fixtures, fixtures);
-    }
+    // Update fixtures (full rebuild from API)
+    const fixturesData = buildFixtures(matches);
+    saveJson(FILES.fixtures, fixturesData);
 
     console.log('\nAll stats updated!');
   } catch (err) {

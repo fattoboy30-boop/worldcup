@@ -1957,6 +1957,7 @@ a {
         align-items: center;
         padding: 2rem;
         gap: 1.5rem;
+        z-index: 999;
     }
 
     .nav-menu.active {
