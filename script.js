@@ -283,19 +283,8 @@ function initStreaming() {
         .then(r => r.json())
         .then(data => {
             const btn = document.getElementById('watchLiveBtn');
-            const banner = document.getElementById('liveBanner');
             if (btn && data.url) {
                 btn.href = data.url;
-            }
-            if (banner && data.url) {
-                banner.querySelector('a').href = data.url;
-                if (data.status === 'live') {
-                    banner.classList.add('visible');
-                    const navbar = document.querySelector('.navbar');
-                    const hero = document.querySelector('.hero');
-                    if (navbar) navbar.classList.add('banner-active');
-                    if (hero) hero.style.marginTop = '120px';
-                }
             }
         })
         .catch(() => {});

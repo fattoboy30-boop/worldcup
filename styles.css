@@ -72,58 +72,6 @@ a {
     overflow: hidden;
 }
 
-/* ===== Live Banner ===== */
-.live-banner {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 1100;
-    background: linear-gradient(90deg, #cc0000, #ff0000, #cc0000);
-    text-align: center;
-    padding: 8px 1rem;
-    display: none;
-}
-
-.live-banner.visible {
-    display: block;
-}
-
-.navbar.banner-active {
-    top: 36px;
-}
-
-.live-banner a {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.6rem;
-    color: #fff;
-    font-family: 'Oswald', sans-serif;
-    font-size: 0.85rem;
-    letter-spacing: 1px;
-    text-transform: uppercase;
-    text-decoration: none;
-    font-weight: 600;
-}
-
-.live-banner a:hover {
-    opacity: 0.9;
-}
-
-.live-dot-banner {
-    width: 8px;
-    height: 8px;
-    background: #fff;
-    border-radius: 50%;
-    display: inline-block;
-    animation: livePulse 1.5s ease-in-out infinite;
-    flex-shrink: 0;
-}
-
-.live-arrow {
-    font-size: 1rem;
-}
-
 .navbar.scrolled {
     background: rgba(10, 10, 16, 0.85);
     backdrop-filter: blur(24px) saturate(180%);
@@ -2080,16 +2028,6 @@ a {
         height: 42px;
     }
 
-    /* Live banner mobile */
-    .live-banner {
-        padding: 6px 0.75rem;
-    }
-
-    .live-banner a {
-        font-size: 0.75rem;
-        gap: 0.4rem;
-    }
-
     /* Schedule cards mobile */
     .schedule-content {
         grid-template-columns: 1fr;
@@ -2375,11 +2313,6 @@ a {
     .date-quick-btn {
         padding: 0.35rem 0.7rem;
         font-size: 0.72rem;
-    }
-
-    /* Small phone live banner */
-    .live-banner a {
-        font-size: 0.68rem;
     }
 
     /* Small phone schedule */
