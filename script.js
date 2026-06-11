@@ -937,7 +937,7 @@ function renderKnockoutStage(container) {
 // ===== News Section =====
 async function initNews() {
     try {
-        const response = await fetch('news.json');
+        const response = await fetch('news.json?' + Date.now());
         const data = await response.json();
         newsData = data.articles;
         filteredNews = [...newsData];
@@ -1380,7 +1380,7 @@ async function refreshStandings() {
 // ===== Injuries Section =====
 async function initInjuries() {
     try {
-        const response = await fetch('data/wc26-injuries.json');
+        const response = await fetch('data/wc26-injuries.json?' + Date.now());
         if (!response.ok) throw new Error('Failed to load injuries');
         const data = await response.json();
         
@@ -1664,7 +1664,7 @@ let videoSwiperInstance = null;
 
 async function initVideoHub() {
     try {
-        const response = await fetch('data/videos.json');
+        const response = await fetch('data/videos.json?' + Date.now());
         if (!response.ok) throw new Error('Failed to fetch');
         videoData = await response.json();
         filteredVideos = sortVideosByLatest([...videoData.videos]);
