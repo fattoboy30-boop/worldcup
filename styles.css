@@ -118,9 +118,24 @@ a {
 }
 
 .nav-menu {
-    display: flex;
+    display: none;
+    position: fixed;
+    top: 60px;
+    left: 0;
+    right: 0;
+    background: rgba(10, 10, 10, 0.98);
+    flex-direction: column;
+    align-items: center;
     list-style: none;
-    gap: 2rem;
+    padding: 2rem;
+    gap: 1.5rem;
+    z-index: 1001;
+    max-height: calc(100vh - 60px);
+    overflow-y: auto;
+}
+
+.nav-menu.active {
+    display: flex !important;
 }
 
 .nav-link {
@@ -155,7 +170,7 @@ a {
 }
 
 .hamburger {
-    display: none;
+    display: flex;
     flex-direction: column;
     gap: 5px;
     background: none;
@@ -171,7 +186,19 @@ a {
     width: 25px;
     height: 2px;
     background: var(--text);
-    transition: var(--transition);
+    transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.hamburger.active span:nth-child(1) {
+    transform: translateY(7px) rotate(45deg);
+}
+
+.hamburger.active span:nth-child(2) {
+    opacity: 0;
+}
+
+.hamburger.active span:nth-child(3) {
+    transform: translateY(-7px) rotate(-45deg);
 }
 
 /* ===== Hero Section ===== */
@@ -1855,28 +1882,10 @@ a {
 }
 
 @media (max-width: 768px) {
-    .nav-menu {
-        display: none;
-        position: fixed;
-        top: 60px;
-        left: 0;
-        right: 0;
-        background: rgba(10, 10, 10, 0.98);
-        flex-direction: column;
-        align-items: center;
-        padding: 2rem;
-        gap: 1.5rem;
-        z-index: 1001;
-        max-height: calc(100vh - 60px);
-        overflow-y: auto;
-    }
+
     
-    .nav-menu.active {
-        display: flex !important;
-    }
     
     .hamburger {
-        display: flex !important;
         z-index: 1002;
         position: relative;
         padding: 8px;
@@ -3346,14 +3355,7 @@ a {
         gap: 0.75rem;
     }
     
-    .team-card {
-        padding: 0.75rem;
-    }
     
-    .team-flag-img {
-        width: 50px;
-        height: 35px;
-    }
     
     .team-name {
         font-size: 0.7rem;
@@ -3557,10 +3559,6 @@ a {
         grid-template-columns: 1fr 1fr;
     }
     
-    .team-flag-img {
-        width: 40px;
-        height: 28px;
-    }
     
     .team-name {
         font-size: 0.65rem;
