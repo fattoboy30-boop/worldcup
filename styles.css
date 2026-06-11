@@ -67,6 +67,7 @@ a {
     padding: 1rem 0;
     transition: var(--transition);
     background: transparent;
+    overflow: hidden;
 }
 
 /* ===== Live Banner ===== */
@@ -131,6 +132,7 @@ a {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    overflow: hidden;
 }
 
 .nav-logo {
@@ -1910,10 +1912,15 @@ a {
         position: relative;
         padding: 8px;
         border-radius: 6px;
+        flex-shrink: 0;
     }
 
     .hamburger span {
         background: var(--text);
+    }
+
+    .logo-world {
+        display: none;
     }
 
     .player-number {
