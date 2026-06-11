@@ -924,6 +924,66 @@ a {
     box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3), 0 0 20px rgba(255, 199, 44, 0.06);
 }
 
+.schedule-card.live-card {
+    border-color: var(--primary);
+    box-shadow: 0 0 20px rgba(200, 16, 46, 0.2);
+    animation: livePulse 2s ease-in-out infinite;
+}
+
+.schedule-card.finished-card {
+    opacity: 0.75;
+}
+
+@keyframes livePulse {
+    0%, 100% { box-shadow: 0 0 20px rgba(200, 16, 46, 0.2); }
+    50% { box-shadow: 0 0 30px rgba(200, 16, 46, 0.4); }
+}
+
+.match-vs-block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.3rem;
+    min-width: 80px;
+}
+
+.match-score-inline {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: var(--text);
+    letter-spacing: 4px;
+}
+
+.match-score-inline span {
+    color: var(--accent);
+}
+
+.status-badge {
+    font-family: 'Oswald', sans-serif;
+    font-size: 0.7rem;
+    letter-spacing: 1px;
+    padding: 0.2rem 0.6rem;
+    border-radius: 4px;
+    text-transform: uppercase;
+}
+
+.status-badge.live {
+    background: var(--primary);
+    color: white;
+    animation: liveBlink 1.5s ease-in-out infinite;
+}
+
+.status-badge.finished {
+    background: rgba(255, 255, 255, 0.1);
+    color: var(--text-muted);
+}
+
+@keyframes liveBlink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.5; }
+}
+
 .schedule-card.opening {
     border-color: var(--primary);
     background: linear-gradient(145deg, rgba(200, 16, 46, 0.1) 0%, var(--dark-light) 100%);

@@ -237,6 +237,9 @@ document.addEventListener('DOMContentLoaded', () => {
     
     // Auto-refresh scores every 60 seconds
     setInterval(refreshScores, 60000);
+
+    // Auto-refresh schedule/fixtures every 5 minutes
+    setInterval(refreshSchedule, 300000);
 });
 
 // ===== Navbar =====
@@ -631,6 +634,18 @@ async function initSchedule() {
     initDateFilter();
 }
 
+async function refreshSchedule() {
+    try {
+        const response = await fetch('fixtures.json?' + Date.now());
+        if (response.ok) {
+            fixturesData = await response.json();
+            renderSchedule();
+        }
+    } catch (error) {
+        // Silently fail - will retry next interval
+    }
+}
+
 function initScheduleTabs() {
     document.querySelectorAll('.tab-btn').forEach(btn => {
         btn.addEventListener('click', () => {
@@ -783,9 +798,22 @@ function renderGroupStage(container) {
             const isOpener = match.label === 'Opening Match';
             const isHostOpener = match.label === 'Host Nation Opener';
             const solomonTime = toSolomonTime(match.date, match.time);
+            const status = match.status || 'timed';
+            const isLive = ['in_play','paused','live','1h','2h','ht'].includes(status);
+            const isFinished = ['finished','ft','aet','pen'].includes(status);
+            const hasScore = match.homeScore != null && match.awayScore != null;
+            
+            let statusBadge = '';
+            if (isLive) statusBadge = `<span class="status-badge live">LIVE</span>`;
+            else if (isFinished) statusBadge = `<span class="status-badge finished">FT</span>`;
+            
+            let scoreDisplay = '';
+            if (hasScore) {
+                scoreDisplay = `<div class="match-score-inline"><span>${match.homeScore}</span> - <span>${match.awayScore}</span></div>`;
+            }
             
             html += `
-                <div class="schedule-card ${isOpener ? 'opening' : ''} ${isHostOpener ? 'host-opener' : ''}">
+                <div class="schedule-card ${isOpener ? 'opening' : ''} ${isHostOpener ? 'host-opener' : ''} ${isLive ? 'live-card' : ''} ${isFinished ? 'finished-card' : ''}">
                     <div class="match-group-badge">Group ${match.group}</div>
                     <div class="match-date">${formattedDate} • ${match.time}</div>
                     <div class="match-date-sbt">Solomon Islands: ${solomonTime}</div>
@@ -794,7 +822,10 @@ function renderGroupStage(container) {
                             <img src="${match.homeFlag}" alt="${match.homeTeam}" class="match-flag" onerror="this.src='https://flagcdn.com/w160/un.png'">
                             <span class="team-name">${match.homeTeam}</span>
                         </div>
-                        <span class="match-vs">VS</span>
+                        <div class="match-vs-block">
+                            ${scoreDisplay || '<span class="match-vs">VS</span>'}
+                            ${statusBadge}
+                        </div>
                         <div class="team">
                             <img src="${match.awayFlag}" alt="${match.awayTeam}" class="match-flag" onerror="this.src='https://flagcdn.com/w160/un.png'">
                             <span class="team-name">${match.awayTeam}</span>
