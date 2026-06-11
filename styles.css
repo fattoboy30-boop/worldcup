@@ -85,7 +85,6 @@ a {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    position: relative;
 }
 
 .nav-logo {
@@ -121,84 +120,58 @@ a {
     white-space: nowrap;
 }
 
-/* Hamburger */
-.hamburger {
+.nav-menu {
     display: flex;
+    list-style: none;
+    gap: 2rem;
+}
+
+.nav-link {
+    font-family: 'Oswald', sans-serif;
+    font-size: 0.9rem;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    transition: var(--transition);
+    position: relative;
+}
+
+.nav-link::after {
+    content: '';
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: var(--primary);
+    transition: var(--transition);
+}
+
+.nav-link:hover,
+.nav-link.active {
+    color: var(--text);
+}
+
+.nav-link:hover::after,
+.nav-link.active::after {
+    width: 100%;
+}
+
+.hamburger {
+    display: none;
     flex-direction: column;
     gap: 5px;
     background: none;
     border: none;
     cursor: pointer;
     padding: 5px;
-    position: relative;
-    z-index: 1002;
-    -webkit-tap-highlight-color: transparent;
 }
 
 .hamburger span {
     width: 25px;
     height: 2px;
     background: var(--text);
-    transition: transform 0.3s ease, opacity 0.3s ease;
-}
-
-.hamburger.active span:nth-child(1) {
-    transform: translateY(7px) rotate(45deg);
-}
-
-.hamburger.active span:nth-child(2) {
-    opacity: 0;
-}
-
-.hamburger.active span:nth-child(3) {
-    transform: translateY(-7px) rotate(-45deg);
-}
-
-/* Nav Menu - dropdown */
-.nav-menu {
-    display: none;
-    flex-direction: column;
-    align-items: stretch;
-    width: 220px;
-    background: rgba(10, 10, 10, 0.98);
-    border: 1px solid rgba(255, 255, 255, 0.06);
-    border-radius: 8px;
-    padding: 0.5rem 0;
-    gap: 0;
-    list-style: none;
-    margin: 0;
-    position: absolute;
-    top: 100%;
-    right: 0;
-    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
-}
-
-.nav-menu.active {
-    display: flex;
-}
-
-.nav-link {
-    font-family: 'Oswald', sans-serif;
-    font-size: 1rem;
-    letter-spacing: 1.5px;
-    text-transform: uppercase;
-    color: var(--text-muted);
     transition: var(--transition);
-    position: relative;
-    padding: 0.85rem 1.2rem;
-    min-height: 44px;
-    display: flex;
-    align-items: center;
-    white-space: nowrap;
-}
-
-.nav-link::after {
-    display: none;
-}
-
-.nav-link:hover,
-.nav-link.active {
-    color: var(--text);
 }
 
 /* ===== Hero Section ===== */
@@ -1903,6 +1876,28 @@ a {
 
     .logo-world {
         display: none;
+    }
+
+    .nav-menu {
+        position: fixed;
+        top: 70px;
+        left: 0;
+        right: 0;
+        background: rgba(10, 10, 10, 0.98);
+        flex-direction: column;
+        align-items: center;
+        padding: 2rem;
+        gap: 1.5rem;
+        transform: translateY(-150%);
+        transition: var(--transition);
+    }
+
+    .nav-menu.active {
+        transform: translateY(0);
+    }
+
+    .hamburger {
+        display: flex;
     }
 
     .player-number {
