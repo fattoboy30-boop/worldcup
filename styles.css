@@ -120,9 +120,9 @@ a {
     white-space: nowrap;
 }
 
-/* Hamburger - hidden on desktop */
+/* Hamburger */
 .hamburger {
-    display: none;
+    display: flex;
     flex-direction: column;
     gap: 5px;
     background: none;
@@ -153,47 +153,46 @@ a {
     transform: translateY(-7px) rotate(-45deg);
 }
 
-/* Nav Menu - desktop: horizontal inline */
+/* Nav Menu - dropdown */
 .nav-menu {
-    display: flex;
-    align-items: center;
+    display: none;
+    flex-direction: column;
+    align-items: stretch;
+    width: 100%;
+    background: rgba(10, 10, 10, 0.98);
+    border-top: 1px solid rgba(255, 255, 255, 0.06);
+    padding: 0.5rem 0;
     gap: 0;
     list-style: none;
     margin: 0;
-    padding: 0;
+}
+
+.nav-menu.active {
+    display: flex;
 }
 
 .nav-link {
     font-family: 'Oswald', sans-serif;
-    font-size: 0.8rem;
-    letter-spacing: 1px;
+    font-size: 1rem;
+    letter-spacing: 1.5px;
     text-transform: uppercase;
     color: var(--text-muted);
     transition: var(--transition);
     position: relative;
-    padding: 0.5rem 0.75rem;
+    padding: 0.85rem 1.2rem;
+    min-height: 44px;
+    display: flex;
+    align-items: center;
     white-space: nowrap;
 }
 
 .nav-link::after {
-    content: '';
-    position: absolute;
-    bottom: -5px;
-    left: 0;
-    width: 0;
-    height: 2px;
-    background: var(--primary);
-    transition: var(--transition);
+    display: none;
 }
 
 .nav-link:hover,
 .nav-link.active {
     color: var(--text);
-}
-
-.nav-link:hover::after,
-.nav-link.active::after {
-    width: 100%;
 }
 
 /* ===== Hero Section ===== */
@@ -1886,7 +1885,6 @@ a {
 
     .nav-container {
         padding: 0 12px;
-        flex-wrap: wrap;
     }
 
     .logo-fifa {
@@ -1898,48 +1896,6 @@ a {
     }
 
     .logo-world {
-        display: none;
-    }
-
-    .hamburger {
-        display: flex;
-        position: relative;
-        padding: 12px;
-        border-radius: 6px;
-        flex-shrink: 0;
-        -webkit-tap-highlight-color: transparent;
-        z-index: 1002;
-    }
-
-    .hamburger span {
-        background: var(--text);
-    }
-
-    .nav-menu {
-        display: none;
-        flex-direction: column;
-        align-items: stretch;
-        width: 100%;
-        background: rgba(10, 10, 10, 0.98);
-        border-top: 1px solid rgba(255, 255, 255, 0.06);
-        padding: 0.5rem 0;
-        gap: 0;
-    }
-
-    .nav-menu.active {
-        display: flex;
-    }
-
-    .nav-link {
-        font-size: 1rem;
-        letter-spacing: 1.5px;
-        padding: 0.85rem 1.2rem;
-        min-height: 44px;
-        display: flex;
-        align-items: center;
-    }
-
-    .nav-link::after {
         display: none;
     }
 
