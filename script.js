@@ -885,7 +885,7 @@ function renderGroupStage(container) {
                             <span class="team-name">${match.awayTeam}</span>
                         </div>
                     </div>
-                    <div class="match-venue">${match.venue}, ${match.city}</div>
+                    ${match.venue || match.city ? `<div class="match-venue">${match.venue}${match.venue && match.city ? ', ' : ''}${match.city}</div>` : ''}
                     ${match.label ? `<div class="match-label">${match.label}</div>` : ''}
                 </div>
             `;
