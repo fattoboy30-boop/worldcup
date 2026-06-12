@@ -1,30 +1,6 @@
 {
-  "lastUpdated": "2026-06-12T20:08:19.723Z",
-  "liveMatches": [
-    {
-      "id": 760416,
-      "date": "2026-06-12",
-      "time": "19:00",
-      "utcDate": "2026-06-12T19:00Z",
-      "homeTeam": "Canada",
-      "homeCode": "ca",
-      "homeScore": 0,
-      "awayTeam": "Bosnia-Herzegovina",
-      "awayCode": "ba",
-      "awayScore": 1,
-      "venue": "BMO Field",
-      "city": "Toronto",
-      "status": "in_play",
-      "group": "B",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": "47'",
-      "halfTime": [
-        null,
-        null
-      ]
-    }
-  ],
+  "lastUpdated": "2026-06-12T21:17:08.810Z",
+  "liveMatches": [],
   "recentResults": [
     {
       "id": 760415,
@@ -64,6 +40,29 @@
       "city": "Guadalajara",
       "status": "finished",
       "group": "A",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": null,
+      "halfTime": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": 760416,
+      "date": "2026-06-12",
+      "time": "19:00",
+      "utcDate": "2026-06-12T19:00Z",
+      "homeTeam": "Canada",
+      "homeCode": "ca",
+      "homeScore": 1,
+      "awayTeam": "Bosnia-Herzegovina",
+      "awayCode": "ba",
+      "awayScore": 1,
+      "venue": "BMO Field",
+      "city": "Toronto",
+      "status": "finished",
+      "group": "B",
       "stage": "GROUP_STAGE",
       "matchday": 0,
       "minute": null,

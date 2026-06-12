@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-12T19:29:56.962Z",
+  "lastUpdated": "2026-06-12T21:17:24.172Z",
   "featured": {
-    "match": "FhQZki50H-8",
+    "match": "bHDkDeiEAQM",
     "highlight": "7BCVWfjOAmE",
     "interview": "MkHps73YepM"
   },
   "videos": [
+    {
+      "title": "Mexico vs. South Africa Full Highlights | FIFA World Cup 2026",
+      "videoId": "bHDkDeiEAQM",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-12",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/bHDkDeiEAQM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa",
+      "source": "match-search"
+    },
+    {
+      "title": "Mexico vs South Africa Highlights | 2026 FIFA World Cup™",
+      "videoId": "cQZbK8Pc1GY",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-12",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cQZbK8Pc1GY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa",
+      "source": "match-search"
+    },
     {
       "title": "Mexico vs South Africa | FIFA World Cup 2026 Highlights - YouTube",
       "videoId": "FhQZki50H-8",
