@@ -1316,7 +1316,12 @@ function initStandingsTabs() {
 
 function renderStandings() {
     const content = document.getElementById('standingsContent');
-    if (!content || !standingsData || !standingsData.groups[currentGroup]) return;
+    if (!content || !standingsData) return;
+    
+    if (!standingsData.groups[currentGroup]) {
+        content.innerHTML = `<p class="no-standings">No matches played yet in Group ${currentGroup}. Standings will update as matches finish.</p>`;
+        return;
+    }
     
     const group = standingsData.groups[currentGroup];
     
