@@ -1,46 +1,128 @@
 {
-  "lastUpdated": "2026-06-12T22:56:58.878Z",
+  "lastUpdated": "2026-06-12T23:21:37.273Z",
   "featured": {
-    "match": "FhQZki50H-8",
-    "highlight": "FhQZki50H-8",
-    "interview": "MkHps73YepM"
+    "match": "sct5E72I0Qk",
+    "highlight": "sct5E72I0Qk",
+    "interview": "kO6h6TKhBYQ"
   },
   "videos": [
     {
-      "title": "Mexico vs South Africa | FIFA World Cup 2026 Highlights - YouTube",
-      "videoId": "FhQZki50H-8",
-      "channel": "Web Search",
+      "title": "Morocco Train Before Brazil",
+      "videoId": "sct5E72I0Qk",
+      "channel": "FIFA",
       "publishedAt": "2026-06-12",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "South Africa"
+        "Brazil",
+        "Morocco"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FhQZki50H-8/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/sct5E72I0Qk/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Mexico vs South Africa Highlights | 2026 FIFA World Cup™",
-      "videoId": "cQZbK8Pc1GY",
-      "channel": "Web Search",
+      "title": "Post-Match Press Conference: Sergej Barbarez On 1-1 With Canada (12 June)",
+      "videoId": "ujLaHanH9ZM",
+      "channel": "FIFA",
       "publishedAt": "2026-06-12",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "South Africa"
+        "Canada"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/cQZbK8Pc1GY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/ujLaHanH9ZM/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Qatar Train Before Switzerland",
+      "videoId": "_T2suN0yMf0",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-12",
+      "category": "Highlights",
+      "team": [
+        "Switzerland",
+        "Qatar"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_T2suN0yMf0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Switzerland Train Before Qatar",
+      "videoId": "FdqppXwzn5s",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-12",
+      "category": "Highlights",
+      "team": [
+        "Switzerland",
+        "Qatar"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/FdqppXwzn5s/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Post-Match Press Conference: Canada's Jess Marsch On 1-1 With Bosnia and Herzegovina",
+      "videoId": "Jwu5A87EbIc",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-12",
+      "category": "Highlights",
+      "team": [
+        "Canada",
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Jwu5A87EbIc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Brazil On Playing Morocco | Carlo Ancelotti Takes Questions",
+      "videoId": "DlG2GLp5VwU",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-12",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/DlG2GLp5VwU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Morocco On Playing Brazil |  Mohamed Ouahbi & Achraf Hakimi Take Questions",
+      "videoId": "MAsVbiZaHRo",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-12",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/MAsVbiZaHRo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
     },
     {
       "title": "Highlights | Mexico 2-0 South Africa | FIFA World Cup 2026™",
@@ -172,116 +254,6 @@
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "June 11 Matchday Recap | #FIFAWorldCup @aramco",
-      "videoId": "btmKtT3SxQQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/btmKtT3SxQQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Alt Cast Highlights: Mexico v South Africa | FIFA World Cup 2026",
-      "videoId": "O3botizsrUU",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [
-        "Mexico",
-        "South Africa"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/O3botizsrUU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Scotland’s Final Training Session In Charlotte Ahead Of Haiti",
-      "videoId": "MkHps73YepM",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-12",
-      "category": "Viral",
-      "team": [
-        "Scotland",
-        "Haiti"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/MkHps73YepM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Team Feature: Haiti | Head Coach Sebastien Migne Looks To Make History For Haiti",
-      "videoId": "5_fFXj7CK-Q",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [
-        "Haiti"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/5_fFXj7CK-Q/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Team Feature: Scotland | Stars Travel Back In Time To 1998",
-      "videoId": "Wgyi9hwl7QI",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [
-        "Scotland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Wgyi9hwl7QI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Team Feature: Morocco | Amrabat aiming for repeat of 2022 success",
-      "videoId": "h9ooRGJWxbI",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/h9ooRGJWxbI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "THE GREATEST EVER SAVES IN FIFA World Cup History",
-      "videoId": "9TqZX7JCexU",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/9TqZX7JCexU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
       "title": "United States vs. Paraguay: What to Expect + Canada vs. Bosnia & Herzegovina LIVE Reaction | ESPN FC",
       "videoId": "kO6h6TKhBYQ",
       "channel": "ESPN FC",
@@ -314,12 +286,14 @@
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Kasey Keller's PERSONAL INSIGHT into what it's like playing in the World Cup 🌎 | SportsCenter",
+      "title": "Kasey Keller's KEY PLAYERS in the USMNT's match vs. Paraguay 👀 | SportsCenter",
       "videoId": "bCjloe4SqKo",
       "channel": "ESPN FC",
       "publishedAt": "2026-06-12",
       "category": "Highlights",
-      "team": [],
+      "team": [
+        "Paraguay"
+      ],
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/bCjloe4SqKo/mqdefault.jpg",
@@ -430,7 +404,7 @@
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "How far will the USMNT go in the World Cup? 🏆",
+      "title": "How far will the USMNT go in the World Cup? ��",
       "videoId": "90NcE4JujOo",
       "channel": "ESPN FC",
       "publishedAt": "2026-06-12",
