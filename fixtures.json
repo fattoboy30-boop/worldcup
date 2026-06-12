@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T17:55:41.950Z",
+  "lastUpdated": "2026-06-12T19:29:43.796Z",
   "fixtures": [
     {
       "id": 760415,
@@ -61,14 +61,14 @@
       "homeScore": 0,
       "awayTeam": "Bosnia-Herzegovina",
       "awayCode": "ba",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "BMO Field",
       "city": "Toronto",
-      "status": "timed",
+      "status": "in_play",
       "group": "B",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "27'",
       "halfTime": [
         null,
         null

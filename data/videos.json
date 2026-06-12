@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-12T19:08:11.760Z",
+  "lastUpdated": "2026-06-12T19:29:56.962Z",
   "featured": {
-    "match": "MWJ5xT69vK0",
-    "highlight": "MWJ5xT69vK0",
+    "match": "FhQZki50H-8",
+    "highlight": "7BCVWfjOAmE",
     "interview": "MkHps73YepM"
   },
   "videos": [
+    {
+      "title": "Mexico vs South Africa | FIFA World Cup 2026 Highlights - YouTube",
+      "videoId": "FhQZki50H-8",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-12",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/FhQZki50H-8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa",
+      "source": "match-search"
+    },
+    {
+      "title": "Mexico vs South Africa | Highlights Full Match | FIFA World Cup 2026",
+      "videoId": "7BCVWfjOAmE",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-12",
+      "category": "Full Match",
+      "team": [
+        "Mexico",
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7BCVWfjOAmE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa",
+      "source": "match-search"
+    },
     {
       "title": "Scotland On Playing Haiti | Steve Clarke Takes Questions",
       "videoId": "MWJ5xT69vK0",
