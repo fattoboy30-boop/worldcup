@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-12T12:56:03.725Z",
+  "lastUpdated": "2026-06-12T14:10:34.074Z",
   "featured": {
-    "match": "Wgyi9hwl7QI",
-    "highlight": "Wgyi9hwl7QI",
+    "match": "tJAWXgUsRLE",
+    "highlight": "tJAWXgUsRLE",
     "interview": "3Dyh8C-uLnA"
   },
   "videos": [
+    {
+      "title": "MEXICO VS SOUTH AFRICA HIGHLIGHTS • FIFA WORLD CUP 2026 - YouTube",
+      "videoId": "tJAWXgUsRLE",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-12",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tJAWXgUsRLE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa",
+      "source": "match-search"
+    },
+    {
+      "title": "Mexico vs South Africa Highlights | 2026 FIFA World Cup™",
+      "videoId": "cQZbK8Pc1GY",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-12",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cQZbK8Pc1GY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa",
+      "source": "match-search"
+    },
     {
       "title": "Team Feature: Scotland | Stars Travel Back In Time To 1998",
       "videoId": "Wgyi9hwl7QI",
