@@ -1,46 +1,119 @@
 {
-  "lastUpdated": "2026-06-12T10:49:16.917Z",
+  "lastUpdated": "2026-06-12T12:56:03.725Z",
   "featured": {
-    "match": "tJAWXgUsRLE",
-    "highlight": "cQZbK8Pc1GY",
+    "match": "Wgyi9hwl7QI",
+    "highlight": "Wgyi9hwl7QI",
     "interview": "3Dyh8C-uLnA"
   },
   "videos": [
     {
-      "title": "MEXICO VS SOUTH AFRICA HIGHLIGHTS • FIFA WORLD CUP 2026 - YouTube",
-      "videoId": "tJAWXgUsRLE",
-      "channel": "Web Search",
+      "title": "Team Feature: Scotland | Stars Travel Back In Time To 1998",
+      "videoId": "Wgyi9hwl7QI",
+      "channel": "FIFA",
       "publishedAt": "2026-06-12",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "South Africa"
+        "Scotland"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/tJAWXgUsRLE/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Wgyi9hwl7QI/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Mexico vs South Africa | FIFA World Cup 2026 Full Match Highlights ...",
-      "videoId": "cQZbK8Pc1GY",
-      "channel": "Web Search",
+      "title": "Team Feature: Morocco | Amrabat aiming for repeat of 2022 success",
+      "videoId": "h9ooRGJWxbI",
+      "channel": "FIFA",
       "publishedAt": "2026-06-12",
-      "category": "Full Match",
+      "category": "Highlights",
       "team": [
-        "Mexico",
-        "South Africa"
+        "Morocco"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/cQZbK8Pc1GY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/h9ooRGJWxbI/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "THE GREATEST EVER SAVES IN FIFA World Cup History",
+      "videoId": "9TqZX7JCexU",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/9TqZX7JCexU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Paraguay On Playing USA | Gustavo Alfaro And Diego Gomez Take Questions",
+      "videoId": "KZJjG3ox1qk",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-12",
+      "category": "Highlights",
+      "team": [
+        "USA",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/KZJjG3ox1qk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Korea Republic 🆚 Czechia #FIFAWorldCup #FIFAWorldCupOnYT",
+      "videoId": "vcZqzgen2Oo",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-12",
+      "category": "Highlights",
+      "team": [
+        "Czechia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vcZqzgen2Oo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Team Feature: Australia | Socceroos Aziz Behich Reflects On His Turkish Heritage",
+      "videoId": "6S6oFBEb6mI",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-12",
+      "category": "Highlights",
+      "team": [
+        "Australia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6S6oFBEb6mI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Team Feature: Turkiye | Hakan Calhanoglu reflects On His Journey With the National Team",
+      "videoId": "UiNOdlcxb-I",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/UiNOdlcxb-I/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
     },
     {
       "title": "Team Feature: Scotland | Andy Robertson On His & Diogo Jota's World Cup Dream",
@@ -164,118 +237,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/gRsEbrOhRwk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Post-Match Press Conference: Korea Republic Coach Hong Myung-Bo After 2-1 Win over Czechia",
-      "videoId": "sIGGAArboig",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [
-        "Czechia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/sIGGAArboig/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Post-Match Press Conference: Czechia Coach Miroslav Koubek After 2-1 Loss To Korea Republic",
-      "videoId": "N5ubVglDwD0",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [
-        "Czechia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/N5ubVglDwD0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Relive the unforgettable moments from the Countdown Concerts 🎶✨ @KrakenCryptoExchange",
-      "videoId": "pCcaJ9JjHhk",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/pCcaJ9JjHhk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Julián Quiñones goal | Mexico 2-0 South Africa | FIFA World Cup 2026™",
-      "videoId": "Qysaf0gKv2U",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [
-        "Mexico",
-        "South Africa"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Qysaf0gKv2U/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Raúl Jiménez goal | Mexico 2-0 South Africa | FIFA World Cup 2026™",
-      "videoId": "yYQpRBcO7tA",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [
-        "Mexico",
-        "South Africa"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/yYQpRBcO7tA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Quiñones scores. #FIFAFanFestival Mexico erupts 🇲🇽",
-      "videoId": "Ia8H5KSHowc",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Ia8H5KSHowc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Mexico's Julián Quiñones scored the first goal of #FIFAWorldCup 2026 #FIFAWorldCupOnYT",
-      "videoId": "fuxrlbCqejE",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fuxrlbCqejE/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
