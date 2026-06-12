@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-12T09:01:25.733Z",
+  "lastUpdated": "2026-06-12T10:49:16.917Z",
   "featured": {
-    "match": "uhlntPfb0aM",
-    "highlight": "uhlntPfb0aM",
+    "match": "tJAWXgUsRLE",
+    "highlight": "cQZbK8Pc1GY",
     "interview": "3Dyh8C-uLnA"
   },
   "videos": [
+    {
+      "title": "MEXICO VS SOUTH AFRICA HIGHLIGHTS • FIFA WORLD CUP 2026 - YouTube",
+      "videoId": "tJAWXgUsRLE",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-12",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tJAWXgUsRLE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa",
+      "source": "match-search"
+    },
+    {
+      "title": "Mexico vs South Africa | FIFA World Cup 2026 Full Match Highlights ...",
+      "videoId": "cQZbK8Pc1GY",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-12",
+      "category": "Full Match",
+      "team": [
+        "Mexico",
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cQZbK8Pc1GY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa",
+      "source": "match-search"
+    },
     {
       "title": "Team Feature: Scotland | Andy Robertson On His & Diogo Jota's World Cup Dream",
       "videoId": "uhlntPfb0aM",
