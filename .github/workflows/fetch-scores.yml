@@ -20,10 +20,11 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Fetch scores, standings, and fixtures from football-data.org
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch scores, standings, and fixtures from ESPN
         run: node fetch-stats.js
-        env:
-          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
 
       - name: Commit changes
         run: |

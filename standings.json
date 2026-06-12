@@ -1,4 +1,61 @@
 {
-  "lastUpdated": "2026-06-11T20:52:53.973Z",
-  "groups": {}
+  "lastUpdated": "2026-06-12T04:22:47.367Z",
+  "groups": {
+    "A": {
+      "teams": [
+        {
+          "name": "Mexico",
+          "code": "mx",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 2,
+          "ga": 0,
+          "gd": 2,
+          "points": 3,
+          "position": 1
+        },
+        {
+          "name": "South Korea",
+          "code": "kr",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 2,
+          "ga": 1,
+          "gd": 1,
+          "points": 3,
+          "position": 2
+        },
+        {
+          "name": "Czechia",
+          "code": "cz",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 1,
+          "ga": 2,
+          "gd": -1,
+          "points": 0,
+          "position": 3
+        },
+        {
+          "name": "South Africa",
+          "code": "za",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 0,
+          "ga": 2,
+          "gd": -2,
+          "points": 0,
+          "position": 4
+        }
+      ]
+    }
+  }
 }

@@ -20,10 +20,11 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Fetch latest scores (to know which matches are live/finished)
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch latest scores (ESPN - to know match status)
         run: node fetch-stats.js
-        env:
-          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
 
       - name: Search for match videos
         run: node fetch-match-videos.js

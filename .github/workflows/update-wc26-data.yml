@@ -2,7 +2,7 @@ name: Update WC26 Data (wc26-mcp)
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Every 6 hours
+    - cron: '*/2 * * * *'  # Every 2 minutes - sync with scores
   workflow_dispatch:
 
 permissions:
