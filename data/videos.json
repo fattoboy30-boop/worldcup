@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-13T08:23:36.038Z",
+  "lastUpdated": "2026-06-13T11:02:44.619Z",
   "featured": {
-    "match": "fytUUrPlses",
-    "highlight": "fytUUrPlses",
+    "match": "bHDkDeiEAQM",
+    "highlight": "bHDkDeiEAQM",
     "interview": "OThEgLcLAT0"
   },
   "videos": [
+    {
+      "title": "Mexico vs. South Africa Full Highlights | FIFA World Cup 2026",
+      "videoId": "bHDkDeiEAQM",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/bHDkDeiEAQM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa",
+      "source": "match-search"
+    },
+    {
+      "title": "Mexico vs South Africa Highlights | 2026 FIFA World Cup™",
+      "videoId": "cQZbK8Pc1GY",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cQZbK8Pc1GY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa",
+      "source": "match-search"
+    },
     {
       "title": "Team Feature: Curacao | Top Players Speak of Their Love For The Beautiful Island Nation",
       "videoId": "fytUUrPlses",
