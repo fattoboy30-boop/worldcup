@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T01:37:47.923Z",
+  "lastUpdated": "2026-06-13T05:01:34.484Z",
   "groups": {
     "A": {
       "teams": [
@@ -83,6 +83,36 @@
           "ga": 1,
           "gd": 0,
           "points": 1,
+          "position": 2
+        }
+      ]
+    },
+    "D": {
+      "teams": [
+        {
+          "name": "United States",
+          "code": "un",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 4,
+          "ga": 1,
+          "gd": 3,
+          "points": 3,
+          "position": 1
+        },
+        {
+          "name": "Paraguay",
+          "code": "py",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 1,
+          "ga": 4,
+          "gd": -3,
+          "points": 0,
           "position": 2
         }
       ]

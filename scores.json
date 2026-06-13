@@ -1,30 +1,6 @@
 {
-  "lastUpdated": "2026-06-13T01:37:47.919Z",
-  "liveMatches": [
-    {
-      "id": 760417,
-      "date": "2026-06-13",
-      "time": "01:00",
-      "utcDate": "2026-06-13T01:00Z",
-      "homeTeam": "United States",
-      "homeCode": "un",
-      "homeScore": 2,
-      "awayTeam": "Paraguay",
-      "awayCode": "py",
-      "awayScore": 0,
-      "venue": "SoFi Stadium",
-      "city": "Inglewood, California",
-      "status": "in_play",
-      "group": "D",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": "35'",
-      "halfTime": [
-        null,
-        null
-      ]
-    }
-  ],
+  "lastUpdated": "2026-06-13T05:01:34.480Z",
+  "liveMatches": [],
   "recentResults": [
     {
       "id": 760415,
@@ -87,6 +63,29 @@
       "city": "Toronto",
       "status": "finished",
       "group": "B",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": null,
+      "halfTime": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": 760417,
+      "date": "2026-06-13",
+      "time": "01:00",
+      "utcDate": "2026-06-13T01:00Z",
+      "homeTeam": "United States",
+      "homeCode": "un",
+      "homeScore": 4,
+      "awayTeam": "Paraguay",
+      "awayCode": "py",
+      "awayScore": 1,
+      "venue": "SoFi Stadium",
+      "city": "Inglewood, California",
+      "status": "finished",
+      "group": "D",
       "stage": "GROUP_STAGE",
       "matchday": 0,
       "minute": null,

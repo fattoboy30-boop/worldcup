@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-13T04:09:11.765Z",
+  "lastUpdated": "2026-06-13T05:01:51.954Z",
   "featured": {
-    "match": "GRkc4ml2B_w",
-    "highlight": "GRkc4ml2B_w",
+    "match": "bHDkDeiEAQM",
+    "highlight": "bHDkDeiEAQM",
     "interview": "OThEgLcLAT0"
   },
   "videos": [
+    {
+      "title": "Mexico vs. South Africa Full Highlights | FIFA World Cup 2026",
+      "videoId": "bHDkDeiEAQM",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/bHDkDeiEAQM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa",
+      "source": "match-search"
+    },
+    {
+      "title": "Mexico vs South Africa Highlights | 2026 FIFA World Cup™",
+      "videoId": "cQZbK8Pc1GY",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cQZbK8Pc1GY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa",
+      "source": "match-search"
+    },
     {
       "title": "WATCH LIVE | USA v Paraguay | Group Stage D | FIFA World Cup 2026™",
       "videoId": "GRkc4ml2B_w",
