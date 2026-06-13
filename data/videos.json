@@ -1,251 +1,49 @@
 {
-  "lastUpdated": "2026-06-13T00:21:47.305Z",
+  "lastUpdated": "2026-06-13T04:09:11.765Z",
   "featured": {
-    "match": "FhQZki50H-8",
-    "highlight": "FhQZki50H-8",
-    "interview": "kO6h6TKhBYQ"
+    "match": "GRkc4ml2B_w",
+    "highlight": "GRkc4ml2B_w",
+    "interview": "OThEgLcLAT0"
   },
   "videos": [
     {
-      "title": "Mexico vs South Africa | FIFA World Cup 2026 Highlights - YouTube",
-      "videoId": "FhQZki50H-8",
-      "channel": "Web Search",
+      "title": "WATCH LIVE | USA v Paraguay | Group Stage D | FIFA World Cup 2026™",
+      "videoId": "GRkc4ml2B_w",
+      "channel": "FIFA",
       "publishedAt": "2026-06-13",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "South Africa"
+        "USA",
+        "Paraguay"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FhQZki50H-8/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/GRkc4ml2B_w/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Mexico vs South Africa Highlights | 2026 FIFA World Cup™",
-      "videoId": "cQZbK8Pc1GY",
-      "channel": "Web Search",
+      "title": "Australia On Playing Turkiye |  Tony Popović & Aiden O'Neill Take Questions",
+      "videoId": "PTHX3mkehQc",
+      "channel": "FIFA",
       "publishedAt": "2026-06-13",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "South Africa"
+        "Australia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/cQZbK8Pc1GY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa",
-      "source": "match-search"
-    },
-    {
-      "title": "Morocco Train Before Brazil",
-      "videoId": "sct5E72I0Qk",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/sct5E72I0Qk/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/PTHX3mkehQc/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Post-Match Press Conference: Sergej Barbarez On 1-1 With Canada (12 June)",
-      "videoId": "ujLaHanH9ZM",
+      "title": "Haiti Train Before Scotland",
+      "videoId": "ld_Ce80fku0",
       "channel": "FIFA",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [
-        "Canada"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ujLaHanH9ZM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Qatar Train Before Switzerland",
-      "videoId": "_T2suN0yMf0",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [
-        "Switzerland",
-        "Qatar"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_T2suN0yMf0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Switzerland Train Before Qatar",
-      "videoId": "FdqppXwzn5s",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [
-        "Switzerland",
-        "Qatar"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FdqppXwzn5s/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Post-Match Press Conference: Canada's Jess Marsch On 1-1 With Bosnia and Herzegovina",
-      "videoId": "Jwu5A87EbIc",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [
-        "Canada",
-        "Bosnia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Jwu5A87EbIc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Brazil On Playing Morocco | Carlo Ancelotti Takes Questions",
-      "videoId": "DlG2GLp5VwU",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/DlG2GLp5VwU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Morocco On Playing Brazil |  Mohamed Ouahbi & Achraf Hakimi Take Questions",
-      "videoId": "MAsVbiZaHRo",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/MAsVbiZaHRo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Highlights | Mexico 2-0 South Africa | FIFA World Cup 2026™",
-      "videoId": "PmevGCkUtM8",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [
-        "Mexico",
-        "South Africa"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PmevGCkUtM8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Brad Friedel SAVES The USA (Twice) #shorts #usa #worldcup",
-      "videoId": "91pFt3VoVyI",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [
-        "USA"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/91pFt3VoVyI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Michael Bublé performs Bring It On Home to Me at FIFA World Cup 2026 Opening Match in Canada!",
-      "videoId": "xZD-azMLSp4",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [
-        "Canada"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xZD-azMLSp4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Nora Fatehi, Vegedream and Sanjoy perform Siir Siir at FIFA World Cup 2026 Opening Match in Canada!",
-      "videoId": "9CpVYJQOsOc",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [
-        "Canada"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/9CpVYJQOsOc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Jessie Reyez and Elyanna perform Illuminate at FIFA World Cup 2026 Opening Match in Canada!",
-      "videoId": "ez8m_NReoLs",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [
-        "Canada"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ez8m_NReoLs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Scotland On Playing Haiti | Steve Clarke Takes Questions",
-      "videoId": "MWJ5xT69vK0",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-12",
+      "publishedAt": "2026-06-13",
       "category": "Highlights",
       "team": [
         "Scotland",
@@ -253,30 +51,16 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/MWJ5xT69vK0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/ld_Ce80fku0/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "A Father's Pride: Gervane Kastaneer | Letters That Unite | FIFA World Cup 2026",
-      "videoId": "ud2uimPteVM",
+      "title": "Brazil vs Morocco | Match Preview | Group C | FIFA World Cup 2026™",
+      "videoId": "fDg6ERZrpR0",
       "channel": "FIFA",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ud2uimPteVM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Brazil Train Before Morocco",
-      "videoId": "QkVSyGLtf6Q",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-12",
+      "publishedAt": "2026-06-13",
       "category": "Highlights",
       "team": [
         "Brazil",
@@ -284,7 +68,251 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/QkVSyGLtf6Q/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/fDg6ERZrpR0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Lila Downs performs One Heartbeat (Spoken Word) at the Opening Ceremony of FIFA World Cup 2026",
+      "videoId": "sv_MLgYWloE",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/sv_MLgYWloE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "J Balvin and Ryan Castro perform a medley of hits at the FIFA World Cup 2026 Opening Ceremony",
+      "videoId": "Y7N-SgC6dB8",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Y7N-SgC6dB8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Maná performs Oye Mi Amor at the Opening Ceremony of FIFA World Cup 2026 in Mexico City",
+      "videoId": "iSb7L8mkgfw",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/iSb7L8mkgfw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Los Ángeles Azules & Belinda perform Por Ella at the Opening Ceremony of FIFA World Cup 2026",
+      "videoId": "aaZr14-btyE",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/aaZr14-btyE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Alessia Cara performs Wild Things and Here at the Opening Ceremony of FIFA World Cup 2026 in Toronto",
+      "videoId": "UAUi2jnCQIE",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/UAUi2jnCQIE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Katy Perry performs Wonder at the Opening Ceremony of FIFA World Cup 2026 in Los Angeles",
+      "videoId": "fhFuPYzOjPA",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fhFuPYzOjPA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "LISA, Anitta and Rema perform Goals at the Opening Ceremony of FIFA World Cup 2026 in Los Angeles",
+      "videoId": "mSgfvdBlysI",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/mSgfvdBlysI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Future and Tyla perform Game Time at the Opening Ceremony of FIFA World Cup 2026 in Los Angeles",
+      "videoId": "KO5TPuP8v3o",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/KO5TPuP8v3o/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Qatar On Playing Switzerland | Julen Lopetegui & Hassan Alhaydos Take Questions",
+      "videoId": "EmlJADggl5U",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [
+        "Switzerland",
+        "Qatar"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/EmlJADggl5U/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Canada 🆚 Bosnia and Herzegovina #FIFAWorldCupOnYT #shorts #worldcup",
+      "videoId": "cpudKOx3Zig",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [
+        "Canada",
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cpudKOx3Zig/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Cyle Larin's Goal | Canada 1-1 Bosnia and Herzegovina | FIFA World Cup 2026™",
+      "videoId": "bSKM39MmRNM",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [
+        "Canada",
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/bSKM39MmRNM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "United States vs. Paraguay REACTION 🔥 How far can USMNT go in the World Cup? | ESPN FC",
+      "videoId": "OThEgLcLAT0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-13",
+      "category": "Viral",
+      "team": [
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/OThEgLcLAT0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "‘This is a special group’ 🇺🇸 former USMNT star DaMarcus Beasley on 2026 World Cup squad | ESPN FC",
+      "videoId": "GQkrs79Iuyk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-13",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/GQkrs79Iuyk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "REACTION to Canada’s draw with Bosnia and Herzegovina in 2026 World Cup | Futbol Americas",
+      "videoId": "9NKRdsFsZsg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-12",
+      "category": "Viral",
+      "team": [
+        "Canada",
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/9NKRdsFsZsg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "USMNT vs. Paraguay PREVIEW 👀 Can Pulisic carry the United States to a win? | Futbol Americas",
+      "videoId": "rAn0YByJvdM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-12",
+      "category": "Highlights",
+      "team": [
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/rAn0YByJvdM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "‘They have to perform’ 😤 Geoff Cameron and Brek Shea preview United States vs. Paraguay | ESPN FC",
+      "videoId": "KnRycWmMg1c",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-12",
+      "category": "Highlights",
+      "team": [
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/KnRycWmMg1c/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
@@ -435,76 +463,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/kMDDTqpGyVE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "How far will the USMNT go in the World Cup? ��",
-      "videoId": "90NcE4JujOo",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/90NcE4JujOo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Edin Dzeko didn't make the list?!",
-      "videoId": "n0OhwyWjXEE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/n0OhwyWjXEE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Edin Dzeko DOES NOT make Nedum Onuoha’s ALL-TIME Man City XI | ESPN FC",
-      "videoId": "jjMbr9SDjns",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/jjMbr9SDjns/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Bernardo Silva is exactly what Real Madrid need 🙏",
-      "videoId": "54L69jdJ-C0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/54L69jdJ-C0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "USMNT TACTICS BOARD: Where the concerns may be… | ESPN FC",
-      "videoId": "AZPXqSXfdDs",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/AZPXqSXfdDs/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
