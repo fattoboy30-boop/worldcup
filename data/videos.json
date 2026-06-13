@@ -1,28 +1,60 @@
 {
-  "lastUpdated": "2026-06-13T21:15:48.981Z",
+  "lastUpdated": "2026-06-13T22:07:33.629Z",
   "featured": {
-    "match": "FhQZki50H-8",
-    "highlight": "FhQZki50H-8",
+    "match": "L-8ZEK1RL-o",
+    "highlight": "L-8ZEK1RL-o",
     "interview": "pJ6Tp6o83AQ"
   },
   "videos": [
     {
-      "title": "Mexico vs South Africa | FIFA World Cup 2026 Highlights - YouTube",
-      "videoId": "FhQZki50H-8",
-      "channel": "Web Search",
+      "title": "Curacao Train Before Their First Ever FIFA World Cup Game Against Germany",
+      "videoId": "L-8ZEK1RL-o",
+      "channel": "FIFA",
       "publishedAt": "2026-06-13",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "South Africa"
+        "Germany"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FhQZki50H-8/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/L-8ZEK1RL-o/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Netherlands Train Before Japan",
+      "videoId": "AdbH1cU4onI",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/AdbH1cU4onI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Highlights | Canada 1-1 Bosnia and Herzegovina | FIFA World Cup 2026™",
+      "videoId": "w-_rY5morQY",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [
+        "Canada",
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/w-_rY5morQY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
     },
     {
       "title": "Germany Train Before Curacao",
@@ -214,55 +246,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/0RRIODfdcWg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Team Feature: Japan | Coach Moriyasu Dares To Dream Of A Japan World Cup Triumph",
-      "videoId": "SC2q-qTBzGs",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "Japan"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/SC2q-qTBzGs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Post-Match Interviews: USA 4-1 Paraguay",
-      "videoId": "KcMMQhmUapw",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "USA",
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/KcMMQhmUapw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Team Feature: Germany | Manager Julian Nagelsmann On Big Expectations Ahead Of The 2026 World Cup",
-      "videoId": "4j922i4VyBs",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/4j922i4VyBs/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
