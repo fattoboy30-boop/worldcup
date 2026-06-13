@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-06-13T14:07:49.246Z",
+  "lastUpdated": "2026-06-13T16:16:27.526Z",
   "featured": {
-    "match": "Isc_Bp3p0eg",
-    "highlight": "Isc_Bp3p0eg",
-    "interview": "OThEgLcLAT0"
+    "match": "VVid_Tmr-hA",
+    "highlight": "VVid_Tmr-hA",
+    "interview": "VVid_Tmr-hA"
   },
   "videos": [
+    {
+      "title": "Match Preview: Cote d'Ivoire vs Ecuador In The City Of Brotherly Love",
+      "videoId": "VVid_Tmr-hA",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/VVid_Tmr-hA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
     {
       "title": "Match Preview: Netherlands vs Japan",
       "videoId": "Isc_Bp3p0eg",
@@ -231,15 +247,110 @@
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Team Feature: Curacao | Top Players Speak of Their Love For The Beautiful Island Nation",
-      "videoId": "fytUUrPlses",
-      "channel": "FIFA",
+      "title": "Brazil and Scotland fans singing together in Times Square ❤️ (via marcus_viniciosluz/IG)",
+      "videoId": "fiT0VE6HfS4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Scotland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fiT0VE6HfS4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "'The AMERICAN DREAM START right there!' 🇺🇸 - Geoff Cameron on the USMNT's win | SportsCenter",
+      "videoId": "9LpLrMgWv2k",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-13",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fytUUrPlses/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/9LpLrMgWv2k/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Paul Pogba says Kylian Mbappé is the 'best striker of his generation' 😮",
+      "videoId": "QAxWA3Tp8hQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QAxWA3Tp8hQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Repping Scotland this morning ahead of their return to the World Cup ⚽️",
+      "videoId": "Wobvgs43Edo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [
+        "Scotland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Wobvgs43Edo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Geoff Cameron is impressed with the USMNT's resiliency 👏",
+      "videoId": "7dA0eK-k4N0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7dA0eK-k4N0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Brazil vs. Morocco PREVIEW 🔥 Shaka Hislop WARNS Brazil fans to CALM DOWN 😮 | ESPN FC",
+      "videoId": "cKz00fB-ybY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cKz00fB-ybY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Previewing Haiti vs. Scotland in Group C stage of the FIFA World Cup ⚽ | ESPN FC",
+      "videoId": "VF9t1o4q5pU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [
+        "Scotland",
+        "Haiti"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/VF9t1o4q5pU/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
@@ -363,118 +474,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/BEzn4NUuXVU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Brazil vs. Morocco PREVIEW 🍿 2026 World Cup | ESPN FC",
-      "videoId": "WEd0UI9ML3g",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/WEd0UI9ML3g/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Herculez Gomez on USMNT's 4-1 win over Paraguay in their first 2026 World Cup match ⚽️",
-      "videoId": "HDzFfytJpB4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/HDzFfytJpB4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "United States vs. Paraguay REACTION 🔥 How far can USMNT go in the World Cup? | ESPN FC",
-      "videoId": "OThEgLcLAT0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-13",
-      "category": "Viral",
-      "team": [
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/OThEgLcLAT0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "‘This is a special group’ 🇺🇸 former USMNT star DaMarcus Beasley on 2026 World Cup squad | ESPN FC",
-      "videoId": "GQkrs79Iuyk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-13",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/GQkrs79Iuyk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "REACTION to Canada’s draw with Bosnia and Herzegovina in 2026 World Cup | Futbol Americas",
-      "videoId": "9NKRdsFsZsg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-12",
-      "category": "Viral",
-      "team": [
-        "Canada",
-        "Bosnia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/9NKRdsFsZsg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "USMNT vs. Paraguay PREVIEW 👀 Can Pulisic carry the United States to a win? | Futbol Americas",
-      "videoId": "rAn0YByJvdM",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/rAn0YByJvdM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "‘They have to perform’ 😤 Geoff Cameron and Brek Shea preview United States vs. Paraguay | ESPN FC",
-      "videoId": "KnRycWmMg1c",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/KnRycWmMg1c/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
