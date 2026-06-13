@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-13T18:11:23.073Z",
+  "lastUpdated": "2026-06-13T19:54:55.016Z",
   "featured": {
-    "match": "yEUZrMSB7lI",
-    "highlight": "yEUZrMSB7lI",
+    "match": "bHDkDeiEAQM",
+    "highlight": "cQZbK8Pc1GY",
     "interview": "pJ6Tp6o83AQ"
   },
   "videos": [
+    {
+      "title": "Mexico vs South Africa | FIFA World Cup 2026 Full Match Highlights ...",
+      "videoId": "cQZbK8Pc1GY",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-13",
+      "category": "Full Match",
+      "team": [
+        "Mexico",
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cQZbK8Pc1GY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa",
+      "source": "match-search"
+    },
+    {
+      "title": "Mexico vs. South Africa Full Highlights | FIFA World Cup 2026",
+      "videoId": "bHDkDeiEAQM",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/bHDkDeiEAQM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa",
+      "source": "match-search"
+    },
     {
       "title": "Japan Train Before Netherlands",
       "videoId": "yEUZrMSB7lI",
