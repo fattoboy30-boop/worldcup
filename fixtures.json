@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T18:06:59.101Z",
+  "lastUpdated": "2026-06-13T19:45:09.917Z",
   "fixtures": [
     {
       "id": 760415,
@@ -111,14 +111,14 @@
       "homeScore": 0,
       "awayTeam": "Switzerland",
       "awayCode": "ch",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "Levi's Stadium",
       "city": "Santa Clara, California",
-      "status": "timed",
+      "status": "in_play",
       "group": "B",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "40'",
       "halfTime": [
         null,
         null

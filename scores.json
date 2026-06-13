@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-13T18:06:59.097Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-06-13T19:45:09.914Z",
+  "liveMatches": [
+    {
+      "id": 760420,
+      "date": "2026-06-13",
+      "time": "19:00",
+      "utcDate": "2026-06-13T19:00Z",
+      "homeTeam": "Qatar",
+      "homeCode": "qa",
+      "homeScore": 0,
+      "awayTeam": "Switzerland",
+      "awayCode": "ch",
+      "awayScore": 1,
+      "venue": "Levi's Stadium",
+      "city": "Santa Clara, California",
+      "status": "in_play",
+      "group": "B",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "40'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -96,29 +120,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760420,
-      "date": "2026-06-13",
-      "time": "19:00",
-      "utcDate": "2026-06-13T19:00Z",
-      "homeTeam": "Qatar",
-      "homeCode": "qa",
-      "homeScore": 0,
-      "awayTeam": "Switzerland",
-      "awayCode": "ch",
-      "awayScore": 0,
-      "venue": "Levi's Stadium",
-      "city": "Santa Clara, California",
-      "status": "timed",
-      "group": "B",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760419,
       "date": "2026-06-13",
