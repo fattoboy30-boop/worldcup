@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T22:00:53.816Z",
+  "lastUpdated": "2026-06-13T22:36:45.275Z",
   "fixtures": [
     {
       "id": 760415,
@@ -136,14 +136,14 @@
       "homeScore": 0,
       "awayTeam": "Morocco",
       "awayCode": "ma",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "MetLife Stadium",
       "city": "East Rutherford, New Jersey",
-      "status": "timed",
+      "status": "in_play",
       "group": "C",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "32'",
       "halfTime": [
         null,
         null

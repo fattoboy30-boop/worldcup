@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-13T22:00:53.813Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-06-13T22:36:45.272Z",
+  "liveMatches": [
+    {
+      "id": 760419,
+      "date": "2026-06-13",
+      "time": "22:00",
+      "utcDate": "2026-06-13T22:00Z",
+      "homeTeam": "Brazil",
+      "homeCode": "br",
+      "homeScore": 0,
+      "awayTeam": "Morocco",
+      "awayCode": "ma",
+      "awayScore": 1,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford, New Jersey",
+      "status": "in_play",
+      "group": "C",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "32'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -119,29 +143,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760419,
-      "date": "2026-06-13",
-      "time": "22:00",
-      "utcDate": "2026-06-13T22:00Z",
-      "homeTeam": "Brazil",
-      "homeCode": "br",
-      "homeScore": 0,
-      "awayTeam": "Morocco",
-      "awayCode": "ma",
-      "awayScore": 0,
-      "venue": "MetLife Stadium",
-      "city": "East Rutherford, New Jersey",
-      "status": "timed",
-      "group": "C",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760418,
       "date": "2026-06-14",

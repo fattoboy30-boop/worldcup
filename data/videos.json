@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-13T22:07:33.629Z",
+  "lastUpdated": "2026-06-13T22:37:12.908Z",
   "featured": {
-    "match": "L-8ZEK1RL-o",
-    "highlight": "L-8ZEK1RL-o",
+    "match": "FhQZki50H-8",
+    "highlight": "cQZbK8Pc1GY",
     "interview": "pJ6Tp6o83AQ"
   },
   "videos": [
+    {
+      "title": "Mexico vs South Africa | FIFA World Cup 2026 Highlights - YouTube",
+      "videoId": "FhQZki50H-8",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/FhQZki50H-8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa",
+      "source": "match-search"
+    },
+    {
+      "title": "Mexico vs South Africa | FIFA World Cup 2026 Full Match Highlights ...",
+      "videoId": "cQZbK8Pc1GY",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-13",
+      "category": "Full Match",
+      "team": [
+        "Mexico",
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cQZbK8Pc1GY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa",
+      "source": "match-search"
+    },
     {
       "title": "Curacao Train Before Their First Ever FIFA World Cup Game Against Germany",
       "videoId": "L-8ZEK1RL-o",
