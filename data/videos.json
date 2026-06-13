@@ -1,46 +1,89 @@
 {
-  "lastUpdated": "2026-06-13T11:02:44.619Z",
+  "lastUpdated": "2026-06-13T11:18:07.507Z",
   "featured": {
-    "match": "bHDkDeiEAQM",
-    "highlight": "bHDkDeiEAQM",
+    "match": "4j922i4VyBs",
+    "highlight": "4j922i4VyBs",
     "interview": "OThEgLcLAT0"
   },
   "videos": [
     {
-      "title": "Mexico vs. South Africa Full Highlights | FIFA World Cup 2026",
-      "videoId": "bHDkDeiEAQM",
-      "channel": "Web Search",
+      "title": "Team Feature: Germany | Manager Julian Nagelsmann On Big Expectations Ahead Of The 2026 World Cup",
+      "videoId": "4j922i4VyBs",
+      "channel": "FIFA",
       "publishedAt": "2026-06-13",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "South Africa"
+        "Germany"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/bHDkDeiEAQM/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/4j922i4VyBs/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Mexico vs South Africa Highlights | 2026 FIFA World Cup™",
-      "videoId": "cQZbK8Pc1GY",
-      "channel": "Web Search",
+      "title": "Switzerland On Playing Qatar | Murat Yakin And Granit Xhaka Take Questions From the Press",
+      "videoId": "FUuKKXn-cfo",
+      "channel": "FIFA",
       "publishedAt": "2026-06-13",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "South Africa"
+        "Switzerland",
+        "Qatar"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/cQZbK8Pc1GY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/FUuKKXn-cfo/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "June 12 Matchday Recap | #FIFAWorldCup @aramco",
+      "videoId": "wLWUVsBZff8",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/wLWUVsBZff8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Australia Train Before Turkiye",
+      "videoId": "ORkmHrgEs0M",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [
+        "Australia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ORkmHrgEs0M/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Turkiye On Playing Australia | Head Coach Vincenzo Montella Takes Questions",
+      "videoId": "xd3r0oURgYM",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [
+        "Australia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xd3r0oURgYM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
     },
     {
       "title": "Team Feature: Curacao | Top Players Speak of Their Love For The Beautiful Island Nation",
@@ -199,87 +242,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/6k18EJY8zIc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "WATCH LIVE | USA v Paraguay | Group Stage D | FIFA World Cup 2026™",
-      "videoId": "GRkc4ml2B_w",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "USA",
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/GRkc4ml2B_w/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Australia On Playing Turkiye |  Tony Popović & Aiden O'Neill Take Questions",
-      "videoId": "PTHX3mkehQc",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "Australia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PTHX3mkehQc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Haiti Train Before Scotland",
-      "videoId": "ld_Ce80fku0",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "Scotland",
-        "Haiti"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ld_Ce80fku0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Brazil vs Morocco | Match Preview | Group C | FIFA World Cup 2026™",
-      "videoId": "fDg6ERZrpR0",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fDg6ERZrpR0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Lila Downs performs One Heartbeat (Spoken Word) at the Opening Ceremony of FIFA World Cup 2026",
-      "videoId": "sv_MLgYWloE",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/sv_MLgYWloE/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
