@@ -1,46 +1,171 @@
 {
-  "lastUpdated": "2026-06-13T05:01:51.954Z",
+  "lastUpdated": "2026-06-13T08:23:36.038Z",
   "featured": {
-    "match": "bHDkDeiEAQM",
-    "highlight": "bHDkDeiEAQM",
+    "match": "fytUUrPlses",
+    "highlight": "fytUUrPlses",
     "interview": "OThEgLcLAT0"
   },
   "videos": [
     {
-      "title": "Mexico vs. South Africa Full Highlights | FIFA World Cup 2026",
-      "videoId": "bHDkDeiEAQM",
-      "channel": "Web Search",
+      "title": "Team Feature: Curacao | Top Players Speak of Their Love For The Beautiful Island Nation",
+      "videoId": "fytUUrPlses",
+      "channel": "FIFA",
       "publishedAt": "2026-06-13",
       "category": "Highlights",
-      "team": [
-        "Mexico",
-        "South Africa"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/bHDkDeiEAQM/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/fytUUrPlses/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Mexico vs South Africa Highlights | 2026 FIFA World Cup™",
-      "videoId": "cQZbK8Pc1GY",
-      "channel": "Web Search",
+      "title": "Post-Match Press Conference: Paraguay's Gustavo Alfaro On 4-1 Loss To USA",
+      "videoId": "O0k8bGYSLB0",
+      "channel": "FIFA",
       "publishedAt": "2026-06-13",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "South Africa"
+        "USA",
+        "Paraguay"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/cQZbK8Pc1GY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/O0k8bGYSLB0/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Post-Match Press Conference: USA's Mauricio Pochettino On 4-1 Win Over Paraguay",
+      "videoId": "ERkmCXi-qpo",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [
+        "USA",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ERkmCXi-qpo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Giovanni Reyna's Goal | USA 4-1 Paraguay | FIFA World Cup 2026™",
+      "videoId": "GE6FKlBFIIY",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [
+        "USA",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/GE6FKlBFIIY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "USA 🆚 Paraguay #FIFAWorldCupOnYT",
+      "videoId": "81uDtGHQIlM",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [
+        "USA",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/81uDtGHQIlM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Florian Balogun's Goal | USA 4-1 Paraguay | FIFA World Cup 2026™",
+      "videoId": "93tcr1AtXDY",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [
+        "USA",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/93tcr1AtXDY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Trivela magic from Gio Reyna! 🪄#FIFAWorldCupOnYT",
+      "videoId": "pegqoZswVT0",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/pegqoZswVT0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Turkiye Train Before Australia",
+      "videoId": "3Eem1UrJjc8",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [
+        "Australia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/3Eem1UrJjc8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Balogun bags a FIFA World Cup brace for USA! #shorts #fifaworldcuponyt #usa",
+      "videoId": "LBxuZvreM2c",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/LBxuZvreM2c/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Highlights | Korea Republic 2-1 Czechia | FIFA World Cup 2026™",
+      "videoId": "6k18EJY8zIc",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [
+        "Czechia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6k18EJY8zIc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
     },
     {
       "title": "WATCH LIVE | USA v Paraguay | Group Stage D | FIFA World Cup 2026™",
@@ -124,152 +249,80 @@
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "J Balvin and Ryan Castro perform a medley of hits at the FIFA World Cup 2026 Opening Ceremony",
-      "videoId": "Y7N-SgC6dB8",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Y7N-SgC6dB8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Maná performs Oye Mi Amor at the Opening Ceremony of FIFA World Cup 2026 in Mexico City",
-      "videoId": "iSb7L8mkgfw",
-      "channel": "FIFA",
+      "title": "What’s does USMNT’s DOMINANT win over Paraguay mean for their World Cup run? 👀 | ESPN FC",
+      "videoId": "Vf_pUABOLDg",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-13",
       "category": "Highlights",
       "team": [
-        "Mexico"
+        "Paraguay"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/iSb7L8mkgfw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Vf_pUABOLDg/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Los Ángeles Azules & Belinda perform Por Ella at the Opening Ceremony of FIFA World Cup 2026",
-      "videoId": "aaZr14-btyE",
-      "channel": "FIFA",
+      "title": "Was this USMNT's greatest win ever in the FIFA World Cup? | ESPN FC Extra Time",
+      "videoId": "0TCdNuUJHck",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-13",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/aaZr14-btyE/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/0TCdNuUJHck/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Alessia Cara performs Wild Things and Here at the Opening Ceremony of FIFA World Cup 2026 in Toronto",
-      "videoId": "UAUi2jnCQIE",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/UAUi2jnCQIE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Katy Perry performs Wonder at the Opening Ceremony of FIFA World Cup 2026 in Los Angeles",
-      "videoId": "fhFuPYzOjPA",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fhFuPYzOjPA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "LISA, Anitta and Rema perform Goals at the Opening Ceremony of FIFA World Cup 2026 in Los Angeles",
-      "videoId": "mSgfvdBlysI",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/mSgfvdBlysI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Future and Tyla perform Game Time at the Opening Ceremony of FIFA World Cup 2026 in Los Angeles",
-      "videoId": "KO5TPuP8v3o",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/KO5TPuP8v3o/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Qatar On Playing Switzerland | Julen Lopetegui & Hassan Alhaydos Take Questions",
-      "videoId": "EmlJADggl5U",
-      "channel": "FIFA",
+      "title": "DOMINATION!🗣️ Kasey Keller dubs USA's win BEST EVER + Geoff Cameron & Brek Shea react | SportsCenter",
+      "videoId": "BEzn4NUuXVU",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-13",
       "category": "Highlights",
       "team": [
-        "Switzerland",
-        "Qatar"
+        "USA"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/EmlJADggl5U/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/BEzn4NUuXVU/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Canada 🆚 Bosnia and Herzegovina #FIFAWorldCupOnYT #shorts #worldcup",
-      "videoId": "cpudKOx3Zig",
-      "channel": "FIFA",
+      "title": "Brazil vs. Morocco PREVIEW 🍿 2026 World Cup | ESPN FC",
+      "videoId": "WEd0UI9ML3g",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-13",
       "category": "Highlights",
       "team": [
-        "Canada",
-        "Bosnia"
+        "Brazil",
+        "Morocco"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/cpudKOx3Zig/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/WEd0UI9ML3g/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Cyle Larin's Goal | Canada 1-1 Bosnia and Herzegovina | FIFA World Cup 2026™",
-      "videoId": "bSKM39MmRNM",
-      "channel": "FIFA",
+      "title": "Herculez Gomez on USMNT's 4-1 win over Paraguay in their first 2026 World Cup match ⚽️",
+      "videoId": "HDzFfytJpB4",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-13",
       "category": "Highlights",
       "team": [
-        "Canada",
-        "Bosnia"
+        "Paraguay"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/bSKM39MmRNM/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/HDzFfytJpB4/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
@@ -425,80 +478,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/fXbD5A0kj-w/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Celine Dept finally met Ronaldo ❤️❤️ (via celinedept/TT)",
-      "videoId": "omHnhjpZu60",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/omHnhjpZu60/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Argentina vs. Iceland EXTENDED HIGHLIGHTS [June 9, 2026] | ESPN FC",
-      "videoId": "bBUERgh-PH8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/bBUERgh-PH8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Trinity Rodman, Sophia Wilson and Mallory Swanson during USWNT camp 🤩 (via @trinity.rodman/TT)",
-      "videoId": "4mw9t6od5zM",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/4mw9t6od5zM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "👏👏👏",
-      "videoId": "P2w9PdMwQIs",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/P2w9PdMwQIs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Roger Bennett says USMNT have a chance to prove themselves vs. Paraguay | First Take",
-      "videoId": "kMDDTqpGyVE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-12",
-      "category": "Highlights",
-      "team": [
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/kMDDTqpGyVE/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
