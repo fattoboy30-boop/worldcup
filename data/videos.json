@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-13T11:18:07.507Z",
+  "lastUpdated": "2026-06-13T12:58:43.651Z",
   "featured": {
-    "match": "4j922i4VyBs",
-    "highlight": "4j922i4VyBs",
+    "match": "FhQZki50H-8",
+    "highlight": "FhQZki50H-8",
     "interview": "OThEgLcLAT0"
   },
   "videos": [
+    {
+      "title": "Mexico vs South Africa | FIFA World Cup 2026 Highlights - YouTube",
+      "videoId": "FhQZki50H-8",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/FhQZki50H-8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa",
+      "source": "match-search"
+    },
+    {
+      "title": "Mexico vs. South Africa Full Highlights | FIFA World Cup 2026",
+      "videoId": "bHDkDeiEAQM",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/bHDkDeiEAQM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa",
+      "source": "match-search"
+    },
     {
       "title": "Team Feature: Germany | Manager Julian Nagelsmann On Big Expectations Ahead Of The 2026 World Cup",
       "videoId": "4j922i4VyBs",
