@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-12T23:21:37.273Z",
+  "lastUpdated": "2026-06-13T00:21:47.305Z",
   "featured": {
-    "match": "sct5E72I0Qk",
-    "highlight": "sct5E72I0Qk",
+    "match": "FhQZki50H-8",
+    "highlight": "FhQZki50H-8",
     "interview": "kO6h6TKhBYQ"
   },
   "videos": [
+    {
+      "title": "Mexico vs South Africa | FIFA World Cup 2026 Highlights - YouTube",
+      "videoId": "FhQZki50H-8",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/FhQZki50H-8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa",
+      "source": "match-search"
+    },
+    {
+      "title": "Mexico vs South Africa Highlights | 2026 FIFA World Cup™",
+      "videoId": "cQZbK8Pc1GY",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cQZbK8Pc1GY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa",
+      "source": "match-search"
+    },
     {
       "title": "Morocco Train Before Brazil",
       "videoId": "sct5E72I0Qk",
