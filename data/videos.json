@@ -1,46 +1,60 @@
 {
-  "lastUpdated": "2026-06-13T18:07:24.727Z",
+  "lastUpdated": "2026-06-13T18:11:23.073Z",
   "featured": {
-    "match": "FhQZki50H-8",
-    "highlight": "cQZbK8Pc1GY",
-    "interview": "FhQZki50H-8"
+    "match": "yEUZrMSB7lI",
+    "highlight": "yEUZrMSB7lI",
+    "interview": "pJ6Tp6o83AQ"
   },
   "videos": [
     {
-      "title": "Mexico vs South Africa | FIFA World Cup 2026 Highlights - YouTube",
-      "videoId": "FhQZki50H-8",
-      "channel": "Web Search",
+      "title": "Japan Train Before Netherlands",
+      "videoId": "yEUZrMSB7lI",
+      "channel": "FIFA",
       "publishedAt": "2026-06-13",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "South Africa"
+        "Netherlands",
+        "Japan"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FhQZki50H-8/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/yEUZrMSB7lI/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Mexico vs South Africa | FIFA World Cup 2026 Full Match Highlights ...",
-      "videoId": "cQZbK8Pc1GY",
-      "channel": "Web Search",
+      "title": "Alt Cast Highlights: USA v Paraguay | FIFA World Cup 2026",
+      "videoId": "Rq5-RklkCBA",
+      "channel": "FIFA",
       "publishedAt": "2026-06-13",
-      "category": "Full Match",
+      "category": "Highlights",
       "team": [
-        "Mexico",
-        "South Africa"
+        "USA",
+        "Paraguay"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/cQZbK8Pc1GY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Rq5-RklkCBA/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Training & Dodgeball: Fun & Focus Ahead Of Ecuador's Opening World Cup Game With Cote d'Ivoire",
+      "videoId": "pJ6Tp6o83AQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-13",
+      "category": "Viral",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/pJ6Tp6o83AQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
     },
     {
       "title": "Match Preview: Cote d'Ivoire vs Ecuador In The City Of Brotherly Love",
@@ -237,47 +251,48 @@
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "June 12 Matchday Recap | #FIFAWorldCup @aramco",
-      "videoId": "wLWUVsBZff8",
-      "channel": "FIFA",
+      "title": "The impact Real Madrid had on signing Kylian Mbappé was astronomical 🌎",
+      "videoId": "q9xY9_llvsU",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-13",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/wLWUVsBZff8/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/q9xY9_llvsU/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Australia Train Before Turkiye",
-      "videoId": "ORkmHrgEs0M",
-      "channel": "FIFA",
+      "title": "Spain, just a few days away from their debut at the 2026 World Cup 🇪🇸⚽ (via @lluisbou7/IG)",
+      "videoId": "4jBJXyo0CUk",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-13",
       "category": "Highlights",
       "team": [
-        "Australia"
+        "Spain"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ORkmHrgEs0M/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/4jBJXyo0CUk/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Turkiye On Playing Australia | Head Coach Vincenzo Montella Takes Questions",
-      "videoId": "xd3r0oURgYM",
-      "channel": "FIFA",
+      "title": "The Brazilian fans took over Times Square and are already ready for their debut vs. Morocco 🤩🗽🇧🇷",
+      "videoId": "KsFY5hUOhNk",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-13",
       "category": "Highlights",
       "team": [
-        "Australia"
+        "Brazil",
+        "Morocco"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xd3r0oURgYM/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/KsFY5hUOhNk/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
@@ -300,12 +315,14 @@
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "'The AMERICAN DREAM START right there!' 🇺🇸 - Geoff Cameron on the USMNT's win | SportsCenter",
+      "title": "Updates on Christian Pulisic's availability after missing second half vs. Paraguay | SportsCenter",
       "videoId": "9LpLrMgWv2k",
       "channel": "ESPN FC",
       "publishedAt": "2026-06-13",
       "category": "Highlights",
-      "team": [],
+      "team": [
+        "Paraguay"
+      ],
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/9LpLrMgWv2k/mqdefault.jpg",
@@ -464,52 +481,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/B3s0ZD1wXAo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "What’s does USMNT’s DOMINANT win over Paraguay mean for their World Cup run? 👀 | ESPN FC",
-      "videoId": "Vf_pUABOLDg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Vf_pUABOLDg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Was this USMNT's greatest win ever in the FIFA World Cup? | ESPN FC Extra Time",
-      "videoId": "0TCdNuUJHck",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/0TCdNuUJHck/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "DOMINATION!🗣️ Kasey Keller dubs USA's win BEST EVER + Geoff Cameron & Brek Shea react | SportsCenter",
-      "videoId": "BEzn4NUuXVU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "USA"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/BEzn4NUuXVU/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
