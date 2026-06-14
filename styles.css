@@ -632,7 +632,7 @@ a {
 
 .live-stream-embed {
     width: 100%;
-    max-width: 800px;
+    max-width: 1200px;
     margin: 0 auto 1.5rem;
     border-radius: 12px;
     overflow: hidden;
@@ -642,7 +642,7 @@ a {
 
 .live-stream-embed iframe {
     width: 100%;
-    height: 450px;
+    height: 600px;
     border: none;
     display: block;
 }
@@ -2052,7 +2052,7 @@ a {
     }
     
     .live-stream-embed iframe {
-        height: 250px;
+        height: 400px;
     }
 
     .hero-cta .btn {
@@ -3429,7 +3429,7 @@ a {
     }
     
     .live-stream-embed iframe {
-        height: 200px;
+        height: 300px;
     }
     
     .btn {
@@ -4654,5 +4654,32 @@ a {
 
     .players-carousel {
         scroll-behavior: auto;
+    }
+}
+
+/* ===== Landscape Mobile - Full Screen Stream ===== */
+@media (max-width: 1024px) and (orientation: landscape) {
+    .live-stream-embed {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100vw;
+        height: 100vh;
+        max-width: none;
+        border-radius: 0;
+        border: none;
+        z-index: 9999;
+        margin: 0;
+    }
+    
+    .live-stream-embed iframe {
+        width: 100%;
+        height: 100%;
+    }
+    
+    .hero-content,
+    .navbar,
+    .scroll-indicator {
+        display: none;
     }
 }
