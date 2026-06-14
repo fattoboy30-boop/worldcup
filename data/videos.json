@@ -1,11 +1,31 @@
 {
-  "lastUpdated": "2026-06-14T12:00:16.841Z",
+  "lastUpdated": "2026-06-14T13:05:26.049Z",
   "featured": {
-    "match": "W5SefDBhREQ",
-    "highlight": "W5SefDBhREQ",
+    "match": "9VWzTri0mho",
+    "highlight": "9VWzTri0mho",
     "interview": "fkr-G660_HI"
   },
   "videos": [
+    {
+      "title": "South Korea vs Czechia | Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "9VWzTri0mho",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "South Korea",
+        "Czechia",
+        "Czech",
+        "Korea"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/9VWzTri0mho/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia",
+      "source": "match-search"
+    },
     {
       "title": "Team Feature: Belgium | Playing Next To Your Idols",
       "videoId": "W5SefDBhREQ",
