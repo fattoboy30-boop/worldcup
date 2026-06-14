@@ -278,44 +278,7 @@ function initNavbar() {
 
 // ===== Live Streaming =====
 function initStreaming() {
-    fetch('data/streaming.json')
-        .then(r => r.json())
-        .then(data => {
-            const iframe = document.getElementById('liveStreamFrame');
-            if (iframe && data.url) {
-                iframe.src = data.url;
-            }
-        })
-        .catch(() => {});
-
-    const fullscreenBtn = document.getElementById('fullscreenBtn');
-    const embedContainer = document.querySelector('.live-stream-embed');
-
-    if (fullscreenBtn && embedContainer) {
-        fullscreenBtn.addEventListener('click', () => {
-            if (!document.fullscreenElement && !document.webkitFullscreenElement && !document.mozFullScreenElement) {
-                if (embedContainer.requestFullscreen) {
-                    embedContainer.requestFullscreen();
-                } else if (embedContainer.webkitRequestFullscreen) {
-                    embedContainer.webkitRequestFullscreen();
-                } else if (embedContainer.mozRequestFullScreen) {
-                    embedContainer.mozRequestFullScreen();
-                } else if (embedContainer.msRequestFullscreen) {
-                    embedContainer.msRequestFullscreen();
-                }
-            } else {
-                if (document.exitFullscreen) {
-                    document.exitFullscreen();
-                } else if (document.webkitExitFullscreen) {
-                    document.webkitExitFullscreen();
-                } else if (document.mozCancelFullScreen) {
-                    document.mozCancelFullScreen();
-                } else if (document.msExitFullscreen) {
-                    document.msExitFullscreen();
-                }
-            }
-        });
-    }
+    // Watch Live button links to watch-live.html
 }
 
 // ===== Particles =====
