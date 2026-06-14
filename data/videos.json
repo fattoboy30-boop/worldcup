@@ -1,30 +1,76 @@
 {
-  "lastUpdated": "2026-06-14T18:13:50.927Z",
+  "lastUpdated": "2026-06-14T19:41:45.180Z",
   "featured": {
-    "match": "9VWzTri0mho",
-    "highlight": "9VWzTri0mho",
-    "interview": "0LjetaBGkDY"
+    "match": "C6bqyqbIkOo",
+    "highlight": "C6bqyqbIkOo",
+    "interview": "0_pataEnfUc"
   },
   "videos": [
     {
-      "title": "South Korea vs Czechia | Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "9VWzTri0mho",
-      "channel": "Web Search",
+      "title": "Belgium Train Before Egypt",
+      "videoId": "C6bqyqbIkOo",
+      "channel": "FIFA",
       "publishedAt": "2026-06-14",
       "category": "Highlights",
       "team": [
-        "South Korea",
-        "Czechia",
-        "Czech",
-        "Korea"
+        "Belgium",
+        "Egypt"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/9VWzTri0mho/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/C6bqyqbIkOo/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "South Korea vs Czechia",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "New Zealand Train Before IR Iran",
+      "videoId": "lTIb_9ChBG4",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Iran"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/lTIb_9ChBG4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Egypt Train Before Belgium",
+      "videoId": "YzBf7BAgn3U",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Belgium",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/YzBf7BAgn3U/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Spain Train Before Cabo Verde",
+      "videoId": "-u7QB-AHB9M",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-u7QB-AHB9M/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
     },
     {
       "title": "Team Feature: IR Iran | The Homeless Shepherd Boy Who Shocked The World",
@@ -203,63 +249,33 @@
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Post-Match Press Conference: Australia's Tony Popovic On 2-0 Win Against Turkiye",
-      "videoId": "c6QjXOFs4MM",
-      "channel": "FIFA",
+      "title": "REACTION to Germany’s DOMINANT win vs. Curacao 🍿 How far can they go in the World Cup? | ESPN FC",
+      "videoId": "0_pataEnfUc",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-14",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [
-        "Australia"
+        "Germany"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/c6QjXOFs4MM/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/0_pataEnfUc/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Team Feature: Spain | Pride Of The Nation",
-      "videoId": "nnwDp_0Vz3M",
-      "channel": "FIFA",
+      "title": "Paul Pogba believes France’s 2026 squad is BETTER than his 2018 France squad | ESPN FC",
+      "videoId": "1xR-J3USfKc",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-14",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [
-        "Spain"
+        "France"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/nnwDp_0Vz3M/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "June 13 Matchday Recap | #FIFAWorldCup @aramco",
-      "videoId": "D__h_UmhViQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/D__h_UmhViQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Australia 🆚 Türkiye #FIFAWorldCup",
-      "videoId": "-IVBmnxpxH4",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Australia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-IVBmnxpxH4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/1xR-J3USfKc/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
@@ -469,37 +485,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/1EI2NHDk7QA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Brazil vs. Morocco REACTION 👀 Who will win Group C? | ESPN FC",
-      "videoId": "fkr-G660_HI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-14",
-      "category": "Viral",
-      "team": [
-        "Brazil",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fkr-G660_HI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "She hit the ultimate celly with Ronaldo 😤 (via @celine.dept/IG)",
-      "videoId": "GM8XZDD4rEE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/GM8XZDD4rEE/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
