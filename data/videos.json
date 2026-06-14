@@ -1,100 +1,173 @@
 {
-  "lastUpdated": "2026-06-13T23:47:30.347Z",
+  "lastUpdated": "2026-06-14T00:11:39.502Z",
   "featured": {
-    "match": "bHDkDeiEAQM",
-    "highlight": "cQZbK8Pc1GY",
-    "interview": "pJ6Tp6o83AQ"
+    "match": "ox5tj968UMg",
+    "highlight": "ox5tj968UMg",
+    "interview": "ox5tj968UMg"
   },
   "videos": [
     {
-      "title": "Mexico vs South Africa Highlights | 2026 FIFA World Cup™",
-      "videoId": "bHDkDeiEAQM",
-      "channel": "Web Search",
+      "title": "Cote d'Ivoire On Playing Ecuador | Emerse Fae Takes Questions",
+      "videoId": "ox5tj968UMg",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ox5tj968UMg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Qatar 🆚 Switzerland #FIFAWorldCupOnYT",
+      "videoId": "6PZxsHJRe7o",
+      "channel": "FIFA",
       "publishedAt": "2026-06-13",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "South Africa"
+        "Switzerland",
+        "Qatar"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/bHDkDeiEAQM/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/6PZxsHJRe7o/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "FIFA World Cup: Mexico vs. South Africa extended highlights",
-      "videoId": "zFXtpnyRc6w",
-      "channel": "Web Search",
+      "title": "Japan On Playing Netherlands | Hajime Moriyasu Answers Questions",
+      "videoId": "q9wJ2zXBcJM",
+      "channel": "FIFA",
       "publishedAt": "2026-06-13",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "South Africa"
+        "Netherlands",
+        "Japan"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/zFXtpnyRc6w/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/q9wJ2zXBcJM/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Watch Mexico vs South Africa Extended Highlights | 2026 FIFA World Cup ...",
-      "videoId": "1VQG8lPsJvQ",
-      "channel": "Web Search",
+      "title": "An Equalizer For The Ages! | Qatar 1-1 Switzerland | FIFA World Cup 2026™",
+      "videoId": "aRuSSARxEPM",
+      "channel": "FIFA",
       "publishedAt": "2026-06-13",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "South Africa"
+        "Switzerland",
+        "Qatar"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/1VQG8lPsJvQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/aRuSSARxEPM/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Mexico vs South Africa | FIFA World Cup 2026 Highlights - YouTube",
-      "videoId": "FhQZki50H-8",
-      "channel": "Web Search",
+      "title": "Breel Embolo Goal | Qatar 1-1 Switzerland | FIFA World Cup 2026™",
+      "videoId": "VkFQgoIIli0",
+      "channel": "FIFA",
       "publishedAt": "2026-06-13",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "South Africa"
+        "Switzerland",
+        "Qatar"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FhQZki50H-8/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/VkFQgoIIli0/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Mexico vs South Africa | FIFA World Cup 2026 Full Match Highlights ...",
-      "videoId": "cQZbK8Pc1GY",
-      "channel": "Web Search",
+      "title": "Embolo time! ⌚🇨🇭#FIFAWorldCupOnYT",
+      "videoId": "7b_Nt2f2E7I",
+      "channel": "FIFA",
       "publishedAt": "2026-06-13",
-      "category": "Full Match",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7b_Nt2f2E7I/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "An equalizer for the history books. ⚽🇶🇦#FIFAWorldCupOnYT",
+      "videoId": "6aAkDaGR3oc",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6aAkDaGR3oc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Post-Match Press Conference: Switzerland's Murat Yakin On The 1-1 Draw With Qatar",
+      "videoId": "2MuekeZaNZU",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
       "team": [
-        "Mexico",
-        "South Africa"
+        "Switzerland",
+        "Qatar"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/cQZbK8Pc1GY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/2MuekeZaNZU/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Post-Match Press Conference: Qatar's Julen Lopetegui On The 1-1 Draw With Switzerland",
+      "videoId": "LytMS3CmX-E",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [
+        "Switzerland",
+        "Qatar"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/LytMS3CmX-E/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Post-Match Interviews: Qatar 1-1 Switzerland",
+      "videoId": "xFpZ2gkcZBc",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [
+        "Switzerland",
+        "Qatar"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xFpZ2gkcZBc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
     },
     {
       "title": "Curacao Train Before Their First Ever FIFA World Cup Game Against Germany",
@@ -158,184 +231,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/CWDFsB09wHQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Japan Train Before Netherlands",
-      "videoId": "yEUZrMSB7lI",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "Netherlands",
-        "Japan"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/yEUZrMSB7lI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Alt Cast Highlights: USA v Paraguay | FIFA World Cup 2026",
-      "videoId": "Rq5-RklkCBA",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "USA",
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Rq5-RklkCBA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Training & Dodgeball: Fun & Focus Ahead Of Ecuador's Opening World Cup Game With Cote d'Ivoire",
-      "videoId": "pJ6Tp6o83AQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
-      "category": "Viral",
-      "team": [
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/pJ6Tp6o83AQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Match Preview: Cote d'Ivoire vs Ecuador In The City Of Brotherly Love",
-      "videoId": "VVid_Tmr-hA",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/VVid_Tmr-hA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Match Preview: Netherlands vs Japan",
-      "videoId": "Isc_Bp3p0eg",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "Netherlands",
-        "Japan"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Isc_Bp3p0eg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Team Feature: Cote d'Ivoire | The 2006 Dream Team Star Now Leading His Nation's World Cup Charge",
-      "videoId": "ebWeD0SoH6w",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ebWeD0SoH6w/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Alt Cast Highlights: Canada v Bosnia and Herzegovina | FIFA World Cup 2026",
-      "videoId": "J0xNZnIoEaA",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "Canada",
-        "Bosnia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/J0xNZnIoEaA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Team Feature: Ecuador | Caicedo and Hincapié Determined To Improve On 2022 World Cup Heartbreak",
-      "videoId": "QxLh8DlCM8o",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/QxLh8DlCM8o/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Alt Cast Highlights: Korea Republic v Czechia | FIFA World Cup 2026",
-      "videoId": "gDz0SlBJ9LQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "Czechia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/gDz0SlBJ9LQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Team Feature: Tunisia | Being History Makers The Aim For Tunisian Team",
-      "videoId": "LhVhwFz7S3M",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "Tunisia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/LhVhwFz7S3M/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Team Feature: Sweden | Coach Potter On His Emotional Tie To Sweden",
-      "videoId": "0RRIODfdcWg",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "Sweden"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/0RRIODfdcWg/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
@@ -569,6 +464,23 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/s0QKDDa0GBI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "WATCH LIVE | Brazil v Morocco | Group Stage C | FIFA World Cup 2026™",
+      "videoId": "ycj8sdktKck",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-10",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ycj8sdktKck/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
