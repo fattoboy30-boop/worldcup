@@ -1,50 +1,220 @@
 {
-  "lastUpdated": "2026-06-14T08:20:21.533Z",
+  "lastUpdated": "2026-06-14T09:41:14.597Z",
   "featured": {
-    "match": "XFZbetzKNNI",
-    "highlight": "XFZbetzKNNI",
+    "match": "nnwDp_0Vz3M",
+    "highlight": "nnwDp_0Vz3M",
     "interview": "fkr-G660_HI"
   },
   "videos": [
     {
-      "title": "South Korea vs Czechia Match Highlight | FIFA World Cup 2026™",
-      "videoId": "XFZbetzKNNI",
-      "channel": "Web Search",
+      "title": "Team Feature: Spain | Pride Of The Nation",
+      "videoId": "nnwDp_0Vz3M",
+      "channel": "FIFA",
       "publishedAt": "2026-06-14",
       "category": "Highlights",
       "team": [
-        "South Korea",
-        "Czechia",
-        "Czech",
-        "Korea"
+        "Spain"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/XFZbetzKNNI/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/nnwDp_0Vz3M/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "South Korea vs Czechia",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "South Korea vs Czechia 2-1 Highlights | FIFA World Cup 2026",
-      "videoId": "w0BIobt_T6M",
-      "channel": "Web Search",
+      "title": "Australia 🆚 Türkiye #FIFAWorldCup",
+      "videoId": "-IVBmnxpxH4",
+      "channel": "FIFA",
       "publishedAt": "2026-06-14",
       "category": "Highlights",
       "team": [
-        "South Korea",
-        "Czechia",
-        "Czech",
-        "Korea"
+        "Australia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/w0BIobt_T6M/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/-IVBmnxpxH4/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "South Korea vs Czechia",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Connor Metcalfe Goal | Australia 2-0 Turkiye | FIFA World Cup 2026™",
+      "videoId": "rS_gr3tXChc",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Australia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/rS_gr3tXChc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Nestory Irankunda Goal | Australia 2-0 Turkiye | FIFA World Cup 2026™",
+      "videoId": "ZQl7828ufwQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Australia",
+        "Iran"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ZQl7828ufwQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Doubling the Aussie lead 🇦🇺 #FIFAWorldCupOnYT",
+      "videoId": "g43Wc5oUHXE",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/g43Wc5oUHXE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Australia's first goal of #FIFAWorldCup 2026 🇦🇺 #FIFAWorldCupOnYT",
+      "videoId": "eRQsqOCMyXo",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Australia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/eRQsqOCMyXo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Post-Match Press Conference: Haiti's Sebastien Migne On 1-0 Loss To Scotland",
+      "videoId": "Y3LQyq_uKdU",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Scotland",
+        "Haiti"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Y3LQyq_uKdU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Post-Match Press Conference: Scotland's Steve Clarke On 1-0 Win Against Haiti",
+      "videoId": "DcL-3hYHeQw",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Scotland",
+        "Haiti"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/DcL-3hYHeQw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Post-Match Interviews: Australia 2-0 Turkiye",
+      "videoId": "QRLHi26dGeM",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Australia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QRLHi26dGeM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Post-Match Interviews: Haiti 0-1 Scotland",
+      "videoId": "56tHphNuNpA",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Scotland",
+        "Haiti"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/56tHphNuNpA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Emam Ashour Reads An Emotional Letter | Letters That Unite | FIFA World Cup 2026",
+      "videoId": "2rOgDyDWTf0",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/2rOgDyDWTf0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Haiti 🆚 Scotland #FIFAWorldCupOnYT",
+      "videoId": "PpsGG4kqA1E",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Scotland",
+        "Haiti"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/PpsGG4kqA1E/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "John McGinn Goal | Haiti 0-1 Scotland | FIFA World Cup 2026™",
+      "videoId": "kg3_vkhWVf4",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Scotland",
+        "Haiti"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/kg3_vkhWVf4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
     },
     {
       "title": "John McGinn scores Scotland’s first goal of FIFA World Cup 2026 #FIFAWorldCupOnYT",
@@ -80,219 +250,18 @@
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Ismael Saibari Goal | Brazil 1-1 Morocco | FIFA World Cup 2026™",
-      "videoId": "i3Xe1ALvfgQ",
-      "channel": "FIFA",
+      "title": "Craig Burley’s record FINALLY FALLS as Scotland defeat Haiti | ESPN FC",
+      "videoId": "d-ha75wUqNU",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-14",
       "category": "Highlights",
       "team": [
-        "Brazil",
-        "Morocco"
+        "Scotland",
+        "Haiti"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/i3Xe1ALvfgQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Vinicius Junior scores for Brazil against Morocco #FIFAWorldCupOnYT",
-      "videoId": "UtVyBIOWvwQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/UtVyBIOWvwQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Saibari scores for Morocco against Brazil #FIFAWorldCupOnYT",
-      "videoId": "ucVVPf3AK_0",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ucVVPf3AK_0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Brazil 🆚 Morocco #FIFAWorldCupOnYT",
-      "videoId": "wJV_PZLqetQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/wJV_PZLqetQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Sweden Train Before Tunisia",
-      "videoId": "eTTUFXonzsU",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Tunisia",
-        "Sweden"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/eTTUFXonzsU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Cote d'Ivoire Train Before Ecuador",
-      "videoId": "uRyVlKA9pts",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/uRyVlKA9pts/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Highlights | USA 4-1 Paraguay | FIFA World Cup 2026™",
-      "videoId": "0PVo3bk-TMk",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "USA",
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/0PVo3bk-TMk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Alejandro Fernández Sings Mexico’s National Anthem | FIFA World Cup 2026 Opening Match",
-      "videoId": "4EGRcwW2mLw",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/4EGRcwW2mLw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Post-Match Press Conference: Morocco's Mohamed Ouahbi On 1-1 Draw With Brazil",
-      "videoId": "PGpvSh2MHEY",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PGpvSh2MHEY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Post-Match Press Conference: Brazil's Carlo Ancelotti On 1-1 Draw With Morocco",
-      "videoId": "wosS323i8Y8",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/wosS323i8Y8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Post-Match Interviews: Brazil 1-1 Morocco",
-      "videoId": "6LsStM2khPc",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/6LsStM2khPc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Curacao On Playing Germany  | Dick Advocaat & Leandro Bacuna Answer Questions",
-      "videoId": "aWuZUxTt-wE",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/aWuZUxTt-wE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Netherlands On Playing Japan | Ronald Koeman & Frenkie De Jong Answer Questions",
-      "videoId": "q-BVju1TiVs",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Netherlands",
-        "Japan"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/q-BVju1TiVs/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/d-ha75wUqNU/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
@@ -512,22 +481,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/QAxWA3Tp8hQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Repping Scotland this morning ahead of their return to the World Cup ⚽️",
-      "videoId": "Wobvgs43Edo",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "Scotland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Wobvgs43Edo/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
