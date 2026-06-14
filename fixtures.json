@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T03:59:28.871Z",
+  "lastUpdated": "2026-06-14T06:19:58.020Z",
   "fixtures": [
     {
       "id": 760415,
@@ -183,13 +183,13 @@
       "utcDate": "2026-06-14T04:00Z",
       "homeTeam": "Australia",
       "homeCode": "au",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayTeam": "Türkiye",
       "awayCode": "tr",
       "awayScore": 0,
       "venue": "BC Place",
       "city": "Vancouver",
-      "status": "timed",
+      "status": "finished",
       "group": "D",
       "stage": "GROUP_STAGE",
       "matchday": 0,

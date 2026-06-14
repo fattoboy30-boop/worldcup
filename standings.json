@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T03:59:28.872Z",
+  "lastUpdated": "2026-06-14T06:19:58.020Z",
   "groups": {
     "A": {
       "teams": [
@@ -129,6 +129,32 @@
           "position": 1
         },
         {
+          "name": "Australia",
+          "code": "au",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 2,
+          "ga": 0,
+          "gd": 2,
+          "points": 3,
+          "position": 2
+        },
+        {
+          "name": "Türkiye",
+          "code": "tr",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 0,
+          "ga": 2,
+          "gd": -2,
+          "points": 0,
+          "position": 3
+        },
+        {
           "name": "Paraguay",
           "code": "py",
           "played": 1,
@@ -139,7 +165,7 @@
           "ga": 4,
           "gd": -3,
           "points": 0,
-          "position": 2
+          "position": 4
         }
       ]
     },
