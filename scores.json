@@ -1,30 +1,6 @@
 {
-  "lastUpdated": "2026-06-14T21:47:01.059Z",
-  "liveMatches": [
-    {
-      "id": 760425,
-      "date": "2026-06-14",
-      "time": "20:00",
-      "utcDate": "2026-06-14T20:00Z",
-      "homeTeam": "Netherlands",
-      "homeCode": "nl",
-      "homeScore": 2,
-      "awayTeam": "Japan",
-      "awayCode": "jp",
-      "awayScore": 1,
-      "venue": "AT&T Stadium",
-      "city": "Arlington, Texas",
-      "status": "in_play",
-      "group": "F",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": "86'",
-      "halfTime": [
-        null,
-        null
-      ]
-    }
-  ],
+  "lastUpdated": "2026-06-14T22:40:26.154Z",
+  "liveMatches": [],
   "recentResults": [
     {
       "id": 760415,
@@ -225,6 +201,29 @@
       "city": "Houston, Texas",
       "status": "finished",
       "group": "E",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": null,
+      "halfTime": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": 760425,
+      "date": "2026-06-14",
+      "time": "20:00",
+      "utcDate": "2026-06-14T20:00Z",
+      "homeTeam": "Netherlands",
+      "homeCode": "nl",
+      "homeScore": 2,
+      "awayTeam": "Japan",
+      "awayCode": "jp",
+      "awayScore": 2,
+      "venue": "AT&T Stadium",
+      "city": "Arlington, Texas",
+      "status": "finished",
+      "group": "F",
       "stage": "GROUP_STAGE",
       "matchday": 0,
       "minute": null,

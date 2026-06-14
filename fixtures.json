@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T21:47:01.062Z",
+  "lastUpdated": "2026-06-14T22:40:26.286Z",
   "fixtures": [
     {
       "id": 760415,
@@ -236,14 +236,14 @@
       "homeScore": 2,
       "awayTeam": "Japan",
       "awayCode": "jp",
-      "awayScore": 1,
+      "awayScore": 2,
       "venue": "AT&T Stadium",
       "city": "Arlington, Texas",
-      "status": "in_play",
+      "status": "finished",
       "group": "F",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "86'",
+      "minute": null,
       "halfTime": [
         null,
         null

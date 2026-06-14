@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T21:47:01.064Z",
+  "lastUpdated": "2026-06-14T22:40:26.287Z",
   "groups": {
     "A": {
       "teams": [
@@ -251,6 +251,36 @@
           "ga": 7,
           "gd": -6,
           "points": 0,
+          "position": 2
+        }
+      ]
+    },
+    "F": {
+      "teams": [
+        {
+          "name": "Netherlands",
+          "code": "nl",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 2,
+          "ga": 2,
+          "gd": 0,
+          "points": 1,
+          "position": 1
+        },
+        {
+          "name": "Japan",
+          "code": "jp",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 2,
+          "ga": 2,
+          "gd": 0,
+          "points": 1,
           "position": 2
         }
       ]
