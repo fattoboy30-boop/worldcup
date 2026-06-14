@@ -1,532 +1,485 @@
 {
-  "lastUpdated": "2026-06-11T21:18:54.347Z",
+  "lastUpdated": "2026-06-14T17:23:06.545Z",
   "featured": {
-    "match": "FhQZki50H-8",
-    "highlight": "FhQZki50H-8",
-    "interview": "5Sf0BoLOzvo"
+    "match": "PQc_jJ43-AA",
+    "highlight": "PQc_jJ43-AA",
+    "interview": "0LjetaBGkDY"
   },
   "videos": [
     {
-      "title": "Mexico vs South Africa | FIFA World Cup 2026 Highlights - YouTube",
-      "videoId": "FhQZki50H-8",
-      "channel": "Web Search",
-      "publishedAt": "2026-06-11",
+      "title": "Team Feature: IR Iran | The Homeless Shepherd Boy Who Shocked The World",
+      "videoId": "PQc_jJ43-AA",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "South Africa"
+        "Iran"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FhQZki50H-8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa",
-      "source": "match-search"
-    },
-    {
-      "title": "Mexico vs South Africa | 2026 FIFA World Cup Highlights",
-      "videoId": "OJlwIdoFz9A",
-      "channel": "FOX Sports",
-      "publishedAt": "2026-06-11",
-      "category": "Highlights",
-      "team": [
-        "Mexico",
-        "South Africa"
-      ],
-      "duration": "5 min",
-      "views": 16200,
-      "thumbnail": "https://img.youtube.com/vi/OJlwIdoFz9A/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/PQc_jJ43-AA/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Mexico 2-0 South Africa | World Cup 2026 Opener | Full Match Coverage",
-      "videoId": "mFYECh9HedE",
-      "channel": "CNBC-TV18",
-      "publishedAt": "2026-06-11",
-      "category": "Full Match",
-      "team": [
-        "Mexico",
-        "South Africa"
-      ],
-      "duration": "LIVE",
-      "views": 98800,
-      "thumbnail": "https://img.youtube.com/vi/mFYECh9HedE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Mexico vs South Africa LIVE Watch Party | FIFA World Cup 2026",
-      "videoId": "5Sf0BoLOzvo",
-      "channel": "Associated Press",
-      "publishedAt": "2026-06-11",
-      "category": "Viral",
-      "team": [
-        "Mexico",
-        "South Africa"
-      ],
-      "duration": "LIVE",
-      "views": 154300,
-      "thumbnail": "https://img.youtube.com/vi/5Sf0BoLOzvo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "What it feels like to face Guillermo Ochoa at a #fifaworldcup 🇲🇽 🧤 #shorts #mexico",
-      "videoId": "VPj9w85pW-4",
+      "title": "The Most Iconic Opening Goals By Host Nations In The 21st Century",
+      "videoId": "lta1oAyGYyM",
       "channel": "FIFA",
-      "publishedAt": "2026-06-11",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/lta1oAyGYyM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Uruguay Train Before Saudi Arabia",
+      "videoId": "oeZ53uHt0yI",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
       "category": "Highlights",
       "team": [
-        "Mexico"
+        "Uruguay",
+        "Saudi Arabia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/VPj9w85pW-4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/oeZ53uHt0yI/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Every Hyundai Goal of the Tournament Winner Since 2006 | FIFA World Cup™",
-      "videoId": "FSuhWhITAq4",
+      "title": "When Japan Are Playing Today! #shorts #fifaworldcuponyt #japan",
+      "videoId": "7VLhxh-1wsM",
       "channel": "FIFA",
-      "publishedAt": "2026-06-11",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FSuhWhITAq4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "THE MOST ACROBATIC GOALS IN FIFA World Cup History",
-      "videoId": "WUfonF58x3U",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-11",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/WUfonF58x3U/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "The wait is almost over... 🥁",
-      "videoId": "FRx6jhBBKOo",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-11",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FRx6jhBBKOo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "THE HISTORY OF THE BEST FIFA WORLD CUP GOALS EVER | Part 3",
-      "videoId": "u8g6TbD8ho0",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-11",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/u8g6TbD8ho0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "THE BEST WORLD CUP VOLLEYS EVER!",
-      "videoId": "IuQFadRGVTk",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-11",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/IuQFadRGVTk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "THE BEST EVER LONG-RANGE GOALS In FIFA World Cup History",
-      "videoId": "HiZTiFxIkco",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-11",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/HiZTiFxIkco/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "An A to Z Of World Cup Goal Scorers",
-      "videoId": "8XBnVxw9TmM",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-11",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/8XBnVxw9TmM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "James Rodriguez in 2014: Iconic 🇨🇴 #shorts #fifaworldcup #colombia",
-      "videoId": "FVQcexIXCo8",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-11",
+      "publishedAt": "2026-06-14",
       "category": "Highlights",
       "team": [
-        "Colombia"
+        "Japan"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FVQcexIXCo8/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/7VLhxh-1wsM/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Team Feature: Canada | The Transformation Of \"The Beautiful Game\" In Canada",
-      "videoId": "sjlrQvuH7d8",
+      "title": "Team Feature: Egypt | From 1990 Legend To Mo Salah’s Boss: Hossam Hassan’s Egypt Is Ready",
+      "videoId": "45ankfsXpq0",
       "channel": "FIFA",
-      "publishedAt": "2026-06-11",
+      "publishedAt": "2026-06-14",
       "category": "Highlights",
       "team": [
-        "Canada"
+        "Egypt"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/sjlrQvuH7d8/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/45ankfsXpq0/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Team Feature: Bosnia and Herzegovina | Legendary Striker Edin Dzeko Aims To Do His Country Proud",
-      "videoId": "CVly5PzQFhg",
+      "title": "15-Minute Match: Uruguay vs Saudi Arabia | 2018 Clash",
+      "videoId": "ewDHk2q78UY",
       "channel": "FIFA",
-      "publishedAt": "2026-06-11",
+      "publishedAt": "2026-06-14",
       "category": "Highlights",
       "team": [
-        "Bosnia"
+        "Uruguay",
+        "Saudi Arabia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/CVly5PzQFhg/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/ewDHk2q78UY/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "The Greatest Start To A World Cup? #shorts #fifaworldcup #tshabalala",
-      "videoId": "a6vi443pfok",
+      "title": "Team Feature: Saudi Arabia | Reliving The Miracle Over Argentina",
+      "videoId": "halGoz1RHf4",
       "channel": "FIFA",
-      "publishedAt": "2026-06-11",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/a6vi443pfok/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "The Goals To Know: 2010-2022 World Cup Group Stages",
-      "videoId": "3AyMJILrxAU",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-11",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/3AyMJILrxAU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Another chapter in Lionel Messi's History 🇦🇷 #shorts #fifaworldcup #argentina #messi",
-      "videoId": "xyeFJzwUvco",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-11",
+      "publishedAt": "2026-06-14",
       "category": "Highlights",
       "team": [
-        "Argentina"
+        "Argentina",
+        "Saudi Arabia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xyeFJzwUvco/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/halGoz1RHf4/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "The significance of the U.S. hosting the World Cup for the 1st time since 1994 🇺🇸⚽ | SportsCenter",
-      "videoId": "MKRt67RzmDQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-11",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/MKRt67RzmDQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Mark Ogden makes a BOLD Chelsea prediction 👀",
-      "videoId": "CFnXeKa6ELo",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-11",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/CFnXeKa6ELo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Same, but different 🐐",
-      "videoId": "2p8yKFTUZ74",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-11",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/2p8yKFTUZ74/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "What is success for the USMNT?",
-      "videoId": "8dVXCU4roSE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-11",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/8dVXCU4roSE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Lamine Yamal was at Walmart?! 😭 (via jstnnn32/TT)",
-      "videoId": "QgpjVp4j0Ls",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-11",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/QgpjVp4j0Ls/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Who are the New York Knicks of the World Cup?!",
-      "videoId": "xMR-grE_SSQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-11",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xMR-grE_SSQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Is Spike Lee the good luck charm the USMNT NEEDS? 👀",
-      "videoId": "aBN6nbgItr0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-11",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/aBN6nbgItr0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Roger Bennett is looking for OG Anunoby of the New York Knicks to join the USMNT 👀😭",
-      "videoId": "Yktwj7Ccu6I",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-11",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Yktwj7Ccu6I/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Roger Bennett REVEALS what a successful World Cup would be for USMNT ⚽ | First Take",
-      "videoId": "Iz-cpk7r_eE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-11",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Iz-cpk7r_eE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Total madness in Boston when France arrived at their hotel for the World Cup 😱",
-      "videoId": "s6k9l4Uy5Zo",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-11",
+      "title": "Team Feature: Belgium | Playing Next To Your Idols",
+      "videoId": "W5SefDBhREQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
       "category": "Highlights",
       "team": [
-        "France"
+        "Belgium"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/s6k9l4Uy5Zo/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/W5SefDBhREQ/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Ronaldo SPARKS CONTROVERSY?!",
-      "videoId": "wa9D8zFNQ9A",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-11",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/wa9D8zFNQ9A/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "France have arrived at their hotel in Boston 🇺🇸 (via equipedefrance/TT)",
-      "videoId": "ISZEV88peJo",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-11",
+      "title": "Tunisia Train Before Sweden",
+      "videoId": "yeyyG-oas3Y",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
       "category": "Highlights",
       "team": [
-        "France"
+        "Tunisia",
+        "Sweden"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ISZEV88peJo/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/yeyyG-oas3Y/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Nedum Onuoha’s assessment of Elliot Anderson to Man City transfer rumors | ESPN FC",
-      "videoId": "RPf9LeyshGU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-11",
+      "title": "Team Feature: Cabo Verde | The World Cup 2026 Debutants Powered by A Global Diaspora",
+      "videoId": "XBmcqUOhwbc",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/RPf9LeyshGU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/XBmcqUOhwbc/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Scotland vs. Bolivia EXTENDED HIGHLIGHTS [June 6, 2026] | ESPN FC",
-      "videoId": "aYPuikINVrA",
+      "title": "Post-Match Press Conference: Turkiye's Vincenzo Montella On 2-0 Loss Against Australia",
+      "videoId": "7npGcT62qCc",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Australia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7npGcT62qCc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Post-Match Press Conference: Australia's Tony Popovic On 2-0 Win Against Turkiye",
+      "videoId": "c6QjXOFs4MM",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Australia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/c6QjXOFs4MM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Team Feature: Spain | Pride Of The Nation",
+      "videoId": "nnwDp_0Vz3M",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/nnwDp_0Vz3M/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "June 13 Matchday Recap | #FIFAWorldCup @aramco",
+      "videoId": "D__h_UmhViQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/D__h_UmhViQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Australia 🆚 Türkiye #FIFAWorldCup",
+      "videoId": "-IVBmnxpxH4",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Australia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-IVBmnxpxH4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "SLOW START 😧 Should Brazil be CONCERNED about 1-1 draw vs. Morocco?! | ESPN FC",
+      "videoId": "JMIVM_VYD6c",
       "channel": "ESPN FC",
-      "publishedAt": "2026-06-11",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JMIVM_VYD6c/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Ilkay Gundogan reveals THIS about Germany’s World Cup hopes 🍿 | ESPN FC",
+      "videoId": "A4HFwHdnrss",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Germany"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/A4HFwHdnrss/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Scotland need to get out of their Group ‘by hook or by crook’ - Steve Nicol | ESPN FC",
+      "videoId": "IQIKcylla9Q",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-14",
       "category": "Highlights",
       "team": [
         "Scotland"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/aYPuikINVrA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/IQIKcylla9Q/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Ale Moreno explains where the USMNT are MOST VULNERABLE | ESPN FC",
-      "videoId": "Lu1lbcdk38g",
+      "title": "10K Netherlands fans?! Netherlands to ‘PARK THE BUS’ vs. Japan? 🤣 | ESPN FC",
+      "videoId": "Mh5EiS9rCnE",
       "channel": "ESPN FC",
-      "publishedAt": "2026-06-11",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Mh5EiS9rCnE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Jermaine Jones thinks the USMNT can go ‘really far’ in World Cup?! | ESPN FC",
+      "videoId": "4lWWHDZpaQU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-14",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Lu1lbcdk38g/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/4lWWHDZpaQU/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Match Preview: Mexico vs South Africa | FIFA World Cup 2026",
-      "videoId": "PhSvaIymYes",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-10",
+      "title": "How will Christian Pulisic's status impact USMNT vs. Australia in the World Cup? | SportsCenter",
+      "videoId": "x-zm_oDjISE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-14",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "South Africa"
-      ],
-      "duration": "2:18",
-      "views": 481700,
-      "thumbnail": "https://img.youtube.com/vi/PhSvaIymYes/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "WATCH LIVE | Mexico v South Africa | Group Stage A | FIFA World Cup 2026™",
-      "videoId": "RyNKKSYvzoc",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-10",
-      "category": "Highlights",
-      "team": [
-        "Mexico",
-        "South Africa"
+        "Australia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/RyNKKSYvzoc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/x-zm_oDjISE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Peso Pluma calls Julian Quinones a Mexican ‘legend’ following World Cup goal | ESPN FC",
+      "videoId": "x_rm7bVcqk0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/x_rm7bVcqk0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Australia vs. Turkiye FULL REACTION: Group D is wide open?! | ESPN FC",
+      "videoId": "0LjetaBGkDY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-14",
+      "category": "Viral",
+      "team": [
+        "Australia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0LjetaBGkDY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Brazil BAILED OUT? Scotland pressures RELEASES + USMNT thoughts! | ESPN FC",
+      "videoId": "REQg6P6D4zo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Scotland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/REQg6P6D4zo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Craig Burley’s record FINALLY FALLS as Scotland defeat Haiti | ESPN FC",
+      "videoId": "d-ha75wUqNU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Scotland",
+        "Haiti"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/d-ha75wUqNU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Qatar vs. Switzerland result SHOCKED the ESPN FC crew!",
+      "videoId": "-GkO2-ufTd4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Switzerland",
+        "Qatar"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-GkO2-ufTd4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Vini Jr. is putting on for Brazil 🇧🇷",
+      "videoId": "daGVkx4zC3U",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Brazil"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/daGVkx4zC3U/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Craig Burley and Stewart Robson say Brazil aren't frightening 👀",
+      "videoId": "1EI2NHDk7QA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Brazil"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/1EI2NHDk7QA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Brazil vs. Morocco REACTION 👀 Who will win Group C? | ESPN FC",
+      "videoId": "fkr-G660_HI",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-14",
+      "category": "Viral",
+      "team": [
+        "Brazil",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fkr-G660_HI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "She hit the ultimate celly with Ronaldo 😤 (via @celine.dept/IG)",
+      "videoId": "GM8XZDD4rEE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/GM8XZDD4rEE/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"

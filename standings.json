@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T04:24:33.951Z",
+  "lastUpdated": "2026-06-14T17:41:25.607Z",
   "groups": {
     "A": {
       "teams": [
@@ -52,6 +52,174 @@
           "gf": 0,
           "ga": 2,
           "gd": -2,
+          "points": 0,
+          "position": 4
+        }
+      ]
+    },
+    "B": {
+      "teams": [
+        {
+          "name": "Canada",
+          "code": "ca",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1,
+          "position": 1
+        },
+        {
+          "name": "Bosnia-Herzegovina",
+          "code": "ba",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1,
+          "position": 2
+        },
+        {
+          "name": "Qatar",
+          "code": "qa",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1,
+          "position": 3
+        },
+        {
+          "name": "Switzerland",
+          "code": "ch",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1,
+          "position": 4
+        }
+      ]
+    },
+    "D": {
+      "teams": [
+        {
+          "name": "United States",
+          "code": "un",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 4,
+          "ga": 1,
+          "gd": 3,
+          "points": 3,
+          "position": 1
+        },
+        {
+          "name": "Australia",
+          "code": "au",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 2,
+          "ga": 0,
+          "gd": 2,
+          "points": 3,
+          "position": 2
+        },
+        {
+          "name": "Türkiye",
+          "code": "tr",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 0,
+          "ga": 2,
+          "gd": -2,
+          "points": 0,
+          "position": 3
+        },
+        {
+          "name": "Paraguay",
+          "code": "py",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 1,
+          "ga": 4,
+          "gd": -3,
+          "points": 0,
+          "position": 4
+        }
+      ]
+    },
+    "C": {
+      "teams": [
+        {
+          "name": "Scotland",
+          "code": "gb-sct",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 1,
+          "ga": 0,
+          "gd": 1,
+          "points": 3,
+          "position": 1
+        },
+        {
+          "name": "Brazil",
+          "code": "br",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1,
+          "position": 2
+        },
+        {
+          "name": "Morocco",
+          "code": "ma",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1,
+          "position": 3
+        },
+        {
+          "name": "Haiti",
+          "code": "ht",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 0,
+          "ga": 1,
+          "gd": -1,
           "points": 0,
           "position": 4
         }
