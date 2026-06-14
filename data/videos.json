@@ -1,54 +1,132 @@
 {
-  "lastUpdated": "2026-06-14T03:59:57.097Z",
+  "lastUpdated": "2026-06-14T05:52:55.657Z",
   "featured": {
-    "match": "w0BIobt_T6M",
-    "highlight": "w0BIobt_T6M",
-    "interview": "w0BIobt_T6M"
+    "match": "86cYmMeJOpY",
+    "highlight": "86cYmMeJOpY",
+    "interview": "fkr-G660_HI"
   },
   "videos": [
     {
-      "title": "South Korea vs Czechia 2-1 Highlights | FIFA World Cup 2026",
-      "videoId": "w0BIobt_T6M",
-      "channel": "Web Search",
+      "title": "John McGinn scores Scotland’s first goal of FIFA World Cup 2026 #FIFAWorldCupOnYT",
+      "videoId": "86cYmMeJOpY",
+      "channel": "FIFA",
       "publishedAt": "2026-06-14",
       "category": "Highlights",
       "team": [
-        "South Korea",
-        "Czechia",
-        "Czech",
-        "Korea"
+        "Scotland"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/w0BIobt_T6M/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/86cYmMeJOpY/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "South Korea vs Czechia",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "South Korea vs Czechia | Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "9VWzTri0mho",
-      "channel": "Web Search",
+      "title": "Vinicius Jr Goal | Brazil 1-1 Morocco | FIFA World Cup 2026™",
+      "videoId": "zKPmHQwyOtU",
+      "channel": "FIFA",
       "publishedAt": "2026-06-14",
       "category": "Highlights",
       "team": [
-        "South Korea",
-        "Czechia",
-        "Czech",
-        "Korea"
+        "Brazil",
+        "Morocco"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/9VWzTri0mho/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/zKPmHQwyOtU/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "South Korea vs Czechia",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Cote d'Ivoire On Playing Ecuador | Emerse Fae Takes Questions",
-      "videoId": "ox5tj968UMg",
+      "title": "Ismael Saibari Goal | Brazil 1-1 Morocco | FIFA World Cup 2026™",
+      "videoId": "i3Xe1ALvfgQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/i3Xe1ALvfgQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Vinicius Junior scores for Brazil against Morocco #FIFAWorldCupOnYT",
+      "videoId": "UtVyBIOWvwQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/UtVyBIOWvwQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Saibari scores for Morocco against Brazil #FIFAWorldCupOnYT",
+      "videoId": "ucVVPf3AK_0",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ucVVPf3AK_0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Brazil 🆚 Morocco #FIFAWorldCupOnYT",
+      "videoId": "wJV_PZLqetQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/wJV_PZLqetQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Sweden Train Before Tunisia",
+      "videoId": "eTTUFXonzsU",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Tunisia",
+        "Sweden"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/eTTUFXonzsU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Cote d'Ivoire Train Before Ecuador",
+      "videoId": "uRyVlKA9pts",
       "channel": "FIFA",
       "publishedAt": "2026-06-14",
       "category": "Highlights",
@@ -57,33 +135,116 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ox5tj968UMg/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/uRyVlKA9pts/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Qatar 🆚 Switzerland #FIFAWorldCupOnYT",
-      "videoId": "6PZxsHJRe7o",
+      "title": "Highlights | USA 4-1 Paraguay | FIFA World Cup 2026™",
+      "videoId": "0PVo3bk-TMk",
       "channel": "FIFA",
-      "publishedAt": "2026-06-13",
+      "publishedAt": "2026-06-14",
       "category": "Highlights",
       "team": [
-        "Switzerland",
-        "Qatar"
+        "USA",
+        "Paraguay"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/6PZxsHJRe7o/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/0PVo3bk-TMk/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Japan On Playing Netherlands | Hajime Moriyasu Answers Questions",
-      "videoId": "q9wJ2zXBcJM",
+      "title": "Alejandro Fernández Sings Mexico’s National Anthem | FIFA World Cup 2026 Opening Match",
+      "videoId": "4EGRcwW2mLw",
       "channel": "FIFA",
-      "publishedAt": "2026-06-13",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4EGRcwW2mLw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Post-Match Press Conference: Morocco's Mohamed Ouahbi On 1-1 Draw With Brazil",
+      "videoId": "PGpvSh2MHEY",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/PGpvSh2MHEY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Post-Match Press Conference: Brazil's Carlo Ancelotti On 1-1 Draw With Morocco",
+      "videoId": "wosS323i8Y8",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/wosS323i8Y8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Post-Match Interviews: Brazil 1-1 Morocco",
+      "videoId": "6LsStM2khPc",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6LsStM2khPc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Curacao On Playing Germany  | Dick Advocaat & Leandro Bacuna Answer Questions",
+      "videoId": "aWuZUxTt-wE",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Germany"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/aWuZUxTt-wE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Netherlands On Playing Japan | Ronald Koeman & Frenkie De Jong Answer Questions",
+      "videoId": "q-BVju1TiVs",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
       "category": "Highlights",
       "team": [
         "Netherlands",
@@ -91,16 +252,16 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/q9wJ2zXBcJM/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/q-BVju1TiVs/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "An Equalizer For The Ages! | Qatar 1-1 Switzerland | FIFA World Cup 2026™",
-      "videoId": "aRuSSARxEPM",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
+      "title": "Qatar vs. Switzerland result SHOCKED the ESPN FC crew!",
+      "videoId": "-GkO2-ufTd4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-14",
       "category": "Highlights",
       "team": [
         "Switzerland",
@@ -108,169 +269,56 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/aRuSSARxEPM/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/-GkO2-ufTd4/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Breel Embolo Goal | Qatar 1-1 Switzerland | FIFA World Cup 2026™",
-      "videoId": "VkFQgoIIli0",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
+      "title": "Vini Jr. is putting on for Brazil 🇧🇷",
+      "videoId": "daGVkx4zC3U",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-14",
       "category": "Highlights",
       "team": [
-        "Switzerland",
-        "Qatar"
+        "Brazil"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/VkFQgoIIli0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/daGVkx4zC3U/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Embolo time! ⌚🇨🇭#FIFAWorldCupOnYT",
-      "videoId": "7b_Nt2f2E7I",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7b_Nt2f2E7I/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "An equalizer for the history books. ⚽🇶🇦#FIFAWorldCupOnYT",
-      "videoId": "6aAkDaGR3oc",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/6aAkDaGR3oc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Post-Match Press Conference: Switzerland's Murat Yakin On The 1-1 Draw With Qatar",
-      "videoId": "2MuekeZaNZU",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
+      "title": "Craig Burley and Stewart Robson say Brazil aren't frightening 👀",
+      "videoId": "1EI2NHDk7QA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-14",
       "category": "Highlights",
       "team": [
-        "Switzerland",
-        "Qatar"
+        "Brazil"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/2MuekeZaNZU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/1EI2NHDk7QA/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Post-Match Press Conference: Qatar's Julen Lopetegui On The 1-1 Draw With Switzerland",
-      "videoId": "LytMS3CmX-E",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
+      "title": "Brazil vs. Morocco REACTION 👀 Who will win Group C? | ESPN FC",
+      "videoId": "fkr-G660_HI",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-14",
+      "category": "Viral",
       "team": [
-        "Switzerland",
-        "Qatar"
+        "Brazil",
+        "Morocco"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/LytMS3CmX-E/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Post-Match Interviews: Qatar 1-1 Switzerland",
-      "videoId": "xFpZ2gkcZBc",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "Switzerland",
-        "Qatar"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xFpZ2gkcZBc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Curacao Train Before Their First Ever FIFA World Cup Game Against Germany",
-      "videoId": "L-8ZEK1RL-o",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/L-8ZEK1RL-o/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Netherlands Train Before Japan",
-      "videoId": "AdbH1cU4onI",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "Netherlands",
-        "Japan"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/AdbH1cU4onI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Highlights | Canada 1-1 Bosnia and Herzegovina | FIFA World Cup 2026™",
-      "videoId": "w-_rY5morQY",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "Canada",
-        "Bosnia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/w-_rY5morQY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Germany Train Before Curacao",
-      "videoId": "CWDFsB09wHQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/CWDFsB09wHQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/fkr-G660_HI/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
@@ -440,87 +488,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/Wobvgs43Edo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Geoff Cameron is impressed with the USMNT's resiliency 👏",
-      "videoId": "7dA0eK-k4N0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7dA0eK-k4N0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Brazil vs. Morocco PREVIEW 🔥 Shaka Hislop WARNS Brazil fans to CALM DOWN 😮 | ESPN FC",
-      "videoId": "cKz00fB-ybY",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/cKz00fB-ybY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Previewing Haiti vs. Scotland in Group C stage of the FIFA World Cup ⚽ | ESPN FC",
-      "videoId": "VF9t1o4q5pU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "Scotland",
-        "Haiti"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/VF9t1o4q5pU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "‘TOTAL DOMINATION!’ 😤 - Kasey Keller on USMNT’s Group D win over Paraguay | ESPN FC",
-      "videoId": "s0QKDDa0GBI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/s0QKDDa0GBI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "WATCH LIVE | Brazil v Morocco | Group Stage C | FIFA World Cup 2026™",
-      "videoId": "ycj8sdktKck",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-10",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ycj8sdktKck/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
