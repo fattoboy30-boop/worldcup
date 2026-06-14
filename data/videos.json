@@ -1,30 +1,76 @@
 {
-  "lastUpdated": "2026-06-14T13:05:26.049Z",
+  "lastUpdated": "2026-06-14T15:08:14.315Z",
   "featured": {
-    "match": "9VWzTri0mho",
-    "highlight": "9VWzTri0mho",
-    "interview": "fkr-G660_HI"
+    "match": "7VLhxh-1wsM",
+    "highlight": "7VLhxh-1wsM",
+    "interview": "0LjetaBGkDY"
   },
   "videos": [
     {
-      "title": "South Korea vs Czechia | Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "9VWzTri0mho",
-      "channel": "Web Search",
+      "title": "When Japan Are Playing Today! #shorts #fifaworldcuponyt #japan",
+      "videoId": "7VLhxh-1wsM",
+      "channel": "FIFA",
       "publishedAt": "2026-06-14",
       "category": "Highlights",
       "team": [
-        "South Korea",
-        "Czechia",
-        "Czech",
-        "Korea"
+        "Japan"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/9VWzTri0mho/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/7VLhxh-1wsM/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "South Korea vs Czechia",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Team Feature: Egypt | From 1990 Legend To Mo Salah’s Boss: Hossam Hassan’s Egypt Is Ready",
+      "videoId": "45ankfsXpq0",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/45ankfsXpq0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "15-Minute Match: Uruguay vs Saudi Arabia | 2018 Clash",
+      "videoId": "ewDHk2q78UY",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Uruguay",
+        "Saudi Arabia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ewDHk2q78UY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Team Feature: Saudi Arabia | Reliving The Miracle Over Argentina",
+      "videoId": "halGoz1RHf4",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Saudi Arabia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/halGoz1RHf4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
     },
     {
       "title": "Team Feature: Belgium | Playing Next To Your Idols",
@@ -199,9 +245,87 @@
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Australia's first goal of #FIFAWorldCup 2026 ���🇺 #FIFAWorldCupOnYT",
-      "videoId": "eRQsqOCMyXo",
-      "channel": "FIFA",
+      "title": "SLOW START 😧 Should Brazil be CONCERNED about 1-1 draw vs. Morocco?! | ESPN FC",
+      "videoId": "JMIVM_VYD6c",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JMIVM_VYD6c/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Ilkay Gundogan on the legacy Pep Guardiola leaves at Manchester City | ESPN FC",
+      "videoId": "A4HFwHdnrss",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/A4HFwHdnrss/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Scotland need to get out of their Group ‘by hook or by crook’ - Steve Nicol | ESPN FC",
+      "videoId": "IQIKcylla9Q",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Scotland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/IQIKcylla9Q/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "10K Netherlands fans?! Netherlands to ‘PARK THE BUS’ vs. Japan? 🤣 | ESPN FC",
+      "videoId": "Mh5EiS9rCnE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Mh5EiS9rCnE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Jermaine Jones thinks the USMNT can go ‘really far’ in World Cup?! | ESPN FC",
+      "videoId": "4lWWHDZpaQU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4lWWHDZpaQU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "How will Christian Pulisic's status impact USMNT vs. Australia in the World Cup? | SportsCenter",
+      "videoId": "x-zm_oDjISE",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-14",
       "category": "Highlights",
       "team": [
@@ -209,57 +333,54 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/eRQsqOCMyXo/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/x-zm_oDjISE/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Post-Match Press Conference: Haiti's Sebastien Migne On 1-0 Loss To Scotland",
-      "videoId": "Y3LQyq_uKdU",
-      "channel": "FIFA",
+      "title": "Peso Pluma calls Julian Quinones a Mexican ‘legend’ following World Cup goal | ESPN FC",
+      "videoId": "x_rm7bVcqk0",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-14",
       "category": "Highlights",
-      "team": [
-        "Scotland",
-        "Haiti"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Y3LQyq_uKdU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/x_rm7bVcqk0/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Post-Match Press Conference: Scotland's Steve Clarke On 1-0 Win Against Haiti",
-      "videoId": "DcL-3hYHeQw",
-      "channel": "FIFA",
+      "title": "Australia vs. Turkiye FULL REACTION: Group D is wide open?! | ESPN FC",
+      "videoId": "0LjetaBGkDY",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Scotland",
-        "Haiti"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/DcL-3hYHeQw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Post-Match Interviews: Australia 2-0 Turkiye",
-      "videoId": "QRLHi26dGeM",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [
         "Australia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/QRLHi26dGeM/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/0LjetaBGkDY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Brazil BAILED OUT? Scotland pressures RELEASES + USMNT thoughts! | ESPN FC",
+      "videoId": "REQg6P6D4zo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Scotland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/REQg6P6D4zo/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
@@ -357,145 +478,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/GM8XZDD4rEE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Brazil is taking over NYC ahead of their World Cup opener against Morocco 😱",
-      "videoId": "-TrkqhShWeY",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-TrkqhShWeY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Posters of themselves in the room 🔥",
-      "videoId": "p-OHzMJdoME",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/p-OHzMJdoME/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "World Cup crowd in Boston went wild 😂 (via @meeting_deportivo/IG)",
-      "videoId": "lpM7f5Cshtg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/lpM7f5Cshtg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "The impact Real Madrid had on signing Kylian Mbappé was astronomical 🌎",
-      "videoId": "q9xY9_llvsU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/q9xY9_llvsU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Spain, just a few days away from their debut at the 2026 World Cup 🇪🇸⚽ (via @lluisbou7/IG)",
-      "videoId": "4jBJXyo0CUk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/4jBJXyo0CUk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "The Brazilian fans took over Times Square and are already ready for their debut vs. Morocco 🤩🗽🇧🇷",
-      "videoId": "KsFY5hUOhNk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/KsFY5hUOhNk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Brazil and Scotland fans singing together in Times Square ❤️ (via marcus_viniciosluz/IG)",
-      "videoId": "fiT0VE6HfS4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Scotland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fiT0VE6HfS4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Updates on Christian Pulisic's availability after missing second half vs. Paraguay | SportsCenter",
-      "videoId": "9LpLrMgWv2k",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/9LpLrMgWv2k/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Paul Pogba says Kylian Mbappé is the 'best striker of his generation' 😮",
-      "videoId": "QAxWA3Tp8hQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/QAxWA3Tp8hQ/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
