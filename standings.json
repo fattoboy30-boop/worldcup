@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T01:38:53.417Z",
+  "lastUpdated": "2026-06-14T03:59:28.872Z",
   "groups": {
     "A": {
       "teams": [
@@ -146,6 +146,19 @@
     "C": {
       "teams": [
         {
+          "name": "Scotland",
+          "code": "gb-sct",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 1,
+          "ga": 0,
+          "gd": 1,
+          "points": 3,
+          "position": 1
+        },
+        {
           "name": "Brazil",
           "code": "br",
           "played": 1,
@@ -156,7 +169,7 @@
           "ga": 1,
           "gd": 0,
           "points": 1,
-          "position": 1
+          "position": 2
         },
         {
           "name": "Morocco",
@@ -169,7 +182,20 @@
           "ga": 1,
           "gd": 0,
           "points": 1,
-          "position": 2
+          "position": 3
+        },
+        {
+          "name": "Haiti",
+          "code": "ht",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 0,
+          "ga": 1,
+          "gd": -1,
+          "points": 0,
+          "position": 4
         }
       ]
     }
