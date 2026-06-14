@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T20:21:14.840Z",
+  "lastUpdated": "2026-06-14T21:23:10.566Z",
   "liveMatches": [
     {
       "id": 760425,
@@ -8,17 +8,17 @@
       "utcDate": "2026-06-14T20:00Z",
       "homeTeam": "Netherlands",
       "homeCode": "nl",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayTeam": "Japan",
       "awayCode": "jp",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "AT&T Stadium",
       "city": "Arlington, Texas",
       "status": "in_play",
       "group": "F",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "20'",
+      "minute": "64'",
       "halfTime": [
         null,
         null

@@ -1,11 +1,31 @@
 {
-  "lastUpdated": "2026-06-14T21:16:48.664Z",
+  "lastUpdated": "2026-06-14T21:23:50.340Z",
   "featured": {
-    "match": "kix7_b8ys_8",
-    "highlight": "kix7_b8ys_8",
+    "match": "9VWzTri0mho",
+    "highlight": "9VWzTri0mho",
     "interview": "0_pataEnfUc"
   },
   "videos": [
+    {
+      "title": "South Korea vs Czechia | Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "9VWzTri0mho",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "South Korea",
+        "Czechia",
+        "Czech",
+        "Korea"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/9VWzTri0mho/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia",
+      "source": "match-search"
+    },
     {
       "title": "Post-Match Interviews: Germany 7-1 Curacao",
       "videoId": "kix7_b8ys_8",
