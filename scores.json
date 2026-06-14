@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-14T16:55:40.524Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-06-14T17:41:25.602Z",
+  "liveMatches": [
+    {
+      "id": 760422,
+      "date": "2026-06-14",
+      "time": "17:00",
+      "utcDate": "2026-06-14T17:00Z",
+      "homeTeam": "Germany",
+      "homeCode": "de",
+      "homeScore": 1,
+      "awayTeam": "Curaçao",
+      "awayCode": "un",
+      "awayScore": 1,
+      "venue": "NRG Stadium",
+      "city": "Houston, Texas",
+      "status": "in_play",
+      "group": "E",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "38'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -188,29 +212,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760422,
-      "date": "2026-06-14",
-      "time": "17:00",
-      "utcDate": "2026-06-14T17:00Z",
-      "homeTeam": "Germany",
-      "homeCode": "de",
-      "homeScore": 0,
-      "awayTeam": "Curaçao",
-      "awayCode": "un",
-      "awayScore": 0,
-      "venue": "NRG Stadium",
-      "city": "Houston, Texas",
-      "status": "timed",
-      "group": "E",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760425,
       "date": "2026-06-14",
