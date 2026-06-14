@@ -1,11 +1,51 @@
 {
-  "lastUpdated": "2026-06-14T09:41:14.597Z",
+  "lastUpdated": "2026-06-14T11:14:10.927Z",
   "featured": {
-    "match": "nnwDp_0Vz3M",
-    "highlight": "nnwDp_0Vz3M",
+    "match": "9VWzTri0mho",
+    "highlight": "9VWzTri0mho",
     "interview": "fkr-G660_HI"
   },
   "videos": [
+    {
+      "title": "South Korea vs Czechia | Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "9VWzTri0mho",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "South Korea",
+        "Czechia",
+        "Czech",
+        "Korea"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/9VWzTri0mho/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia",
+      "source": "match-search"
+    },
+    {
+      "title": "Korea Republic v Czechia | Highlights | FIFA WORLD CUP 2026 - YouTube",
+      "videoId": "RvOa5j-_DcI",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Czechia",
+        "Czech",
+        "Korea Republic",
+        "Korea"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RvOa5j-_DcI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia",
+      "source": "match-search"
+    },
     {
       "title": "Team Feature: Spain | Pride Of The Nation",
       "videoId": "nnwDp_0Vz3M",
