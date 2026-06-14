@@ -1,30 +1,57 @@
 {
-  "lastUpdated": "2026-06-14T15:18:32.967Z",
+  "lastUpdated": "2026-06-14T17:23:06.545Z",
   "featured": {
-    "match": "9VWzTri0mho",
-    "highlight": "9VWzTri0mho",
+    "match": "PQc_jJ43-AA",
+    "highlight": "PQc_jJ43-AA",
     "interview": "0LjetaBGkDY"
   },
   "videos": [
     {
-      "title": "South Korea vs Czechia | Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "9VWzTri0mho",
-      "channel": "Web Search",
+      "title": "Team Feature: IR Iran | The Homeless Shepherd Boy Who Shocked The World",
+      "videoId": "PQc_jJ43-AA",
+      "channel": "FIFA",
       "publishedAt": "2026-06-14",
       "category": "Highlights",
       "team": [
-        "South Korea",
-        "Czechia",
-        "Czech",
-        "Korea"
+        "Iran"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/9VWzTri0mho/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/PQc_jJ43-AA/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "South Korea vs Czechia",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "The Most Iconic Opening Goals By Host Nations In The 21st Century",
+      "videoId": "lta1oAyGYyM",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/lta1oAyGYyM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Uruguay Train Before Saudi Arabia",
+      "videoId": "oeZ53uHt0yI",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Uruguay",
+        "Saudi Arabia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/oeZ53uHt0yI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
     },
     {
       "title": "When Japan Are Playing Today! #shorts #fifaworldcuponyt #japan",
@@ -218,53 +245,6 @@
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Connor Metcalfe Goal | Australia 2-0 Turkiye | FIFA World Cup 2026™",
-      "videoId": "rS_gr3tXChc",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Australia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/rS_gr3tXChc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Nestory Irankunda Goal | Australia 2-0 Turkiye | FIFA World Cup 2026™",
-      "videoId": "ZQl7828ufwQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Australia",
-        "Iran"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ZQl7828ufwQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Doubling the Aussie lead 🇦🇺 #FIFAWorldCupOnYT",
-      "videoId": "g43Wc5oUHXE",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/g43Wc5oUHXE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
       "title": "SLOW START 😧 Should Brazil be CONCERNED about 1-1 draw vs. Morocco?! | ESPN FC",
       "videoId": "JMIVM_VYD6c",
       "channel": "ESPN FC",
@@ -282,12 +262,14 @@
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Ilkay Gundogan on the legacy Pep Guardiola leaves at Manchester City | ESPN FC",
+      "title": "Ilkay Gundogan reveals THIS about Germany’s World Cup hopes 🍿 | ESPN FC",
       "videoId": "A4HFwHdnrss",
       "channel": "ESPN FC",
       "publishedAt": "2026-06-14",
       "category": "Highlights",
-      "team": [],
+      "team": [
+        "Germany"
+      ],
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/A4HFwHdnrss/mqdefault.jpg",
