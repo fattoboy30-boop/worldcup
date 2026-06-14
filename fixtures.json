@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T21:23:10.626Z",
+  "lastUpdated": "2026-06-14T21:47:01.062Z",
   "fixtures": [
     {
       "id": 760415,
@@ -233,7 +233,7 @@
       "utcDate": "2026-06-14T20:00Z",
       "homeTeam": "Netherlands",
       "homeCode": "nl",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayTeam": "Japan",
       "awayCode": "jp",
       "awayScore": 1,
@@ -243,7 +243,7 @@
       "group": "F",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "64'",
+      "minute": "86'",
       "halfTime": [
         null,
         null
