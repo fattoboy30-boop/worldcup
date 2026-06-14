@@ -281,9 +281,9 @@ function initStreaming() {
     fetch('data/streaming.json')
         .then(r => r.json())
         .then(data => {
-            const btn = document.getElementById('watchLiveBtn');
-            if (btn && data.url) {
-                btn.href = data.url;
+            const iframe = document.getElementById('liveStreamFrame');
+            if (iframe && data.url) {
+                iframe.src = data.url;
             }
         })
         .catch(() => {});
