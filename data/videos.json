@@ -1,11 +1,31 @@
 {
-  "lastUpdated": "2026-06-14T19:41:45.180Z",
+  "lastUpdated": "2026-06-14T20:00:35.197Z",
   "featured": {
-    "match": "C6bqyqbIkOo",
-    "highlight": "C6bqyqbIkOo",
+    "match": "9VWzTri0mho",
+    "highlight": "9VWzTri0mho",
     "interview": "0_pataEnfUc"
   },
   "videos": [
+    {
+      "title": "South Korea vs Czechia | Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "9VWzTri0mho",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "South Korea",
+        "Czechia",
+        "Czech",
+        "Korea"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/9VWzTri0mho/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia",
+      "source": "match-search"
+    },
     {
       "title": "Belgium Train Before Egypt",
       "videoId": "C6bqyqbIkOo",

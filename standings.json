@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T18:58:03.041Z",
+  "lastUpdated": "2026-06-14T19:59:55.597Z",
   "groups": {
     "A": {
       "teams": [
@@ -222,6 +222,36 @@
           "gd": -1,
           "points": 0,
           "position": 4
+        }
+      ]
+    },
+    "E": {
+      "teams": [
+        {
+          "name": "Germany",
+          "code": "de",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 7,
+          "ga": 1,
+          "gd": 6,
+          "points": 3,
+          "position": 1
+        },
+        {
+          "name": "Curaçao",
+          "code": "un",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 1,
+          "ga": 7,
+          "gd": -6,
+          "points": 0,
+          "position": 2
         }
       ]
     }
