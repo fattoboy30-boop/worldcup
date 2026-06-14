@@ -1,50 +1,89 @@
 {
-  "lastUpdated": "2026-06-14T11:14:10.927Z",
+  "lastUpdated": "2026-06-14T12:00:16.841Z",
   "featured": {
-    "match": "9VWzTri0mho",
-    "highlight": "9VWzTri0mho",
+    "match": "W5SefDBhREQ",
+    "highlight": "W5SefDBhREQ",
     "interview": "fkr-G660_HI"
   },
   "videos": [
     {
-      "title": "South Korea vs Czechia | Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "9VWzTri0mho",
-      "channel": "Web Search",
+      "title": "Team Feature: Belgium | Playing Next To Your Idols",
+      "videoId": "W5SefDBhREQ",
+      "channel": "FIFA",
       "publishedAt": "2026-06-14",
       "category": "Highlights",
       "team": [
-        "South Korea",
-        "Czechia",
-        "Czech",
-        "Korea"
+        "Belgium"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/9VWzTri0mho/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/W5SefDBhREQ/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "South Korea vs Czechia",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Korea Republic v Czechia | Highlights | FIFA WORLD CUP 2026 - YouTube",
-      "videoId": "RvOa5j-_DcI",
-      "channel": "Web Search",
+      "title": "Tunisia Train Before Sweden",
+      "videoId": "yeyyG-oas3Y",
+      "channel": "FIFA",
       "publishedAt": "2026-06-14",
       "category": "Highlights",
       "team": [
-        "Czechia",
-        "Czech",
-        "Korea Republic",
-        "Korea"
+        "Tunisia",
+        "Sweden"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/RvOa5j-_DcI/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/yeyyG-oas3Y/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "South Korea vs Czechia",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Team Feature: Cabo Verde | The World Cup 2026 Debutants Powered by A Global Diaspora",
+      "videoId": "XBmcqUOhwbc",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/XBmcqUOhwbc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Post-Match Press Conference: Turkiye's Vincenzo Montella On 2-0 Loss Against Australia",
+      "videoId": "7npGcT62qCc",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Australia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7npGcT62qCc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Post-Match Press Conference: Australia's Tony Popovic On 2-0 Win Against Turkiye",
+      "videoId": "c6QjXOFs4MM",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Australia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/c6QjXOFs4MM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
     },
     {
       "title": "Team Feature: Spain | Pride Of The Nation",
@@ -58,6 +97,20 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/nnwDp_0Vz3M/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "June 13 Matchday Recap | #FIFAWorldCup @aramco",
+      "videoId": "D__h_UmhViQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/D__h_UmhViQ/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
@@ -126,7 +179,7 @@
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Australia's first goal of #FIFAWorldCup 2026 🇦🇺 #FIFAWorldCupOnYT",
+      "title": "Australia's first goal of #FIFAWorldCup 2026 ���🇺 #FIFAWorldCupOnYT",
       "videoId": "eRQsqOCMyXo",
       "channel": "FIFA",
       "publishedAt": "2026-06-14",
@@ -187,104 +240,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/QRLHi26dGeM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Post-Match Interviews: Haiti 0-1 Scotland",
-      "videoId": "56tHphNuNpA",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Scotland",
-        "Haiti"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/56tHphNuNpA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Emam Ashour Reads An Emotional Letter | Letters That Unite | FIFA World Cup 2026",
-      "videoId": "2rOgDyDWTf0",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/2rOgDyDWTf0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Haiti 🆚 Scotland #FIFAWorldCupOnYT",
-      "videoId": "PpsGG4kqA1E",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Scotland",
-        "Haiti"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PpsGG4kqA1E/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "John McGinn Goal | Haiti 0-1 Scotland | FIFA World Cup 2026™",
-      "videoId": "kg3_vkhWVf4",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Scotland",
-        "Haiti"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/kg3_vkhWVf4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "John McGinn scores Scotland’s first goal of FIFA World Cup 2026 #FIFAWorldCupOnYT",
-      "videoId": "86cYmMeJOpY",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Scotland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/86cYmMeJOpY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Vinicius Jr Goal | Brazil 1-1 Morocco | FIFA World Cup 2026™",
-      "videoId": "zKPmHQwyOtU",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/zKPmHQwyOtU/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
