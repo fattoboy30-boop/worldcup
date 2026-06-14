@@ -1,11 +1,51 @@
 {
-  "lastUpdated": "2026-06-14T05:52:55.657Z",
+  "lastUpdated": "2026-06-14T08:20:21.533Z",
   "featured": {
-    "match": "86cYmMeJOpY",
-    "highlight": "86cYmMeJOpY",
+    "match": "XFZbetzKNNI",
+    "highlight": "XFZbetzKNNI",
     "interview": "fkr-G660_HI"
   },
   "videos": [
+    {
+      "title": "South Korea vs Czechia Match Highlight | FIFA World Cup 2026™",
+      "videoId": "XFZbetzKNNI",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "South Korea",
+        "Czechia",
+        "Czech",
+        "Korea"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/XFZbetzKNNI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia",
+      "source": "match-search"
+    },
+    {
+      "title": "South Korea vs Czechia 2-1 Highlights | FIFA World Cup 2026",
+      "videoId": "w0BIobt_T6M",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "South Korea",
+        "Czechia",
+        "Czech",
+        "Korea"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/w0BIobt_T6M/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia",
+      "source": "match-search"
+    },
     {
       "title": "John McGinn scores Scotland’s first goal of FIFA World Cup 2026 #FIFAWorldCupOnYT",
       "videoId": "86cYmMeJOpY",
