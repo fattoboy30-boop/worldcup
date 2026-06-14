@@ -1,30 +1,58 @@
 {
-  "lastUpdated": "2026-06-14T20:00:35.197Z",
+  "lastUpdated": "2026-06-14T21:16:48.664Z",
   "featured": {
-    "match": "9VWzTri0mho",
-    "highlight": "9VWzTri0mho",
+    "match": "kix7_b8ys_8",
+    "highlight": "kix7_b8ys_8",
     "interview": "0_pataEnfUc"
   },
   "videos": [
     {
-      "title": "South Korea vs Czechia | Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "9VWzTri0mho",
-      "channel": "Web Search",
+      "title": "Post-Match Interviews: Germany 7-1 Curacao",
+      "videoId": "kix7_b8ys_8",
+      "channel": "FIFA",
       "publishedAt": "2026-06-14",
       "category": "Highlights",
       "team": [
-        "South Korea",
-        "Czechia",
-        "Czech",
-        "Korea"
+        "Germany"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/9VWzTri0mho/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/kix7_b8ys_8/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "South Korea vs Czechia",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Post-Match Press Conference: Curacao's Dick Advocaat On 7-1 Loss To Germany",
+      "videoId": "sk1gM90XCT8",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Germany"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/sk1gM90XCT8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Cabo Verde Train Before Spain",
+      "videoId": "k4n7WO4ue5Q",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/k4n7WO4ue5Q/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
     },
     {
       "title": "Belgium Train Before Egypt",
@@ -222,48 +250,15 @@
       "fixtureTeams": "Mexico vs South Africa"
     },
     {
-      "title": "Tunisia Train Before Sweden",
-      "videoId": "yeyyG-oas3Y",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Tunisia",
-        "Sweden"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/yeyyG-oas3Y/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Team Feature: Cabo Verde | The World Cup 2026 Debutants Powered by A Global Diaspora",
-      "videoId": "XBmcqUOhwbc",
-      "channel": "FIFA",
+      "title": "Best tradition 🙌 (via @onsoranje/TT)",
+      "videoId": "EKWuZiProDQ",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-14",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/XBmcqUOhwbc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Post-Match Press Conference: Turkiye's Vincenzo Montella On 2-0 Loss Against Australia",
-      "videoId": "7npGcT62qCc",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Australia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7npGcT62qCc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/EKWuZiProDQ/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
@@ -489,22 +484,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/daGVkx4zC3U/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Craig Burley and Stewart Robson say Brazil aren't frightening 👀",
-      "videoId": "1EI2NHDk7QA",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Brazil"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/1EI2NHDk7QA/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
