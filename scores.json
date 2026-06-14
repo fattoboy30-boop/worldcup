@@ -1,24 +1,24 @@
 {
-  "lastUpdated": "2026-06-13T23:47:02.466Z",
+  "lastUpdated": "2026-06-14T01:38:53.413Z",
   "liveMatches": [
     {
-      "id": 760419,
-      "date": "2026-06-13",
-      "time": "22:00",
-      "utcDate": "2026-06-13T22:00Z",
-      "homeTeam": "Brazil",
-      "homeCode": "br",
-      "homeScore": 1,
-      "awayTeam": "Morocco",
-      "awayCode": "ma",
+      "id": 760418,
+      "date": "2026-06-14",
+      "time": "01:00",
+      "utcDate": "2026-06-14T01:00Z",
+      "homeTeam": "Haiti",
+      "homeCode": "ht",
+      "homeScore": 0,
+      "awayTeam": "Scotland",
+      "awayCode": "gb-sct",
       "awayScore": 1,
-      "venue": "MetLife Stadium",
-      "city": "East Rutherford, New Jersey",
+      "venue": "Gillette Stadium",
+      "city": "Foxborough, Massachusetts",
       "status": "in_play",
       "group": "C",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "82'",
+      "minute": "36'",
       "halfTime": [
         null,
         null
@@ -140,23 +140,21 @@
         null,
         null
       ]
-    }
-  ],
-  "upcomingMatches": [
+    },
     {
-      "id": 760418,
-      "date": "2026-06-14",
-      "time": "01:00",
-      "utcDate": "2026-06-14T01:00Z",
-      "homeTeam": "Haiti",
-      "homeCode": "ht",
-      "homeScore": 0,
-      "awayTeam": "Scotland",
-      "awayCode": "gb-sct",
-      "awayScore": 0,
-      "venue": "Gillette Stadium",
-      "city": "Foxborough, Massachusetts",
-      "status": "timed",
+      "id": 760419,
+      "date": "2026-06-13",
+      "time": "22:00",
+      "utcDate": "2026-06-13T22:00Z",
+      "homeTeam": "Brazil",
+      "homeCode": "br",
+      "homeScore": 1,
+      "awayTeam": "Morocco",
+      "awayCode": "ma",
+      "awayScore": 1,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford, New Jersey",
+      "status": "finished",
       "group": "C",
       "stage": "GROUP_STAGE",
       "matchday": 0,
@@ -165,7 +163,9 @@
         null,
         null
       ]
-    },
+    }
+  ],
+  "upcomingMatches": [
     {
       "id": 760421,
       "date": "2026-06-14",

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T23:47:02.470Z",
+  "lastUpdated": "2026-06-14T01:38:53.416Z",
   "fixtures": [
     {
       "id": 760415,
@@ -139,11 +139,11 @@
       "awayScore": 1,
       "venue": "MetLife Stadium",
       "city": "East Rutherford, New Jersey",
-      "status": "in_play",
+      "status": "finished",
       "group": "C",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "82'",
+      "minute": null,
       "halfTime": [
         null,
         null
@@ -161,14 +161,14 @@
       "homeScore": 0,
       "awayTeam": "Scotland",
       "awayCode": "gb-sct",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "Gillette Stadium",
       "city": "Foxborough, Massachusetts",
-      "status": "timed",
+      "status": "in_play",
       "group": "C",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "36'",
       "halfTime": [
         null,
         null

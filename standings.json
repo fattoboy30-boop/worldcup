@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T23:47:02.471Z",
+  "lastUpdated": "2026-06-14T01:38:53.417Z",
   "groups": {
     "A": {
       "teams": [
@@ -139,6 +139,36 @@
           "ga": 4,
           "gd": -3,
           "points": 0,
+          "position": 2
+        }
+      ]
+    },
+    "C": {
+      "teams": [
+        {
+          "name": "Brazil",
+          "code": "br",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1,
+          "position": 1
+        },
+        {
+          "name": "Morocco",
+          "code": "ma",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1,
           "position": 2
         }
       ]
