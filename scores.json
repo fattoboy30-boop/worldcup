@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T17:41:25.602Z",
+  "lastUpdated": "2026-06-14T18:58:03.036Z",
   "liveMatches": [
     {
       "id": 760422,
@@ -8,7 +8,7 @@
       "utcDate": "2026-06-14T17:00Z",
       "homeTeam": "Germany",
       "homeCode": "de",
-      "homeScore": 1,
+      "homeScore": 7,
       "awayTeam": "Curaçao",
       "awayCode": "un",
       "awayScore": 1,
@@ -18,7 +18,7 @@
       "group": "E",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "38'",
+      "minute": "90'+4'",
       "halfTime": [
         null,
         null

@@ -1,11 +1,31 @@
 {
-  "lastUpdated": "2026-06-14T17:23:06.545Z",
+  "lastUpdated": "2026-06-14T18:13:50.927Z",
   "featured": {
-    "match": "PQc_jJ43-AA",
-    "highlight": "PQc_jJ43-AA",
+    "match": "9VWzTri0mho",
+    "highlight": "9VWzTri0mho",
     "interview": "0LjetaBGkDY"
   },
   "videos": [
+    {
+      "title": "South Korea vs Czechia | Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "9VWzTri0mho",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "South Korea",
+        "Czechia",
+        "Czech",
+        "Korea"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/9VWzTri0mho/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia",
+      "source": "match-search"
+    },
     {
       "title": "Team Feature: IR Iran | The Homeless Shepherd Boy Who Shocked The World",
       "videoId": "PQc_jJ43-AA",
