@@ -104,13 +104,14 @@
         function positionFrame() {
             const w = window.innerWidth;
             const h = window.innerHeight;
-            // tvgarden layout: sidebar ~260px, header ~56px, video starts below header
-            // Scale up to crop sidebar and header, showing only the video player
-            const scaleX = w / (w - 260);
-            const scaleY = h / (h - 56);
-            const scale = Math.max(scaleX, scaleY) * 1.05;
-            const offsetX = -(260 * scale - (scale - 1) * w) / scale;
-            const offsetY = -(56 * scale - (scale - 1) * h) / scale;
+            // tvgarden layout: sidebar ~260px, video player starts at ~156px from top
+            const sidebarW = 260;
+            const topOffset = 156;
+            const scaleX = w / (w - sidebarW);
+            const scaleY = h / (h - topOffset);
+            const scale = Math.max(scaleX, scaleY) * 1.02;
+            const offsetX = -(sidebarW * scale - (scale - 1) * w) / scale;
+            const offsetY = -(topOffset * scale - (scale - 1) * h) / scale;
 
             iframe.style.width = w + 'px';
             iframe.style.height = h + 'px';
