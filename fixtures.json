@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T22:54:59.922Z",
+  "lastUpdated": "2026-06-14T23:50:30.497Z",
   "fixtures": [
     {
       "id": 760415,
@@ -264,11 +264,11 @@
       "awayScore": 0,
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia, Pennsylvania",
-      "status": "timed",
+      "status": "in_play",
       "group": "E",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "45'+1'",
       "halfTime": [
         null,
         null

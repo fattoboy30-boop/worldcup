@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-14T22:54:59.919Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-06-14T23:50:30.494Z",
+  "liveMatches": [
+    {
+      "id": 760423,
+      "date": "2026-06-14",
+      "time": "23:00",
+      "utcDate": "2026-06-14T23:00Z",
+      "homeTeam": "Ivory Coast",
+      "homeCode": "ci",
+      "homeScore": 0,
+      "awayTeam": "Ecuador",
+      "awayCode": "ec",
+      "awayScore": 0,
+      "venue": "Lincoln Financial Field",
+      "city": "Philadelphia, Pennsylvania",
+      "status": "in_play",
+      "group": "E",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "45'+1'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -234,29 +258,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760423,
-      "date": "2026-06-14",
-      "time": "23:00",
-      "utcDate": "2026-06-14T23:00Z",
-      "homeTeam": "Ivory Coast",
-      "homeCode": "ci",
-      "homeScore": 0,
-      "awayTeam": "Ecuador",
-      "awayCode": "ec",
-      "awayScore": 0,
-      "venue": "Lincoln Financial Field",
-      "city": "Philadelphia, Pennsylvania",
-      "status": "timed",
-      "group": "E",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760424,
       "date": "2026-06-15",
