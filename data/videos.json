@@ -1,11 +1,64 @@
 {
-  "lastUpdated": "2026-06-15T04:49:40.615Z",
+  "lastUpdated": "2026-06-15T10:34:57.215Z",
   "featured": {
-    "match": "TcCufmPCsu4",
-    "highlight": "TcCufmPCsu4",
+    "match": "4KnEvBQELDw",
+    "highlight": "4KnEvBQELDw",
     "interview": "yeUaIpN8eEI"
   },
   "videos": [
+    {
+      "title": "USA vs Paraguay 2026 FIFA World Cup | HIGHLIGHTS - YouTube",
+      "videoId": "4KnEvBQELDw",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [
+        "USA",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4KnEvBQELDw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay",
+      "source": "match-search"
+    },
+    {
+      "title": "United States vs Paraguay Extended Highlights | 2026 FIFA World Cup™",
+      "videoId": "QtIy8Zz4upQ",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QtIy8Zz4upQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay",
+      "source": "match-search"
+    },
+    {
+      "title": "FIFA World Cup: USA vs. Paraguay extended highlights - TSN",
+      "videoId": "9qG6_Igbkv8",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [
+        "USA",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/9qG6_Igbkv8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay",
+      "source": "match-search"
+    },
     {
       "title": "Highlights | Haiti 0-1 Scotland | FIFA World Cup 2026™",
       "videoId": "TcCufmPCsu4",
