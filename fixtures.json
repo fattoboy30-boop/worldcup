@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T04:11:54.408Z",
+  "lastUpdated": "2026-06-15T05:24:52.446Z",
   "fixtures": [
     {
       "id": 760415,
@@ -283,17 +283,17 @@
       "utcDate": "2026-06-15T02:00Z",
       "homeTeam": "Sweden",
       "homeCode": "se",
-      "homeScore": 4,
+      "homeScore": 5,
       "awayTeam": "Tunisia",
       "awayCode": "tn",
       "awayScore": 1,
       "venue": "Estadio BBVA",
       "city": "Guadalupe",
-      "status": "in_play",
+      "status": "finished",
       "group": "F",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "90'+5'",
+      "minute": null,
       "halfTime": [
         null,
         null

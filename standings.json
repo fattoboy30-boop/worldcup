@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T04:11:54.410Z",
+  "lastUpdated": "2026-06-15T05:24:52.447Z",
   "groups": {
     "A": {
       "teams": [
@@ -284,6 +284,19 @@
     "F": {
       "teams": [
         {
+          "name": "Sweden",
+          "code": "se",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 5,
+          "ga": 1,
+          "gd": 4,
+          "points": 3,
+          "position": 1
+        },
+        {
           "name": "Netherlands",
           "code": "nl",
           "played": 1,
@@ -294,7 +307,7 @@
           "ga": 2,
           "gd": 0,
           "points": 1,
-          "position": 1
+          "position": 2
         },
         {
           "name": "Japan",
@@ -307,7 +320,20 @@
           "ga": 2,
           "gd": 0,
           "points": 1,
-          "position": 2
+          "position": 3
+        },
+        {
+          "name": "Tunisia",
+          "code": "tn",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 1,
+          "ga": 5,
+          "gd": -4,
+          "points": 0,
+          "position": 4
         }
       ]
     }
