@@ -1,24 +1,24 @@
 {
-  "lastUpdated": "2026-06-15T00:06:00.352Z",
+  "lastUpdated": "2026-06-15T04:11:54.405Z",
   "liveMatches": [
     {
-      "id": 760423,
-      "date": "2026-06-14",
-      "time": "23:00",
-      "utcDate": "2026-06-14T23:00Z",
-      "homeTeam": "Ivory Coast",
-      "homeCode": "ci",
-      "homeScore": 0,
-      "awayTeam": "Ecuador",
-      "awayCode": "ec",
-      "awayScore": 0,
-      "venue": "Lincoln Financial Field",
-      "city": "Philadelphia, Pennsylvania",
+      "id": 760424,
+      "date": "2026-06-15",
+      "time": "02:00",
+      "utcDate": "2026-06-15T02:00Z",
+      "homeTeam": "Sweden",
+      "homeCode": "se",
+      "homeScore": 4,
+      "awayTeam": "Tunisia",
+      "awayCode": "tn",
+      "awayScore": 1,
+      "venue": "Estadio BBVA",
+      "city": "Guadalupe",
       "status": "in_play",
-      "group": "E",
+      "group": "F",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "45'+4'",
+      "minute": "90'+5'",
       "halfTime": [
         null,
         null
@@ -255,24 +255,22 @@
         null,
         null
       ]
-    }
-  ],
-  "upcomingMatches": [
+    },
     {
-      "id": 760424,
-      "date": "2026-06-15",
-      "time": "02:00",
-      "utcDate": "2026-06-15T02:00Z",
-      "homeTeam": "Sweden",
-      "homeCode": "se",
-      "homeScore": 0,
-      "awayTeam": "Tunisia",
-      "awayCode": "tn",
+      "id": 760423,
+      "date": "2026-06-14",
+      "time": "23:00",
+      "utcDate": "2026-06-14T23:00Z",
+      "homeTeam": "Ivory Coast",
+      "homeCode": "ci",
+      "homeScore": 1,
+      "awayTeam": "Ecuador",
+      "awayCode": "ec",
       "awayScore": 0,
-      "venue": "Estadio BBVA",
-      "city": "Guadalupe",
-      "status": "timed",
-      "group": "F",
+      "venue": "Lincoln Financial Field",
+      "city": "Philadelphia, Pennsylvania",
+      "status": "finished",
+      "group": "E",
       "stage": "GROUP_STAGE",
       "matchday": 0,
       "minute": null,
@@ -280,7 +278,9 @@
         null,
         null
       ]
-    },
+    }
+  ],
+  "upcomingMatches": [
     {
       "id": 760428,
       "date": "2026-06-15",

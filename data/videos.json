@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-06-14T23:51:12.242Z",
+  "lastUpdated": "2026-06-15T04:12:31.815Z",
   "featured": {
-    "match": "9VWzTri0mho",
-    "highlight": "9VWzTri0mho",
+    "match": "YtAgeWRt84Y",
+    "highlight": "YtAgeWRt84Y",
     "interview": "J7u3N3kpXng"
   },
   "videos": [
+    {
+      "title": "USA vs Paraguay | All Goals & Extended Highlights | FIFA World Cup 2026",
+      "videoId": "YtAgeWRt84Y",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [
+        "USA",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/YtAgeWRt84Y/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay",
+      "source": "match-search"
+    },
     {
       "title": "South Korea vs Czechia | Full Highlights | FIFA World Cup 2026 - YouTube",
       "videoId": "9VWzTri0mho",

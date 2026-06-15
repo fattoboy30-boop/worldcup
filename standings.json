@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T00:06:00.356Z",
+  "lastUpdated": "2026-06-15T04:11:54.410Z",
   "groups": {
     "A": {
       "teams": [
@@ -241,6 +241,32 @@
           "position": 1
         },
         {
+          "name": "Ivory Coast",
+          "code": "ci",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 1,
+          "ga": 0,
+          "gd": 1,
+          "points": 3,
+          "position": 2
+        },
+        {
+          "name": "Ecuador",
+          "code": "ec",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 0,
+          "ga": 1,
+          "gd": -1,
+          "points": 0,
+          "position": 3
+        },
+        {
           "name": "Curaçao",
           "code": "un",
           "played": 1,
@@ -251,7 +277,7 @@
           "ga": 7,
           "gd": -6,
           "points": 0,
-          "position": 2
+          "position": 4
         }
       ]
     },
