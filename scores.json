@@ -1,24 +1,24 @@
 {
-  "lastUpdated": "2026-06-15T16:28:54.827Z",
+  "lastUpdated": "2026-06-15T19:56:23.074Z",
   "liveMatches": [
     {
-      "id": 760428,
+      "id": 760426,
       "date": "2026-06-15",
-      "time": "16:00",
-      "utcDate": "2026-06-15T16:00Z",
-      "homeTeam": "Spain",
-      "homeCode": "es",
+      "time": "19:00",
+      "utcDate": "2026-06-15T19:00Z",
+      "homeTeam": "Belgium",
+      "homeCode": "be",
       "homeScore": 0,
-      "awayTeam": "Cape Verde",
-      "awayCode": "un",
-      "awayScore": 0,
-      "venue": "Mercedes-Benz Stadium",
-      "city": "Atlanta, Georgia",
+      "awayTeam": "Egypt",
+      "awayCode": "eg",
+      "awayScore": 1,
+      "venue": "Lumen Field",
+      "city": "Seattle, Washington",
       "status": "in_play",
-      "group": "H",
+      "group": "G",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "28'",
+      "minute": "45'+4'",
       "halfTime": [
         null,
         null
@@ -301,24 +301,22 @@
         null,
         null
       ]
-    }
-  ],
-  "upcomingMatches": [
+    },
     {
-      "id": 760426,
+      "id": 760428,
       "date": "2026-06-15",
-      "time": "19:00",
-      "utcDate": "2026-06-15T19:00Z",
-      "homeTeam": "Belgium",
-      "homeCode": "be",
+      "time": "16:00",
+      "utcDate": "2026-06-15T16:00Z",
+      "homeTeam": "Spain",
+      "homeCode": "es",
       "homeScore": 0,
-      "awayTeam": "Egypt",
-      "awayCode": "eg",
+      "awayTeam": "Cape Verde",
+      "awayCode": "un",
       "awayScore": 0,
-      "venue": "Lumen Field",
-      "city": "Seattle, Washington",
-      "status": "timed",
-      "group": "G",
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta, Georgia",
+      "status": "finished",
+      "group": "H",
       "stage": "GROUP_STAGE",
       "matchday": 0,
       "minute": null,
@@ -326,7 +324,9 @@
         null,
         null
       ]
-    },
+    }
+  ],
+  "upcomingMatches": [
     {
       "id": 760429,
       "date": "2026-06-15",

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T16:28:54.831Z",
+  "lastUpdated": "2026-06-15T19:56:23.079Z",
   "fixtures": [
     {
       "id": 760415,
@@ -314,11 +314,11 @@
       "awayScore": 0,
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta, Georgia",
-      "status": "in_play",
+      "status": "finished",
       "group": "H",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "28'",
+      "minute": null,
       "halfTime": [
         null,
         null
@@ -336,14 +336,14 @@
       "homeScore": 0,
       "awayTeam": "Egypt",
       "awayCode": "eg",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "Lumen Field",
       "city": "Seattle, Washington",
-      "status": "timed",
+      "status": "in_play",
       "group": "G",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "45'+4'",
       "halfTime": [
         null,
         null

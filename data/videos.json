@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-06-15T16:20:32.781Z",
+  "lastUpdated": "2026-06-15T19:57:11.086Z",
   "featured": {
-    "match": "-KFURiqcapU",
-    "highlight": "-KFURiqcapU",
+    "match": "3D0jjQGgmdI",
+    "highlight": "3D0jjQGgmdI",
     "interview": "wzJ8snYUdXA"
   },
   "videos": [
+    {
+      "title": "USA vs Paraguay 4-1 Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "3D0jjQGgmdI",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [
+        "USA",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/3D0jjQGgmdI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay",
+      "source": "match-search"
+    },
     {
       "title": "Alt Cast Highlights: Australia v Türkiye | FIFA World Cup 2026",
       "videoId": "-KFURiqcapU",

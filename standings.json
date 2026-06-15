@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T16:28:54.832Z",
+  "lastUpdated": "2026-06-15T19:56:23.125Z",
   "groups": {
     "A": {
       "teams": [
@@ -334,6 +334,36 @@
           "gd": -4,
           "points": 0,
           "position": 4
+        }
+      ]
+    },
+    "H": {
+      "teams": [
+        {
+          "name": "Spain",
+          "code": "es",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 1,
+          "position": 1
+        },
+        {
+          "name": "Cape Verde",
+          "code": "un",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 1,
+          "position": 2
         }
       ]
     }
