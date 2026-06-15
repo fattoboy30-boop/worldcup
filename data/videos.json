@@ -1,48 +1,170 @@
 {
-  "lastUpdated": "2026-06-15T16:10:40.086Z",
+  "lastUpdated": "2026-06-15T16:20:32.781Z",
   "featured": {
-    "match": "4KnEvBQELDw",
-    "highlight": "4KnEvBQELDw",
-    "interview": "yeUaIpN8eEI"
+    "match": "-KFURiqcapU",
+    "highlight": "-KFURiqcapU",
+    "interview": "wzJ8snYUdXA"
   },
   "videos": [
     {
-      "title": "USA vs Paraguay 2026 FIFA World Cup | HIGHLIGHTS - YouTube",
-      "videoId": "4KnEvBQELDw",
-      "channel": "Web Search",
+      "title": "Alt Cast Highlights: Australia v Türkiye | FIFA World Cup 2026",
+      "videoId": "-KFURiqcapU",
+      "channel": "FIFA",
       "publishedAt": "2026-06-15",
       "category": "Highlights",
       "team": [
-        "USA",
-        "Paraguay"
+        "Australia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/4KnEvBQELDw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/-KFURiqcapU/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "United States vs Paraguay",
-      "source": "match-search"
+      "fixtureTeams": "South Korea vs Czechia"
     },
     {
-      "title": "United States vs Paraguay Extended Highlights | 2026 FIFA World Cup™",
-      "videoId": "QtIy8Zz4upQ",
-      "channel": "Web Search",
+      "title": "Memo Ochoa Receives Emotional Letter From His Daughter | Letters That Unite | FIFA World Cup 2026",
+      "videoId": "trI37AoY-1I",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/trI37AoY-1I/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "Alt Cast Highlights: Haiti v Scotland | FIFA World Cup 2026",
+      "videoId": "yoZfi1qoEzg",
+      "channel": "FIFA",
       "publishedAt": "2026-06-15",
       "category": "Highlights",
       "team": [
-        "Paraguay"
+        "Scotland",
+        "Haiti"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/QtIy8Zz4upQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/yoZfi1qoEzg/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "United States vs Paraguay",
-      "source": "match-search"
+      "fixtureTeams": "South Korea vs Czechia"
     },
     {
-      "title": "Lions of Mesopotamia: Iraq’s 40-Year Wait to World Cup History",
+      "title": "Team Feature: Senegal | Remembering The 2002 Win Over France",
+      "videoId": "1AzU-LtAP3g",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Senegal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/1AzU-LtAP3g/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "Match Preview: France v Senegal: Crystal Palace Stars Face-Off",
+      "videoId": "6ksTs4mRILw",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Senegal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6ksTs4mRILw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "Team Feature: Algeria | The Rise of \"Mazadona,\" Algeria’s Secret World Cup Weapon",
+      "videoId": "4iuPJ1pdNkY",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4iuPJ1pdNkY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "Team Feature: Norway | he Vikings Are Coming: Behind Norway’s Viral World Cup Team Photo",
+      "videoId": "wzJ8snYUdXA",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-15",
+      "category": "Viral",
+      "team": [
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/wzJ8snYUdXA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "When Uruguay Kick Off Their World Cup Today!",
+      "videoId": "S9AZVXMKQwo",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [
+        "Uruguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/S9AZVXMKQwo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "Team Feature: Jordan | An Ambition Realised For Jordan To Reach World Cup",
+      "videoId": "Yqtl2WnY_wo",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Yqtl2WnY_wo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "FIFA Museum and Hyundai Motor present “Legacies of Champions”",
+      "videoId": "vp2abBS_BZw",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vp2abBS_BZw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "Team Feature: Iraq | Lions of Mesopotamia: Iraq’s 40-Year Wait to World Cup History",
       "videoId": "huxGmmEyqDY",
       "channel": "FIFA",
       "publishedAt": "2026-06-15",
@@ -105,406 +227,252 @@
       "fixtureTeams": "South Korea vs Czechia"
     },
     {
-      "title": "Sweden 🆚 Tunisia #FIFAWorldCup",
-      "videoId": "1R-snvCDsco",
-      "channel": "FIFA",
+      "title": "Should Canada’s Star Defender REALLY Be Playing Through This Injury?",
+      "videoId": "oVvIEh0bTkk",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-15",
       "category": "Highlights",
       "team": [
-        "Tunisia",
-        "Sweden"
+        "Canada"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/1R-snvCDsco/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/oVvIEh0bTkk/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "South Korea vs Czechia"
     },
     {
-      "title": "June 14 Matchday Recap | #FIFAWorldCup @aramco",
-      "videoId": "eMFqjc3Wlh4",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-15",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/eMFqjc3Wlh4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "South Korea vs Czechia"
-    },
-    {
-      "title": "Post-Match Interviews: Sweden 5-1 Tunisia",
-      "videoId": "annTX-ZqfmM",
-      "channel": "FIFA",
+      "title": "Argentina vs. Honduras EXTENDED HIGHLIGHTS [June 6, 2026] | ESPN FC",
+      "videoId": "jUOPAxuyEJo",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-15",
       "category": "Highlights",
       "team": [
-        "Tunisia",
-        "Sweden"
+        "Argentina"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/annTX-ZqfmM/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/jUOPAxuyEJo/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "South Korea vs Czechia"
     },
     {
-      "title": "Post-Match Press Conference: Tunisia Coach Sabri Lamouchi on 5-1 Loss to Sweden",
-      "videoId": "Ndlt4UC3qU4",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-15",
-      "category": "Highlights",
-      "team": [
-        "Tunisia",
-        "Sweden"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Ndlt4UC3qU4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "South Korea vs Czechia"
-    },
-    {
-      "title": "Post-Match Press Conference: Sweden Coach Graham Potter On 5-1 Win Against Tunisia",
-      "videoId": "ZoHRAMOwYR8",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-15",
-      "category": "Highlights",
-      "team": [
-        "Tunisia",
-        "Sweden"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ZoHRAMOwYR8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "South Korea vs Czechia"
-    },
-    {
-      "title": "Post-Match Interviews: Cote d'Ivoire 1-0 Ecuador",
-      "videoId": "8rCnm3zMtYs",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-15",
-      "category": "Highlights",
-      "team": [
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/8rCnm3zMtYs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "South Korea vs Czechia"
-    },
-    {
-      "title": "Pico Lopes Goes From Banking To The FIFA World Cup 2026 | Letters That Unite | FIFA World Cup 2026",
-      "videoId": "x2rDsyHqBj0",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-15",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/x2rDsyHqBj0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "South Korea vs Czechia"
-    },
-    {
-      "title": "Post-Match Press Conference: Ecuador Coach Sebastián Beccacece On 1-0 Loss to Cote d'Ivoire",
-      "videoId": "hErztCheY-4",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-15",
-      "category": "Highlights",
-      "team": [
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/hErztCheY-4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "South Korea vs Czechia"
-    },
-    {
-      "title": "Post-Match Press Conference: Ivorian Coach Emerse Faé On 1-0 Win against Ecuador",
-      "videoId": "FSSyL5bXTo0",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-15",
-      "category": "Highlights",
-      "team": [
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FSSyL5bXTo0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "South Korea vs Czechia"
-    },
-    {
-      "title": "Highlights | Australia 2-0 Turkiye | FIFA World Cup 2026™",
-      "videoId": "5eqzEDe8wHs",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-15",
-      "category": "Highlights",
-      "team": [
-        "Australia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/5eqzEDe8wHs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "South Korea vs Czechia"
-    },
-    {
-      "title": "Team Feature: Austria | Sasa Kalajdzic Never Gave Up On His Dream",
-      "videoId": "JBqSrpNthdI",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-15",
-      "category": "Highlights",
-      "team": [
-        "Austria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/JBqSrpNthdI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "South Korea vs Czechia"
-    },
-    {
-      "title": "Posters of themselves in the rooms 🔥 (via rafaelleao/IG)",
-      "videoId": "oc5zegbqv7w",
+      "title": "Roger Bennett reacts to the USMNT's opening win",
+      "videoId": "wfSbJa3pCFk",
       "channel": "ESPN FC",
       "publishedAt": "2026-06-15",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/oc5zegbqv7w/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/wfSbJa3pCFk/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "South Korea vs Czechia"
     },
     {
-      "title": "Paul Pogba comments on Manchester United and the USMNT | ESPN FC",
-      "videoId": "8loGHYgL8u0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-15",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/8loGHYgL8u0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "South Korea vs Czechia"
-    },
-    {
-      "title": "Which team has performed the best so far at the 2026 World Cup? 👀 | ESPN FC",
-      "videoId": "FNgclEAHD4U",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-15",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FNgclEAHD4U/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "South Korea vs Czechia"
-    },
-    {
-      "title": "Taylor Twellman says the expanded World Cup field jeopardizes the competition 🗣️ | SC with SVP",
-      "videoId": "p0FvfYYuxqw",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-15",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/p0FvfYYuxqw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "South Korea vs Czechia"
-    },
-    {
-      "title": "Will Carlo Ancelotti regret leaving Joao Pedro at home? 🤔 | ESPN FC Extra Time",
-      "videoId": "evd4QD0okVk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-15",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/evd4QD0okVk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "South Korea vs Czechia"
-    },
-    {
-      "title": "Ecuador 'doesn't create enough chances' - Ale Moreno 🗣️ REACTION to loss to Ivory Coast | ESPN FC",
-      "videoId": "yeUaIpN8eEI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-15",
-      "category": "Viral",
-      "team": [
-        "Ecuador",
-        "Ivory Coast"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/yeUaIpN8eEI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "South Korea vs Czechia"
-    },
-    {
-      "title": "Marc Cucurella leaves Chelsea to join Real Madrid 🚨 How does he fit? | ESPN FC",
-      "videoId": "NSpo58gOoxc",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-15",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/NSpo58gOoxc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "South Korea vs Czechia"
-    },
-    {
-      "title": "Should Germany be taken seriously as possible WORLD CUP WINNERS? 👀 | ESPN FC",
-      "videoId": "PuLIJnfkwtA",
+      "title": "Roger Bennett says the USMNT's 4-1 win over Paraguay was a STATEMENT win 👀 | First Take",
+      "videoId": "kUlCJ67zB0Y",
       "channel": "ESPN FC",
       "publishedAt": "2026-06-15",
       "category": "Highlights",
       "team": [
-        "Germany"
+        "Paraguay"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PuLIJnfkwtA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/kUlCJ67zB0Y/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "South Korea vs Czechia"
     },
     {
-      "title": "What role will Neymar play in the World Cup for Brazil when he returns from injury⁉️ | ESPN FC",
-      "videoId": "-KROLWaXps0",
+      "title": "Spain's dish is silky and smooth",
+      "videoId": "BzouqiqNSUk",
       "channel": "ESPN FC",
       "publishedAt": "2026-06-15",
       "category": "Highlights",
       "team": [
-        "Brazil"
+        "Spain"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-KROLWaXps0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/BzouqiqNSUk/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "South Korea vs Czechia"
     },
     {
-      "title": "‘They don’t have enough’ 😳 How far can the Netherlands go in the World Cup? | ESPN FC",
-      "videoId": "B8k35quAtT0",
+      "title": "Lamine Yamal EXPECTATIONS + Netherlands vs. Japan’s THRILLER | ESPN FC",
+      "videoId": "g-ozxjJLvxE",
       "channel": "ESPN FC",
       "publishedAt": "2026-06-15",
       "category": "Highlights",
-      "team": [
-        "Netherlands"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/B8k35quAtT0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "South Korea vs Czechia"
-    },
-    {
-      "title": "‘BEST GAME SO FAR’ 🔥 Netherlands vs. Japan REACTION | ESPN FC",
-      "videoId": "J7u3N3kpXng",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-14",
-      "category": "Viral",
       "team": [
         "Netherlands",
         "Japan"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/J7u3N3kpXng/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/g-ozxjJLvxE/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
+      "fixtureTeams": "South Korea vs Czechia"
     },
     {
-      "title": "Best tradition 🙌 (via @onsoranje/TT)",
-      "videoId": "EKWuZiProDQ",
+      "title": "Can USMNT keep the momentum going after defeating Paraguay? 🤨 | Get Up",
+      "videoId": "tyorc8xwPJs",
       "channel": "ESPN FC",
-      "publishedAt": "2026-06-14",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tyorc8xwPJs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "ESPN FC and Tyler Adams have HIGH PRAISE for Folarin Balogun",
+      "videoId": "esPASCWxVEg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-15",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/EKWuZiProDQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/esPASCWxVEg/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
+      "fixtureTeams": "South Korea vs Czechia"
     },
     {
-      "title": "REACTION to Germany’s DOMINANT win vs. Curacao 🍿 How far can they go in the World Cup? | ESPN FC",
-      "videoId": "0_pataEnfUc",
+      "title": "Paul Pogba on France 2018 vs. 2026",
+      "videoId": "wwngYEBzi4A",
       "channel": "ESPN FC",
-      "publishedAt": "2026-06-14",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [
+        "France"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/wwngYEBzi4A/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "REPORTS: Tunisia SACK manager following 5-1 defeat to Sweden?! | ESPN FC",
+      "videoId": "4y1cF-tHbQY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [
+        "Tunisia",
+        "Sweden"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4y1cF-tHbQY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "Kylian Mbappe is the best striker of his generation - Paul Pogba | ESPN FC",
+      "videoId": "rQli3t88ZMQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/rQli3t88ZMQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "Spain need Lamine Yamal to have ‘an amazing’ World Cup 🍿| ESPN FC",
+      "videoId": "OkayukFAcoE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/OkayukFAcoE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "Kylian Mbappe. Period",
+      "videoId": "bFDBSZZeDh4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/bFDBSZZeDh4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "Germany vs. Curacao FULL REACTION: Still questions to be answered? | ESPN FC",
+      "videoId": "oGFU-s_bBNg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-15",
       "category": "Viral",
       "team": [
         "Germany"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/0_pataEnfUc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/oGFU-s_bBNg/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
+      "fixtureTeams": "South Korea vs Czechia"
     },
     {
-      "title": "Paul Pogba believes France’s 2026 squad is BETTER than his 2018 France squad | ESPN FC",
-      "videoId": "1xR-J3USfKc",
+      "title": "Issues with the Netherlands’ approach against Japan?! | ESPN FC",
+      "videoId": "gdad0U2u2Lk",
       "channel": "ESPN FC",
-      "publishedAt": "2026-06-14",
-      "category": "Viral",
-      "team": [
-        "France"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/1xR-J3USfKc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "SLOW START 😧 Should Brazil be CONCERNED about 1-1 draw vs. Morocco?! | ESPN FC",
-      "videoId": "JMIVM_VYD6c",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-14",
+      "publishedAt": "2026-06-15",
       "category": "Highlights",
       "team": [
-        "Brazil",
-        "Morocco"
+        "Netherlands",
+        "Japan"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/JMIVM_VYD6c/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/gdad0U2u2Lk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "WATCH LIVE | Spain v Cabo Verde | Group Stage H | FIFA World Cup 2026™",
+      "videoId": "Z7vVeScLDf4",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-10",
+      "category": "Highlights",
+      "team": [
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Z7vVeScLDf4/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
