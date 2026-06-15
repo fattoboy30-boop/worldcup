@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T20:03:44.725Z",
+  "lastUpdated": "2026-06-15T22:25:57.831Z",
   "groups": {
     "A": {
       "teams": [
@@ -361,6 +361,36 @@
           "lost": 0,
           "gf": 0,
           "ga": 0,
+          "gd": 0,
+          "points": 1,
+          "position": 2
+        }
+      ]
+    },
+    "G": {
+      "teams": [
+        {
+          "name": "Belgium",
+          "code": "be",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1,
+          "position": 1
+        },
+        {
+          "name": "Egypt",
+          "code": "eg",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
           "gd": 0,
           "points": 1,
           "position": 2

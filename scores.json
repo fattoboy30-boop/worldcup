@@ -1,24 +1,24 @@
 {
-  "lastUpdated": "2026-06-15T20:03:44.634Z",
+  "lastUpdated": "2026-06-15T22:25:57.825Z",
   "liveMatches": [
     {
-      "id": 760426,
+      "id": 760429,
       "date": "2026-06-15",
-      "time": "19:00",
-      "utcDate": "2026-06-15T19:00Z",
-      "homeTeam": "Belgium",
-      "homeCode": "be",
+      "time": "22:00",
+      "utcDate": "2026-06-15T22:00Z",
+      "homeTeam": "Saudi Arabia",
+      "homeCode": "sa",
       "homeScore": 0,
-      "awayTeam": "Egypt",
-      "awayCode": "eg",
-      "awayScore": 1,
-      "venue": "Lumen Field",
-      "city": "Seattle, Washington",
+      "awayTeam": "Uruguay",
+      "awayCode": "uy",
+      "awayScore": 0,
+      "venue": "Hard Rock Stadium",
+      "city": "Miami Gardens, Florida",
       "status": "in_play",
-      "group": "G",
+      "group": "H",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "45'+4'",
+      "minute": "21'",
       "halfTime": [
         null,
         null
@@ -324,24 +324,22 @@
         null,
         null
       ]
-    }
-  ],
-  "upcomingMatches": [
+    },
     {
-      "id": 760429,
+      "id": 760426,
       "date": "2026-06-15",
-      "time": "22:00",
-      "utcDate": "2026-06-15T22:00Z",
-      "homeTeam": "Saudi Arabia",
-      "homeCode": "sa",
-      "homeScore": 0,
-      "awayTeam": "Uruguay",
-      "awayCode": "uy",
-      "awayScore": 0,
-      "venue": "Hard Rock Stadium",
-      "city": "Miami Gardens, Florida",
-      "status": "timed",
-      "group": "H",
+      "time": "19:00",
+      "utcDate": "2026-06-15T19:00Z",
+      "homeTeam": "Belgium",
+      "homeCode": "be",
+      "homeScore": 1,
+      "awayTeam": "Egypt",
+      "awayCode": "eg",
+      "awayScore": 1,
+      "venue": "Lumen Field",
+      "city": "Seattle, Washington",
+      "status": "finished",
+      "group": "G",
       "stage": "GROUP_STAGE",
       "matchday": 0,
       "minute": null,
@@ -349,7 +347,9 @@
         null,
         null
       ]
-    },
+    }
+  ],
+  "upcomingMatches": [
     {
       "id": 760427,
       "date": "2026-06-16",

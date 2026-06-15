@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T20:03:44.724Z",
+  "lastUpdated": "2026-06-15T22:25:57.829Z",
   "fixtures": [
     {
       "id": 760415,
@@ -333,17 +333,17 @@
       "utcDate": "2026-06-15T19:00Z",
       "homeTeam": "Belgium",
       "homeCode": "be",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayTeam": "Egypt",
       "awayCode": "eg",
       "awayScore": 1,
       "venue": "Lumen Field",
       "city": "Seattle, Washington",
-      "status": "in_play",
+      "status": "finished",
       "group": "G",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "45'+4'",
+      "minute": null,
       "halfTime": [
         null,
         null
@@ -364,11 +364,11 @@
       "awayScore": 0,
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens, Florida",
-      "status": "timed",
+      "status": "in_play",
       "group": "H",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "21'",
       "halfTime": [
         null,
         null
