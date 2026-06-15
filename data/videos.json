@@ -1,48 +1,358 @@
 {
-  "lastUpdated": "2026-06-15T04:12:31.815Z",
+  "lastUpdated": "2026-06-15T04:49:40.615Z",
   "featured": {
-    "match": "YtAgeWRt84Y",
-    "highlight": "YtAgeWRt84Y",
-    "interview": "J7u3N3kpXng"
+    "match": "TcCufmPCsu4",
+    "highlight": "TcCufmPCsu4",
+    "interview": "yeUaIpN8eEI"
   },
   "videos": [
     {
-      "title": "USA vs Paraguay | All Goals & Extended Highlights | FIFA World Cup 2026",
-      "videoId": "YtAgeWRt84Y",
-      "channel": "Web Search",
+      "title": "Highlights | Haiti 0-1 Scotland | FIFA World Cup 2026™",
+      "videoId": "TcCufmPCsu4",
+      "channel": "FIFA",
       "publishedAt": "2026-06-15",
       "category": "Highlights",
       "team": [
-        "USA",
-        "Paraguay"
+        "Scotland",
+        "Haiti"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/YtAgeWRt84Y/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/TcCufmPCsu4/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "United States vs Paraguay",
-      "source": "match-search"
+      "fixtureTeams": "South Korea vs Czechia"
     },
     {
-      "title": "South Korea vs Czechia | Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "9VWzTri0mho",
-      "channel": "Web Search",
+      "title": "Netherlands 🆚 Japan #FIFAWorldCup #FIFAWorldCupOnYT",
+      "videoId": "njA-jfmz_gc",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/njA-jfmz_gc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "Uruguay On Playing Saudi Arabia | Marcelo Bielsa Takes Questions",
+      "videoId": "IfOhSmJ_GcM",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [
+        "Uruguay",
+        "Saudi Arabia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/IfOhSmJ_GcM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "WATCH LIVE | Côte d'Ivoire v Ecuador | Group Stage E | FIFA World Cup 2026™",
+      "videoId": "j6Y46hMRUiA",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/j6Y46hMRUiA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "New Zealand On Playing IR Iran | Darren Bazeley & Chris Wood Take Questions",
+      "videoId": "6zFY9Id7USs",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [
+        "Iran"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6zFY9Id7USs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "Kamada and a lucky goal to equalize. 🇯🇵#FIFAWorldCup #FIFAWorldCupOnYT",
+      "videoId": "L0l5YBIddBY",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/L0l5YBIddBY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "VVD doing VVD things! 🇳🇱#FIFAWorldCup #FIFAWorldCupOnYT",
+      "videoId": "jkLRNnm-YFk",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jkLRNnm-YFk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "Egypt On Playing Belgium |  Hossam Hassan Takes Questions",
+      "videoId": "zWA4S94caeg",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [
+        "Belgium",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/zWA4S94caeg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "Cabo Verde On Playing Spain | Pedro Leitão Brito & Ryan Mendes Take Questions",
+      "videoId": "B7k1bXh8yu0",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/B7k1bXh8yu0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "Highlights | Brazil 1-1 Morocco | FIFA World Cup 2026™",
+      "videoId": "ECnK7UzAjIs",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ECnK7UzAjIs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "Which team has performed the best so far at the 2026 World Cup? 👀 | ESPN FC",
+      "videoId": "FNgclEAHD4U",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/FNgclEAHD4U/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "Taylor Twellman says the expanded World Cup field jeopardizes the competition 🗣️ | SC with SVP",
+      "videoId": "p0FvfYYuxqw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/p0FvfYYuxqw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "Will Carlo Ancelotti regret leaving Joao Pedro at home? 🤔 | ESPN FC Extra Time",
+      "videoId": "evd4QD0okVk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/evd4QD0okVk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "Ecuador 'doesn't create enough chances' - Ale Moreno 🗣️ REACTION to loss to Ivory Coast | ESPN FC",
+      "videoId": "yeUaIpN8eEI",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-15",
+      "category": "Viral",
+      "team": [
+        "Ecuador",
+        "Ivory Coast"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/yeUaIpN8eEI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "Marc Cucurella leaves Chelsea to join Real Madrid 🚨 How does he fit? | ESPN FC",
+      "videoId": "NSpo58gOoxc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/NSpo58gOoxc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "Should Germany be taken seriously as possible WORLD CUP WINNERS? 👀 | ESPN FC",
+      "videoId": "PuLIJnfkwtA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [
+        "Germany"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/PuLIJnfkwtA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "What role will Neymar play in the World Cup for Brazil when he returns from injury⁉️ | ESPN FC",
+      "videoId": "-KROLWaXps0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [
+        "Brazil"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-KROLWaXps0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "‘They don’t have enough’ 😳 How far can the Netherlands go in the World Cup? | ESPN FC",
+      "videoId": "B8k35quAtT0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [
+        "Netherlands"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/B8k35quAtT0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "Post-Match Interviews: Netherlands 2-2 Japan",
+      "videoId": "eKWsan7GTx0",
+      "channel": "FIFA",
       "publishedAt": "2026-06-14",
       "category": "Highlights",
       "team": [
-        "South Korea",
-        "Czechia",
-        "Czech",
-        "Korea"
+        "Netherlands",
+        "Japan"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/9VWzTri0mho/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/eKWsan7GTx0/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "South Korea vs Czechia",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Post-Match Press Conference: Ronald Koeman On 2-2 Dutch Draw Against Japan",
+      "videoId": "19iXvdJH-AI",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/19iXvdJH-AI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Post-Match Press Conference: Japan's Hajime Moriyasu On 2-2 Draw With The Netherlands",
+      "videoId": "lWmE5L6libE",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/lWmE5L6libE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
+    },
+    {
+      "title": "Kai Havertz Goal | Germany 7-1 Curacao | FIFA World Cup 2026™",
+      "videoId": "irjJgim_FF8",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-14",
+      "category": "Highlights",
+      "team": [
+        "Germany"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/irjJgim_FF8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
     },
     {
       "title": "Saudi Arabia Train Before Uruguay",
@@ -57,213 +367,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/pDqSqVj8xy4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Great chip goal by Havertz for Germany at the FIFA World Cup! #FIFAWorldCupOnYT",
-      "videoId": "K7zF9T9-iMQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/K7zF9T9-iMQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Curacao's first-ever FIFA World Cup goal! 🇨🇼🥹#FIFAWorldCupOnYT",
-      "videoId": "sM8l-IIm-iw",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/sM8l-IIm-iw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Unreal view of Germany goal against Curaçao! 🇩🇪 #FIFAWorldCupOnYT",
-      "videoId": "TIvI6eNHbIo",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/TIvI6eNHbIo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Belgium On Playing Egypt | Rudi Garcia & Youri Tielemans Take Questions",
-      "videoId": "PcWsi5QUiPU",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Belgium",
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PcWsi5QUiPU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Team Feature: Uruguay | Muslera The Veteran",
-      "videoId": "4fSsi2Q-_kI",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Uruguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/4fSsi2Q-_kI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Germany 🆚 Curaçao #FIFAWorldCupOnYT",
-      "videoId": "Y3GoZd_sKcg",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Y3GoZd_sKcg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Spain On Playing Cabo Verde | Luis de la Fuente Takes Questions",
-      "videoId": "ZaR4_DoHyOg",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ZaR4_DoHyOg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Saudi Arabia On Playing Uruguay | Georgios Donis Takes Questions",
-      "videoId": "UUU74wuqmgA",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Uruguay",
-        "Saudi Arabia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/UUU74wuqmgA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Team Feature: New Zealand | Chris Wood On His FIFA World Cup Debut",
-      "videoId": "VIgr7NolDfk",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/VIgr7NolDfk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Highlights | Qatar 1-1 Switzerland | FIFA World Cup 2026™",
-      "videoId": "KVz43-eddIQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Switzerland",
-        "Qatar"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/KVz43-eddIQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Post-Match Press Conference: Germany's Julian Nagelsmann On 7-1 Win Against Curacao",
-      "videoId": "pJKZ-L1_Okk",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/pJKZ-L1_Okk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Post-Match Interviews: Germany 7-1 Curacao",
-      "videoId": "kix7_b8ys_8",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/kix7_b8ys_8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Post-Match Press Conference: Curacao's Dick Advocaat On 7-1 Loss To Germany",
-      "videoId": "sk1gM90XCT8",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/sk1gM90XCT8/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
@@ -376,150 +479,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/IQIKcylla9Q/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "10K Netherlands fans?! Netherlands to ‘PARK THE BUS’ vs. Japan? 🤣 | ESPN FC",
-      "videoId": "Mh5EiS9rCnE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Netherlands",
-        "Japan"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Mh5EiS9rCnE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Jermaine Jones thinks the USMNT can go ‘really far’ in World Cup?! | ESPN FC",
-      "videoId": "4lWWHDZpaQU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/4lWWHDZpaQU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "How will Christian Pulisic's status impact USMNT vs. Australia in the World Cup? | SportsCenter",
-      "videoId": "x-zm_oDjISE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Australia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/x-zm_oDjISE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Peso Pluma calls Julian Quinones a Mexican ‘legend’ following World Cup goal | ESPN FC",
-      "videoId": "x_rm7bVcqk0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/x_rm7bVcqk0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Australia vs. Turkiye FULL REACTION: Group D is wide open?! | ESPN FC",
-      "videoId": "0LjetaBGkDY",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-14",
-      "category": "Viral",
-      "team": [
-        "Australia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/0LjetaBGkDY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Brazil BAILED OUT? Scotland pressures RELEASES + USMNT thoughts! | ESPN FC",
-      "videoId": "REQg6P6D4zo",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Scotland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/REQg6P6D4zo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Craig Burley’s record FINALLY FALLS as Scotland defeat Haiti | ESPN FC",
-      "videoId": "d-ha75wUqNU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Scotland",
-        "Haiti"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/d-ha75wUqNU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "Qatar vs. Switzerland result SHOCKED the ESPN FC crew!",
-      "videoId": "-GkO2-ufTd4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-14",
-      "category": "Highlights",
-      "team": [
-        "Switzerland",
-        "Qatar"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-GkO2-ufTd4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
-    },
-    {
-      "title": "WATCH LIVE | Côte d'Ivoire v Ecuador | Group Stage E | FIFA World Cup 2026™",
-      "videoId": "j6Y46hMRUiA",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-10",
-      "category": "Highlights",
-      "team": [
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/j6Y46hMRUiA/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Africa"
