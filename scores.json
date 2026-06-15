@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-15T11:28:42.676Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-06-15T16:09:53.540Z",
+  "liveMatches": [
+    {
+      "id": 760428,
+      "date": "2026-06-15",
+      "time": "16:00",
+      "utcDate": "2026-06-15T16:00Z",
+      "homeTeam": "Spain",
+      "homeCode": "es",
+      "homeScore": 0,
+      "awayTeam": "Cape Verde",
+      "awayCode": "un",
+      "awayScore": 0,
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta, Georgia",
+      "status": "in_play",
+      "group": "H",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "8'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -280,29 +304,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760428,
-      "date": "2026-06-15",
-      "time": "16:00",
-      "utcDate": "2026-06-15T16:00Z",
-      "homeTeam": "Spain",
-      "homeCode": "es",
-      "homeScore": 0,
-      "awayTeam": "Cape Verde",
-      "awayCode": "un",
-      "awayScore": 0,
-      "venue": "Mercedes-Benz Stadium",
-      "city": "Atlanta, Georgia",
-      "status": "timed",
-      "group": "H",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760426,
       "date": "2026-06-15",

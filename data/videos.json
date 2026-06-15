@@ -1,11 +1,46 @@
 {
-  "lastUpdated": "2026-06-15T10:56:54.940Z",
+  "lastUpdated": "2026-06-15T16:10:40.086Z",
   "featured": {
-    "match": "huxGmmEyqDY",
-    "highlight": "huxGmmEyqDY",
+    "match": "4KnEvBQELDw",
+    "highlight": "4KnEvBQELDw",
     "interview": "yeUaIpN8eEI"
   },
   "videos": [
+    {
+      "title": "USA vs Paraguay 2026 FIFA World Cup | HIGHLIGHTS - YouTube",
+      "videoId": "4KnEvBQELDw",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [
+        "USA",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4KnEvBQELDw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay",
+      "source": "match-search"
+    },
+    {
+      "title": "United States vs Paraguay Extended Highlights | 2026 FIFA World Cup™",
+      "videoId": "QtIy8Zz4upQ",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QtIy8Zz4upQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay",
+      "source": "match-search"
+    },
     {
       "title": "Lions of Mesopotamia: Iraq’s 40-Year Wait to World Cup History",
       "videoId": "huxGmmEyqDY",
