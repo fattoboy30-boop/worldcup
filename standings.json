@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T22:25:57.831Z",
+  "lastUpdated": "2026-06-16T00:11:01.225Z",
   "groups": {
     "A": {
       "teams": [
@@ -340,6 +340,32 @@
     "H": {
       "teams": [
         {
+          "name": "Saudi Arabia",
+          "code": "sa",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1,
+          "position": 1
+        },
+        {
+          "name": "Uruguay",
+          "code": "uy",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1,
+          "position": 2
+        },
+        {
           "name": "Spain",
           "code": "es",
           "played": 1,
@@ -350,7 +376,7 @@
           "ga": 0,
           "gd": 0,
           "points": 1,
-          "position": 1
+          "position": 3
         },
         {
           "name": "Cape Verde",
@@ -363,7 +389,7 @@
           "ga": 0,
           "gd": 0,
           "points": 1,
-          "position": 2
+          "position": 4
         }
       ]
     },

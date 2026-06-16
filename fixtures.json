@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T22:25:57.829Z",
+  "lastUpdated": "2026-06-16T00:11:01.224Z",
   "fixtures": [
     {
       "id": 760415,
@@ -358,17 +358,17 @@
       "utcDate": "2026-06-15T22:00Z",
       "homeTeam": "Saudi Arabia",
       "homeCode": "sa",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayTeam": "Uruguay",
       "awayCode": "uy",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens, Florida",
-      "status": "in_play",
+      "status": "finished",
       "group": "H",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "21'",
+      "minute": null,
       "halfTime": [
         null,
         null
