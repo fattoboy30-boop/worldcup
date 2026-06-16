@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-16T15:34:12.341Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-06-16T19:04:05.191Z",
+  "liveMatches": [
+    {
+      "id": 760432,
+      "date": "2026-06-16",
+      "time": "19:00",
+      "utcDate": "2026-06-16T19:00Z",
+      "homeTeam": "France",
+      "homeCode": "fr",
+      "homeScore": 0,
+      "awayTeam": "Senegal",
+      "awayCode": "sn",
+      "awayScore": 0,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford, New Jersey",
+      "status": "in_play",
+      "group": "I",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "1'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -372,29 +396,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760432,
-      "date": "2026-06-16",
-      "time": "19:00",
-      "utcDate": "2026-06-16T19:00Z",
-      "homeTeam": "France",
-      "homeCode": "fr",
-      "homeScore": 0,
-      "awayTeam": "Senegal",
-      "awayCode": "sn",
-      "awayScore": 0,
-      "venue": "MetLife Stadium",
-      "city": "East Rutherford, New Jersey",
-      "status": "timed",
-      "group": "I",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760430,
       "date": "2026-06-16",
