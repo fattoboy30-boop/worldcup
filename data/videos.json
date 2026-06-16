@@ -1,46 +1,123 @@
 {
-  "lastUpdated": "2026-06-16T22:01:00.078Z",
+  "lastUpdated": "2026-06-16T22:15:23.616Z",
   "featured": {
-    "match": "FXn3ZwNIiHQ",
-    "highlight": "FXn3ZwNIiHQ",
-    "interview": "FXn3ZwNIiHQ"
+    "match": "0yxXNEHQzjE",
+    "highlight": "0yxXNEHQzjE",
+    "interview": "7LlWv8JG2R0"
   },
   "videos": [
     {
-      "title": "Haiti vs. Scotland Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "FXn3ZwNIiHQ",
-      "channel": "Web Search",
+      "title": "Congo DR On Playing Portugal | Coach Sébastien Desabre Answers Questions From The Press",
+      "videoId": "0yxXNEHQzjE",
+      "channel": "FIFA",
       "publishedAt": "2026-06-16",
       "category": "Highlights",
       "team": [
-        "Scotland",
-        "Haiti"
+        "Portugal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FXn3ZwNIiHQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/0yxXNEHQzjE/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Haiti vs Scotland",
-      "source": "match-search"
+      "fixtureTeams": "United States vs Paraguay"
     },
     {
-      "title": "HIGHLIGHTS - Haiti v Scotland | Tartan Army back on world stage - YouTube",
-      "videoId": "OHPWPVJNtpc",
-      "channel": "Web Search",
+      "title": "Congo DR Train Before Portugal",
+      "videoId": "4O_loDdNom8",
+      "channel": "FIFA",
       "publishedAt": "2026-06-16",
       "category": "Highlights",
       "team": [
-        "Scotland",
-        "Haiti"
+        "Portugal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/OHPWPVJNtpc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/4O_loDdNom8/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Haiti vs Scotland",
-      "source": "match-search"
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Highlights | Belgium 1-1 Egypt | FIFA World Cup 2026™",
+      "videoId": "i8sD2Aea9_M",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Belgium",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/i8sD2Aea9_M/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Panama On Playing Ghana | Thomas Christiansen Tarín and Anibal Godoy Answer Questions From The Press",
+      "videoId": "_BNU__K9OXA",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_BNU__K9OXA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Uzbekistan Train Before Colombia",
+      "videoId": "qa9Exn0xrJU",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/qa9Exn0xrJU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Ghana On Playing Panama | Carlos Queiroz Answers Questions From The Press",
+      "videoId": "_oEkLgAACTE",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_oEkLgAACTE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Alt Cast Highlights: Côte d'Ivoire v Ecuador | FIFA World Cup 2026",
+      "videoId": "YP1-p_Ec8yY",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/YP1-p_Ec8yY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
     },
     {
       "title": "Panama Train Before Ghana | FIFA World Cup 2026™",
@@ -171,59 +248,99 @@
       "fixtureTeams": "United States vs Paraguay"
     },
     {
-      "title": "Algeria Train Before Argentina",
-      "videoId": "ymjuFq-_PjY",
-      "channel": "FIFA",
+      "title": "REACTION to Mbappe becoming France's ALL-TIME leading scorer in win over Senegal 🔥 | ESPN FC",
+      "videoId": "7LlWv8JG2R0",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-16",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [
-        "Argentina",
-        "Algeria"
+        "France",
+        "Senegal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ymjuFq-_PjY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/7LlWv8JG2R0/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "United States vs Paraguay"
     },
     {
-      "title": "15-Minute Match: Croatia vs England | 2018 Semi-Final",
-      "videoId": "eGYa0HJNypM",
-      "channel": "FIFA",
+      "title": "Frank Leboeuf has no concern over Mike Maignan after France vs. Senegal | ESPN FC",
+      "videoId": "x6SQ6WcOfKU",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-16",
       "category": "Highlights",
       "team": [
-        "England",
-        "Croatia"
+        "France",
+        "Senegal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/eGYa0HJNypM/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/x6SQ6WcOfKU/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "United States vs Paraguay"
     },
     {
-      "title": "Austria On Playing Jordan | Coach Rangnick and Captain Alaba Answers Questions From The Press",
-      "videoId": "YQiC_6CMUmQ",
-      "channel": "FIFA",
+      "title": "Steve Nicol doesn't understand Mo Salah's reaction",
+      "videoId": "tbK4N_0-YXo",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-16",
-      "category": "Highlights",
-      "team": [
-        "Austria"
-      ],
+      "category": "Viral",
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/YQiC_6CMUmQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/tbK4N_0-YXo/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "United States vs Paraguay"
     },
     {
-      "title": "Iraq On Playing Norway | Graham Arnold Answers Questions",
-      "videoId": "CKLr3BcAwb0",
-      "channel": "FIFA",
+      "title": "Cole Palmer's omission was a surprise?",
+      "videoId": "GKL_-2N3cfc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/GKL_-2N3cfc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Erling Haaland makes his World Cup debut today ⚔️🇳🇴",
+      "videoId": "8fDtuo0rj8I",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/8fDtuo0rj8I/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Ronaldo believes Neymar will get his chance 🇧🇷",
+      "videoId": "4hYGn7yWGzk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4hYGn7yWGzk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Norway fans are doing a “Viking Row” 😭 (via Jeremy Siegel/GBH News in Boston)",
+      "videoId": "ro4ystCGnPo",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-16",
       "category": "Highlights",
       "team": [
@@ -231,37 +348,39 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/CKLr3BcAwb0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/ro4ystCGnPo/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "United States vs Paraguay"
     },
     {
-      "title": "Team Feature: Uzbekistan | Cannavaro: \"No need to fear anyone\"",
-      "videoId": "E7dQXEbL6o8",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-16",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/E7dQXEbL6o8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "United States vs Paraguay"
-    },
-    {
-      "title": "Team Feature: Colombia | Coach Lorenzo 'Has The Experience to Make Us Dream'",
-      "videoId": "rjw_M-SNejw",
-      "channel": "FIFA",
+      "title": "Dan Thomas does not have high expectations for Argentina 👀",
+      "videoId": "uZ-HRgtC8A0",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-16",
       "category": "Highlights",
       "team": [
-        "Colombia"
+        "Argentina"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/rjw_M-SNejw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/uZ-HRgtC8A0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "The latest on Christian Pulisic’s status for USMNT vs. Australia | SportsCenter",
+      "videoId": "QQdx_uqhU2w",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Australia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QQdx_uqhU2w/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "United States vs Paraguay"
@@ -357,160 +476,6 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "United States vs Paraguay"
-    },
-    {
-      "title": "Kylian Mbappe wants to defend?!",
-      "videoId": "LUKxFfXk7fE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-16",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/LUKxFfXk7fE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "United States vs Paraguay"
-    },
-    {
-      "title": "Crysencio Summerville rumored to Manchester United! Rashford out? | ESPN FC",
-      "videoId": "kLr9zN1i6tU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-16",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/kLr9zN1i6tU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "United States vs Paraguay"
-    },
-    {
-      "title": "Omar Marmoush is Egypt's GO-TO not Mohamed Salah",
-      "videoId": "oCcEe7NcSaA",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-16",
-      "category": "Highlights",
-      "team": [
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/oCcEe7NcSaA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "United States vs Paraguay"
-    },
-    {
-      "title": "France vs. Senegal: Frank Leboeuf reflects on 2002 World Cup matchup | ESPN FC",
-      "videoId": "4KShTBdhw4I",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-16",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Senegal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/4KShTBdhw4I/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "United States vs Paraguay"
-    },
-    {
-      "title": "Spain lacked SHAPE!",
-      "videoId": "75fB32woUvk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-16",
-      "category": "Highlights",
-      "team": [
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/75fB32woUvk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "United States vs Paraguay"
-    },
-    {
-      "title": "Erling Haaland and Norway ‘HAVE TO’ play to their strengths | ESPN FC",
-      "videoId": "mn_QxDuZB8I",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-16",
-      "category": "Highlights",
-      "team": [
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/mn_QxDuZB8I/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "United States vs Paraguay"
-    },
-    {
-      "title": "That's one way to put it 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "videoId": "ZoW7CLbiIXc",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-16",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ZoW7CLbiIXc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "United States vs Paraguay"
-    },
-    {
-      "title": "Kylian Mbappe TACTICS BREAKDOWN: Contributing defensively?! | ESPN FC",
-      "videoId": "CaxLVK8Akk4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-16",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/CaxLVK8Akk4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "United States vs Paraguay"
-    },
-    {
-      "title": "Mario Suarez ADMITS CONCERN after Spain’s draw with Cape Verde | ESPN FC",
-      "videoId": "gvGNxDqkQrk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-16",
-      "category": "Highlights",
-      "team": [
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/gvGNxDqkQrk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "United States vs Paraguay"
-    },
-    {
-      "title": "WATCH LIVE | France v Senegal | Group Stage I | FIFA World Cup 2026™",
-      "videoId": "-BEUi4uCtBU",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-10",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Senegal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-BEUi4uCtBU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
     }
   ]
 }
