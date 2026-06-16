@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-16T15:59:07.906Z",
+  "lastUpdated": "2026-06-16T19:24:06.184Z",
   "featured": {
-    "match": "ymjuFq-_PjY",
-    "highlight": "ymjuFq-_PjY",
+    "match": "FXn3ZwNIiHQ",
+    "highlight": "FXn3ZwNIiHQ",
     "interview": "iZUZd1-hw1E"
   },
   "videos": [
+    {
+      "title": "Haiti vs. Scotland Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "FXn3ZwNIiHQ",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Scotland",
+        "Haiti"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/FXn3ZwNIiHQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland",
+      "source": "match-search"
+    },
+    {
+      "title": "HAITI vs SCOTLAND | FIFA World Cup 2026 Highlights - YouTube",
+      "videoId": "sr52JyNxVng",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Scotland",
+        "Haiti"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/sr52JyNxVng/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland",
+      "source": "match-search"
+    },
     {
       "title": "Algeria Train Before Argentina",
       "videoId": "ymjuFq-_PjY",
