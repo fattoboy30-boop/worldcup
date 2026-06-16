@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-16T19:48:07.948Z",
+  "lastUpdated": "2026-06-16T22:01:00.078Z",
   "featured": {
-    "match": "jNrTILq9X9g",
-    "highlight": "jNrTILq9X9g",
-    "interview": "jNrTILq9X9g"
+    "match": "FXn3ZwNIiHQ",
+    "highlight": "FXn3ZwNIiHQ",
+    "interview": "FXn3ZwNIiHQ"
   },
   "videos": [
+    {
+      "title": "Haiti vs. Scotland Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "FXn3ZwNIiHQ",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Scotland",
+        "Haiti"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/FXn3ZwNIiHQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland",
+      "source": "match-search"
+    },
+    {
+      "title": "HIGHLIGHTS - Haiti v Scotland | Tartan Army back on world stage - YouTube",
+      "videoId": "OHPWPVJNtpc",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Scotland",
+        "Haiti"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/OHPWPVJNtpc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland",
+      "source": "match-search"
+    },
     {
       "title": "Panama Train Before Ghana | FIFA World Cup 2026™",
       "videoId": "jNrTILq9X9g",
