@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T23:13:07.563Z",
+  "lastUpdated": "2026-06-16T23:43:05.187Z",
   "fixtures": [
     {
       "id": 760415,
@@ -436,14 +436,14 @@
       "homeScore": 1,
       "awayTeam": "Norway",
       "awayCode": "no",
-      "awayScore": 2,
+      "awayScore": 3,
       "venue": "Gillette Stadium",
       "city": "Foxborough, Massachusetts",
       "status": "in_play",
       "group": "I",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "50'",
+      "minute": "79'",
       "halfTime": [
         null,
         null
