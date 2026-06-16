@@ -1,28 +1,480 @@
 {
-  "lastUpdated": "2026-06-16T05:34:59.224Z",
+  "lastUpdated": "2026-06-16T10:12:28.587Z",
   "featured": {
-    "match": "FXn3ZwNIiHQ",
-    "highlight": "FXn3ZwNIiHQ",
-    "interview": "FXn3ZwNIiHQ"
+    "match": "4Ux2hciv-iQ",
+    "highlight": "4Ux2hciv-iQ",
+    "interview": "iZUZd1-hw1E"
   },
   "videos": [
     {
-      "title": "Haiti vs. Scotland Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "FXn3ZwNIiHQ",
-      "channel": "Web Search",
+      "title": "Team Feature: Ghana | 12 Yards from History | The Night an Entire Continent Shared Ghana’s Agony",
+      "videoId": "4Ux2hciv-iQ",
+      "channel": "FIFA",
       "publishedAt": "2026-06-16",
       "category": "Highlights",
       "team": [
-        "Scotland",
-        "Haiti"
+        "Ghana"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FXn3ZwNIiHQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/4Ux2hciv-iQ/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Haiti vs Scotland",
-      "source": "match-search"
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "IR Iran 🆚 New Zealand #FIFAWorldCupOnYT",
+      "videoId": "QxbHUXD9tsU",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Iran"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QxbHUXD9tsU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Daichi Kamada Goal | Netherlands 2-2 Japan | FIFA World Cup 2026™",
+      "videoId": "MwZnJfbw9ZY",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/MwZnJfbw9ZY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Mohammad Mohebi Goal | IR Iran 2-2 New Zealand | FIFA World Cup 2026™",
+      "videoId": "qQGJkC8KyKE",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Iran"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/qQGJkC8KyKE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "The equaliser from Mohebi 🇮🇷 #FIFAWorldCupOnYT",
+      "videoId": "04tp-YaURqs",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/04tp-YaURqs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "The Most Iconic Debutant Upsets in FIFA World Cup History",
+      "videoId": "nk4umZd8hpY",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/nk4umZd8hpY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "New Zealand score a brilliant team goal in the FIFA World Cup 🇳🇿⚽️ #FIFAWorldCupOnYT",
+      "videoId": "Xf4VMBYX2-Q",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Xf4VMBYX2-Q/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Elijah Just Goal | IR Iran 2-2 New Zealand | FIFA World Cup 2026™",
+      "videoId": "nuljeGgNuNw",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Iran"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/nuljeGgNuNw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Argentina Train Before Algeria",
+      "videoId": "ZOrx-kj9gQ8",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ZOrx-kj9gQ8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Post-Match Press Conference: IR Iran's Amir Ghalenoei On 2-2 Draw Against New Zealand",
+      "videoId": "i-P7-7zDEp8",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Iran"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/i-P7-7zDEp8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Senegal Train Before France",
+      "videoId": "LKm1BxaA2LU",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Senegal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/LKm1BxaA2LU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "A Draw Is Never Just a Draw at the #FIFAFanFestival",
+      "videoId": "Dwg_oOlJ3x8",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Dwg_oOlJ3x8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Post-Match Press Conference: New Zealand's Darren Bazeley On 2-2 Draw Against IR Iran",
+      "videoId": "fromZP8fc1M",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Iran"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fromZP8fc1M/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "June 15 Matchday Recap | #FIFAWorldCup",
+      "videoId": "1cGa0fXJ36U",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/1cGa0fXJ36U/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Post-Match Interviews: Saudi Arabia 1-1 Uruguay",
+      "videoId": "XrLgvnCtsuY",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Uruguay",
+        "Saudi Arabia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/XrLgvnCtsuY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Belgium vs. Egypt LIVE Reaction | ESPN FC",
+      "videoId": "iZUZd1-hw1E",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-16",
+      "category": "Viral",
+      "team": [
+        "Belgium",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/iZUZd1-hw1E/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Which World Cup team has been the most disappointing so far? 😳 | ESPN FC Full Show",
+      "videoId": "u12dwfEbvVQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/u12dwfEbvVQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Ale Moreno was disappointed in Spain's performance vs. Cape Verde",
+      "videoId": "JOFEzE2RimM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JOFEzE2RimM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Are Ruben Amorim’s tactics a good fit for AC Milan? | ESPN FC",
+      "videoId": "4ByCbfsIja8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4ByCbfsIja8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "A missed opportunity for Uruguay? 🤔 1-1 draw with Saudi Arabia | ESPN FC",
+      "videoId": "AAnzzCo6mlI",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Uruguay",
+        "Saudi Arabia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/AAnzzCo6mlI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Can Senegal give France a challenge in their opening World Cup match⁉️ | ESPN FC",
+      "videoId": "seLvIVO1jg4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Senegal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/seLvIVO1jg4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Who is the best team in Group G? 👀 Breaking down Belgium’s 1-1 draw vs. Egypt | ESPN FC",
+      "videoId": "UAnYTzV333c",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Belgium",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/UAnYTzV333c/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "ESPN FC reacts to Iran vs. New Zealand in World Cup Group G ⚽",
+      "videoId": "zXC5GLvh5Cw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Iran"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/zXC5GLvh5Cw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "'IT WAS UNWATCHABLE!' - Ale Moreno on Spain's possessions in draw vs. Cape Verde | ESPN FC",
+      "videoId": "lNsVUlUd_DU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-16",
+      "category": "Viral",
+      "team": [
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/lNsVUlUd_DU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Scotland loves The Proclaimers 🔥",
+      "videoId": "PBJ7pVts6vY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Scotland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/PBJ7pVts6vY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "‘They don’t have enough in attack’ 😳 Ale Moreno on Uruguay’s performance vs. Saudi Arabia | ESPN FC",
+      "videoId": "260Sr1qDUnI",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Uruguay",
+        "Saudi Arabia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/260Sr1qDUnI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Unbelievable Debut! Cape Verde Secures Draw in First World Cup Appearance",
+      "videoId": "d_vGyHBcSbc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-15",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/d_vGyHBcSbc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "Matt Besler says USMNT has 'options!' ⚽",
+      "videoId": "8xZwmBMWK0w",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/8xZwmBMWK0w/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "Do you agree with Stevie's take? 🤔",
+      "videoId": "UVhEmtwTBdQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/UVhEmtwTBdQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
+    },
+    {
+      "title": "Lukaku’s presence got Belgium back in the game vs. Egypt – Craig Burley | ESPN FC",
+      "videoId": "CPioOevafbw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-15",
+      "category": "Highlights",
+      "team": [
+        "Belgium",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/CPioOevafbw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "South Korea vs Czechia"
     }
   ]
 }
