@@ -1,46 +1,182 @@
 {
-  "lastUpdated": "2026-06-16T10:32:31.847Z",
+  "lastUpdated": "2026-06-16T15:59:07.906Z",
   "featured": {
-    "match": "FXn3ZwNIiHQ",
-    "highlight": "FXn3ZwNIiHQ",
+    "match": "ymjuFq-_PjY",
+    "highlight": "ymjuFq-_PjY",
     "interview": "iZUZd1-hw1E"
   },
   "videos": [
     {
-      "title": "Haiti vs. Scotland Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "FXn3ZwNIiHQ",
-      "channel": "Web Search",
+      "title": "Algeria Train Before Argentina",
+      "videoId": "ymjuFq-_PjY",
+      "channel": "FIFA",
       "publishedAt": "2026-06-16",
       "category": "Highlights",
       "team": [
-        "Scotland",
-        "Haiti"
+        "Argentina",
+        "Algeria"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FXn3ZwNIiHQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/ymjuFq-_PjY/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Haiti vs Scotland",
-      "source": "match-search"
+      "fixtureTeams": "United States vs Paraguay"
     },
     {
-      "title": "HAITI - SCOTLAND HIGHLIGHTS | FIFA WORLD CUP 2026 - YouTube",
-      "videoId": "Kv1bZcFXPZs",
-      "channel": "Web Search",
+      "title": "15-Minute Match: Croatia vs England | 2018 Semi-Final",
+      "videoId": "eGYa0HJNypM",
+      "channel": "FIFA",
       "publishedAt": "2026-06-16",
       "category": "Highlights",
       "team": [
-        "Scotland",
-        "Haiti"
+        "England",
+        "Croatia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Kv1bZcFXPZs/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/eGYa0HJNypM/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Haiti vs Scotland",
-      "source": "match-search"
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Austria On Playing Jordan | Coach Rangnick and Captain Alaba Answers Questions From The Press",
+      "videoId": "YQiC_6CMUmQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/YQiC_6CMUmQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Iraq On Playing Norway | Graham Arnold Answers Questions",
+      "videoId": "CKLr3BcAwb0",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/CKLr3BcAwb0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Team Feature: Uzbekistan | Cannavaro: \"No need to fear anyone\"",
+      "videoId": "E7dQXEbL6o8",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/E7dQXEbL6o8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Team Feature: Colombia | Coach Lorenzo 'Has The Experience to Make Us Dream'",
+      "videoId": "rjw_M-SNejw",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/rjw_M-SNejw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Team Feature: Congo DR | Aim To Spring A Surprise In The World Cup",
+      "videoId": "BntChjqEAeQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/BntChjqEAeQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Team Feature: Croatia | Kovacic reflects on special memories",
+      "videoId": "cpDEaBp-ODE",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cpDEaBp-ODE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Team Feature: England | Bellingham: \"Being calm will be key for England\"",
+      "videoId": "l7ws7JOafPs",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/l7ws7JOafPs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Team Feature: Panama | Inside Canaleros' Journey Of Joy",
+      "videoId": "Se55EMta2pk",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Se55EMta2pk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Team Feature: Portugal | Roberto Martínez & Portugal’s Ultimate World Cup Quest",
+      "videoId": "l02BT-Jhe5o",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/l02BT-Jhe5o/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
     },
     {
       "title": "Team Feature: Ghana | 12 Yards from History | The Night an Entire Continent Shared Ghana’s Agony",
@@ -108,100 +244,69 @@
       "fixtureTeams": "United States vs Paraguay"
     },
     {
-      "title": "The equaliser from Mohebi 🇮🇷 #FIFAWorldCupOnYT",
-      "videoId": "04tp-YaURqs",
-      "channel": "FIFA",
+      "title": "Bradley Wright-Phillips is SHOCKED by Spain's draw with Cape Verde 😱 | First Take",
+      "videoId": "w-4aos67eIQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/w-4aos67eIQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Kylian Mbappe wants to defend?!",
+      "videoId": "LUKxFfXk7fE",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-16",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/04tp-YaURqs/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/LUKxFfXk7fE/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "United States vs Paraguay"
     },
     {
-      "title": "The Most Iconic Debutant Upsets in FIFA World Cup History",
-      "videoId": "nk4umZd8hpY",
-      "channel": "FIFA",
+      "title": "Crysencio Summerville rumored to Manchester United! Rashford out? | ESPN FC",
+      "videoId": "kLr9zN1i6tU",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-16",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/nk4umZd8hpY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/kLr9zN1i6tU/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "United States vs Paraguay"
     },
     {
-      "title": "New Zealand score a brilliant team goal in the FIFA World Cup 🇳🇿⚽️ #FIFAWorldCupOnYT",
-      "videoId": "Xf4VMBYX2-Q",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-16",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Xf4VMBYX2-Q/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "United States vs Paraguay"
-    },
-    {
-      "title": "Elijah Just Goal | IR Iran 2-2 New Zealand | FIFA World Cup 2026™",
-      "videoId": "nuljeGgNuNw",
-      "channel": "FIFA",
+      "title": "Omar Marmoush is Egypt's GO-TO not Mohamed Salah",
+      "videoId": "oCcEe7NcSaA",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-16",
       "category": "Highlights",
       "team": [
-        "Iran"
+        "Egypt"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/nuljeGgNuNw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/oCcEe7NcSaA/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "United States vs Paraguay"
     },
     {
-      "title": "Argentina Train Before Algeria",
-      "videoId": "ZOrx-kj9gQ8",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-16",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Algeria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ZOrx-kj9gQ8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "United States vs Paraguay"
-    },
-    {
-      "title": "Post-Match Press Conference: IR Iran's Amir Ghalenoei On 2-2 Draw Against New Zealand",
-      "videoId": "i-P7-7zDEp8",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-16",
-      "category": "Highlights",
-      "team": [
-        "Iran"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/i-P7-7zDEp8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "United States vs Paraguay"
-    },
-    {
-      "title": "Senegal Train Before France",
-      "videoId": "LKm1BxaA2LU",
-      "channel": "FIFA",
+      "title": "France vs. Senegal: Frank Leboeuf reflects on 2002 World Cup matchup | ESPN FC",
+      "videoId": "4KShTBdhw4I",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-16",
       "category": "Highlights",
       "team": [
@@ -210,59 +315,121 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/LKm1BxaA2LU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/4KShTBdhw4I/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "United States vs Paraguay"
     },
     {
-      "title": "A Draw Is Never Just a Draw at the #FIFAFanFestival",
-      "videoId": "Dwg_oOlJ3x8",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-16",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Dwg_oOlJ3x8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "United States vs Paraguay"
-    },
-    {
-      "title": "Post-Match Press Conference: New Zealand's Darren Bazeley On 2-2 Draw Against IR Iran",
-      "videoId": "fromZP8fc1M",
-      "channel": "FIFA",
+      "title": "Spain lacked SHAPE!",
+      "videoId": "75fB32woUvk",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-16",
       "category": "Highlights",
       "team": [
-        "Iran"
+        "Spain"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fromZP8fc1M/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/75fB32woUvk/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "United States vs Paraguay"
     },
     {
-      "title": "June 15 Matchday Recap | #FIFAWorldCup",
-      "videoId": "1cGa0fXJ36U",
-      "channel": "FIFA",
+      "title": "Erling Haaland and Norway ‘HAVE TO’ play to their strengths | ESPN FC",
+      "videoId": "mn_QxDuZB8I",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/mn_QxDuZB8I/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "That's one way to put it 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "videoId": "ZoW7CLbiIXc",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-16",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/1cGa0fXJ36U/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/ZoW7CLbiIXc/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "United States vs Paraguay"
     },
     {
-      "title": "Post-Match Interviews: Saudi Arabia 1-1 Uruguay",
-      "videoId": "XrLgvnCtsuY",
-      "channel": "FIFA",
+      "title": "Kylian Mbappe TACTICS BREAKDOWN: Contributing defensively?! | ESPN FC",
+      "videoId": "CaxLVK8Akk4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/CaxLVK8Akk4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Mario Suarez ADMITS CONCERN after Spain’s draw with Cape Verde | ESPN FC",
+      "videoId": "gvGNxDqkQrk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/gvGNxDqkQrk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Pedri displaying his magic 🪄 (via @sefutbol/IG)",
+      "videoId": "axtEYbrT6yk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/axtEYbrT6yk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "The Uruguayans set the mood before their debut at the World Cup 🇺🇾🪘🤩 (via @conmebol/IG)",
+      "videoId": "p7FX707bRdo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Uruguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/p7FX707bRdo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "United States vs Paraguay"
+    },
+    {
+      "title": "Uruguay vs. Saudi Arabia",
+      "videoId": "BxliKLKHyIo",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-16",
       "category": "Highlights",
       "team": [
@@ -271,7 +438,7 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/XrLgvnCtsuY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/BxliKLKHyIo/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "United States vs Paraguay"
@@ -306,211 +473,6 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "United States vs Paraguay"
-    },
-    {
-      "title": "Ale Moreno was disappointed in Spain's performance vs. Cape Verde",
-      "videoId": "JOFEzE2RimM",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-16",
-      "category": "Highlights",
-      "team": [
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/JOFEzE2RimM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "United States vs Paraguay"
-    },
-    {
-      "title": "Are Ruben Amorim’s tactics a good fit for AC Milan? | ESPN FC",
-      "videoId": "4ByCbfsIja8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-16",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/4ByCbfsIja8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "United States vs Paraguay"
-    },
-    {
-      "title": "A missed opportunity for Uruguay? 🤔 1-1 draw with Saudi Arabia | ESPN FC",
-      "videoId": "AAnzzCo6mlI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-16",
-      "category": "Highlights",
-      "team": [
-        "Uruguay",
-        "Saudi Arabia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/AAnzzCo6mlI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "United States vs Paraguay"
-    },
-    {
-      "title": "Can Senegal give France a challenge in their opening World Cup match⁉️ | ESPN FC",
-      "videoId": "seLvIVO1jg4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-16",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Senegal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/seLvIVO1jg4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "United States vs Paraguay"
-    },
-    {
-      "title": "Who is the best team in Group G? 👀 Breaking down Belgium’s 1-1 draw vs. Egypt | ESPN FC",
-      "videoId": "UAnYTzV333c",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-16",
-      "category": "Highlights",
-      "team": [
-        "Belgium",
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/UAnYTzV333c/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "United States vs Paraguay"
-    },
-    {
-      "title": "ESPN FC reacts to Iran vs. New Zealand in World Cup Group G ⚽",
-      "videoId": "zXC5GLvh5Cw",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-16",
-      "category": "Highlights",
-      "team": [
-        "Iran"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/zXC5GLvh5Cw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "United States vs Paraguay"
-    },
-    {
-      "title": "'IT WAS UNWATCHABLE!' - Ale Moreno on Spain's possessions in draw vs. Cape Verde | ESPN FC",
-      "videoId": "lNsVUlUd_DU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-16",
-      "category": "Viral",
-      "team": [
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/lNsVUlUd_DU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "United States vs Paraguay"
-    },
-    {
-      "title": "Scotland loves The Proclaimers 🔥",
-      "videoId": "PBJ7pVts6vY",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-16",
-      "category": "Highlights",
-      "team": [
-        "Scotland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PBJ7pVts6vY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "United States vs Paraguay"
-    },
-    {
-      "title": "‘They don’t have enough in attack’ 😳 Ale Moreno on Uruguay’s performance vs. Saudi Arabia | ESPN FC",
-      "videoId": "260Sr1qDUnI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-16",
-      "category": "Highlights",
-      "team": [
-        "Uruguay",
-        "Saudi Arabia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/260Sr1qDUnI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "United States vs Paraguay"
-    },
-    {
-      "title": "Unbelievable Debut! Cape Verde Secures Draw in First World Cup Appearance",
-      "videoId": "d_vGyHBcSbc",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-15",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/d_vGyHBcSbc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "South Korea vs Czechia"
-    },
-    {
-      "title": "Matt Besler says USMNT has 'options!' ⚽",
-      "videoId": "8xZwmBMWK0w",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-15",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/8xZwmBMWK0w/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "South Korea vs Czechia"
-    },
-    {
-      "title": "Do you agree with Stevie's take? 🤔",
-      "videoId": "UVhEmtwTBdQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-15",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/UVhEmtwTBdQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "South Korea vs Czechia"
-    },
-    {
-      "title": "Lukaku’s presence got Belgium back in the game vs. Egypt – Craig Burley | ESPN FC",
-      "videoId": "CPioOevafbw",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-15",
-      "category": "Highlights",
-      "team": [
-        "Belgium",
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/CPioOevafbw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "South Korea vs Czechia"
     }
   ]
 }
