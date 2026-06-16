@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T19:23:16.076Z",
+  "lastUpdated": "2026-06-16T21:45:50.451Z",
   "fixtures": [
     {
       "id": 760415,
@@ -408,17 +408,17 @@
       "utcDate": "2026-06-16T19:00Z",
       "homeTeam": "France",
       "homeCode": "fr",
-      "homeScore": 0,
+      "homeScore": 3,
       "awayTeam": "Senegal",
       "awayCode": "sn",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "MetLife Stadium",
       "city": "East Rutherford, New Jersey",
-      "status": "in_play",
+      "status": "finished",
       "group": "I",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "20'",
+      "minute": null,
       "halfTime": [
         null,
         null
