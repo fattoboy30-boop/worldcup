@@ -1,9 +1,28 @@
 {
-  "lastUpdated": "2026-06-16T04:47:00.421Z",
+  "lastUpdated": "2026-06-16T05:34:59.224Z",
   "featured": {
-    "match": "",
-    "highlight": "",
-    "interview": ""
+    "match": "FXn3ZwNIiHQ",
+    "highlight": "FXn3ZwNIiHQ",
+    "interview": "FXn3ZwNIiHQ"
   },
-  "videos": []
+  "videos": [
+    {
+      "title": "Haiti vs. Scotland Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "FXn3ZwNIiHQ",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Scotland",
+        "Haiti"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/FXn3ZwNIiHQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland",
+      "source": "match-search"
+    }
+  ]
 }
