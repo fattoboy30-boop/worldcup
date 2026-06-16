@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-16T22:00:06.402Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-06-16T23:13:07.559Z",
+  "liveMatches": [
+    {
+      "id": 760430,
+      "date": "2026-06-16",
+      "time": "22:00",
+      "utcDate": "2026-06-16T22:00Z",
+      "homeTeam": "Iraq",
+      "homeCode": "iq",
+      "homeScore": 1,
+      "awayTeam": "Norway",
+      "awayCode": "no",
+      "awayScore": 2,
+      "venue": "Gillette Stadium",
+      "city": "Foxborough, Massachusetts",
+      "status": "in_play",
+      "group": "I",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "50'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -395,29 +419,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760430,
-      "date": "2026-06-16",
-      "time": "22:00",
-      "utcDate": "2026-06-16T22:00Z",
-      "homeTeam": "Iraq",
-      "homeCode": "iq",
-      "homeScore": 0,
-      "awayTeam": "Norway",
-      "awayCode": "no",
-      "awayScore": 0,
-      "venue": "Gillette Stadium",
-      "city": "Foxborough, Massachusetts",
-      "status": "timed",
-      "group": "I",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760433,
       "date": "2026-06-17",

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T22:00:06.405Z",
+  "lastUpdated": "2026-06-16T23:13:07.563Z",
   "fixtures": [
     {
       "id": 760415,
@@ -433,17 +433,17 @@
       "utcDate": "2026-06-16T22:00Z",
       "homeTeam": "Iraq",
       "homeCode": "iq",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayTeam": "Norway",
       "awayCode": "no",
-      "awayScore": 0,
+      "awayScore": 2,
       "venue": "Gillette Stadium",
       "city": "Foxborough, Massachusetts",
-      "status": "timed",
+      "status": "in_play",
       "group": "I",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "50'",
       "halfTime": [
         null,
         null
