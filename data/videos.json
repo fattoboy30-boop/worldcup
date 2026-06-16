@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-16T10:12:28.587Z",
+  "lastUpdated": "2026-06-16T10:32:31.847Z",
   "featured": {
-    "match": "4Ux2hciv-iQ",
-    "highlight": "4Ux2hciv-iQ",
+    "match": "FXn3ZwNIiHQ",
+    "highlight": "FXn3ZwNIiHQ",
     "interview": "iZUZd1-hw1E"
   },
   "videos": [
+    {
+      "title": "Haiti vs. Scotland Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "FXn3ZwNIiHQ",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Scotland",
+        "Haiti"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/FXn3ZwNIiHQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland",
+      "source": "match-search"
+    },
+    {
+      "title": "HAITI - SCOTLAND HIGHLIGHTS | FIFA WORLD CUP 2026 - YouTube",
+      "videoId": "Kv1bZcFXPZs",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-16",
+      "category": "Highlights",
+      "team": [
+        "Scotland",
+        "Haiti"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Kv1bZcFXPZs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland",
+      "source": "match-search"
+    },
     {
       "title": "Team Feature: Ghana | 12 Yards from History | The Night an Entire Continent Shared Ghana’s Agony",
       "videoId": "4Ux2hciv-iQ",
