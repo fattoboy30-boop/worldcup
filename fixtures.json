@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T00:11:01.224Z",
+  "lastUpdated": "2026-06-16T05:33:02.211Z",
   "fixtures": [
     {
       "id": 760415,
@@ -383,13 +383,13 @@
       "utcDate": "2026-06-16T01:00Z",
       "homeTeam": "Iran",
       "homeCode": "ir",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayTeam": "New Zealand",
       "awayCode": "nz",
-      "awayScore": 0,
+      "awayScore": 2,
       "venue": "SoFi Stadium",
       "city": "Inglewood, California",
-      "status": "timed",
+      "status": "finished",
       "group": "G",
       "stage": "GROUP_STAGE",
       "matchday": 0,

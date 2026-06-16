@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T00:11:01.221Z",
+  "lastUpdated": "2026-06-16T05:33:02.207Z",
   "liveMatches": [],
   "recentResults": [
     {
@@ -346,9 +346,7 @@
         null,
         null
       ]
-    }
-  ],
-  "upcomingMatches": [
+    },
     {
       "id": 760427,
       "date": "2026-06-16",
@@ -356,13 +354,13 @@
       "utcDate": "2026-06-16T01:00Z",
       "homeTeam": "Iran",
       "homeCode": "ir",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayTeam": "New Zealand",
       "awayCode": "nz",
-      "awayScore": 0,
+      "awayScore": 2,
       "venue": "SoFi Stadium",
       "city": "Inglewood, California",
-      "status": "timed",
+      "status": "finished",
       "group": "G",
       "stage": "GROUP_STAGE",
       "matchday": 0,
@@ -371,7 +369,9 @@
         null,
         null
       ]
-    },
+    }
+  ],
+  "upcomingMatches": [
     {
       "id": 760432,
       "date": "2026-06-16",
