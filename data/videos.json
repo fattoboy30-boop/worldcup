@@ -1,46 +1,476 @@
 {
-  "lastUpdated": "2026-06-17T07:28:25.477Z",
+  "lastUpdated": "2026-06-17T11:52:18.288Z",
   "featured": {
-    "match": "MWsgrEPIni4",
-    "highlight": "MWsgrEPIni4",
-    "interview": "MWsgrEPIni4"
+    "match": "6jOnFGS280M",
+    "highlight": "6jOnFGS280M",
+    "interview": "G5VTGcUdfes"
   },
   "videos": [
     {
-      "title": "Sweden vs Tunisia Highlights | 2026 FIFA World Cup™ - YouTube",
-      "videoId": "MWsgrEPIni4",
-      "channel": "Web Search",
+      "title": "Alt Cast Highlights: Spain v Cabo Verde | FIFA World Cup 2026",
+      "videoId": "6jOnFGS280M",
+      "channel": "FIFA",
       "publishedAt": "2026-06-17",
       "category": "Highlights",
       "team": [
-        "Tunisia",
-        "Sweden"
+        "Spain"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/MWsgrEPIni4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/6jOnFGS280M/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia",
-      "source": "match-search"
+      "fixtureTeams": "Haiti vs Scotland"
     },
     {
-      "title": "Sweden vs Tunisia 5-1 Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "kvuCEn6lPQ0",
-      "channel": "Web Search",
+      "title": "Team Feature: South Africa | Hugo Broos Prepares Bafana Bafana For A Crucial Game Against Czechia",
+      "videoId": "YHa_UmwlL0k",
+      "channel": "FIFA",
       "publishedAt": "2026-06-17",
       "category": "Highlights",
       "team": [
-        "Tunisia",
-        "Sweden"
+        "South Africa",
+        "Czechia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/kvuCEn6lPQ0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/YHa_UmwlL0k/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia",
-      "source": "match-search"
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "Team Feature: Czechia | Vladimir Coufal Looks Ahead To His Nation's Match Against South Africa",
+      "videoId": "_sYp08-050A",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [
+        "South Africa",
+        "Czechia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_sYp08-050A/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "Uzbekistan On Playing Colombia | Coach Fabio Cannavaro And Captain Eldor Shomurodov Answer Questions",
+      "videoId": "QZHoxuqR5OE",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QZHoxuqR5OE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "Croatia On Playing England | Coach ‌Zlatko Dalić & Luka Modrić Answer Questions From The Press",
+      "videoId": "zUPtYg9pzRQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/zUPtYg9pzRQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "June 16 Matchday Recap | #FIFAWorldCup @aramco",
+      "videoId": "b96svWIKvrg",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/b96svWIKvrg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "Lionel Messi Hat-trick Goal | Argentina 3-0 Algeria | FIFA World Cup 2026™",
+      "videoId": "fqk4Ag-Y6CA",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fqk4Ag-Y6CA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "Lionel Messi Opening Goal | Argentina 3-0 Algeria | FIFA World Cup 2026™",
+      "videoId": "5ZFIh8nWUvs",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/5ZFIh8nWUvs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "Austria 🆚 Jordan #FIFAWorldCupOnYT",
+      "videoId": "TaqyqTy7Z5w",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/TaqyqTy7Z5w/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "Marko Arnautovic Goal | Austria 3-1 Jordan | FIFA World Cup 2026™",
+      "videoId": "ZPL_rcYJYS4",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ZPL_rcYJYS4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "Ali Olwan Goal | Austria 3-1 Jordan | FIFA World Cup 2026™",
+      "videoId": "6sBywCuNcj4",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6sBywCuNcj4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "Arnautović seals it from the spot 🎯 #FIFAWorldCupOnYT",
+      "videoId": "45XM1jgmQi4",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/45XM1jgmQi4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "Post-Match Interviews: Austria 3-1 Jordan",
+      "videoId": "pRbgxM1DgBA",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/pRbgxM1DgBA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "In off the woodwork 😮‍💨🇯🇴 #FIFAWorldCupOnYT",
+      "videoId": "BKswauo_F9s",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/BKswauo_F9s/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "Post-Match Press Conference: Austria's Ralf Rangnick On 3-1 Win Against Jordan",
+      "videoId": "0UwxesMEHXQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0UwxesMEHXQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "STAR-STUDDED PERFORMANCES ⭐️ Messi records hat trick + Haaland & Mbappe net braces | ESPN FC",
+      "videoId": "G5VTGcUdfes",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-17",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/G5VTGcUdfes/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "Lionel Messi scores HAT TRICK, but should he have been shown a red card? | ESPN FC",
+      "videoId": "gWSd8Mwv98Q",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-17",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/gWSd8Mwv98Q/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "Will Mbappe pass Messi for most World Cup goals THIS TOURNAMENT? | ESPN FC Extra Time",
+      "videoId": "6S6EVHSegEk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6S6EVHSegEk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "Jan Age Fjortoft praises Erling Haaland in Norway's World Cup win 👏 'He was on a MISSION!  | ESPN FC",
+      "videoId": "AsuiBllLa30",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/AsuiBllLa30/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "Nedum Onuoha says Jude Bellingham will be a CENTERPIECE for England | ESPN FC",
+      "videoId": "8FCKPzRLZp4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/8FCKPzRLZp4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "It's gonna be a long night celebrating 🥳 (via @franco_a.a/IG)",
+      "videoId": "DvIkgWaqVxc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/DvIkgWaqVxc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "Messi added to his resumé with his historic performance 🔥",
+      "videoId": "JnjzQfj_7is",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JnjzQfj_7is/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "Lionel Messi is playing with HOUSE MONEY! - Twellman on Messi's PICTURE-PERFECT form! | SC with SVP",
+      "videoId": "c4mkXo7WNqc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/c4mkXo7WNqc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "France vs. Senegal Reaction: Michael Olise more important than Kylian Mbappe? | ESPN FC",
+      "videoId": "5P0jPyTd8tc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-17",
+      "category": "Viral",
+      "team": [
+        "France",
+        "Senegal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/5P0jPyTd8tc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "LIONEL MESSI HAT TRICK 🔥 Reaction to Argentina’s win vs. Algeria at World Cup | ESPN FC",
+      "videoId": "_C4T5DUniNc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-17",
+      "category": "Viral",
+      "team": [
+        "Argentina",
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_C4T5DUniNc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "Messi still giving people all the World Cup feels twenty years later👏 (@sandiegofc/TT)",
+      "videoId": "lvCigg_fbPA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/lvCigg_fbPA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "If this is Messi’s last dance, what a dance it’s gonna be 😭🐐",
+      "videoId": "2MBjO8i1q-k",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/2MBjO8i1q-k/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "You see an escalator, Norway fans see a rowing opportunity 😂 (via @jersiegel/TT)",
+      "videoId": "-swNOyuWaeY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-swNOyuWaeY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "France fans are fired up after Mbappe made history vs. Senegal (via @FFF/x)",
+      "videoId": "gDoEw8BvLtg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Senegal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/gDoEw8BvLtg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "Rock-Solid at the Back: France’s Best Defender Shines | ESPN FC",
+      "videoId": "Rj8cxGQIG6k",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [
+        "France"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Rj8cxGQIG6k/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
     }
   ]
 }
