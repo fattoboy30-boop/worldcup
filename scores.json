@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-17T16:04:06.178Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-06-17T17:35:50.603Z",
+  "liveMatches": [
+    {
+      "id": 760435,
+      "date": "2026-06-17",
+      "time": "17:00",
+      "utcDate": "2026-06-17T17:00Z",
+      "homeTeam": "Portugal",
+      "homeCode": "pt",
+      "homeScore": 1,
+      "awayTeam": "Congo DR",
+      "awayCode": "un",
+      "awayScore": 0,
+      "venue": "NRG Stadium",
+      "city": "Houston, Texas",
+      "status": "in_play",
+      "group": "K",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "34'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -464,29 +488,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760435,
-      "date": "2026-06-17",
-      "time": "17:00",
-      "utcDate": "2026-06-17T17:00Z",
-      "homeTeam": "Portugal",
-      "homeCode": "pt",
-      "homeScore": 0,
-      "awayTeam": "Congo DR",
-      "awayCode": "un",
-      "awayScore": 0,
-      "venue": "NRG Stadium",
-      "city": "Houston, Texas",
-      "status": "timed",
-      "group": "K",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760437,
       "date": "2026-06-17",
