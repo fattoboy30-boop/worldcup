@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-17T15:42:38.521Z",
+  "lastUpdated": "2026-06-17T16:04:52.915Z",
   "featured": {
-    "match": "mSmLDozpdTo",
-    "highlight": "mSmLDozpdTo",
+    "match": "MWsgrEPIni4",
+    "highlight": "MWsgrEPIni4",
     "interview": "pk3W-jU1ZzY"
   },
   "videos": [
+    {
+      "title": "Sweden vs Tunisia Highlights | 2026 FIFA World Cup™ - YouTube",
+      "videoId": "MWsgrEPIni4",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [
+        "Tunisia",
+        "Sweden"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/MWsgrEPIni4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Sweden vs Tunisia",
+      "source": "match-search"
+    },
+    {
+      "title": "Sweden vs Tunisia 5-1 Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "kvuCEn6lPQ0",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [
+        "Tunisia",
+        "Sweden"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/kvuCEn6lPQ0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Sweden vs Tunisia",
+      "source": "match-search"
+    },
     {
       "title": "15-Minute Match: Mexico vs Korea Republic: 1998 Comeback",
       "videoId": "mSmLDozpdTo",
