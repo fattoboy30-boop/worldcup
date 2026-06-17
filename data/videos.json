@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-17T11:52:18.288Z",
+  "lastUpdated": "2026-06-17T12:06:58.614Z",
   "featured": {
-    "match": "6jOnFGS280M",
-    "highlight": "6jOnFGS280M",
+    "match": "zCNXtWLuF0g",
+    "highlight": "zCNXtWLuF0g",
     "interview": "G5VTGcUdfes"
   },
   "videos": [
+    {
+      "title": "SWEDEN vs TUNISIA 5-1 | 2026 FIFA World Cup | Match Highlights",
+      "videoId": "zCNXtWLuF0g",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [
+        "Tunisia",
+        "Sweden"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/zCNXtWLuF0g/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Sweden vs Tunisia",
+      "source": "match-search"
+    },
+    {
+      "title": "Sweden vs Tunisia Highlights | 2026 FIFA World Cup™ - YouTube",
+      "videoId": "MWsgrEPIni4",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [
+        "Tunisia",
+        "Sweden"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/MWsgrEPIni4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Sweden vs Tunisia",
+      "source": "match-search"
+    },
     {
       "title": "Alt Cast Highlights: Spain v Cabo Verde | FIFA World Cup 2026",
       "videoId": "6jOnFGS280M",
