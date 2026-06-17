@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T23:43:05.188Z",
+  "lastUpdated": "2026-06-17T01:42:27.741Z",
   "groups": {
     "A": {
       "teams": [
@@ -452,6 +452,19 @@
     "I": {
       "teams": [
         {
+          "name": "Norway",
+          "code": "no",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 4,
+          "ga": 1,
+          "gd": 3,
+          "points": 3,
+          "position": 1
+        },
+        {
           "name": "France",
           "code": "fr",
           "played": 1,
@@ -462,7 +475,7 @@
           "ga": 1,
           "gd": 2,
           "points": 3,
-          "position": 1
+          "position": 2
         },
         {
           "name": "Senegal",
@@ -475,7 +488,20 @@
           "ga": 3,
           "gd": -2,
           "points": 0,
-          "position": 2
+          "position": 3
+        },
+        {
+          "name": "Iraq",
+          "code": "iq",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 1,
+          "ga": 4,
+          "gd": -3,
+          "points": 0,
+          "position": 4
         }
       ]
     }

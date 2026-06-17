@@ -1,24 +1,24 @@
 {
-  "lastUpdated": "2026-06-16T23:43:05.184Z",
+  "lastUpdated": "2026-06-17T01:42:27.733Z",
   "liveMatches": [
     {
-      "id": 760430,
-      "date": "2026-06-16",
-      "time": "22:00",
-      "utcDate": "2026-06-16T22:00Z",
-      "homeTeam": "Iraq",
-      "homeCode": "iq",
+      "id": 760433,
+      "date": "2026-06-17",
+      "time": "01:00",
+      "utcDate": "2026-06-17T01:00Z",
+      "homeTeam": "Argentina",
+      "homeCode": "ar",
       "homeScore": 1,
-      "awayTeam": "Norway",
-      "awayCode": "no",
-      "awayScore": 3,
-      "venue": "Gillette Stadium",
-      "city": "Foxborough, Massachusetts",
+      "awayTeam": "Algeria",
+      "awayCode": "un",
+      "awayScore": 0,
+      "venue": "GEHA Field at Arrowhead Stadium",
+      "city": "Kansas City, Missouri",
       "status": "in_play",
-      "group": "I",
+      "group": "J",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "79'",
+      "minute": "40'",
       "halfTime": [
         null,
         null
@@ -416,24 +416,22 @@
         null,
         null
       ]
-    }
-  ],
-  "upcomingMatches": [
+    },
     {
-      "id": 760433,
-      "date": "2026-06-17",
-      "time": "01:00",
-      "utcDate": "2026-06-17T01:00Z",
-      "homeTeam": "Argentina",
-      "homeCode": "ar",
-      "homeScore": 0,
-      "awayTeam": "Algeria",
-      "awayCode": "un",
-      "awayScore": 0,
-      "venue": "GEHA Field at Arrowhead Stadium",
-      "city": "Kansas City, Missouri",
-      "status": "timed",
-      "group": "J",
+      "id": 760430,
+      "date": "2026-06-16",
+      "time": "22:00",
+      "utcDate": "2026-06-16T22:00Z",
+      "homeTeam": "Iraq",
+      "homeCode": "iq",
+      "homeScore": 1,
+      "awayTeam": "Norway",
+      "awayCode": "no",
+      "awayScore": 4,
+      "venue": "Gillette Stadium",
+      "city": "Foxborough, Massachusetts",
+      "status": "finished",
+      "group": "I",
       "stage": "GROUP_STAGE",
       "matchday": 0,
       "minute": null,
@@ -441,7 +439,9 @@
         null,
         null
       ]
-    },
+    }
+  ],
+  "upcomingMatches": [
     {
       "id": 760431,
       "date": "2026-06-17",
