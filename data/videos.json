@@ -1,136 +1,76 @@
 {
-  "lastUpdated": "2026-06-17T20:58:32.622Z",
+  "lastUpdated": "2026-06-17T21:11:52.673Z",
   "featured": {
-    "match": "MM5hUuEzH3g",
-    "highlight": "MM5hUuEzH3g",
-    "interview": "61dmMCHJJ-g"
+    "match": "8oGTpEZYHRY",
+    "highlight": "8oGTpEZYHRY",
+    "interview": "QfChq_4vu9c"
   },
   "videos": [
     {
-      "title": "Highlights | Sweden 5-1 Tunisia | FIFA World Cup 2026™ - YouTube",
-      "videoId": "MM5hUuEzH3g",
-      "channel": "Web Search",
+      "title": "Post-Match Press Conference: Portugal's Roberto Martinez On The 1-1 Draw With Congo DR",
+      "videoId": "8oGTpEZYHRY",
+      "channel": "FIFA",
       "publishedAt": "2026-06-17",
       "category": "Highlights",
       "team": [
-        "Tunisia",
-        "Sweden"
+        "Portugal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/MM5hUuEzH3g/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/8oGTpEZYHRY/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia",
-      "source": "match-search"
+      "fixtureTeams": "Haiti vs Scotland"
     },
     {
-      "title": "Sweden vs Tunisia Highlights | 2026 FIFA World Cup™ - YouTube",
-      "videoId": "MWsgrEPIni4",
-      "channel": "Web Search",
+      "title": "Post-Match Interviews: Portugal 1-1 Congo DR",
+      "videoId": "2UYdPdvu-pc",
+      "channel": "FIFA",
       "publishedAt": "2026-06-17",
       "category": "Highlights",
       "team": [
-        "Tunisia",
-        "Sweden"
+        "Portugal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/MWsgrEPIni4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/2UYdPdvu-pc/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia",
-      "source": "match-search"
+      "fixtureTeams": "Haiti vs Scotland"
     },
     {
-      "title": "Sweden vs Tunisia Highlights | 2026 FIFA World Cup™ - FOX Sports",
-      "videoId": "TC9tqtH0CkA",
-      "channel": "Web Search",
+      "title": "Switzerland Train Before Bosnia and Herzegovina | FIFA World Cup 2026™",
+      "videoId": "IU4qMBPTPXg",
+      "channel": "FIFA",
       "publishedAt": "2026-06-17",
       "category": "Highlights",
       "team": [
-        "Tunisia",
-        "Sweden"
+        "Switzerland",
+        "Bosnia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/TC9tqtH0CkA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/IU4qMBPTPXg/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia",
-      "source": "match-search"
+      "fixtureTeams": "Haiti vs Scotland"
     },
     {
-      "title": "Sweden v Tunisia | Group F | FIFA World Cup 2026™ | Highlights",
-      "videoId": "Z1Yr0OgUfKI",
-      "channel": "Web Search",
+      "title": "Bosnia and Herzegovina Train Before Switzerland | FIFA World Cup 2026™",
+      "videoId": "D1PJ0MKcCMo",
+      "channel": "FIFA",
       "publishedAt": "2026-06-17",
       "category": "Highlights",
       "team": [
-        "Tunisia",
-        "Sweden"
+        "Switzerland",
+        "Bosnia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Z1Yr0OgUfKI/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/D1PJ0MKcCMo/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia",
-      "source": "match-search"
-    },
-    {
-      "title": "FIFA World Cup 2026: Highlights: Sweden v Tunisia: Group F",
-      "videoId": "F47z0suCV7Y",
-      "channel": "Web Search",
-      "publishedAt": "2026-06-17",
-      "category": "Highlights",
-      "team": [
-        "Tunisia",
-        "Sweden"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/F47z0suCV7Y/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia",
-      "source": "match-search"
-    },
-    {
-      "title": "FIFA World Cup: Sweden vs. Tunisia extended highlights - TSN",
-      "videoId": "1nANngmfRb8",
-      "channel": "Web Search",
-      "publishedAt": "2026-06-17",
-      "category": "Highlights",
-      "team": [
-        "Tunisia",
-        "Sweden"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/1nANngmfRb8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia",
-      "source": "match-search"
-    },
-    {
-      "title": "Sweden vs. Tunisia Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "zCNXtWLuF0g",
-      "channel": "Web Search",
-      "publishedAt": "2026-06-17",
-      "category": "Highlights",
-      "team": [
-        "Tunisia",
-        "Sweden"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/zCNXtWLuF0g/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia",
-      "source": "match-search"
+      "fixtureTeams": "Haiti vs Scotland"
     },
     {
       "title": "Team Feature: Australia | From Refugee Camps To The World Cup",
@@ -309,67 +249,33 @@
       "fixtureTeams": "Haiti vs Scotland"
     },
     {
-      "title": "Team Feature: Switzerland | Ricardo Rodríguez’s Emotional World Cup Message",
-      "videoId": "Zjhm3WVl1bI",
-      "channel": "FIFA",
+      "title": "Craig Burley takes issue with Lionel Messi AVOIDING RED CARD against Algeria 👀 | ESPN FC",
+      "videoId": "PcDfE10LuXc",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-17",
       "category": "Highlights",
       "team": [
-        "Switzerland"
+        "Algeria"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Zjhm3WVl1bI/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/PcDfE10LuXc/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Haiti vs Scotland"
     },
     {
-      "title": "Alt Cast Highlights: Spain v Cabo Verde | FIFA World Cup 2026",
-      "videoId": "6jOnFGS280M",
-      "channel": "FIFA",
+      "title": "FULL REACTION to Portugal vs. DR Congo👀 Cristiano Ronaldo DIDN'T change the game! - Robson | ESPN FC",
+      "videoId": "QfChq_4vu9c",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-17",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [
-        "Spain"
+        "Portugal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/6jOnFGS280M/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Haiti vs Scotland"
-    },
-    {
-      "title": "Team Feature: South Africa | Hugo Broos Prepares Bafana Bafana For A Crucial Game Against Czechia",
-      "videoId": "YHa_UmwlL0k",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-17",
-      "category": "Highlights",
-      "team": [
-        "South Africa",
-        "Czechia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/YHa_UmwlL0k/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Haiti vs Scotland"
-    },
-    {
-      "title": "Team Feature: Czechia | Vladimir Coufal Looks Ahead To His Nation's Match Against South Africa",
-      "videoId": "_sYp08-050A",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-17",
-      "category": "Highlights",
-      "team": [
-        "South Africa",
-        "Czechia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_sYp08-050A/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/QfChq_4vu9c/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Haiti vs Scotland"
@@ -557,34 +463,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/-cTsLNSW99o/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Haiti vs Scotland"
-    },
-    {
-      "title": "Will Cristiano Ronaldo follow up with a performance like Lionel Messi’s?! | ESPN FC",
-      "videoId": "8P3jat4OlW4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-17",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/8P3jat4OlW4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Haiti vs Scotland"
-    },
-    {
-      "title": "MESSI IS A ‘MADMAN!’ Lionel Messi showed shades of ‘THE OLD’ Messi - Shaka Hislop | ESPN FC",
-      "videoId": "0ykU2yzOEo4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-17",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/0ykU2yzOEo4/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Haiti vs Scotland"
