@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T17:35:50.607Z",
+  "lastUpdated": "2026-06-17T18:34:43.854Z",
   "fixtures": [
     {
       "id": 760415,
@@ -511,14 +511,14 @@
       "homeScore": 1,
       "awayTeam": "Congo DR",
       "awayCode": "un",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "NRG Stadium",
       "city": "Houston, Texas",
       "status": "in_play",
       "group": "K",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "34'",
+      "minute": "71'",
       "halfTime": [
         null,
         null
