@@ -1,46 +1,171 @@
 {
-  "lastUpdated": "2026-06-17T22:48:09.851Z",
+  "lastUpdated": "2026-06-17T23:41:56.719Z",
   "featured": {
-    "match": "MWsgrEPIni4",
-    "highlight": "MWsgrEPIni4",
-    "interview": "QfChq_4vu9c"
+    "match": "6VFio7MKpx8",
+    "highlight": "6VFio7MKpx8",
+    "interview": "5IbswrPHacU"
   },
   "videos": [
     {
-      "title": "Sweden vs Tunisia Highlights | 2026 FIFA World Cup™ - YouTube",
-      "videoId": "MWsgrEPIni4",
-      "channel": "Web Search",
+      "title": "South Africa On Playing Czechia | South Africa's Hugo Broos Answers Questions From The Press",
+      "videoId": "6VFio7MKpx8",
+      "channel": "FIFA",
       "publishedAt": "2026-06-17",
       "category": "Highlights",
       "team": [
-        "Tunisia",
-        "Sweden"
+        "South Africa",
+        "Czechia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/MWsgrEPIni4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/6VFio7MKpx8/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia",
-      "source": "match-search"
+      "fixtureTeams": "Haiti vs Scotland"
     },
     {
-      "title": "Sweden v Tunisia | Highlights | FIFA WORLD CUP 2026 - YouTube",
-      "videoId": "wkmZbtyVpw0",
-      "channel": "Web Search",
+      "title": "Korea Republic On Playing Mexico | Hong Myungbo & Hwang Inbeom Answer Questions",
+      "videoId": "CMw4KlB5-g4",
+      "channel": "FIFA",
       "publishedAt": "2026-06-17",
       "category": "Highlights",
       "team": [
-        "Tunisia",
-        "Sweden"
+        "Mexico"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/wkmZbtyVpw0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/CMw4KlB5-g4/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia",
-      "source": "match-search"
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "Czechia On Playing South Africa | Miroslav Koubek & Ladislav Krejčí Answer Questions",
+      "videoId": "cK4sb-tcrVw",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [
+        "South Africa",
+        "Czechia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cK4sb-tcrVw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "Portugal 🆚 Congo DR #FIFAWorldCupOnYT #shorts #worldcup",
+      "videoId": "Z_PVaYyBsAU",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Z_PVaYyBsAU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "João Neves Goal | Portugal v Congo DR | FIFA World Cup 2026™",
+      "videoId": "AKt6bxF19U8",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/AKt6bxF19U8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "Neves scores for Portugal at the #FIFAWorldCup 🇵🇹 #FIFAWorldCupOnYT #shorts",
+      "videoId": "hqXCFmXU86Q",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/hqXCFmXU86Q/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "Yoane Wissa Goal | Portugal 1-1 Congo DR | FIFA World Cup 2026™",
+      "videoId": "rDd6gMmqYko",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/rDd6gMmqYko/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "Wissa makes history with Congo DR's first-ever #FIFAWorldCup goal 🇨🇩✍️ #FIFAWorldCupOnYT #shorts",
+      "videoId": "0uMrroQ3sM0",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0uMrroQ3sM0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "Highlights | France 3-1 Senegal | FIFA World Cup 2026™",
+      "videoId": "n3JDGlOwMJ4",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Senegal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/n3JDGlOwMJ4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
+    },
+    {
+      "title": "Post-Match Press Conference: Congo DR's Sébastien Desabre On The 1-1 Draw With Portugal",
+      "videoId": "_TbvhXmCG1A",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_TbvhXmCG1A/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Haiti vs Scotland"
     },
     {
       "title": "Post-Match Press Conference: Portugal's Roberto Martinez On The 1-1 Draw With Congo DR",
@@ -109,177 +234,78 @@
       "fixtureTeams": "Haiti vs Scotland"
     },
     {
-      "title": "Team Feature: Australia | From Refugee Camps To The World Cup",
-      "videoId": "_eEWp2FVFms",
-      "channel": "FIFA",
+      "title": "Ale Moreno after Messi's hat trick to tie the World Cup record 👀",
+      "videoId": "5IbswrPHacU",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-17",
-      "category": "Highlights",
-      "team": [
-        "Australia"
-      ],
+      "category": "Viral",
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_eEWp2FVFms/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/5IbswrPHacU/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Haiti vs Scotland"
     },
     {
-      "title": "Team Feature: USA | Chris Richards Reflects On The Mementos That Have Shaped His Career",
-      "videoId": "vsE5XF3bTq0",
-      "channel": "FIFA",
+      "title": "Decisions to be made after Portugal's draw vs. DR Congo? 🤔",
+      "videoId": "PSghlk9H6hM",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-17",
       "category": "Highlights",
       "team": [
-        "USA"
+        "Portugal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vsE5XF3bTq0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/PSghlk9H6hM/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Haiti vs Scotland"
     },
     {
-      "title": "Czechia Train Before South Africa | FIFA World Cup 2026™",
-      "videoId": "_H9rkEBwOKc",
-      "channel": "FIFA",
+      "title": "Portugal held to a draw with DR Congo 🔥",
+      "videoId": "MGY5dcTBXk8",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-17",
       "category": "Highlights",
       "team": [
-        "South Africa",
-        "Czechia"
+        "Portugal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_H9rkEBwOKc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/MGY5dcTBXk8/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Haiti vs Scotland"
     },
     {
-      "title": "Match Preview: Mexico vs Korea Republic: The Top Two Meet In Huge Group A Clash",
-      "videoId": "_ARNPj_9FcI",
-      "channel": "FIFA",
+      "title": "FULL REACTION to England vs. Croatia ▶️ Harry Kane BRACE + Bellingham and Rashford goals | ESPN FC",
+      "videoId": "n0VGOqrEuBc",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-17",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [
-        "Mexico"
+        "England",
+        "Croatia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_ARNPj_9FcI/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/n0VGOqrEuBc/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Haiti vs Scotland"
     },
     {
-      "title": "Match Preview: Czechia vs South Africa | A Potential Battle For Survival",
-      "videoId": "QCtbuVOEnBM",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-17",
-      "category": "Highlights",
-      "team": [
-        "South Africa",
-        "Czechia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/QCtbuVOEnBM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Haiti vs Scotland"
-    },
-    {
-      "title": "15-Minute Match: Mexico vs Korea Republic: 1998 Comeback",
-      "videoId": "mSmLDozpdTo",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-17",
-      "category": "Highlights",
-      "team": [
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/mSmLDozpdTo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Haiti vs Scotland"
-    },
-    {
-      "title": "Team Feature: Canada | From Ball Boy to World Cup Star",
-      "videoId": "vknZ4Bcc9FE",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-17",
-      "category": "Highlights",
-      "team": [
-        "Canada"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vknZ4Bcc9FE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Haiti vs Scotland"
-    },
-    {
-      "title": "Team Feature: Qatar | How Qatar Goalkeeper Contemplated Retiring",
-      "videoId": "HJqKzUa-G58",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-17",
-      "category": "Highlights",
-      "team": [
-        "Qatar"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/HJqKzUa-G58/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Haiti vs Scotland"
-    },
-    {
-      "title": "Team Feature: Korea Republic | Korea Players Enjoying The Mexican Experience",
-      "videoId": "ooHqc0-dCz8",
-      "channel": "FIFA",
+      "title": "‘ARE WE PANDERING?!’ - Craig Burley SOUNDS OFF on ‘PASSENGER’ Cristiano Ronaldo! | ESPN FC",
+      "videoId": "lyWDvygQcHg",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-17",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ooHqc0-dCz8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Haiti vs Scotland"
-    },
-    {
-      "title": "Team Feature: Mexico | Raúl Jiménez On His 'Second Chance'",
-      "videoId": "PuKEwEjevMo",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-17",
-      "category": "Highlights",
-      "team": [
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PuKEwEjevMo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Haiti vs Scotland"
-    },
-    {
-      "title": "Team Feature: Bosnia And Herzegovina | \"Milwaukee Messi\": Esmir Bajraktarević's Story",
-      "videoId": "rysvuKucwTY",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-17",
-      "category": "Highlights",
-      "team": [
-        "Bosnia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/rysvuKucwTY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/lyWDvygQcHg/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Haiti vs Scotland"
@@ -301,7 +327,7 @@
       "fixtureTeams": "Haiti vs Scotland"
     },
     {
-      "title": "FULL REACTION to Portugal vs. DR Congo👀 Cristiano Ronaldo DIDN'T change the game! - Robson | ESPN FC",
+      "title": "FULL REACTION to Portugal vs. DR Congo 👀 Cristiano Ronaldo DIDN'T change the game - Robson | ESPN FC",
       "videoId": "QfChq_4vu9c",
       "channel": "ESPN FC",
       "publishedAt": "2026-06-17",
@@ -432,76 +458,20 @@
       "fixtureTeams": "Haiti vs Scotland"
     },
     {
-      "title": "Lionel Messi scores HAT TRICK, but should he have been shown a red card? | ESPN FC",
-      "videoId": "gWSd8Mwv98Q",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-17",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/gWSd8Mwv98Q/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Haiti vs Scotland"
-    },
-    {
-      "title": "Everyone is a fan of Zidane 😭👏 (via paulpogba/TT)",
-      "videoId": "wb0Pn0HJrpk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-17",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/wb0Pn0HJrpk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Haiti vs Scotland"
-    },
-    {
-      "title": "Erling Haaland wanted to make a statement - Kieran Gibbs | ESPN FC",
-      "videoId": "jdGzUtC76D0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-17",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/jdGzUtC76D0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Haiti vs Scotland"
-    },
-    {
-      "title": "Kylian Mbappe and Michael Olise SHINE for France: LEVELS TO GO?! | ESPN FC",
-      "videoId": "_j2tycqK0j0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-17",
+      "title": "WATCH LIVE | Ghana v Panama | Group Stage L | FIFA World Cup 2026™",
+      "videoId": "uQ9PA7-Vjcw",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-10",
       "category": "Highlights",
       "team": [
-        "France"
+        "Ghana"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_j2tycqK0j0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/uQ9PA7-Vjcw/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Haiti vs Scotland"
-    },
-    {
-      "title": "Brad Wright-Phillips speaks on Messi's hat trick",
-      "videoId": "-cTsLNSW99o",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-17",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-cTsLNSW99o/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Haiti vs Scotland"
+      "fixtureTeams": "Mexico vs South Africa"
     }
   ]
 }
