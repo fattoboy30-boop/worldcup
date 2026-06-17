@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T18:34:43.855Z",
+  "lastUpdated": "2026-06-17T19:47:36.076Z",
   "groups": {
     "A": {
       "teams": [
@@ -558,6 +558,36 @@
           "gd": -3,
           "points": 0,
           "position": 4
+        }
+      ]
+    },
+    "K": {
+      "teams": [
+        {
+          "name": "Portugal",
+          "code": "pt",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1,
+          "position": 1
+        },
+        {
+          "name": "Congo DR",
+          "code": "un",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1,
+          "position": 2
         }
       ]
     }
