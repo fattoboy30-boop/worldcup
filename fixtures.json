@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T22:47:18.485Z",
+  "lastUpdated": "2026-06-17T23:12:03.339Z",
   "fixtures": [
     {
       "id": 760415,
@@ -564,11 +564,11 @@
       "awayScore": 0,
       "venue": "BMO Field",
       "city": "Toronto",
-      "status": "timed",
+      "status": "in_play",
       "group": "L",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "10'",
       "halfTime": [
         null,
         null

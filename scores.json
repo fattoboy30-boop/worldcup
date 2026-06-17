@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-17T22:47:18.482Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-06-17T23:12:03.336Z",
+  "liveMatches": [
+    {
+      "id": 760434,
+      "date": "2026-06-17",
+      "time": "23:00",
+      "utcDate": "2026-06-17T23:00Z",
+      "homeTeam": "Ghana",
+      "homeCode": "gh",
+      "homeScore": 0,
+      "awayTeam": "Panama",
+      "awayCode": "pa",
+      "awayScore": 0,
+      "venue": "BMO Field",
+      "city": "Toronto",
+      "status": "in_play",
+      "group": "L",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "10'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -510,29 +534,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760434,
-      "date": "2026-06-17",
-      "time": "23:00",
-      "utcDate": "2026-06-17T23:00Z",
-      "homeTeam": "Ghana",
-      "homeCode": "gh",
-      "homeScore": 0,
-      "awayTeam": "Panama",
-      "awayCode": "pa",
-      "awayScore": 0,
-      "venue": "BMO Field",
-      "city": "Toronto",
-      "status": "timed",
-      "group": "L",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760436,
       "date": "2026-06-18",
