@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T20:57:44.926Z",
+  "lastUpdated": "2026-06-17T21:50:18.187Z",
   "liveMatches": [
     {
       "id": 760437,
@@ -8,7 +8,7 @@
       "utcDate": "2026-06-17T20:00Z",
       "homeTeam": "England",
       "homeCode": "gb-eng",
-      "homeScore": 2,
+      "homeScore": 4,
       "awayTeam": "Croatia",
       "awayCode": "hr",
       "awayScore": 2,
@@ -18,7 +18,7 @@
       "group": "L",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "45'+6'",
+      "minute": "86'",
       "halfTime": [
         null,
         null
