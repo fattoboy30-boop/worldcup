@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T19:47:36.075Z",
+  "lastUpdated": "2026-06-17T20:57:44.930Z",
   "fixtures": [
     {
       "id": 760415,
@@ -533,17 +533,17 @@
       "utcDate": "2026-06-17T20:00Z",
       "homeTeam": "England",
       "homeCode": "gb-eng",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayTeam": "Croatia",
       "awayCode": "hr",
-      "awayScore": 0,
+      "awayScore": 2,
       "venue": "AT&T Stadium",
       "city": "Arlington, Texas",
-      "status": "timed",
+      "status": "in_play",
       "group": "L",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "45'+6'",
       "halfTime": [
         null,
         null
