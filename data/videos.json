@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-17T21:11:52.673Z",
+  "lastUpdated": "2026-06-17T22:48:09.851Z",
   "featured": {
-    "match": "8oGTpEZYHRY",
-    "highlight": "8oGTpEZYHRY",
+    "match": "MWsgrEPIni4",
+    "highlight": "MWsgrEPIni4",
     "interview": "QfChq_4vu9c"
   },
   "videos": [
+    {
+      "title": "Sweden vs Tunisia Highlights | 2026 FIFA World Cup™ - YouTube",
+      "videoId": "MWsgrEPIni4",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [
+        "Tunisia",
+        "Sweden"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/MWsgrEPIni4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Sweden vs Tunisia",
+      "source": "match-search"
+    },
+    {
+      "title": "Sweden v Tunisia | Highlights | FIFA WORLD CUP 2026 - YouTube",
+      "videoId": "wkmZbtyVpw0",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-17",
+      "category": "Highlights",
+      "team": [
+        "Tunisia",
+        "Sweden"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/wkmZbtyVpw0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Sweden vs Tunisia",
+      "source": "match-search"
+    },
     {
       "title": "Post-Match Press Conference: Portugal's Roberto Martinez On The 1-1 Draw With Congo DR",
       "videoId": "8oGTpEZYHRY",

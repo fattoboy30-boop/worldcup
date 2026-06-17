@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T21:50:18.191Z",
+  "lastUpdated": "2026-06-17T22:47:18.486Z",
   "groups": {
     "A": {
       "teams": [
@@ -587,6 +587,36 @@
           "ga": 1,
           "gd": 0,
           "points": 1,
+          "position": 2
+        }
+      ]
+    },
+    "L": {
+      "teams": [
+        {
+          "name": "England",
+          "code": "gb-eng",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 4,
+          "ga": 2,
+          "gd": 2,
+          "points": 3,
+          "position": 1
+        },
+        {
+          "name": "Croatia",
+          "code": "hr",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 2,
+          "ga": 4,
+          "gd": -2,
+          "points": 0,
           "position": 2
         }
       ]

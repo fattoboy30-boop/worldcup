@@ -1,30 +1,6 @@
 {
-  "lastUpdated": "2026-06-17T21:50:18.187Z",
-  "liveMatches": [
-    {
-      "id": 760437,
-      "date": "2026-06-17",
-      "time": "20:00",
-      "utcDate": "2026-06-17T20:00Z",
-      "homeTeam": "England",
-      "homeCode": "gb-eng",
-      "homeScore": 4,
-      "awayTeam": "Croatia",
-      "awayCode": "hr",
-      "awayScore": 2,
-      "venue": "AT&T Stadium",
-      "city": "Arlington, Texas",
-      "status": "in_play",
-      "group": "L",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": "86'",
-      "halfTime": [
-        null,
-        null
-      ]
-    }
-  ],
+  "lastUpdated": "2026-06-17T22:47:18.482Z",
+  "liveMatches": [],
   "recentResults": [
     {
       "id": 760415,
@@ -501,6 +477,29 @@
       "city": "Houston, Texas",
       "status": "finished",
       "group": "K",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": null,
+      "halfTime": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": 760437,
+      "date": "2026-06-17",
+      "time": "20:00",
+      "utcDate": "2026-06-17T20:00Z",
+      "homeTeam": "England",
+      "homeCode": "gb-eng",
+      "homeScore": 4,
+      "awayTeam": "Croatia",
+      "awayCode": "hr",
+      "awayScore": 2,
+      "venue": "AT&T Stadium",
+      "city": "Arlington, Texas",
+      "status": "finished",
+      "group": "L",
       "stage": "GROUP_STAGE",
       "matchday": 0,
       "minute": null,
