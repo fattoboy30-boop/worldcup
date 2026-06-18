@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-18T22:14:54.812Z",
+  "lastUpdated": "2026-06-18T23:21:05.615Z",
   "featured": {
-    "match": "3bWM4p6FCiw",
-    "highlight": "3bWM4p6FCiw",
+    "match": "qhqgfw1SlMk",
+    "highlight": "qhqgfw1SlMk",
     "interview": "o6Bw6iW0NCI"
   },
   "videos": [
+    {
+      "title": "Iran vs New Zealand | Full Highlights| FIFA WC 2026 - YouTube",
+      "videoId": "qhqgfw1SlMk",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-18",
+      "category": "Highlights",
+      "team": [
+        "Iran",
+        "New Zealand"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/qhqgfw1SlMk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand",
+      "source": "match-search"
+    },
+    {
+      "title": "Iran vs New Zealand | All Goals & Highlights - FIFA World Cup 2026",
+      "videoId": "cHsI55jz4yE",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-18",
+      "category": "Highlights",
+      "team": [
+        "Iran",
+        "New Zealand"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cHsI55jz4yE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand",
+      "source": "match-search"
+    },
     {
       "title": "Czechia 🆚 South Africa #FIFAWorldCupOnYT #shorts #worldcup",
       "videoId": "3bWM4p6FCiw",

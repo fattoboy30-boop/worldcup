@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T21:50:30.659Z",
+  "lastUpdated": "2026-06-18T23:20:15.001Z",
   "fixtures": [
     {
       "id": 760415,
@@ -658,17 +658,17 @@
       "utcDate": "2026-06-18T22:00Z",
       "homeTeam": "Canada",
       "homeCode": "ca",
-      "homeScore": 0,
+      "homeScore": 3,
       "awayTeam": "Qatar",
       "awayCode": "qa",
       "awayScore": 0,
       "venue": "BC Place",
       "city": "Vancouver",
-      "status": "timed",
+      "status": "in_play",
       "group": "B",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "57'",
       "halfTime": [
         null,
         null
