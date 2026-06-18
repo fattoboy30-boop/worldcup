@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-18T12:58:25.916Z",
+  "lastUpdated": "2026-06-18T16:32:11.514Z",
   "featured": {
-    "match": "bq03SzSRdPE",
-    "highlight": "bq03SzSRdPE",
+    "match": "qhqgfw1SlMk",
+    "highlight": "qhqgfw1SlMk",
     "interview": "XdMdnf8E0us"
   },
   "videos": [
+    {
+      "title": "Iran vs New Zealand | Full Highlights| FIFA WC 2026 - YouTube",
+      "videoId": "qhqgfw1SlMk",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-18",
+      "category": "Highlights",
+      "team": [
+        "Iran",
+        "New Zealand"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/qhqgfw1SlMk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand",
+      "source": "match-search"
+    },
+    {
+      "title": "Iran vs New Zealand | All Goals & Highlights - FIFA World Cup 2026",
+      "videoId": "cHsI55jz4yE",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-18",
+      "category": "Highlights",
+      "team": [
+        "Iran",
+        "New Zealand"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cHsI55jz4yE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand",
+      "source": "match-search"
+    },
     {
       "title": "Team Feature: Morocoo | Why Diaz Chose Morocco Over Spain",
       "videoId": "bq03SzSRdPE",

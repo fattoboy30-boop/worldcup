@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-18T14:11:32.184Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-06-18T16:31:25.119Z",
+  "liveMatches": [
+    {
+      "id": 760438,
+      "date": "2026-06-18",
+      "time": "16:00",
+      "utcDate": "2026-06-18T16:00Z",
+      "homeTeam": "Czechia",
+      "homeCode": "cz",
+      "homeScore": 1,
+      "awayTeam": "South Africa",
+      "awayCode": "za",
+      "awayScore": 0,
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta, Georgia",
+      "status": "in_play",
+      "group": "A",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "29'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -556,29 +580,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760438,
-      "date": "2026-06-18",
-      "time": "16:00",
-      "utcDate": "2026-06-18T16:00Z",
-      "homeTeam": "Czechia",
-      "homeCode": "cz",
-      "homeScore": 0,
-      "awayTeam": "South Africa",
-      "awayCode": "za",
-      "awayScore": 0,
-      "venue": "Mercedes-Benz Stadium",
-      "city": "Atlanta, Georgia",
-      "status": "timed",
-      "group": "A",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760439,
       "date": "2026-06-18",
