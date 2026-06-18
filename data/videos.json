@@ -1,64 +1,108 @@
 {
-  "lastUpdated": "2026-06-18T12:53:16.983Z",
+  "lastUpdated": "2026-06-18T12:58:25.916Z",
   "featured": {
-    "match": "NFqUIhwvihc",
-    "highlight": "NFqUIhwvihc",
-    "interview": "IySbj0wnLFY"
+    "match": "bq03SzSRdPE",
+    "highlight": "bq03SzSRdPE",
+    "interview": "XdMdnf8E0us"
   },
   "videos": [
     {
-      "title": "IRAN vs NEW ZEALAND | 2026 FIFA World Cup | Match Highlights",
-      "videoId": "NFqUIhwvihc",
-      "channel": "Web Search",
+      "title": "Team Feature: Morocoo | Why Diaz Chose Morocco Over Spain",
+      "videoId": "bq03SzSRdPE",
+      "channel": "FIFA",
       "publishedAt": "2026-06-18",
       "category": "Highlights",
       "team": [
-        "Iran",
-        "New Zealand"
+        "Spain",
+        "Morocco"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/NFqUIhwvihc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/bq03SzSRdPE/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand",
-      "source": "match-search"
+      "fixtureTeams": "Sweden vs Tunisia"
     },
     {
-      "title": "Iran vs New Zealand | Full Highlights| FIFA WC 2026 - YouTube",
-      "videoId": "qhqgfw1SlMk",
-      "channel": "Web Search",
+      "title": "Alt Cast Highlights: Iraq v Norway | FIFA World Cup 2026™",
+      "videoId": "YVpV0yaiEoo",
+      "channel": "FIFA",
       "publishedAt": "2026-06-18",
       "category": "Highlights",
       "team": [
-        "Iran",
-        "New Zealand"
+        "Norway"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/qhqgfw1SlMk/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/YVpV0yaiEoo/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand",
-      "source": "match-search"
+      "fixtureTeams": "Sweden vs Tunisia"
     },
     {
-      "title": "Iran vs New Zealand | Match Highlights | FIFA World Cup 2026",
-      "videoId": "sY-NxVW2VSY",
-      "channel": "Web Search",
+      "title": "Match Preview: Türkiye vs Paraguay",
+      "videoId": "NDC-FUyxl9E",
+      "channel": "FIFA",
       "publishedAt": "2026-06-18",
       "category": "Highlights",
       "team": [
-        "Iran",
-        "New Zealand"
+        "Paraguay"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/sY-NxVW2VSY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/NDC-FUyxl9E/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand",
-      "source": "match-search"
+      "fixtureTeams": "Sweden vs Tunisia"
+    },
+    {
+      "title": "15-Minute Match: Korea Republic vs Mexico: 2018 Drama",
+      "videoId": "F2lM0EGl1I0",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-18",
+      "category": "Highlights",
+      "team": [
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/F2lM0EGl1I0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Sweden vs Tunisia"
+    },
+    {
+      "title": "Match Preview: Scotland vs Morocco",
+      "videoId": "2az_yvJ3lXY",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-18",
+      "category": "Highlights",
+      "team": [
+        "Morocco",
+        "Scotland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/2az_yvJ3lXY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Sweden vs Tunisia"
+    },
+    {
+      "title": "Mexico On Playing Korea Republic | Coach Javier Aguirre Answers Questions From The Press",
+      "videoId": "cnAntfZCuyY",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-18",
+      "category": "Highlights",
+      "team": [
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cnAntfZCuyY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Sweden vs Tunisia"
     },
     {
       "title": "Messi & Ronaldo | ONLY PLAYERS TO SCORE IN 5 FIFA World Cups",
@@ -204,98 +248,95 @@
       "fixtureTeams": "Sweden vs Tunisia"
     },
     {
-      "title": "Post-Match Interviews: Ghana 1-0 Panama",
-      "videoId": "tvmdmfPCrmw",
-      "channel": "FIFA",
+      "title": "Bernardo Silva ➡️ Real Madrid 👀 Ale Moreno worries this could be a SACRIFICE | ESPN FC",
+      "videoId": "k0liHq1y5zU",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-18",
       "category": "Highlights",
-      "team": [
-        "Ghana"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/tvmdmfPCrmw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/k0liHq1y5zU/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Sweden vs Tunisia"
     },
     {
-      "title": "Highlights | Austria 3-1 Jordan | FIFA World Cup 2026™",
-      "videoId": "pU-mPZcuENY",
-      "channel": "FIFA",
+      "title": "Craig Burley calls Portugal’s Group K performance ‘flat’ against Congo DR 👀 | ESPN FC",
+      "videoId": "VdRzkwbhbIU",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-18",
       "category": "Highlights",
       "team": [
-        "Austria"
+        "Portugal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/pU-mPZcuENY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/VdRzkwbhbIU/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Sweden vs Tunisia"
     },
     {
-      "title": "Alt Cast Highlights: France v Senegal | FIFA World Cup 2026™",
-      "videoId": "t2cbTyEO080",
-      "channel": "FIFA",
+      "title": "Is it better to bring Ronaldo off the bench?",
+      "videoId": "-zPajq-hG-A",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-18",
       "category": "Highlights",
-      "team": [
-        "France",
-        "Senegal"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/t2cbTyEO080/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/-zPajq-hG-A/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Sweden vs Tunisia"
     },
     {
-      "title": "Korea Republic Train Before Mexico",
-      "videoId": "w3KdAaJAidQ",
-      "channel": "FIFA",
+      "title": "England vs. Croatia REACTION 🔥 Kieran Gibbs still has CONCERNS for his side 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | ESPN FC",
+      "videoId": "XdMdnf8E0us",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-18",
+      "category": "Viral",
+      "team": [
+        "England",
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/XdMdnf8E0us/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Sweden vs Tunisia"
+    },
+    {
+      "title": "James Rodriguez needs 'moments of magic' for Colombia! - Alejandro Moreno | ESPN FC",
+      "videoId": "1rVD33ejdbM",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-18",
       "category": "Highlights",
       "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/1rVD33ejdbM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Sweden vs Tunisia"
+    },
+    {
+      "title": "Flavors Of The Game: Mexico vs. South Korea | ESPN FC",
+      "videoId": "yTn7NuHN7yU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-18",
+      "category": "Highlights",
+      "team": [
+        "South Korea",
         "Mexico"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/w3KdAaJAidQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Mexico Train Before Korea Republic",
-      "videoId": "9Sq9pbXJG8Y",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/9Sq9pbXJG8Y/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Ghana 🆚 Panama #FIFAWorldCup #FIFAWorldCupOnYT",
-      "videoId": "aM3kb91LL_o",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [
-        "Ghana"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/aM3kb91LL_o/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/yTn7NuHN7yU/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Sweden vs Tunisia"
@@ -423,101 +464,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/5IbswrPHacU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Haiti vs Scotland"
-    },
-    {
-      "title": "Decisions to be made after Portugal's draw vs. DR Congo? 🤔",
-      "videoId": "PSghlk9H6hM",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-17",
-      "category": "Highlights",
-      "team": [
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PSghlk9H6hM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Haiti vs Scotland"
-    },
-    {
-      "title": "Portugal held to a draw with DR Congo 🔥",
-      "videoId": "MGY5dcTBXk8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-17",
-      "category": "Highlights",
-      "team": [
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/MGY5dcTBXk8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Haiti vs Scotland"
-    },
-    {
-      "title": "FULL REACTION to England vs. Croatia ▶️ Harry Kane BRACE + Bellingham and Rashford goals | ESPN FC",
-      "videoId": "n0VGOqrEuBc",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-17",
-      "category": "Viral",
-      "team": [
-        "England",
-        "Croatia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/n0VGOqrEuBc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Haiti vs Scotland"
-    },
-    {
-      "title": "‘ARE WE PANDERING?!’ - Craig Burley SOUNDS OFF on ‘PASSENGER’ Cristiano Ronaldo! | ESPN FC",
-      "videoId": "lyWDvygQcHg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-17",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/lyWDvygQcHg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Haiti vs Scotland"
-    },
-    {
-      "title": "Craig Burley takes issue with Lionel Messi AVOIDING RED CARD against Algeria 👀 | ESPN FC",
-      "videoId": "PcDfE10LuXc",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-17",
-      "category": "Highlights",
-      "team": [
-        "Algeria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PcDfE10LuXc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Haiti vs Scotland"
-    },
-    {
-      "title": "FULL REACTION to Portugal vs. DR Congo 👀 Cristiano Ronaldo DIDN'T change the game - Robson | ESPN FC",
-      "videoId": "QfChq_4vu9c",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-17",
-      "category": "Viral",
-      "team": [
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/QfChq_4vu9c/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Haiti vs Scotland"
