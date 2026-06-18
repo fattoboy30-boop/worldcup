@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T01:43:22.805Z",
+  "lastUpdated": "2026-06-18T05:16:47.680Z",
   "liveMatches": [],
   "recentResults": [
     {
@@ -530,9 +530,7 @@
         null,
         null
       ]
-    }
-  ],
-  "upcomingMatches": [
+    },
     {
       "id": 760436,
       "date": "2026-06-18",
@@ -540,13 +538,13 @@
       "utcDate": "2026-06-18T02:00Z",
       "homeTeam": "Uzbekistan",
       "homeCode": "un",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayTeam": "Colombia",
       "awayCode": "co",
-      "awayScore": 0,
+      "awayScore": 3,
       "venue": "Estadio Banorte",
       "city": "Mexico City",
-      "status": "timed",
+      "status": "finished",
       "group": "K",
       "stage": "GROUP_STAGE",
       "matchday": 0,
@@ -555,7 +553,9 @@
         null,
         null
       ]
-    },
+    }
+  ],
+  "upcomingMatches": [
     {
       "id": 760438,
       "date": "2026-06-18",
