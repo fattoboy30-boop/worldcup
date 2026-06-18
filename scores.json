@@ -1,24 +1,24 @@
 {
-  "lastUpdated": "2026-06-18T17:29:37.070Z",
+  "lastUpdated": "2026-06-18T19:09:59.772Z",
   "liveMatches": [
     {
-      "id": 760438,
+      "id": 760439,
       "date": "2026-06-18",
-      "time": "16:00",
-      "utcDate": "2026-06-18T16:00Z",
-      "homeTeam": "Czechia",
-      "homeCode": "cz",
-      "homeScore": 1,
-      "awayTeam": "South Africa",
-      "awayCode": "za",
+      "time": "19:00",
+      "utcDate": "2026-06-18T19:00Z",
+      "homeTeam": "Switzerland",
+      "homeCode": "ch",
+      "homeScore": 0,
+      "awayTeam": "Bosnia-Herzegovina",
+      "awayCode": "ba",
       "awayScore": 0,
-      "venue": "Mercedes-Benz Stadium",
-      "city": "Atlanta, Georgia",
+      "venue": "SoFi Stadium",
+      "city": "Inglewood, California",
       "status": "in_play",
-      "group": "A",
+      "group": "B",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "68'",
+      "minute": "9'",
       "halfTime": [
         null,
         null
@@ -577,24 +577,22 @@
         null,
         null
       ]
-    }
-  ],
-  "upcomingMatches": [
+    },
     {
-      "id": 760439,
+      "id": 760438,
       "date": "2026-06-18",
-      "time": "19:00",
-      "utcDate": "2026-06-18T19:00Z",
-      "homeTeam": "Switzerland",
-      "homeCode": "ch",
-      "homeScore": 0,
-      "awayTeam": "Bosnia-Herzegovina",
-      "awayCode": "ba",
-      "awayScore": 0,
-      "venue": "SoFi Stadium",
-      "city": "Inglewood, California",
-      "status": "timed",
-      "group": "B",
+      "time": "16:00",
+      "utcDate": "2026-06-18T16:00Z",
+      "homeTeam": "Czechia",
+      "homeCode": "cz",
+      "homeScore": 1,
+      "awayTeam": "South Africa",
+      "awayCode": "za",
+      "awayScore": 1,
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta, Georgia",
+      "status": "finished",
+      "group": "A",
       "stage": "GROUP_STAGE",
       "matchday": 0,
       "minute": null,
@@ -602,7 +600,9 @@
         null,
         null
       ]
-    },
+    }
+  ],
+  "upcomingMatches": [
     {
       "id": 760440,
       "date": "2026-06-18",

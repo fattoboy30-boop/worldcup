@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T17:29:37.074Z",
+  "lastUpdated": "2026-06-18T19:09:59.776Z",
   "fixtures": [
     {
       "id": 760415,
@@ -611,14 +611,14 @@
       "homeScore": 1,
       "awayTeam": "South Africa",
       "awayCode": "za",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta, Georgia",
-      "status": "in_play",
+      "status": "finished",
       "group": "A",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "68'",
+      "minute": null,
       "halfTime": [
         null,
         null
@@ -639,11 +639,11 @@
       "awayScore": 0,
       "venue": "SoFi Stadium",
       "city": "Inglewood, California",
-      "status": "timed",
+      "status": "in_play",
       "group": "B",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "9'",
       "halfTime": [
         null,
         null

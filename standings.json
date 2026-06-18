@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T17:29:37.075Z",
+  "lastUpdated": "2026-06-18T19:09:59.777Z",
   "groups": {
     "A": {
       "teams": [
@@ -32,27 +32,27 @@
         {
           "name": "Czechia",
           "code": "cz",
-          "played": 1,
+          "played": 2,
           "won": 0,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 1,
-          "gf": 1,
-          "ga": 2,
+          "gf": 2,
+          "ga": 3,
           "gd": -1,
-          "points": 0,
+          "points": 1,
           "position": 3
         },
         {
           "name": "South Africa",
           "code": "za",
-          "played": 1,
+          "played": 2,
           "won": 0,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 1,
-          "gf": 0,
-          "ga": 2,
+          "gf": 1,
+          "ga": 3,
           "gd": -2,
-          "points": 0,
+          "points": 1,
           "position": 4
         }
       ]

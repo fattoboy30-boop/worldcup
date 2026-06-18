@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-06-18T16:40:09.375Z",
+  "lastUpdated": "2026-06-18T19:10:47.940Z",
   "featured": {
-    "match": "fapl7EAoxCA",
-    "highlight": "fapl7EAoxCA",
+    "match": "qhqgfw1SlMk",
+    "highlight": "qhqgfw1SlMk",
     "interview": "XdMdnf8E0us"
   },
   "videos": [
+    {
+      "title": "Iran vs New Zealand | Full Highlights| FIFA WC 2026 - YouTube",
+      "videoId": "qhqgfw1SlMk",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-18",
+      "category": "Highlights",
+      "team": [
+        "Iran",
+        "New Zealand"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/qhqgfw1SlMk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand",
+      "source": "match-search"
+    },
     {
       "title": "How does the FIFA #PowerRankings compare player performance? @aramco",
       "videoId": "fapl7EAoxCA",
