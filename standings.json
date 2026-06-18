@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T19:40:37.744Z",
+  "lastUpdated": "2026-06-18T21:28:26.111Z",
   "groups": {
     "A": {
       "teams": [
@@ -60,21 +60,21 @@
     "B": {
       "teams": [
         {
-          "name": "Canada",
-          "code": "ca",
-          "played": 1,
-          "won": 0,
+          "name": "Switzerland",
+          "code": "ch",
+          "played": 2,
+          "won": 1,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
-          "gd": 0,
-          "points": 1,
+          "gf": 5,
+          "ga": 2,
+          "gd": 3,
+          "points": 4,
           "position": 1
         },
         {
-          "name": "Bosnia-Herzegovina",
-          "code": "ba",
+          "name": "Canada",
+          "code": "ca",
           "played": 1,
           "won": 0,
           "drawn": 1,
@@ -99,15 +99,15 @@
           "position": 3
         },
         {
-          "name": "Switzerland",
-          "code": "ch",
-          "played": 1,
+          "name": "Bosnia-Herzegovina",
+          "code": "ba",
+          "played": 2,
           "won": 0,
           "drawn": 1,
-          "lost": 0,
-          "gf": 1,
-          "ga": 1,
-          "gd": 0,
+          "lost": 1,
+          "gf": 2,
+          "ga": 5,
+          "gd": -3,
           "points": 1,
           "position": 4
         }

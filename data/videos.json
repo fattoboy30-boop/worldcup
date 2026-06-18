@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-18T19:32:39.909Z",
+  "lastUpdated": "2026-06-18T21:29:16.053Z",
   "featured": {
-    "match": "auBvlRpKAZc",
-    "highlight": "auBvlRpKAZc",
+    "match": "qhqgfw1SlMk",
+    "highlight": "qhqgfw1SlMk",
     "interview": "IySbj0wnLFY"
   },
   "videos": [
+    {
+      "title": "Iran vs New Zealand | Full Highlights| FIFA WC 2026 - YouTube",
+      "videoId": "qhqgfw1SlMk",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-18",
+      "category": "Highlights",
+      "team": [
+        "Iran",
+        "New Zealand"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/qhqgfw1SlMk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand",
+      "source": "match-search"
+    },
+    {
+      "title": "IRAN vs NEW ZEALAND | 2026 FIFA World Cup | Match Highlights",
+      "videoId": "NFqUIhwvihc",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-18",
+      "category": "Highlights",
+      "team": [
+        "Iran",
+        "New Zealand"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/NFqUIhwvihc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand",
+      "source": "match-search"
+    },
     {
       "title": "Post-Match Press Conference: South Africa's Hugo Broos On 1 - 1 Draw with Czechia",
       "videoId": "auBvlRpKAZc",
