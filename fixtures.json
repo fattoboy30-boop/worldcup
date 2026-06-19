@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T20:51:38.490Z",
+  "lastUpdated": "2026-06-19T21:51:01.583Z",
   "fixtures": [
     {
       "id": 760415,
@@ -714,11 +714,11 @@
       "awayScore": 0,
       "venue": "Lumen Field",
       "city": "Seattle, Washington",
-      "status": "in_play",
+      "status": "finished",
       "group": "D",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "85'",
+      "minute": null,
       "halfTime": [
         null,
         null

@@ -1,30 +1,6 @@
 {
-  "lastUpdated": "2026-06-19T20:51:38.487Z",
-  "liveMatches": [
-    {
-      "id": 760442,
-      "date": "2026-06-19",
-      "time": "19:00",
-      "utcDate": "2026-06-19T19:00Z",
-      "homeTeam": "United States",
-      "homeCode": "un",
-      "homeScore": 2,
-      "awayTeam": "Australia",
-      "awayCode": "au",
-      "awayScore": 0,
-      "venue": "Lumen Field",
-      "city": "Seattle, Washington",
-      "status": "in_play",
-      "group": "D",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": "85'",
-      "halfTime": [
-        null,
-        null
-      ]
-    }
-  ],
+  "lastUpdated": "2026-06-19T21:51:01.580Z",
+  "liveMatches": [],
   "recentResults": [
     {
       "id": 760415,
@@ -662,6 +638,29 @@
       "city": "Guadalajara",
       "status": "finished",
       "group": "A",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": null,
+      "halfTime": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": 760442,
+      "date": "2026-06-19",
+      "time": "19:00",
+      "utcDate": "2026-06-19T19:00Z",
+      "homeTeam": "United States",
+      "homeCode": "un",
+      "homeScore": 2,
+      "awayTeam": "Australia",
+      "awayCode": "au",
+      "awayScore": 0,
+      "venue": "Lumen Field",
+      "city": "Seattle, Washington",
+      "status": "finished",
+      "group": "D",
       "stage": "GROUP_STAGE",
       "matchday": 0,
       "minute": null,
