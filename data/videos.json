@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-19T12:10:36.722Z",
+  "lastUpdated": "2026-06-19T15:14:39.901Z",
   "featured": {
-    "match": "C973Oi6EJR0",
-    "highlight": "C973Oi6EJR0",
+    "match": "rlwYtxpDX94",
+    "highlight": "rlwYtxpDX94",
     "interview": "IySbj0wnLFY"
   },
   "videos": [
+    {
+      "title": "FIFA World Cup 2026 live - Watch FIFA World Cup 2026",
+      "videoId": "rlwYtxpDX94",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-19",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/rlwYtxpDX94/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria",
+      "source": "match-search"
+    },
+    {
+      "title": "Argentina Vs Algeria (3-0 )|Highlights & Goals|FIFA World Cup 2026⚽",
+      "videoId": "gt-CwnpOJFo",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-19",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/gt-CwnpOJFo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria",
+      "source": "match-search"
+    },
     {
       "title": "Team Feature: Sweden | Mindfulness In The Heat Of Battle",
       "videoId": "C973Oi6EJR0",
