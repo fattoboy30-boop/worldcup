@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-19T07:12:02.592Z",
+  "lastUpdated": "2026-06-19T07:39:33.159Z",
   "featured": {
-    "match": "hNas_i-fsgc",
-    "highlight": "hNas_i-fsgc",
+    "match": "JH_WRKTCPK4",
+    "highlight": "JH_WRKTCPK4",
     "interview": "IySbj0wnLFY"
   },
   "videos": [
+    {
+      "title": "FIFA World Cup 2026 live - Watch FIFA World Cup 2026",
+      "videoId": "JH_WRKTCPK4",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-19",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JH_WRKTCPK4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria",
+      "source": "match-search"
+    },
+    {
+      "title": "Highlights | Argentina 3-0 Algeria | FIFA World Cup 2026™",
+      "videoId": "DnXBY_g7d3w",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-19",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/DnXBY_g7d3w/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria",
+      "source": "match-search"
+    },
     {
       "title": "Post-Match Interviews: Mexico 1-0 Korea Republic",
       "videoId": "hNas_i-fsgc",
