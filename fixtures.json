@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T02:16:57.200Z",
+  "lastUpdated": "2026-06-19T07:33:00.007Z",
   "fixtures": [
     {
       "id": 760415,
@@ -689,11 +689,11 @@
       "awayScore": 0,
       "venue": "Estadio Akron",
       "city": "Guadalajara",
-      "status": "in_play",
+      "status": "finished",
       "group": "A",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "57'",
+      "minute": null,
       "halfTime": [
         null,
         null
@@ -1956,8 +1956,8 @@
       "date": "2026-07-01",
       "time": "01:00",
       "utcDate": "2026-07-01T01:00Z",
-      "homeTeam": "Group A Winner",
-      "homeCode": "un",
+      "homeTeam": "Mexico",
+      "homeCode": "mx",
       "homeScore": 0,
       "awayTeam": "Third Place Group C/E/F/H/I",
       "awayCode": "un",
@@ -1965,7 +1965,7 @@
       "venue": "Estadio Banorte",
       "city": "Mexico City",
       "status": "timed",
-      "group": null,
+      "group": "A",
       "stage": "ROUND_OF_32",
       "matchday": 0,
       "minute": null,
@@ -1973,7 +1973,7 @@
         null,
         null
       ],
-      "homeFlag": "https://flagcdn.com/w160/un.png",
+      "homeFlag": "https://flagcdn.com/w160/mx.png",
       "awayFlag": "https://flagcdn.com/w160/un.png"
     },
     {

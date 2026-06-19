@@ -1,31 +1,31 @@
 {
-  "lastUpdated": "2026-06-19T02:16:57.201Z",
+  "lastUpdated": "2026-06-19T07:33:00.008Z",
   "groups": {
     "A": {
       "teams": [
         {
           "name": "Mexico",
           "code": "mx",
-          "played": 1,
-          "won": 1,
+          "played": 2,
+          "won": 2,
           "drawn": 0,
           "lost": 0,
-          "gf": 2,
+          "gf": 3,
           "ga": 0,
-          "gd": 2,
-          "points": 3,
+          "gd": 3,
+          "points": 6,
           "position": 1
         },
         {
           "name": "South Korea",
           "code": "kr",
-          "played": 1,
+          "played": 2,
           "won": 1,
           "drawn": 0,
-          "lost": 0,
+          "lost": 1,
           "gf": 2,
-          "ga": 1,
-          "gd": 1,
+          "ga": 2,
+          "gd": 0,
           "points": 3,
           "position": 2
         },
