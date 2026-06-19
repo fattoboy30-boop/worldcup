@@ -1,24 +1,24 @@
 {
-  "lastUpdated": "2026-06-18T23:26:00.346Z",
+  "lastUpdated": "2026-06-19T02:16:57.197Z",
   "liveMatches": [
     {
-      "id": 760440,
-      "date": "2026-06-18",
-      "time": "22:00",
-      "utcDate": "2026-06-18T22:00Z",
-      "homeTeam": "Canada",
-      "homeCode": "ca",
-      "homeScore": 4,
-      "awayTeam": "Qatar",
-      "awayCode": "qa",
+      "id": 760441,
+      "date": "2026-06-19",
+      "time": "01:00",
+      "utcDate": "2026-06-19T01:00Z",
+      "homeTeam": "Mexico",
+      "homeCode": "mx",
+      "homeScore": 1,
+      "awayTeam": "South Korea",
+      "awayCode": "kr",
       "awayScore": 0,
-      "venue": "BC Place",
-      "city": "Vancouver",
+      "venue": "Estadio Akron",
+      "city": "Guadalajara",
       "status": "in_play",
-      "group": "B",
+      "group": "A",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "64'",
+      "minute": "57'",
       "halfTime": [
         null,
         null
@@ -623,24 +623,22 @@
         null,
         null
       ]
-    }
-  ],
-  "upcomingMatches": [
+    },
     {
-      "id": 760441,
-      "date": "2026-06-19",
-      "time": "01:00",
-      "utcDate": "2026-06-19T01:00Z",
-      "homeTeam": "Mexico",
-      "homeCode": "mx",
-      "homeScore": 0,
-      "awayTeam": "South Korea",
-      "awayCode": "kr",
+      "id": 760440,
+      "date": "2026-06-18",
+      "time": "22:00",
+      "utcDate": "2026-06-18T22:00Z",
+      "homeTeam": "Canada",
+      "homeCode": "ca",
+      "homeScore": 6,
+      "awayTeam": "Qatar",
+      "awayCode": "qa",
       "awayScore": 0,
-      "venue": "Estadio Akron",
-      "city": "Guadalajara",
-      "status": "timed",
-      "group": "A",
+      "venue": "BC Place",
+      "city": "Vancouver",
+      "status": "finished",
+      "group": "B",
       "stage": "GROUP_STAGE",
       "matchday": 0,
       "minute": null,
@@ -648,7 +646,9 @@
         null,
         null
       ]
-    },
+    }
+  ],
+  "upcomingMatches": [
     {
       "id": 760442,
       "date": "2026-06-19",

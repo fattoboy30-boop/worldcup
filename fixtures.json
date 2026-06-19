@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T23:26:00.349Z",
+  "lastUpdated": "2026-06-19T02:16:57.200Z",
   "fixtures": [
     {
       "id": 760415,
@@ -658,17 +658,17 @@
       "utcDate": "2026-06-18T22:00Z",
       "homeTeam": "Canada",
       "homeCode": "ca",
-      "homeScore": 4,
+      "homeScore": 6,
       "awayTeam": "Qatar",
       "awayCode": "qa",
       "awayScore": 0,
       "venue": "BC Place",
       "city": "Vancouver",
-      "status": "in_play",
+      "status": "finished",
       "group": "B",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "64'",
+      "minute": null,
       "halfTime": [
         null,
         null
@@ -683,17 +683,17 @@
       "utcDate": "2026-06-19T01:00Z",
       "homeTeam": "Mexico",
       "homeCode": "mx",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayTeam": "South Korea",
       "awayCode": "kr",
       "awayScore": 0,
       "venue": "Estadio Akron",
       "city": "Guadalajara",
-      "status": "timed",
+      "status": "in_play",
       "group": "A",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "57'",
       "halfTime": [
         null,
         null

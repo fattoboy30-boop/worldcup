@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T23:26:00.350Z",
+  "lastUpdated": "2026-06-19T02:16:57.201Z",
   "groups": {
     "A": {
       "teams": [
@@ -60,6 +60,19 @@
     "B": {
       "teams": [
         {
+          "name": "Canada",
+          "code": "ca",
+          "played": 2,
+          "won": 1,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 7,
+          "ga": 1,
+          "gd": 6,
+          "points": 4,
+          "position": 1
+        },
+        {
           "name": "Switzerland",
           "code": "ch",
           "played": 2,
@@ -70,33 +83,7 @@
           "ga": 2,
           "gd": 3,
           "points": 4,
-          "position": 1
-        },
-        {
-          "name": "Canada",
-          "code": "ca",
-          "played": 1,
-          "won": 0,
-          "drawn": 1,
-          "lost": 0,
-          "gf": 1,
-          "ga": 1,
-          "gd": 0,
-          "points": 1,
           "position": 2
-        },
-        {
-          "name": "Qatar",
-          "code": "qa",
-          "played": 1,
-          "won": 0,
-          "drawn": 1,
-          "lost": 0,
-          "gf": 1,
-          "ga": 1,
-          "gd": 0,
-          "points": 1,
-          "position": 3
         },
         {
           "name": "Bosnia-Herzegovina",
@@ -108,6 +95,19 @@
           "gf": 2,
           "ga": 5,
           "gd": -3,
+          "points": 1,
+          "position": 3
+        },
+        {
+          "name": "Qatar",
+          "code": "qa",
+          "played": 2,
+          "won": 0,
+          "drawn": 1,
+          "lost": 1,
+          "gf": 1,
+          "ga": 7,
+          "gd": -6,
           "points": 1,
           "position": 4
         }
