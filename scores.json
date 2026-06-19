@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T19:15:39.386Z",
+  "lastUpdated": "2026-06-19T20:43:33.351Z",
   "liveMatches": [
     {
       "id": 760442,
@@ -8,7 +8,7 @@
       "utcDate": "2026-06-19T19:00Z",
       "homeTeam": "United States",
       "homeCode": "un",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayTeam": "Australia",
       "awayCode": "au",
       "awayScore": 0,
@@ -18,7 +18,7 @@
       "group": "D",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "15'",
+      "minute": "76'",
       "halfTime": [
         null,
         null
