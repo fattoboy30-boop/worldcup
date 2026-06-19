@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T19:03:36.754Z",
+  "lastUpdated": "2026-06-19T19:15:39.390Z",
   "fixtures": [
     {
       "id": 760415,
@@ -708,7 +708,7 @@
       "utcDate": "2026-06-19T19:00Z",
       "homeTeam": "United States",
       "homeCode": "un",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayTeam": "Australia",
       "awayCode": "au",
       "awayScore": 0,
@@ -718,7 +718,7 @@
       "group": "D",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "3'",
+      "minute": "15'",
       "halfTime": [
         null,
         null
