@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-19T21:51:01.580Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-06-19T22:03:17.684Z",
+  "liveMatches": [
+    {
+      "id": 760445,
+      "date": "2026-06-19",
+      "time": "22:00",
+      "utcDate": "2026-06-19T22:00Z",
+      "homeTeam": "Scotland",
+      "homeCode": "gb-sct",
+      "homeScore": 0,
+      "awayTeam": "Morocco",
+      "awayCode": "ma",
+      "awayScore": 1,
+      "venue": "Gillette Stadium",
+      "city": "Foxborough, Massachusetts",
+      "status": "in_play",
+      "group": "C",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "3'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -671,29 +695,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760445,
-      "date": "2026-06-19",
-      "time": "22:00",
-      "utcDate": "2026-06-19T22:00Z",
-      "homeTeam": "Scotland",
-      "homeCode": "gb-sct",
-      "homeScore": 0,
-      "awayTeam": "Morocco",
-      "awayCode": "ma",
-      "awayScore": 0,
-      "venue": "Gillette Stadium",
-      "city": "Foxborough, Massachusetts",
-      "status": "timed",
-      "group": "C",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760444,
       "date": "2026-06-20",

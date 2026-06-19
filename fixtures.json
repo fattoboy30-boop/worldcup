@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T21:51:01.583Z",
+  "lastUpdated": "2026-06-19T22:03:17.687Z",
   "fixtures": [
     {
       "id": 760415,
@@ -736,14 +736,14 @@
       "homeScore": 0,
       "awayTeam": "Morocco",
       "awayCode": "ma",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "Gillette Stadium",
       "city": "Foxborough, Massachusetts",
-      "status": "timed",
+      "status": "in_play",
       "group": "C",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "3'",
       "halfTime": [
         null,
         null
