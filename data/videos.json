@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-19T20:42:16.233Z",
+  "lastUpdated": "2026-06-19T20:52:29.108Z",
   "featured": {
-    "match": "-O-bNEGy2C0",
-    "highlight": "-O-bNEGy2C0",
-    "interview": "-O-bNEGy2C0"
+    "match": "07SF8RgXMfE",
+    "highlight": "07SF8RgXMfE",
+    "interview": "07SF8RgXMfE"
   },
   "videos": [
+    {
+      "title": "Argentina vs. Algeria Full Highlights | FIFA World Cup 2026",
+      "videoId": "07SF8RgXMfE",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-19",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/07SF8RgXMfE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria",
+      "source": "match-search"
+    },
+    {
+      "title": "Argentina Vs Algeria (3-0 )|Highlights & Goals|FIFA World Cup 2026⚽",
+      "videoId": "rlwYtxpDX94",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-19",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/rlwYtxpDX94/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria",
+      "source": "match-search"
+    },
     {
       "title": "Curacao Train Before Ecuador | FIFA World Cup 2026™",
       "videoId": "-O-bNEGy2C0",
