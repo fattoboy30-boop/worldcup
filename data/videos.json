@@ -1,46 +1,294 @@
 {
-  "lastUpdated": "2026-06-18T23:21:05.615Z",
+  "lastUpdated": "2026-06-19T01:45:37.347Z",
   "featured": {
-    "match": "qhqgfw1SlMk",
-    "highlight": "qhqgfw1SlMk",
-    "interview": "o6Bw6iW0NCI"
+    "match": "TAcQBbbi0OM",
+    "highlight": "TAcQBbbi0OM",
+    "interview": "K0ArgNUEgkk"
   },
   "videos": [
     {
-      "title": "Iran vs New Zealand | Full Highlights| FIFA WC 2026 - YouTube",
-      "videoId": "qhqgfw1SlMk",
-      "channel": "Web Search",
-      "publishedAt": "2026-06-18",
+      "title": "Paraguay On Playing Türkiye | Coach Gustavo Alfaro and Matias Galarza Answer Questions",
+      "videoId": "TAcQBbbi0OM",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-19",
       "category": "Highlights",
       "team": [
-        "Iran",
-        "New Zealand"
+        "Paraguay"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/qhqgfw1SlMk/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/TAcQBbbi0OM/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand",
-      "source": "match-search"
+      "fixtureTeams": "Iran vs New Zealand"
     },
     {
-      "title": "Iran vs New Zealand | All Goals & Highlights - FIFA World Cup 2026",
-      "videoId": "cHsI55jz4yE",
-      "channel": "Web Search",
-      "publishedAt": "2026-06-18",
+      "title": "Brazil On Playing Haiti | Coach Carlo Ancelotti Answers Questions",
+      "videoId": "PSB3LgFv0e8",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-19",
       "category": "Highlights",
       "team": [
-        "Iran",
-        "New Zealand"
+        "Brazil",
+        "Haiti"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/cHsI55jz4yE/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/PSB3LgFv0e8/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand",
-      "source": "match-search"
+      "fixtureTeams": "Iran vs New Zealand"
+    },
+    {
+      "title": "Rubén Vargas Goal | Switzerland 4-1 Bosnia and Herzegovina",
+      "videoId": "YMnDgmSRIvI",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-19",
+      "category": "Highlights",
+      "team": [
+        "Switzerland",
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/YMnDgmSRIvI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand"
+    },
+    {
+      "title": "USA On Playing Australia | Coach Mauricio Pochettino Answers Questions",
+      "videoId": "zs1J7rhc4KI",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-19",
+      "category": "Highlights",
+      "team": [
+        "USA",
+        "Australia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/zs1J7rhc4KI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand"
+    },
+    {
+      "title": "Johan Manzambi Goal | Switzerland 4-1 Bosnia and Herzegovina",
+      "videoId": "N9cJ-L2id24",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-19",
+      "category": "Highlights",
+      "team": [
+        "Switzerland",
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/N9cJ-L2id24/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand"
+    },
+    {
+      "title": "Morocco On Playing Scotland | Coach Mohamed Ouahbi Answers Questions",
+      "videoId": "t-iKiO0M11g",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-19",
+      "category": "Highlights",
+      "team": [
+        "Morocco",
+        "Scotland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/t-iKiO0M11g/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand"
+    },
+    {
+      "title": "Herculez Gomez on Jonathan David's hat trick for Canada vs. Qatar 🙌",
+      "videoId": "K0ArgNUEgkk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-19",
+      "category": "Viral",
+      "team": [
+        "Canada",
+        "Qatar"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/K0ArgNUEgkk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand"
+    },
+    {
+      "title": "Mbappe enjoying France’s training  👀📝 (via IliesPeeters/X)",
+      "videoId": "poctzMU5otA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-19",
+      "category": "Viral",
+      "team": [
+        "France"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/poctzMU5otA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand"
+    },
+    {
+      "title": "FULL REACTION to Canada’s dominant 6-0 win vs. Qatar 🍿 2026 World Cup | ESPN FC",
+      "videoId": "Z48MWxTRY60",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-19",
+      "category": "Viral",
+      "team": [
+        "Canada",
+        "Qatar"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Z48MWxTRY60/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand"
+    },
+    {
+      "title": "Vargas with a composed finish for Switzerland 🇨🇭⚽#FIFAWorldCupOnYT #shorts #switzerland",
+      "videoId": "yZ97c1Rwt98",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-18",
+      "category": "Highlights",
+      "team": [
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/yZ97c1Rwt98/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Sweden vs Tunisia"
+    },
+    {
+      "title": "Manzambi scores a stunning volley for Switzerland ���🇭⚽#FIFAWorldCupOnYT #shorts #switzerland",
+      "videoId": "0u0JOBAyPYE",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-18",
+      "category": "Highlights",
+      "team": [
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0u0JOBAyPYE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Sweden vs Tunisia"
+    },
+    {
+      "title": "Türkiye On Playing Paraguay | Coach Vincenzo Montella Answers Questions",
+      "videoId": "M5jO_AFJTpU",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-18",
+      "category": "Highlights",
+      "team": [
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/M5jO_AFJTpU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Sweden vs Tunisia"
+    },
+    {
+      "title": "Post-Match Player Interviews: Switzerland 4-1 Bosnia and Herzegovina",
+      "videoId": "pC0eyrA-BYA",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-18",
+      "category": "Highlights",
+      "team": [
+        "Switzerland",
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/pC0eyrA-BYA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Sweden vs Tunisia"
+    },
+    {
+      "title": "Post-Match Press Conference: Switzerland's Murat Yakin On The 4-1 Win Over Bosnia and Herzegovina",
+      "videoId": "q2BtwPCEGJI",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-18",
+      "category": "Highlights",
+      "team": [
+        "Switzerland",
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/q2BtwPCEGJI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Sweden vs Tunisia"
+    },
+    {
+      "title": "Highlights | England 4-2 Croatia | FIFA World Cup 2026™",
+      "videoId": "ynqGWHJPkuQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-18",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ynqGWHJPkuQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Sweden vs Tunisia"
+    },
+    {
+      "title": "Post-Match Press Conference: Bosnia and Herzegovina's Sergej Barbarez On 4-1 Loss To Switzerland",
+      "videoId": "iPqxyFoncEw",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-18",
+      "category": "Highlights",
+      "team": [
+        "Switzerland",
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/iPqxyFoncEw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Sweden vs Tunisia"
+    },
+    {
+      "title": "Australia Train Before USA",
+      "videoId": "cWDk4nbgovw",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-18",
+      "category": "Highlights",
+      "team": [
+        "USA",
+        "Australia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cWDk4nbgovw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Sweden vs Tunisia"
     },
     {
       "title": "Czechia 🆚 South Africa #FIFAWorldCupOnYT #shorts #worldcup",
@@ -55,235 +303,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/3bWM4p6FCiw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "USA Train Before Australia",
-      "videoId": "3lXS0M2OkbA",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [
-        "USA",
-        "Australia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/3lXS0M2OkbA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Teboho Mokoena Goal | Czechia 1-1 South Africa | FIFA World Cup 2026™",
-      "videoId": "4zR6VFO17wQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [
-        "South Africa",
-        "Czechia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/4zR6VFO17wQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Michal Sadilek Goal | Czechia v South Africa | FIFA World Cup 2026™",
-      "videoId": "NvXNjlxncsQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [
-        "South Africa",
-        "Czechia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/NvXNjlxncsQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Michal Sadílek opened the scoring for Czechia 🇨🇿⚽#FIFAWorldCupOnYT #shorts #southafrica",
-      "videoId": "WMpDEqC_c80",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [
-        "Czechia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/WMpDEqC_c80/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Mokoena and the equalizer from the spot 🇿🇦⚽ #FIFAWorldCupOnYT #shorts #southafrica",
-      "videoId": "PBYHD10DLvw",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PBYHD10DLvw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Highlights | Portugal 1-1 Congo DR | FIFA World Cup 2026™",
-      "videoId": "fJrctBM0poE",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fJrctBM0poE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Post-Match Player Interviews: Czechia 1-1 South Africa",
-      "videoId": "746vNu5w-4c",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [
-        "South Africa",
-        "Czechia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/746vNu5w-4c/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Post-Match Press Conference: Czechia's Miroslav Koubek On 1 -1 Draw With South Africa",
-      "videoId": "amj7WnRJ-cM",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [
-        "South Africa",
-        "Czechia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/amj7WnRJ-cM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Post-Match Press Conference: South Africa's Hugo Broos On 1-1 Draw with Czechia",
-      "videoId": "auBvlRpKAZc",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [
-        "South Africa",
-        "Czechia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/auBvlRpKAZc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Scotland On Playing Morocco | Coach Steve Clarke Answers Questions From The Press",
-      "videoId": "64by8vYtAKs",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [
-        "Morocco",
-        "Scotland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/64by8vYtAKs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Scotland Train Before Morocco",
-      "videoId": "mZ_gPXS81sc",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [
-        "Morocco",
-        "Scotland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/mZ_gPXS81sc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "WATCH LIVE | Czechia v South Africa | Group Stage A | FIFA World Cup 2026™",
-      "videoId": "ASUxha7KpjM",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [
-        "South Africa",
-        "Czechia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ASUxha7KpjM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Team Feature: Paraguay | \"One Match Doesn't Define Us\"",
-      "videoId": "KIPflXjyqAQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/KIPflXjyqAQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Weah, van der Sar, Winter & Al‑Jaber: Matchday 1 Drama & World Cup Memories",
-      "videoId": "Ck-O7dWkXAQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Ck-O7dWkXAQ/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Sweden vs Tunisia"
@@ -469,52 +488,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/EGXiMdItTkM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Should Rashford START over Gordon? Will England's defence hold up LATER in the tournament? | ESPN FC",
-      "videoId": "1ZipSJO5Z6I",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/1ZipSJO5Z6I/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Only way Portugal wins the World Cup is if Ronaldo SITS ON THE BENCH 😳 - Roger Bennett | First Take",
-      "videoId": "cMYHvvdk1EI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/cMYHvvdk1EI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Roger Bennett doesn't hold back on Cristiano Ronaldo 🗣️",
-      "videoId": "Zn0QcapNgfk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Zn0QcapNgfk/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Sweden vs Tunisia"
