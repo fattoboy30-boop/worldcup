@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-19T22:07:32.824Z",
+  "lastUpdated": "2026-06-19T23:15:41.478Z",
   "featured": {
-    "match": "cK7tbA_idHs",
-    "highlight": "cK7tbA_idHs",
+    "match": "rlwYtxpDX94",
+    "highlight": "rlwYtxpDX94",
     "interview": "BycrbTL-2-Q"
   },
   "videos": [
+    {
+      "title": "Argentina Vs Algeria (3-0 )|Highlights & Goals|FIFA World Cup 2026⚽",
+      "videoId": "rlwYtxpDX94",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-19",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/rlwYtxpDX94/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria",
+      "source": "match-search"
+    },
+    {
+      "title": "Argentina vs. Algeria Full Highlights | FIFA World Cup 2026",
+      "videoId": "07SF8RgXMfE",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-19",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/07SF8RgXMfE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria",
+      "source": "match-search"
+    },
     {
       "title": "Tunisia On Playing Japan | Hervé Renard & Ellyes Skhiri Take Questions",
       "videoId": "cK7tbA_idHs",
