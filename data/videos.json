@@ -1,64 +1,77 @@
 {
-  "lastUpdated": "2026-06-19T22:04:10.386Z",
+  "lastUpdated": "2026-06-19T22:07:32.824Z",
   "featured": {
-    "match": "mn8MwFb8WOk",
-    "highlight": "mn8MwFb8WOk",
-    "interview": "mn8MwFb8WOk"
+    "match": "cK7tbA_idHs",
+    "highlight": "cK7tbA_idHs",
+    "interview": "BycrbTL-2-Q"
   },
   "videos": [
     {
-      "title": "Argentina vs Algeria | Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "mn8MwFb8WOk",
-      "channel": "Web Search",
+      "title": "Tunisia On Playing Japan | Hervé Renard & Ellyes Skhiri Take Questions",
+      "videoId": "cK7tbA_idHs",
+      "channel": "FIFA",
       "publishedAt": "2026-06-19",
       "category": "Highlights",
       "team": [
-        "Argentina",
-        "Algeria"
+        "Japan",
+        "Tunisia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/mn8MwFb8WOk/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/cK7tbA_idHs/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria",
-      "source": "match-search"
+      "fixtureTeams": "Iran vs New Zealand"
     },
     {
-      "title": "Argentina vs. Algeria Full Highlights | FIFA World Cup 2026",
-      "videoId": "07SF8RgXMfE",
-      "channel": "Web Search",
+      "title": "Highlights | Switzerland 4-1 Bosnia and Herzegovina | FIFA World Cup 2026™",
+      "videoId": "c9wbxaKBu2E",
+      "channel": "FIFA",
       "publishedAt": "2026-06-19",
       "category": "Highlights",
       "team": [
-        "Argentina",
-        "Algeria"
+        "Switzerland",
+        "Bosnia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/07SF8RgXMfE/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/c9wbxaKBu2E/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria",
-      "source": "match-search"
+      "fixtureTeams": "Iran vs New Zealand"
     },
     {
-      "title": "Argentina Vs Algeria (3-0 )|Highlights & Goals|FIFA World Cup 2026⚽",
-      "videoId": "rlwYtxpDX94",
-      "channel": "Web Search",
+      "title": "Cote d'Ivoire On Playing Germany | Emerse Fae Takes Questions",
+      "videoId": "E7v8zCd-VVc",
+      "channel": "FIFA",
       "publishedAt": "2026-06-19",
       "category": "Highlights",
       "team": [
-        "Argentina",
-        "Algeria"
+        "Germany"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/rlwYtxpDX94/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/E7v8zCd-VVc/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria",
-      "source": "match-search"
+      "fixtureTeams": "Iran vs New Zealand"
+    },
+    {
+      "title": "Japan On Playing Tunisia | Hajime Moriyasu Answers Questions",
+      "videoId": "KDJ9OUPQXBk",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-19",
+      "category": "Highlights",
+      "team": [
+        "Japan",
+        "Tunisia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/KDJ9OUPQXBk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand"
     },
     {
       "title": "Curacao Train Before Ecuador | FIFA World Cup 2026™",
@@ -238,65 +251,17 @@
       "fixtureTeams": "Iran vs New Zealand"
     },
     {
-      "title": "Alt Cast Highlights: Switzerland v Bosnia and Herzegovina | FIFA World Cup 2026™",
-      "videoId": "YNkIrH2QMQ4",
-      "channel": "FIFA",
+      "title": "HUGE WIN for the USMNT! United States vs. Australia [LIVE FULL REACTION] | ESPN FC",
+      "videoId": "BycrbTL-2-Q",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-19",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [
-        "Switzerland",
-        "Bosnia"
+        "Australia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/YNkIrH2QMQ4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand"
-    },
-    {
-      "title": "Team Feature: Cote d'Ivoire | \"We're More United\"",
-      "videoId": "exH9E_Sg3xQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-19",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/exH9E_Sg3xQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand"
-    },
-    {
-      "title": "Dan + Shay Sing USA's National Anthem | FIFA World Cup 2026 Opening Match",
-      "videoId": "gVn_Jjsw0hw",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-19",
-      "category": "Highlights",
-      "team": [
-        "USA"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/gVn_Jjsw0hw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand"
-    },
-    {
-      "title": "Alt Cast Highlights: Czechia v South Africa | FIFA World Cup 2026™",
-      "videoId": "bWBx95nIm2k",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-19",
-      "category": "Highlights",
-      "team": [
-        "South Africa",
-        "Czechia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/bWBx95nIm2k/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/BycrbTL-2-Q/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Iran vs New Zealand"
@@ -506,22 +471,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/OKf1CbWir1Y/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand"
-    },
-    {
-      "title": "If the USMNT beats Australia, Geoff will do a SHOEY?! 😭",
-      "videoId": "R1RlQ83o9as",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-19",
-      "category": "Highlights",
-      "team": [
-        "Australia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/R1RlQ83o9as/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Iran vs New Zealand"
