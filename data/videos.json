@@ -1,30 +1,93 @@
 {
-  "lastUpdated": "2026-06-19T01:45:37.347Z",
+  "lastUpdated": "2026-06-19T07:12:02.592Z",
   "featured": {
-    "match": "TAcQBbbi0OM",
-    "highlight": "TAcQBbbi0OM",
-    "interview": "K0ArgNUEgkk"
+    "match": "hNas_i-fsgc",
+    "highlight": "hNas_i-fsgc",
+    "interview": "IySbj0wnLFY"
   },
   "videos": [
     {
-      "title": "Paraguay On Playing Türkiye | Coach Gustavo Alfaro and Matias Galarza Answer Questions",
-      "videoId": "TAcQBbbi0OM",
+      "title": "Post-Match Interviews: Mexico 1-0 Korea Republic",
+      "videoId": "hNas_i-fsgc",
       "channel": "FIFA",
       "publishedAt": "2026-06-19",
       "category": "Highlights",
       "team": [
-        "Paraguay"
+        "Mexico"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/TAcQBbbi0OM/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/hNas_i-fsgc/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Iran vs New Zealand"
     },
     {
-      "title": "Brazil On Playing Haiti | Coach Carlo Ancelotti Answers Questions",
-      "videoId": "PSB3LgFv0e8",
+      "title": "Post-Match Press Conference: Korea Republic's Hong Myung-bo On 1-0 Loss Against Mexico",
+      "videoId": "zoeo3RjEv70",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-19",
+      "category": "Highlights",
+      "team": [
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/zoeo3RjEv70/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand"
+    },
+    {
+      "title": "Post-Match Press Conference: Mexico's Javier Aguirre On 1-0 Win Over Korea Republic",
+      "videoId": "N-NmukYcX_M",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-19",
+      "category": "Highlights",
+      "team": [
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/N-NmukYcX_M/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand"
+    },
+    {
+      "title": "Post-Match Interviews: Canada 6-0 Qatar",
+      "videoId": "Jau84C5QhEA",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-19",
+      "category": "Highlights",
+      "team": [
+        "Canada",
+        "Qatar"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Jau84C5QhEA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand"
+    },
+    {
+      "title": "Be Part of Something Big! 🙌 | FIFA Fan Festival | FIFA World Cup 2026",
+      "videoId": "Sq-bdxlxb9c",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-19",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Sq-bdxlxb9c/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand"
+    },
+    {
+      "title": "Haiti Train Before Brazil",
+      "videoId": "TE_I9hgJ5PA",
       "channel": "FIFA",
       "publishedAt": "2026-06-19",
       "category": "Highlights",
@@ -34,65 +97,110 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PSB3LgFv0e8/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/TE_I9hgJ5PA/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Iran vs New Zealand"
     },
     {
-      "title": "Rubén Vargas Goal | Switzerland 4-1 Bosnia and Herzegovina",
-      "videoId": "YMnDgmSRIvI",
+      "title": "Mexico 🆚 Korea Republic #FIFAWorldCupOnYT",
+      "videoId": "ROZ0dAeNR00",
       "channel": "FIFA",
       "publishedAt": "2026-06-19",
       "category": "Highlights",
       "team": [
-        "Switzerland",
-        "Bosnia"
+        "Mexico"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/YMnDgmSRIvI/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/ROZ0dAeNR00/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Iran vs New Zealand"
     },
     {
-      "title": "USA On Playing Australia | Coach Mauricio Pochettino Answers Questions",
-      "videoId": "zs1J7rhc4KI",
+      "title": "Edson Álvarez Clearance | Mexico 1-0 Korea Republic | FIFA World Cup 2026™",
+      "videoId": "VEngukL-g2I",
       "channel": "FIFA",
       "publishedAt": "2026-06-19",
       "category": "Highlights",
       "team": [
-        "USA",
-        "Australia"
+        "Mexico"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/zs1J7rhc4KI/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/VEngukL-g2I/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Iran vs New Zealand"
     },
     {
-      "title": "Johan Manzambi Goal | Switzerland 4-1 Bosnia and Herzegovina",
-      "videoId": "N9cJ-L2id24",
+      "title": "Luis Romo Goal | Mexico 1-0 Korea Republic | FIFA World Cup 2026™",
+      "videoId": "up5QJyUC5dY",
       "channel": "FIFA",
       "publishedAt": "2026-06-19",
       "category": "Highlights",
       "team": [
-        "Switzerland",
-        "Bosnia"
+        "Mexico"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/N9cJ-L2id24/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/up5QJyUC5dY/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Iran vs New Zealand"
     },
     {
-      "title": "Morocco On Playing Scotland | Coach Mohamed Ouahbi Answers Questions",
-      "videoId": "t-iKiO0M11g",
+      "title": "Edson Álvarez’s heroic clearance for Mexico! 🇲🇽🛡️#FIFAWorldCupOnYT",
+      "videoId": "sbSe9LgkP2o",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-19",
+      "category": "Highlights",
+      "team": [
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/sbSe9LgkP2o/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand"
+    },
+    {
+      "title": "Luis Romo scores the winner for Mexico over Korea Republic! 🇲🇽#FIFAWorldCupOnYT",
+      "videoId": "mC5WN5FnuB8",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-19",
+      "category": "Highlights",
+      "team": [
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/mC5WN5FnuB8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand"
+    },
+    {
+      "title": "Highlights | Uzbekistan 1-3 Colombia | FIFA World Cup 2026™",
+      "videoId": "cjsFUxVHAX0",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-19",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cjsFUxVHAX0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand"
+    },
+    {
+      "title": "Morocco Train Before Scotland",
+      "videoId": "Qq-xWmabN_o",
       "channel": "FIFA",
       "publishedAt": "2026-06-19",
       "category": "Highlights",
@@ -102,7 +210,230 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/t-iKiO0M11g/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Qq-xWmabN_o/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand"
+    },
+    {
+      "title": "Nathan Saliba Goal | Canada 6-0 Qatar | FIFA World Cup 2026™",
+      "videoId": "ZCc6OvwaJko",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-19",
+      "category": "Highlights",
+      "team": [
+        "Canada",
+        "Qatar"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ZCc6OvwaJko/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand"
+    },
+    {
+      "title": "Nathan Saliba's free kick for Canada! 🇨🇦⚽#FIFAWorldCupOnYT",
+      "videoId": "UI-g-SvTKJM",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-19",
+      "category": "Highlights",
+      "team": [
+        "Canada"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/UI-g-SvTKJM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand"
+    },
+    {
+      "title": "Live Reaction to Czechia vs. South Africa | ESPN FC",
+      "videoId": "IySbj0wnLFY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-19",
+      "category": "Viral",
+      "team": [
+        "South Africa",
+        "Czechia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/IySbj0wnLFY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand"
+    },
+    {
+      "title": "Group B Reaction ⚽ Canada beat Qatar for their first World Cup win | ESPN FC",
+      "videoId": "jOlRHENpDds",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-19",
+      "category": "Viral",
+      "team": [
+        "Canada",
+        "Qatar"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jOlRHENpDds/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand"
+    },
+    {
+      "title": "🗣️🗣️🗣️ (via ishowspeed/TT)",
+      "videoId": "wimHqRRoVLQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-19",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/wimHqRRoVLQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand"
+    },
+    {
+      "title": "ABSOLUTELY ELECTRIC‼️ (via miseleccionmx/TT)",
+      "videoId": "p49ypmNkSSo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-19",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/p49ypmNkSSo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand"
+    },
+    {
+      "title": "Chris Turner freestyles using random items from Scotland’s Tartan Army sporrans at the World Cup 🔥",
+      "videoId": "b1N9bvBjGeQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-19",
+      "category": "Highlights",
+      "team": [
+        "Scotland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/b1N9bvBjGeQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand"
+    },
+    {
+      "title": "Do the USMNT need Pulisic to beat Australia? | ESPN FC Extra Time",
+      "videoId": "tQmVvUENSN8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-19",
+      "category": "Highlights",
+      "team": [
+        "Australia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tQmVvUENSN8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand"
+    },
+    {
+      "title": "Scotland's Tartan Army swarms ESPN FC reporter during live coverage 😂",
+      "videoId": "HOyPQNgRMEY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-19",
+      "category": "Highlights",
+      "team": [
+        "Scotland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/HOyPQNgRMEY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand"
+    },
+    {
+      "title": "ESPN FC debates if Christian Pulisic should play for USMNT vs. Australia",
+      "videoId": "J-EAVAY9DK4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-19",
+      "category": "Highlights",
+      "team": [
+        "Australia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/J-EAVAY9DK4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand"
+    },
+    {
+      "title": "Is it time for Portugal to DROP RONALDO? 😳 2026 World Cup | ESPN FC",
+      "videoId": "juuKSl95hSA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-19",
+      "category": "Highlights",
+      "team": [
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/juuKSl95hSA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand"
+    },
+    {
+      "title": "Who is the best team in Group B? 👀 Canada or Switzerland? | ESPN FC",
+      "videoId": "jgenspK4WXo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-19",
+      "category": "Highlights",
+      "team": [
+        "Canada",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jgenspK4WXo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand"
+    },
+    {
+      "title": "REACTION to Mexico vs. South Korea 🔍 'Mistakes cost them the game!' - Jermaine Jones | ESPN FC",
+      "videoId": "qTEjPflZKkQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-19",
+      "category": "Viral",
+      "team": [
+        "South Korea",
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/qTEjPflZKkQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Iran vs New Zealand"
+    },
+    {
+      "title": "Geoff Cameron and Brek Shea on the BIGGEST TAKEAWAYS from the World Cup so far ⚽️ | SportsCenter",
+      "videoId": "Od4mW2ep7oA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-19",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Od4mW2ep7oA/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Iran vs New Zealand"
@@ -156,341 +487,6 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Iran vs New Zealand"
-    },
-    {
-      "title": "Vargas with a composed finish for Switzerland 🇨🇭⚽#FIFAWorldCupOnYT #shorts #switzerland",
-      "videoId": "yZ97c1Rwt98",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [
-        "Switzerland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/yZ97c1Rwt98/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Manzambi scores a stunning volley for Switzerland ���🇭⚽#FIFAWorldCupOnYT #shorts #switzerland",
-      "videoId": "0u0JOBAyPYE",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [
-        "Switzerland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/0u0JOBAyPYE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Türkiye On Playing Paraguay | Coach Vincenzo Montella Answers Questions",
-      "videoId": "M5jO_AFJTpU",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/M5jO_AFJTpU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Post-Match Player Interviews: Switzerland 4-1 Bosnia and Herzegovina",
-      "videoId": "pC0eyrA-BYA",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [
-        "Switzerland",
-        "Bosnia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/pC0eyrA-BYA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Post-Match Press Conference: Switzerland's Murat Yakin On The 4-1 Win Over Bosnia and Herzegovina",
-      "videoId": "q2BtwPCEGJI",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [
-        "Switzerland",
-        "Bosnia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/q2BtwPCEGJI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Highlights | England 4-2 Croatia | FIFA World Cup 2026™",
-      "videoId": "ynqGWHJPkuQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Croatia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ynqGWHJPkuQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Post-Match Press Conference: Bosnia and Herzegovina's Sergej Barbarez On 4-1 Loss To Switzerland",
-      "videoId": "iPqxyFoncEw",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [
-        "Switzerland",
-        "Bosnia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/iPqxyFoncEw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Australia Train Before USA",
-      "videoId": "cWDk4nbgovw",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [
-        "USA",
-        "Australia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/cWDk4nbgovw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Czechia 🆚 South Africa #FIFAWorldCupOnYT #shorts #worldcup",
-      "videoId": "3bWM4p6FCiw",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [
-        "South Africa",
-        "Czechia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/3bWM4p6FCiw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Norway's parliament started doing the row to support their national team 😭❤️🇳🇴 (via stortinget/IG)",
-      "videoId": "fZSy7vLPYGg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fZSy7vLPYGg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "REACTION to Switzerland vs. Bosnia-Herzegovina 💪 + Shaka's World Cup Power Rankings | ESPN FC",
-      "videoId": "o6Bw6iW0NCI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-18",
-      "category": "Viral",
-      "team": [
-        "Switzerland",
-        "Bosnia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/o6Bw6iW0NCI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Taylor Twellman on the new standard set by the USMNT at the World Cup💪",
-      "videoId": "3sbNoYdn7ms",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/3sbNoYdn7ms/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Tough day to try and get through New York City 😅 (via @esmullert/TT)",
-      "videoId": "ZTqHXwx_Gy8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ZTqHXwx_Gy8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Did DR Congo create a “blueprint” to play vs Portugal? | ESPN FC",
-      "videoId": "3Q2__QDWkJc",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/3Q2__QDWkJc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Nedum Onuoha is MOST IMPRESSED with the USMNT?! | ESPN FC",
-      "videoId": "dgUC3N7wfrI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/dgUC3N7wfrI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Should Cristiano Ronaldo be benched in Portugal's next game? 🇵🇹",
-      "videoId": "djcbEpKjwhE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/djcbEpKjwhE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Live Reaction to Czechia vs. South Africa | ESPN FC",
-      "videoId": "IySbj0wnLFY",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-18",
-      "category": "Viral",
-      "team": [
-        "South Africa",
-        "Czechia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/IySbj0wnLFY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Czechia vs. South Africa FULL REACTION: Group A heats up 🔥 | ESPN FC",
-      "videoId": "wmlC76dvP-w",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-18",
-      "category": "Viral",
-      "team": [
-        "South Africa",
-        "Czechia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/wmlC76dvP-w/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Nigel Seeley says USMNT are the most impressive team in the WC right now 👀 | The Pat McAfee Show",
-      "videoId": "4_Lz63_KEGE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/4_Lz63_KEGE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Was the WC win over Paraguay the best in USMNT history? Twellman weighs in! | The Rich Eisen Show",
-      "videoId": "Rg2QYg-uA9k",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Rg2QYg-uA9k/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
-    },
-    {
-      "title": "Taylor Twellman committed to the bit 😆",
-      "videoId": "EGXiMdItTkM",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-18",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/EGXiMdItTkM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Sweden vs Tunisia"
     }
   ]
 }
