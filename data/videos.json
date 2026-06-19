@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-19T07:39:33.159Z",
+  "lastUpdated": "2026-06-19T11:55:04.071Z",
   "featured": {
-    "match": "JH_WRKTCPK4",
-    "highlight": "JH_WRKTCPK4",
+    "match": "elhdQIPfo8Y",
+    "highlight": "2wc5USgo7SM",
     "interview": "IySbj0wnLFY"
   },
   "videos": [
+    {
+      "title": "FIFA World Cup 2026 live - Watch FIFA World Cup 2026",
+      "videoId": "elhdQIPfo8Y",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-19",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/elhdQIPfo8Y/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria",
+      "source": "match-search"
+    },
+    {
+      "title": "Argentina 3-0 Algeria | Full Match Highlights | FIFA World Cup 2026 ...",
+      "videoId": "2wc5USgo7SM",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-19",
+      "category": "Full Match",
+      "team": [
+        "Argentina",
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/2wc5USgo7SM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria",
+      "source": "match-search"
+    },
     {
       "title": "FIFA World Cup 2026 live - Watch FIFA World Cup 2026",
       "videoId": "JH_WRKTCPK4",
