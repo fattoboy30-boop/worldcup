@@ -1,11 +1,58 @@
 {
-  "lastUpdated": "2026-06-20T14:25:45.965Z",
+  "lastUpdated": "2026-06-20T16:22:33.645Z",
   "featured": {
-    "match": "b4uUNhSns2c",
-    "highlight": "b4uUNhSns2c",
+    "match": "TNPO05Fq6rY",
+    "highlight": "TNPO05Fq6rY",
     "interview": "sKl-KU4U6Bk"
   },
   "videos": [
+    {
+      "title": "Team Feature: Cabo Verde | The Unexpected And Heartwarming Journey Of Roberto 'Pico' Lopes",
+      "videoId": "TNPO05Fq6rY",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/TNPO05Fq6rY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Alt Cast Highlights: Scotland v Morocco | FIFA World Cup 2026™",
+      "videoId": "nNPhMSExENo",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Morocco",
+        "Scotland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/nNPhMSExENo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Team Feature: Uruguay | Valverde On Embodying The Uruguayan Spirit As Captain",
+      "videoId": "ezgzRw6I9xI",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Uruguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ezgzRw6I9xI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
     {
       "title": "Alt Cast Highlights: Brazil v Haiti | FIFA World Cup 2026™",
       "videoId": "b4uUNhSns2c",
@@ -202,47 +249,45 @@
       "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "June 19 Matchday Recap | #FIFAWorldCup @aramco  ​",
-      "videoId": "mLrLJ-ekrTs",
-      "channel": "FIFA",
+      "title": "What's the CEILING for USMNT after back-to-back wins? 📈 'MOMENTUM!' - Jermaine Jones | SportsCenter",
+      "videoId": "yIcHOQIZiXw",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-20",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/mLrLJ-ekrTs/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/yIcHOQIZiXw/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "Türkiye inches away from the equalizer against Paraguay! 🇹🇷#FIFAWorldCupOnYT",
-      "videoId": "J3SzPVa-WBw",
-      "channel": "FIFA",
+      "title": "United States ADVANCE to Round of 32 📈 Brazil UNDERPERFORMING? 😮 & MORE! | ESPN FC",
+      "videoId": "dXvNoTiOoY8",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-20",
       "category": "Highlights",
       "team": [
-        "Paraguay"
+        "Brazil"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/J3SzPVa-WBw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/dXvNoTiOoY8/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "Post-Match Press Conference: Paraguay's Gustavo Alfaro On 1-0 Win Over Türkiye",
-      "videoId": "yg7WkYdhD2Q",
-      "channel": "FIFA",
+      "title": "Could Raphinha miss the rest of the WC? 😮",
+      "videoId": "1_Xn5u98YaA",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-20",
       "category": "Highlights",
-      "team": [
-        "Paraguay"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/yg7WkYdhD2Q/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/1_Xn5u98YaA/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Argentina vs Algeria"
@@ -296,7 +341,7 @@
       "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "USMNT vs. Australia Reaction ⚽ 'GET EXCITED, ENJOY THE RIDE!' 🗣️ - Ale Moreno to U.S. fans | ESPN FC",
+      "title": "USMNT vs. Australia Reaction ⚽ U.S. MOVING ON TO WORLD CUP KNOCKOUT STAGE | ESPN FC",
       "videoId": "sKl-KU4U6Bk",
       "channel": "ESPN FC",
       "publishedAt": "2026-06-20",
@@ -312,7 +357,7 @@
       "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "Türkiye ELIMINATED from World Cup contention 🇹🇷 'You just WONDER...' - Shaka Hislop | ESPN FC",
+      "title": "Miguel Almiron becomes the FIRST PLAYER to receive a red card for covering mouth 🚨 | ESPN FC",
       "videoId": "c7QfLong47c",
       "channel": "ESPN FC",
       "publishedAt": "2026-06-20",
@@ -424,54 +469,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/m0BtIartKnk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Can Folarin Balogun keep us his ELITE performances for USMNT? 🇺🇸 | ESPN FC",
-      "videoId": "B5hkKlDfwRw",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/B5hkKlDfwRw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Brazil vs. Haiti FULL REACTION 🍿 Will Brazil win Group C? | ESPN FC",
-      "videoId": "JHdajOueuDw",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
-      "category": "Viral",
-      "team": [
-        "Brazil",
-        "Haiti"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/JHdajOueuDw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Scotland vs. Morocco FULL REACTION 🍿 Who will win Group C? | ESPN FC",
-      "videoId": "zR_ykY3rf3c",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
-      "category": "Viral",
-      "team": [
-        "Morocco",
-        "Scotland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/zR_ykY3rf3c/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Argentina vs Algeria"
