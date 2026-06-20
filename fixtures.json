@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T23:48:15.215Z",
+  "lastUpdated": "2026-06-20T01:32:26.858Z",
   "fixtures": [
     {
       "id": 760415,
@@ -739,11 +739,11 @@
       "awayScore": 1,
       "venue": "Gillette Stadium",
       "city": "Foxborough, Massachusetts",
-      "status": "in_play",
+      "status": "finished",
       "group": "C",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "85'",
+      "minute": null,
       "halfTime": [
         null,
         null
@@ -758,17 +758,17 @@
       "utcDate": "2026-06-20T00:30Z",
       "homeTeam": "Brazil",
       "homeCode": "br",
-      "homeScore": 0,
+      "homeScore": 3,
       "awayTeam": "Haiti",
       "awayCode": "ht",
       "awayScore": 0,
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia, Pennsylvania",
-      "status": "timed",
+      "status": "in_play",
       "group": "C",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "45'+6'",
       "halfTime": [
         null,
         null

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T23:48:15.216Z",
+  "lastUpdated": "2026-06-20T01:32:26.859Z",
   "groups": {
     "A": {
       "teams": [
@@ -172,34 +172,34 @@
     "C": {
       "teams": [
         {
+          "name": "Morocco",
+          "code": "ma",
+          "played": 2,
+          "won": 1,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 2,
+          "ga": 1,
+          "gd": 1,
+          "points": 4,
+          "position": 1
+        },
+        {
           "name": "Scotland",
           "code": "gb-sct",
-          "played": 1,
+          "played": 2,
           "won": 1,
           "drawn": 0,
-          "lost": 0,
+          "lost": 1,
           "gf": 1,
-          "ga": 0,
-          "gd": 1,
+          "ga": 1,
+          "gd": 0,
           "points": 3,
-          "position": 1
+          "position": 2
         },
         {
           "name": "Brazil",
           "code": "br",
-          "played": 1,
-          "won": 0,
-          "drawn": 1,
-          "lost": 0,
-          "gf": 1,
-          "ga": 1,
-          "gd": 0,
-          "points": 1,
-          "position": 2
-        },
-        {
-          "name": "Morocco",
-          "code": "ma",
           "played": 1,
           "won": 0,
           "drawn": 1,
