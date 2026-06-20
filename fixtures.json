@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T21:15:11.983Z",
+  "lastUpdated": "2026-06-20T21:41:30.799Z",
   "fixtures": [
     {
       "id": 760415,
@@ -833,7 +833,7 @@
       "utcDate": "2026-06-20T20:00Z",
       "homeTeam": "Germany",
       "homeCode": "de",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayTeam": "Ivory Coast",
       "awayCode": "ci",
       "awayScore": 1,
@@ -843,7 +843,7 @@
       "group": "E",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "52'",
+      "minute": "76'",
       "halfTime": [
         null,
         null
