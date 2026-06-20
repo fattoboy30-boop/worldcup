@@ -1,11 +1,45 @@
 {
-  "lastUpdated": "2026-06-20T22:12:43.604Z",
+  "lastUpdated": "2026-06-20T22:50:42.041Z",
   "featured": {
-    "match": "3wwDIIWhJOU",
-    "highlight": "3wwDIIWhJOU",
+    "match": "fPZ1HcZFVNA",
+    "highlight": "fPZ1HcZFVNA",
     "interview": "iq3NSNjvP-s"
   },
   "videos": [
+    {
+      "title": "COLOMBIA vs UZBEKISTAN 3-1 | FIFA World Cup 2026 Full Highlights",
+      "videoId": "fPZ1HcZFVNA",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fPZ1HcZFVNA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia",
+      "source": "match-search"
+    },
+    {
+      "title": "Uzbekistan vs Colombia | Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "DzF90Cs8ilU",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/DzF90Cs8ilU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia",
+      "source": "match-search"
+    },
     {
       "title": "Crysencio Summerville Goal | Netherlands 5-1 Sweden | FIFA World Cup 2026™",
       "videoId": "3wwDIIWhJOU",
