@@ -1,11 +1,45 @@
 {
-  "lastUpdated": "2026-06-20T18:15:59.786Z",
+  "lastUpdated": "2026-06-20T18:46:25.852Z",
   "featured": {
-    "match": "IxmN8DTo87o",
-    "highlight": "IxmN8DTo87o",
+    "match": "fPZ1HcZFVNA",
+    "highlight": "fPZ1HcZFVNA",
     "interview": "sKl-KU4U6Bk"
   },
   "videos": [
+    {
+      "title": "COLOMBIA vs UZBEKISTAN 3-1 | FIFA World Cup 2026 Full Highlights",
+      "videoId": "fPZ1HcZFVNA",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fPZ1HcZFVNA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia",
+      "source": "match-search"
+    },
+    {
+      "title": "Uzbekistan vs Colombia Extended Highlights | 2026 FIFA World Cup™",
+      "videoId": "97s_sROG6y0",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/97s_sROG6y0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia",
+      "source": "match-search"
+    },
     {
       "title": "Uruguay Train Before Cabo Verde | FIFA World Cup 2026™",
       "videoId": "IxmN8DTo87o",

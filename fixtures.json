@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T18:08:32.404Z",
+  "lastUpdated": "2026-06-20T18:45:40.333Z",
   "fixtures": [
     {
       "id": 760415,
@@ -808,17 +808,17 @@
       "utcDate": "2026-06-20T17:00Z",
       "homeTeam": "Netherlands",
       "homeCode": "nl",
-      "homeScore": 2,
+      "homeScore": 4,
       "awayTeam": "Sweden",
       "awayCode": "se",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "NRG Stadium",
       "city": "Houston, Texas",
       "status": "in_play",
       "group": "F",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "47'",
+      "minute": "84'",
       "halfTime": [
         null,
         null
