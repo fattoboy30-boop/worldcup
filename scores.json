@@ -1,30 +1,6 @@
 {
-  "lastUpdated": "2026-06-20T06:18:52.715Z",
-  "liveMatches": [
-    {
-      "id": 760443,
-      "date": "2026-06-20",
-      "time": "03:00",
-      "utcDate": "2026-06-20T03:00Z",
-      "homeTeam": "Türkiye",
-      "homeCode": "tr",
-      "homeScore": 0,
-      "awayTeam": "Paraguay",
-      "awayCode": "py",
-      "awayScore": 1,
-      "venue": "Levi's Stadium",
-      "city": "Santa Clara, California",
-      "status": "in_play",
-      "group": "D",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": "45'+5'",
-      "halfTime": [
-        null,
-        null
-      ]
-    }
-  ],
+  "lastUpdated": "2026-06-20T09:41:34.479Z",
+  "liveMatches": [],
   "recentResults": [
     {
       "id": 760415,
@@ -731,6 +707,29 @@
       "city": "Philadelphia, Pennsylvania",
       "status": "finished",
       "group": "C",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": null,
+      "halfTime": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": 760443,
+      "date": "2026-06-20",
+      "time": "03:00",
+      "utcDate": "2026-06-20T03:00Z",
+      "homeTeam": "Türkiye",
+      "homeCode": "tr",
+      "homeScore": 0,
+      "awayTeam": "Paraguay",
+      "awayCode": "py",
+      "awayScore": 1,
+      "venue": "Levi's Stadium",
+      "city": "Santa Clara, California",
+      "status": "finished",
+      "group": "D",
       "stage": "GROUP_STAGE",
       "matchday": 0,
       "minute": null,

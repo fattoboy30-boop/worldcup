@@ -1,11 +1,45 @@
 {
-  "lastUpdated": "2026-06-20T09:23:13.224Z",
+  "lastUpdated": "2026-06-20T09:42:16.363Z",
   "featured": {
-    "match": "U_oClxLuqMM",
-    "highlight": "U_oClxLuqMM",
+    "match": "fPZ1HcZFVNA",
+    "highlight": "fPZ1HcZFVNA",
     "interview": "JHdajOueuDw"
   },
   "videos": [
+    {
+      "title": "COLOMBIA vs UZBEKISTAN 3-1 | FIFA World Cup 2026 Full Highlights",
+      "videoId": "fPZ1HcZFVNA",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fPZ1HcZFVNA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia",
+      "source": "match-search"
+    },
+    {
+      "title": "Uzbekistan vs Colombia | Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "DzF90Cs8ilU",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/DzF90Cs8ilU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia",
+      "source": "match-search"
+    },
     {
       "title": "Mert Müldür Hits The Post | Turkiye 0-1 Paraguay | FIFA World Cup 2026™",
       "videoId": "U_oClxLuqMM",
