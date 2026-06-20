@@ -1,44 +1,76 @@
 {
-  "lastUpdated": "2026-06-20T13:13:56.477Z",
+  "lastUpdated": "2026-06-20T14:25:45.965Z",
   "featured": {
-    "match": "Qb3ipZFspnc",
-    "highlight": "Qb3ipZFspnc",
-    "interview": "JHdajOueuDw"
+    "match": "b4uUNhSns2c",
+    "highlight": "b4uUNhSns2c",
+    "interview": "sKl-KU4U6Bk"
   },
   "videos": [
     {
-      "title": "Uzbekistan vs Colombia Extended Highlights 2026 FIFA World Cup™",
-      "videoId": "Qb3ipZFspnc",
-      "channel": "Web Search",
+      "title": "Alt Cast Highlights: Brazil v Haiti | FIFA World Cup 2026™",
+      "videoId": "b4uUNhSns2c",
+      "channel": "FIFA",
       "publishedAt": "2026-06-20",
       "category": "Highlights",
       "team": [
-        "Colombia"
+        "Brazil",
+        "Haiti"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Qb3ipZFspnc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/b4uUNhSns2c/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia",
-      "source": "match-search"
+      "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "Uzbekistan vs Colombia Extended Highlights | 2026 FIFA World Cup™",
-      "videoId": "97s_sROG6y0",
-      "channel": "Web Search",
+      "title": "Team Feature: IR Iran | Ghalenoei Focused On Taking IR Iran Into The Knockout Stages",
+      "videoId": "Ew6lABH7gXE",
+      "channel": "FIFA",
       "publishedAt": "2026-06-20",
       "category": "Highlights",
       "team": [
-        "Colombia"
+        "Iran"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/97s_sROG6y0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Ew6lABH7gXE/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia",
-      "source": "match-search"
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Alt Cast Highlights: USA v Australia | FIFA World Cup 2026™",
+      "videoId": "Ds1z8cVR1Pw",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "USA",
+        "Australia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Ds1z8cVR1Pw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Team Feature: Belgium | Players Describe 'That Feeling' Of Playing At A World Cup",
+      "videoId": "LsI6DopPwGU",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/LsI6DopPwGU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
     },
     {
       "title": "Team Feature: Saudi Arabia | Donis Feels The Pride Of The Green Falcons",
@@ -216,65 +248,109 @@
       "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "Galarza scored a golazo for Paraguay! 🇵🇾 #FIFAWorldCupOnYT",
-      "videoId": "Ste_4VTkHbU",
-      "channel": "FIFA",
+      "title": "Germany vs. Ivory Coast PREVIEW 🇩🇪🇨🇮 Archie Rhind-Tutt shares on Germany's mentality | ESPN FC",
+      "videoId": "VLmZF_8cVuA",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-20",
       "category": "Highlights",
       "team": [
-        "Paraguay"
+        "Germany",
+        "Ivory Coast"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Ste_4VTkHbU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/VLmZF_8cVuA/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "Türkiye 🆚 Paraguay #FIFAWorldCupOnYT",
-      "videoId": "KifbgaBT_Sg",
-      "channel": "FIFA",
+      "title": "Reacting to Raphinha's injury vs. Haiti 👀 How important is it Brazil gets him back? | ESPN FC",
+      "videoId": "ykWw_OAt5WY",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-20",
       "category": "Highlights",
       "team": [
-        "Paraguay"
+        "Brazil",
+        "Haiti"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/KifbgaBT_Sg/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/ykWw_OAt5WY/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "Post-Match Press Conference: Türkiye's Vincenzo Montella On 1-0 Loss Against Paraguay",
-      "videoId": "TxJumchNfSU",
-      "channel": "FIFA",
+      "title": "How far can USMNT go in the WC? 🤔",
+      "videoId": "MFjj5QIgcWg",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-20",
       "category": "Highlights",
-      "team": [
-        "Paraguay"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/TxJumchNfSU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/MFjj5QIgcWg/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "Post-Match Interviews: Türkiye 0-1 Paraguay",
-      "videoId": "xNeA87ixz0E",
-      "channel": "FIFA",
+      "title": "USMNT vs. Australia Reaction ⚽ 'GET EXCITED, ENJOY THE RIDE!' 🗣️ - Ale Moreno to U.S. fans | ESPN FC",
+      "videoId": "sKl-KU4U6Bk",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-20",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [
-        "Paraguay"
+        "Australia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xNeA87ixz0E/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/sKl-KU4U6Bk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Türkiye ELIMINATED from World Cup contention 🇹🇷 'You just WONDER...' - Shaka Hislop | ESPN FC",
+      "videoId": "c7QfLong47c",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/c7QfLong47c/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "This is how the Brazilians celebrated the goal ⚽️🤩🇧🇷",
+      "videoId": "YmkryPDz1VA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Brazil"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/YmkryPDz1VA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "The Scots take over the ports in Boston 🏴󠁧󠁢󠁳󠁣󠁴󠁿⚽ (🎥 via Martyn Ewart)",
+      "videoId": "bZokHiscllk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/bZokHiscllk/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Argentina vs Algeria"
@@ -399,114 +475,6 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "‘This team is DIFFERENT’ 👀 How far can USMNT go in the World Cup? | SportsCenter",
-      "videoId": "3COv7M6fCQU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-19",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/3COv7M6fCQU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand"
-    },
-    {
-      "title": "USMNT SHOWING OUT ⭐️ World Cup host countries KEEP ON DOMINATING 📈 | ESPN FC",
-      "videoId": "dqGQc5iH2Lw",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-19",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/dqGQc5iH2Lw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand"
-    },
-    {
-      "title": "‘He was the key!’ 🇺🇸 Ale Moreno on Alex Freeman’s performance for USMNT vs. Australia | ESPN FC",
-      "videoId": "eBU-f1iOMr4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-19",
-      "category": "Highlights",
-      "team": [
-        "Australia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/eBU-f1iOMr4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand"
-    },
-    {
-      "title": "FULL REACTION to USA vs. Australia 🔍 'USMNT WERE IN CONTROL ALL NIGHT!' - Geoff Cameron | ESPN FC",
-      "videoId": "5oBP902hd2Q",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-19",
-      "category": "Viral",
-      "team": [
-        "USA",
-        "Australia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/5oBP902hd2Q/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand"
-    },
-    {
-      "title": "DON'T DOUBT THE HOSTS! 🌎 United States, Canada & Mexico remain undefeated | ESPN FC",
-      "videoId": "5EpIINmMucU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-19",
-      "category": "Highlights",
-      "team": [
-        "Mexico",
-        "Canada"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/5EpIINmMucU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand"
-    },
-    {
-      "title": "HUGE WIN for the USMNT! United States vs. Australia [LIVE FULL REACTION] | ESPN FC",
-      "videoId": "BycrbTL-2-Q",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-19",
-      "category": "Viral",
-      "team": [
-        "Australia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/BycrbTL-2-Q/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand"
-    },
-    {
-      "title": "AMAZING!!! 🤣 (via @kamxsoto/IG , @bob_travel__/IG)",
-      "videoId": "ae8x1lGsEd8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-19",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ae8x1lGsEd8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand"
     }
   ]
 }
