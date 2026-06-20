@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T20:14:04.332Z",
+  "lastUpdated": "2026-06-20T21:15:11.980Z",
   "liveMatches": [
     {
       "id": 760448,
@@ -11,14 +11,14 @@
       "homeScore": 0,
       "awayTeam": "Ivory Coast",
       "awayCode": "ci",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "BMO Field",
       "city": "Toronto",
       "status": "in_play",
       "group": "E",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "14'",
+      "minute": "52'",
       "halfTime": [
         null,
         null
