@@ -1,81 +1,144 @@
 {
-  "lastUpdated": "2026-06-20T01:33:00.235Z",
+  "lastUpdated": "2026-06-20T05:18:28.455Z",
   "featured": {
-    "match": "fPZ1HcZFVNA",
-    "highlight": "fPZ1HcZFVNA",
-    "interview": "5oBP902hd2Q"
+    "match": "Dx65sEYBHVs",
+    "highlight": "Dx65sEYBHVs",
+    "interview": "JHdajOueuDw"
   },
   "videos": [
     {
-      "title": "COLOMBIA vs UZBEKISTAN 3-1 | FIFA World Cup 2026 Full Highlights",
-      "videoId": "fPZ1HcZFVNA",
-      "channel": "Web Search",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Colombia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fPZ1HcZFVNA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia",
-      "source": "match-search"
-    },
-    {
-      "title": "Uzbekistan vs Colombia Extended Highlights | 2026 FIFA World Cup™",
-      "videoId": "40UiVi4XMcc",
-      "channel": "Web Search",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Colombia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/40UiVi4XMcc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia",
-      "source": "match-search"
-    },
-    {
-      "title": "Germany On Playing Cote d'Ivoire | Julian Nagelsmann & Jonathan Tah Answer Questions",
-      "videoId": "9zk7HfUq3TA",
+      "title": "Brazil 🆚 Haiti #FIFAWorldCupOnYT",
+      "videoId": "Dx65sEYBHVs",
       "channel": "FIFA",
       "publishedAt": "2026-06-20",
       "category": "Highlights",
       "team": [
-        "Germany"
+        "Brazil",
+        "Haiti"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/9zk7HfUq3TA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Dx65sEYBHVs/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "Alex Freeman scores USA winner against Australia. #FIFAWorldCupOnYT #FIFAWorldCup #shorts",
-      "videoId": "L9p1b0yRodE",
+      "title": "Angus Gunn Save | Scotland 0-1 Morocco | FIFA World Cup 2026™",
+      "videoId": "B2RhB7Hs1do",
       "channel": "FIFA",
       "publishedAt": "2026-06-20",
       "category": "Highlights",
       "team": [
-        "USA",
-        "Australia"
+        "Morocco",
+        "Scotland"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/L9p1b0yRodE/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/B2RhB7Hs1do/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "Curacao On Playing Ecuador | Dick Advocaat & Livano Comenencia Answer Questions",
-      "videoId": "tDGq9-qD4hc",
+      "title": "Ismael Saibari Goal | Scotland 0-1 Morocco | FIFA World Cup 2026™",
+      "videoId": "prIF9cMux1A",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Morocco",
+        "Scotland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/prIF9cMux1A/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Karembeu, Abidal & Silvestre celebrate 1000 matches at the FIFA World Cup!",
+      "videoId": "dtjXvChZlrM",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/dtjXvChZlrM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Huge stop by Gunn for Scotland! 🧤🏴󠁧󠁢󠁳󠁣󠁴󠁿 #FIFAWorldCupOnYT",
+      "videoId": "I2T0YJxlDNY",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Scotland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/I2T0YJxlDNY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Highlights | Mexico 1-0 Korea Republic | FIFA World Cup 2026™",
+      "videoId": "o_AAtfdVp3Y",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/o_AAtfdVp3Y/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Saibari Scores a stunning goal for Morocco! 🇲🇦 #FIFAWorldCupOnYT",
+      "videoId": "jtuHVJaCAik",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jtuHVJaCAik/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Scotland 🆚 Morocco #FIFAWorldCupOnYT",
+      "videoId": "flbgHV3L59Y",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Morocco",
+        "Scotland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/flbgHV3L59Y/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Ecuador On Playing Curacao | Sebastián Andrés Beccacece & Alan Franco Take Questions",
+      "videoId": "Z47UWjaZTMw",
       "channel": "FIFA",
       "publishedAt": "2026-06-20",
       "category": "Highlights",
@@ -84,116 +147,50 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/tDGq9-qD4hc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Z47UWjaZTMw/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "Cote d'Ivoire Train Before Germany | FIFA World Cup 2026™",
-      "videoId": "RLpoodfDgFk",
+      "title": "Post-Match Press Conference: Morocco's Mohamed Ouahbi On 1-0 Win Over Scotland",
+      "videoId": "8R3EoSE5pEU",
       "channel": "FIFA",
-      "publishedAt": "2026-06-19",
+      "publishedAt": "2026-06-20",
       "category": "Highlights",
       "team": [
-        "Germany"
+        "Morocco",
+        "Scotland"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/RLpoodfDgFk/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/8R3EoSE5pEU/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand"
+      "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "Cameron Burgess Own Goal | USA 2-0 Australia | FIFA World Cup 2026™",
-      "videoId": "mrQAbBvOTM8",
+      "title": "Post-Match Press Conference: Scotland's Steve Clarke On 1-0 Loss to Morocco",
+      "videoId": "vtz4wWLp7xA",
       "channel": "FIFA",
-      "publishedAt": "2026-06-19",
+      "publishedAt": "2026-06-20",
       "category": "Highlights",
       "team": [
-        "USA",
-        "Australia"
+        "Morocco",
+        "Scotland"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/mrQAbBvOTM8/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/vtz4wWLp7xA/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand"
+      "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "Post-Match Player Interviews: USA 2-0 Australia",
-      "videoId": "mgMoMFzvOiU",
+      "title": "Netherlands On Playing Sweden | Ronald Koeman & Jan Paul Van Hecke Answer Questions",
+      "videoId": "y6UXnP84M8M",
       "channel": "FIFA",
-      "publishedAt": "2026-06-19",
-      "category": "Highlights",
-      "team": [
-        "USA",
-        "Australia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/mgMoMFzvOiU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand"
-    },
-    {
-      "title": "Cameron Burgess scores an own goal against USA. #FIFAWorldCupOnYT #FIFAWorldCup #shorts",
-      "videoId": "bOzE28IpBJ4",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-19",
-      "category": "Highlights",
-      "team": [
-        "USA"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/bOzE28IpBJ4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand"
-    },
-    {
-      "title": "Post-Match Press Conference: USA's Mauricio Pochettino On The 2-0 Win Over Australia",
-      "videoId": "8f8aPoEyo7g",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-19",
-      "category": "Highlights",
-      "team": [
-        "USA",
-        "Australia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/8f8aPoEyo7g/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand"
-    },
-    {
-      "title": "Post-Match Press Conference: Australia's Tony Popovic On 2- 0 Loss To The USA",
-      "videoId": "QvMtZp4PRjo",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-19",
-      "category": "Highlights",
-      "team": [
-        "USA",
-        "Australia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/QvMtZp4PRjo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand"
-    },
-    {
-      "title": "Sweden On Playing Netherlands | Graham Potter & Victor Lindelöf Take Questions",
-      "videoId": "-VPe5yKK1Dg",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-19",
+      "publishedAt": "2026-06-20",
       "category": "Highlights",
       "team": [
         "Netherlands",
@@ -201,93 +198,165 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-VPe5yKK1Dg/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/y6UXnP84M8M/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand"
+      "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "Tunisia On Playing Japan | Hervé Renard & Ellyes Skhiri Take Questions",
-      "videoId": "cK7tbA_idHs",
+      "title": "Alex Freeman Goal | USA 2-0 Australia | FIFA World Cup 2026™",
+      "videoId": "GjgS82rEiDM",
       "channel": "FIFA",
-      "publishedAt": "2026-06-19",
+      "publishedAt": "2026-06-20",
       "category": "Highlights",
       "team": [
-        "Japan",
-        "Tunisia"
+        "USA",
+        "Australia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/cK7tbA_idHs/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/GjgS82rEiDM/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand"
+      "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "Highlights | Switzerland 4-1 Bosnia and Herzegovina | FIFA World Cup 2026™",
-      "videoId": "c9wbxaKBu2E",
+      "title": "USA 🆚 Australia Watch #FIFAWorldCup highlights on FIFA.com 📺#FIFAWorldCupOnYT",
+      "videoId": "lPix3fiiS7Q",
       "channel": "FIFA",
-      "publishedAt": "2026-06-19",
+      "publishedAt": "2026-06-20",
       "category": "Highlights",
       "team": [
-        "Switzerland",
-        "Bosnia"
+        "USA",
+        "Australia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/c9wbxaKBu2E/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/lPix3fiiS7Q/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand"
+      "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "Cote d'Ivoire On Playing Germany | Emerse Fae Takes Questions",
-      "videoId": "E7v8zCd-VVc",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-19",
+      "title": "Taylor Twellman is optimistic about the United States' World Cup chances 👀",
+      "videoId": "aJujN2k0Akw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/aJujN2k0Akw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "‘Quarterfinals or bust!’ 😳 Taylor Twellman on USMNT’s expectations for the 2026 World Cup | ESPN FC",
+      "videoId": "lJP60L7809I",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/lJP60L7809I/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Are the United States real CONTENDERS to win the World Cup? 😳 | ESPN FC",
+      "videoId": "VgDONEuPGvw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/VgDONEuPGvw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Yan Diomande to Liverpool? 👀 + Tottenham's transfer targets | ESPN FC Extra Time",
+      "videoId": "Lz3vJ4cbcTQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Lz3vJ4cbcTQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Scotland were ‘DISAPPOINTING’ vs. Morocco 😳 Expectations too high? | ESPN FC",
+      "videoId": "m0BtIartKnk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-20",
       "category": "Highlights",
       "team": [
-        "Germany"
+        "Morocco",
+        "Scotland"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/E7v8zCd-VVc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/m0BtIartKnk/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand"
+      "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "Japan On Playing Tunisia | Hajime Moriyasu Answers Questions",
-      "videoId": "KDJ9OUPQXBk",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-19",
+      "title": "Can Folarin Balogun keep us his ELITE performances for USMNT? 🇺🇸 | ESPN FC",
+      "videoId": "B5hkKlDfwRw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-20",
       "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/B5hkKlDfwRw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Brazil vs. Haiti FULL REACTION 🍿 Will Brazil win Group C? | ESPN FC",
+      "videoId": "JHdajOueuDw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-20",
+      "category": "Viral",
       "team": [
-        "Japan",
-        "Tunisia"
+        "Brazil",
+        "Haiti"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/KDJ9OUPQXBk/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/JHdajOueuDw/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand"
+      "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "Curacao Train Before Ecuador | FIFA World Cup 2026™",
-      "videoId": "-O-bNEGy2C0",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-19",
-      "category": "Highlights",
+      "title": "Scotland vs. Morocco FULL REACTION 🍿 Who will win Group C? | ESPN FC",
+      "videoId": "zR_ykY3rf3c",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-20",
+      "category": "Viral",
       "team": [
-        "Ecuador"
+        "Morocco",
+        "Scotland"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-O-bNEGy2C0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/zR_ykY3rf3c/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand"
+      "fixtureTeams": "Argentina vs Algeria"
     },
     {
       "title": "‘This team is DIFFERENT’ 👀 How far can USMNT go in the World Cup? | SportsCenter",
@@ -398,122 +467,20 @@
       "fixtureTeams": "Iran vs New Zealand"
     },
     {
-      "title": "Unreal shot 😳 (via @jithhoooo.__/IG)",
-      "videoId": "BYIVNl3yz4A",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-19",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/BYIVNl3yz4A/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand"
-    },
-    {
-      "title": "Bro snapped 😱 (via @willster204/TT)",
-      "videoId": "HJlOJCl-Mf8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-19",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/HJlOJCl-Mf8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand"
-    },
-    {
-      "title": "She was so chill about it 😭 (via @kira_lee2008/IG)",
-      "videoId": "DZxqlylRCFo",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-19",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/DZxqlylRCFo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand"
-    },
-    {
-      "title": "Christian Pulisic officially OUT for United States vs. Australia 🚨 | SportsCenter",
-      "videoId": "ttGwpDffYxU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-19",
+      "title": "WATCH LIVE | Türkiye v Paraguay | Group Stage D | FIFA World Cup 2026™",
+      "videoId": "u7AzoeDhwXc",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-10",
       "category": "Highlights",
       "team": [
-        "Australia"
+        "Paraguay"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ttGwpDffYxU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/u7AzoeDhwXc/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand"
-    },
-    {
-      "title": "These saves are ridiculous 😭🧤 (via moderngoalkeeping/IG)",
-      "videoId": "5LuR0Rwyxeg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-19",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/5LuR0Rwyxeg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand"
-    },
-    {
-      "title": "Mike Grella calls for USMNT to play full throttle and like champions vs. Australia | Pat McAfee Show",
-      "videoId": "v63tU3fbTHY",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-19",
-      "category": "Highlights",
-      "team": [
-        "Australia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/v63tU3fbTHY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand"
-    },
-    {
-      "title": "USMNT needs to be 'full throttle' vs. Australia 😤",
-      "videoId": "Wo6gmbIcz18",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-19",
-      "category": "Highlights",
-      "team": [
-        "Australia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Wo6gmbIcz18/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand"
-    },
-    {
-      "title": "Geoff Cameron gives some insight ✍️",
-      "videoId": "MKFMVcjwraw",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-19",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/MKFMVcjwraw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Iran vs New Zealand"
+      "fixtureTeams": "Mexico vs South Africa"
     }
   ]
 }
