@@ -1,61 +1,90 @@
 {
-  "lastUpdated": "2026-06-20T11:35:21.336Z",
+  "lastUpdated": "2026-06-20T11:59:30.519Z",
   "featured": {
-    "match": "cH1vbMrtbvM",
-    "highlight": "cH1vbMrtbvM",
+    "match": "jfV37rfFqJQ",
+    "highlight": "jfV37rfFqJQ",
     "interview": "JHdajOueuDw"
   },
   "videos": [
     {
-      "title": "Uzbekistan vs. Colombia Full Highlights | FIFA World Cup 2026",
-      "videoId": "cH1vbMrtbvM",
-      "channel": "Web Search",
+      "title": "Team Feature: Saudi Arabia | Donis Feels The Pride Of The Green Falcons",
+      "videoId": "jfV37rfFqJQ",
+      "channel": "FIFA",
       "publishedAt": "2026-06-20",
       "category": "Highlights",
       "team": [
-        "Colombia"
+        "Saudi Arabia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/cH1vbMrtbvM/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/jfV37rfFqJQ/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia",
-      "source": "match-search"
+      "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "COLOMBIA vs UZBEKISTAN 3-1 | FIFA World Cup 2026 Full Highlights",
-      "videoId": "fPZ1HcZFVNA",
-      "channel": "Web Search",
+      "title": "15-Minute Match: Scotland vs Brazil | 1974 Stalemate",
+      "videoId": "QfanCT0CRJs",
+      "channel": "FIFA",
       "publishedAt": "2026-06-20",
       "category": "Highlights",
       "team": [
-        "Colombia"
+        "Brazil",
+        "Scotland"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fPZ1HcZFVNA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/QfanCT0CRJs/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia",
-      "source": "match-search"
+      "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "Uzbekistan vs Colombia | Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "DzF90Cs8ilU",
-      "channel": "Web Search",
+      "title": "German boss gets a \"BIG\" laugh from media",
+      "videoId": "PygihwL4LKU",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/PygihwL4LKU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Team Feature: Spain | It Is All About Staying Together As A Family For Spain's Stars",
+      "videoId": "gWJL9m9xQxs",
+      "channel": "FIFA",
       "publishedAt": "2026-06-20",
       "category": "Highlights",
       "team": [
-        "Colombia"
+        "Spain"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/DzF90Cs8ilU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/gWJL9m9xQxs/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia",
-      "source": "match-search"
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Match Preview: Belgium vs IR Iran",
+      "videoId": "4Cyb1E9lh1Y",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Belgium",
+        "Iran"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4Cyb1E9lh1Y/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
     },
     {
       "title": "Mert Müldür Hits The Post | Turkiye 0-1 Paraguay | FIFA World Cup 2026™",
@@ -212,91 +241,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/xNeA87ixz0E/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Post-Match Press Conference: Haiti's Sébastien Migné On 3-0 Loss To Brazil",
-      "videoId": "_dPw_lM37rU",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Haiti"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_dPw_lM37rU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Post-Match Press Conference: Brazil's Carlo Ancelotti On 3-0 Win Over Haiti",
-      "videoId": "leDWQFqoGW0",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Haiti"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/leDWQFqoGW0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Post-Match Interviews: Brazil 3-0 Haiti",
-      "videoId": "FRhnf3m9NHA",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Haiti"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FRhnf3m9NHA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Post-Match Interviews: Scotland 0-1 Morocco",
-      "videoId": "zV0NBcCygQU",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Morocco",
-        "Scotland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/zV0NBcCygQU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Matheus Cunha Second Goal | Brazil 3-0 Haiti | FIFA World Cup 2026™",
-      "videoId": "Qj0qoAoXG9Q",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Haiti"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Qj0qoAoXG9Q/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Argentina vs Algeria"
