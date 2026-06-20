@@ -1,48 +1,173 @@
 {
-  "lastUpdated": "2026-06-20T06:04:01.534Z",
+  "lastUpdated": "2026-06-20T09:23:13.224Z",
   "featured": {
-    "match": "fPZ1HcZFVNA",
-    "highlight": "fPZ1HcZFVNA",
+    "match": "U_oClxLuqMM",
+    "highlight": "U_oClxLuqMM",
     "interview": "JHdajOueuDw"
   },
   "videos": [
     {
-      "title": "COLOMBIA vs UZBEKISTAN 3-1 | FIFA World Cup 2026 Full Highlights",
-      "videoId": "fPZ1HcZFVNA",
-      "channel": "Web Search",
+      "title": "Mert Müldür Hits The Post | Turkiye 0-1 Paraguay | FIFA World Cup 2026™",
+      "videoId": "U_oClxLuqMM",
+      "channel": "FIFA",
       "publishedAt": "2026-06-20",
       "category": "Highlights",
       "team": [
-        "Colombia"
+        "Paraguay"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fPZ1HcZFVNA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/U_oClxLuqMM/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia",
-      "source": "match-search"
+      "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "Uzbekistan vs Colombia Extended Highlights | 2026 FIFA World Cup™",
-      "videoId": "40UiVi4XMcc",
-      "channel": "Web Search",
+      "title": "Matias Galarza Goal | Turkiye 0-1 Paraguay | FIFA World Cup 2026™",
+      "videoId": "RLkdBwyXn-Y",
+      "channel": "FIFA",
       "publishedAt": "2026-06-20",
       "category": "Highlights",
       "team": [
-        "Colombia"
+        "Paraguay"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/40UiVi4XMcc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/RLkdBwyXn-Y/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia",
-      "source": "match-search"
+      "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "Brazil 🆚 Haiti #FIFAWorldCupOnYT",
-      "videoId": "Dx65sEYBHVs",
+      "title": "Tunisia Train Before Japan",
+      "videoId": "T5q9lGByimI",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Japan",
+        "Tunisia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/T5q9lGByimI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "June 19 Matchday Recap | #FIFAWorldCup @aramco  ​",
+      "videoId": "mLrLJ-ekrTs",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/mLrLJ-ekrTs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Türkiye inches away from the equalizer against Paraguay! 🇹🇷#FIFAWorldCupOnYT",
+      "videoId": "J3SzPVa-WBw",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/J3SzPVa-WBw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Post-Match Press Conference: Paraguay's Gustavo Alfaro On 1-0 Win Over Türkiye",
+      "videoId": "yg7WkYdhD2Q",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/yg7WkYdhD2Q/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Galarza scored a golazo for Paraguay! 🇵🇾 #FIFAWorldCupOnYT",
+      "videoId": "Ste_4VTkHbU",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Ste_4VTkHbU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Türkiye 🆚 Paraguay #FIFAWorldCupOnYT",
+      "videoId": "KifbgaBT_Sg",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/KifbgaBT_Sg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Post-Match Press Conference: Türkiye's Vincenzo Montella On 1-0 Loss Against Paraguay",
+      "videoId": "TxJumchNfSU",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/TxJumchNfSU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Post-Match Interviews: Türkiye 0-1 Paraguay",
+      "videoId": "xNeA87ixz0E",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xNeA87ixz0E/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Post-Match Press Conference: Haiti's Sébastien Migné On 3-0 Loss To Brazil",
+      "videoId": "_dPw_lM37rU",
       "channel": "FIFA",
       "publishedAt": "2026-06-20",
       "category": "Highlights",
@@ -52,14 +177,48 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Dx65sEYBHVs/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/_dPw_lM37rU/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "Angus Gunn Save | Scotland 0-1 Morocco | FIFA World Cup 2026™",
-      "videoId": "B2RhB7Hs1do",
+      "title": "Post-Match Press Conference: Brazil's Carlo Ancelotti On 3-0 Win Over Haiti",
+      "videoId": "leDWQFqoGW0",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Haiti"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/leDWQFqoGW0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Post-Match Interviews: Brazil 3-0 Haiti",
+      "videoId": "FRhnf3m9NHA",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Haiti"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/FRhnf3m9NHA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Post-Match Interviews: Scotland 0-1 Morocco",
+      "videoId": "zV0NBcCygQU",
       "channel": "FIFA",
       "publishedAt": "2026-06-20",
       "category": "Highlights",
@@ -69,204 +228,24 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/B2RhB7Hs1do/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/zV0NBcCygQU/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "Ismael Saibari Goal | Scotland 0-1 Morocco | FIFA World Cup 2026™",
-      "videoId": "prIF9cMux1A",
+      "title": "Matheus Cunha Second Goal | Brazil 3-0 Haiti | FIFA World Cup 2026™",
+      "videoId": "Qj0qoAoXG9Q",
       "channel": "FIFA",
       "publishedAt": "2026-06-20",
       "category": "Highlights",
       "team": [
-        "Morocco",
-        "Scotland"
+        "Brazil",
+        "Haiti"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/prIF9cMux1A/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Karembeu, Abidal & Silvestre celebrate 1000 matches at the FIFA World Cup!",
-      "videoId": "dtjXvChZlrM",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/dtjXvChZlrM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Huge stop by Gunn for Scotland! 🧤🏴󠁧󠁢󠁳󠁣󠁴󠁿 #FIFAWorldCupOnYT",
-      "videoId": "I2T0YJxlDNY",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Scotland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/I2T0YJxlDNY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Highlights | Mexico 1-0 Korea Republic | FIFA World Cup 2026™",
-      "videoId": "o_AAtfdVp3Y",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/o_AAtfdVp3Y/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Saibari Scores a stunning goal for Morocco! 🇲🇦 #FIFAWorldCupOnYT",
-      "videoId": "jtuHVJaCAik",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/jtuHVJaCAik/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Scotland 🆚 Morocco #FIFAWorldCupOnYT",
-      "videoId": "flbgHV3L59Y",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Morocco",
-        "Scotland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/flbgHV3L59Y/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Ecuador On Playing Curacao | Sebastián Andrés Beccacece & Alan Franco Take Questions",
-      "videoId": "Z47UWjaZTMw",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Z47UWjaZTMw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Post-Match Press Conference: Morocco's Mohamed Ouahbi On 1-0 Win Over Scotland",
-      "videoId": "8R3EoSE5pEU",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Morocco",
-        "Scotland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/8R3EoSE5pEU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Post-Match Press Conference: Scotland's Steve Clarke On 1-0 Loss to Morocco",
-      "videoId": "vtz4wWLp7xA",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Morocco",
-        "Scotland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vtz4wWLp7xA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Netherlands On Playing Sweden | Ronald Koeman & Jan Paul Van Hecke Answer Questions",
-      "videoId": "y6UXnP84M8M",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Netherlands",
-        "Sweden"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/y6UXnP84M8M/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Alex Freeman Goal | USA 2-0 Australia | FIFA World Cup 2026™",
-      "videoId": "GjgS82rEiDM",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "USA",
-        "Australia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/GjgS82rEiDM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "USA 🆚 Australia Watch #FIFAWorldCup highlights on FIFA.com 📺#FIFAWorldCupOnYT",
-      "videoId": "lPix3fiiS7Q",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "USA",
-        "Australia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/lPix3fiiS7Q/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Qj0qoAoXG9Q/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Argentina vs Algeria"
@@ -499,22 +478,6 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Iran vs New Zealand"
-    },
-    {
-      "title": "WATCH LIVE | Türkiye v Paraguay | Group Stage D | FIFA World Cup 2026™",
-      "videoId": "u7AzoeDhwXc",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-10",
-      "category": "Highlights",
-      "team": [
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/u7AzoeDhwXc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
     }
   ]
 }
