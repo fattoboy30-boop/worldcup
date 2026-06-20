@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T06:03:22.139Z",
+  "lastUpdated": "2026-06-20T06:18:52.719Z",
   "fixtures": [
     {
       "id": 760415,
@@ -789,11 +789,11 @@
       "awayScore": 1,
       "venue": "Levi's Stadium",
       "city": "Santa Clara, California",
-      "status": "finished",
+      "status": "in_play",
       "group": "D",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "45'+5'",
       "halfTime": [
         null,
         null
