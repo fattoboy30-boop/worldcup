@@ -1,24 +1,24 @@
 {
-  "lastUpdated": "2026-06-20T18:45:40.329Z",
+  "lastUpdated": "2026-06-20T20:14:04.332Z",
   "liveMatches": [
     {
-      "id": 760447,
+      "id": 760448,
       "date": "2026-06-20",
-      "time": "17:00",
-      "utcDate": "2026-06-20T17:00Z",
-      "homeTeam": "Netherlands",
-      "homeCode": "nl",
-      "homeScore": 4,
-      "awayTeam": "Sweden",
-      "awayCode": "se",
-      "awayScore": 1,
-      "venue": "NRG Stadium",
-      "city": "Houston, Texas",
+      "time": "20:00",
+      "utcDate": "2026-06-20T20:00Z",
+      "homeTeam": "Germany",
+      "homeCode": "de",
+      "homeScore": 0,
+      "awayTeam": "Ivory Coast",
+      "awayCode": "ci",
+      "awayScore": 0,
+      "venue": "BMO Field",
+      "city": "Toronto",
       "status": "in_play",
-      "group": "F",
+      "group": "E",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "84'",
+      "minute": "14'",
       "halfTime": [
         null,
         null
@@ -761,24 +761,22 @@
         null,
         null
       ]
-    }
-  ],
-  "upcomingMatches": [
+    },
     {
-      "id": 760448,
+      "id": 760447,
       "date": "2026-06-20",
-      "time": "20:00",
-      "utcDate": "2026-06-20T20:00Z",
-      "homeTeam": "Germany",
-      "homeCode": "de",
-      "homeScore": 0,
-      "awayTeam": "Ivory Coast",
-      "awayCode": "ci",
-      "awayScore": 0,
-      "venue": "BMO Field",
-      "city": "Toronto",
-      "status": "timed",
-      "group": "E",
+      "time": "17:00",
+      "utcDate": "2026-06-20T17:00Z",
+      "homeTeam": "Netherlands",
+      "homeCode": "nl",
+      "homeScore": 5,
+      "awayTeam": "Sweden",
+      "awayCode": "se",
+      "awayScore": 1,
+      "venue": "NRG Stadium",
+      "city": "Houston, Texas",
+      "status": "finished",
+      "group": "F",
       "stage": "GROUP_STAGE",
       "matchday": 0,
       "minute": null,
@@ -786,7 +784,9 @@
         null,
         null
       ]
-    },
+    }
+  ],
+  "upcomingMatches": [
     {
       "id": 760446,
       "date": "2026-06-21",

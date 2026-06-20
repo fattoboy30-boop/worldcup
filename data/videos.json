@@ -1,11 +1,28 @@
 {
-  "lastUpdated": "2026-06-20T18:46:25.852Z",
+  "lastUpdated": "2026-06-20T20:14:51.833Z",
   "featured": {
-    "match": "fPZ1HcZFVNA",
-    "highlight": "fPZ1HcZFVNA",
+    "match": "Qb3ipZFspnc",
+    "highlight": "Qb3ipZFspnc",
     "interview": "sKl-KU4U6Bk"
   },
   "videos": [
+    {
+      "title": "Uzbekistan vs Colombia Extended Highlights 2026 FIFA World Cup™",
+      "videoId": "Qb3ipZFspnc",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Qb3ipZFspnc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia",
+      "source": "match-search"
+    },
     {
       "title": "COLOMBIA vs UZBEKISTAN 3-1 | FIFA World Cup 2026 Full Highlights",
       "videoId": "fPZ1HcZFVNA",

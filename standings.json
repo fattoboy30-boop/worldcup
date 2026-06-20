@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T18:45:40.334Z",
+  "lastUpdated": "2026-06-20T20:14:04.337Z",
   "groups": {
     "A": {
       "teams": [
@@ -284,29 +284,29 @@
     "F": {
       "teams": [
         {
-          "name": "Sweden",
-          "code": "se",
-          "played": 1,
+          "name": "Netherlands",
+          "code": "nl",
+          "played": 2,
           "won": 1,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 0,
-          "gf": 5,
-          "ga": 1,
+          "gf": 7,
+          "ga": 3,
           "gd": 4,
-          "points": 3,
+          "points": 4,
           "position": 1
         },
         {
-          "name": "Netherlands",
-          "code": "nl",
-          "played": 1,
-          "won": 0,
-          "drawn": 1,
-          "lost": 0,
-          "gf": 2,
-          "ga": 2,
+          "name": "Sweden",
+          "code": "se",
+          "played": 2,
+          "won": 1,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 6,
+          "ga": 6,
           "gd": 0,
-          "points": 1,
+          "points": 3,
           "position": 2
         },
         {
