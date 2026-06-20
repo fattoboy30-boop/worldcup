@@ -1,44 +1,194 @@
 {
-  "lastUpdated": "2026-06-20T21:42:18.473Z",
+  "lastUpdated": "2026-06-20T22:12:43.604Z",
   "featured": {
-    "match": "fPZ1HcZFVNA",
-    "highlight": "fPZ1HcZFVNA",
-    "interview": "_i5WsZQ6X00"
+    "match": "3wwDIIWhJOU",
+    "highlight": "3wwDIIWhJOU",
+    "interview": "iq3NSNjvP-s"
   },
   "videos": [
     {
-      "title": "COLOMBIA vs UZBEKISTAN 3-1 | FIFA World Cup 2026 Full Highlights",
-      "videoId": "fPZ1HcZFVNA",
-      "channel": "Web Search",
+      "title": "Crysencio Summerville Goal | Netherlands 5-1 Sweden | FIFA World Cup 2026™",
+      "videoId": "3wwDIIWhJOU",
+      "channel": "FIFA",
       "publishedAt": "2026-06-20",
       "category": "Highlights",
       "team": [
-        "Colombia"
+        "Netherlands",
+        "Sweden"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fPZ1HcZFVNA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/3wwDIIWhJOU/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia",
-      "source": "match-search"
+      "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "Uzbekistan vs Colombia Extended Highlights | 2026 FIFA World Cup™",
-      "videoId": "97s_sROG6y0",
-      "channel": "Web Search",
+      "title": "Cody Gakpo Goal | Netherlands 5-1 Sweden | FIFA World Cup 2026™",
+      "videoId": "rQcHfpKEppE",
+      "channel": "FIFA",
       "publishedAt": "2026-06-20",
       "category": "Highlights",
       "team": [
-        "Colombia"
+        "Netherlands",
+        "Sweden"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/97s_sROG6y0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/rQcHfpKEppE/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia",
-      "source": "match-search"
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Summerville scores a golazo for the Netherlands! 🇳🇱#FIFAWorldCupOnYT #shorts #worldcup",
+      "videoId": "dMe0qC6T0PE",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Netherlands"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/dMe0qC6T0PE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Gakpo cuts in and buries it at the near post for Netherlands! ⚽🇳🇱#FIFAWorldCupOnYT #shorts",
+      "videoId": "N9Md09jVxXI",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Netherlands"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/N9Md09jVxXI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Highlights | USA 2-0 Australia | FIFA World Cup 2026™",
+      "videoId": "tXxvgvgMiRg",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "USA",
+        "Australia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tXxvgvgMiRg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Saudi Arabia Train Before Spain | FIFA World Cup 2026™",
+      "videoId": "BERfrTiaeQs",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Saudi Arabia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/BERfrTiaeQs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Post-Match Press Conference: Netherlands' Ronald Koeman On 5-1 Win Against Sweden",
+      "videoId": "ypQBv2aDYHw",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Sweden"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ypQBv2aDYHw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Double nutmeg. 🇺🇸✨#FIFAWorldCup #Kia #InspirationConnectsUsAll",
+      "videoId": "sqF3DozNaN0",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/sqF3DozNaN0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Post-Match Press Conference: Sweden's Graham Potter On 5-1 Loss To The Netherlands",
+      "videoId": "cifYTqPEUgI",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Sweden"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cifYTqPEUgI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Netherlands 🆚 Sweden #FIFAWorldCupOnYT #shorts #worldcup",
+      "videoId": "sstDWiMT884",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Sweden"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/sstDWiMT884/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Post-Match Interviews: Netherlands 5-1 Sweden",
+      "videoId": "7jXt6IWE6qg",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Sweden"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7jXt6IWE6qg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
     },
     {
       "title": "New Zealand Train Before Egypt | FIFA World Cup 2026™",
@@ -90,177 +240,18 @@
       "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "Spain Train Before Saudi Arabia | FIFA World Cup 2026™",
-      "videoId": "Speqci1xpZs",
-      "channel": "FIFA",
+      "title": "Netherlands vs. Sweden Reaction: Can the Dutch compete with the best in the world? | ESPN FC",
+      "videoId": "iq3NSNjvP-s",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-20",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [
-        "Spain",
-        "Saudi Arabia"
+        "Netherlands",
+        "Sweden"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Speqci1xpZs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Uruguay Train Before Cabo Verde | FIFA World Cup 2026™",
-      "videoId": "IxmN8DTo87o",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Uruguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/IxmN8DTo87o/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Team Feature: Egypt | The Qualities Of Mohamed Salah",
-      "videoId": "j_9R0orQSPw",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/j_9R0orQSPw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Team Feature: New Zealand | \"Win At All Costs\"",
-      "videoId": "xPGF3D4GcIg",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xPGF3D4GcIg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Team Feature: Cabo Verde | The Unexpected And Heartwarming Journey Of Roberto 'Pico' Lopes",
-      "videoId": "TNPO05Fq6rY",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/TNPO05Fq6rY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Alt Cast Highlights: Scotland v Morocco | FIFA World Cup 2026™",
-      "videoId": "nNPhMSExENo",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Morocco",
-        "Scotland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/nNPhMSExENo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Team Feature: Uruguay | Valverde On Embodying The Uruguayan Spirit As Captain",
-      "videoId": "ezgzRw6I9xI",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Uruguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ezgzRw6I9xI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Alt Cast Highlights: Brazil v Haiti | FIFA World Cup 2026™",
-      "videoId": "b4uUNhSns2c",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Haiti"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/b4uUNhSns2c/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Team Feature: IR Iran | Ghalenoei Focused On Taking IR Iran Into The Knockout Stages",
-      "videoId": "Ew6lABH7gXE",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Iran"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Ew6lABH7gXE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Alt Cast Highlights: USA v Australia | FIFA World Cup 2026™",
-      "videoId": "Ds1z8cVR1Pw",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "USA",
-        "Australia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Ds1z8cVR1Pw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Team Feature: Belgium | Players Describe 'That Feeling' Of Playing At A World Cup",
-      "videoId": "LsI6DopPwGU",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Belgium"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/LsI6DopPwGU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/iq3NSNjvP-s/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Argentina vs Algeria"
@@ -460,7 +451,7 @@
       "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "The Scots take over the ports in Boston 🏴󠁧󠁢󠁳󠁣󠁴󠁿⚽ (🎥 via Martyn Ewart)",
+      "title": "The Scots take over the ports in Boston ��󠁧󠁢󠁳󠁣󠁴󠁿⚽ (🎥 via Martyn Ewart)",
       "videoId": "bZokHiscllk",
       "channel": "ESPN FC",
       "publishedAt": "2026-06-20",
@@ -469,20 +460,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/bZokHiscllk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Taylor Twellman is optimistic about the United States' World Cup chances 👀",
-      "videoId": "aJujN2k0Akw",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/aJujN2k0Akw/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Argentina vs Algeria"
