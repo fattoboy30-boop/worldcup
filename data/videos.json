@@ -1,11 +1,45 @@
 {
-  "lastUpdated": "2026-06-20T11:59:30.519Z",
+  "lastUpdated": "2026-06-20T13:13:56.477Z",
   "featured": {
-    "match": "jfV37rfFqJQ",
-    "highlight": "jfV37rfFqJQ",
+    "match": "Qb3ipZFspnc",
+    "highlight": "Qb3ipZFspnc",
     "interview": "JHdajOueuDw"
   },
   "videos": [
+    {
+      "title": "Uzbekistan vs Colombia Extended Highlights 2026 FIFA World Cup™",
+      "videoId": "Qb3ipZFspnc",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Qb3ipZFspnc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia",
+      "source": "match-search"
+    },
+    {
+      "title": "Uzbekistan vs Colombia Extended Highlights | 2026 FIFA World Cup™",
+      "videoId": "97s_sROG6y0",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/97s_sROG6y0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia",
+      "source": "match-search"
+    },
     {
       "title": "Team Feature: Saudi Arabia | Donis Feels The Pride Of The Green Falcons",
       "videoId": "jfV37rfFqJQ",
