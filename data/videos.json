@@ -1,11 +1,45 @@
 {
-  "lastUpdated": "2026-06-20T05:18:28.455Z",
+  "lastUpdated": "2026-06-20T06:04:01.534Z",
   "featured": {
-    "match": "Dx65sEYBHVs",
-    "highlight": "Dx65sEYBHVs",
+    "match": "fPZ1HcZFVNA",
+    "highlight": "fPZ1HcZFVNA",
     "interview": "JHdajOueuDw"
   },
   "videos": [
+    {
+      "title": "COLOMBIA vs UZBEKISTAN 3-1 | FIFA World Cup 2026 Full Highlights",
+      "videoId": "fPZ1HcZFVNA",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fPZ1HcZFVNA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia",
+      "source": "match-search"
+    },
+    {
+      "title": "Uzbekistan vs Colombia Extended Highlights | 2026 FIFA World Cup™",
+      "videoId": "40UiVi4XMcc",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/40UiVi4XMcc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia",
+      "source": "match-search"
+    },
     {
       "title": "Brazil 🆚 Haiti #FIFAWorldCupOnYT",
       "videoId": "Dx65sEYBHVs",

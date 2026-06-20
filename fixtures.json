@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T01:55:13.380Z",
+  "lastUpdated": "2026-06-20T06:03:22.139Z",
   "fixtures": [
     {
       "id": 760415,
@@ -764,11 +764,11 @@
       "awayScore": 0,
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia, Pennsylvania",
-      "status": "in_play",
+      "status": "finished",
       "group": "C",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "60'",
+      "minute": null,
       "halfTime": [
         null,
         null
@@ -786,10 +786,10 @@
       "homeScore": 0,
       "awayTeam": "Paraguay",
       "awayCode": "py",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "Levi's Stadium",
       "city": "Santa Clara, California",
-      "status": "timed",
+      "status": "finished",
       "group": "D",
       "stage": "GROUP_STAGE",
       "matchday": 0,
@@ -2031,7 +2031,7 @@
       "date": "2026-07-02",
       "time": "00:00",
       "utcDate": "2026-07-02T00:00Z",
-      "homeTeam": "Group D Winner",
+      "homeTeam": "United States",
       "homeCode": "un",
       "homeScore": 0,
       "awayTeam": "Third Place Group B/E/F/I/J",
@@ -2040,7 +2040,7 @@
       "venue": "Levi's Stadium",
       "city": "Santa Clara, California",
       "status": "timed",
-      "group": null,
+      "group": "D",
       "stage": "ROUND_OF_32",
       "matchday": 0,
       "minute": null,
