@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T21:41:30.799Z",
+  "lastUpdated": "2026-06-20T22:36:45.899Z",
   "fixtures": [
     {
       "id": 760415,
@@ -833,17 +833,17 @@
       "utcDate": "2026-06-20T20:00Z",
       "homeTeam": "Germany",
       "homeCode": "de",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayTeam": "Ivory Coast",
       "awayCode": "ci",
       "awayScore": 1,
       "venue": "BMO Field",
       "city": "Toronto",
-      "status": "in_play",
+      "status": "finished",
       "group": "E",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "76'",
+      "minute": null,
       "halfTime": [
         null,
         null

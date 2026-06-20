@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T21:41:30.801Z",
+  "lastUpdated": "2026-06-20T22:36:45.900Z",
   "groups": {
     "A": {
       "teams": [
@@ -230,26 +230,26 @@
         {
           "name": "Germany",
           "code": "de",
-          "played": 1,
-          "won": 1,
+          "played": 2,
+          "won": 2,
           "drawn": 0,
           "lost": 0,
-          "gf": 7,
-          "ga": 1,
-          "gd": 6,
-          "points": 3,
+          "gf": 9,
+          "ga": 2,
+          "gd": 7,
+          "points": 6,
           "position": 1
         },
         {
           "name": "Ivory Coast",
           "code": "ci",
-          "played": 1,
+          "played": 2,
           "won": 1,
           "drawn": 0,
-          "lost": 0,
-          "gf": 1,
-          "ga": 0,
-          "gd": 1,
+          "lost": 1,
+          "gf": 2,
+          "ga": 2,
+          "gd": 0,
           "points": 3,
           "position": 2
         },
