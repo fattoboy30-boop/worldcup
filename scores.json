@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-20T17:00:39.592Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-06-20T18:08:32.400Z",
+  "liveMatches": [
+    {
+      "id": 760447,
+      "date": "2026-06-20",
+      "time": "17:00",
+      "utcDate": "2026-06-20T17:00Z",
+      "homeTeam": "Netherlands",
+      "homeCode": "nl",
+      "homeScore": 2,
+      "awayTeam": "Sweden",
+      "awayCode": "se",
+      "awayScore": 0,
+      "venue": "NRG Stadium",
+      "city": "Houston, Texas",
+      "status": "in_play",
+      "group": "F",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "47'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -740,29 +764,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760447,
-      "date": "2026-06-20",
-      "time": "17:00",
-      "utcDate": "2026-06-20T17:00Z",
-      "homeTeam": "Netherlands",
-      "homeCode": "nl",
-      "homeScore": 0,
-      "awayTeam": "Sweden",
-      "awayCode": "se",
-      "awayScore": 0,
-      "venue": "NRG Stadium",
-      "city": "Houston, Texas",
-      "status": "timed",
-      "group": "F",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760448,
       "date": "2026-06-20",
