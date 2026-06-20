@@ -1,11 +1,45 @@
 {
-  "lastUpdated": "2026-06-20T16:22:33.645Z",
+  "lastUpdated": "2026-06-20T17:01:26.057Z",
   "featured": {
-    "match": "TNPO05Fq6rY",
-    "highlight": "TNPO05Fq6rY",
+    "match": "Qb3ipZFspnc",
+    "highlight": "Qb3ipZFspnc",
     "interview": "sKl-KU4U6Bk"
   },
   "videos": [
+    {
+      "title": "Uzbekistan vs Colombia Extended Highlights 2026 FIFA World Cup™",
+      "videoId": "Qb3ipZFspnc",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Qb3ipZFspnc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia",
+      "source": "match-search"
+    },
+    {
+      "title": "Uzbekistan vs Colombia Extended Highlights | 2026 FIFA World Cup™",
+      "videoId": "97s_sROG6y0",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/97s_sROG6y0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia",
+      "source": "match-search"
+    },
     {
       "title": "Team Feature: Cabo Verde | The Unexpected And Heartwarming Journey Of Roberto 'Pico' Lopes",
       "videoId": "TNPO05Fq6rY",
