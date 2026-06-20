@@ -1,61 +1,76 @@
 {
-  "lastUpdated": "2026-06-20T20:14:51.833Z",
+  "lastUpdated": "2026-06-20T20:18:08.850Z",
   "featured": {
-    "match": "Qb3ipZFspnc",
-    "highlight": "Qb3ipZFspnc",
-    "interview": "sKl-KU4U6Bk"
+    "match": "XMEHLvnj0Qo",
+    "highlight": "XMEHLvnj0Qo",
+    "interview": "_i5WsZQ6X00"
   },
   "videos": [
     {
-      "title": "Uzbekistan vs Colombia Extended Highlights 2026 FIFA World Cup™",
-      "videoId": "Qb3ipZFspnc",
-      "channel": "Web Search",
+      "title": "New Zealand Train Before Egypt | FIFA World Cup 2026™",
+      "videoId": "XMEHLvnj0Qo",
+      "channel": "FIFA",
       "publishedAt": "2026-06-20",
       "category": "Highlights",
       "team": [
-        "Colombia"
+        "Egypt"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Qb3ipZFspnc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/XMEHLvnj0Qo/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia",
-      "source": "match-search"
+      "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "COLOMBIA vs UZBEKISTAN 3-1 | FIFA World Cup 2026 Full Highlights",
-      "videoId": "fPZ1HcZFVNA",
-      "channel": "Web Search",
+      "title": "Belgium Train Before IR Iran | FIFA World Cup 2026™",
+      "videoId": "ccFmvxBylPo",
+      "channel": "FIFA",
       "publishedAt": "2026-06-20",
       "category": "Highlights",
       "team": [
-        "Colombia"
+        "Belgium",
+        "Iran"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fPZ1HcZFVNA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/ccFmvxBylPo/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia",
-      "source": "match-search"
+      "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "Uzbekistan vs Colombia Extended Highlights | 2026 FIFA World Cup™",
-      "videoId": "97s_sROG6y0",
-      "channel": "Web Search",
+      "title": "Cabo Verde Train Before Uruguay | FIFA World Cup 2026™",
+      "videoId": "_3B9qPVQYb0",
+      "channel": "FIFA",
       "publishedAt": "2026-06-20",
       "category": "Highlights",
       "team": [
-        "Colombia"
+        "Uruguay"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/97s_sROG6y0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/_3B9qPVQYb0/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia",
-      "source": "match-search"
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Spain Train Before Saudi Arabia | FIFA World Cup 2026™",
+      "videoId": "Speqci1xpZs",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Saudi Arabia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Speqci1xpZs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
     },
     {
       "title": "Uruguay Train Before Cabo Verde | FIFA World Cup 2026™",
@@ -217,81 +232,15 @@
       "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "Team Feature: Saudi Arabia | Donis Feels The Pride Of The Green Falcons",
-      "videoId": "jfV37rfFqJQ",
-      "channel": "FIFA",
+      "title": "Elite skills 🔥 (via stefvangi21/TT)",
+      "videoId": "_i5WsZQ6X00",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Saudi Arabia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/jfV37rfFqJQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "15-Minute Match: Scotland vs Brazil | 1974 Stalemate",
-      "videoId": "QfanCT0CRJs",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Scotland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/QfanCT0CRJs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "German boss gets a \"BIG\" laugh from media",
-      "videoId": "PygihwL4LKU",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PygihwL4LKU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Team Feature: Spain | It Is All About Staying Together As A Family For Spain's Stars",
-      "videoId": "gWJL9m9xQxs",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/gWJL9m9xQxs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Match Preview: Belgium vs IR Iran",
-      "videoId": "4Cyb1E9lh1Y",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Belgium",
-        "Iran"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/4Cyb1E9lh1Y/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/_i5WsZQ6X00/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Argentina vs Algeria"
@@ -505,18 +454,20 @@
       "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "‘Quarterfinals or bust!’ 😳 Taylor Twellman on USMNT’s expectations for the 2026 World Cup | ESPN FC",
-      "videoId": "lJP60L7809I",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
+      "title": "WATCH LIVE | Germany v Côte d'Ivoire | Group Stage E | FIFA World Cup 2026™",
+      "videoId": "vahr3S9_E5k",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-10",
       "category": "Highlights",
-      "team": [],
+      "team": [
+        "Germany"
+      ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/lJP60L7809I/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/vahr3S9_E5k/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
+      "fixtureTeams": "Mexico vs South Africa"
     }
   ]
 }
