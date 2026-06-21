@@ -1,11 +1,49 @@
 {
-  "lastUpdated": "2026-06-21T13:09:54.572Z",
+  "lastUpdated": "2026-06-21T14:13:38.383Z",
   "featured": {
-    "match": "I5Y-f7tk7Jg",
-    "highlight": "I5Y-f7tk7Jg",
+    "match": "XoWwl870Rg0",
+    "highlight": "XoWwl870Rg0",
     "interview": "mTo-sh9B26w"
   },
   "videos": [
+    {
+      "title": "Highlights | Mexico 1-0 South Korea | FIFA World Cup 2026",
+      "videoId": "XoWwl870Rg0",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "South Korea",
+        "Mexico",
+        "Korea"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/XoWwl870Rg0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea",
+      "source": "match-search"
+    },
+    {
+      "title": "MEXICO vs SOUTH KOREA 1-0 | 2026 FIFA World Cup | Match Highlights",
+      "videoId": "Y36jrcE5J6k",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "South Korea",
+        "Mexico",
+        "Korea"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Y36jrcE5J6k/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea",
+      "source": "match-search"
+    },
     {
       "title": "Team Feature: France | The Parisian Stars Lighting Up The World Cup",
       "videoId": "I5Y-f7tk7Jg",
