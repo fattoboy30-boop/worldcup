@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-21T21:38:27.377Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-06-21T22:13:57.202Z",
+  "liveMatches": [
+    {
+      "id": 760450,
+      "date": "2026-06-21",
+      "time": "22:00",
+      "utcDate": "2026-06-21T22:00Z",
+      "homeTeam": "Uruguay",
+      "homeCode": "uy",
+      "homeScore": 0,
+      "awayTeam": "Cape Verde",
+      "awayCode": "un",
+      "awayScore": 0,
+      "venue": "Hard Rock Stadium",
+      "city": "Miami Gardens, Florida",
+      "status": "in_play",
+      "group": "H",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "13'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -878,29 +902,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760450,
-      "date": "2026-06-21",
-      "time": "22:00",
-      "utcDate": "2026-06-21T22:00Z",
-      "homeTeam": "Uruguay",
-      "homeCode": "uy",
-      "homeScore": 0,
-      "awayTeam": "Cape Verde",
-      "awayCode": "un",
-      "awayScore": 0,
-      "venue": "Hard Rock Stadium",
-      "city": "Miami Gardens, Florida",
-      "status": "timed",
-      "group": "H",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760452,
       "date": "2026-06-22",
