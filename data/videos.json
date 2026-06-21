@@ -1,48 +1,106 @@
 {
-  "lastUpdated": "2026-06-21T14:13:38.383Z",
+  "lastUpdated": "2026-06-21T15:56:11.715Z",
   "featured": {
-    "match": "XoWwl870Rg0",
-    "highlight": "XoWwl870Rg0",
-    "interview": "mTo-sh9B26w"
+    "match": "rAM78T0FJmQ",
+    "highlight": "8KxjnTXJETw",
+    "interview": "rAM78T0FJmQ"
   },
   "videos": [
     {
-      "title": "Highlights | Mexico 1-0 South Korea | FIFA World Cup 2026",
-      "videoId": "XoWwl870Rg0",
-      "channel": "Web Search",
+      "title": "Team Feature: Senegal | Pape Thiaw: \"Squad Will Give Everything For Their Country\"",
+      "videoId": "rAM78T0FJmQ",
+      "channel": "FIFA",
       "publishedAt": "2026-06-21",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [
-        "South Korea",
-        "Mexico",
-        "Korea"
+        "Senegal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/XoWwl870Rg0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/rAM78T0FJmQ/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea",
-      "source": "match-search"
+      "fixtureTeams": "Uzbekistan vs Colombia"
     },
     {
-      "title": "MEXICO vs SOUTH KOREA 1-0 | 2026 FIFA World Cup | Match Highlights",
-      "videoId": "Y36jrcE5J6k",
-      "channel": "Web Search",
+      "title": "Team Feature: Norway | Ryerson: \"It's Fun To Play Against The Very Best\"",
+      "videoId": "8KxjnTXJETw",
+      "channel": "FIFA",
       "publishedAt": "2026-06-21",
       "category": "Highlights",
       "team": [
-        "South Korea",
-        "Mexico",
-        "Korea"
+        "Norway"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Y36jrcE5J6k/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/8KxjnTXJETw/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea",
-      "source": "match-search"
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Alt Cast Highlights: Tunisia v Japan | FIFA World Cup 2026™",
+      "videoId": "798Cx7JXIcM",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Japan",
+        "Tunisia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/798Cx7JXIcM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "IR Iran On Playing Belgium | Amir Ghalenoei And Saeed Ezatolahi Take Questions",
+      "videoId": "-Dsa8SyiZTw",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Belgium",
+        "Iran"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-Dsa8SyiZTw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Team Feature: Iraq | Jorvan Vieira \"You Are Our Legend\"",
+      "videoId": "5UBZpjjYHRU",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/5UBZpjjYHRU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Alt Cast Highlights: Ecuador v Curaçao | FIFA World Cup 2026™",
+      "videoId": "7PJzrYC9eXc",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7PJzrYC9eXc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
     },
     {
       "title": "Team Feature: France | The Parisian Stars Lighting Up The World Cup",
@@ -193,99 +251,110 @@
       "fixtureTeams": "Uzbekistan vs Colombia"
     },
     {
-      "title": "Post-Match Press Conference: Ecuador's Sebastián Beccacece On 0-0 Draw With Curacao",
-      "videoId": "rb6g1IA9n3Q",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/rb6g1IA9n3Q/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "Post-Match Press Conference: Curacao's Dick Advocaat And Eloy Room On 0-0 Draw Against Ecuador",
-      "videoId": "bLi28kEcR1M",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/bLi28kEcR1M/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "Post-Match Interviews: Ecuador 0-0 Curacao",
-      "videoId": "v_FNz0mIMR4",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/v_FNz0mIMR4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "Some skills deserve a second look. 👀 #FIFAWorldCup #Kia #InspirationConnectsUsAll",
-      "videoId": "mTo-sh9B26w",
-      "channel": "FIFA",
+      "title": "WORLD CUP REACTIONS & PREVIEWS ⚽ TEAMS ADVANCING TO KNOCKOUT STAGE + INJURY UPDATES | ESPN FC",
+      "videoId": "JRI_cBl3Jj0",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-21",
       "category": "Viral",
-      "team": [
-        "USA"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/mTo-sh9B26w/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/JRI_cBl3Jj0/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Uzbekistan vs Colombia"
     },
     {
-      "title": "Ayase Ueda Incredible Goal | Tunisia 0-4 Japan | FIFA World Cup 2026™",
-      "videoId": "JkwF_OUGRw8",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-21",
-      "category": "Viral",
-      "team": [
-        "Japan",
-        "Tunisia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/JkwF_OUGRw8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "Daichi Kamada Goal | Tunisia 0-4 Japan | FIFA World Cup 2026™",
-      "videoId": "tKySy2JfD_k",
-      "channel": "FIFA",
+      "title": "Ilkay Gundogan on VERY FRUSTRATING Turkiye exit, Almiron's red card & Germany advancing | ESPN FC",
+      "videoId": "TBvKR9B19IU",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-21",
       "category": "Highlights",
       "team": [
-        "Japan",
-        "Tunisia"
+        "Germany"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/tKySy2JfD_k/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/TBvKR9B19IU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "USMNT's playing at a very high level - Moreno praises U.S. for advancing to knockout stage | ESPN FC",
+      "videoId": "sQr-zcUmAVs",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/sQr-zcUmAVs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Raphinha's return is uncertain, but Brazil has MANY MORE ISSUES at the World Cup 😧 | ESPN FC",
+      "videoId": "ZYXbI_g4-jU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Brazil"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ZYXbI_g4-jU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Will Lamine Yamal start vs. Saudi Arabia in the Group H match of the WC? | ESPN FC",
+      "videoId": "seXv7ejJ21M",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Saudi Arabia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/seXv7ejJ21M/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Ale Moreno admits he was '100% WRONG' about this Netherlands limitation at the World Cup 👀 | ESPN FC",
+      "videoId": "1JU06T1D7gg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Netherlands"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/1JU06T1D7gg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Should Deniz Undav start in Germany's next match after major performance vs. Ivory Coast? | ESPN FC",
+      "videoId": "VPo59z0Vx3E",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Germany",
+        "Ivory Coast"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/VPo59z0Vx3E/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Uzbekistan vs Colombia"
@@ -406,109 +475,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/JhRITKJcM5M/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Netherlands vs. Sweden Reaction: Can the Dutch compete with the best in the world? | ESPN FC",
-      "videoId": "iq3NSNjvP-s",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
-      "category": "Viral",
-      "team": [
-        "Netherlands",
-        "Sweden"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/iq3NSNjvP-s/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Elite skills 🔥 (via stefvangi21/TT)",
-      "videoId": "_i5WsZQ6X00",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_i5WsZQ6X00/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Pedri’s showing off his magic🤩⚽️🪄 (Via @sefutbol/IG)",
-      "videoId": "vrK3HTIssEc",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vrK3HTIssEc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Wait for the switch up 🤣 (via @rek.1006/X)",
-      "videoId": "oxNptgnwqHM",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/oxNptgnwqHM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "🤣🤣🤣 (via @elmo/X)",
-      "videoId": "77efi5tm9EY",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/77efi5tm9EY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "What's the CEILING for USMNT after back-to-back wins? 📈 'MOMENTUM!' - Jermaine Jones | SportsCenter",
-      "videoId": "yIcHOQIZiXw",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/yIcHOQIZiXw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "United States ADVANCE to Round of 32 📈 Brazil UNDERPERFORMING? 😮 & MORE! | ESPN FC",
-      "videoId": "dXvNoTiOoY8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Brazil"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/dXvNoTiOoY8/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Argentina vs Algeria"
