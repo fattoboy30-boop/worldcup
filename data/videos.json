@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-06-21T10:32:53.503Z",
+  "lastUpdated": "2026-06-21T11:56:43.322Z",
   "featured": {
-    "match": "1BUBqTPy6kA",
-    "highlight": "1BUBqTPy6kA",
+    "match": "XoWwl870Rg0",
+    "highlight": "XoWwl870Rg0",
     "interview": "mTo-sh9B26w"
   },
   "videos": [
+    {
+      "title": "FIFA World Cup 2026 live - Watch FIFA World Cup 2026",
+      "videoId": "XoWwl870Rg0",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "South Korea"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/XoWwl870Rg0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea",
+      "source": "match-search"
+    },
     {
       "title": "Post-Match Press Conference: Tunisia's Hervé Renard On 4-0 Loss To Japan",
       "videoId": "1BUBqTPy6kA",
