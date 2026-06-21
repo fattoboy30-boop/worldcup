@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T16:12:35.708Z",
+  "lastUpdated": "2026-06-21T16:47:57.347Z",
   "fixtures": [
     {
       "id": 760415,
@@ -908,7 +908,7 @@
       "utcDate": "2026-06-21T16:00Z",
       "homeTeam": "Spain",
       "homeCode": "es",
-      "homeScore": 1,
+      "homeScore": 3,
       "awayTeam": "Saudi Arabia",
       "awayCode": "sa",
       "awayScore": 0,
@@ -918,7 +918,7 @@
       "group": "H",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "12'",
+      "minute": "45'+2'",
       "halfTime": [
         null,
         null
