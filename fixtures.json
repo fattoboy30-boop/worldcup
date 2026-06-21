@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T00:05:05.394Z",
+  "lastUpdated": "2026-06-21T02:07:30.200Z",
   "fixtures": [
     {
       "id": 760415,
@@ -864,11 +864,11 @@
       "awayScore": 0,
       "venue": "GEHA Field at Arrowhead Stadium",
       "city": "Kansas City, Missouri",
-      "status": "in_play",
+      "status": "finished",
       "group": "E",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "4'",
+      "minute": null,
       "halfTime": [
         null,
         null
