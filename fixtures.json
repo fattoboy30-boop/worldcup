@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T20:54:52.296Z",
+  "lastUpdated": "2026-06-21T21:38:27.381Z",
   "fixtures": [
     {
       "id": 760415,
@@ -939,11 +939,11 @@
       "awayScore": 0,
       "venue": "SoFi Stadium",
       "city": "Inglewood, California",
-      "status": "in_play",
+      "status": "finished",
       "group": "G",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "89'",
+      "minute": null,
       "halfTime": [
         null,
         null
