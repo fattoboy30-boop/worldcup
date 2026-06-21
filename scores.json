@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-20T23:48:07.212Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-06-21T00:05:05.390Z",
+  "liveMatches": [
+    {
+      "id": 760446,
+      "date": "2026-06-21",
+      "time": "00:00",
+      "utcDate": "2026-06-21T00:00Z",
+      "homeTeam": "Ecuador",
+      "homeCode": "ec",
+      "homeScore": 0,
+      "awayTeam": "Curaçao",
+      "awayCode": "un",
+      "awayScore": 0,
+      "venue": "GEHA Field at Arrowhead Stadium",
+      "city": "Kansas City, Missouri",
+      "status": "in_play",
+      "group": "E",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "4'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -786,29 +810,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760446,
-      "date": "2026-06-21",
-      "time": "00:00",
-      "utcDate": "2026-06-21T00:00Z",
-      "homeTeam": "Ecuador",
-      "homeCode": "ec",
-      "homeScore": 0,
-      "awayTeam": "Curaçao",
-      "awayCode": "un",
-      "awayScore": 0,
-      "venue": "GEHA Field at Arrowhead Stadium",
-      "city": "Kansas City, Missouri",
-      "status": "timed",
-      "group": "E",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760449,
       "date": "2026-06-21",
