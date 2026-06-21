@@ -1,11 +1,49 @@
 {
-  "lastUpdated": "2026-06-21T19:48:27.661Z",
+  "lastUpdated": "2026-06-21T20:55:39.971Z",
   "featured": {
-    "match": "tm1PRvtp1PM",
-    "highlight": "tm1PRvtp1PM",
+    "match": "XoWwl870Rg0",
+    "highlight": "XoWwl870Rg0",
     "interview": "rAM78T0FJmQ"
   },
   "videos": [
+    {
+      "title": "Highlights | Mexico 1-0 South Korea | FIFA World Cup 2026",
+      "videoId": "XoWwl870Rg0",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "South Korea",
+        "Mexico",
+        "Korea"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/XoWwl870Rg0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea",
+      "source": "match-search"
+    },
+    {
+      "title": "MEXICO vs SOUTH KOREA 1-0 | 2026 FIFA World Cup | Match Highlights",
+      "videoId": "Y36jrcE5J6k",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "South Korea",
+        "Mexico",
+        "Korea"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Y36jrcE5J6k/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea",
+      "source": "match-search"
+    },
     {
       "title": "Highlights | Netherlands 5-1 Sweden | FIFA World Cup 2026™",
       "videoId": "tm1PRvtp1PM",
