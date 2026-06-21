@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T05:18:23.761Z",
+  "lastUpdated": "2026-06-21T07:04:56.847Z",
   "fixtures": [
     {
       "id": 760415,
@@ -886,14 +886,14 @@
       "homeScore": 0,
       "awayTeam": "Japan",
       "awayCode": "jp",
-      "awayScore": 2,
+      "awayScore": 4,
       "venue": "Estadio BBVA",
       "city": "Guadalupe",
-      "status": "in_play",
+      "status": "finished",
       "group": "F",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "58'",
+      "minute": null,
       "halfTime": [
         null,
         null
