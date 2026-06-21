@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-21T02:07:30.197Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-06-21T05:18:23.758Z",
+  "liveMatches": [
+    {
+      "id": 760449,
+      "date": "2026-06-21",
+      "time": "04:00",
+      "utcDate": "2026-06-21T04:00Z",
+      "homeTeam": "Tunisia",
+      "homeCode": "tn",
+      "homeScore": 0,
+      "awayTeam": "Japan",
+      "awayCode": "jp",
+      "awayScore": 2,
+      "venue": "Estadio BBVA",
+      "city": "Guadalupe",
+      "status": "in_play",
+      "group": "F",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "58'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -809,29 +833,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760449,
-      "date": "2026-06-21",
-      "time": "04:00",
-      "utcDate": "2026-06-21T04:00Z",
-      "homeTeam": "Tunisia",
-      "homeCode": "tn",
-      "homeScore": 0,
-      "awayTeam": "Japan",
-      "awayCode": "jp",
-      "awayScore": 0,
-      "venue": "Estadio BBVA",
-      "city": "Guadalupe",
-      "status": "timed",
-      "group": "F",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760453,
       "date": "2026-06-21",
@@ -1711,8 +1712,8 @@
       "date": "2026-06-29",
       "time": "20:30",
       "utcDate": "2026-06-29T20:30Z",
-      "homeTeam": "Group E Winner",
-      "homeCode": "un",
+      "homeTeam": "Germany",
+      "homeCode": "de",
       "homeScore": 0,
       "awayTeam": "Third Place Group A/B/C/D/F",
       "awayCode": "un",
@@ -1720,7 +1721,7 @@
       "venue": "Gillette Stadium",
       "city": "Foxborough, Massachusetts",
       "status": "timed",
-      "group": null,
+      "group": "E",
       "stage": "ROUND_OF_32",
       "matchday": 0,
       "minute": null,

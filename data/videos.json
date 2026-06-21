@@ -1,11 +1,48 @@
 {
-  "lastUpdated": "2026-06-21T00:11:52.989Z",
+  "lastUpdated": "2026-06-21T05:19:02.191Z",
   "featured": {
-    "match": "Ya49Wa_nOBM",
-    "highlight": "Ya49Wa_nOBM",
+    "match": "XoWwl870Rg0",
+    "highlight": "XoWwl870Rg0",
     "interview": "JhRITKJcM5M"
   },
   "videos": [
+    {
+      "title": "FIFA World Cup 2026 live - Watch FIFA World Cup 2026",
+      "videoId": "XoWwl870Rg0",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "South Korea"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/XoWwl870Rg0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea",
+      "source": "match-search"
+    },
+    {
+      "title": "Highlights | Mexico 1-0 South Korea | FIFA World Cup 2026",
+      "videoId": "Z--9xjX8lbU",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "South Korea",
+        "Mexico",
+        "Korea"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Z--9xjX8lbU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea",
+      "source": "match-search"
+    },
     {
       "title": "Cabo Verde On Playing Uruguay | Bubista & Garry Rodrigues Answer Questions",
       "videoId": "Ya49Wa_nOBM",
