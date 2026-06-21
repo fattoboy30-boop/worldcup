@@ -1,47 +1,26 @@
 {
-  "lastUpdated": "2026-06-21T16:13:21.993Z",
+  "lastUpdated": "2026-06-21T17:44:37.248Z",
   "featured": {
-    "match": "XoWwl870Rg0",
-    "highlight": "XoWwl870Rg0",
+    "match": "pQfYT14uivI",
+    "highlight": "pQfYT14uivI",
     "interview": "rAM78T0FJmQ"
   },
   "videos": [
     {
-      "title": "Try it free - Watch FIFA World Cup 2026",
-      "videoId": "XoWwl870Rg0",
-      "channel": "Web Search",
+      "title": "Team Feature: Algeria | Rayan Aït-Nouri: \"I Dreamed About Playing for Algeria\"",
+      "videoId": "pQfYT14uivI",
+      "channel": "FIFA",
       "publishedAt": "2026-06-21",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "South Korea"
+        "Algeria"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/XoWwl870Rg0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/pQfYT14uivI/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea",
-      "source": "match-search"
-    },
-    {
-      "title": "Highlights | Mexico 1-0 South Korea | FIFA World Cup 2026",
-      "videoId": "igQo36nrUeM",
-      "channel": "Web Search",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [
-        "South Korea",
-        "Mexico",
-        "Korea"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/igQo36nrUeM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea",
-      "source": "match-search"
+      "fixtureTeams": "Uzbekistan vs Colombia"
     },
     {
       "title": "Team Feature: Senegal | Pape Thiaw: \"Squad Will Give Everything For Their Country\"",
@@ -271,18 +250,49 @@
       "fixtureTeams": "Uzbekistan vs Colombia"
     },
     {
-      "title": "Post-Match Interviews: Tunisia 0-4 Japan",
-      "videoId": "HCecB0p5KRw",
-      "channel": "FIFA",
+      "title": "Gab & Juls back Ivory Coast to OUTLAST Germany at the World Cup 👀 | ESPN FC",
+      "videoId": "IKXy3Btu1_E",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-21",
       "category": "Highlights",
       "team": [
-        "Japan",
-        "Tunisia"
+        "Germany",
+        "Ivory Coast"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/HCecB0p5KRw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/IKXy3Btu1_E/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Goncalo Ramos turned 25! 🥳",
+      "videoId": "WzUzqK-liIA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/WzUzqK-liIA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Christian Pulisic’s status uncertain vs. Turkiye + Will Spain bounce back vs. Saudi Arabia? | SC",
+      "videoId": "LZQKy-JArk4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Saudi Arabia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/LZQKy-JArk4/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Uzbekistan vs Colombia"
@@ -470,51 +480,6 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "Gavi loved that 😂 (via @jeffcandrive/IG)",
-      "videoId": "Ln5YeVl9-ww",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Ln5YeVl9-ww/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Miguel Almirón sent off for covering his mouth 😳 Breaking down FIFA’s new rule | ESPN FC",
-      "videoId": "kVbzUmKT4Yk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/kVbzUmKT4Yk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "FULL REACTION to Germany’s LATE COMEBACK vs. Ivory Coast 🍿 2026 World Cup | ESPN FC",
-      "videoId": "JhRITKJcM5M",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
-      "category": "Viral",
-      "team": [
-        "Germany",
-        "Ivory Coast"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/JhRITKJcM5M/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
     }
   ]
 }
