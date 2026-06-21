@@ -1,28 +1,124 @@
 {
-  "lastUpdated": "2026-06-21T11:56:43.322Z",
+  "lastUpdated": "2026-06-21T13:09:54.572Z",
   "featured": {
-    "match": "XoWwl870Rg0",
-    "highlight": "XoWwl870Rg0",
+    "match": "I5Y-f7tk7Jg",
+    "highlight": "I5Y-f7tk7Jg",
     "interview": "mTo-sh9B26w"
   },
   "videos": [
     {
-      "title": "FIFA World Cup 2026 live - Watch FIFA World Cup 2026",
-      "videoId": "XoWwl870Rg0",
-      "channel": "Web Search",
+      "title": "Team Feature: France | The Parisian Stars Lighting Up The World Cup",
+      "videoId": "I5Y-f7tk7Jg",
+      "channel": "FIFA",
       "publishedAt": "2026-06-21",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "South Korea"
+        "France"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/XoWwl870Rg0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/I5Y-f7tk7Jg/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea",
-      "source": "match-search"
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Team Feature: Argentina | Savouring Every Moment with Messi",
+      "videoId": "e4GIRXOPegs",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/e4GIRXOPegs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Alt Cast Highlights: Germany v Côte d'Ivoire | FIFA World Cup 2026™",
+      "videoId": "0SR4xt1SzOg",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Germany"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0SR4xt1SzOg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Team Feature: Austria | Sabitzer: \"The End Hasn't Been Written Yet\"",
+      "videoId": "jJNGwSEV8O4",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jJNGwSEV8O4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Egypt Train Before New Zealand",
+      "videoId": "ycpCkzzmFew",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ycpCkzzmFew/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Alt Cast Highlights: Netherlands v Sweden | FIFA World Cup 2026™",
+      "videoId": "F89wdvGi0Jc",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Sweden"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/F89wdvGi0Jc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Post-Match Press Conference: Japan's Hajime Moriyasu On 4-0 Win Over Tunisia",
+      "videoId": "GQ4-E38owiw",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Japan",
+        "Tunisia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/GQ4-E38owiw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
     },
     {
       "title": "Post-Match Press Conference: Tunisia's Hervé Renard On 4-0 Loss To Japan",
@@ -157,114 +253,15 @@
       "fixtureTeams": "Uzbekistan vs Colombia"
     },
     {
-      "title": "Ayase Ueda scores a brace against Tunisia. #FIFAWorldCup #FIFAWorldCupOnYT",
-      "videoId": "o9HkGGPCMIw",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [
-        "Tunisia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/o9HkGGPCMIw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "15-Minute Match: Scotland vs Brazil | 1982 Comeback",
-      "videoId": "Xdl67Y_Ejzk",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Scotland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Xdl67Y_Ejzk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "Kamada scored the first goal for Japan against Tunisia. #FIFAWorldCup #FIFAWorldCupOnYT",
-      "videoId": "TEoPhvbJ--g",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [
-        "Japan",
-        "Tunisia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/TEoPhvbJ--g/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "Tunisia 🆚 Japan #FIFAWorldCupOnYT",
-      "videoId": "lbtM4KG7Xq0",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [
-        "Japan",
-        "Tunisia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/lbtM4KG7Xq0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "June 20 Matchday Recap | #FIFAWorldCup ‪@aramco ​",
-      "videoId": "wD9BRmFAv7g",
-      "channel": "FIFA",
+      "title": "Can Fernando Morientes name the starting XI from the 2000 UCL final? 🤔",
+      "videoId": "h8Pmt5-4quM",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-21",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/wD9BRmFAv7g/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "Highlights | Turkiye 0-1 Paraguay | FIFA World Cup 2026™",
-      "videoId": "atWtyemTWQ0",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/atWtyemTWQ0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "Eloy Room and Defense Comes Up Clutch | Ecuador 0-0 Curaçao | FIFA World Cup 2026™",
-      "videoId": "Vi9aB_KB9X0",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Vi9aB_KB9X0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/h8Pmt5-4quM/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Uzbekistan vs Colombia"
@@ -474,20 +471,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/dXvNoTiOoY8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Could Raphinha miss the rest of the WC? 😮",
-      "videoId": "1_Xn5u98YaA",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/1_Xn5u98YaA/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Argentina vs Algeria"
