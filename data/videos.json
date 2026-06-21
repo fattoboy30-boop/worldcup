@@ -1,44 +1,140 @@
 {
-  "lastUpdated": "2026-06-20T22:50:42.041Z",
+  "lastUpdated": "2026-06-21T00:11:52.989Z",
   "featured": {
-    "match": "fPZ1HcZFVNA",
-    "highlight": "fPZ1HcZFVNA",
-    "interview": "iq3NSNjvP-s"
+    "match": "Ya49Wa_nOBM",
+    "highlight": "Ya49Wa_nOBM",
+    "interview": "JhRITKJcM5M"
   },
   "videos": [
     {
-      "title": "COLOMBIA vs UZBEKISTAN 3-1 | FIFA World Cup 2026 Full Highlights",
-      "videoId": "fPZ1HcZFVNA",
-      "channel": "Web Search",
-      "publishedAt": "2026-06-20",
+      "title": "Cabo Verde On Playing Uruguay | Bubista & Garry Rodrigues Answer Questions",
+      "videoId": "Ya49Wa_nOBM",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
       "category": "Highlights",
       "team": [
-        "Colombia"
+        "Uruguay"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fPZ1HcZFVNA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Ya49Wa_nOBM/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia",
-      "source": "match-search"
+      "fixtureTeams": "Uzbekistan vs Colombia"
     },
     {
-      "title": "Uzbekistan vs Colombia | Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "DzF90Cs8ilU",
-      "channel": "Web Search",
+      "title": "Germany 🆚 Côte d'Ivoire#FIFAWorldCup #FIFAWorldCupOnYT",
+      "videoId": "zBZTYl8iQI0",
+      "channel": "FIFA",
       "publishedAt": "2026-06-20",
       "category": "Highlights",
       "team": [
-        "Colombia"
+        "Germany"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/DzF90Cs8ilU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/zBZTYl8iQI0/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia",
-      "source": "match-search"
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Post-Match Player Interviews: Germany 2-1 Cote d'Ivoire",
+      "videoId": "Bl2aOAZDjU8",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Germany"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Bl2aOAZDjU8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Post-Match Press Conference: Germany's Julian Nagelsmann On 2-1 Win Over Cote d'Ivoire",
+      "videoId": "pYkRbrF3T9M",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Germany"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/pYkRbrF3T9M/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "New Zealand On Playing Egypt | Darren Bazeley & Chris Wood Take Questions",
+      "videoId": "CzgSq_cKFeY",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/CzgSq_cKFeY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Belgium On Playing IR Iran | Rudi Garcia & Thomas Meunier Answer Questions",
+      "videoId": "PfG8EvUumsA",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Belgium",
+        "Iran"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/PfG8EvUumsA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "Spain On Playing Saudi Arabia | Luis de la Fuente Answers Questions",
+      "videoId": "aPwC0k_Ej8w",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Saudi Arabia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/aPwC0k_Ej8w/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
+    },
+    {
+      "title": "WATCH LIVE | Germany v Côte d'Ivoire | Group Stage E | FIFA World Cup 2026™",
+      "videoId": "vahr3S9_E5k",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-20",
+      "category": "Highlights",
+      "team": [
+        "Germany"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vahr3S9_E5k/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Argentina vs Algeria"
     },
     {
       "title": "Crysencio Summerville Goal | Netherlands 5-1 Sweden | FIFA World Cup 2026™",
@@ -158,117 +254,46 @@
       "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "Double nutmeg. 🇺🇸✨#FIFAWorldCup #Kia #InspirationConnectsUsAll",
-      "videoId": "sqF3DozNaN0",
-      "channel": "FIFA",
+      "title": "Gavi loved that 😂 (via @jeffcandrive/IG)",
+      "videoId": "Ln5YeVl9-ww",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-20",
       "category": "Highlights",
-      "team": [
-        "USA"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/sqF3DozNaN0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Ln5YeVl9-ww/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "Post-Match Press Conference: Sweden's Graham Potter On 5-1 Loss To The Netherlands",
-      "videoId": "cifYTqPEUgI",
-      "channel": "FIFA",
+      "title": "Miguel Almirón sent off for covering his mouth 😳 Breaking down FIFA’s new rule | ESPN FC",
+      "videoId": "kVbzUmKT4Yk",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-20",
       "category": "Highlights",
-      "team": [
-        "Netherlands",
-        "Sweden"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/cifYTqPEUgI/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/kVbzUmKT4Yk/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "Netherlands 🆚 Sweden #FIFAWorldCupOnYT #shorts #worldcup",
-      "videoId": "sstDWiMT884",
-      "channel": "FIFA",
+      "title": "FULL REACTION to Germany’s LATE COMEBACK vs. Ivory Coast 🍿 2026 World Cup | ESPN FC",
+      "videoId": "JhRITKJcM5M",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-20",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [
-        "Netherlands",
-        "Sweden"
+        "Germany",
+        "Ivory Coast"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/sstDWiMT884/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Post-Match Interviews: Netherlands 5-1 Sweden",
-      "videoId": "7jXt6IWE6qg",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Netherlands",
-        "Sweden"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7jXt6IWE6qg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "New Zealand Train Before Egypt | FIFA World Cup 2026™",
-      "videoId": "XMEHLvnj0Qo",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/XMEHLvnj0Qo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Belgium Train Before IR Iran | FIFA World Cup 2026™",
-      "videoId": "ccFmvxBylPo",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Belgium",
-        "Iran"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ccFmvxBylPo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Cabo Verde Train Before Uruguay | FIFA World Cup 2026™",
-      "videoId": "_3B9qPVQYb0",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Uruguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_3B9qPVQYb0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/JhRITKJcM5M/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Argentina vs Algeria"
@@ -391,7 +416,7 @@
       "fixtureTeams": "Argentina vs Algeria"
     },
     {
-      "title": "Germany vs. Ivory Coast PREVIEW 🇩🇪🇨🇮 Archie Rhind-Tutt shares on Germany's mentality | ESPN FC",
+      "title": "Germany vs. Ivory Coast PREVIEW 🇩🇪🇨�� Archie Rhind-Tutt shares on Germany's mentality | ESPN FC",
       "videoId": "VLmZF_8cVuA",
       "channel": "ESPN FC",
       "publishedAt": "2026-06-20",
@@ -453,66 +478,6 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Miguel Almiron becomes the FIRST PLAYER to receive a red card for covering mouth 🚨 | ESPN FC",
-      "videoId": "c7QfLong47c",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/c7QfLong47c/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "This is how the Brazilians celebrated the goal ⚽️🤩🇧🇷",
-      "videoId": "YmkryPDz1VA",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Brazil"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/YmkryPDz1VA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "The Scots take over the ports in Boston ��󠁧󠁢󠁳󠁣󠁴󠁿⚽ (🎥 via Martyn Ewart)",
-      "videoId": "bZokHiscllk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/bZokHiscllk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "WATCH LIVE | Germany v Côte d'Ivoire | Group Stage E | FIFA World Cup 2026™",
-      "videoId": "vahr3S9_E5k",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-10",
-      "category": "Highlights",
-      "team": [
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vahr3S9_E5k/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
     }
   ]
 }
