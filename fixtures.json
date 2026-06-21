@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T14:58:03.923Z",
+  "lastUpdated": "2026-06-21T16:12:35.708Z",
   "fixtures": [
     {
       "id": 760415,
@@ -908,17 +908,17 @@
       "utcDate": "2026-06-21T16:00Z",
       "homeTeam": "Spain",
       "homeCode": "es",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayTeam": "Saudi Arabia",
       "awayCode": "sa",
       "awayScore": 0,
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta, Georgia",
-      "status": "timed",
+      "status": "in_play",
       "group": "H",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "12'",
       "halfTime": [
         null,
         null
