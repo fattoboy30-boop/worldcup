@@ -1,47 +1,223 @@
 {
-  "lastUpdated": "2026-06-21T09:08:41.495Z",
+  "lastUpdated": "2026-06-21T10:32:53.503Z",
   "featured": {
-    "match": "XoWwl870Rg0",
-    "highlight": "XoWwl870Rg0",
-    "interview": "LfHkYm1dr8U"
+    "match": "1BUBqTPy6kA",
+    "highlight": "1BUBqTPy6kA",
+    "interview": "mTo-sh9B26w"
   },
   "videos": [
     {
-      "title": "FIFA World Cup 2026 live - Watch FIFA World Cup 2026",
-      "videoId": "XoWwl870Rg0",
-      "channel": "Web Search",
+      "title": "Post-Match Press Conference: Tunisia's Hervé Renard On 4-0 Loss To Japan",
+      "videoId": "1BUBqTPy6kA",
+      "channel": "FIFA",
       "publishedAt": "2026-06-21",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "South Korea"
+        "Japan",
+        "Tunisia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/XoWwl870Rg0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/1BUBqTPy6kA/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea",
-      "source": "match-search"
+      "fixtureTeams": "Uzbekistan vs Colombia"
     },
     {
-      "title": "Highlights | Mexico 1-0 South Korea | FIFA World Cup 2026",
-      "videoId": "Z--9xjX8lbU",
-      "channel": "Web Search",
+      "title": "Post-Match Interviews: Tunisia 0-4 Japan",
+      "videoId": "HCecB0p5KRw",
+      "channel": "FIFA",
       "publishedAt": "2026-06-21",
       "category": "Highlights",
       "team": [
-        "South Korea",
-        "Mexico",
-        "Korea"
+        "Japan",
+        "Tunisia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Z--9xjX8lbU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/HCecB0p5KRw/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea",
-      "source": "match-search"
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Post-Match Press Conference: Ecuador's Sebastián Beccacece On 0-0 Draw With Curacao",
+      "videoId": "rb6g1IA9n3Q",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/rb6g1IA9n3Q/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Post-Match Press Conference: Curacao's Dick Advocaat And Eloy Room On 0-0 Draw Against Ecuador",
+      "videoId": "bLi28kEcR1M",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/bLi28kEcR1M/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Post-Match Interviews: Ecuador 0-0 Curacao",
+      "videoId": "v_FNz0mIMR4",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/v_FNz0mIMR4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Some skills deserve a second look. 👀 #FIFAWorldCup #Kia #InspirationConnectsUsAll",
+      "videoId": "mTo-sh9B26w",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
+      "category": "Viral",
+      "team": [
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/mTo-sh9B26w/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Ayase Ueda Incredible Goal | Tunisia 0-4 Japan | FIFA World Cup 2026™",
+      "videoId": "JkwF_OUGRw8",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
+      "category": "Viral",
+      "team": [
+        "Japan",
+        "Tunisia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JkwF_OUGRw8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Daichi Kamada Goal | Tunisia 0-4 Japan | FIFA World Cup 2026™",
+      "videoId": "tKySy2JfD_k",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Japan",
+        "Tunisia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tKySy2JfD_k/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Ayase Ueda scores a brace against Tunisia. #FIFAWorldCup #FIFAWorldCupOnYT",
+      "videoId": "o9HkGGPCMIw",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Tunisia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/o9HkGGPCMIw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "15-Minute Match: Scotland vs Brazil | 1982 Comeback",
+      "videoId": "Xdl67Y_Ejzk",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Scotland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Xdl67Y_Ejzk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Kamada scored the first goal for Japan against Tunisia. #FIFAWorldCup #FIFAWorldCupOnYT",
+      "videoId": "TEoPhvbJ--g",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Japan",
+        "Tunisia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/TEoPhvbJ--g/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Tunisia 🆚 Japan #FIFAWorldCupOnYT",
+      "videoId": "lbtM4KG7Xq0",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Japan",
+        "Tunisia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/lbtM4KG7Xq0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "June 20 Matchday Recap | #FIFAWorldCup ‪@aramco ​",
+      "videoId": "wD9BRmFAv7g",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/wD9BRmFAv7g/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
     },
     {
       "title": "Highlights | Turkiye 0-1 Paraguay | FIFA World Cup 2026™",
@@ -71,215 +247,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/Vi9aB_KB9X0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "Ecuador 🆚 Curaçao #FIFAWorldCup",
-      "videoId": "JCuBccqPOgw",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/JCuBccqPOgw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "Eloy Room's Incredible Save | Ecuador 0-0 Curaçao | FIFA World Cup 2026™",
-      "videoId": "LfHkYm1dr8U",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-21",
-      "category": "Viral",
-      "team": [
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/LfHkYm1dr8U/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "Curaçao’s defense stops Ecuador attempts. #FIFAWorldCupOnYT",
-      "videoId": "4RocbKM5Ozs",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/4RocbKM5Ozs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "Eloy Room saves Enner Valencia’s attempt for Ecuador. #FIFAWorldCupOnYT",
-      "videoId": "xXk4qPO1okU",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xXk4qPO1okU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "IR Iran Train Before Belgium | FIFA World Cup 2026™",
-      "videoId": "OHFilZSgqjs",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [
-        "Belgium",
-        "Iran"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/OHFilZSgqjs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "Highlights | Brazil 3-0 Haiti | FIFA World Cup 2026™",
-      "videoId": "lz3_atghfmY",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Haiti"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/lz3_atghfmY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "Uruguay On Playing Cabo Verde | Marcelo Bielsa Takes Questions",
-      "videoId": "lmnE4DXm0jM",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [
-        "Uruguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/lmnE4DXm0jM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "Egypt On Playing New Zealand | Hossam Hassan Takes Questions",
-      "videoId": "ZWMiLPEcvCE",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ZWMiLPEcvCE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "Saudi Arabia On Playing Spain | Georgios Donis Takes Questions",
-      "videoId": "x2zcK31dUtY",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Saudi Arabia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/x2zcK31dUtY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "Franck Kessie Goal | Germany 2-1 Cote d'Ivoire | FIFA World Cup 2026™",
-      "videoId": "K13uN7tj3_k",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/K13uN7tj3_k/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "Deniz Undav Goal | Germany 2-1 Cote d'Ivoire | FIFA World Cup 2026™",
-      "videoId": "0U3EnYiaeYI",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/0U3EnYiaeYI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "Kessié finds the back of the net for! 🇨🇮 #FIFAWorldCupOnYT #worldcup #shorts",
-      "videoId": "eEUXTWt97tY",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/eEUXTWt97tY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "Germany's comeback completed thanks to Undav! 🇩🇪 #FIFAWorldCupOnYT #shorts #germany",
-      "videoId": "XiaiIFZgXAo",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/XiaiIFZgXAo/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Uzbekistan vs Colombia"
@@ -316,12 +283,14 @@
       "fixtureTeams": "Uzbekistan vs Colombia"
     },
     {
-      "title": "Stewart Robson thinks the Dutch could make a quarterfinal run in the World Cup | ESPN FC",
+      "title": "What is the Netherlands’ ceiling in the World Cup? | ESPN FC",
       "videoId": "oxbN1eUjX78",
       "channel": "ESPN FC",
       "publishedAt": "2026-06-21",
       "category": "Highlights",
-      "team": [],
+      "team": [
+        "Netherlands"
+      ],
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/oxbN1eUjX78/mqdefault.jpg",
