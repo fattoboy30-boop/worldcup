@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-21T18:11:53.385Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-06-21T19:28:42.511Z",
+  "liveMatches": [
+    {
+      "id": 760451,
+      "date": "2026-06-21",
+      "time": "19:00",
+      "utcDate": "2026-06-21T19:00Z",
+      "homeTeam": "Belgium",
+      "homeCode": "be",
+      "homeScore": 0,
+      "awayTeam": "Iran",
+      "awayCode": "ir",
+      "awayScore": 0,
+      "venue": "SoFi Stadium",
+      "city": "Inglewood, California",
+      "status": "in_play",
+      "group": "G",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "29'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -855,29 +879,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760451,
-      "date": "2026-06-21",
-      "time": "19:00",
-      "utcDate": "2026-06-21T19:00Z",
-      "homeTeam": "Belgium",
-      "homeCode": "be",
-      "homeScore": 0,
-      "awayTeam": "Iran",
-      "awayCode": "ir",
-      "awayScore": 0,
-      "venue": "SoFi Stadium",
-      "city": "Inglewood, California",
-      "status": "timed",
-      "group": "G",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760450,
       "date": "2026-06-21",
