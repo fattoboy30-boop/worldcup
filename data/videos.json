@@ -1,51 +1,144 @@
 {
-  "lastUpdated": "2026-06-21T05:19:02.191Z",
+  "lastUpdated": "2026-06-21T06:06:21.239Z",
   "featured": {
-    "match": "XoWwl870Rg0",
-    "highlight": "XoWwl870Rg0",
-    "interview": "JhRITKJcM5M"
+    "match": "atWtyemTWQ0",
+    "highlight": "atWtyemTWQ0",
+    "interview": "LfHkYm1dr8U"
   },
   "videos": [
     {
-      "title": "FIFA World Cup 2026 live - Watch FIFA World Cup 2026",
-      "videoId": "XoWwl870Rg0",
-      "channel": "Web Search",
+      "title": "Highlights | Turkiye 0-1 Paraguay | FIFA World Cup 2026™",
+      "videoId": "atWtyemTWQ0",
+      "channel": "FIFA",
       "publishedAt": "2026-06-21",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "South Korea"
+        "Paraguay"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/XoWwl870Rg0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/atWtyemTWQ0/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea",
-      "source": "match-search"
+      "fixtureTeams": "Uzbekistan vs Colombia"
     },
     {
-      "title": "Highlights | Mexico 1-0 South Korea | FIFA World Cup 2026",
-      "videoId": "Z--9xjX8lbU",
-      "channel": "Web Search",
+      "title": "Eloy Room and Defense Comes Up Clutch | Ecuador 0-0 Curaçao | FIFA World Cup 2026™",
+      "videoId": "Vi9aB_KB9X0",
+      "channel": "FIFA",
       "publishedAt": "2026-06-21",
       "category": "Highlights",
       "team": [
-        "South Korea",
-        "Mexico",
-        "Korea"
+        "Ecuador"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Z--9xjX8lbU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Vi9aB_KB9X0/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea",
-      "source": "match-search"
+      "fixtureTeams": "Uzbekistan vs Colombia"
     },
     {
-      "title": "Cabo Verde On Playing Uruguay | Bubista & Garry Rodrigues Answer Questions",
-      "videoId": "Ya49Wa_nOBM",
+      "title": "Ecuador 🆚 Curaçao #FIFAWorldCup",
+      "videoId": "JCuBccqPOgw",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JCuBccqPOgw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Eloy Room's Incredible Save | Ecuador 0-0 Curaçao | FIFA World Cup 2026™",
+      "videoId": "LfHkYm1dr8U",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
+      "category": "Viral",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/LfHkYm1dr8U/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Curaçao’s defense stops Ecuador attempts. #FIFAWorldCupOnYT",
+      "videoId": "4RocbKM5Ozs",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4RocbKM5Ozs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Eloy Room saves Enner Valencia’s attempt for Ecuador. #FIFAWorldCupOnYT",
+      "videoId": "xXk4qPO1okU",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xXk4qPO1okU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "IR Iran Train Before Belgium | FIFA World Cup 2026™",
+      "videoId": "OHFilZSgqjs",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Belgium",
+        "Iran"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/OHFilZSgqjs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Highlights | Brazil 3-0 Haiti | FIFA World Cup 2026™",
+      "videoId": "lz3_atghfmY",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Haiti"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/lz3_atghfmY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Uruguay On Playing Cabo Verde | Marcelo Bielsa Takes Questions",
+      "videoId": "lmnE4DXm0jM",
       "channel": "FIFA",
       "publishedAt": "2026-06-21",
       "category": "Highlights",
@@ -54,97 +147,32 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Ya49Wa_nOBM/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/lmnE4DXm0jM/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Uzbekistan vs Colombia"
     },
     {
-      "title": "Germany 🆚 Côte d'Ivoire#FIFAWorldCup #FIFAWorldCupOnYT",
-      "videoId": "zBZTYl8iQI0",
+      "title": "Egypt On Playing New Zealand | Hossam Hassan Takes Questions",
+      "videoId": "ZWMiLPEcvCE",
       "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/zBZTYl8iQI0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Post-Match Player Interviews: Germany 2-1 Cote d'Ivoire",
-      "videoId": "Bl2aOAZDjU8",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Bl2aOAZDjU8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Post-Match Press Conference: Germany's Julian Nagelsmann On 2-1 Win Over Cote d'Ivoire",
-      "videoId": "pYkRbrF3T9M",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/pYkRbrF3T9M/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "New Zealand On Playing Egypt | Darren Bazeley & Chris Wood Take Questions",
-      "videoId": "CzgSq_cKFeY",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
+      "publishedAt": "2026-06-21",
       "category": "Highlights",
       "team": [
         "Egypt"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/CzgSq_cKFeY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/ZWMiLPEcvCE/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
+      "fixtureTeams": "Uzbekistan vs Colombia"
     },
     {
-      "title": "Belgium On Playing IR Iran | Rudi Garcia & Thomas Meunier Answer Questions",
-      "videoId": "PfG8EvUumsA",
+      "title": "Saudi Arabia On Playing Spain | Georgios Donis Takes Questions",
+      "videoId": "x2zcK31dUtY",
       "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Belgium",
-        "Iran"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PfG8EvUumsA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Spain On Playing Saudi Arabia | Luis de la Fuente Answers Questions",
-      "videoId": "aPwC0k_Ej8w",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
+      "publishedAt": "2026-06-21",
       "category": "Highlights",
       "team": [
         "Spain",
@@ -152,143 +180,131 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/aPwC0k_Ej8w/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/x2zcK31dUtY/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
+      "fixtureTeams": "Uzbekistan vs Colombia"
     },
     {
-      "title": "WATCH LIVE | Germany v Côte d'Ivoire | Group Stage E | FIFA World Cup 2026™",
-      "videoId": "vahr3S9_E5k",
+      "title": "Franck Kessie Goal | Germany 2-1 Cote d'Ivoire | FIFA World Cup 2026™",
+      "videoId": "K13uN7tj3_k",
       "channel": "FIFA",
-      "publishedAt": "2026-06-20",
+      "publishedAt": "2026-06-21",
       "category": "Highlights",
       "team": [
         "Germany"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vahr3S9_E5k/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/K13uN7tj3_k/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
+      "fixtureTeams": "Uzbekistan vs Colombia"
     },
     {
-      "title": "Crysencio Summerville Goal | Netherlands 5-1 Sweden | FIFA World Cup 2026™",
-      "videoId": "3wwDIIWhJOU",
+      "title": "Deniz Undav Goal | Germany 2-1 Cote d'Ivoire | FIFA World Cup 2026™",
+      "videoId": "0U3EnYiaeYI",
       "channel": "FIFA",
-      "publishedAt": "2026-06-20",
+      "publishedAt": "2026-06-21",
       "category": "Highlights",
       "team": [
-        "Netherlands",
-        "Sweden"
+        "Germany"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/3wwDIIWhJOU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/0U3EnYiaeYI/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
+      "fixtureTeams": "Uzbekistan vs Colombia"
     },
     {
-      "title": "Cody Gakpo Goal | Netherlands 5-1 Sweden | FIFA World Cup 2026™",
-      "videoId": "rQcHfpKEppE",
+      "title": "Kessié finds the back of the net for! 🇨🇮 #FIFAWorldCupOnYT #worldcup #shorts",
+      "videoId": "eEUXTWt97tY",
       "channel": "FIFA",
-      "publishedAt": "2026-06-20",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/eEUXTWt97tY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Germany's comeback completed thanks to Undav! 🇩🇪 #FIFAWorldCupOnYT #shorts #germany",
+      "videoId": "XiaiIFZgXAo",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
       "category": "Highlights",
       "team": [
-        "Netherlands",
-        "Sweden"
+        "Germany"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/rQcHfpKEppE/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/XiaiIFZgXAo/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
+      "fixtureTeams": "Uzbekistan vs Colombia"
     },
     {
-      "title": "Summerville scores a golazo for the Netherlands! 🇳🇱#FIFAWorldCupOnYT #shorts #worldcup",
-      "videoId": "dMe0qC6T0PE",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
+      "title": "World Cup Reaction 👀 Germany rallies to win, Netherlands puts on a show | ESPN FC",
+      "videoId": "VB0AqZCF03Y",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-21",
+      "category": "Viral",
       "team": [
+        "Germany",
         "Netherlands"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/dMe0qC6T0PE/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/VB0AqZCF03Y/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
+      "fixtureTeams": "Uzbekistan vs Colombia"
     },
     {
-      "title": "Gakpo cuts in and buries it at the near post for Netherlands! ⚽🇳🇱#FIFAWorldCupOnYT #shorts",
-      "videoId": "N9Md09jVxXI",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
+      "title": "What is Trent Alexander-Arnold's next move after Real Madrid signed Denzel Dumfries? 🤔 | ESPN FC",
+      "videoId": "C7StA01El10",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-21",
       "category": "Highlights",
-      "team": [
-        "Netherlands"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/N9Md09jVxXI/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/C7StA01El10/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
+      "fixtureTeams": "Uzbekistan vs Colombia"
     },
     {
-      "title": "Highlights | USA 2-0 Australia | FIFA World Cup 2026™",
-      "videoId": "tXxvgvgMiRg",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
+      "title": "Stewart Robson thinks the Dutch could make a quarterfinal run in the World Cup | ESPN FC",
+      "videoId": "oxbN1eUjX78",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-21",
       "category": "Highlights",
-      "team": [
-        "USA",
-        "Australia"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/tXxvgvgMiRg/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/oxbN1eUjX78/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
+      "fixtureTeams": "Uzbekistan vs Colombia"
     },
     {
-      "title": "Saudi Arabia Train Before Spain | FIFA World Cup 2026™",
-      "videoId": "BERfrTiaeQs",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
+      "title": "How should Mauricio Pochettino approach USMNT’s game vs. Turkiye? | ESPN FC",
+      "videoId": "vN3VYQq2FjM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-21",
       "category": "Highlights",
-      "team": [
-        "Spain",
-        "Saudi Arabia"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/BERfrTiaeQs/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/vN3VYQq2FjM/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Post-Match Press Conference: Netherlands' Ronald Koeman On 5-1 Win Against Sweden",
-      "videoId": "ypQBv2aDYHw",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Netherlands",
-        "Sweden"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ypQBv2aDYHw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
+      "fixtureTeams": "Uzbekistan vs Colombia"
     },
     {
       "title": "Gavi loved that 😂 (via @jeffcandrive/IG)",
@@ -448,70 +464,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/1_Xn5u98YaA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Germany vs. Ivory Coast PREVIEW 🇩🇪🇨�� Archie Rhind-Tutt shares on Germany's mentality | ESPN FC",
-      "videoId": "VLmZF_8cVuA",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Germany",
-        "Ivory Coast"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/VLmZF_8cVuA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Reacting to Raphinha's injury vs. Haiti 👀 How important is it Brazil gets him back? | ESPN FC",
-      "videoId": "ykWw_OAt5WY",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Haiti"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ykWw_OAt5WY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "How far can USMNT go in the WC? 🤔",
-      "videoId": "MFjj5QIgcWg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/MFjj5QIgcWg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "USMNT vs. Australia Reaction ⚽ U.S. MOVING ON TO WORLD CUP KNOCKOUT STAGE | ESPN FC",
-      "videoId": "sKl-KU4U6Bk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
-      "category": "Viral",
-      "team": [
-        "Australia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/sKl-KU4U6Bk/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Argentina vs Algeria"
