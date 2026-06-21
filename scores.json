@@ -1,30 +1,6 @@
 {
-  "lastUpdated": "2026-06-21T17:53:57.313Z",
-  "liveMatches": [
-    {
-      "id": 760453,
-      "date": "2026-06-21",
-      "time": "16:00",
-      "utcDate": "2026-06-21T16:00Z",
-      "homeTeam": "Spain",
-      "homeCode": "es",
-      "homeScore": 4,
-      "awayTeam": "Saudi Arabia",
-      "awayCode": "sa",
-      "awayScore": 0,
-      "venue": "Mercedes-Benz Stadium",
-      "city": "Atlanta, Georgia",
-      "status": "in_play",
-      "group": "H",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": "90'+1'",
-      "halfTime": [
-        null,
-        null
-      ]
-    }
-  ],
+  "lastUpdated": "2026-06-21T18:11:53.385Z",
+  "liveMatches": [],
   "recentResults": [
     {
       "id": 760415,
@@ -846,6 +822,29 @@
       "city": "Guadalupe",
       "status": "finished",
       "group": "F",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": null,
+      "halfTime": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": 760453,
+      "date": "2026-06-21",
+      "time": "16:00",
+      "utcDate": "2026-06-21T16:00Z",
+      "homeTeam": "Spain",
+      "homeCode": "es",
+      "homeScore": 4,
+      "awayTeam": "Saudi Arabia",
+      "awayCode": "sa",
+      "awayScore": 0,
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta, Georgia",
+      "status": "finished",
+      "group": "H",
       "stage": "GROUP_STAGE",
       "matchday": 0,
       "minute": null,
