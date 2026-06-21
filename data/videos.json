@@ -1,11 +1,49 @@
 {
-  "lastUpdated": "2026-06-21T23:18:32.704Z",
+  "lastUpdated": "2026-06-21T23:47:40.391Z",
   "featured": {
-    "match": "xhEESuBqtvw",
-    "highlight": "xhEESuBqtvw",
+    "match": "_46-905M5Ig",
+    "highlight": "_46-905M5Ig",
     "interview": "qnfn0L7SUno"
   },
   "videos": [
+    {
+      "title": "Mexico vs South Korea | Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "_46-905M5Ig",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "South Korea",
+        "Mexico",
+        "Korea"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_46-905M5Ig/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea",
+      "source": "match-search"
+    },
+    {
+      "title": "Highlights | Mexico 1-0 South Korea | FIFA World Cup 2026",
+      "videoId": "XoWwl870Rg0",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "South Korea",
+        "Mexico",
+        "Korea"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/XoWwl870Rg0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea",
+      "source": "match-search"
+    },
     {
       "title": "21 June 2026",
       "videoId": "xhEESuBqtvw",

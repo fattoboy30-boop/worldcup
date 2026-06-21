@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T22:47:30.581Z",
+  "lastUpdated": "2026-06-21T23:46:49.992Z",
   "fixtures": [
     {
       "id": 760415,
@@ -958,17 +958,17 @@
       "utcDate": "2026-06-21T22:00Z",
       "homeTeam": "Uruguay",
       "homeCode": "uy",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayTeam": "Cape Verde",
       "awayCode": "un",
-      "awayScore": 1,
+      "awayScore": 2,
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens, Florida",
       "status": "in_play",
       "group": "H",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "45'+1'",
+      "minute": "81'",
       "halfTime": [
         null,
         null
