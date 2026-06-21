@@ -1,11 +1,49 @@
 {
-  "lastUpdated": "2026-06-21T17:44:37.248Z",
+  "lastUpdated": "2026-06-21T17:54:43.146Z",
   "featured": {
-    "match": "pQfYT14uivI",
-    "highlight": "pQfYT14uivI",
+    "match": "1uDlwg4SJnw",
+    "highlight": "1uDlwg4SJnw",
     "interview": "rAM78T0FJmQ"
   },
   "videos": [
+    {
+      "title": "Mexico vs South Korea 1-0 Highlights & Goals FIFA World Cup 2026",
+      "videoId": "1uDlwg4SJnw",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "South Korea",
+        "Mexico",
+        "Korea"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/1uDlwg4SJnw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea",
+      "source": "match-search"
+    },
+    {
+      "title": "Highlights | Mexico 1-0 South Korea | FIFA World Cup 2026",
+      "videoId": "XoWwl870Rg0",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "South Korea",
+        "Mexico",
+        "Korea"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/XoWwl870Rg0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea",
+      "source": "match-search"
+    },
     {
       "title": "Team Feature: Algeria | Rayan Aït-Nouri: \"I Dreamed About Playing for Algeria\"",
       "videoId": "pQfYT14uivI",
