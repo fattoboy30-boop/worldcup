@@ -1,48 +1,108 @@
 {
-  "lastUpdated": "2026-06-21T20:55:39.971Z",
+  "lastUpdated": "2026-06-21T21:18:35.246Z",
   "featured": {
-    "match": "XoWwl870Rg0",
-    "highlight": "XoWwl870Rg0",
+    "match": "ON8atOpTQzk",
+    "highlight": "ON8atOpTQzk",
     "interview": "rAM78T0FJmQ"
   },
   "videos": [
     {
-      "title": "Highlights | Mexico 1-0 South Korea | FIFA World Cup 2026",
-      "videoId": "XoWwl870Rg0",
-      "channel": "Web Search",
+      "title": "21 June 2026",
+      "videoId": "ON8atOpTQzk",
+      "channel": "FIFA",
       "publishedAt": "2026-06-21",
       "category": "Highlights",
-      "team": [
-        "South Korea",
-        "Mexico",
-        "Korea"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/XoWwl870Rg0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/ON8atOpTQzk/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea",
-      "source": "match-search"
+      "fixtureTeams": "Uzbekistan vs Colombia"
     },
     {
-      "title": "MEXICO vs SOUTH KOREA 1-0 | 2026 FIFA World Cup | Match Highlights",
-      "videoId": "Y36jrcE5J6k",
-      "channel": "Web Search",
+      "title": "Oyarzabal scores twice for Spain at the #FIFAWorldCupOnYT.  ⚽⚽",
+      "videoId": "uzeh3ZudEGw",
+      "channel": "FIFA",
       "publishedAt": "2026-06-21",
       "category": "Highlights",
       "team": [
-        "South Korea",
-        "Mexico",
-        "Korea"
+        "Spain"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Y36jrcE5J6k/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/uzeh3ZudEGw/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea",
-      "source": "match-search"
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Senegal On Playing Norway | Pape Thiaw & Mory Diaw Answer Questions",
+      "videoId": "3cW0mKJJprE",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Senegal",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/3cW0mKJJprE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Post-Match Player Interviews: Spain 4-0 Saudi Arabia",
+      "videoId": "ZHygEN0av9M",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Saudi Arabia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ZHygEN0av9M/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Spain 🆚 Saudi Arabia #FIFAWorldCupOnYT",
+      "videoId": "4oymRggrWbA",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Saudi Arabia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4oymRggrWbA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
+    },
+    {
+      "title": "Post-Match Press Conference: Spain's Luis de la Fuente On 4-0 Win Over Saudi Arabia",
+      "videoId": "VIFxEYyCoy4",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-21",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Saudi Arabia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/VIFxEYyCoy4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Uzbekistan vs Colombia"
     },
     {
       "title": "Highlights | Netherlands 5-1 Sweden | FIFA World Cup 2026™",
@@ -192,97 +252,17 @@
       "fixtureTeams": "Uzbekistan vs Colombia"
     },
     {
-      "title": "Alt Cast Highlights: Tunisia v Japan | FIFA World Cup 2026™",
-      "videoId": "798Cx7JXIcM",
-      "channel": "FIFA",
+      "title": "Saudi fans after drawing with Uruguay their first match 😅 (via lamineyamal/IG, benblackfootball/TT)",
+      "videoId": "3_FSwCt07H4",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-21",
       "category": "Highlights",
       "team": [
-        "Japan",
-        "Tunisia"
+        "Uruguay"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/798Cx7JXIcM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "IR Iran On Playing Belgium | Amir Ghalenoei And Saeed Ezatolahi Take Questions",
-      "videoId": "-Dsa8SyiZTw",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [
-        "Belgium",
-        "Iran"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-Dsa8SyiZTw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "Team Feature: Iraq | Jorvan Vieira \"You Are Our Legend\"",
-      "videoId": "5UBZpjjYHRU",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/5UBZpjjYHRU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "Alt Cast Highlights: Ecuador v Curaçao | FIFA World Cup 2026™",
-      "videoId": "7PJzrYC9eXc",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7PJzrYC9eXc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "Team Feature: France | The Parisian Stars Lighting Up The World Cup",
-      "videoId": "I5Y-f7tk7Jg",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [
-        "France"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/I5Y-f7tk7Jg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "Team Feature: Argentina | Savouring Every Moment with Messi",
-      "videoId": "e4GIRXOPegs",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/e4GIRXOPegs/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/3_FSwCt07H4/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Uzbekistan vs Colombia"
@@ -502,22 +482,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/C7StA01El10/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "What is the Netherlands’ ceiling in the World Cup? | ESPN FC",
-      "videoId": "oxbN1eUjX78",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [
-        "Netherlands"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/oxbN1eUjX78/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Uzbekistan vs Colombia"
