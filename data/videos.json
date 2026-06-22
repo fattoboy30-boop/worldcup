@@ -1,46 +1,107 @@
 {
-  "lastUpdated": "2026-06-22T19:00:49.056Z",
+  "lastUpdated": "2026-06-22T19:35:55.317Z",
   "featured": {
-    "match": "dhtvydWXvxQ",
-    "highlight": "dhtvydWXvxQ",
-    "interview": "ehMnXdhc6Qg"
+    "match": "NbnoTSkC3vs",
+    "highlight": "NbnoTSkC3vs",
+    "interview": "NbnoTSkC3vs"
   },
   "videos": [
     {
-      "title": "Match Highlights! Brazil vs Haiti | FIFA World Cup 26 - YouTube",
-      "videoId": "dhtvydWXvxQ",
-      "channel": "Web Search",
+      "title": "Ghana On Playing England | Carlos Queiroz Takes Questions",
+      "videoId": "NbnoTSkC3vs",
+      "channel": "FIFA",
       "publishedAt": "2026-06-22",
       "category": "Highlights",
       "team": [
-        "Brazil",
-        "Haiti"
+        "England",
+        "Ghana"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/dhtvydWXvxQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/NbnoTSkC3vs/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Korea"
     },
     {
-      "title": "Brazil vs. Haiti Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "Z2KoX5crIjQ",
-      "channel": "Web Search",
+      "title": "Highlights | Spain 4-0 Saudi Arabia | FIFA World Cup 2026™",
+      "videoId": "j0BQN0nJ7mM",
+      "channel": "FIFA",
       "publishedAt": "2026-06-22",
       "category": "Highlights",
       "team": [
-        "Brazil",
-        "Haiti"
+        "Spain",
+        "Saudi Arabia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Z2KoX5crIjQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/j0BQN0nJ7mM/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "Ghana Train Before England | FIFA World Cup 2026™",
+      "videoId": "4fFkKpEy2Bk",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4fFkKpEy2Bk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "Team Feature: Congo DR | Wissa: 'A Life Changing Goal'",
+      "videoId": "WS-_DX2EN14",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/WS-_DX2EN14/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "Portugal Train Before Uzbekistan | FIFA World Cup 2026™",
+      "videoId": "EyBIL2qE5F8",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/EyBIL2qE5F8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "Team Feature: Colombia | Campaz's Delight On Scoring In Colombia's Opening Game",
+      "videoId": "tdXIqyaFE3U",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tdXIqyaFE3U/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
     },
     {
       "title": "Team Feature: Croatia | Zlatko Dalić: 'Croatia Can Bounce Back'",
@@ -185,96 +246,141 @@
       "fixtureTeams": "Mexico vs South Korea"
     },
     {
-      "title": "15-Minute Match: Brazil vs Scotland | 1990 Drama",
-      "videoId": "D6ykPnl1jes",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Scotland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/D6ykPnl1jes/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "Finding space where there is none. Lamine Yamal. 🪄 #FIFAWorldCup #Kia #InspirationConnectsUsAll",
-      "videoId": "1UEXdC2pYdM",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [
-        "USA"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/1UEXdC2pYdM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "Trézéguet Goal | New Zealand 1-3 Egypt | FIFA World Cup 2026™",
-      "videoId": "dTVLr45ewM8",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/dTVLr45ewM8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "Jordan Train Before Algeria | FIFA World Cup 2026™",
-      "videoId": "dwiYd5u4TE8",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [
-        "Algeria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/dwiYd5u4TE8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "June 21 Matchday Recap | #FIFAWorldCup ‪‪@aramco ​",
-      "videoId": "P8Q3sDxR4Ls",
-      "channel": "FIFA",
+      "title": "Sam Borden’s update on Christian Pulisic’s status vs. Türkiye | SportsCenter",
+      "videoId": "XcBC_50eGcI",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-22",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/P8Q3sDxR4Ls/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/XcBC_50eGcI/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Korea"
     },
     {
-      "title": "Mohamed Salah Goal | New Zealand 1-3 Egypt | FIFA World Cup 2026™",
-      "videoId": "q0HWiseLQQo",
-      "channel": "FIFA",
+      "title": "What do you think? 🤔",
+      "videoId": "PraXOVIIEyc",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-22",
       "category": "Highlights",
-      "team": [
-        "Egypt"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/q0HWiseLQQo/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/PraXOVIIEyc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "Is Landon Donovan right? 🤔",
+      "videoId": "m-4G_oPqxWE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/m-4G_oPqxWE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "Can the U.S. go all the way?🤔",
+      "videoId": "YUaTExeUO7k",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/YUaTExeUO7k/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "USMNT BELIEF 📈 Mike Grella on the United States' chances to win the World Cup | The Pat McAfee Show",
+      "videoId": "PLrpLQCSgtg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/PLrpLQCSgtg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "🔥🔥🔥 (via @Mr.Row.Row/TT)",
+      "videoId": "-PKFSbIYR6k",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-PKFSbIYR6k/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "Landon Donovan on the USMNT 🗣️ They did what they were supposed to do! | The Rich Eisen Show",
+      "videoId": "bWKfrs-22xU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/bWKfrs-22xU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "Messi is a BEAST 😤",
+      "videoId": "hSdWYMlEHQs",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/hSdWYMlEHQs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "The Argentine fans took over Dallas",
+      "videoId": "dTCvWlDVEyI",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/dTCvWlDVEyI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "Can the U.S. win it all?! ‘The World Cup is NOT WON in the first round!’ - Bennett | First Take",
+      "videoId": "NQxAuaUAE3M",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/NQxAuaUAE3M/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Korea"
@@ -347,157 +453,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/6jD1wbIa3LQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "‘The Egypt we’ve ALL been waiting for’ + Colin Udoh on Mo Salah’s impact | ESPN FC",
-      "videoId": "_HuFhvh-KEw",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_HuFhvh-KEw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "Norway vs. Senegal PREVIEW: WATCH OUT for Erling Haaland and Alexander Sorloth | ESPN FC",
-      "videoId": "AdYE_hxYV5k",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [
-        "Senegal",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/AdYE_hxYV5k/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "Group H FULL REACTION: Ale Moreno is NOT WORRIED about Lamine Yamal! | ESPN FC",
-      "videoId": "ehMnXdhc6Qg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-22",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ehMnXdhc6Qg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "Will Christian Pulisic play in U.S. vs. Turkiye?! BWP says YES?! 👀 | Get Up",
-      "videoId": "h-LHlIqVQ0I",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/h-LHlIqVQ0I/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "Top dog energy from the USA 😤",
-      "videoId": "j_JI3t9qzl8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [
-        "USA"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/j_JI3t9qzl8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "Bradley Wright-Phillips gives some insight on the World Cup ⚽",
-      "videoId": "86-hdw3fMFs",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/86-hdw3fMFs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "Lionel Messi is still the cornerstone of Argentina - Nedum Onuoha | SportsCenter",
-      "videoId": "gm4OycF_Z18",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/gm4OycF_Z18/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "Did Spain prove they should be World Cup favorites after 4-0 win? 👀 | ESPN FC Full Show",
-      "videoId": "DPvtnIfbOmI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/DPvtnIfbOmI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "Does Al-Nassr job opportunity compromise Martinez’s ability to bench Ronaldo? | ESPN FC Extra Time",
-      "videoId": "oj5nYj0yArw",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/oj5nYj0yArw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "Debating the World Cup’s New Rules 👀 Did Almiron deserve a red card? | ESPN FC",
-      "videoId": "eAViZjK6x4g",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/eAViZjK6x4g/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Korea"
