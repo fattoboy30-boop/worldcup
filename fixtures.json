@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T21:34:15.376Z",
+  "lastUpdated": "2026-06-22T21:47:32.144Z",
   "fixtures": [
     {
       "id": 760415,
@@ -1043,7 +1043,7 @@
       "group": "I",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "33'",
+      "minute": "45'+1'",
       "halfTime": [
         null,
         null
