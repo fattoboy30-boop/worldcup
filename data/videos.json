@@ -1,46 +1,120 @@
 {
-  "lastUpdated": "2026-06-22T15:36:23.267Z",
+  "lastUpdated": "2026-06-22T15:55:59.530Z",
   "featured": {
-    "match": "AJ3C913vo6A",
-    "highlight": "AJ3C913vo6A",
-    "interview": "i7npq8hfAkU"
+    "match": "PpOMyi6j2Tk",
+    "highlight": "PpOMyi6j2Tk",
+    "interview": "ehMnXdhc6Qg"
   },
   "videos": [
     {
-      "title": "Brazil vs Haiti Match Highlights | FIFA World Cup 2026 Group ... - YouTube",
-      "videoId": "AJ3C913vo6A",
-      "channel": "Web Search",
+      "title": "Team Feature: Croatia | Zlatko Dalić: 'Croatia Can Bounce Back'",
+      "videoId": "PpOMyi6j2Tk",
+      "channel": "FIFA",
       "publishedAt": "2026-06-22",
       "category": "Highlights",
       "team": [
-        "Brazil",
-        "Haiti"
+        "Croatia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/AJ3C913vo6A/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/PpOMyi6j2Tk/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Korea"
     },
     {
-      "title": "Brazil vs. Haiti Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "Z2KoX5crIjQ",
-      "channel": "Web Search",
+      "title": "Team Feature: Panama | Martínez On 'Staying Focused' In Tough Surroundings",
+      "videoId": "uRUg0DKYGV4",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/uRUg0DKYGV4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "Alt Cast Highlights: Uruguay v Cabo Verde | FIFA World Cup 2026™",
+      "videoId": "DxQ73XvqMZM",
+      "channel": "FIFA",
       "publishedAt": "2026-06-22",
       "category": "Highlights",
       "team": [
-        "Brazil",
-        "Haiti"
+        "Uruguay"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Z2KoX5crIjQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/DxQ73XvqMZM/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "Team Feature: Ghana | Born in England, Playing for Ghana: The Larry & Antoine Semenyo Story",
+      "videoId": "bB4viY6igiw",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/bB4viY6igiw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "Alt Cast Highlights: Belgium v IR Iran | FIFA World Cup 2026™",
+      "videoId": "xX5YYbsutnc",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [
+        "Belgium",
+        "Iran"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xX5YYbsutnc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "Team Feature: England | Declan Rice Looks Back On Fond School Memories",
+      "videoId": "emiG-xdJ8HM",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/emiG-xdJ8HM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "Team Feature: Uzbekistan | Playing Against 'Our Hero' Ronaldo",
+      "videoId": "YWXmbYWmmgI",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/YWXmbYWmmgI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
     },
     {
       "title": "Team Feature: Portugal | Mendes Hopes Portugal Return To Winning Ways",
@@ -170,9 +244,81 @@
       "fixtureTeams": "Mexico vs South Korea"
     },
     {
-      "title": "Trezeguet scores the winning goal for Egypt against New Zealand. #FIFAWorldCupOnYT",
-      "videoId": "J1MmfwdidYo",
-      "channel": "FIFA",
+      "title": "Roger Bennett speaks on the USMNT ⚽",
+      "videoId": "Q0-M9HChVic",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Q0-M9HChVic/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "Fans losing it after seeing Cristiano Ronaldo 😂",
+      "videoId": "JA4wQdB1ybA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JA4wQdB1ybA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "Kylian Mbappe, Erling Haaland AND Lionel Messi FEATURE 🍿| ESPN FC",
+      "videoId": "c_bYDcdJnJs",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/c_bYDcdJnJs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "ESPN FC provides the KEYS to stopping Lionel Messi",
+      "videoId": "ZeRgBJva6lg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ZeRgBJva6lg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "Romelu Lukaku STRUGGLES + Belgium sorely miss Jeremy Doku?! | ESPN FC",
+      "videoId": "6jD1wbIa3LQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6jD1wbIa3LQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "‘The Egypt we’ve ALL been waiting for’ + Colin Udoh on Mo Salah’s impact | ESPN FC",
+      "videoId": "_HuFhvh-KEw",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-22",
       "category": "Highlights",
       "team": [
@@ -180,103 +326,98 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/J1MmfwdidYo/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/_HuFhvh-KEw/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Korea"
     },
     {
-      "title": "Salah scores Egypt's second goal against New Zealand. #FIFAWorldCupOnYT",
-      "videoId": "5bAV2f9c4CY",
-      "channel": "FIFA",
+      "title": "Norway vs. Senegal PREVIEW: WATCH OUT for Erling Haaland and Alexander Sorloth | ESPN FC",
+      "videoId": "AdYE_hxYV5k",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-22",
       "category": "Highlights",
       "team": [
-        "Egypt"
+        "Senegal",
+        "Norway"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/5bAV2f9c4CY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/AdYE_hxYV5k/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Korea"
     },
     {
-      "title": "Algeria Train Before Jordan | FIFA World Cup 2026™",
-      "videoId": "ZQXOT63yolY",
-      "channel": "FIFA",
+      "title": "Group H FULL REACTION: Ale Moreno is NOT WORRIED about Lamine Yamal! | ESPN FC",
+      "videoId": "ehMnXdhc6Qg",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [
-        "Algeria"
-      ],
+      "category": "Viral",
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ZQXOT63yolY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/ehMnXdhc6Qg/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Korea"
     },
     {
-      "title": "New Zealand 🆚 Egypt #FIFAWorldCupOnYT",
-      "videoId": "-PMjG9noNRs",
-      "channel": "FIFA",
+      "title": "Will Christian Pulisic play in U.S. vs. Turkiye?! BWP says YES?! 👀 | Get Up",
+      "videoId": "h-LHlIqVQ0I",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-22",
       "category": "Highlights",
-      "team": [
-        "Egypt"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-PMjG9noNRs/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/h-LHlIqVQ0I/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Korea"
     },
     {
-      "title": "Post-Match Press Conference: New Zealand's Darren Bazeley On 3-1 Loss To Egypt",
-      "videoId": "HNx92JRgtjc",
-      "channel": "FIFA",
+      "title": "Top dog energy from the USA 😤",
+      "videoId": "j_JI3t9qzl8",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-22",
       "category": "Highlights",
       "team": [
-        "Egypt"
+        "USA"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/HNx92JRgtjc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/j_JI3t9qzl8/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Korea"
     },
     {
-      "title": "Post-Match Press Conference: Egypt's Hossam Hassan On Egypt's 3-1 Win Against New Zealand",
-      "videoId": "N1adEWXsH-I",
-      "channel": "FIFA",
+      "title": "Bradley Wright-Phillips gives some insight on the World Cup ⚽",
+      "videoId": "86-hdw3fMFs",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-22",
       "category": "Highlights",
-      "team": [
-        "Egypt"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/N1adEWXsH-I/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/86-hdw3fMFs/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Korea"
     },
     {
-      "title": "Post-Match Interviews: New Zealand 1-3 Egypt | FIFA World Cup 2026™",
-      "videoId": "tC-ZUus2By4",
-      "channel": "FIFA",
+      "title": "Lionel Messi is still the cornerstone of Argentina - Nedum Onuoha | SportsCenter",
+      "videoId": "gm4OycF_Z18",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-22",
       "category": "Highlights",
       "team": [
-        "Egypt"
+        "Argentina"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/tC-ZUus2By4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/gm4OycF_Z18/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Korea"
@@ -324,197 +465,6 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "Will the USMNT keep their momentum going heading into the knockout stage? 👀 | ESPN FC",
-      "videoId": "6c0TdelgrT0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/6c0TdelgrT0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "REACTION to Egypt’s FIRST-EVER World Cup win 🔥 Will they win Group G?  | ESPN FC",
-      "videoId": "i7npq8hfAkU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-22",
-      "category": "Viral",
-      "team": [
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/i7npq8hfAkU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "Spain’s win vs. Saudi Arabia was ‘AKIN TO A TRAINING GAME’ – Craig Burley | ESPN FC",
-      "videoId": "3ubYRXXvNQs",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-22",
-      "category": "Viral",
-      "team": [
-        "Spain",
-        "Saudi Arabia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/3ubYRXXvNQs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "‘The best story of the World Cup!’ 🔥 Cape Verde scores two goals in draw vs. Uruguay | ESPN FC",
-      "videoId": "zj3yCZdx9xU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [
-        "Uruguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/zj3yCZdx9xU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "‘They deserved the point!’ 🙌 FULL REACTION to Cape Verde’s 2-2 draw with Uruguay | ESPN FC",
-      "videoId": "Af13aiTczH0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-22",
-      "category": "Viral",
-      "team": [
-        "Uruguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Af13aiTczH0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "Is Belgium in TROUBLE⁉️ FULL REACTION to their draw vs. Iran 👀 | ESPN FC",
-      "videoId": "qnfn0L7SUno",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-21",
-      "category": "Viral",
-      "team": [
-        "Belgium",
-        "Iran"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/qnfn0L7SUno/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "Saudi fans after drawing with Uruguay their first match 😅 (via lamineyamal/IG, benblackfootball/TT)",
-      "videoId": "3_FSwCt07H4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [
-        "Uruguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/3_FSwCt07H4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "Spain vs. Saudi Arabia FULL REACTION ➡️ LAMINE YAMAL IS BACK with a goal 😤 | ESPN FC",
-      "videoId": "I0vOiFvgluc",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-21",
-      "category": "Viral",
-      "team": [
-        "Spain",
-        "Saudi Arabia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/I0vOiFvgluc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "Gab & Juls back Ivory Coast to OUTLAST Germany at the World Cup 👀 | ESPN FC",
-      "videoId": "IKXy3Btu1_E",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [
-        "Germany",
-        "Ivory Coast"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/IKXy3Btu1_E/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "Goncalo Ramos turned 25! 🥳",
-      "videoId": "WzUzqK-liIA",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/WzUzqK-liIA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "Christian Pulisic’s status uncertain vs. Turkiye + Will Spain bounce back vs. Saudi Arabia? | SC",
-      "videoId": "LZQKy-JArk4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Saudi Arabia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/LZQKy-JArk4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "WORLD CUP REACTIONS & PREVIEWS ⚽ TEAMS ADVANCING TO KNOCKOUT STAGE + INJURY UPDATES | ESPN FC",
-      "videoId": "JRI_cBl3Jj0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-21",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/JRI_cBl3Jj0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
     }
   ]
 }
