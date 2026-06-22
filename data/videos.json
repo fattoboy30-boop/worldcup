@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-22T10:42:50.692Z",
+  "lastUpdated": "2026-06-22T15:36:23.267Z",
   "featured": {
-    "match": "aEQAfMmBi9U",
-    "highlight": "aEQAfMmBi9U",
+    "match": "AJ3C913vo6A",
+    "highlight": "AJ3C913vo6A",
     "interview": "i7npq8hfAkU"
   },
   "videos": [
+    {
+      "title": "Brazil vs Haiti Match Highlights | FIFA World Cup 2026 Group ... - YouTube",
+      "videoId": "AJ3C913vo6A",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Haiti"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/AJ3C913vo6A/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti",
+      "source": "match-search"
+    },
+    {
+      "title": "Brazil vs. Haiti Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "Z2KoX5crIjQ",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Haiti"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Z2KoX5crIjQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti",
+      "source": "match-search"
+    },
     {
       "title": "Team Feature: Portugal | Mendes Hopes Portugal Return To Winning Ways",
       "videoId": "aEQAfMmBi9U",
