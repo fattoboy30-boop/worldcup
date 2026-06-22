@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-06-22T22:06:19.062Z",
+  "lastUpdated": "2026-06-22T23:06:52.047Z",
   "featured": {
-    "match": "4zYJyJY57i8",
-    "highlight": "4zYJyJY57i8",
-    "interview": "4zYJyJY57i8"
+    "match": "uCLFhSvrp9E",
+    "highlight": "uCLFhSvrp9E",
+    "interview": "uCLFhSvrp9E"
   },
   "videos": [
+    {
+      "title": "Brazil vs Haiti FULL MATCH HIGHLIGHTS | FIFA World Cup 2026 - YouTube",
+      "videoId": "uCLFhSvrp9E",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-22",
+      "category": "Full Match",
+      "team": [
+        "Brazil",
+        "Haiti"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/uCLFhSvrp9E/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti",
+      "source": "match-search"
+    },
     {
       "title": "Highlights | Belgium 0-0 IR Iran | FIFA World Cup 2026™",
       "videoId": "4zYJyJY57i8",
