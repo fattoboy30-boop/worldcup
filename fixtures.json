@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T23:59:26.945Z",
+  "lastUpdated": "2026-06-22T04:08:43.823Z",
   "fixtures": [
     {
       "id": 760415,
@@ -964,11 +964,11 @@
       "awayScore": 2,
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens, Florida",
-      "status": "in_play",
+      "status": "finished",
       "group": "H",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "90'+3'",
+      "minute": null,
       "halfTime": [
         null,
         null
@@ -983,13 +983,13 @@
       "utcDate": "2026-06-22T01:00Z",
       "homeTeam": "New Zealand",
       "homeCode": "nz",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayTeam": "Egypt",
       "awayCode": "eg",
-      "awayScore": 0,
+      "awayScore": 3,
       "venue": "BC Place",
       "city": "Vancouver",
-      "status": "timed",
+      "status": "finished",
       "group": "G",
       "stage": "GROUP_STAGE",
       "matchday": 0,
