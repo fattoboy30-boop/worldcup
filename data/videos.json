@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-22T19:35:55.317Z",
+  "lastUpdated": "2026-06-22T21:35:08.071Z",
   "featured": {
-    "match": "NbnoTSkC3vs",
-    "highlight": "NbnoTSkC3vs",
-    "interview": "NbnoTSkC3vs"
+    "match": "Z2KoX5crIjQ",
+    "highlight": "uCLFhSvrp9E",
+    "interview": "uCLFhSvrp9E"
   },
   "videos": [
+    {
+      "title": "Brazil vs Haiti FULL MATCH HIGHLIGHTS | FIFA World Cup 2026 - YouTube",
+      "videoId": "uCLFhSvrp9E",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-22",
+      "category": "Full Match",
+      "team": [
+        "Brazil",
+        "Haiti"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/uCLFhSvrp9E/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti",
+      "source": "match-search"
+    },
+    {
+      "title": "Brazil vs. Haiti Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "Z2KoX5crIjQ",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Haiti"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Z2KoX5crIjQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti",
+      "source": "match-search"
+    },
     {
       "title": "Ghana On Playing England | Carlos Queiroz Takes Questions",
       "videoId": "NbnoTSkC3vs",

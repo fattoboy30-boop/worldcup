@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-22T19:38:01.295Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-06-22T21:34:15.372Z",
+  "liveMatches": [
+    {
+      "id": 760457,
+      "date": "2026-06-22",
+      "time": "21:00",
+      "utcDate": "2026-06-22T21:00Z",
+      "homeTeam": "France",
+      "homeCode": "fr",
+      "homeScore": 1,
+      "awayTeam": "Iraq",
+      "awayCode": "iq",
+      "awayScore": 0,
+      "venue": "Lincoln Financial Field",
+      "city": "Philadelphia, Pennsylvania",
+      "status": "in_play",
+      "group": "I",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "33'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -947,29 +971,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760457,
-      "date": "2026-06-22",
-      "time": "21:00",
-      "utcDate": "2026-06-22T21:00Z",
-      "homeTeam": "France",
-      "homeCode": "fr",
-      "homeScore": 0,
-      "awayTeam": "Iraq",
-      "awayCode": "iq",
-      "awayScore": 0,
-      "venue": "Lincoln Financial Field",
-      "city": "Philadelphia, Pennsylvania",
-      "status": "timed",
-      "group": "I",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760454,
       "date": "2026-06-23",
