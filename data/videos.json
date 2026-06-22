@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-22T15:55:59.530Z",
+  "lastUpdated": "2026-06-22T19:00:49.056Z",
   "featured": {
-    "match": "PpOMyi6j2Tk",
-    "highlight": "PpOMyi6j2Tk",
+    "match": "dhtvydWXvxQ",
+    "highlight": "dhtvydWXvxQ",
     "interview": "ehMnXdhc6Qg"
   },
   "videos": [
+    {
+      "title": "Match Highlights! Brazil vs Haiti | FIFA World Cup 26 - YouTube",
+      "videoId": "dhtvydWXvxQ",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Haiti"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/dhtvydWXvxQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti",
+      "source": "match-search"
+    },
+    {
+      "title": "Brazil vs. Haiti Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "Z2KoX5crIjQ",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Haiti"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Z2KoX5crIjQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti",
+      "source": "match-search"
+    },
     {
       "title": "Team Feature: Croatia | Zlatko Dalić: 'Croatia Can Bounce Back'",
       "videoId": "PpOMyi6j2Tk",

@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-22T16:00:17.461Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-06-22T18:59:58.328Z",
+  "liveMatches": [
+    {
+      "id": 760456,
+      "date": "2026-06-22",
+      "time": "17:00",
+      "utcDate": "2026-06-22T17:00Z",
+      "homeTeam": "Argentina",
+      "homeCode": "ar",
+      "homeScore": 2,
+      "awayTeam": "Austria",
+      "awayCode": "at",
+      "awayScore": 0,
+      "venue": "AT&T Stadium",
+      "city": "Arlington, Texas",
+      "status": "in_play",
+      "group": "J",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "90'+5'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -924,29 +948,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760456,
-      "date": "2026-06-22",
-      "time": "17:00",
-      "utcDate": "2026-06-22T17:00Z",
-      "homeTeam": "Argentina",
-      "homeCode": "ar",
-      "homeScore": 0,
-      "awayTeam": "Austria",
-      "awayCode": "at",
-      "awayScore": 0,
-      "venue": "AT&T Stadium",
-      "city": "Arlington, Texas",
-      "status": "timed",
-      "group": "J",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760457,
       "date": "2026-06-22",

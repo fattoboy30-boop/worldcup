@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T16:00:17.465Z",
+  "lastUpdated": "2026-06-22T18:59:58.331Z",
   "fixtures": [
     {
       "id": 760415,
@@ -1008,17 +1008,17 @@
       "utcDate": "2026-06-22T17:00Z",
       "homeTeam": "Argentina",
       "homeCode": "ar",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayTeam": "Austria",
       "awayCode": "at",
       "awayScore": 0,
       "venue": "AT&T Stadium",
       "city": "Arlington, Texas",
-      "status": "timed",
+      "status": "in_play",
       "group": "J",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "90'+5'",
       "halfTime": [
         null,
         null
