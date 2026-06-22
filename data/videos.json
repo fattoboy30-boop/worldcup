@@ -1,46 +1,143 @@
 {
-  "lastUpdated": "2026-06-22T21:35:08.071Z",
+  "lastUpdated": "2026-06-22T22:06:19.062Z",
   "featured": {
-    "match": "Z2KoX5crIjQ",
-    "highlight": "uCLFhSvrp9E",
-    "interview": "uCLFhSvrp9E"
+    "match": "4zYJyJY57i8",
+    "highlight": "4zYJyJY57i8",
+    "interview": "4zYJyJY57i8"
   },
   "videos": [
     {
-      "title": "Brazil vs Haiti FULL MATCH HIGHLIGHTS | FIFA World Cup 2026 - YouTube",
-      "videoId": "uCLFhSvrp9E",
-      "channel": "Web Search",
-      "publishedAt": "2026-06-22",
-      "category": "Full Match",
-      "team": [
-        "Brazil",
-        "Haiti"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/uCLFhSvrp9E/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti",
-      "source": "match-search"
-    },
-    {
-      "title": "Brazil vs. Haiti Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "Z2KoX5crIjQ",
-      "channel": "Web Search",
+      "title": "Highlights | Belgium 0-0 IR Iran | FIFA World Cup 2026™",
+      "videoId": "4zYJyJY57i8",
+      "channel": "FIFA",
       "publishedAt": "2026-06-22",
       "category": "Highlights",
       "team": [
-        "Brazil",
-        "Haiti"
+        "Belgium",
+        "Iran"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Z2KoX5crIjQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/4zYJyJY57i8/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "Croatia On Playing Panama |  Zlatko Dalić And Mateo Kovačić Answer Questions",
+      "videoId": "r-esg8jOgKA",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/r-esg8jOgKA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "Argentina 🆚 Austria #FIFAWorldCupOnYT",
+      "videoId": "9yA9ssUw-yc",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/9yA9ssUw-yc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "Post-Match Press Conference: Argentina's Lionel Scaloni On 2-0 Win Over Austria",
+      "videoId": "JPQYS7r1F9w",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JPQYS7r1F9w/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "Post-Match Player Interviews: Argentina 2-0 Austria",
+      "videoId": "9RiUY8BXKxs",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/9RiUY8BXKxs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "Post-Match Press Conference: Austria's Ralf Rangnick On 2-0 Loss To Argentina",
+      "videoId": "Sb_1OkI0cWQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Sb_1OkI0cWQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "Panama Train Before Croatia | FIFA World Cup 2026™",
+      "videoId": "1b_OhIreYfk",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/1b_OhIreYfk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "Panama On Playing Croatia | Thomas Christiansen Take Questions",
+      "videoId": "0JdUW6c43mk",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0JdUW6c43mk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
     },
     {
       "title": "Ghana On Playing England | Carlos Queiroz Takes Questions",
@@ -156,127 +253,29 @@
       "fixtureTeams": "Mexico vs South Korea"
     },
     {
-      "title": "Team Feature: Panama | Martínez On 'Staying Focused' In Tough Surroundings",
-      "videoId": "uRUg0DKYGV4",
-      "channel": "FIFA",
+      "title": "Like fine wine 🍷 Messi is still putting the world on notice at 38 years old 🙌",
+      "videoId": "2sbt0F1oncU",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-22",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/uRUg0DKYGV4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/2sbt0F1oncU/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Korea"
     },
     {
-      "title": "Alt Cast Highlights: Uruguay v Cabo Verde | FIFA World Cup 2026™",
-      "videoId": "DxQ73XvqMZM",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [
-        "Uruguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/DxQ73XvqMZM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "Team Feature: Ghana | Born in England, Playing for Ghana: The Larry & Antoine Semenyo Story",
-      "videoId": "bB4viY6igiw",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Ghana"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/bB4viY6igiw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "Alt Cast Highlights: Belgium v IR Iran | FIFA World Cup 2026™",
-      "videoId": "xX5YYbsutnc",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [
-        "Belgium",
-        "Iran"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xX5YYbsutnc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "Team Feature: England | Declan Rice Looks Back On Fond School Memories",
-      "videoId": "emiG-xdJ8HM",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/emiG-xdJ8HM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "Team Feature: Uzbekistan | Playing Against 'Our Hero' Ronaldo",
-      "videoId": "YWXmbYWmmgI",
-      "channel": "FIFA",
+      "title": "HISTORY! Lionel Messi breaks record for most FIFA World Cup goals ⚽🐐 | ESPN FC",
+      "videoId": "kwsYN1RGUSU",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-22",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/YWXmbYWmmgI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "Team Feature: Portugal | Mendes Hopes Portugal Return To Winning Ways",
-      "videoId": "aEQAfMmBi9U",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/aEQAfMmBi9U/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "Match Preview: Colombia vs Congo DR | FIFA World Cup 2026™",
-      "videoId": "iGtok1m3yU0",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [
-        "Colombia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/iGtok1m3yU0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/kwsYN1RGUSU/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Korea"
@@ -459,36 +458,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/c_bYDcdJnJs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "ESPN FC provides the KEYS to stopping Lionel Messi",
-      "videoId": "ZeRgBJva6lg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ZeRgBJva6lg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "Romelu Lukaku STRUGGLES + Belgium sorely miss Jeremy Doku?! | ESPN FC",
-      "videoId": "6jD1wbIa3LQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [
-        "Belgium"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/6jD1wbIa3LQ/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Korea"
