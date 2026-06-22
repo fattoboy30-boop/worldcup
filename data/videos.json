@@ -1,287 +1,290 @@
 {
-  "lastUpdated": "2026-06-22T10:16:19.471Z",
+  "lastUpdated": "2026-06-22T10:42:50.692Z",
   "featured": {
-    "match": "AJ3C913vo6A",
-    "highlight": "AJ3C913vo6A",
+    "match": "aEQAfMmBi9U",
+    "highlight": "aEQAfMmBi9U",
     "interview": "i7npq8hfAkU"
   },
   "videos": [
     {
-      "title": "Brazil vs Haiti Match Highlights | FIFA World Cup 2026 Group Stage",
-      "videoId": "AJ3C913vo6A",
-      "channel": "Web Search",
+      "title": "Team Feature: Portugal | Mendes Hopes Portugal Return To Winning Ways",
+      "videoId": "aEQAfMmBi9U",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/aEQAfMmBi9U/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "Match Preview: Colombia vs Congo DR | FIFA World Cup 2026™",
+      "videoId": "iGtok1m3yU0",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/iGtok1m3yU0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "15-Minute Match: Brazil vs Scotland | 1990 Drama",
+      "videoId": "D6ykPnl1jes",
+      "channel": "FIFA",
       "publishedAt": "2026-06-22",
       "category": "Highlights",
       "team": [
         "Brazil",
-        "Haiti"
+        "Scotland"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/AJ3C913vo6A/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti",
-      "source": "match-search"
-    },
-    {
-      "title": "Brazil vs. Haiti Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "Z2KoX5crIjQ",
-      "channel": "Web Search",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Haiti"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Z2KoX5crIjQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti",
-      "source": "match-search"
-    },
-    {
-      "title": "Iraq Train Before France | FIFA World Cup 2026™",
-      "videoId": "3TtR5KvgJ-E",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [
-        "France"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/3TtR5KvgJ-E/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/D6ykPnl1jes/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Korea"
     },
     {
-      "title": "Hélio Varela Goal | Uruguay 2-2 Cabo Verde | FIFA World Cup 2026™",
-      "videoId": "By78aHB9lvo",
+      "title": "Finding space where there is none. Lamine Yamal. 🪄 #FIFAWorldCup #Kia #InspirationConnectsUsAll",
+      "videoId": "1UEXdC2pYdM",
       "channel": "FIFA",
       "publishedAt": "2026-06-22",
       "category": "Highlights",
       "team": [
-        "Uruguay"
+        "USA"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/By78aHB9lvo/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/1UEXdC2pYdM/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Korea"
     },
     {
-      "title": "Agustín Canobbio Goal | Uruguay 2-2 Cabo Verde | FIFA World Cup 2026™",
-      "videoId": "czL4sXH12_w",
+      "title": "Trézéguet Goal | New Zealand 1-3 Egypt | FIFA World Cup 2026™",
+      "videoId": "dTVLr45ewM8",
       "channel": "FIFA",
       "publishedAt": "2026-06-22",
       "category": "Highlights",
       "team": [
-        "Uruguay"
+        "Egypt"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/czL4sXH12_w/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/dTVLr45ewM8/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Korea"
     },
     {
-      "title": "Highlights | Ecuador 0-0 Curacao | FIFA World Cup 2026™",
-      "videoId": "nYoSztBShPE",
+      "title": "Jordan Train Before Algeria | FIFA World Cup 2026™",
+      "videoId": "dwiYd5u4TE8",
       "channel": "FIFA",
       "publishedAt": "2026-06-22",
       "category": "Highlights",
       "team": [
-        "Ecuador"
+        "Algeria"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/nYoSztBShPE/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/dwiYd5u4TE8/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Korea"
     },
     {
-      "title": "Varela scores the equalizer for Cabo Verde against Uruguay. 🇺🇾 #FIFAWorldCupOnYT #shorts",
-      "videoId": "LmZJpDnKqrI",
+      "title": "June 21 Matchday Recap | #FIFAWorldCup ‪‪@aramco ​",
+      "videoId": "P8Q3sDxR4Ls",
       "channel": "FIFA",
       "publishedAt": "2026-06-22",
       "category": "Highlights",
-      "team": [
-        "Uruguay"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/LmZJpDnKqrI/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/P8Q3sDxR4Ls/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Korea"
     },
     {
-      "title": "Canobbio scores his first #FIFAWorldCup goal for Uruguay. #FIFAWorldCupOnYT #shors #worldcup",
-      "videoId": "w-0g7ZJr-UQ",
+      "title": "Mohamed Salah Goal | New Zealand 1-3 Egypt | FIFA World Cup 2026™",
+      "videoId": "q0HWiseLQQo",
       "channel": "FIFA",
       "publishedAt": "2026-06-22",
       "category": "Highlights",
       "team": [
-        "Uruguay"
+        "Egypt"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/w-0g7ZJr-UQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/q0HWiseLQQo/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Korea"
     },
     {
-      "title": "Post-Match Press Conference: Cabo Verde's Bubista On 2-2 Draw With Uruguay",
-      "videoId": "PpUlgf9ACt8",
+      "title": "Trezeguet scores the winning goal for Egypt against New Zealand. #FIFAWorldCupOnYT",
+      "videoId": "J1MmfwdidYo",
       "channel": "FIFA",
       "publishedAt": "2026-06-22",
       "category": "Highlights",
       "team": [
-        "Uruguay"
+        "Egypt"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PpUlgf9ACt8/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/J1MmfwdidYo/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Korea"
     },
     {
-      "title": "France Train Before Iraq | FIFA World Cup 2026™",
-      "videoId": "dpbo1S6QiGc",
+      "title": "Salah scores Egypt's second goal against New Zealand. #FIFAWorldCupOnYT",
+      "videoId": "5bAV2f9c4CY",
       "channel": "FIFA",
       "publishedAt": "2026-06-22",
       "category": "Highlights",
       "team": [
-        "France"
+        "Egypt"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/dpbo1S6QiGc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/5bAV2f9c4CY/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Korea"
     },
     {
-      "title": "Uruguay 🆚 Cabo Verde #FIFAWorldCupOnYT #shors #fifaworldcup",
-      "videoId": "soLA5nq9wQc",
+      "title": "Algeria Train Before Jordan | FIFA World Cup 2026™",
+      "videoId": "ZQXOT63yolY",
       "channel": "FIFA",
       "publishedAt": "2026-06-22",
       "category": "Highlights",
       "team": [
-        "Uruguay"
+        "Algeria"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/soLA5nq9wQc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/ZQXOT63yolY/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Korea"
     },
     {
-      "title": "Post-Match Press Conference: Uruguay's Marcelo Bielsa On 2-2 Draw With Cabo Verde",
-      "videoId": "S3SguVZ0owE",
+      "title": "New Zealand 🆚 Egypt #FIFAWorldCupOnYT",
+      "videoId": "-PMjG9noNRs",
       "channel": "FIFA",
       "publishedAt": "2026-06-22",
       "category": "Highlights",
       "team": [
-        "Uruguay"
+        "Egypt"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/S3SguVZ0owE/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/-PMjG9noNRs/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Korea"
     },
     {
-      "title": "Argentina On Playing Austria | Lionel Scaloni Answers Questions",
-      "videoId": "WVi5DeNMFM4",
+      "title": "Post-Match Press Conference: New Zealand's Darren Bazeley On 3-1 Loss To Egypt",
+      "videoId": "HNx92JRgtjc",
       "channel": "FIFA",
       "publishedAt": "2026-06-22",
       "category": "Highlights",
       "team": [
-        "Argentina",
-        "Austria"
+        "Egypt"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/WVi5DeNMFM4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/HNx92JRgtjc/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Korea"
     },
     {
-      "title": "Norway On Playing Senegal | Ståle Solbakken Takes Questions",
-      "videoId": "hSjRgdmAUnU",
+      "title": "Post-Match Press Conference: Egypt's Hossam Hassan On Egypt's 3-1 Win Against New Zealand",
+      "videoId": "N1adEWXsH-I",
       "channel": "FIFA",
       "publishedAt": "2026-06-22",
       "category": "Highlights",
       "team": [
-        "Senegal",
-        "Norway"
+        "Egypt"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/hSjRgdmAUnU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/N1adEWXsH-I/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Korea"
     },
     {
-      "title": "Post-Match Player Interviews: Belgium 0-0 IR Iran",
-      "videoId": "cx-wRGf_4Ak",
+      "title": "Post-Match Interviews: New Zealand 1-3 Egypt | FIFA World Cup 2026™",
+      "videoId": "tC-ZUus2By4",
       "channel": "FIFA",
       "publishedAt": "2026-06-22",
       "category": "Highlights",
       "team": [
-        "Belgium",
-        "Iran"
+        "Egypt"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/cx-wRGf_4Ak/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/tC-ZUus2By4/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Korea"
     },
     {
-      "title": "Post-Match Press Conference: IR Iran's Amir Ghalenoei On 0-0 Draw With Belgium",
-      "videoId": "fZPwQdDGT_0",
-      "channel": "FIFA",
+      "title": "Did Spain prove they should be World Cup favorites after 4-0 win? 👀 | ESPN FC Full Show",
+      "videoId": "DPvtnIfbOmI",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-22",
       "category": "Highlights",
       "team": [
-        "Belgium",
-        "Iran"
+        "Spain"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fZPwQdDGT_0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/DPvtnIfbOmI/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Korea"
     },
     {
-      "title": "WATCH LIVE | Uruguay v Cabo Verde | Group Stage H | FIFA World Cup 2026™",
-      "videoId": "0E1H6PINyP4",
-      "channel": "FIFA",
+      "title": "Does Al-Nassr job opportunity compromise Martinez’s ability to bench Ronaldo? | ESPN FC Extra Time",
+      "videoId": "oj5nYj0yArw",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-22",
       "category": "Highlights",
-      "team": [
-        "Uruguay"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/0E1H6PINyP4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/oj5nYj0yArw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "Debating the World Cup’s New Rules 👀 Did Almiron deserve a red card? | ESPN FC",
+      "videoId": "eAViZjK6x4g",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/eAViZjK6x4g/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Korea"
@@ -473,52 +476,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/JRI_cBl3Jj0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "Ilkay Gundogan on VERY FRUSTRATING Turkiye exit, Almiron's red card & Germany advancing | ESPN FC",
-      "videoId": "TBvKR9B19IU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/TBvKR9B19IU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "USMNT's playing at a very high level - Moreno praises U.S. for advancing to knockout stage | ESPN FC",
-      "videoId": "sQr-zcUmAVs",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/sQr-zcUmAVs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia"
-    },
-    {
-      "title": "Raphinha's return is uncertain, but Brazil has MANY MORE ISSUES at the World Cup 😧 | ESPN FC",
-      "videoId": "ZYXbI_g4-jU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-21",
-      "category": "Highlights",
-      "team": [
-        "Brazil"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ZYXbI_g4-jU/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Uzbekistan vs Colombia"
