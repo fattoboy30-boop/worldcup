@@ -1,28 +1,75 @@
 {
-  "lastUpdated": "2026-06-22T23:06:52.047Z",
+  "lastUpdated": "2026-06-23T00:11:02.762Z",
   "featured": {
-    "match": "uCLFhSvrp9E",
-    "highlight": "uCLFhSvrp9E",
-    "interview": "uCLFhSvrp9E"
+    "match": "LkhIm6-vegg",
+    "highlight": "LkhIm6-vegg",
+    "interview": "LkhIm6-vegg"
   },
   "videos": [
     {
-      "title": "Brazil vs Haiti FULL MATCH HIGHLIGHTS | FIFA World Cup 2026 - YouTube",
-      "videoId": "uCLFhSvrp9E",
-      "channel": "Web Search",
+      "title": "England Train Before Ghana",
+      "videoId": "LkhIm6-vegg",
+      "channel": "FIFA",
       "publishedAt": "2026-06-22",
-      "category": "Full Match",
+      "category": "Highlights",
       "team": [
-        "Brazil",
-        "Haiti"
+        "England",
+        "Ghana"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/uCLFhSvrp9E/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/LkhIm6-vegg/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "Colombia On Playing Congo DR | Néstor Lorenzo Takes Questions",
+      "videoId": "tFk76_ZzPlk",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tFk76_ZzPlk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "Uzbekistan Train Before Portugal | FIFA World Cup 2026™",
+      "videoId": "_Pl4wKoATnw",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_Pl4wKoATnw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
+    },
+    {
+      "title": "Congo DR Train Before Colombia | FIFA World Cup 2026™",
+      "videoId": "7mn67GpmuD4",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-22",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7mn67GpmuD4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Korea"
     },
     {
       "title": "Highlights | Belgium 0-0 IR Iran | FIFA World Cup 2026™",
@@ -58,7 +105,7 @@
       "fixtureTeams": "Mexico vs South Korea"
     },
     {
-      "title": "Argentina 🆚 Austria #FIFAWorldCupOnYT",
+      "title": "Argentina 🆚 Austria #FIFAWorldCupOnYT #shorts #worldcup",
       "videoId": "9yA9ssUw-yc",
       "channel": "FIFA",
       "publishedAt": "2026-06-22",
@@ -192,80 +239,15 @@
       "fixtureTeams": "Mexico vs South Korea"
     },
     {
-      "title": "Ghana Train Before England | FIFA World Cup 2026™",
-      "videoId": "4fFkKpEy2Bk",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Ghana"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/4fFkKpEy2Bk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "Team Feature: Congo DR | Wissa: 'A Life Changing Goal'",
-      "videoId": "WS-_DX2EN14",
-      "channel": "FIFA",
+      "title": "Herculez Gomez after Messi became the leading goalscorer in WC history 🙌",
+      "videoId": "08OAva0p9LI",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-22",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/WS-_DX2EN14/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "Portugal Train Before Uzbekistan | FIFA World Cup 2026™",
-      "videoId": "EyBIL2qE5F8",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/EyBIL2qE5F8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "Team Feature: Colombia | Campaz's Delight On Scoring In Colombia's Opening Game",
-      "videoId": "tdXIqyaFE3U",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [
-        "Colombia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/tdXIqyaFE3U/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "Team Feature: Croatia | Zlatko Dalić: 'Croatia Can Bounce Back'",
-      "videoId": "PpOMyi6j2Tk",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [
-        "Croatia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PpOMyi6j2Tk/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/08OAva0p9LI/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Korea"
@@ -467,18 +449,21 @@
       "fixtureTeams": "Mexico vs South Korea"
     },
     {
-      "title": "Kylian Mbappe, Erling Haaland AND Lionel Messi FEATURE 🍿| ESPN FC",
-      "videoId": "c_bYDcdJnJs",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-22",
+      "title": "WATCH LIVE | Norway v Senegal | Group Stage I | FIFA World Cup 2026™",
+      "videoId": "L-mHqmf1A98",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-10",
       "category": "Highlights",
-      "team": [],
+      "team": [
+        "Senegal",
+        "Norway"
+      ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/c_bYDcdJnJs/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/L-mHqmf1A98/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
+      "fixtureTeams": "Mexico vs South Africa"
     }
   ]
 }
