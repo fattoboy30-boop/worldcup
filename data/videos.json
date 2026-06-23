@@ -1,11 +1,45 @@
 {
-  "lastUpdated": "2026-06-23T21:15:32.825Z",
+  "lastUpdated": "2026-06-23T22:41:17.373Z",
   "featured": {
-    "match": "ljQBsW23Z1M",
-    "highlight": "ljQBsW23Z1M",
-    "interview": "ljQBsW23Z1M"
+    "match": "7PJzrYC9eXc",
+    "highlight": "7PJzrYC9eXc",
+    "interview": "7PJzrYC9eXc"
   },
   "videos": [
+    {
+      "title": "Alt Cast Highlights: Ecuador v Curaçao | FIFA World Cup 2026™ - YouTube",
+      "videoId": "7PJzrYC9eXc",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7PJzrYC9eXc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao",
+      "source": "match-search"
+    },
+    {
+      "title": "Ecuador vs Curaçao Extended Highlights 2026 FIFA World Cup™",
+      "videoId": "_JQLeADlzXM",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_JQLeADlzXM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao",
+      "source": "match-search"
+    },
     {
       "title": "ECUADOR vs CURACAO 0-0 | 2026 FIFA World Cup | Match Highlights",
       "videoId": "ljQBsW23Z1M",

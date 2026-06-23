@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T22:00:13.578Z",
+  "lastUpdated": "2026-06-23T22:40:23.742Z",
   "groups": {
     "A": {
       "teams": [
@@ -622,27 +622,27 @@
         {
           "name": "England",
           "code": "gb-eng",
-          "played": 1,
+          "played": 2,
           "won": 1,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 0,
           "gf": 4,
           "ga": 2,
           "gd": 2,
-          "points": 3,
+          "points": 4,
           "position": 1
         },
         {
           "name": "Ghana",
           "code": "gh",
-          "played": 1,
+          "played": 2,
           "won": 1,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 0,
           "gf": 1,
           "ga": 0,
           "gd": 1,
-          "points": 3,
+          "points": 4,
           "position": 2
         },
         {

@@ -1,30 +1,6 @@
 {
-  "lastUpdated": "2026-06-23T22:00:13.574Z",
-  "liveMatches": [
-    {
-      "id": 760458,
-      "date": "2026-06-23",
-      "time": "20:00",
-      "utcDate": "2026-06-23T20:00Z",
-      "homeTeam": "England",
-      "homeCode": "gb-eng",
-      "homeScore": 0,
-      "awayTeam": "Ghana",
-      "awayCode": "gh",
-      "awayScore": 0,
-      "venue": "Gillette Stadium",
-      "city": "Foxborough, Massachusetts",
-      "status": "in_play",
-      "group": "L",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": "90'+5'",
-      "halfTime": [
-        null,
-        null
-      ]
-    }
-  ],
+  "lastUpdated": "2026-06-23T22:40:23.738Z",
+  "liveMatches": [],
   "recentResults": [
     {
       "id": 760415,
@@ -1053,6 +1029,29 @@
       "city": "Houston, Texas",
       "status": "finished",
       "group": "K",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": null,
+      "halfTime": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": 760458,
+      "date": "2026-06-23",
+      "time": "20:00",
+      "utcDate": "2026-06-23T20:00Z",
+      "homeTeam": "England",
+      "homeCode": "gb-eng",
+      "homeScore": 0,
+      "awayTeam": "Ghana",
+      "awayCode": "gh",
+      "awayScore": 0,
+      "venue": "Gillette Stadium",
+      "city": "Foxborough, Massachusetts",
+      "status": "finished",
+      "group": "L",
       "stage": "GROUP_STAGE",
       "matchday": 0,
       "minute": null,
