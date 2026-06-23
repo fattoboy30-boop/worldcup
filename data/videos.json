@@ -1,11 +1,45 @@
 {
-  "lastUpdated": "2026-06-23T23:10:43.644Z",
+  "lastUpdated": "2026-06-23T23:42:14.910Z",
   "featured": {
-    "match": "BFxQfamAIUY",
-    "highlight": "BFxQfamAIUY",
+    "match": "7PJzrYC9eXc",
+    "highlight": "7PJzrYC9eXc",
     "interview": "FGe9QolTD6A"
   },
   "videos": [
+    {
+      "title": "Alt Cast Highlights: Ecuador v Curaçao | FIFA World Cup 2026™ - YouTube",
+      "videoId": "7PJzrYC9eXc",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7PJzrYC9eXc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao",
+      "source": "match-search"
+    },
+    {
+      "title": "Ecuador vs Curacao 0-0 Highlights | FIFA World Cup 2026",
+      "videoId": "gvWf1XEb7sg",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/gvWf1XEb7sg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao",
+      "source": "match-search"
+    },
     {
       "title": "Cristiano Ronaldo Scores Again ! | Portugal 5-0 Uzbekistan",
       "videoId": "BFxQfamAIUY",
