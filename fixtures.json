@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T19:26:17.784Z",
+  "lastUpdated": "2026-06-23T20:31:21.697Z",
   "fixtures": [
     {
       "id": 760415,
@@ -1139,11 +1139,11 @@
       "awayScore": 0,
       "venue": "Gillette Stadium",
       "city": "Foxborough, Massachusetts",
-      "status": "timed",
+      "status": "in_play",
       "group": "L",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "27'",
       "halfTime": [
         null,
         null
