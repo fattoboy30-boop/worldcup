@@ -1,11 +1,45 @@
 {
-  "lastUpdated": "2026-06-23T21:01:23.409Z",
+  "lastUpdated": "2026-06-23T21:15:32.825Z",
   "featured": {
-    "match": "m7gwAbrF2Xs",
-    "highlight": "m7gwAbrF2Xs",
-    "interview": "m7gwAbrF2Xs"
+    "match": "ljQBsW23Z1M",
+    "highlight": "ljQBsW23Z1M",
+    "interview": "ljQBsW23Z1M"
   },
   "videos": [
+    {
+      "title": "ECUADOR vs CURACAO 0-0 | 2026 FIFA World Cup | Match Highlights",
+      "videoId": "ljQBsW23Z1M",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ljQBsW23Z1M/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao",
+      "source": "match-search"
+    },
+    {
+      "title": "Highlights | Ecuador 0-0 Curaçao | FIFA World Cup 2026 - YouTube",
+      "videoId": "10sfRcI5AIw",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/10sfRcI5AIw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao",
+      "source": "match-search"
+    },
     {
       "title": "Portugal 🆚 Uzbekistan  #FIFAWorldCupOnYT",
       "videoId": "m7gwAbrF2Xs",
