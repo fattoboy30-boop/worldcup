@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T08:07:07.260Z",
+  "lastUpdated": "2026-06-23T08:47:10.492Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2156,8 +2156,8 @@
       "date": "2026-07-03",
       "time": "22:00",
       "utcDate": "2026-07-03T22:00Z",
-      "homeTeam": "Group J Winner",
-      "homeCode": "un",
+      "homeTeam": "Argentina",
+      "homeCode": "ar",
       "homeScore": 0,
       "awayTeam": "Group H 2nd Place",
       "awayCode": "un",
@@ -2165,7 +2165,7 @@
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens, Florida",
       "status": "timed",
-      "group": null,
+      "group": "J",
       "stage": "ROUND_OF_32",
       "matchday": 0,
       "minute": null,
@@ -2173,7 +2173,7 @@
         null,
         null
       ],
-      "homeFlag": "https://flagcdn.com/w160/un.png",
+      "homeFlag": "https://flagcdn.com/w160/ar.png",
       "awayFlag": "https://flagcdn.com/w160/un.png"
     },
     {
