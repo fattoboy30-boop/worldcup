@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-23T16:31:59.895Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-06-23T17:25:21.798Z",
+  "liveMatches": [
+    {
+      "id": 760461,
+      "date": "2026-06-23",
+      "time": "17:00",
+      "utcDate": "2026-06-23T17:00Z",
+      "homeTeam": "Portugal",
+      "homeCode": "pt",
+      "homeScore": 2,
+      "awayTeam": "Uzbekistan",
+      "awayCode": "un",
+      "awayScore": 0,
+      "venue": "NRG Stadium",
+      "city": "Houston, Texas",
+      "status": "in_play",
+      "group": "K",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "25'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -1016,29 +1040,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760461,
-      "date": "2026-06-23",
-      "time": "17:00",
-      "utcDate": "2026-06-23T17:00Z",
-      "homeTeam": "Portugal",
-      "homeCode": "pt",
-      "homeScore": 0,
-      "awayTeam": "Uzbekistan",
-      "awayCode": "un",
-      "awayScore": 0,
-      "venue": "NRG Stadium",
-      "city": "Houston, Texas",
-      "status": "timed",
-      "group": "K",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760458,
       "date": "2026-06-23",

@@ -1,11 +1,45 @@
 {
-  "lastUpdated": "2026-06-23T15:52:43.130Z",
+  "lastUpdated": "2026-06-23T17:26:12.248Z",
   "featured": {
-    "match": "8faqXYYofdw",
-    "highlight": "8faqXYYofdw",
-    "interview": "8faqXYYofdw"
+    "match": "_JQLeADlzXM",
+    "highlight": "_JQLeADlzXM",
+    "interview": "_JQLeADlzXM"
   },
   "videos": [
+    {
+      "title": "Ecuador vs Curaçao Extended Highlights 2026 FIFA World Cup™",
+      "videoId": "_JQLeADlzXM",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_JQLeADlzXM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao",
+      "source": "match-search"
+    },
+    {
+      "title": "Alt Cast Highlights: Ecuador v Curaçao | FIFA World Cup 2026™ - YouTube",
+      "videoId": "7PJzrYC9eXc",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7PJzrYC9eXc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao",
+      "source": "match-search"
+    },
     {
       "title": "Team Feature: Czechia | Sadílek: Mexico Match 'Make Or Break' For Czechia",
       "videoId": "8faqXYYofdw",
