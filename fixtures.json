@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T01:23:07.160Z",
+  "lastUpdated": "2026-06-23T04:34:31.591Z",
   "fixtures": [
     {
       "id": 760415,
@@ -1061,14 +1061,14 @@
       "homeScore": 3,
       "awayTeam": "Senegal",
       "awayCode": "sn",
-      "awayScore": 1,
+      "awayScore": 2,
       "venue": "MetLife Stadium",
       "city": "East Rutherford, New Jersey",
-      "status": "in_play",
+      "status": "finished",
       "group": "I",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "64'",
+      "minute": null,
       "halfTime": [
         null,
         null
@@ -1083,17 +1083,17 @@
       "utcDate": "2026-06-23T03:00Z",
       "homeTeam": "Jordan",
       "homeCode": "un",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayTeam": "Algeria",
       "awayCode": "un",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "Levi's Stadium",
       "city": "Santa Clara, California",
-      "status": "timed",
+      "status": "in_play",
       "group": "J",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "72'",
       "halfTime": [
         null,
         null

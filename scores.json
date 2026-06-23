@@ -1,24 +1,24 @@
 {
-  "lastUpdated": "2026-06-23T01:23:07.156Z",
+  "lastUpdated": "2026-06-23T04:34:31.588Z",
   "liveMatches": [
     {
-      "id": 760454,
+      "id": 760455,
       "date": "2026-06-23",
-      "time": "00:00",
-      "utcDate": "2026-06-23T00:00Z",
-      "homeTeam": "Norway",
-      "homeCode": "no",
-      "homeScore": 3,
-      "awayTeam": "Senegal",
-      "awayCode": "sn",
+      "time": "03:00",
+      "utcDate": "2026-06-23T03:00Z",
+      "homeTeam": "Jordan",
+      "homeCode": "un",
+      "homeScore": 1,
+      "awayTeam": "Algeria",
+      "awayCode": "un",
       "awayScore": 1,
-      "venue": "MetLife Stadium",
-      "city": "East Rutherford, New Jersey",
+      "venue": "Levi's Stadium",
+      "city": "Santa Clara, California",
       "status": "in_play",
-      "group": "I",
+      "group": "J",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "64'",
+      "minute": "72'",
       "halfTime": [
         null,
         null
@@ -991,24 +991,22 @@
         null,
         null
       ]
-    }
-  ],
-  "upcomingMatches": [
+    },
     {
-      "id": 760455,
+      "id": 760454,
       "date": "2026-06-23",
-      "time": "03:00",
-      "utcDate": "2026-06-23T03:00Z",
-      "homeTeam": "Jordan",
-      "homeCode": "un",
-      "homeScore": 0,
-      "awayTeam": "Algeria",
-      "awayCode": "un",
-      "awayScore": 0,
-      "venue": "Levi's Stadium",
-      "city": "Santa Clara, California",
-      "status": "timed",
-      "group": "J",
+      "time": "00:00",
+      "utcDate": "2026-06-23T00:00Z",
+      "homeTeam": "Norway",
+      "homeCode": "no",
+      "homeScore": 3,
+      "awayTeam": "Senegal",
+      "awayCode": "sn",
+      "awayScore": 2,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford, New Jersey",
+      "status": "finished",
+      "group": "I",
       "stage": "GROUP_STAGE",
       "matchday": 0,
       "minute": null,
@@ -1016,7 +1014,9 @@
         null,
         null
       ]
-    },
+    }
+  ],
+  "upcomingMatches": [
     {
       "id": 760461,
       "date": "2026-06-23",

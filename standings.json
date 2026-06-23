@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T01:23:07.161Z",
+  "lastUpdated": "2026-06-23T04:34:31.592Z",
   "groups": {
     "A": {
       "teams": [
@@ -467,26 +467,26 @@
         {
           "name": "Norway",
           "code": "no",
-          "played": 1,
-          "won": 1,
+          "played": 2,
+          "won": 2,
           "drawn": 0,
           "lost": 0,
-          "gf": 4,
-          "ga": 1,
-          "gd": 3,
-          "points": 3,
+          "gf": 7,
+          "ga": 3,
+          "gd": 4,
+          "points": 6,
           "position": 2
         },
         {
           "name": "Senegal",
           "code": "sn",
-          "played": 1,
+          "played": 2,
           "won": 0,
           "drawn": 0,
-          "lost": 1,
-          "gf": 1,
-          "ga": 3,
-          "gd": -2,
+          "lost": 2,
+          "gf": 3,
+          "ga": 6,
+          "gd": -3,
           "points": 0,
           "position": 3
         },
