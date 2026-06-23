@@ -1,44 +1,227 @@
 {
-  "lastUpdated": "2026-06-23T19:27:09.376Z",
+  "lastUpdated": "2026-06-23T21:01:23.409Z",
   "featured": {
-    "match": "7PJzrYC9eXc",
-    "highlight": "7PJzrYC9eXc",
-    "interview": "7PJzrYC9eXc"
+    "match": "m7gwAbrF2Xs",
+    "highlight": "m7gwAbrF2Xs",
+    "interview": "m7gwAbrF2Xs"
   },
   "videos": [
     {
-      "title": "Alt Cast Highlights: Ecuador v Curaçao | FIFA World Cup 2026™ - YouTube",
-      "videoId": "7PJzrYC9eXc",
-      "channel": "Web Search",
+      "title": "Portugal 🆚 Uzbekistan  #FIFAWorldCupOnYT",
+      "videoId": "m7gwAbrF2Xs",
+      "channel": "FIFA",
       "publishedAt": "2026-06-23",
       "category": "Highlights",
       "team": [
-        "Ecuador"
+        "Portugal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7PJzrYC9eXc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/m7gwAbrF2Xs/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Ecuador vs Curaçao",
-      "source": "match-search"
+      "fixtureTeams": "Brazil vs Haiti"
     },
     {
-      "title": "Ecuador vs Curaçao Extended Highlights 2026 FIFA World Cup™",
-      "videoId": "_JQLeADlzXM",
-      "channel": "Web Search",
+      "title": "Post-Match Press Conference: Uzbekistan's Fabio Cannavaro On The 5-0 Loss To Portugal",
+      "videoId": "_rocwpDmWG4",
+      "channel": "FIFA",
       "publishedAt": "2026-06-23",
       "category": "Highlights",
       "team": [
-        "Ecuador"
+        "Portugal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_JQLeADlzXM/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/_rocwpDmWG4/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Ecuador vs Curaçao",
-      "source": "match-search"
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Qatar Train Before Bosnia and Herzegovina | FIFA World Cup 2026™",
+      "videoId": "nbjLQpFPZZU",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Qatar",
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/nbjLQpFPZZU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Canada Train Before Switzerland | FIFA World Cup 2026™",
+      "videoId": "VuIAXryhgrM",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Canada",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/VuIAXryhgrM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Switzerland Train Before Canada | FIFA World Cup 2026™",
+      "videoId": "w58TGMU7boQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Canada",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/w58TGMU7boQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Scotland On Playing Brazil | Steve Clarke Takes Questions",
+      "videoId": "UN1WLTGvYuI",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Scotland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/UN1WLTGvYuI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Highlights | Argentina 2-0 Austria | FIFA World Cup 2026™",
+      "videoId": "M4Ccsmk3gcE",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/M4Ccsmk3gcE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Bosnia and Herzegovina Train Before Qatar | FIFA World Cup 2026™",
+      "videoId": "uvtGBWgV4N8",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Qatar",
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/uvtGBWgV4N8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "South Africa On Playing Korea Republic | Hugo Broos & Sphephelo Sithole Take Questions",
+      "videoId": "F65wq0sO3vo",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/F65wq0sO3vo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Mexico Train Before Czechia | FIFA World Cup 2026™",
+      "videoId": "psQaykxjwUY",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Czechia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/psQaykxjwUY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Korea Republic Train Before South Africa | FIFA World Cup 2026™",
+      "videoId": "xhUCeYxQQYM",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xhUCeYxQQYM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Scotland Train Before Brazil | FIFA World Cup 2026™",
+      "videoId": "ySpQPxRKUhM",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Scotland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ySpQPxRKUhM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Haiti Train Before Morocco | FIFA World Cup 2026™",
+      "videoId": "h7GqAR9gDOc",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Morocco",
+        "Haiti"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/h7GqAR9gDOc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
     },
     {
       "title": "Team Feature: Korea Republic | Remembering Korea Republic Great Yoo Shang-chul",
@@ -55,230 +238,73 @@
       "fixtureTeams": "Brazil vs Haiti"
     },
     {
-      "title": "Brazil Train Before Scotland | FIFA World Cup 2026™",
-      "videoId": "Y54i3KlZiRI",
-      "channel": "FIFA",
+      "title": "Statement made by the 41-year-old 😤",
+      "videoId": "YACRL7bs0MQ",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-23",
       "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Scotland"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Y54i3KlZiRI/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/YACRL7bs0MQ/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Brazil vs Haiti"
     },
     {
-      "title": "Team Feature: South Africa | Mkhalele Reminisces About World Cup 1998 Experiences For South Africa",
-      "videoId": "vGD8nkq5r8A",
-      "channel": "FIFA",
+      "title": "ESPN FC reacts to Cristiano Ronaldo scoring brace in Portugal’s win | ESPN FC",
+      "videoId": "FGe9QolTD6A",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-23",
       "category": "Highlights",
       "team": [
-        "South Africa"
+        "Portugal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vGD8nkq5r8A/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/FGe9QolTD6A/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Brazil vs Haiti"
     },
     {
-      "title": "Team Feature: Mexico | Rangel: Believe In Yourself And You Can Achieve Anything",
-      "videoId": "xBqi-U4wink",
-      "channel": "FIFA",
+      "title": "Ronaldo GOOAALLSS 🗣️ Cristiano's 2 goals, Messi & USMNT w/ Andres Cantor | The Pat McAfee Show",
+      "videoId": "7hAeQcWoPs0",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-23",
       "category": "Highlights",
-      "team": [
-        "Mexico"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xBqi-U4wink/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/7hAeQcWoPs0/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Brazil vs Haiti"
     },
     {
-      "title": "Team Feature: Czechia | Sadílek: Mexico Match 'Make Or Break' For Czechia",
-      "videoId": "8faqXYYofdw",
-      "channel": "FIFA",
+      "title": "Ronaldo GOOOAAAALLL 🗣️",
+      "videoId": "3bDKawHS18s",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-23",
       "category": "Highlights",
-      "team": [
-        "Mexico",
-        "Czechia"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/8faqXYYofdw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/3bDKawHS18s/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Brazil vs Haiti"
     },
     {
-      "title": "Team Feature: Haiti | From The Olympics Team To The World Cup For Placide",
-      "videoId": "fLUn24TJbXE",
-      "channel": "FIFA",
+      "title": "Talking about Ronaldo not scoring in the World Cup right as he scored 😂",
+      "videoId": "6JMt6ZKARlE",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-23",
       "category": "Highlights",
-      "team": [
-        "Haiti"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fLUn24TJbXE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Team Feature: Morocco | Ouahbi On Setting The Highest Of Standards For Morocco",
-      "videoId": "RlLv44o9FAY",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/RlLv44o9FAY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Team Feature: Brazil | Alisson Looking To Emulate 'World Champion' Cláudio Taffarel",
-      "videoId": "mHZ5cwk_DGU",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [
-        "Brazil"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/mHZ5cwk_DGU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Match Preview: South Africa vs Korea Republic | FIFA World Cup 2026™",
-      "videoId": "H8onGxfcVnQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [
-        "South Africa"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/H8onGxfcVnQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Team Feature: Scotland | Souttars On Making Their Late Big Brother Proud",
-      "videoId": "6eb9SyDvc9s",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [
-        "Scotland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/6eb9SyDvc9s/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Match Preview: Czechia vs Mexico | FIFA World Cup 2026™",
-      "videoId": "rjTRpFFfJIk",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [
-        "Mexico",
-        "Czechia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/rjTRpFFfJIk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Match Preview: Morocco vs Haiti | FIFA World Cup 2026™",
-      "videoId": "degi0zOUr_Y",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [
-        "Morocco",
-        "Haiti"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/degi0zOUr_Y/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Team Feature: Qatar | Lopetegui: We Have The Spirit To Be More Competitive",
-      "videoId": "o3MTiVPV4fw",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [
-        "Qatar"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/o3MTiVPV4fw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Match Preview: Scotland vs Brazil | FIFA World Cup 2026™",
-      "videoId": "nR_lF6AQcPE",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Scotland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/nR_lF6AQcPE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Team Feature: Canada | Going After The Win",
-      "videoId": "FRYTKFqU8VY",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [
-        "Canada"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FRYTKFqU8VY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/6JMt6ZKARlE/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Brazil vs Haiti"
@@ -428,76 +454,21 @@
       "fixtureTeams": "Brazil vs Haiti"
     },
     {
-      "title": "Will Erling Haaland BEAT Lionel Messi and Kylian Mbappe for the Golden Boot? | ESPN FC",
-      "videoId": "xCO9KZT2sDE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xCO9KZT2sDE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "ESPN FC love THIS while watching Lionel Messi playing for Argentina",
-      "videoId": "2QDdSEeipWc",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-23",
+      "title": "WATCH LIVE | England v Ghana | Group Stage L | FIFA World Cup 2026™",
+      "videoId": "lD_yelKFOZc",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-10",
       "category": "Highlights",
       "team": [
-        "Argentina"
+        "England",
+        "Ghana"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/2QDdSEeipWc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/lD_yelKFOZc/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Julian Alvarez is now ENEMY No. 1 for Atletico Madrid?! | ESPN FC",
-      "videoId": "xDqGV9vJkck",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xDqGV9vJkck/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Kaka said THIS 👀",
-      "videoId": "K_moqYfu-kI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/K_moqYfu-kI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Julian Alavarez wants out of Atletico",
-      "videoId": "t5E06DVXpXg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/t5E06DVXpXg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
+      "fixtureTeams": "Mexico vs South Africa"
     }
   ]
 }
