@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T18:25:08.544Z",
+  "lastUpdated": "2026-06-23T19:26:17.784Z",
   "fixtures": [
     {
       "id": 760415,
@@ -1108,17 +1108,17 @@
       "utcDate": "2026-06-23T17:00Z",
       "homeTeam": "Portugal",
       "homeCode": "pt",
-      "homeScore": 4,
+      "homeScore": 5,
       "awayTeam": "Uzbekistan",
       "awayCode": "un",
       "awayScore": 0,
       "venue": "NRG Stadium",
       "city": "Houston, Texas",
-      "status": "in_play",
+      "status": "finished",
       "group": "K",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "61'",
+      "minute": null,
       "halfTime": [
         null,
         null
