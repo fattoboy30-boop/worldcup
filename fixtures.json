@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T00:18:45.624Z",
+  "lastUpdated": "2026-06-23T01:23:07.160Z",
   "fixtures": [
     {
       "id": 760415,
@@ -1033,17 +1033,17 @@
       "utcDate": "2026-06-22T21:00Z",
       "homeTeam": "France",
       "homeCode": "fr",
-      "homeScore": 2,
+      "homeScore": 3,
       "awayTeam": "Iraq",
       "awayCode": "iq",
       "awayScore": 0,
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia, Pennsylvania",
-      "status": "in_play",
+      "status": "finished",
       "group": "I",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "62'",
+      "minute": null,
       "halfTime": [
         null,
         null
@@ -1058,17 +1058,17 @@
       "utcDate": "2026-06-23T00:00Z",
       "homeTeam": "Norway",
       "homeCode": "no",
-      "homeScore": 0,
+      "homeScore": 3,
       "awayTeam": "Senegal",
       "awayCode": "sn",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "MetLife Stadium",
       "city": "East Rutherford, New Jersey",
       "status": "in_play",
       "group": "I",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "18'",
+      "minute": "64'",
       "halfTime": [
         null,
         null

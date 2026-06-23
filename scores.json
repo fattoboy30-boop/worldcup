@@ -1,29 +1,6 @@
 {
-  "lastUpdated": "2026-06-23T00:18:45.618Z",
+  "lastUpdated": "2026-06-23T01:23:07.156Z",
   "liveMatches": [
-    {
-      "id": 760457,
-      "date": "2026-06-22",
-      "time": "21:00",
-      "utcDate": "2026-06-22T21:00Z",
-      "homeTeam": "France",
-      "homeCode": "fr",
-      "homeScore": 2,
-      "awayTeam": "Iraq",
-      "awayCode": "iq",
-      "awayScore": 0,
-      "venue": "Lincoln Financial Field",
-      "city": "Philadelphia, Pennsylvania",
-      "status": "in_play",
-      "group": "I",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": "62'",
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760454,
       "date": "2026-06-23",
@@ -31,17 +8,17 @@
       "utcDate": "2026-06-23T00:00Z",
       "homeTeam": "Norway",
       "homeCode": "no",
-      "homeScore": 0,
+      "homeScore": 3,
       "awayTeam": "Senegal",
       "awayCode": "sn",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "MetLife Stadium",
       "city": "East Rutherford, New Jersey",
       "status": "in_play",
       "group": "I",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "18'",
+      "minute": "64'",
       "halfTime": [
         null,
         null
@@ -984,6 +961,29 @@
       "city": "Arlington, Texas",
       "status": "finished",
       "group": "J",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": null,
+      "halfTime": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": 760457,
+      "date": "2026-06-22",
+      "time": "21:00",
+      "utcDate": "2026-06-22T21:00Z",
+      "homeTeam": "France",
+      "homeCode": "fr",
+      "homeScore": 3,
+      "awayTeam": "Iraq",
+      "awayCode": "iq",
+      "awayScore": 0,
+      "venue": "Lincoln Financial Field",
+      "city": "Philadelphia, Pennsylvania",
+      "status": "finished",
+      "group": "I",
       "stage": "GROUP_STAGE",
       "matchday": 0,
       "minute": null,

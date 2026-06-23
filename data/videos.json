@@ -1,11 +1,28 @@
 {
-  "lastUpdated": "2026-06-23T00:11:02.762Z",
+  "lastUpdated": "2026-06-23T01:23:44.582Z",
   "featured": {
-    "match": "LkhIm6-vegg",
-    "highlight": "LkhIm6-vegg",
-    "interview": "LkhIm6-vegg"
+    "match": "_JQLeADlzXM",
+    "highlight": "_JQLeADlzXM",
+    "interview": "_JQLeADlzXM"
   },
   "videos": [
+    {
+      "title": "Ecuador vs Curaçao Extended Highlights 2026 FIFA World Cup™",
+      "videoId": "_JQLeADlzXM",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_JQLeADlzXM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao",
+      "source": "match-search"
+    },
     {
       "title": "England Train Before Ghana",
       "videoId": "LkhIm6-vegg",
