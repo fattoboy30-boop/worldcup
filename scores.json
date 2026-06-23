@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T23:07:28.661Z",
+  "lastUpdated": "2026-06-23T00:18:45.618Z",
   "liveMatches": [
     {
       "id": 760457,
@@ -8,7 +8,7 @@
       "utcDate": "2026-06-22T21:00Z",
       "homeTeam": "France",
       "homeCode": "fr",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayTeam": "Iraq",
       "awayCode": "iq",
       "awayScore": 0,
@@ -18,7 +18,30 @@
       "group": "I",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "45'+3'",
+      "minute": "62'",
+      "halfTime": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": 760454,
+      "date": "2026-06-23",
+      "time": "00:00",
+      "utcDate": "2026-06-23T00:00Z",
+      "homeTeam": "Norway",
+      "homeCode": "no",
+      "homeScore": 0,
+      "awayTeam": "Senegal",
+      "awayCode": "sn",
+      "awayScore": 0,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford, New Jersey",
+      "status": "in_play",
+      "group": "I",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "18'",
       "halfTime": [
         null,
         null
@@ -971,29 +994,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760454,
-      "date": "2026-06-23",
-      "time": "00:00",
-      "utcDate": "2026-06-23T00:00Z",
-      "homeTeam": "Norway",
-      "homeCode": "no",
-      "homeScore": 0,
-      "awayTeam": "Senegal",
-      "awayCode": "sn",
-      "awayScore": 0,
-      "venue": "MetLife Stadium",
-      "city": "East Rutherford, New Jersey",
-      "status": "timed",
-      "group": "I",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760455,
       "date": "2026-06-23",
