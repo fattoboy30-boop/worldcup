@@ -1,44 +1,157 @@
 {
-  "lastUpdated": "2026-06-23T15:25:34.732Z",
+  "lastUpdated": "2026-06-23T15:52:43.130Z",
   "featured": {
-    "match": "UszDTFmzGpY",
-    "highlight": "UszDTFmzGpY",
-    "interview": "C5qwEL2bZBU"
+    "match": "8faqXYYofdw",
+    "highlight": "8faqXYYofdw",
+    "interview": "8faqXYYofdw"
   },
   "videos": [
     {
-      "title": "Ecuador vs Curacao | Group E | FIFA World Cup 2026 - YouTube",
-      "videoId": "UszDTFmzGpY",
-      "channel": "Web Search",
+      "title": "Team Feature: Czechia | Sadílek: Mexico Match 'Make Or Break' For Czechia",
+      "videoId": "8faqXYYofdw",
+      "channel": "FIFA",
       "publishedAt": "2026-06-23",
       "category": "Highlights",
       "team": [
-        "Ecuador"
+        "Mexico",
+        "Czechia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/UszDTFmzGpY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/8faqXYYofdw/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Ecuador vs Curaçao",
-      "source": "match-search"
+      "fixtureTeams": "Brazil vs Haiti"
     },
     {
-      "title": "Highlights | Ecuador 0-0 Curaçao | FIFA World Cup 2026 - YouTube",
-      "videoId": "10sfRcI5AIw",
-      "channel": "Web Search",
+      "title": "Team Feature: Haiti | From The Olympics Team To The World Cup For Placide",
+      "videoId": "fLUn24TJbXE",
+      "channel": "FIFA",
       "publishedAt": "2026-06-23",
       "category": "Highlights",
       "team": [
-        "Ecuador"
+        "Haiti"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/10sfRcI5AIw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/fLUn24TJbXE/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Ecuador vs Curaçao",
-      "source": "match-search"
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Team Feature: Morocco | Ouahbi On Setting The Highest Of Standards For Morocco",
+      "videoId": "RlLv44o9FAY",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RlLv44o9FAY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Team Feature: Brazil | Alisson Looking To Emulate 'World Champion' Cláudio Taffarel",
+      "videoId": "mHZ5cwk_DGU",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Brazil"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/mHZ5cwk_DGU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Match Preview: South Africa vs Korea Republic | FIFA World Cup 2026™",
+      "videoId": "H8onGxfcVnQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/H8onGxfcVnQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Team Feature: Scotland | Souttars On Making Their Late Big Brother Proud",
+      "videoId": "6eb9SyDvc9s",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Scotland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6eb9SyDvc9s/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Match Preview: Czechia vs Mexico | FIFA World Cup 2026™",
+      "videoId": "rjTRpFFfJIk",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Czechia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/rjTRpFFfJIk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Match Preview: Morocco vs Haiti | FIFA World Cup 2026™",
+      "videoId": "degi0zOUr_Y",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Morocco",
+        "Haiti"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/degi0zOUr_Y/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Team Feature: Qatar | Lopetegui: We Have The Spirit To Be More Competitive",
+      "videoId": "o3MTiVPV4fw",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Qatar"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/o3MTiVPV4fw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
     },
     {
       "title": "Match Preview: Scotland vs Brazil | FIFA World Cup 2026™",
@@ -90,7 +203,7 @@
       "fixtureTeams": "Brazil vs Haiti"
     },
     {
-      "title": "Match Preview: Bosnia and Herzegovina vs Qatar| FIFA World Cup 2026™",
+      "title": "Match Preview: Bosnia and Herzegovina vs Qatar | FIFA World Cup 2026™",
       "videoId": "ZQeJy0cLUMo",
       "channel": "FIFA",
       "publishedAt": "2026-06-23",
@@ -140,41 +253,109 @@
       "fixtureTeams": "Brazil vs Haiti"
     },
     {
-      "title": "Congo DR On Playing Colombia | Sébastien Desabre & Aaron Tshibola Answer Questions",
-      "videoId": "0bp2fCnLOMU",
-      "channel": "FIFA",
+      "title": "Erling Haaland scored 2 GOALS with only 23 touches?! | ESPN FC",
+      "videoId": "TTw0xpwQ2d4",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-23",
       "category": "Highlights",
-      "team": [
-        "Colombia"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/0bp2fCnLOMU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/TTw0xpwQ2d4/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Brazil vs Haiti"
     },
     {
-      "title": "Colombia Train Before Congo DR | FIFA World Cup 2026™",
-      "videoId": "QfaIE5A5DsE",
-      "channel": "FIFA",
+      "title": "What would the Golden Boot MEAN for Lionel Messi in the 2026 FIFA World Cup? 🏆 | First Take",
+      "videoId": "Nc-hi41hRSo",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-23",
       "category": "Highlights",
-      "team": [
-        "Colombia"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/QfaIE5A5DsE/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Nc-hi41hRSo/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Brazil vs Haiti"
     },
     {
-      "title": "Uzbekistan On Playing Portugal | Fabio Cannavaro & Eldor Shomurodov Take Questions",
-      "videoId": "NPILUm-eB7Q",
-      "channel": "FIFA",
+      "title": "The Tartan Army is out & about 🤩⚽️🏴󠁧󠁢󠁳󠁣󠁴󠁿⚾️",
+      "videoId": "LE7X-3qsVKU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/LE7X-3qsVKU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Norway was out in full force 😅",
+      "videoId": "FRHLRKEqpPY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/FRHLRKEqpPY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Messi breaks goal record, Haaland and Mbappe each tally braces | ESPN FC",
+      "videoId": "VACyN1SPk9o",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/VACyN1SPk9o/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Bradley Wright-Phillips gives some insight",
+      "videoId": "-U3cilmfY2s",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-U3cilmfY2s/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Chat we’re cooking 🔥🔥🔥",
+      "videoId": "Z5M9_Ms5G2Q",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Z5M9_Ms5G2Q/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Cristiano Ronaldo should ‘ABSOLUTELY START’ for Portugal - Nedum Onuoha | ESPN FC",
+      "videoId": "WmQ4weqIEuM",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-23",
       "category": "Highlights",
       "team": [
@@ -182,127 +363,42 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/NPILUm-eB7Q/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/WmQ4weqIEuM/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Brazil vs Haiti"
     },
     {
-      "title": "Post-Match Player Interviews: Jordan 1-2 Algeria",
-      "videoId": "tmtuHhvX3hI",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [
-        "Algeria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/tmtuHhvX3hI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Post-Match Press Conference: Jordan's Jamal Sellami On 2-1 Loss Against Algeria",
-      "videoId": "hpZF-CsVcvI",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [
-        "Algeria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/hpZF-CsVcvI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Post-Match Press Conference: Algeria's Vladimir Petkovic On 2-1 Win Against Jordan",
-      "videoId": "F99e3idHib0",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [
-        "Algeria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/F99e3idHib0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Post-Match Press Conference: Senegal's Pape Thiaw On 3-2 Loss To Norway",
-      "videoId": "ZjwlU1REfj4",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [
-        "Senegal",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ZjwlU1REfj4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Post-Match Player Interviews: Norway 3-2 Senegal",
-      "videoId": "kHbrkta2Erc",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [
-        "Senegal",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/kHbrkta2Erc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Post-Match Press Conference: Norway's Ståle Solbakken On The 3-2 Win Over Senegal",
-      "videoId": "7b_0T_2RS_w",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [
-        "Senegal",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7b_0T_2RS_w/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Haaland only had 23 touches 👀",
-      "videoId": "SvFWJP7ID8g",
+      "title": "Julien Laurens credits Kylian Mbappe + talks EXTREME WEATHER DELAY | ESPN FC",
+      "videoId": "BsHwYY5uDvk",
       "channel": "ESPN FC",
       "publishedAt": "2026-06-23",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/SvFWJP7ID8g/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/BsHwYY5uDvk/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Brazil vs Haiti"
     },
     {
-      "title": "Lionel Messi is ‘NOT SLOWING DOWN AT ALL’ as Argentina win again | SportsCenter",
-      "videoId": "r6Mt0iPKjFM",
+      "title": "Will Erling Haaland BEAT Lionel Messi and Kylian Mbappe for the Golden Boot? | ESPN FC",
+      "videoId": "xCO9KZT2sDE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xCO9KZT2sDE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "ESPN FC love THIS while watching Lionel Messi playing for Argentina",
+      "videoId": "2QDdSEeipWc",
       "channel": "ESPN FC",
       "publishedAt": "2026-06-23",
       "category": "Highlights",
@@ -311,199 +407,68 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/r6Mt0iPKjFM/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/2QDdSEeipWc/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Brazil vs Haiti"
     },
     {
-      "title": "Another HISTORIC World Cup day 🍿 Messi breaks goal record + Mbappe & Haaland shine again | ESPN FC",
-      "videoId": "cDsFK9YfsY0",
+      "title": "Julian Alvarez is now ENEMY No. 1 for Atletico Madrid?! | ESPN FC",
+      "videoId": "xDqGV9vJkck",
       "channel": "ESPN FC",
       "publishedAt": "2026-06-23",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/cDsFK9YfsY0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/xDqGV9vJkck/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Brazil vs Haiti"
     },
     {
-      "title": "Will Messi or Mbappe score more goals this World Cup? | ESPN FC Extra Time",
-      "videoId": "YSmXPd4y2_U",
+      "title": "Kaka said THIS 👀",
+      "videoId": "K_moqYfu-kI",
       "channel": "ESPN FC",
       "publishedAt": "2026-06-23",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/YSmXPd4y2_U/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/K_moqYfu-kI/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Brazil vs Haiti"
     },
     {
-      "title": "'Ronaldo is HOLDING PORTUGAL BACK' 😳 Will they win vs. Uzbekistan? | ESPN FC",
-      "videoId": "jucvWqCfOnY",
+      "title": "Julian Alavarez wants out of Atletico",
+      "videoId": "t5E06DVXpXg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/t5E06DVXpXg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Lionel Messi proves Argentina don’t need to search for a difference maker | ESPN FC",
+      "videoId": "riUJK07IO2U",
       "channel": "ESPN FC",
       "publishedAt": "2026-06-23",
       "category": "Highlights",
       "team": [
-        "Portugal"
+        "Argentina"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/jucvWqCfOnY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/riUJK07IO2U/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Norway vs. Senegal FULL REACTION 🍿 Erling Haaland scores two goals | ESPN FC",
-      "videoId": "C5qwEL2bZBU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-23",
-      "category": "Viral",
-      "team": [
-        "Senegal",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/C5qwEL2bZBU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "REACTION to Julian Alvarez WANTING OUT of Atleti 😳 Will he join Barcelona? | ESPN FC",
-      "videoId": "Ia0eLb0q1T0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-23",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Ia0eLb0q1T0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "‘THIS MAN IS A GENIUS!’ – Fjortoft lauds Lionel Messi after setting World Cup goal record | EPSN FC",
-      "videoId": "y10khHg9OTY",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/y10khHg9OTY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Reaction to Kylian Mbappe’s brace in France’s win vs. Iraq | ESPN FC",
-      "videoId": "ZABTu5BtWM4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-23",
-      "category": "Viral",
-      "team": [
-        "France"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ZABTu5BtWM4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Elite tekkers 😮‍💨 (via streetpanna/IG)",
-      "videoId": "-rLn1AShOoo",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-rLn1AShOoo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Herculez Gomez after Messi became the leading goalscorer in WC history 🙌",
-      "videoId": "08OAva0p9LI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/08OAva0p9LI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "Like fine wine 🍷 Messi is still putting the world on notice at 38 years old 🙌",
-      "videoId": "2sbt0F1oncU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/2sbt0F1oncU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "HISTORY! Lionel Messi breaks record for most FIFA World Cup goals ⚽🐐 | ESPN FC",
-      "videoId": "kwsYN1RGUSU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/kwsYN1RGUSU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "Sam Borden’s update on Christian Pulisic’s status vs. Türkiye | SportsCenter",
-      "videoId": "XcBC_50eGcI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/XcBC_50eGcI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "What do you think? 🤔",
-      "videoId": "PraXOVIIEyc",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PraXOVIIEyc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
     }
   ]
 }
