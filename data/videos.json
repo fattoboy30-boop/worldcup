@@ -1,44 +1,73 @@
 {
-  "lastUpdated": "2026-06-23T17:26:12.248Z",
+  "lastUpdated": "2026-06-23T18:01:04.911Z",
   "featured": {
-    "match": "_JQLeADlzXM",
-    "highlight": "_JQLeADlzXM",
-    "interview": "_JQLeADlzXM"
+    "match": "vj9hZ0wMlRQ",
+    "highlight": "vj9hZ0wMlRQ",
+    "interview": "vj9hZ0wMlRQ"
   },
   "videos": [
     {
-      "title": "Ecuador vs Curaçao Extended Highlights 2026 FIFA World Cup™",
-      "videoId": "_JQLeADlzXM",
-      "channel": "Web Search",
+      "title": "Team Feature: Korea Republic | Remembering Korea Republic Great Yoo Shang-chul",
+      "videoId": "vj9hZ0wMlRQ",
+      "channel": "FIFA",
       "publishedAt": "2026-06-23",
       "category": "Highlights",
-      "team": [
-        "Ecuador"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_JQLeADlzXM/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/vj9hZ0wMlRQ/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Ecuador vs Curaçao",
-      "source": "match-search"
+      "fixtureTeams": "Brazil vs Haiti"
     },
     {
-      "title": "Alt Cast Highlights: Ecuador v Curaçao | FIFA World Cup 2026™ - YouTube",
-      "videoId": "7PJzrYC9eXc",
-      "channel": "Web Search",
+      "title": "Brazil Train Before Scotland | FIFA World Cup 2026™",
+      "videoId": "Y54i3KlZiRI",
+      "channel": "FIFA",
       "publishedAt": "2026-06-23",
       "category": "Highlights",
       "team": [
-        "Ecuador"
+        "Brazil",
+        "Scotland"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7PJzrYC9eXc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Y54i3KlZiRI/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Ecuador vs Curaçao",
-      "source": "match-search"
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Team Feature: South Africa | Mkhalele Reminisces About World Cup 1998 Experiences For South Africa",
+      "videoId": "vGD8nkq5r8A",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vGD8nkq5r8A/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Team Feature: Mexico | Rangel: Believe In Yourself And You Can Achieve Anything",
+      "videoId": "xBqi-U4wink",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xBqi-U4wink/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
     },
     {
       "title": "Team Feature: Czechia | Sadílek: Mexico Match 'Make Or Break' For Czechia",
@@ -221,67 +250,15 @@
       "fixtureTeams": "Brazil vs Haiti"
     },
     {
-      "title": "Alt Cast Highlights: Jordan v Algeria | FIFA World Cup 2026™",
-      "videoId": "VhZ9epQLDP4",
-      "channel": "FIFA",
+      "title": "Tyler Adams credits USMNT's World Cup success to MATURITY & TEAM CHEMISTRY 👏 | The Pat McAfee Show",
+      "videoId": "XgrPBN9baIw",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-23",
       "category": "Highlights",
-      "team": [
-        "Algeria"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/VhZ9epQLDP4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Match Preview: Bosnia and Herzegovina vs Qatar | FIFA World Cup 2026™",
-      "videoId": "ZQeJy0cLUMo",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [
-        "Qatar",
-        "Bosnia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ZQeJy0cLUMo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Team Feature: Switzerland | A Game Of Chess",
-      "videoId": "uexbZNGZjtE",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [
-        "Switzerland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/uexbZNGZjtE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Alt Cast Highlights: Argentina v Austria | FIFA World Cup 2026™",
-      "videoId": "cr8i3vnzgnc",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Austria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/cr8i3vnzgnc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/XgrPBN9baIw/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Brazil vs Haiti"
@@ -484,22 +461,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/t5E06DVXpXg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Lionel Messi proves Argentina don’t need to search for a difference maker | ESPN FC",
-      "videoId": "riUJK07IO2U",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/riUJK07IO2U/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Brazil vs Haiti"
