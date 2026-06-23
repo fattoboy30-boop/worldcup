@@ -1,44 +1,189 @@
 {
-  "lastUpdated": "2026-06-23T12:07:37.206Z",
+  "lastUpdated": "2026-06-23T12:36:21.101Z",
   "featured": {
-    "match": "ljQBsW23Z1M",
-    "highlight": "ljQBsW23Z1M",
+    "match": "nR_lF6AQcPE",
+    "highlight": "nR_lF6AQcPE",
     "interview": "C5qwEL2bZBU"
   },
   "videos": [
     {
-      "title": "ECUADOR vs CURACAO 0-0 | 2026 FIFA World Cup | Match Highlights",
-      "videoId": "ljQBsW23Z1M",
-      "channel": "Web Search",
+      "title": "Match Preview: Scotland vs Brazil | FIFA World Cup 2026™",
+      "videoId": "nR_lF6AQcPE",
+      "channel": "FIFA",
       "publishedAt": "2026-06-23",
       "category": "Highlights",
       "team": [
-        "Ecuador"
+        "Brazil",
+        "Scotland"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ljQBsW23Z1M/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/nR_lF6AQcPE/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Ecuador vs Curaçao",
-      "source": "match-search"
+      "fixtureTeams": "Brazil vs Haiti"
     },
     {
-      "title": "Highlights | Ecuador 0-0 Curaçao | FIFA World Cup 2026 - YouTube",
-      "videoId": "10sfRcI5AIw",
-      "channel": "Web Search",
+      "title": "Team Feature: Canada | Going After The Win",
+      "videoId": "FRYTKFqU8VY",
+      "channel": "FIFA",
       "publishedAt": "2026-06-23",
       "category": "Highlights",
       "team": [
-        "Ecuador"
+        "Canada"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/10sfRcI5AIw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/FRYTKFqU8VY/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Ecuador vs Curaçao",
-      "source": "match-search"
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Alt Cast Highlights: Jordan v Algeria | FIFA World Cup 2026™",
+      "videoId": "VhZ9epQLDP4",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/VhZ9epQLDP4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Match Preview: Bosnia and Herzegovina vs Qatar| FIFA World Cup 2026™",
+      "videoId": "ZQeJy0cLUMo",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Qatar",
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ZQeJy0cLUMo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Team Feature: Switzerland | A Game Of Chess",
+      "videoId": "uexbZNGZjtE",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/uexbZNGZjtE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Alt Cast Highlights: Argentina v Austria | FIFA World Cup 2026™",
+      "videoId": "cr8i3vnzgnc",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cr8i3vnzgnc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Congo DR On Playing Colombia | Sébastien Desabre & Aaron Tshibola Answer Questions",
+      "videoId": "0bp2fCnLOMU",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0bp2fCnLOMU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Colombia Train Before Congo DR | FIFA World Cup 2026™",
+      "videoId": "QfaIE5A5DsE",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QfaIE5A5DsE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Uzbekistan On Playing Portugal | Fabio Cannavaro & Eldor Shomurodov Take Questions",
+      "videoId": "NPILUm-eB7Q",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/NPILUm-eB7Q/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Post-Match Player Interviews: Jordan 1-2 Algeria",
+      "videoId": "tmtuHhvX3hI",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tmtuHhvX3hI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Post-Match Press Conference: Jordan's Jamal Sellami On 2-1 Loss Against Algeria",
+      "videoId": "hpZF-CsVcvI",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/hpZF-CsVcvI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
     },
     {
       "title": "Post-Match Press Conference: Algeria's Vladimir Petkovic On 2-1 Win Against Jordan",
@@ -108,176 +253,31 @@
       "fixtureTeams": "Brazil vs Haiti"
     },
     {
-      "title": "Post-Match Press Conference: Iraq's Graham Arnold On The 3-0 Loss To France",
-      "videoId": "bvhdkIrJK_Y",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [
-        "France"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/bvhdkIrJK_Y/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Post-Match Press Conference: France's Didier Deschamps On The 3-0 Win Over Iraq",
-      "videoId": "tw2AR9cH0ek",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [
-        "France"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/tw2AR9cH0ek/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Post-Match Player Interviews: France 3-0 Iraq",
-      "videoId": "ibOi0UOam4s",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [
-        "France"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ibOi0UOam4s/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Nadhir Benbouali Goal | Jordan 1-2 Algeria | FIFA World Cup 2026™",
-      "videoId": "T4zNe8i3c6Q",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [
-        "Algeria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/T4zNe8i3c6Q/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "June 22 Matchday Recap | #FIFAWorldCup ‪‪‪@aramco",
-      "videoId": "6aarO6UjmZY",
-      "channel": "FIFA",
+      "title": "Haaland only had 23 touches 👀",
+      "videoId": "SvFWJP7ID8g",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-23",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/6aarO6UjmZY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/SvFWJP7ID8g/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Brazil vs Haiti"
     },
     {
-      "title": "Amine Gouiri Goal | Jordan 1-2 Algeria | FIFA World Cup 2026™",
-      "videoId": "OIBomnJZ8is",
-      "channel": "FIFA",
+      "title": "Lionel Messi is ‘NOT SLOWING DOWN AT ALL’ as Argentina win again | SportsCenter",
+      "videoId": "r6Mt0iPKjFM",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-23",
       "category": "Highlights",
       "team": [
-        "Algeria"
+        "Argentina"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/OIBomnJZ8is/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Gouiri scores Algeria's second goal against Jordan. #FIFAWorldCupOnYT",
-      "videoId": "Lm9pICrpQj4",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [
-        "Algeria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Lm9pICrpQj4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Benbouali scores Algeria equalizer against Jordan. #FIFAWorldCupOnYT",
-      "videoId": "bCtqgEzte8w",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [
-        "Algeria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/bCtqgEzte8w/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Jordan 🆚 Algeria #FIFAWorldCupOnYT",
-      "videoId": "sXthUD_EaHI",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [
-        "Algeria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/sXthUD_EaHI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "15-Minute Match: Brazil vs Scotland | 1998 Opener",
-      "videoId": "sAtv_eg6cIg",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Scotland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/sAtv_eg6cIg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Brazil vs Haiti"
-    },
-    {
-      "title": "Dancing in the rain. Mbappé style 🌧️✨#FIFAWorldCup #Kia #InspirationConnectsUsAll",
-      "videoId": "fAYFAFTPc8M",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-23",
-      "category": "Highlights",
-      "team": [
-        "USA"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fAYFAFTPc8M/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/r6Mt0iPKjFM/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Brazil vs Haiti"
@@ -467,34 +467,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/PraXOVIIEyc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "Is Landon Donovan right? 🤔",
-      "videoId": "m-4G_oPqxWE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/m-4G_oPqxWE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Korea"
-    },
-    {
-      "title": "Can the U.S. go all the way?🤔",
-      "videoId": "YUaTExeUO7k",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-22",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/YUaTExeUO7k/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Mexico vs South Korea"
