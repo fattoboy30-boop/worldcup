@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-23T22:40:23.738Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-06-23T23:15:14.663Z",
+  "liveMatches": [
+    {
+      "id": 760460,
+      "date": "2026-06-23",
+      "time": "23:00",
+      "utcDate": "2026-06-23T23:00Z",
+      "homeTeam": "Panama",
+      "homeCode": "pa",
+      "homeScore": 0,
+      "awayTeam": "Croatia",
+      "awayCode": "hr",
+      "awayScore": 0,
+      "venue": "BMO Field",
+      "city": "Toronto",
+      "status": "in_play",
+      "group": "L",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "15'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -1062,29 +1086,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760460,
-      "date": "2026-06-23",
-      "time": "23:00",
-      "utcDate": "2026-06-23T23:00Z",
-      "homeTeam": "Panama",
-      "homeCode": "pa",
-      "homeScore": 0,
-      "awayTeam": "Croatia",
-      "awayCode": "hr",
-      "awayScore": 0,
-      "venue": "BMO Field",
-      "city": "Toronto",
-      "status": "timed",
-      "group": "L",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760459,
       "date": "2026-06-24",
