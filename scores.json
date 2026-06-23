@@ -1,30 +1,6 @@
 {
-  "lastUpdated": "2026-06-23T04:34:31.588Z",
-  "liveMatches": [
-    {
-      "id": 760455,
-      "date": "2026-06-23",
-      "time": "03:00",
-      "utcDate": "2026-06-23T03:00Z",
-      "homeTeam": "Jordan",
-      "homeCode": "un",
-      "homeScore": 1,
-      "awayTeam": "Algeria",
-      "awayCode": "un",
-      "awayScore": 1,
-      "venue": "Levi's Stadium",
-      "city": "Santa Clara, California",
-      "status": "in_play",
-      "group": "J",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": "72'",
-      "halfTime": [
-        null,
-        null
-      ]
-    }
-  ],
+  "lastUpdated": "2026-06-23T05:39:55.484Z",
+  "liveMatches": [],
   "recentResults": [
     {
       "id": 760415,
@@ -1014,6 +990,29 @@
         null,
         null
       ]
+    },
+    {
+      "id": 760455,
+      "date": "2026-06-23",
+      "time": "03:00",
+      "utcDate": "2026-06-23T03:00Z",
+      "homeTeam": "Jordan",
+      "homeCode": "un",
+      "homeScore": 1,
+      "awayTeam": "Algeria",
+      "awayCode": "un",
+      "awayScore": 2,
+      "venue": "Levi's Stadium",
+      "city": "Santa Clara, California",
+      "status": "finished",
+      "group": "J",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": null,
+      "halfTime": [
+        null,
+        null
+      ]
     }
   ],
   "upcomingMatches": [
@@ -1988,8 +1987,8 @@
       "date": "2026-07-03",
       "time": "22:00",
       "utcDate": "2026-07-03T22:00Z",
-      "homeTeam": "Group J Winner",
-      "homeCode": "un",
+      "homeTeam": "Argentina",
+      "homeCode": "ar",
       "homeScore": 0,
       "awayTeam": "Group H 2nd Place",
       "awayCode": "un",
@@ -1997,7 +1996,7 @@
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens, Florida",
       "status": "timed",
-      "group": null,
+      "group": "J",
       "stage": "ROUND_OF_32",
       "matchday": 0,
       "minute": null,
