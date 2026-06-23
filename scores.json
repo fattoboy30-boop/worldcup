@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T05:39:55.484Z",
+  "lastUpdated": "2026-06-23T08:07:07.256Z",
   "liveMatches": [],
   "recentResults": [
     {
@@ -1987,8 +1987,8 @@
       "date": "2026-07-03",
       "time": "22:00",
       "utcDate": "2026-07-03T22:00Z",
-      "homeTeam": "Argentina",
-      "homeCode": "ar",
+      "homeTeam": "Group J Winner",
+      "homeCode": "un",
       "homeScore": 0,
       "awayTeam": "Group H 2nd Place",
       "awayCode": "un",
@@ -1996,7 +1996,7 @@
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens, Florida",
       "status": "timed",
-      "group": "J",
+      "group": null,
       "stage": "ROUND_OF_32",
       "matchday": 0,
       "minute": null,
