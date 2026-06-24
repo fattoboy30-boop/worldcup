@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T01:32:06.690Z",
+  "lastUpdated": "2026-06-24T04:37:39.961Z",
   "fixtures": [
     {
       "id": 760415,
@@ -1183,13 +1183,13 @@
       "utcDate": "2026-06-24T02:00Z",
       "homeTeam": "Colombia",
       "homeCode": "co",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayTeam": "Congo DR",
       "awayCode": "un",
       "awayScore": 0,
       "venue": "Estadio Akron",
       "city": "Guadalajara",
-      "status": "timed",
+      "status": "finished",
       "group": "K",
       "stage": "GROUP_STAGE",
       "matchday": 0,

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T01:32:06.691Z",
+  "lastUpdated": "2026-06-24T04:37:39.962Z",
   "groups": {
     "A": {
       "teams": [
@@ -564,6 +564,19 @@
     "K": {
       "teams": [
         {
+          "name": "Colombia",
+          "code": "co",
+          "played": 2,
+          "won": 2,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 4,
+          "ga": 1,
+          "gd": 3,
+          "points": 6,
+          "position": 1
+        },
+        {
           "name": "Portugal",
           "code": "pt",
           "played": 2,
@@ -574,31 +587,18 @@
           "ga": 1,
           "gd": 5,
           "points": 4,
-          "position": 1
-        },
-        {
-          "name": "Colombia",
-          "code": "co",
-          "played": 1,
-          "won": 1,
-          "drawn": 0,
-          "lost": 0,
-          "gf": 3,
-          "ga": 1,
-          "gd": 2,
-          "points": 3,
           "position": 2
         },
         {
           "name": "Congo DR",
           "code": "un",
-          "played": 1,
+          "played": 2,
           "won": 0,
           "drawn": 1,
-          "lost": 0,
+          "lost": 1,
           "gf": 1,
-          "ga": 1,
-          "gd": 0,
+          "ga": 2,
+          "gd": -1,
           "points": 1,
           "position": 3
         },

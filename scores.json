@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T01:32:06.686Z",
+  "lastUpdated": "2026-06-24T04:37:39.957Z",
   "liveMatches": [],
   "recentResults": [
     {
@@ -1082,9 +1082,7 @@
         null,
         null
       ]
-    }
-  ],
-  "upcomingMatches": [
+    },
     {
       "id": 760459,
       "date": "2026-06-24",
@@ -1092,13 +1090,13 @@
       "utcDate": "2026-06-24T02:00Z",
       "homeTeam": "Colombia",
       "homeCode": "co",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayTeam": "Congo DR",
       "awayCode": "un",
       "awayScore": 0,
       "venue": "Estadio Akron",
       "city": "Guadalajara",
-      "status": "timed",
+      "status": "finished",
       "group": "K",
       "stage": "GROUP_STAGE",
       "matchday": 0,
@@ -1107,7 +1105,9 @@
         null,
         null
       ]
-    },
+    }
+  ],
+  "upcomingMatches": [
     {
       "id": 760462,
       "date": "2026-06-24",
