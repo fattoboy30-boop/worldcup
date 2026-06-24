@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T22:18:36.863Z",
+  "lastUpdated": "2026-06-24T22:25:26.915Z",
   "fixtures": [
     {
       "id": 760415,
@@ -1268,7 +1268,7 @@
       "group": "C",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "18'",
+      "minute": "24'",
       "halfTime": [
         null,
         null
@@ -1286,14 +1286,14 @@
       "homeScore": 0,
       "awayTeam": "Brazil",
       "awayCode": "br",
-      "awayScore": 1,
+      "awayScore": 2,
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens, Florida",
       "status": "in_play",
       "group": "C",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "17'",
+      "minute": "24'",
       "halfTime": [
         null,
         null
@@ -1809,13 +1809,13 @@
       "homeTeam": "Group A 2nd Place",
       "homeCode": "un",
       "homeScore": 0,
-      "awayTeam": "Group B 2nd Place",
-      "awayCode": "un",
+      "awayTeam": "Canada",
+      "awayCode": "ca",
       "awayScore": 0,
       "venue": "SoFi Stadium",
       "city": "Inglewood, California",
       "status": "timed",
-      "group": null,
+      "group": "B",
       "stage": "ROUND_OF_32",
       "matchday": 0,
       "minute": null,
@@ -1824,7 +1824,7 @@
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/un.png",
-      "awayFlag": "https://flagcdn.com/w160/un.png"
+      "awayFlag": "https://flagcdn.com/w160/ca.png"
     },
     {
       "id": 760487,
@@ -2106,8 +2106,8 @@
       "date": "2026-07-03",
       "time": "03:00",
       "utcDate": "2026-07-03T03:00Z",
-      "homeTeam": "Group B Winner",
-      "homeCode": "un",
+      "homeTeam": "Switzerland",
+      "homeCode": "ch",
       "homeScore": 0,
       "awayTeam": "Third Place Group E/F/G/I/J",
       "awayCode": "un",
@@ -2115,7 +2115,7 @@
       "venue": "BC Place",
       "city": "Vancouver",
       "status": "timed",
-      "group": null,
+      "group": "B",
       "stage": "ROUND_OF_32",
       "matchday": 0,
       "minute": null,
@@ -2123,7 +2123,7 @@
         null,
         null
       ],
-      "homeFlag": "https://flagcdn.com/w160/un.png",
+      "homeFlag": "https://flagcdn.com/w160/ch.png",
       "awayFlag": "https://flagcdn.com/w160/un.png"
     },
     {
