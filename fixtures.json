@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T00:13:03.796Z",
+  "lastUpdated": "2026-06-24T01:32:06.690Z",
   "fixtures": [
     {
       "id": 760415,
@@ -1161,14 +1161,14 @@
       "homeScore": 0,
       "awayTeam": "Croatia",
       "awayCode": "hr",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "BMO Field",
       "city": "Toronto",
-      "status": "in_play",
+      "status": "finished",
       "group": "L",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "54'",
+      "minute": null,
       "halfTime": [
         null,
         null

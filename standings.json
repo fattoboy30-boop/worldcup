@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T00:13:03.798Z",
+  "lastUpdated": "2026-06-24T01:32:06.691Z",
   "groups": {
     "A": {
       "teams": [
@@ -646,27 +646,27 @@
           "position": 2
         },
         {
-          "name": "Panama",
-          "code": "pa",
-          "played": 1,
-          "won": 0,
+          "name": "Croatia",
+          "code": "hr",
+          "played": 2,
+          "won": 1,
           "drawn": 0,
           "lost": 1,
-          "gf": 0,
-          "ga": 1,
+          "gf": 3,
+          "ga": 4,
           "gd": -1,
-          "points": 0,
+          "points": 3,
           "position": 3
         },
         {
-          "name": "Croatia",
-          "code": "hr",
-          "played": 1,
+          "name": "Panama",
+          "code": "pa",
+          "played": 2,
           "won": 0,
           "drawn": 0,
-          "lost": 1,
-          "gf": 2,
-          "ga": 4,
+          "lost": 2,
+          "gf": 0,
+          "ga": 2,
           "gd": -2,
           "points": 0,
           "position": 4
