@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T19:20:47.962Z",
+  "lastUpdated": "2026-06-24T20:56:00.798Z",
   "fixtures": [
     {
       "id": 760415,
@@ -1208,17 +1208,17 @@
       "utcDate": "2026-06-24T19:00Z",
       "homeTeam": "Bosnia-Herzegovina",
       "homeCode": "ba",
-      "homeScore": 0,
+      "homeScore": 3,
       "awayTeam": "Qatar",
       "awayCode": "qa",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "Lumen Field",
       "city": "Seattle, Washington",
       "status": "in_play",
       "group": "B",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "20'",
+      "minute": "90'+3'",
       "halfTime": [
         null,
         null
@@ -1233,17 +1233,17 @@
       "utcDate": "2026-06-24T19:00Z",
       "homeTeam": "Switzerland",
       "homeCode": "ch",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayTeam": "Canada",
       "awayCode": "ca",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "BC Place",
       "city": "Vancouver",
       "status": "in_play",
       "group": "B",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "20'",
+      "minute": "90'+7'",
       "halfTime": [
         null,
         null
