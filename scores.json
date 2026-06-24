@@ -1,6 +1,53 @@
 {
-  "lastUpdated": "2026-06-24T17:48:44.360Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-06-24T19:10:13.933Z",
+  "liveMatches": [
+    {
+      "id": 760462,
+      "date": "2026-06-24",
+      "time": "19:00",
+      "utcDate": "2026-06-24T19:00Z",
+      "homeTeam": "Bosnia-Herzegovina",
+      "homeCode": "ba",
+      "homeScore": 0,
+      "awayTeam": "Qatar",
+      "awayCode": "qa",
+      "awayScore": 0,
+      "venue": "Lumen Field",
+      "city": "Seattle, Washington",
+      "status": "in_play",
+      "group": "B",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "10'",
+      "halfTime": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": 760463,
+      "date": "2026-06-24",
+      "time": "19:00",
+      "utcDate": "2026-06-24T19:00Z",
+      "homeTeam": "Switzerland",
+      "homeCode": "ch",
+      "homeScore": 0,
+      "awayTeam": "Canada",
+      "awayCode": "ca",
+      "awayScore": 0,
+      "venue": "BC Place",
+      "city": "Vancouver",
+      "status": "in_play",
+      "group": "B",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "10'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -1108,52 +1155,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760462,
-      "date": "2026-06-24",
-      "time": "19:00",
-      "utcDate": "2026-06-24T19:00Z",
-      "homeTeam": "Bosnia-Herzegovina",
-      "homeCode": "ba",
-      "homeScore": 0,
-      "awayTeam": "Qatar",
-      "awayCode": "qa",
-      "awayScore": 0,
-      "venue": "Lumen Field",
-      "city": "Seattle, Washington",
-      "status": "timed",
-      "group": "B",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
-    {
-      "id": 760463,
-      "date": "2026-06-24",
-      "time": "19:00",
-      "utcDate": "2026-06-24T19:00Z",
-      "homeTeam": "Switzerland",
-      "homeCode": "ch",
-      "homeScore": 0,
-      "awayTeam": "Canada",
-      "awayCode": "ca",
-      "awayScore": 0,
-      "venue": "BC Place",
-      "city": "Vancouver",
-      "status": "timed",
-      "group": "B",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760464,
       "date": "2026-06-24",

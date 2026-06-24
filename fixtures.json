@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T17:48:44.363Z",
+  "lastUpdated": "2026-06-24T19:10:13.937Z",
   "fixtures": [
     {
       "id": 760415,
@@ -1214,11 +1214,11 @@
       "awayScore": 0,
       "venue": "Lumen Field",
       "city": "Seattle, Washington",
-      "status": "timed",
+      "status": "in_play",
       "group": "B",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "10'",
       "halfTime": [
         null,
         null
@@ -1239,11 +1239,11 @@
       "awayScore": 0,
       "venue": "BC Place",
       "city": "Vancouver",
-      "status": "timed",
+      "status": "in_play",
       "group": "B",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "10'",
       "halfTime": [
         null,
         null
