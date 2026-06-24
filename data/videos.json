@@ -1,46 +1,472 @@
 {
-  "lastUpdated": "2026-06-24T05:50:16.753Z",
+  "lastUpdated": "2026-06-24T07:48:37.708Z",
   "featured": {
-    "match": "a3-KTsutmN0",
-    "highlight": "a3-KTsutmN0",
-    "interview": "a3-KTsutmN0"
+    "match": "FxqNyflWNsA",
+    "highlight": "FxqNyflWNsA",
+    "interview": "ddSgd4G2yWA"
   },
   "videos": [
     {
-      "title": "Highlights | New Zealand 1-3 Egypt | FIFA World Cup 2026",
-      "videoId": "a3-KTsutmN0",
-      "channel": "Web Search",
+      "title": "Post-Match Press Conference: Congo DR's Sébastien Desabre On 1-0 Loss To Colombia",
+      "videoId": "FxqNyflWNsA",
+      "channel": "FIFA",
       "publishedAt": "2026-06-24",
       "category": "Highlights",
       "team": [
-        "Egypt",
-        "New Zealand"
+        "Colombia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/a3-KTsutmN0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/FxqNyflWNsA/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "New Zealand vs Egypt",
-      "source": "match-search"
+      "fixtureTeams": "Ecuador vs Curaçao"
     },
     {
-      "title": "New Zealand vs Egypt 1-3 | Extended Highlights & All Goals - YouTube",
-      "videoId": "wW7Ae5RRbB4",
-      "channel": "Web Search",
+      "title": "Post-Match Press Conference: Colombia's Néstor Lorenzo On 1-0 Win Over Congo DR",
+      "videoId": "jh_ij1SxkLM",
+      "channel": "FIFA",
       "publishedAt": "2026-06-24",
       "category": "Highlights",
       "team": [
-        "Egypt",
-        "New Zealand"
+        "Colombia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/wW7Ae5RRbB4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/jh_ij1SxkLM/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "New Zealand vs Egypt",
-      "source": "match-search"
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "Post-Match Player Interviews: Colombia 1-0 Congo DR",
+      "videoId": "o3PvRGRB9oQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/o3PvRGRB9oQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "Post-Match Player Interviews: Panama 0-1 Croatia",
+      "videoId": "qmgEwXGVVFQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/qmgEwXGVVFQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "Highlights | Jordan 1-2 Algeria | FIFA World Cup 2026™",
+      "videoId": "Ydxmm_-PUo0",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Ydxmm_-PUo0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "Colombia 🆚 Congo DR #FIFAWorldCupOnYT",
+      "videoId": "XSCHKOLk-io",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/XSCHKOLk-io/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "Dominik Livaković Save | Panama 0-1 Croatia | FIFA World Cup 2026™",
+      "videoId": "R-Q5aqf7HmY",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/R-Q5aqf7HmY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "Super save from Livakovic for Croatia! 🧤🇭🇷#FIFAWorldCupOnYT",
+      "videoId": "F640dZ7QIEw",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/F640dZ7QIEw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "Ante Budimir Goal | Panama 0-1 Croatia | FIFA World Cup 2026™",
+      "videoId": "v3SHl-lhQ0I",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/v3SHl-lhQ0I/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "Budimir delivers the winner for Croatia! 🇭🇷 #FIFAWorldCupOnYT",
+      "videoId": "afOSt1JO3pw",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/afOSt1JO3pw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "South Africa Train Before Korea Republic | FIFA World Cup 2026™",
+      "videoId": "hh7k3j0S_Ns",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/hh7k3j0S_Ns/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "Post-Match Press Conference: Croatia's Zlatko Dalić On 1-0 Win Over Panama",
+      "videoId": "owwh2ZbkXEQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/owwh2ZbkXEQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "Post-Match Press Conference: Panama's Thomas Christiansen On 1-0 Loss To Croatia",
+      "videoId": "P1Pw4rwvogI",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/P1Pw4rwvogI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "Highlights | Norway 3-2 Senegal | FIFA World Cup 2026™",
+      "videoId": "nlghqbCqbe0",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [
+        "Senegal",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/nlghqbCqbe0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "Panama 🆚 Croatia #FIFAWorldCupOnYT",
+      "videoId": "2Hl-nUdaGz8",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/2Hl-nUdaGz8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "Colombia vs. DR Congo FULL REACTION: Momentum disappeared?! | ESPN FC",
+      "videoId": "ddSgd4G2yWA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-24",
+      "category": "Viral",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ddSgd4G2yWA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "ESPN FC is giving NO CREDIT for Cristiano Ronaldo’s 2 goals?! 👀",
+      "videoId": "LjvtKr2Z8dQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/LjvtKr2Z8dQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "Tyler Adams discusses his highlight of the World Cup so far | ESPN FC",
+      "videoId": "HGo2FAdFdWk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/HGo2FAdFdWk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "England’s speed of play was ‘SO SLOW AND SO PREDICTABLE’ | ESPN FC",
+      "videoId": "YgR_qnriQ8c",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/YgR_qnriQ8c/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "Panama vs. Croatia Reaction: Luka Modric falling into a trap? | ESPN FC",
+      "videoId": "R4RGVMvhAgc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-24",
+      "category": "Viral",
+      "team": [
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/R4RGVMvhAgc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "FULL REACTION to England vs. Ghana 0-0 draw 😯 What changes must Harry Kane & England make? | ESPN FC",
+      "videoId": "G_oXMAGe3L4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-23",
+      "category": "Viral",
+      "team": [
+        "England",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/G_oXMAGe3L4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Statement made by the 41-year-old 😤",
+      "videoId": "YACRL7bs0MQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/YACRL7bs0MQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Portugal vs. Uzbekistan Reaction 👀 Cristiano Ronaldo scores two goals | ESPN FC",
+      "videoId": "FGe9QolTD6A",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-23",
+      "category": "Viral",
+      "team": [
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/FGe9QolTD6A/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Ronaldo GOOAALLSS 🗣️ Cristiano's 2 goals, Messi & USMNT w/ Andres Cantor | The Pat McAfee Show",
+      "videoId": "7hAeQcWoPs0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7hAeQcWoPs0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Ronaldo GOOOAAAALLL 🗣️",
+      "videoId": "3bDKawHS18s",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/3bDKawHS18s/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Talking about Ronaldo not scoring in the World Cup right as he scored 😂",
+      "videoId": "6JMt6ZKARlE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6JMt6ZKARlE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Tyler Adams credits USMNT's World Cup success to MATURITY & TEAM CHEMISTRY 👏 | The Pat McAfee Show",
+      "videoId": "XgrPBN9baIw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/XgrPBN9baIw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "Erling Haaland scored 2 GOALS with only 23 touches?! | ESPN FC",
+      "videoId": "TTw0xpwQ2d4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/TTw0xpwQ2d4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "What would the Golden Boot MEAN for Lionel Messi in the 2026 FIFA World Cup? 🏆 | First Take",
+      "videoId": "Nc-hi41hRSo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Nc-hi41hRSo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
+    },
+    {
+      "title": "The Tartan Army is out & about 🤩⚽️🏴󠁧󠁢󠁳󠁣󠁴󠁿⚾️",
+      "videoId": "LE7X-3qsVKU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/LE7X-3qsVKU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Brazil vs Haiti"
     }
   ]
 }
