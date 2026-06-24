@@ -1,28 +1,124 @@
 {
-  "lastUpdated": "2026-06-24T17:19:08.170Z",
+  "lastUpdated": "2026-06-24T18:53:27.275Z",
   "featured": {
-    "match": "a3-KTsutmN0",
-    "highlight": "a3-KTsutmN0",
-    "interview": "ddSgd4G2yWA"
+    "match": "cCCzDrDcZIo",
+    "highlight": "cCCzDrDcZIo",
+    "interview": "cCCzDrDcZIo"
   },
   "videos": [
     {
-      "title": "Highlights | New Zealand 1-3 Egypt | FIFA World Cup 2026",
-      "videoId": "a3-KTsutmN0",
-      "channel": "Web Search",
+      "title": "Netherlands Train Before Tunisia | FIFA World Cup 2026™",
+      "videoId": "cCCzDrDcZIo",
+      "channel": "FIFA",
       "publishedAt": "2026-06-24",
       "category": "Highlights",
       "team": [
-        "Egypt",
-        "New Zealand"
+        "Netherlands",
+        "Tunisia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/a3-KTsutmN0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/cCCzDrDcZIo/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "New Zealand vs Egypt",
-      "source": "match-search"
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "Japan Train Before Sweden | FIFA World Cup 2026™",
+      "videoId": "H63nnh7hL0A",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [
+        "Japan",
+        "Sweden"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/H63nnh7hL0A/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "Curacao Train Before Cote d'Ivoire | FIFA World Cup 2026™",
+      "videoId": "Mk7TYFHx-7g",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Mk7TYFHx-7g/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "Ecuador Train Before Germany FIFA World Cup 2026™",
+      "videoId": "IOSb-08PhZo",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [
+        "Germany",
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/IOSb-08PhZo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "Germany Train Before Ecuador | FIFA World Cup 2026™",
+      "videoId": "ssKzfqjl9FA",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [
+        "Germany",
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ssKzfqjl9FA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "Team Feature: Australia | Milos Degenek on Australia’s World Cup History",
+      "videoId": "lk8-LDGQ5N4",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [
+        "Australia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/lk8-LDGQ5N4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "Team Feature: Paraguay | Julio Enciso: \"We Must Work Hard to Put Paraguay at the Top\"",
+      "videoId": "CkQR6F2wgTs",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/CkQR6F2wgTs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
     },
     {
       "title": "Messi, Mbappe, Haaland? Who’ll win the FIFA World Cup Golden Boot?",
@@ -148,111 +244,89 @@
       "fixtureTeams": "Ecuador vs Curaçao"
     },
     {
-      "title": "Alt Cast Highlights: Panama v Croatia | FIFA World Cup 2026™",
-      "videoId": "w3t19athOX4",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-24",
-      "category": "Highlights",
-      "team": [
-        "Croatia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/w3t19athOX4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Ecuador vs Curaçao"
-    },
-    {
-      "title": "Team Feature: Ecuador | Enner Valencia A True Ecuador Great",
-      "videoId": "jTcAUxaeA1I",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-24",
-      "category": "Highlights",
-      "team": [
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/jTcAUxaeA1I/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Ecuador vs Curaçao"
-    },
-    {
-      "title": "Alt Cast Highlights: England v Ghana | FIFA World Cup 2026™",
-      "videoId": "pKBfrjI5MkY",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-24",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Ghana"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/pKBfrjI5MkY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Ecuador vs Curaçao"
-    },
-    {
-      "title": "Match Preview: Tunisia vs Netherlands | FIFA World Cup 2026™",
-      "videoId": "g75j4YvTWyc",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-24",
-      "category": "Highlights",
-      "team": [
-        "Netherlands",
-        "Tunisia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/g75j4YvTWyc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Ecuador vs Curaçao"
-    },
-    {
-      "title": "Alt Cast Highlights: Portugal v Uzbekistan | FIFA World Cup 2026™",
-      "videoId": "X-Gl76bk3ww",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-24",
-      "category": "Highlights",
-      "team": [
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/X-Gl76bk3ww/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Ecuador vs Curaçao"
-    },
-    {
-      "title": "Team Feature: Cote d'Ivoire | Diomande: 'We Want To Give It Everything'",
-      "videoId": "BChzyNqfjo8",
-      "channel": "FIFA",
+      "title": "Christian Pulisic says he feels good to go for the USMNT vs. Turkiye 👀 | SportsCenter",
+      "videoId": "Dp9xdtJMqfI",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-24",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/BChzyNqfjo8/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Dp9xdtJMqfI/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Ecuador vs Curaçao"
     },
     {
-      "title": "Team Feature: Curacao | Chong Grateful For His Father's Support",
-      "videoId": "zK1qpwUwvsM",
-      "channel": "FIFA",
+      "title": "Mike Grella says Ronaldo doesn't have the 'style factor' of Messi | The Pat McAfee Show",
+      "videoId": "AvVnEAPV8Wo",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-24",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/zK1qpwUwvsM/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/AvVnEAPV8Wo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "‘This was the normal England ... dull as dishwater’ 🗣️",
+      "videoId": "UF7_SYeCbUc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/UF7_SYeCbUc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "Shakira celebrating Colombia’s World Cup win! (via @Shakira/TT)",
+      "videoId": "qmz3DzOlCUo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/qmz3DzOlCUo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "Lionel Messi was ‘graced by God’ | ESPN FC",
+      "videoId": "jlYNsOrmow4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jlYNsOrmow4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "Ronaldo almost capped off a PERFECT set piece",
+      "videoId": "OpuRhMokWYM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/OpuRhMokWYM/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Ecuador vs Curaçao"
@@ -384,95 +458,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/e6nOmo9dc1Y/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Ecuador vs Curaçao"
-    },
-    {
-      "title": "Jude Bellingham's award had Stevie 🤣",
-      "videoId": "DlqAh2TfU0o",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-24",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/DlqAh2TfU0o/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Ecuador vs Curaçao"
-    },
-    {
-      "title": "If Cristiano Ronaldo and Portugal played England tomorrow… | ESPN FC",
-      "videoId": "-tb--durM9A",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-24",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-tb--durM9A/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Ecuador vs Curaçao"
-    },
-    {
-      "title": "Should Barcelona be demanding a refund for Anthony Gordon? | ESPN FC Extra Time",
-      "videoId": "6pxcpxy72_0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-24",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/6pxcpxy72_0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Ecuador vs Curaçao"
-    },
-    {
-      "title": "Colombia vs. DR Congo FULL REACTION: Momentum disappeared?! | ESPN FC",
-      "videoId": "ddSgd4G2yWA",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-24",
-      "category": "Viral",
-      "team": [
-        "Colombia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ddSgd4G2yWA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Ecuador vs Curaçao"
-    },
-    {
-      "title": "ESPN FC is giving NO CREDIT for Cristiano Ronaldo’s 2 goals?! 👀",
-      "videoId": "LjvtKr2Z8dQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-24",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/LjvtKr2Z8dQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Ecuador vs Curaçao"
-    },
-    {
-      "title": "Tyler Adams discusses his highlight of the World Cup so far | ESPN FC",
-      "videoId": "HGo2FAdFdWk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-24",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/HGo2FAdFdWk/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Ecuador vs Curaçao"
