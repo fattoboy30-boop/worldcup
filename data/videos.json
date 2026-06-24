@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-24T22:20:45.388Z",
+  "lastUpdated": "2026-06-24T23:43:05.813Z",
   "featured": {
-    "match": "HKJQwM0XCGc",
-    "highlight": "HKJQwM0XCGc",
+    "match": "a3-KTsutmN0",
+    "highlight": "WA6TU1Vhm3I",
     "interview": "M9fNZ4oyjTI"
   },
   "videos": [
+    {
+      "title": "New Zealand vs Egypt | Full Match Highlights | World Cup 2026",
+      "videoId": "WA6TU1Vhm3I",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-24",
+      "category": "Full Match",
+      "team": [
+        "Egypt",
+        "New Zealand"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/WA6TU1Vhm3I/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt",
+      "source": "match-search"
+    },
+    {
+      "title": "Highlights | New Zealand 1-3 Egypt | FIFA World Cup 2026",
+      "videoId": "a3-KTsutmN0",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [
+        "Egypt",
+        "New Zealand"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/a3-KTsutmN0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt",
+      "source": "match-search"
+    },
     {
       "title": "Sweden On Playing Japan | Graham Potter Takes Questions",
       "videoId": "HKJQwM0XCGc",
