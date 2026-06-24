@@ -1,6 +1,53 @@
 {
-  "lastUpdated": "2026-06-24T21:02:43.770Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-06-24T22:18:36.861Z",
+  "liveMatches": [
+    {
+      "id": 760464,
+      "date": "2026-06-24",
+      "time": "22:00",
+      "utcDate": "2026-06-24T22:00Z",
+      "homeTeam": "Morocco",
+      "homeCode": "ma",
+      "homeScore": 0,
+      "awayTeam": "Haiti",
+      "awayCode": "ht",
+      "awayScore": 1,
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta, Georgia",
+      "status": "in_play",
+      "group": "C",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "18'",
+      "halfTime": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": 760465,
+      "date": "2026-06-24",
+      "time": "22:00",
+      "utcDate": "2026-06-24T22:00Z",
+      "homeTeam": "Scotland",
+      "homeCode": "gb-sct",
+      "homeScore": 0,
+      "awayTeam": "Brazil",
+      "awayCode": "br",
+      "awayScore": 1,
+      "venue": "Hard Rock Stadium",
+      "city": "Miami Gardens, Florida",
+      "status": "in_play",
+      "group": "C",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "17'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -1154,52 +1201,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760464,
-      "date": "2026-06-24",
-      "time": "22:00",
-      "utcDate": "2026-06-24T22:00Z",
-      "homeTeam": "Morocco",
-      "homeCode": "ma",
-      "homeScore": 0,
-      "awayTeam": "Haiti",
-      "awayCode": "ht",
-      "awayScore": 0,
-      "venue": "Mercedes-Benz Stadium",
-      "city": "Atlanta, Georgia",
-      "status": "timed",
-      "group": "C",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
-    {
-      "id": 760465,
-      "date": "2026-06-24",
-      "time": "22:00",
-      "utcDate": "2026-06-24T22:00Z",
-      "homeTeam": "Scotland",
-      "homeCode": "gb-sct",
-      "homeScore": 0,
-      "awayTeam": "Brazil",
-      "awayCode": "br",
-      "awayScore": 0,
-      "venue": "Hard Rock Stadium",
-      "city": "Miami Gardens, Florida",
-      "status": "timed",
-      "group": "C",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760467,
       "date": "2026-06-25",

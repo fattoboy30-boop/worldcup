@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T21:02:43.774Z",
+  "lastUpdated": "2026-06-24T22:18:36.863Z",
   "fixtures": [
     {
       "id": 760415,
@@ -1261,14 +1261,14 @@
       "homeScore": 0,
       "awayTeam": "Haiti",
       "awayCode": "ht",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta, Georgia",
-      "status": "timed",
+      "status": "in_play",
       "group": "C",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "18'",
       "halfTime": [
         null,
         null
@@ -1286,14 +1286,14 @@
       "homeScore": 0,
       "awayTeam": "Brazil",
       "awayCode": "br",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens, Florida",
-      "status": "timed",
+      "status": "in_play",
       "group": "C",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "17'",
       "halfTime": [
         null,
         null

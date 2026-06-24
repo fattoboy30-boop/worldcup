@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-06-24T20:56:51.667Z",
+  "lastUpdated": "2026-06-24T22:19:32.453Z",
   "featured": {
     "match": "a3-KTsutmN0",
-    "highlight": "a3-KTsutmN0",
-    "interview": "a3-KTsutmN0"
+    "highlight": "WA6TU1Vhm3I",
+    "interview": "WA6TU1Vhm3I"
   },
   "videos": [
+    {
+      "title": "New Zealand vs Egypt | Full Match Highlights | World Cup 2026",
+      "videoId": "WA6TU1Vhm3I",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-24",
+      "category": "Full Match",
+      "team": [
+        "Egypt",
+        "New Zealand"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/WA6TU1Vhm3I/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt",
+      "source": "match-search"
+    },
     {
       "title": "Highlights | New Zealand 1-3 Egypt | FIFA World Cup 2026",
       "videoId": "a3-KTsutmN0",
