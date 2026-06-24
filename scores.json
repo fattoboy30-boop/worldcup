@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T22:25:26.910Z",
+  "lastUpdated": "2026-06-24T23:41:55.579Z",
   "liveMatches": [
     {
       "id": 760464,
@@ -8,17 +8,17 @@
       "utcDate": "2026-06-24T22:00Z",
       "homeTeam": "Morocco",
       "homeCode": "ma",
-      "homeScore": 0,
+      "homeScore": 3,
       "awayTeam": "Haiti",
       "awayCode": "ht",
-      "awayScore": 1,
+      "awayScore": 2,
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta, Georgia",
       "status": "in_play",
       "group": "C",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "24'",
+      "minute": "79'",
       "halfTime": [
         null,
         null
@@ -34,14 +34,14 @@
       "homeScore": 0,
       "awayTeam": "Brazil",
       "awayCode": "br",
-      "awayScore": 2,
+      "awayScore": 3,
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens, Florida",
       "status": "in_play",
       "group": "C",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "24'",
+      "minute": "76'",
       "halfTime": [
         null,
         null
