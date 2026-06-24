@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-06-24T16:24:07.626Z",
+  "lastUpdated": "2026-06-24T17:19:08.170Z",
   "featured": {
-    "match": "grb5WoML9LE",
-    "highlight": "grb5WoML9LE",
+    "match": "a3-KTsutmN0",
+    "highlight": "a3-KTsutmN0",
     "interview": "ddSgd4G2yWA"
   },
   "videos": [
+    {
+      "title": "Highlights | New Zealand 1-3 Egypt | FIFA World Cup 2026",
+      "videoId": "a3-KTsutmN0",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [
+        "Egypt",
+        "New Zealand"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/a3-KTsutmN0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt",
+      "source": "match-search"
+    },
     {
       "title": "Messi, Mbappe, Haaland? Who’ll win the FIFA World Cup Golden Boot?",
       "videoId": "grb5WoML9LE",
