@@ -1,6 +1,53 @@
 {
-  "lastUpdated": "2026-06-25T19:23:48.282Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-06-25T20:29:37.316Z",
+  "liveMatches": [
+    {
+      "id": 760473,
+      "date": "2026-06-25",
+      "time": "20:00",
+      "utcDate": "2026-06-25T20:00Z",
+      "homeTeam": "Curaçao",
+      "homeCode": "un",
+      "homeScore": 0,
+      "awayTeam": "Ivory Coast",
+      "awayCode": "ci",
+      "awayScore": 1,
+      "venue": "Lincoln Financial Field",
+      "city": "Philadelphia, Pennsylvania",
+      "status": "in_play",
+      "group": "E",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "28'",
+      "halfTime": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": 760468,
+      "date": "2026-06-25",
+      "time": "20:00",
+      "utcDate": "2026-06-25T20:00Z",
+      "homeTeam": "Ecuador",
+      "homeCode": "ec",
+      "homeScore": 1,
+      "awayTeam": "Germany",
+      "awayCode": "de",
+      "awayScore": 1,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford, New Jersey",
+      "status": "in_play",
+      "group": "E",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "29'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -1246,52 +1293,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760473,
-      "date": "2026-06-25",
-      "time": "20:00",
-      "utcDate": "2026-06-25T20:00Z",
-      "homeTeam": "Curaçao",
-      "homeCode": "un",
-      "homeScore": 0,
-      "awayTeam": "Ivory Coast",
-      "awayCode": "ci",
-      "awayScore": 0,
-      "venue": "Lincoln Financial Field",
-      "city": "Philadelphia, Pennsylvania",
-      "status": "timed",
-      "group": "E",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
-    {
-      "id": 760468,
-      "date": "2026-06-25",
-      "time": "20:00",
-      "utcDate": "2026-06-25T20:00Z",
-      "homeTeam": "Ecuador",
-      "homeCode": "ec",
-      "homeScore": 0,
-      "awayTeam": "Germany",
-      "awayCode": "de",
-      "awayScore": 0,
-      "venue": "MetLife Stadium",
-      "city": "East Rutherford, New Jersey",
-      "status": "timed",
-      "group": "E",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760471,
       "date": "2026-06-25",

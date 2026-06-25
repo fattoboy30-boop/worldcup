@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T19:23:48.286Z",
+  "lastUpdated": "2026-06-25T20:29:37.319Z",
   "fixtures": [
     {
       "id": 760415,
@@ -1361,14 +1361,14 @@
       "homeScore": 0,
       "awayTeam": "Ivory Coast",
       "awayCode": "ci",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia, Pennsylvania",
-      "status": "timed",
+      "status": "in_play",
       "group": "E",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "28'",
       "halfTime": [
         null,
         null
@@ -1383,17 +1383,17 @@
       "utcDate": "2026-06-25T20:00Z",
       "homeTeam": "Ecuador",
       "homeCode": "ec",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayTeam": "Germany",
       "awayCode": "de",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "MetLife Stadium",
       "city": "East Rutherford, New Jersey",
-      "status": "timed",
+      "status": "in_play",
       "group": "E",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "29'",
       "halfTime": [
         null,
         null
