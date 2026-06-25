@@ -1,64 +1,108 @@
 {
-  "lastUpdated": "2026-06-25T12:08:48.269Z",
+  "lastUpdated": "2026-06-25T12:24:20.396Z",
   "featured": {
-    "match": "LeXSkXsVZrU",
-    "highlight": "LeXSkXsVZrU",
+    "match": "MEbP9eSq9ws",
+    "highlight": "MEbP9eSq9ws",
     "interview": "zafi4IvP8e4"
   },
   "videos": [
     {
-      "title": "Highlights | Norway vs Senegal | FIFA World Cup 2026",
-      "videoId": "LeXSkXsVZrU",
-      "channel": "Web Search",
+      "title": "Team Feature: Norway | Nusa: \"I Want To Enjoy Every Moment\"",
+      "videoId": "MEbP9eSq9ws",
+      "channel": "FIFA",
       "publishedAt": "2026-06-25",
       "category": "Highlights",
       "team": [
-        "Senegal",
+        "USA",
         "Norway"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/LeXSkXsVZrU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/MEbP9eSq9ws/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal",
-      "source": "match-search"
+      "fixtureTeams": "New Zealand vs Egypt"
     },
     {
-      "title": "Highlights | Norway 3-2 Senegal | FIFA World Cup 2026™",
-      "videoId": "nlghqbCqbe0",
-      "channel": "Web Search",
+      "title": "Alt Cast Highlights: Bosnia and Herzegovina v Qatar | FIFA World Cup 2026™",
+      "videoId": "heVyD2S_lE4",
+      "channel": "FIFA",
       "publishedAt": "2026-06-25",
       "category": "Highlights",
       "team": [
-        "Senegal",
-        "Norway"
+        "Qatar",
+        "Bosnia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/nlghqbCqbe0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/heVyD2S_lE4/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal",
-      "source": "match-search"
+      "fixtureTeams": "New Zealand vs Egypt"
     },
     {
-      "title": "Norway 3-2 Senegal | All Goals & Highlights | FIFA World Cup 2026 ...",
-      "videoId": "S-7k_v7rU48",
-      "channel": "Web Search",
+      "title": "Team Feature: France | Saliba: \"I Want To Go Against The Best\"",
+      "videoId": "TqJYNdyAGsk",
+      "channel": "FIFA",
       "publishedAt": "2026-06-25",
       "category": "Highlights",
       "team": [
-        "Senegal",
-        "Norway"
+        "France"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/S-7k_v7rU48/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/TqJYNdyAGsk/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal",
-      "source": "match-search"
+      "fixtureTeams": "New Zealand vs Egypt"
+    },
+    {
+      "title": "Match Preview: Egypt vs IR Iran | FIFA World Cup 2026™",
+      "videoId": "WZYSltrYc0k",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [
+        "Iran",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/WZYSltrYc0k/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt"
+    },
+    {
+      "title": "The Best Team Goals in World Cup History",
+      "videoId": "6id8NmkJKA8",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6id8NmkJKA8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt"
+    },
+    {
+      "title": "15-Minute Match: Uruguay vs Spain: 1990 Clash",
+      "videoId": "Fqdmaeaq1rY",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Uruguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Fqdmaeaq1rY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt"
     },
     {
       "title": "Match Preview: New Zealand vs Belgium | FIFA World Cup 2026™",
@@ -207,101 +251,45 @@
       "fixtureTeams": "New Zealand vs Egypt"
     },
     {
-      "title": "Post-Match Player Interviews: Morocco 4-2 Haiti",
-      "videoId": "F0ge1Vad8FQ",
-      "channel": "FIFA",
+      "title": "Shaka Hislop WANTS to see Christian Pulisic play MEANINGFUL MINUTES vs. Turkiye | SportsCenter",
+      "videoId": "L7Rps1G_51c",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-25",
       "category": "Highlights",
-      "team": [
-        "Morocco",
-        "Haiti"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/F0ge1Vad8FQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/L7Rps1G_51c/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "New Zealand vs Egypt"
     },
     {
-      "title": "Post-Match Player Interviews: Scotland 0-3 Brazil",
-      "videoId": "QpkSUUuqDvs",
-      "channel": "FIFA",
+      "title": "Haaland is just the social media guy 🤣 (via Erling Haaland/YT)",
+      "videoId": "WvOhFBm84os",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-25",
       "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Scotland"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/QpkSUUuqDvs/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/WvOhFBm84os/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "New Zealand vs Egypt"
     },
     {
-      "title": "Kim Seung-gyu Save | South Africa 1-0 Korea Republic | FIFA World Cup 2026™",
-      "videoId": "Iitj95bsrZA",
-      "channel": "FIFA",
+      "title": "Mbappe’s come a long way 👏 (via @equipedefrance/X)",
+      "videoId": "DxIWEQ-FBH4",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-25",
       "category": "Highlights",
       "team": [
-        "South Africa"
+        "France"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Iitj95bsrZA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "New Zealand vs Egypt"
-    },
-    {
-      "title": "Thapelo Maseko Goal | South Africa 1-0 Korea Republic | FIFA World Cup 2026™",
-      "videoId": "1AQNvmz8PGA",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-25",
-      "category": "Highlights",
-      "team": [
-        "South Africa"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/1AQNvmz8PGA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "New Zealand vs Egypt"
-    },
-    {
-      "title": "Julián Quiñones Goal | Czechia 0-3 Mexico | FIFA World Cup 2026™",
-      "videoId": "t9NJp_xZjzs",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-25",
-      "category": "Highlights",
-      "team": [
-        "Mexico",
-        "Czechia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/t9NJp_xZjzs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "New Zealand vs Egypt"
-    },
-    {
-      "title": "Paraguay Train Before Australia | FIFA World Cup 2026™",
-      "videoId": "KQiHIXYlzXg",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-25",
-      "category": "Highlights",
-      "team": [
-        "Australia",
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/KQiHIXYlzXg/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/DxIWEQ-FBH4/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "New Zealand vs Egypt"
@@ -490,50 +478,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/oghedE1z1Nw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Ecuador vs Curaçao"
-    },
-    {
-      "title": "He broke out the ruler 😭 (via ximena_fajardoo/IG)",
-      "videoId": "3zO5fojwPpE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-24",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/3zO5fojwPpE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Ecuador vs Curaçao"
-    },
-    {
-      "title": "Shakira’s son named every World Cup champ since 1930 🤯 🧠 (via @Shakira/TT)",
-      "videoId": "6n820CycmgQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-24",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/6n820CycmgQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Ecuador vs Curaçao"
-    },
-    {
-      "title": "TACTICS BOARD: England ‘AT SOME POINT’ need to look forward | ESPN FC",
-      "videoId": "2lUXPpzZSmA",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-24",
-      "category": "Highlights",
-      "team": [
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/2lUXPpzZSmA/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Ecuador vs Curaçao"
