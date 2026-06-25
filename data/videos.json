@@ -1,46 +1,109 @@
 {
-  "lastUpdated": "2026-06-25T19:24:51.740Z",
+  "lastUpdated": "2026-06-25T20:59:52.824Z",
   "featured": {
-    "match": "nlghqbCqbe0",
-    "highlight": "nlghqbCqbe0",
+    "match": "Qs-BAMm90Wo",
+    "highlight": "Qs-BAMm90Wo",
     "interview": "PiRGTUPHb3U"
   },
   "videos": [
     {
-      "title": "Highlights | Norway 3-2 Senegal | FIFA World Cup 2026™",
-      "videoId": "nlghqbCqbe0",
-      "channel": "Web Search",
+      "title": "France Train Before Norway | FIFA World Cup 2026™",
+      "videoId": "Qs-BAMm90Wo",
+      "channel": "FIFA",
       "publishedAt": "2026-06-25",
       "category": "Highlights",
       "team": [
-        "Senegal",
+        "France",
         "Norway"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/nlghqbCqbe0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Qs-BAMm90Wo/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal",
-      "source": "match-search"
+      "fixtureTeams": "New Zealand vs Egypt"
     },
     {
-      "title": "Norway 3-2 Senegal | All Goals & Highlights | FIFA World Cup 2026 ...",
-      "videoId": "S-7k_v7rU48",
-      "channel": "Web Search",
+      "title": "France On Playing Norway | Guy Stephan Takes Questions",
+      "videoId": "geZ-SQ8YBYw",
+      "channel": "FIFA",
       "publishedAt": "2026-06-25",
       "category": "Highlights",
       "team": [
-        "Senegal",
+        "France",
         "Norway"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/S-7k_v7rU48/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/geZ-SQ8YBYw/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal",
-      "source": "match-search"
+      "fixtureTeams": "New Zealand vs Egypt"
+    },
+    {
+      "title": "Senegal On Playing Iraq | Pape Thiaw & Ismail Jakobs Take Questions",
+      "videoId": "mQqlMjZy-9U",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [
+        "Senegal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/mQqlMjZy-9U/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt"
+    },
+    {
+      "title": "New Zealand Train Before Belgium | FIFA World Cup 2026™",
+      "videoId": "A7ZtEjldcv0",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/A7ZtEjldcv0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt"
+    },
+    {
+      "title": "Belgium Train Before New Zealand | FIFA World Cup 2026™",
+      "videoId": "TvFsJvJVMfM",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/TvFsJvJVMfM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt"
+    },
+    {
+      "title": "Spain Train Before Uruguay | FIFA World Cup 2026™",
+      "videoId": "l7bzy3it-Zc",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Uruguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/l7bzy3it-Zc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt"
     },
     {
       "title": "Iraq Train Before Senegal | FIFA World Cup 2026™",
@@ -168,108 +231,60 @@
       "fixtureTeams": "New Zealand vs Egypt"
     },
     {
-      "title": "Record-breaking goals & appearances from stars! 🌟 | FIFA Fan Festival | Best of Week 2",
-      "videoId": "WB1tEOdbjsY",
-      "channel": "FIFA",
+      "title": "Norway vs. France PREVIEW with Food Network’s Bobby Flay",
+      "videoId": "_ySmk09aJi8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_ySmk09aJi8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt"
+    },
+    {
+      "title": "Fired up for the USMNT 💪",
+      "videoId": "nUsvTM6-Yy8",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-25",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/WB1tEOdbjsY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/nUsvTM6-Yy8/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "New Zealand vs Egypt"
     },
     {
-      "title": "Team Feature: Cabo Verde | Bubista: \"Being In The World Cup Means Everything\"",
-      "videoId": "nJWs0XF7qv4",
-      "channel": "FIFA",
+      "title": "Some superstitious soccer going on 👀",
+      "videoId": "9D9RMYKNbtI",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-25",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/nJWs0XF7qv4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/9D9RMYKNbtI/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "New Zealand vs Egypt"
     },
     {
-      "title": "Team Feature: Spain | Luis De La Fuente's Human Side to Coaching",
-      "videoId": "Ew9EuAGx2C0",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-25",
-      "category": "Highlights",
-      "team": [
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Ew9EuAGx2C0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "New Zealand vs Egypt"
-    },
-    {
-      "title": "Team Feature: Uruguay | Team Fully Behind Marcelo Bielsa's Plans",
-      "videoId": "OO2MEGpaogg",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-25",
-      "category": "Highlights",
-      "team": [
-        "Uruguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/OO2MEGpaogg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "New Zealand vs Egypt"
-    },
-    {
-      "title": "Team Feature: Senegal | Pape Thiaw On His Team's Hopes Of Victory",
-      "videoId": "5a2LHnisgNA",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-25",
-      "category": "Highlights",
-      "team": [
-        "Senegal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/5a2LHnisgNA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "New Zealand vs Egypt"
-    },
-    {
-      "title": "Team Feature: Iraq | Aymen Hussein: \"Football Has Brought Our Country Together\"",
-      "videoId": "RWq4lXCwcYs",
-      "channel": "FIFA",
+      "title": "DaMarcus Beasley on USMNT’s World Cup dominance and loathe for VAR system | The Rich Eisen Show",
+      "videoId": "XYelkfJh-Ig",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-25",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/RWq4lXCwcYs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "New Zealand vs Egypt"
-    },
-    {
-      "title": "Alt Cast Highlights: Morocco v Haiti | FIFA World Cup 2026™",
-      "videoId": "b6VnO6sekm8",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-25",
-      "category": "Highlights",
-      "team": [
-        "Morocco",
-        "Haiti"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/b6VnO6sekm8/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/XYelkfJh-Ig/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "New Zealand vs Egypt"
@@ -434,65 +449,18 @@
       "fixtureTeams": "New Zealand vs Egypt"
     },
     {
-      "title": "A hug cheers everyone up",
-      "videoId": "boMxVzpg3II",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-25",
+      "title": "Curaçao v Côte d'Ivoire | Group Stage E | FIFA World Cup 2026™",
+      "videoId": "aF5C7qQiIR4",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-10",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/boMxVzpg3II/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/aF5C7qQiIR4/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "New Zealand vs Egypt"
-    },
-    {
-      "title": "Ale Moreno is NOT SOLD on Mexico just yet?! | ESPN FC",
-      "videoId": "Wpdcf9dsFnY",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-25",
-      "category": "Highlights",
-      "team": [
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Wpdcf9dsFnY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "New Zealand vs Egypt"
-    },
-    {
-      "title": "Carlo Ancelotti is the key for Vinicius Jr. - Don Hutchison | ESPN FC",
-      "videoId": "gxWG4hMdbpw",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-25",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/gxWG4hMdbpw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "New Zealand vs Egypt"
-    },
-    {
-      "title": "ESPN FC consoles Don Hutchison after Scotland defeat to Brazil",
-      "videoId": "zwQHSyX5WuQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-25",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Scotland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/zwQHSyX5WuQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "New Zealand vs Egypt"
+      "fixtureTeams": "Mexico vs South Africa"
     }
   ]
 }
