@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T01:49:52.731Z",
+  "lastUpdated": "2026-06-25T05:53:35.920Z",
   "fixtures": [
     {
       "id": 760415,
@@ -1311,14 +1311,14 @@
       "homeScore": 0,
       "awayTeam": "Mexico",
       "awayCode": "mx",
-      "awayScore": 0,
+      "awayScore": 3,
       "venue": "Estadio Banorte",
       "city": "Mexico City",
-      "status": "in_play",
+      "status": "finished",
       "group": "A",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "40'",
+      "minute": null,
       "halfTime": [
         null,
         null
@@ -1333,17 +1333,17 @@
       "utcDate": "2026-06-25T01:00Z",
       "homeTeam": "South Africa",
       "homeCode": "za",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayTeam": "South Korea",
       "awayCode": "kr",
       "awayScore": 0,
       "venue": "Estadio BBVA",
       "city": "Guadalupe",
-      "status": "in_play",
+      "status": "finished",
       "group": "A",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "39'",
+      "minute": null,
       "halfTime": [
         null,
         null
@@ -1806,8 +1806,8 @@
       "date": "2026-06-28",
       "time": "19:00",
       "utcDate": "2026-06-28T19:00Z",
-      "homeTeam": "Group A 2nd Place",
-      "homeCode": "un",
+      "homeTeam": "South Africa",
+      "homeCode": "za",
       "homeScore": 0,
       "awayTeam": "Canada",
       "awayCode": "ca",
@@ -1815,7 +1815,7 @@
       "venue": "SoFi Stadium",
       "city": "Inglewood, California",
       "status": "timed",
-      "group": "B",
+      "group": "A",
       "stage": "ROUND_OF_32",
       "matchday": 0,
       "minute": null,
@@ -1823,7 +1823,7 @@
         null,
         null
       ],
-      "homeFlag": "https://flagcdn.com/w160/un.png",
+      "homeFlag": "https://flagcdn.com/w160/za.png",
       "awayFlag": "https://flagcdn.com/w160/ca.png"
     },
     {
@@ -1831,8 +1831,8 @@
       "date": "2026-06-29",
       "time": "17:00",
       "utcDate": "2026-06-29T17:00Z",
-      "homeTeam": "Group C Winner",
-      "homeCode": "un",
+      "homeTeam": "Brazil",
+      "homeCode": "br",
       "homeScore": 0,
       "awayTeam": "Group F 2nd Place",
       "awayCode": "un",
@@ -1840,7 +1840,7 @@
       "venue": "NRG Stadium",
       "city": "Houston, Texas",
       "status": "timed",
-      "group": null,
+      "group": "C",
       "stage": "ROUND_OF_32",
       "matchday": 0,
       "minute": null,
@@ -1848,7 +1848,7 @@
         null,
         null
       ],
-      "homeFlag": "https://flagcdn.com/w160/un.png",
+      "homeFlag": "https://flagcdn.com/w160/br.png",
       "awayFlag": "https://flagcdn.com/w160/un.png"
     },
     {
@@ -1884,13 +1884,13 @@
       "homeTeam": "Group F Winner",
       "homeCode": "un",
       "homeScore": 0,
-      "awayTeam": "Group C 2nd Place",
-      "awayCode": "un",
+      "awayTeam": "Morocco",
+      "awayCode": "ma",
       "awayScore": 0,
       "venue": "Estadio BBVA",
       "city": "Guadalupe",
       "status": "timed",
-      "group": null,
+      "group": "C",
       "stage": "ROUND_OF_32",
       "matchday": 0,
       "minute": null,
@@ -1899,7 +1899,7 @@
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/un.png",
-      "awayFlag": "https://flagcdn.com/w160/un.png"
+      "awayFlag": "https://flagcdn.com/w160/ma.png"
     },
     {
       "id": 760490,
