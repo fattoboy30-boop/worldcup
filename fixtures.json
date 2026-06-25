@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T22:46:41.304Z",
+  "lastUpdated": "2026-06-25T23:42:43.793Z",
   "fixtures": [
     {
       "id": 760415,
@@ -1414,11 +1414,11 @@
       "awayScore": 0,
       "venue": "AT&T Stadium",
       "city": "Arlington, Texas",
-      "status": "timed",
+      "status": "in_play",
       "group": "F",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "42'",
       "halfTime": [
         null,
         null
@@ -1436,14 +1436,14 @@
       "homeScore": 0,
       "awayTeam": "Netherlands",
       "awayCode": "nl",
-      "awayScore": 0,
+      "awayScore": 2,
       "venue": "GEHA Field at Arrowhead Stadium",
       "city": "Kansas City, Missouri",
-      "status": "timed",
+      "status": "in_play",
       "group": "F",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "42'",
       "halfTime": [
         null,
         null

@@ -1,6 +1,53 @@
 {
-  "lastUpdated": "2026-06-25T22:46:41.300Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-06-25T23:42:43.790Z",
+  "liveMatches": [
+    {
+      "id": 760471,
+      "date": "2026-06-25",
+      "time": "23:00",
+      "utcDate": "2026-06-25T23:00Z",
+      "homeTeam": "Japan",
+      "homeCode": "jp",
+      "homeScore": 0,
+      "awayTeam": "Sweden",
+      "awayCode": "se",
+      "awayScore": 0,
+      "venue": "AT&T Stadium",
+      "city": "Arlington, Texas",
+      "status": "in_play",
+      "group": "F",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "42'",
+      "halfTime": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": 760472,
+      "date": "2026-06-25",
+      "time": "23:00",
+      "utcDate": "2026-06-25T23:00Z",
+      "homeTeam": "Tunisia",
+      "homeCode": "tn",
+      "homeScore": 0,
+      "awayTeam": "Netherlands",
+      "awayCode": "nl",
+      "awayScore": 2,
+      "venue": "GEHA Field at Arrowhead Stadium",
+      "city": "Kansas City, Missouri",
+      "status": "in_play",
+      "group": "F",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "42'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -1292,52 +1339,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760471,
-      "date": "2026-06-25",
-      "time": "23:00",
-      "utcDate": "2026-06-25T23:00Z",
-      "homeTeam": "Japan",
-      "homeCode": "jp",
-      "homeScore": 0,
-      "awayTeam": "Sweden",
-      "awayCode": "se",
-      "awayScore": 0,
-      "venue": "AT&T Stadium",
-      "city": "Arlington, Texas",
-      "status": "timed",
-      "group": "F",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
-    {
-      "id": 760472,
-      "date": "2026-06-25",
-      "time": "23:00",
-      "utcDate": "2026-06-25T23:00Z",
-      "homeTeam": "Tunisia",
-      "homeCode": "tn",
-      "homeScore": 0,
-      "awayTeam": "Netherlands",
-      "awayCode": "nl",
-      "awayScore": 0,
-      "venue": "GEHA Field at Arrowhead Stadium",
-      "city": "Kansas City, Missouri",
-      "status": "timed",
-      "group": "F",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760469,
       "date": "2026-06-26",
