@@ -1,46 +1,106 @@
 {
-  "lastUpdated": "2026-06-25T21:12:13.599Z",
+  "lastUpdated": "2026-06-25T22:40:58.380Z",
   "featured": {
-    "match": "S-7k_v7rU48",
-    "highlight": "S-7k_v7rU48",
-    "interview": "PiRGTUPHb3U"
+    "match": "aF5C7qQiIR4",
+    "highlight": "aF5C7qQiIR4",
+    "interview": "Hsaqw19i73g"
   },
   "videos": [
     {
-      "title": "Norway 3-2 Senegal | All Goals & Highlights | FIFA World Cup 2026 ...",
-      "videoId": "S-7k_v7rU48",
-      "channel": "Web Search",
+      "title": "Curaçao v Côte d'Ivoire | Group Stage E | FIFA World Cup 2026™",
+      "videoId": "aF5C7qQiIR4",
+      "channel": "FIFA",
       "publishedAt": "2026-06-25",
       "category": "Highlights",
-      "team": [
-        "Senegal",
-        "Norway"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/S-7k_v7rU48/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/aF5C7qQiIR4/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal",
-      "source": "match-search"
+      "fixtureTeams": "New Zealand vs Egypt"
     },
     {
-      "title": "HIGHLIGHTS - Norway v Senegal | Goals Galore! | FIFA World Cup 2026",
-      "videoId": "q9thzeC8_tE",
-      "channel": "Web Search",
+      "title": "Senegal Train Before Iraq | FIFA World Cup 2026™",
+      "videoId": "SzLG2Zd3CSc",
+      "channel": "FIFA",
       "publishedAt": "2026-06-25",
       "category": "Highlights",
       "team": [
-        "Senegal",
-        "Norway"
+        "Senegal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/q9thzeC8_tE/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/SzLG2Zd3CSc/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal",
-      "source": "match-search"
+      "fixtureTeams": "New Zealand vs Egypt"
+    },
+    {
+      "title": "Saudi Arabia On Playing Cabo Verde | Georgios Donis Takes Questions",
+      "videoId": "NuV0JQuhbYM",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [
+        "Saudi Arabia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/NuV0JQuhbYM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt"
+    },
+    {
+      "title": "Highlights | Bosnia and Herzegovina 3-1 Qatar",
+      "videoId": "-E4Mtblw9es",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [
+        "Qatar",
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-E4Mtblw9es/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt"
+    },
+    {
+      "title": "Highlights | Switzerland 2-1 Canada | FIFA World Cup 2026™",
+      "videoId": "C4XX3Crp5Uk",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [
+        "Canada",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/C4XX3Crp5Uk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt"
+    },
+    {
+      "title": "Iraq On Playing Senegal | Graham Arnold Takes Questions",
+      "videoId": "_on2BDbrFfE",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [
+        "Senegal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_on2BDbrFfE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt"
     },
     {
       "title": "France Train Before Norway | FIFA World Cup 2026™",
@@ -191,77 +251,18 @@
       "fixtureTeams": "New Zealand vs Egypt"
     },
     {
-      "title": "Team Feature: Egypt | The Pride and The Passion Of Mostafa Zico",
-      "videoId": "44pFGKg2KBo",
-      "channel": "FIFA",
+      "title": "Did England’s Ghana draw prove they need Palmer & Foden? 👀 Gab & Juls’ World Cup reaction | ESPN FC",
+      "videoId": "Hsaqw19i73g",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-25",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [
-        "Egypt"
+        "England",
+        "Ghana"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/44pFGKg2KBo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "New Zealand vs Egypt"
-    },
-    {
-      "title": "Team Feature: IR Iran | \"It's Not Over Yet\"",
-      "videoId": "VSmhfu47GcM",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-25",
-      "category": "Highlights",
-      "team": [
-        "Iran"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/VSmhfu47GcM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "New Zealand vs Egypt"
-    },
-    {
-      "title": "Team Feature: New Zealand | The Kiwi Team on Family And Keeping Perspective",
-      "videoId": "VuI1fa5hYMM",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-25",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/VuI1fa5hYMM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "New Zealand vs Egypt"
-    },
-    {
-      "title": "For All You Newcomers… 🫵",
-      "videoId": "fdz4gxayKwE",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-25",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fdz4gxayKwE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "New Zealand vs Egypt"
-    },
-    {
-      "title": "Team Feature: Saudi Arabia | Saud Abdulhamid: Fulfilling the European Dream and Leading Saudi Arabia",
-      "videoId": "OYDf4jt-5qk",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-25",
-      "category": "Highlights",
-      "team": [
-        "Saudi Arabia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/OYDf4jt-5qk/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Hsaqw19i73g/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "New Zealand vs Egypt"
@@ -466,37 +467,6 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "New Zealand vs Egypt"
-    },
-    {
-      "title": "Morocco vs. Haiti FULL REACTION: ‘We have a seat at the table’ | ESPN FC",
-      "videoId": "PiRGTUPHb3U",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-25",
-      "category": "Viral",
-      "team": [
-        "Morocco",
-        "Haiti"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PiRGTUPHb3U/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "New Zealand vs Egypt"
-    },
-    {
-      "title": "Curaçao v Côte d'Ivoire | Group Stage E | FIFA World Cup 2026™",
-      "videoId": "aF5C7qQiIR4",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-10",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/aF5C7qQiIR4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
     }
   ]
 }
