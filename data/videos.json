@@ -1,132 +1,30 @@
 {
-  "lastUpdated": "2026-06-24T23:43:05.813Z",
+  "lastUpdated": "2026-06-25T00:16:26.129Z",
   "featured": {
-    "match": "a3-KTsutmN0",
-    "highlight": "WA6TU1Vhm3I",
+    "match": "3k1FuO9B844",
+    "highlight": "3k1FuO9B844",
     "interview": "M9fNZ4oyjTI"
   },
   "videos": [
     {
-      "title": "New Zealand vs Egypt | Full Match Highlights | World Cup 2026",
-      "videoId": "WA6TU1Vhm3I",
-      "channel": "Web Search",
-      "publishedAt": "2026-06-24",
-      "category": "Full Match",
-      "team": [
-        "Egypt",
-        "New Zealand"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/WA6TU1Vhm3I/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "New Zealand vs Egypt",
-      "source": "match-search"
-    },
-    {
-      "title": "Highlights | New Zealand 1-3 Egypt | FIFA World Cup 2026",
-      "videoId": "a3-KTsutmN0",
-      "channel": "Web Search",
-      "publishedAt": "2026-06-24",
-      "category": "Highlights",
-      "team": [
-        "Egypt",
-        "New Zealand"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/a3-KTsutmN0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "New Zealand vs Egypt",
-      "source": "match-search"
-    },
-    {
-      "title": "Sweden On Playing Japan | Graham Potter Takes Questions",
-      "videoId": "HKJQwM0XCGc",
+      "title": "Türkiye On Playing USA | Vincenzo Montella & Kenan Yildiz Takes Questions",
+      "videoId": "3k1FuO9B844",
       "channel": "FIFA",
-      "publishedAt": "2026-06-24",
+      "publishedAt": "2026-06-25",
       "category": "Highlights",
       "team": [
-        "Japan",
-        "Sweden"
+        "USA"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/HKJQwM0XCGc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/3k1FuO9B844/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Ecuador vs Curaçao"
+      "fixtureTeams": "New Zealand vs Egypt"
     },
     {
-      "title": "Netherlands On Playing Tunisia | Ronald Koeman & Ryan Gravenberch Take Questions",
-      "videoId": "qzyCTjxxZRA",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-24",
-      "category": "Highlights",
-      "team": [
-        "Netherlands",
-        "Tunisia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/qzyCTjxxZRA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Ecuador vs Curaçao"
-    },
-    {
-      "title": "Cote d'Ivoire Train Before Curacao | FIFA World Cup 2026™",
-      "videoId": "-K9EcB7Y74s",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-24",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-K9EcB7Y74s/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Ecuador vs Curaçao"
-    },
-    {
-      "title": "Tunisia On Playing Netherlands | Hervé Renard & Aymen Dahmen Take Questions",
-      "videoId": "BD0U2iCTCu4",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-24",
-      "category": "Highlights",
-      "team": [
-        "Netherlands",
-        "Tunisia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/BD0U2iCTCu4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Ecuador vs Curaçao"
-    },
-    {
-      "title": "Japan On Playing Sweden | Hajime Moriyasu Takes Questions",
-      "videoId": "J1MX7UdZQfw",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-24",
-      "category": "Highlights",
-      "team": [
-        "Japan",
-        "Sweden"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/J1MX7UdZQfw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Ecuador vs Curaçao"
-    },
-    {
-      "title": "Australia On Playing Paraguay | Tony Popovic And Alessandro Circati Take Questions",
-      "videoId": "rPmfQmT3u1s",
+      "title": "Paraguay On Playing Australia | Gustavo Alfaro & Andres Cubas Take Questions",
+      "videoId": "vwMeblfw3Es",
       "channel": "FIFA",
       "publishedAt": "2026-06-24",
       "category": "Highlights",
@@ -136,153 +34,223 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/rPmfQmT3u1s/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/vwMeblfw3Es/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Ecuador vs Curaçao"
     },
     {
-      "title": "USA Train Before Türkiye | FIFA World Cup 2026™",
-      "videoId": "vnW9yNMIQnE",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-24",
-      "category": "Highlights",
-      "team": [
-        "USA"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vnW9yNMIQnE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Ecuador vs Curaçao"
-    },
-    {
-      "title": "Highlights | Portugal 5-0 Uzbekistan | FIFA World Cup 2026™",
-      "videoId": "kwbH2dm1AXo",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-24",
-      "category": "Highlights",
-      "team": [
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/kwbH2dm1AXo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Ecuador vs Curaçao"
-    },
-    {
-      "title": "Netherlands Train Before Tunisia | FIFA World Cup 2026™",
-      "videoId": "cCCzDrDcZIo",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-24",
-      "category": "Highlights",
-      "team": [
-        "Netherlands",
-        "Tunisia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/cCCzDrDcZIo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Ecuador vs Curaçao"
-    },
-    {
-      "title": "Japan Train Before Sweden | FIFA World Cup 2026™",
-      "videoId": "H63nnh7hL0A",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-24",
-      "category": "Highlights",
-      "team": [
-        "Japan",
-        "Sweden"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/H63nnh7hL0A/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Ecuador vs Curaçao"
-    },
-    {
-      "title": "Curacao Train Before Cote d'Ivoire | FIFA World Cup 2026™",
-      "videoId": "Mk7TYFHx-7g",
+      "title": "Curacao On Playing Cote d'Ivoire | Dick Advocaat And Tahith Chong Takes Questions",
+      "videoId": "6oFVQy0qRRY",
       "channel": "FIFA",
       "publishedAt": "2026-06-24",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Mk7TYFHx-7g/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/6oFVQy0qRRY/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Ecuador vs Curaçao"
     },
     {
-      "title": "Ecuador Train Before Germany FIFA World Cup 2026™",
-      "videoId": "IOSb-08PhZo",
+      "title": "Johan Manzambi Goal | Switzerland 2-1 Canada | FIFA World Cup 2026™",
+      "videoId": "66LXpnqsvK0",
       "channel": "FIFA",
       "publishedAt": "2026-06-24",
       "category": "Highlights",
       "team": [
-        "Germany",
-        "Ecuador"
+        "Canada",
+        "Switzerland"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/IOSb-08PhZo/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/66LXpnqsvK0/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Ecuador vs Curaçao"
     },
     {
-      "title": "Germany Train Before Ecuador | FIFA World Cup 2026™",
-      "videoId": "ssKzfqjl9FA",
+      "title": "Rubén Vargas Goal | Switzerland 2-1 Canada | FIFA World Cup 2026™",
+      "videoId": "w5l9u6NPY5c",
       "channel": "FIFA",
       "publishedAt": "2026-06-24",
       "category": "Highlights",
       "team": [
-        "Germany",
-        "Ecuador"
+        "Canada",
+        "Switzerland"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ssKzfqjl9FA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/w5l9u6NPY5c/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Ecuador vs Curaçao"
     },
     {
-      "title": "Team Feature: Australia | Milos Degenek on Australia’s World Cup History",
-      "videoId": "lk8-LDGQ5N4",
+      "title": "Manzambi scores again for Switzerland! 🇨🇭 #FIFAWorldCupOnYT #shorts #fifaworldcup",
+      "videoId": "fsVXH59euBY",
       "channel": "FIFA",
       "publishedAt": "2026-06-24",
       "category": "Highlights",
       "team": [
-        "Australia"
+        "Switzerland"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/lk8-LDGQ5N4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/fsVXH59euBY/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Ecuador vs Curaçao"
     },
     {
-      "title": "Team Feature: Paraguay | Julio Enciso: \"We Must Work Hard to Put Paraguay at the Top\"",
-      "videoId": "CkQR6F2wgTs",
+      "title": "Kerim Alajbegović Goal | Bosnia and Herzegovina 3-1 Qatar",
+      "videoId": "DUJmSZBHj1E",
       "channel": "FIFA",
       "publishedAt": "2026-06-24",
       "category": "Highlights",
       "team": [
-        "Paraguay"
+        "Qatar",
+        "Bosnia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/CkQR6F2wgTs/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/DUJmSZBHj1E/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "Vargas strikes for Switzerland! ⚽🇨🇭 #FIFAWorldCupOnYT #shorts #fifaworldcup",
+      "videoId": "FfQvfcb94QA",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/FfQvfcb94QA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "Post-Match Interviews: Bosnia And Herzegovina 3-1 Qatar",
+      "videoId": "oINyjHC9kZo",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [
+        "Qatar",
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/oINyjHC9kZo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "Alajbegovic scores Bosnia and Herzegovina's first goal against Qatar. #FIFAWorldCupOnYT",
+      "videoId": "13GZ00lr1JA",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [
+        "Qatar",
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/13GZ00lr1JA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "Post-Match Player Interviews: Switzerland 2-1 Canada",
+      "videoId": "zeB65cTx22Y",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [
+        "Canada",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/zeB65cTx22Y/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "Post-Match Press Conference: Switzerland's Murat Yakin On The 2-1 Win Over Canada",
+      "videoId": "s2H3ngOPTLQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [
+        "Canada",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/s2H3ngOPTLQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "Post-Match Press Conference: Bosnia And Herzegovina's Sergej Barbarez On The 3-1 Win Over Qatar",
+      "videoId": "gg5AtdK5J2k",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [
+        "Qatar",
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/gg5AtdK5J2k/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "Bosnia and Herzegovina 🆚 Qatar #FIFAWorldCupOnYT #shorts #fifaworldcup",
+      "videoId": "mEDpAyt6K0k",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [
+        "Qatar",
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/mEDpAyt6K0k/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Ecuador vs Curaçao"
+    },
+    {
+      "title": "Switzerland 🆚 Canada #FIFAWorldCupOnYT",
+      "videoId": "QNQ6Q72TPXw",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-24",
+      "category": "Highlights",
+      "team": [
+        "Canada",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QNQ6Q72TPXw/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Ecuador vs Curaçao"
