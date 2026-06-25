@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-06-25T09:45:20.265Z",
+  "lastUpdated": "2026-06-25T12:08:48.269Z",
   "featured": {
-    "match": "nlghqbCqbe0",
-    "highlight": "nlghqbCqbe0",
+    "match": "LeXSkXsVZrU",
+    "highlight": "LeXSkXsVZrU",
     "interview": "zafi4IvP8e4"
   },
   "videos": [
+    {
+      "title": "Highlights | Norway vs Senegal | FIFA World Cup 2026",
+      "videoId": "LeXSkXsVZrU",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [
+        "Senegal",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/LeXSkXsVZrU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal",
+      "source": "match-search"
+    },
     {
       "title": "Highlights | Norway 3-2 Senegal | FIFA World Cup 2026™",
       "videoId": "nlghqbCqbe0",
