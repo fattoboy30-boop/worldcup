@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T23:42:11.979Z",
+  "lastUpdated": "2026-06-25T01:49:52.731Z",
   "fixtures": [
     {
       "id": 760415,
@@ -1258,17 +1258,17 @@
       "utcDate": "2026-06-24T22:00Z",
       "homeTeam": "Morocco",
       "homeCode": "ma",
-      "homeScore": 3,
+      "homeScore": 4,
       "awayTeam": "Haiti",
       "awayCode": "ht",
       "awayScore": 2,
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta, Georgia",
-      "status": "in_play",
+      "status": "finished",
       "group": "C",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "79'",
+      "minute": null,
       "halfTime": [
         null,
         null
@@ -1289,11 +1289,11 @@
       "awayScore": 3,
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens, Florida",
-      "status": "in_play",
+      "status": "finished",
       "group": "C",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "76'",
+      "minute": null,
       "halfTime": [
         null,
         null
@@ -1314,11 +1314,11 @@
       "awayScore": 0,
       "venue": "Estadio Banorte",
       "city": "Mexico City",
-      "status": "timed",
+      "status": "in_play",
       "group": "A",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "40'",
       "halfTime": [
         null,
         null
@@ -1339,11 +1339,11 @@
       "awayScore": 0,
       "venue": "Estadio BBVA",
       "city": "Guadalupe",
-      "status": "timed",
+      "status": "in_play",
       "group": "A",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "39'",
       "halfTime": [
         null,
         null
