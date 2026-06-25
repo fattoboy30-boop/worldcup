@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-25T12:24:20.396Z",
+  "lastUpdated": "2026-06-25T15:13:53.435Z",
   "featured": {
-    "match": "MEbP9eSq9ws",
-    "highlight": "MEbP9eSq9ws",
+    "match": "S-7k_v7rU48",
+    "highlight": "S-7k_v7rU48",
     "interview": "zafi4IvP8e4"
   },
   "videos": [
+    {
+      "title": "Norway 3-2 Senegal | All Goals & Highlights | FIFA World Cup 2026 ...",
+      "videoId": "S-7k_v7rU48",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [
+        "Senegal",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/S-7k_v7rU48/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal",
+      "source": "match-search"
+    },
+    {
+      "title": "Highlights | Norway vs Senegal | FIFA World Cup 2026",
+      "videoId": "LeXSkXsVZrU",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [
+        "Senegal",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/LeXSkXsVZrU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal",
+      "source": "match-search"
+    },
     {
       "title": "Team Feature: Norway | Nusa: \"I Want To Enjoy Every Moment\"",
       "videoId": "MEbP9eSq9ws",
