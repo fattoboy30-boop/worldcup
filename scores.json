@@ -1,53 +1,6 @@
 {
-  "lastUpdated": "2026-06-25T21:11:11.417Z",
-  "liveMatches": [
-    {
-      "id": 760473,
-      "date": "2026-06-25",
-      "time": "20:00",
-      "utcDate": "2026-06-25T20:00Z",
-      "homeTeam": "Curaçao",
-      "homeCode": "un",
-      "homeScore": 0,
-      "awayTeam": "Ivory Coast",
-      "awayCode": "ci",
-      "awayScore": 1,
-      "venue": "Lincoln Financial Field",
-      "city": "Philadelphia, Pennsylvania",
-      "status": "in_play",
-      "group": "E",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": "50'",
-      "halfTime": [
-        null,
-        null
-      ]
-    },
-    {
-      "id": 760468,
-      "date": "2026-06-25",
-      "time": "20:00",
-      "utcDate": "2026-06-25T20:00Z",
-      "homeTeam": "Ecuador",
-      "homeCode": "ec",
-      "homeScore": 1,
-      "awayTeam": "Germany",
-      "awayCode": "de",
-      "awayScore": 1,
-      "venue": "MetLife Stadium",
-      "city": "East Rutherford, New Jersey",
-      "status": "in_play",
-      "group": "E",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": "51'",
-      "halfTime": [
-        null,
-        null
-      ]
-    }
-  ],
+  "lastUpdated": "2026-06-25T22:06:52.273Z",
+  "liveMatches": [],
   "recentResults": [
     {
       "id": 760415,
@@ -1290,6 +1243,52 @@
         null,
         null
       ]
+    },
+    {
+      "id": 760473,
+      "date": "2026-06-25",
+      "time": "20:00",
+      "utcDate": "2026-06-25T20:00Z",
+      "homeTeam": "Curaçao",
+      "homeCode": "un",
+      "homeScore": 0,
+      "awayTeam": "Ivory Coast",
+      "awayCode": "ci",
+      "awayScore": 2,
+      "venue": "Lincoln Financial Field",
+      "city": "Philadelphia, Pennsylvania",
+      "status": "finished",
+      "group": "E",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": null,
+      "halfTime": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": 760468,
+      "date": "2026-06-25",
+      "time": "20:00",
+      "utcDate": "2026-06-25T20:00Z",
+      "homeTeam": "Ecuador",
+      "homeCode": "ec",
+      "homeScore": 2,
+      "awayTeam": "Germany",
+      "awayCode": "de",
+      "awayScore": 1,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford, New Jersey",
+      "status": "finished",
+      "group": "E",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": null,
+      "halfTime": [
+        null,
+        null
+      ]
     }
   ],
   "upcomingMatches": [
@@ -1758,8 +1757,8 @@
       "date": "2026-06-30",
       "time": "17:00",
       "utcDate": "2026-06-30T17:00Z",
-      "homeTeam": "Group E 2nd Place",
-      "homeCode": "un",
+      "homeTeam": "Ivory Coast",
+      "homeCode": "ci",
       "homeScore": 0,
       "awayTeam": "Group I 2nd Place",
       "awayCode": "un",
@@ -1767,7 +1766,7 @@
       "venue": "AT&T Stadium",
       "city": "Arlington, Texas",
       "status": "timed",
-      "group": null,
+      "group": "E",
       "stage": "ROUND_OF_32",
       "matchday": 0,
       "minute": null,
