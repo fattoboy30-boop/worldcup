@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T19:18:21.116Z",
+  "lastUpdated": "2026-06-26T20:14:25.407Z",
   "liveMatches": [
     {
       "id": 760475,
@@ -8,17 +8,17 @@
       "utcDate": "2026-06-26T19:00Z",
       "homeTeam": "Norway",
       "homeCode": "no",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayTeam": "France",
       "awayCode": "fr",
-      "awayScore": 1,
+      "awayScore": 3,
       "venue": "Gillette Stadium",
       "city": "Foxborough, Massachusetts",
       "status": "in_play",
       "group": "I",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "16'",
+      "minute": "46'",
       "halfTime": [
         null,
         null
@@ -41,7 +41,7 @@
       "group": "I",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "16'",
+      "minute": "45'+9'",
       "halfTime": [
         null,
         null
