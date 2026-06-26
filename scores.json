@@ -1,53 +1,6 @@
 {
-  "lastUpdated": "2026-06-26T00:08:17.184Z",
-  "liveMatches": [
-    {
-      "id": 760471,
-      "date": "2026-06-25",
-      "time": "23:00",
-      "utcDate": "2026-06-25T23:00Z",
-      "homeTeam": "Japan",
-      "homeCode": "jp",
-      "homeScore": 0,
-      "awayTeam": "Sweden",
-      "awayCode": "se",
-      "awayScore": 0,
-      "venue": "AT&T Stadium",
-      "city": "Arlington, Texas",
-      "status": "in_play",
-      "group": "F",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": "47'",
-      "halfTime": [
-        null,
-        null
-      ]
-    },
-    {
-      "id": 760472,
-      "date": "2026-06-25",
-      "time": "23:00",
-      "utcDate": "2026-06-25T23:00Z",
-      "homeTeam": "Tunisia",
-      "homeCode": "tn",
-      "homeScore": 0,
-      "awayTeam": "Netherlands",
-      "awayCode": "nl",
-      "awayScore": 2,
-      "venue": "GEHA Field at Arrowhead Stadium",
-      "city": "Kansas City, Missouri",
-      "status": "in_play",
-      "group": "F",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": "49'",
-      "halfTime": [
-        null,
-        null
-      ]
-    }
-  ],
+  "lastUpdated": "2026-06-26T01:52:38.493Z",
+  "liveMatches": [],
   "recentResults": [
     {
       "id": 760415,
@@ -1336,6 +1289,52 @@
         null,
         null
       ]
+    },
+    {
+      "id": 760471,
+      "date": "2026-06-25",
+      "time": "23:00",
+      "utcDate": "2026-06-25T23:00Z",
+      "homeTeam": "Japan",
+      "homeCode": "jp",
+      "homeScore": 1,
+      "awayTeam": "Sweden",
+      "awayCode": "se",
+      "awayScore": 1,
+      "venue": "AT&T Stadium",
+      "city": "Arlington, Texas",
+      "status": "finished",
+      "group": "F",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": null,
+      "halfTime": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": 760472,
+      "date": "2026-06-25",
+      "time": "23:00",
+      "utcDate": "2026-06-25T23:00Z",
+      "homeTeam": "Tunisia",
+      "homeCode": "tn",
+      "homeScore": 1,
+      "awayTeam": "Netherlands",
+      "awayCode": "nl",
+      "awayScore": 3,
+      "venue": "GEHA Field at Arrowhead Stadium",
+      "city": "Kansas City, Missouri",
+      "status": "finished",
+      "group": "F",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": null,
+      "halfTime": [
+        null,
+        null
+      ]
     }
   ],
   "upcomingMatches": [
@@ -1692,8 +1691,8 @@
       "homeTeam": "Brazil",
       "homeCode": "br",
       "homeScore": 0,
-      "awayTeam": "Group F 2nd Place",
-      "awayCode": "un",
+      "awayTeam": "Japan",
+      "awayCode": "jp",
       "awayScore": 0,
       "venue": "NRG Stadium",
       "city": "Houston, Texas",
@@ -1735,8 +1734,8 @@
       "date": "2026-06-30",
       "time": "01:00",
       "utcDate": "2026-06-30T01:00Z",
-      "homeTeam": "Group F Winner",
-      "homeCode": "un",
+      "homeTeam": "Netherlands",
+      "homeCode": "nl",
       "homeScore": 0,
       "awayTeam": "Morocco",
       "awayCode": "ma",
@@ -1744,7 +1743,7 @@
       "venue": "Estadio BBVA",
       "city": "Guadalupe",
       "status": "timed",
-      "group": "C",
+      "group": "F",
       "stage": "ROUND_OF_32",
       "matchday": 0,
       "minute": null,
