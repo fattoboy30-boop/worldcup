@@ -1,46 +1,180 @@
 {
-  "lastUpdated": "2026-06-25T22:47:47.828Z",
+  "lastUpdated": "2026-06-26T00:13:10.252Z",
   "featured": {
-    "match": "nlghqbCqbe0",
-    "highlight": "nlghqbCqbe0",
-    "interview": "Hsaqw19i73g"
+    "match": "8aiD1saFQpc",
+    "highlight": "8aiD1saFQpc",
+    "interview": "dt12aaiJjc4"
   },
   "videos": [
     {
-      "title": "Highlights | Norway 3-2 Senegal | FIFA World Cup 2026™",
-      "videoId": "nlghqbCqbe0",
-      "channel": "Web Search",
-      "publishedAt": "2026-06-25",
+      "title": "Nicolas Pepe scores the first goal for Côte d’Ivoire against Curaçao. #FIFAWorldCupOnYT",
+      "videoId": "8aiD1saFQpc",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-26",
       "category": "Highlights",
-      "team": [
-        "Senegal",
-        "Norway"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/nlghqbCqbe0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/8aiD1saFQpc/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal",
-      "source": "match-search"
+      "fixtureTeams": "Norway vs Senegal"
     },
     {
-      "title": "Norway 3-2 Senegal | All Goals & Highlights | FIFA World Cup 2026 ...",
-      "videoId": "S-7k_v7rU48",
-      "channel": "Web Search",
+      "title": "Post-Match Press Conference: Ecuador's Sebastián Beccacece On 2-1 Win Over Germany",
+      "videoId": "Ms3DO78qKGI",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [
+        "Germany",
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Ms3DO78qKGI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "Angulo with Ecuador’s equalizer 🇪🇨#FIFAWorldCupOnYT",
+      "videoId": "uaQBeroU2Y4",
+      "channel": "FIFA",
       "publishedAt": "2026-06-25",
       "category": "Highlights",
       "team": [
-        "Senegal",
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/uaQBeroU2Y4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt"
+    },
+    {
+      "title": "Gonzalo Plata sparks Ecuadorian madness in NYNJ 🇪🇨#FIFAWorldCupOnYT",
+      "videoId": "C8_XI9kHsW8",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/C8_XI9kHsW8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt"
+    },
+    {
+      "title": "Post-Match Player Interviews: Ecuador 2-1 Germany",
+      "videoId": "0L3XrN0kTN8",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [
+        "Germany",
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0L3XrN0kTN8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt"
+    },
+    {
+      "title": "Curaçao 🆚 Côte d'Ivoire #FIFAWorldCupOnYT",
+      "videoId": "M3ThTqsps2w",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/M3ThTqsps2w/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt"
+    },
+    {
+      "title": "Post-Match Press Conference: Cote d'Ivoire's Emerse Faé On The 2-0 Win Over Curacao",
+      "videoId": "MA1_yXAzYzk",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/MA1_yXAzYzk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt"
+    },
+    {
+      "title": "Post-Match Press Conference: Germany's Julian Nagelsmann On 2-1 Loss To Ecuador",
+      "videoId": "dkeYNjPrK1U",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [
+        "Germany",
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/dkeYNjPrK1U/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt"
+    },
+    {
+      "title": "Post-Match Player Interviews: Curacao 0-2 Cote d'Ivoire",
+      "videoId": "MfFMTWPTmGE",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/MfFMTWPTmGE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt"
+    },
+    {
+      "title": "Post-Match Press Conference: Curacao's Dick Advocaat On The 2-0 Loss To Cote d'Ivoire",
+      "videoId": "zQ8pZvp9Cbs",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/zQ8pZvp9Cbs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt"
+    },
+    {
+      "title": "Norway Train Before France | FIFA World Cup 2026™",
+      "videoId": "qYMqf_8bqgM",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [
+        "France",
         "Norway"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/S-7k_v7rU48/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/qYMqf_8bqgM/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal",
-      "source": "match-search"
+      "fixtureTeams": "New Zealand vs Egypt"
     },
     {
       "title": "Curaçao v Côte d'Ivoire | Group Stage E | FIFA World Cup 2026™",
@@ -106,182 +240,18 @@
       "fixtureTeams": "New Zealand vs Egypt"
     },
     {
-      "title": "Highlights | Switzerland 2-1 Canada | FIFA World Cup 2026™",
-      "videoId": "C4XX3Crp5Uk",
-      "channel": "FIFA",
+      "title": "REACTION to Ecuador vs. Germany 🔥 A DESERVING COMEBACK! - Stewart Robson | ESPN FC",
+      "videoId": "dt12aaiJjc4",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-25",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [
-        "Canada",
-        "Switzerland"
+        "Germany",
+        "Ecuador"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/C4XX3Crp5Uk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "New Zealand vs Egypt"
-    },
-    {
-      "title": "Iraq On Playing Senegal | Graham Arnold Takes Questions",
-      "videoId": "_on2BDbrFfE",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-25",
-      "category": "Highlights",
-      "team": [
-        "Senegal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_on2BDbrFfE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "New Zealand vs Egypt"
-    },
-    {
-      "title": "France Train Before Norway | FIFA World Cup 2026™",
-      "videoId": "Qs-BAMm90Wo",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-25",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Qs-BAMm90Wo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "New Zealand vs Egypt"
-    },
-    {
-      "title": "France On Playing Norway | Guy Stephan Takes Questions",
-      "videoId": "geZ-SQ8YBYw",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-25",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/geZ-SQ8YBYw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "New Zealand vs Egypt"
-    },
-    {
-      "title": "Senegal On Playing Iraq | Pape Thiaw & Ismail Jakobs Take Questions",
-      "videoId": "mQqlMjZy-9U",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-25",
-      "category": "Highlights",
-      "team": [
-        "Senegal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/mQqlMjZy-9U/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "New Zealand vs Egypt"
-    },
-    {
-      "title": "New Zealand Train Before Belgium | FIFA World Cup 2026™",
-      "videoId": "A7ZtEjldcv0",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-25",
-      "category": "Highlights",
-      "team": [
-        "Belgium"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/A7ZtEjldcv0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "New Zealand vs Egypt"
-    },
-    {
-      "title": "Belgium Train Before New Zealand | FIFA World Cup 2026™",
-      "videoId": "TvFsJvJVMfM",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-25",
-      "category": "Highlights",
-      "team": [
-        "Belgium"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/TvFsJvJVMfM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "New Zealand vs Egypt"
-    },
-    {
-      "title": "Spain Train Before Uruguay | FIFA World Cup 2026™",
-      "videoId": "l7bzy3it-Zc",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-25",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Uruguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/l7bzy3it-Zc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "New Zealand vs Egypt"
-    },
-    {
-      "title": "Iraq Train Before Senegal | FIFA World Cup 2026™",
-      "videoId": "NF79R1zfj88",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-25",
-      "category": "Highlights",
-      "team": [
-        "Senegal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/NF79R1zfj88/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "New Zealand vs Egypt"
-    },
-    {
-      "title": "Uruguay Train Before Spain | FIFA World Cup 2026™",
-      "videoId": "3765bUP1JG0",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-25",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Uruguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/3765bUP1JG0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "New Zealand vs Egypt"
-    },
-    {
-      "title": "Cabo Verde Train Before Saudi Arabia | FIFA World Cup 2026™",
-      "videoId": "OodWn2mRhCk",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-25",
-      "category": "Highlights",
-      "team": [
-        "Saudi Arabia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/OodWn2mRhCk/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/dt12aaiJjc4/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "New Zealand vs Egypt"
@@ -486,20 +456,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/e74S0g8VJ2g/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "New Zealand vs Egypt"
-    },
-    {
-      "title": "A moment Neymar will never forget 🇧🇷 (via neymarjr/YT)",
-      "videoId": "FPXhs_VH_jk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-25",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FPXhs_VH_jk/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "New Zealand vs Egypt"
