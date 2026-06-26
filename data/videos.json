@@ -1,505 +1,460 @@
 {
-  "lastUpdated": "2026-06-20T18:46:25.852Z",
+  "lastUpdated": "2026-06-26T17:51:45.467Z",
   "featured": {
-    "match": "fPZ1HcZFVNA",
-    "highlight": "fPZ1HcZFVNA",
-    "interview": "sKl-KU4U6Bk"
+    "match": "Z6b8wxNlsMY",
+    "highlight": "Z6b8wxNlsMY",
+    "interview": "uDtHtJAEw_8"
   },
   "videos": [
     {
-      "title": "COLOMBIA vs UZBEKISTAN 3-1 | FIFA World Cup 2026 Full Highlights",
-      "videoId": "fPZ1HcZFVNA",
-      "channel": "Web Search",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Colombia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fPZ1HcZFVNA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia",
-      "source": "match-search"
-    },
-    {
-      "title": "Uzbekistan vs Colombia Extended Highlights | 2026 FIFA World Cup™",
-      "videoId": "97s_sROG6y0",
-      "channel": "Web Search",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Colombia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/97s_sROG6y0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Uzbekistan vs Colombia",
-      "source": "match-search"
-    },
-    {
-      "title": "Uruguay Train Before Cabo Verde | FIFA World Cup 2026™",
-      "videoId": "IxmN8DTo87o",
+      "title": "Argentina Train Before Jordan | FIFA World Cup 2026™",
+      "videoId": "Z6b8wxNlsMY",
       "channel": "FIFA",
-      "publishedAt": "2026-06-20",
+      "publishedAt": "2026-06-26",
       "category": "Highlights",
       "team": [
-        "Uruguay"
+        "Argentina"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/IxmN8DTo87o/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Z6b8wxNlsMY/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
+      "fixtureTeams": "Norway vs Senegal"
     },
     {
-      "title": "Team Feature: Egypt | The Qualities Of Mohamed Salah",
-      "videoId": "j_9R0orQSPw",
+      "title": "Team Feature: Austria | Hoping To Make History",
+      "videoId": "ic6AxJuhLXs",
       "channel": "FIFA",
-      "publishedAt": "2026-06-20",
+      "publishedAt": "2026-06-26",
       "category": "Highlights",
       "team": [
-        "Egypt"
+        "Austria"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/j_9R0orQSPw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/ic6AxJuhLXs/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
+      "fixtureTeams": "Norway vs Senegal"
     },
     {
-      "title": "Team Feature: New Zealand | \"Win At All Costs\"",
-      "videoId": "xPGF3D4GcIg",
+      "title": "Madonna, Feid - Read My Lips (FIFA World Cup 2026™)",
+      "videoId": "Ejwv_JyVo34",
       "channel": "FIFA",
-      "publishedAt": "2026-06-20",
+      "publishedAt": "2026-06-26",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xPGF3D4GcIg/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Ejwv_JyVo34/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
+      "fixtureTeams": "Norway vs Senegal"
     },
     {
-      "title": "Team Feature: Cabo Verde | The Unexpected And Heartwarming Journey Of Roberto 'Pico' Lopes",
-      "videoId": "TNPO05Fq6rY",
+      "title": "Team Feature: Algeria | Luca Zidane on Representing Algeria",
+      "videoId": "CLf-kdJhXuU",
       "channel": "FIFA",
-      "publishedAt": "2026-06-20",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/CLf-kdJhXuU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "Team Feature: Jordan | Team Spirit, Quality, and Making Their Nation Proud",
+      "videoId": "Z8Ku2D-xINo",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-26",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/TNPO05Fq6rY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Z8Ku2D-xINo/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
+      "fixtureTeams": "Norway vs Senegal"
     },
     {
-      "title": "Alt Cast Highlights: Scotland v Morocco | FIFA World Cup 2026™",
-      "videoId": "nNPhMSExENo",
+      "title": "Record-breaking goals & appearances from stars! 🌟 | FIFA Fan Festival | Best of Week 2",
+      "videoId": "_h19AJKFISw",
       "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Morocco",
-        "Scotland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/nNPhMSExENo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Team Feature: Uruguay | Valverde On Embodying The Uruguayan Spirit As Captain",
-      "videoId": "ezgzRw6I9xI",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Uruguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ezgzRw6I9xI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Alt Cast Highlights: Brazil v Haiti | FIFA World Cup 2026™",
-      "videoId": "b4uUNhSns2c",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Haiti"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/b4uUNhSns2c/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Team Feature: IR Iran | Ghalenoei Focused On Taking IR Iran Into The Knockout Stages",
-      "videoId": "Ew6lABH7gXE",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Iran"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Ew6lABH7gXE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Alt Cast Highlights: USA v Australia | FIFA World Cup 2026™",
-      "videoId": "Ds1z8cVR1Pw",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "USA",
-        "Australia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Ds1z8cVR1Pw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Team Feature: Belgium | Players Describe 'That Feeling' Of Playing At A World Cup",
-      "videoId": "LsI6DopPwGU",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Belgium"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/LsI6DopPwGU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Team Feature: Saudi Arabia | Donis Feels The Pride Of The Green Falcons",
-      "videoId": "jfV37rfFqJQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Saudi Arabia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/jfV37rfFqJQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "15-Minute Match: Scotland vs Brazil | 1974 Stalemate",
-      "videoId": "QfanCT0CRJs",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Scotland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/QfanCT0CRJs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "German boss gets a \"BIG\" laugh from media",
-      "videoId": "PygihwL4LKU",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-20",
+      "publishedAt": "2026-06-26",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PygihwL4LKU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/_h19AJKFISw/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
+      "fixtureTeams": "Norway vs Senegal"
     },
     {
-      "title": "Team Feature: Spain | It Is All About Staying Together As A Family For Spain's Stars",
-      "videoId": "gWJL9m9xQxs",
+      "title": "Team Feature: Argentina | The Squad on the Greatness of Lionel Messi",
+      "videoId": "uDtHtJAEw_8",
       "channel": "FIFA",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
+      "publishedAt": "2026-06-26",
+      "category": "Viral",
       "team": [
-        "Spain"
+        "Argentina"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/gWJL9m9xQxs/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/uDtHtJAEw_8/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
+      "fixtureTeams": "Norway vs Senegal"
     },
     {
-      "title": "Match Preview: Belgium vs IR Iran",
-      "videoId": "4Cyb1E9lh1Y",
+      "title": "Alt Cast Highlights: Türkiye v USA | FIFA World Cup 2026™",
+      "videoId": "XMcP5lXm4Jo",
       "channel": "FIFA",
-      "publishedAt": "2026-06-20",
+      "publishedAt": "2026-06-26",
       "category": "Highlights",
       "team": [
-        "Belgium",
-        "Iran"
+        "USA"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/4Cyb1E9lh1Y/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/XMcP5lXm4Jo/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
+      "fixtureTeams": "Norway vs Senegal"
     },
     {
-      "title": "Pedri’s showing off his magic🤩⚽️🪄 (Via @sefutbol/IG)",
-      "videoId": "vrK3HTIssEc",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vrK3HTIssEc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Wait for the switch up 🤣 (via @rek.1006/X)",
-      "videoId": "oxNptgnwqHM",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/oxNptgnwqHM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "🤣🤣🤣 (via @elmo/X)",
-      "videoId": "77efi5tm9EY",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/77efi5tm9EY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "What's the CEILING for USMNT after back-to-back wins? 📈 'MOMENTUM!' - Jermaine Jones | SportsCenter",
-      "videoId": "yIcHOQIZiXw",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/yIcHOQIZiXw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "United States ADVANCE to Round of 32 📈 Brazil UNDERPERFORMING? 😮 & MORE! | ESPN FC",
-      "videoId": "dXvNoTiOoY8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
+      "title": "Alt Cast Highlights: Paraguay v Australia | FIFA World Cup 2026™",
+      "videoId": "0zs8O3N0F4c",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-26",
       "category": "Highlights",
       "team": [
-        "Brazil"
+        "Australia",
+        "Paraguay"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/dXvNoTiOoY8/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/0zs8O3N0F4c/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
+      "fixtureTeams": "Norway vs Senegal"
     },
     {
-      "title": "Could Raphinha miss the rest of the WC? 😮",
-      "videoId": "1_Xn5u98YaA",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
+      "title": "Alt Cast Highlights: Japan v Sweden | FIFA World Cup 2026™",
+      "videoId": "rgWu9nZ2CPQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [
+        "Japan",
+        "Sweden"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/rgWu9nZ2CPQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "Team Feature: Uzbekistan | Eldor Shomurodov on Meeting Rivaldo and Inspiring the Next Generation",
+      "videoId": "R3w1JjBRK-E",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-26",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/1_Xn5u98YaA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/R3w1JjBRK-E/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
+      "fixtureTeams": "Norway vs Senegal"
     },
     {
-      "title": "Germany vs. Ivory Coast PREVIEW 🇩🇪🇨🇮 Archie Rhind-Tutt shares on Germany's mentality | ESPN FC",
-      "videoId": "VLmZF_8cVuA",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
+      "title": "One year to go until the FIFA Women’s World Cup Brasil 2027™!",
+      "videoId": "-dVx2H9we6c",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-dVx2H9we6c/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "Alt Cast Highlights: Curaçao v Côte d'Ivoire | FIFA World Cup 2026™",
+      "videoId": "Lj60S7gWvWc",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Lj60S7gWvWc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "Team Feature: Congo DR | How Sébastien Desabre Built a World Cup Team",
+      "videoId": "JAlKmdlIWhk",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JAlKmdlIWhk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "Alt Cast Highlights: Ecuador v Germany | FIFA World Cup 2026™",
+      "videoId": "Mg2lVDfCXl8",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-26",
       "category": "Highlights",
       "team": [
         "Germany",
-        "Ivory Coast"
+        "Ecuador"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/VLmZF_8cVuA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Mg2lVDfCXl8/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
+      "fixtureTeams": "Norway vs Senegal"
     },
     {
-      "title": "Reacting to Raphinha's injury vs. Haiti 👀 How important is it Brazil gets him back? | ESPN FC",
-      "videoId": "ykWw_OAt5WY",
+      "title": "Shaka Hislop recaps USMNT’s loss to Türkiye and previews Round of 32 matches ⚽ | SportsCenter",
+      "videoId": "6Dn9QdPI5ws",
       "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Haiti"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ykWw_OAt5WY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "How far can USMNT go in the WC? 🤔",
-      "videoId": "MFjj5QIgcWg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
+      "publishedAt": "2026-06-26",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/MFjj5QIgcWg/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/6Dn9QdPI5ws/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
+      "fixtureTeams": "Norway vs Senegal"
     },
     {
-      "title": "USMNT vs. Australia Reaction ⚽ U.S. MOVING ON TO WORLD CUP KNOCKOUT STAGE | ESPN FC",
-      "videoId": "sKl-KU4U6Bk",
+      "title": "Brek Shea was IMPRESSED with Christian Pulisic’s return 🗣️ ‘HE’S BACK!’ | Get Up",
+      "videoId": "d4lj_MkqKxQ",
       "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/d4lj_MkqKxQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "Brek Shea reacts to USMNT loss to  Türkiye 🗣️",
+      "videoId": "wn4-U1L6kKo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/wn4-U1L6kKo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "ROUND OF 32 PREVIEW 🔮 Any worries for the USMNT vs. Bosnia-Herzegovina? | First Take",
+      "videoId": "VyJanB0D2bA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/VyJanB0D2bA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "This feels like just yesterday",
+      "videoId": "z6GrjQ1bh4Q",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/z6GrjQ1bh4Q/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "Turkiye-USMNT REACTION 🔥 + More on the 2026 FIFA World Cup group stage 🌎 | ESPN FC",
+      "videoId": "yi3autynO2o",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-26",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/yi3autynO2o/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "Reacting to Christian Pulisic's return from injury in the 57th minute vs. Türkiye ⚽️",
+      "videoId": "-FWlIWRYKFQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-FWlIWRYKFQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "Kasey Keller needs to see how USMNT responds to their 3-2 loss to Türkiye 📝",
+      "videoId": "EYuvj-vV3o8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/EYuvj-vV3o8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "LOOKING AHEAD 👀 Could Germany get past France in the World Cup? 🤨 | ESPN FC Extra Time",
+      "videoId": "NR1JDrWkhhM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Germany"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/NR1JDrWkhhM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "Ecuador vs. Germany REACTION 🔥 Jürgen Klinsmann is DISAPPOINTED in his German side 😬 | ESPN FC",
+      "videoId": "IbsAU2yVU-k",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-26",
       "category": "Viral",
       "team": [
-        "Australia"
+        "Germany",
+        "Ecuador"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/sKl-KU4U6Bk/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/IbsAU2yVU-k/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
+      "fixtureTeams": "Norway vs Senegal"
     },
     {
-      "title": "Miguel Almiron becomes the FIRST PLAYER to receive a red card for covering mouth 🚨 | ESPN FC",
-      "videoId": "c7QfLong47c",
+      "title": "The most intriguing World Cup Round of 32 matches ⚽ | ESPN FC",
+      "videoId": "HGlk7VPINqM",
       "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
+      "publishedAt": "2026-06-26",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/c7QfLong47c/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/HGlk7VPINqM/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
+      "fixtureTeams": "Norway vs Senegal"
     },
     {
-      "title": "This is how the Brazilians celebrated the goal ⚽️🤩🇧🇷",
-      "videoId": "YmkryPDz1VA",
+      "title": "Ilkay Gundogan says Elliot Anderson ‘will be a GREAT addition’ to Manchester City! | ESPN FC",
+      "videoId": "uE5KKcvTZB8",
       "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/uE5KKcvTZB8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "REACTION to Turkiye vs. USMNT 🚨 United States STUNNED in stoppage time as Pulisic returns | ESPN FC",
+      "videoId": "vEOOJnZZKKs",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-26",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vEOOJnZZKKs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "USMNT fall in final seconds vs. Turkiye 🚨 Biggest takeaways + Lookahead to KO stage | SportsCenter",
+      "videoId": "ybwctMEAals",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ybwctMEAals/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "Wearing an Argentina jersey in a house full of Mexico fans 😭 (via johnjimzz/IG)",
+      "videoId": "TdrG8-Xr5f8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-26",
       "category": "Highlights",
       "team": [
-        "Brazil"
+        "Argentina",
+        "Mexico"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/YmkryPDz1VA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/TdrG8-Xr5f8/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "The Scots take over the ports in Boston 🏴󠁧󠁢󠁳󠁣󠁴󠁿⚽ (🎥 via Martyn Ewart)",
-      "videoId": "bZokHiscllk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/bZokHiscllk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "Taylor Twellman is optimistic about the United States' World Cup chances 👀",
-      "videoId": "aJujN2k0Akw",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/aJujN2k0Akw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
-    },
-    {
-      "title": "‘Quarterfinals or bust!’ 😳 Taylor Twellman on USMNT’s expectations for the 2026 World Cup | ESPN FC",
-      "videoId": "lJP60L7809I",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/lJP60L7809I/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Argentina vs Algeria"
+      "fixtureTeams": "Norway vs Senegal"
     }
   ]
 }
