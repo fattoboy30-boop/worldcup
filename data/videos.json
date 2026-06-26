@@ -1,11 +1,45 @@
 {
-  "lastUpdated": "2026-06-26T05:11:18.108Z",
+  "lastUpdated": "2026-06-26T08:21:08.603Z",
   "featured": {
-    "match": "lrjxNinwcTE",
-    "highlight": "lrjxNinwcTE",
-    "interview": "lrjxNinwcTE"
+    "match": "GHNdcbfBcl0",
+    "highlight": "GHNdcbfBcl0",
+    "interview": "GHNdcbfBcl0"
   },
   "videos": [
+    {
+      "title": "HIGHLIGHTS - Colombia v Dr Congo | Plenty Of Chances! | FIFA World Cup 2026",
+      "videoId": "GHNdcbfBcl0",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/GHNdcbfBcl0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR",
+      "source": "match-search"
+    },
+    {
+      "title": "Colombia vs DR Congo Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "K_7ZfDKt1qI",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/K_7ZfDKt1qI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR",
+      "source": "match-search"
+    },
     {
       "title": "Post-Match Press Conference: Japan's Hajime Moriyasu On The 1-1 Draw With Sweden",
       "videoId": "lrjxNinwcTE",
