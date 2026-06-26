@@ -1,11 +1,28 @@
 {
-  "lastUpdated": "2026-06-26T09:33:50.643Z",
+  "lastUpdated": "2026-06-26T11:23:30.702Z",
   "featured": {
-    "match": "F3EH2lJYMIg",
-    "highlight": "F3EH2lJYMIg",
+    "match": "JTGXHmxlXHc",
+    "highlight": "JTGXHmxlXHc",
     "interview": "vEOOJnZZKKs"
   },
   "videos": [
+    {
+      "title": "Highlights | Colombia 1-0 Congo DR | FIFA World Cup 2026™",
+      "videoId": "JTGXHmxlXHc",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JTGXHmxlXHc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR",
+      "source": "match-search"
+    },
     {
       "title": "Belgium On Playing New Zealand | Rudi Garcia & Brandon Mechele Take Questions",
       "videoId": "F3EH2lJYMIg",
