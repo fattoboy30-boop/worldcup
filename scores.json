@@ -1,53 +1,6 @@
 {
-  "lastUpdated": "2026-06-26T20:14:25.407Z",
-  "liveMatches": [
-    {
-      "id": 760475,
-      "date": "2026-06-26",
-      "time": "19:00",
-      "utcDate": "2026-06-26T19:00Z",
-      "homeTeam": "Norway",
-      "homeCode": "no",
-      "homeScore": 1,
-      "awayTeam": "France",
-      "awayCode": "fr",
-      "awayScore": 3,
-      "venue": "Gillette Stadium",
-      "city": "Foxborough, Massachusetts",
-      "status": "in_play",
-      "group": "I",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": "46'",
-      "halfTime": [
-        null,
-        null
-      ]
-    },
-    {
-      "id": 760474,
-      "date": "2026-06-26",
-      "time": "19:00",
-      "utcDate": "2026-06-26T19:00Z",
-      "homeTeam": "Senegal",
-      "homeCode": "sn",
-      "homeScore": 1,
-      "awayTeam": "Iraq",
-      "awayCode": "iq",
-      "awayScore": 0,
-      "venue": "BMO Field",
-      "city": "Toronto",
-      "status": "in_play",
-      "group": "I",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": "45'+9'",
-      "halfTime": [
-        null,
-        null
-      ]
-    }
-  ],
+  "lastUpdated": "2026-06-26T21:05:53.335Z",
+  "liveMatches": [],
   "recentResults": [
     {
       "id": 760415,
@@ -1421,6 +1374,52 @@
       "city": "Inglewood, California",
       "status": "finished",
       "group": "D",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": null,
+      "halfTime": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": 760475,
+      "date": "2026-06-26",
+      "time": "19:00",
+      "utcDate": "2026-06-26T19:00Z",
+      "homeTeam": "Norway",
+      "homeCode": "no",
+      "homeScore": 1,
+      "awayTeam": "France",
+      "awayCode": "fr",
+      "awayScore": 4,
+      "venue": "Gillette Stadium",
+      "city": "Foxborough, Massachusetts",
+      "status": "finished",
+      "group": "I",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": null,
+      "halfTime": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": 760474,
+      "date": "2026-06-26",
+      "time": "19:00",
+      "utcDate": "2026-06-26T19:00Z",
+      "homeTeam": "Senegal",
+      "homeCode": "sn",
+      "homeScore": 5,
+      "awayTeam": "Iraq",
+      "awayCode": "iq",
+      "awayScore": 0,
+      "venue": "BMO Field",
+      "city": "Toronto",
+      "status": "finished",
+      "group": "I",
       "stage": "GROUP_STAGE",
       "matchday": 0,
       "minute": null,

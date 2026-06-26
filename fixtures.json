@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T20:14:25.411Z",
+  "lastUpdated": "2026-06-26T21:05:53.338Z",
   "fixtures": [
     {
       "id": 760415,
@@ -1511,14 +1511,14 @@
       "homeScore": 1,
       "awayTeam": "France",
       "awayCode": "fr",
-      "awayScore": 3,
+      "awayScore": 4,
       "venue": "Gillette Stadium",
       "city": "Foxborough, Massachusetts",
-      "status": "in_play",
+      "status": "finished",
       "group": "I",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "46'",
+      "minute": null,
       "halfTime": [
         null,
         null
@@ -1533,17 +1533,17 @@
       "utcDate": "2026-06-26T19:00Z",
       "homeTeam": "Senegal",
       "homeCode": "sn",
-      "homeScore": 1,
+      "homeScore": 5,
       "awayTeam": "Iraq",
       "awayCode": "iq",
       "awayScore": 0,
       "venue": "BMO Field",
       "city": "Toronto",
-      "status": "in_play",
+      "status": "finished",
       "group": "I",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "45'+9'",
+      "minute": null,
       "halfTime": [
         null,
         null
