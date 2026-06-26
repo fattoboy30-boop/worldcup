@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T21:05:53.338Z",
+  "lastUpdated": "2026-06-26T21:41:56.764Z",
   "fixtures": [
     {
       "id": 760415,
@@ -1909,8 +1909,8 @@
       "homeTeam": "Ivory Coast",
       "homeCode": "ci",
       "homeScore": 0,
-      "awayTeam": "Group I 2nd Place",
-      "awayCode": "un",
+      "awayTeam": "Norway",
+      "awayCode": "no",
       "awayScore": 0,
       "venue": "AT&T Stadium",
       "city": "Arlington, Texas",
@@ -1924,15 +1924,15 @@
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/ci.png",
-      "awayFlag": "https://flagcdn.com/w160/un.png"
+      "awayFlag": "https://flagcdn.com/w160/no.png"
     },
     {
       "id": 760492,
       "date": "2026-06-30",
       "time": "21:00",
       "utcDate": "2026-06-30T21:00Z",
-      "homeTeam": "Group I Winner",
-      "homeCode": "un",
+      "homeTeam": "France",
+      "homeCode": "fr",
       "homeScore": 0,
       "awayTeam": "Third Place Group C/D/F/G/H",
       "awayCode": "un",
@@ -1940,7 +1940,7 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford, New Jersey",
       "status": "timed",
-      "group": null,
+      "group": "I",
       "stage": "ROUND_OF_32",
       "matchday": 0,
       "minute": null,
@@ -1948,7 +1948,7 @@
         null,
         null
       ],
-      "homeFlag": "https://flagcdn.com/w160/un.png",
+      "homeFlag": "https://flagcdn.com/w160/fr.png",
       "awayFlag": "https://flagcdn.com/w160/un.png"
     },
     {
