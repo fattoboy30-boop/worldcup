@@ -1,27 +1,104 @@
 {
-  "lastUpdated": "2026-06-26T11:23:30.702Z",
+  "lastUpdated": "2026-06-26T12:13:31.245Z",
   "featured": {
-    "match": "JTGXHmxlXHc",
-    "highlight": "JTGXHmxlXHc",
+    "match": "vOTI9wQcFPs",
+    "highlight": "vOTI9wQcFPs",
     "interview": "vEOOJnZZKKs"
   },
   "videos": [
     {
-      "title": "Highlights | Colombia 1-0 Congo DR | FIFA World Cup 2026™",
-      "videoId": "JTGXHmxlXHc",
-      "channel": "Web Search",
+      "title": "Team Feature: Croatia | Team Unity, Pride, and the Secret to Their Success",
+      "videoId": "vOTI9wQcFPs",
+      "channel": "FIFA",
       "publishedAt": "2026-06-26",
       "category": "Highlights",
       "team": [
-        "Colombia"
+        "Croatia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/JTGXHmxlXHc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/vOTI9wQcFPs/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR",
-      "source": "match-search"
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "Team Feature: Panama | Cecilio Waterman: From Playing with Stones to the World Cup Stage",
+      "videoId": "k1z5Rxppqpw",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/k1z5Rxppqpw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "Team Feature: England | Wallsend Boys Club: Elliot Anderson & John Percival on the Iconic Pathway",
+      "videoId": "7v-v0bgcn9I",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7v-v0bgcn9I/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "Match Preview: Congo DR vs Uzbekistan | FIFA World Cup 2026™",
+      "videoId": "I9zRg4ajlv8",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/I9zRg4ajlv8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "Match Preview: Algeria vs Austria | FIFA World Cup 2026™",
+      "videoId": "2RRn3tuLWu8",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [
+        "Algeria",
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/2RRn3tuLWu8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "Egypt Train Before IR Iran | FIFA World Cup 2026™",
+      "videoId": "vNJYgItUQ8w",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [
+        "Iran",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vNJYgItUQ8w/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
     },
     {
       "title": "Belgium On Playing New Zealand | Rudi Garcia & Brandon Mechele Take Questions",
@@ -159,106 +236,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/tb74P_VSSsQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Post-Match Press Conference: Paraguay's Gustavo Alfaro On 0-0 Draw With Australia",
-      "videoId": "Y3cSA8G8bFs",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [
-        "Australia",
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Y3cSA8G8bFs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Paraguay 🆚 Australia #FIFAWorldCupOnYT",
-      "videoId": "vJGMoWzguug",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [
-        "Australia",
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vJGMoWzguug/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Türkiye 🆚 USA #FIFAWorldCupOnYT",
-      "videoId": "Zjfhpdlv0-o",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [
-        "USA"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Zjfhpdlv0-o/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Post-Match Player Interviews: Paraguay 0-0 Australia",
-      "videoId": "azpEuPf3P_4",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [
-        "Australia",
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/azpEuPf3P_4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Post-Match Press Conference: USA's Mauricio Pochettino On 3-2 Loss To Türkiye",
-      "videoId": "kaXz5-RABFM",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [
-        "USA"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/kaXz5-RABFM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Orlando Gill Save | Paraguay 0-0 Australia | FIFA World Cup 2026™",
-      "videoId": "-d2qrvahp1o",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [
-        "Australia",
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-d2qrvahp1o/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Norway vs Senegal"
