@@ -1,11 +1,45 @@
 {
-  "lastUpdated": "2026-06-26T12:13:31.245Z",
+  "lastUpdated": "2026-06-26T13:29:51.320Z",
   "featured": {
-    "match": "vOTI9wQcFPs",
-    "highlight": "vOTI9wQcFPs",
+    "match": "1G0pNGItTZY",
+    "highlight": "1G0pNGItTZY",
     "interview": "vEOOJnZZKKs"
   },
   "videos": [
+    {
+      "title": "Colombia vs Congo DR | Match Highlights | FIFA World Cup 2026™",
+      "videoId": "1G0pNGItTZY",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/1G0pNGItTZY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR",
+      "source": "match-search"
+    },
+    {
+      "title": "HIGHLIGHTS - Colombia v Dr Congo | Plenty Of Chances! | FIFA World Cup 2026",
+      "videoId": "GHNdcbfBcl0",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/GHNdcbfBcl0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR",
+      "source": "match-search"
+    },
     {
       "title": "Team Feature: Croatia | Team Unity, Pride, and the Secret to Their Success",
       "videoId": "vOTI9wQcFPs",
