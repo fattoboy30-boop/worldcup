@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T01:52:38.493Z",
+  "lastUpdated": "2026-06-26T04:39:35.343Z",
   "liveMatches": [],
   "recentResults": [
     {
@@ -1335,9 +1335,7 @@
         null,
         null
       ]
-    }
-  ],
-  "upcomingMatches": [
+    },
     {
       "id": 760469,
       "date": "2026-06-26",
@@ -1351,7 +1349,7 @@
       "awayScore": 0,
       "venue": "Levi's Stadium",
       "city": "Santa Clara, California",
-      "status": "timed",
+      "status": "finished",
       "group": "D",
       "stage": "GROUP_STAGE",
       "matchday": 0,
@@ -1368,13 +1366,13 @@
       "utcDate": "2026-06-26T02:00Z",
       "homeTeam": "Türkiye",
       "homeCode": "tr",
-      "homeScore": 0,
+      "homeScore": 3,
       "awayTeam": "United States",
       "awayCode": "un",
-      "awayScore": 0,
+      "awayScore": 2,
       "venue": "SoFi Stadium",
       "city": "Inglewood, California",
-      "status": "timed",
+      "status": "finished",
       "group": "D",
       "stage": "GROUP_STAGE",
       "matchday": 0,
@@ -1383,7 +1381,9 @@
         null,
         null
       ]
-    },
+    }
+  ],
+  "upcomingMatches": [
     {
       "id": 760475,
       "date": "2026-06-26",
@@ -1875,8 +1875,8 @@
       "homeTeam": "United States",
       "homeCode": "un",
       "homeScore": 0,
-      "awayTeam": "Third Place Group B/E/F/I/J",
-      "awayCode": "un",
+      "awayTeam": "Bosnia-Herzegovina",
+      "awayCode": "ba",
       "awayScore": 0,
       "venue": "Levi's Stadium",
       "city": "Santa Clara, California",
@@ -1964,8 +1964,8 @@
       "date": "2026-07-03",
       "time": "18:00",
       "utcDate": "2026-07-03T18:00Z",
-      "homeTeam": "Group D 2nd Place",
-      "homeCode": "un",
+      "homeTeam": "Australia",
+      "homeCode": "au",
       "homeScore": 0,
       "awayTeam": "Group G 2nd Place",
       "awayCode": "un",
@@ -1973,7 +1973,7 @@
       "venue": "AT&T Stadium",
       "city": "Arlington, Texas",
       "status": "timed",
-      "group": null,
+      "group": "D",
       "stage": "ROUND_OF_32",
       "matchday": 0,
       "minute": null,

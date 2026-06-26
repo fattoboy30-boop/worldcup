@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T01:52:38.498Z",
+  "lastUpdated": "2026-06-26T04:39:35.348Z",
   "groups": {
     "A": {
       "teams": [
@@ -118,53 +118,53 @@
         {
           "name": "United States",
           "code": "un",
-          "played": 2,
+          "played": 3,
           "won": 2,
           "drawn": 0,
-          "lost": 0,
-          "gf": 6,
-          "ga": 1,
-          "gd": 5,
+          "lost": 1,
+          "gf": 8,
+          "ga": 4,
+          "gd": 4,
           "points": 6,
           "position": 1
         },
         {
           "name": "Australia",
           "code": "au",
-          "played": 2,
+          "played": 3,
           "won": 1,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 1,
           "gf": 2,
           "ga": 2,
           "gd": 0,
-          "points": 3,
+          "points": 4,
           "position": 2
         },
         {
           "name": "Paraguay",
           "code": "py",
-          "played": 2,
+          "played": 3,
           "won": 1,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 1,
           "gf": 2,
           "ga": 4,
           "gd": -2,
-          "points": 3,
+          "points": 4,
           "position": 3
         },
         {
           "name": "Türkiye",
           "code": "tr",
-          "played": 2,
-          "won": 0,
+          "played": 3,
+          "won": 1,
           "drawn": 0,
           "lost": 2,
-          "gf": 0,
-          "ga": 3,
-          "gd": -3,
-          "points": 0,
+          "gf": 3,
+          "ga": 5,
+          "gd": -2,
+          "points": 3,
           "position": 4
         }
       ]

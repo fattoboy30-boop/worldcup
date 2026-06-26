@@ -1,11 +1,45 @@
 {
-  "lastUpdated": "2026-06-26T00:13:10.252Z",
+  "lastUpdated": "2026-06-26T04:40:30.120Z",
   "featured": {
-    "match": "8aiD1saFQpc",
-    "highlight": "8aiD1saFQpc",
+    "match": "bD2Ti6vSdyE",
+    "highlight": "bD2Ti6vSdyE",
     "interview": "dt12aaiJjc4"
   },
   "videos": [
+    {
+      "title": "Colombia 1-0 DR Congo | All Goals & Highlights | FIFA World Cup 2026 ...",
+      "videoId": "bD2Ti6vSdyE",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/bD2Ti6vSdyE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR",
+      "source": "match-search"
+    },
+    {
+      "title": "Colombia vs Congo DR | Match Highlights | FIFA World Cup 2026™",
+      "videoId": "1G0pNGItTZY",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/1G0pNGItTZY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR",
+      "source": "match-search"
+    },
     {
       "title": "Nicolas Pepe scores the first goal for Côte d’Ivoire against Curaçao. #FIFAWorldCupOnYT",
       "videoId": "8aiD1saFQpc",
