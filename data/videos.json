@@ -1,44 +1,77 @@
 {
-  "lastUpdated": "2026-06-26T19:19:27.049Z",
+  "lastUpdated": "2026-06-26T19:54:29.699Z",
   "featured": {
-    "match": "7fYG88iWFF8",
-    "highlight": "7fYG88iWFF8",
+    "match": "p0cC-rRVHEo",
+    "highlight": "p0cC-rRVHEo",
     "interview": "uDtHtJAEw_8"
   },
   "videos": [
     {
-      "title": "Colombia vs. DR Congo Full Highlights | FIFA World Cup 2026",
-      "videoId": "7fYG88iWFF8",
-      "channel": "Web Search",
+      "title": "Ghana Train Before Croatia | FIFA World Cup 2026™",
+      "videoId": "p0cC-rRVHEo",
+      "channel": "FIFA",
       "publishedAt": "2026-06-26",
       "category": "Highlights",
       "team": [
-        "Colombia"
+        "Croatia",
+        "Ghana"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7fYG88iWFF8/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/p0cC-rRVHEo/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR",
-      "source": "match-search"
+      "fixtureTeams": "Norway vs Senegal"
     },
     {
-      "title": "Highlights | Colombia 1-0 Congo DR | FIFA World Cup 2026™",
-      "videoId": "JTGXHmxlXHc",
-      "channel": "Web Search",
+      "title": "Ghana On Playing Croatia | Carlos Queiroz & Antoine Semenyo Takes Questions",
+      "videoId": "KDzjMqiroO0",
+      "channel": "FIFA",
       "publishedAt": "2026-06-26",
       "category": "Highlights",
       "team": [
+        "Croatia",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/KDzjMqiroO0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "Portugal On Playing Colombia | Roberto Martinez Takes Questions",
+      "videoId": "BGjIs0luzIg",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [
+        "Portugal",
         "Colombia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/JTGXHmxlXHc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/BGjIs0luzIg/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR",
-      "source": "match-search"
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "England Train Before Panama | FIFA World Cup 2026™",
+      "videoId": "FFGaHBVerBU",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/FFGaHBVerBU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
     },
     {
       "title": "Argentina Train Before Jordan | FIFA World Cup 2026™",
@@ -197,74 +230,15 @@
       "fixtureTeams": "Norway vs Senegal"
     },
     {
-      "title": "Team Feature: Uzbekistan | Eldor Shomurodov on Meeting Rivaldo and Inspiring the Next Generation",
-      "videoId": "R3w1JjBRK-E",
-      "channel": "FIFA",
+      "title": "Wemby doing his best CR7 impression 🔥 (via @tomatofc_tokyo/IG, h/t StokeyyG2/X)",
+      "videoId": "E2H_yU4tMHo",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-26",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/R3w1JjBRK-E/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "One year to go until the FIFA Women’s World Cup Brasil 2027™!",
-      "videoId": "-dVx2H9we6c",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-dVx2H9we6c/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Alt Cast Highlights: Curaçao v Côte d'Ivoire | FIFA World Cup 2026™",
-      "videoId": "Lj60S7gWvWc",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Lj60S7gWvWc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Team Feature: Congo DR | How Sébastien Desabre Built a World Cup Team",
-      "videoId": "JAlKmdlIWhk",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/JAlKmdlIWhk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Alt Cast Highlights: Ecuador v Germany | FIFA World Cup 2026™",
-      "videoId": "Mg2lVDfCXl8",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [
-        "Germany",
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Mg2lVDfCXl8/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/E2H_yU4tMHo/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Norway vs Senegal"
@@ -474,21 +448,20 @@
       "fixtureTeams": "Norway vs Senegal"
     },
     {
-      "title": "Wearing an Argentina jersey in a house full of Mexico fans 😭 (via johnjimzz/IG)",
-      "videoId": "TdrG8-Xr5f8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-26",
+      "title": "WATCH LIVE | Senegal v Iraq | Group Stage I | FIFA World Cup 2026™",
+      "videoId": "NX4tF2DZY8M",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-10",
       "category": "Highlights",
       "team": [
-        "Argentina",
-        "Mexico"
+        "Senegal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/TdrG8-Xr5f8/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/NX4tF2DZY8M/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
+      "fixtureTeams": "Mexico vs South Africa"
     }
   ]
 }
