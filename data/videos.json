@@ -1,292 +1,474 @@
 {
-  "lastUpdated": "2026-06-26T08:21:08.603Z",
+  "lastUpdated": "2026-06-26T09:33:50.643Z",
   "featured": {
-    "match": "GHNdcbfBcl0",
-    "highlight": "GHNdcbfBcl0",
-    "interview": "GHNdcbfBcl0"
+    "match": "F3EH2lJYMIg",
+    "highlight": "F3EH2lJYMIg",
+    "interview": "vEOOJnZZKKs"
   },
   "videos": [
     {
-      "title": "HIGHLIGHTS - Colombia v Dr Congo | Plenty Of Chances! | FIFA World Cup 2026",
-      "videoId": "GHNdcbfBcl0",
-      "channel": "Web Search",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [
-        "Colombia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/GHNdcbfBcl0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR",
-      "source": "match-search"
-    },
-    {
-      "title": "Colombia vs DR Congo Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "K_7ZfDKt1qI",
-      "channel": "Web Search",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [
-        "Colombia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/K_7ZfDKt1qI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR",
-      "source": "match-search"
-    },
-    {
-      "title": "Post-Match Press Conference: Japan's Hajime Moriyasu On The 1-1 Draw With Sweden",
-      "videoId": "lrjxNinwcTE",
+      "title": "Belgium On Playing New Zealand | Rudi Garcia & Brandon Mechele Take Questions",
+      "videoId": "F3EH2lJYMIg",
       "channel": "FIFA",
       "publishedAt": "2026-06-26",
       "category": "Highlights",
       "team": [
-        "Japan",
-        "Sweden"
+        "Belgium"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/lrjxNinwcTE/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/F3EH2lJYMIg/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Norway vs Senegal"
     },
     {
-      "title": "Post-Match Press Conference: Sweden's Graham Potter On 1-1 Draw With The Japan",
-      "videoId": "hGPApx-UGpU",
+      "title": "Arda Güler Goal | Türkiye 3-2 USA | FIFA World Cup 2026™",
+      "videoId": "6Q5uu5oHqmg",
       "channel": "FIFA",
       "publishedAt": "2026-06-26",
       "category": "Highlights",
       "team": [
-        "Japan",
-        "Sweden"
+        "USA"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/hGPApx-UGpU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/6Q5uu5oHqmg/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Norway vs Senegal"
     },
     {
-      "title": "Post-Match Press Conference: Netherlands's Ronald Koeman On The 3-1 Win Over Tunisia",
-      "videoId": "Ephmzzp6cpI",
+      "title": "Kaan Ayhan Goal | Türkiye 3-2 USA | FIFA World Cup 2026™",
+      "videoId": "fJsvnx6bBs4",
       "channel": "FIFA",
       "publishedAt": "2026-06-26",
       "category": "Highlights",
       "team": [
-        "Netherlands",
-        "Tunisia"
+        "USA"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Ephmzzp6cpI/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/fJsvnx6bBs4/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Norway vs Senegal"
     },
     {
-      "title": "Daizen Maeda Goal | Japan 1-1 Sweden | FIFA World Cup 2026™",
-      "videoId": "nWyJzbZpGnc",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [
-        "Japan",
-        "Sweden"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/nWyJzbZpGnc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Anthony Elanga Goal | Japan 1-1 Sweden | FIFA World Cup 2026™",
-      "videoId": "RORlGUoE6uQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [
-        "Japan",
-        "Sweden"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/RORlGUoE6uQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Jan Paul van Hecke Goal | Tunisia 1-3 Netherlands",
-      "videoId": "cWm50Pjyuyk",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [
-        "Netherlands",
-        "Tunisia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/cWm50Pjyuyk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Brian Brobbey Goal | Tunisia 1-3 Netherlands | FIFA World Cup 2026™",
-      "videoId": "yT1McmZVEqg",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [
-        "Netherlands",
-        "Tunisia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/yT1McmZVEqg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Van Hecke rises highest for the Netherlands 🇳🇱 #FIFAWorldCupOnYT",
-      "videoId": "K7bGLT6T6R8",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [
-        "Netherlands"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/K7bGLT6T6R8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Elanga delivers a stunner for Sweden! 🇸🇪 #FIFAWorldCupOnYT",
-      "videoId": "607lx-Ui59A",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [
-        "Sweden"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/607lx-Ui59A/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Brobbey finishes after Van Dijk’s assist 🇳🇱 #FIFAWorldCupOnYT",
-      "videoId": "ks09LDYvK5U",
+      "title": "June 25 Matchday Recap | #FIFAWorldCup @aramco",
+      "videoId": "W6j_Fw8ai8E",
       "channel": "FIFA",
       "publishedAt": "2026-06-26",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ks09LDYvK5U/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/W6j_Fw8ai8E/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Norway vs Senegal"
     },
     {
-      "title": "Daizen Maeda strikes for Japan 🇯🇵 #FIFAWorldCupOnYT",
-      "videoId": "IhuvhuwaLVc",
+      "title": "Paraguay create the chance, Beach makes the save 🇦🇺🧤#FIFAWorldCupOnYT",
+      "videoId": "eqoHVNIwGKM",
       "channel": "FIFA",
       "publishedAt": "2026-06-26",
       "category": "Highlights",
       "team": [
-        "Japan"
+        "Paraguay"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/IhuvhuwaLVc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/eqoHVNIwGKM/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Norway vs Senegal"
     },
     {
-      "title": "Highlights | South Africa 1-0 Korea Republic | FIFA World Cup 2026™",
-      "videoId": "cZoaEEYtKhE",
+      "title": "Arda Güler delivers on the biggest stage 🇹🇷 #FIFAWorldCupOnYT",
+      "videoId": "P8IM2I_Bz2k",
       "channel": "FIFA",
       "publishedAt": "2026-06-26",
       "category": "Highlights",
-      "team": [
-        "South Africa"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/cZoaEEYtKhE/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/P8IM2I_Bz2k/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Norway vs Senegal"
     },
     {
-      "title": "Highlights | Czechia 0-3 Mexico | FIFA World Cup 2026™",
-      "videoId": "h9wH7diGNC0",
+      "title": "Post-Match Press Conference: Australia's Tony Popovic On 0-0 Draw With Paraguay",
+      "videoId": "cAPDyiaRHVg",
       "channel": "FIFA",
       "publishedAt": "2026-06-26",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "Czechia"
+        "Australia",
+        "Paraguay"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/h9wH7diGNC0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/cAPDyiaRHVg/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Norway vs Senegal"
     },
     {
-      "title": "Post-Match Press Conference: Tunisia's Hervé Renard On 3-1 Loss To Netherlands",
-      "videoId": "CHepXWWwvwg",
+      "title": "Gill stops Australia’s attempt for Paraguay 🇵🇾 #FIFAWorldCupOnYT",
+      "videoId": "K7UBKuQEmVI",
       "channel": "FIFA",
       "publishedAt": "2026-06-26",
       "category": "Highlights",
       "team": [
-        "Netherlands",
-        "Tunisia"
+        "Australia",
+        "Paraguay"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/CHepXWWwvwg/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/K7UBKuQEmVI/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Norway vs Senegal"
     },
     {
-      "title": "IR Iran On Playing Egypt | Amir Ghalenoei & Alireza Beiranvand Take Questions",
-      "videoId": "teQwsFKMiLA",
+      "title": "A dramatic last-minute winner for Türkiye 🇹🇷 #FIFAWorldCupOnYT",
+      "videoId": "tb74P_VSSsQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tb74P_VSSsQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "Post-Match Press Conference: Paraguay's Gustavo Alfaro On 0-0 Draw With Australia",
+      "videoId": "Y3cSA8G8bFs",
       "channel": "FIFA",
       "publishedAt": "2026-06-26",
       "category": "Highlights",
       "team": [
-        "Iran",
-        "Egypt"
+        "Australia",
+        "Paraguay"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/teQwsFKMiLA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Y3cSA8G8bFs/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "Paraguay 🆚 Australia #FIFAWorldCupOnYT",
+      "videoId": "vJGMoWzguug",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [
+        "Australia",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vJGMoWzguug/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "Türkiye 🆚 USA #FIFAWorldCupOnYT",
+      "videoId": "Zjfhpdlv0-o",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Zjfhpdlv0-o/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "Post-Match Player Interviews: Paraguay 0-0 Australia",
+      "videoId": "azpEuPf3P_4",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [
+        "Australia",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/azpEuPf3P_4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "Post-Match Press Conference: USA's Mauricio Pochettino On 3-2 Loss To Türkiye",
+      "videoId": "kaXz5-RABFM",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/kaXz5-RABFM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "Orlando Gill Save | Paraguay 0-0 Australia | FIFA World Cup 2026™",
+      "videoId": "-d2qrvahp1o",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [
+        "Australia",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-d2qrvahp1o/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "REACTION to Turkiye vs. USMNT 🚨 United States STUNNED in stoppage time as Pulisic returns | ESPN FC",
+      "videoId": "vEOOJnZZKKs",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-26",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vEOOJnZZKKs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "USMNT fall in final seconds vs. Turkiye 🚨 Biggest takeaways + Lookahead to KO stage | SportsCenter",
+      "videoId": "ybwctMEAals",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ybwctMEAals/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "Wearing an Argentina jersey in a house full of Mexico fans 😭 (via johnjimzz/IG)",
+      "videoId": "TdrG8-Xr5f8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-26",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/TdrG8-Xr5f8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Norway vs Senegal"
+    },
+    {
+      "title": "REACTION to Ecuador vs. Germany 🔥 A DESERVING COMEBACK! - Stewart Robson | ESPN FC",
+      "videoId": "dt12aaiJjc4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-25",
+      "category": "Viral",
+      "team": [
+        "Germany",
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/dt12aaiJjc4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt"
+    },
+    {
+      "title": "Did England’s Ghana draw prove they need Palmer & Foden? 👀 Gab & Juls’ World Cup reaction | ESPN FC",
+      "videoId": "Hsaqw19i73g",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-25",
+      "category": "Viral",
+      "team": [
+        "England",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Hsaqw19i73g/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt"
+    },
+    {
+      "title": "Norway vs. France PREVIEW with Food Network’s Bobby Flay",
+      "videoId": "_ySmk09aJi8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_ySmk09aJi8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt"
+    },
+    {
+      "title": "Fired up for the USMNT 💪",
+      "videoId": "nUsvTM6-Yy8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/nUsvTM6-Yy8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt"
+    },
+    {
+      "title": "Some superstitious soccer going on 👀",
+      "videoId": "9D9RMYKNbtI",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/9D9RMYKNbtI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt"
+    },
+    {
+      "title": "DaMarcus Beasley on USMNT’s World Cup dominance and loathe for VAR system | The Rich Eisen Show",
+      "videoId": "XYelkfJh-Ig",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/XYelkfJh-Ig/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt"
+    },
+    {
+      "title": "Should USMNT stars sit out vs. Turkiye? 🤔",
+      "videoId": "iC8LwDYsct4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/iC8LwDYsct4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt"
+    },
+    {
+      "title": "Mike Grella’s advice for Mauricio Pochettino vs. Turkiye 🗣️ ‘Rest everybody!' | The Pat McAfee Show",
+      "videoId": "6BWqWgKAqy8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6BWqWgKAqy8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt"
+    },
+    {
+      "title": "Brazil win Group C and are dancing to the knockout stage 🕺🇧🇷 (via lucaspaqueta/TT)",
+      "videoId": "sYn7tH-tETE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [
+        "Brazil"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/sYn7tH-tETE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt"
+    },
+    {
+      "title": "Everyone loves Haaland (via danielfitton/TT)",
+      "videoId": "yrKVNKreFBg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/yrKVNKreFBg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt"
+    },
+    {
+      "title": "Speed says USMNT can go far 👀",
+      "videoId": "TfJ1lp19sh4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/TfJ1lp19sh4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt"
+    },
+    {
+      "title": "He likes his eggs Messi",
+      "videoId": "UPWui9PFEMs",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-25",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/UPWui9PFEMs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "New Zealand vs Egypt"
     }
   ]
 }
