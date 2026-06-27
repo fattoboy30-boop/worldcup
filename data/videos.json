@@ -1,11 +1,30 @@
 {
-  "lastUpdated": "2026-06-27T11:37:40.744Z",
+  "lastUpdated": "2026-06-27T12:20:07.672Z",
   "featured": {
-    "match": "5RuToAC2JUA",
-    "highlight": "5RuToAC2JUA",
+    "match": "fVZw7FXJqMc",
+    "highlight": "fVZw7FXJqMc",
     "interview": "wiVTNZiqfFE"
   },
   "videos": [
+    {
+      "title": "Czechia vs. Mexico Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "fVZw7FXJqMc",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Czechia",
+        "Czech"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fVZw7FXJqMc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico",
+      "source": "match-search"
+    },
     {
       "title": "Ramin Rezaeian Goal | Egypt 1-1 IR Iran | FIFA World Cup 2026™",
       "videoId": "5RuToAC2JUA",
