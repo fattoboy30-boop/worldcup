@@ -1,48 +1,223 @@
 {
-  "lastUpdated": "2026-06-27T09:17:45.863Z",
+  "lastUpdated": "2026-06-27T09:31:22.230Z",
   "featured": {
-    "match": "uSl2YZr0bcw",
-    "highlight": "uSl2YZr0bcw",
+    "match": "70r8aMlGE6A",
+    "highlight": "70r8aMlGE6A",
     "interview": "wiVTNZiqfFE"
   },
   "videos": [
     {
-      "title": "Czechia vs Mexico | Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "uSl2YZr0bcw",
-      "channel": "Web Search",
+      "title": "Post-Match Player Interviews: Egypt 1-1 IR Iran",
+      "videoId": "70r8aMlGE6A",
+      "channel": "FIFA",
       "publishedAt": "2026-06-27",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "Czechia",
-        "Czech"
+        "Iran",
+        "Egypt"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/uSl2YZr0bcw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/70r8aMlGE6A/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico",
-      "source": "match-search"
+      "fixtureTeams": "Colombia vs Congo DR"
     },
     {
-      "title": "Czechia vs. Mexico Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "fVZw7FXJqMc",
-      "channel": "Web Search",
+      "title": "Post-Match Player Interviews: New Zealand 1-5 Belgium",
+      "videoId": "O1Jds8HiFAY",
+      "channel": "FIFA",
       "publishedAt": "2026-06-27",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "Czechia",
-        "Czech"
+        "Belgium"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fVZw7FXJqMc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/O1Jds8HiFAY/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico",
-      "source": "match-search"
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "Post-Match Press Conference: Uruguay's Marcelo Bielsa On 1-0 Loss To Spain",
+      "videoId": "7gaK3ySCzZs",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Uruguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7gaK3ySCzZs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "Post-Match Press Conference: Spain's Luis de la Fuente On 1-0 Win Over Uruguay",
+      "videoId": "skPGMaMapwo",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Uruguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/skPGMaMapwo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "De Bruyne with a stunner for Belgium! 🇧🇪 #FIFAWorldCupOnYT",
+      "videoId": "COWRDcREQC8",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/COWRDcREQC8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "The equaliser for IR Iran 🇮🇷 #FIFAWorldCupOnYT",
+      "videoId": "CTmr5KWuhmQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Iran"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/CTmr5KWuhmQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "Romelu Lukaku, always there for Belgium. 🇧🇪 #FIFAWorldCupOnYT",
+      "videoId": "2KFkv8g4a0U",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/2KFkv8g4a0U/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "Saber finds the net for Egypt 🇪🇬 #FIFAWorldCupOnYT",
+      "videoId": "WQm_fhy3atE",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/WQm_fhy3atE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "Post-Match Player Interviews: Uruguay 0-1 Spain",
+      "videoId": "eYo_oNKw0zg",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Uruguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/eYo_oNKw0zg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "New Zealand 🆚 Belgium #FIFAWorldCupOnYT",
+      "videoId": "_HLU_vuAWI4",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_HLU_vuAWI4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "Egypt 🆚 IR Iran #FIFAWorldCupOnYT",
+      "videoId": "SQ2R8dAEJV8",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Iran",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/SQ2R8dAEJV8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "Post-Match Press Conference: Saudi Arabia's Georgios Donis On 0-0 Draw With Cabo Verde",
+      "videoId": "q7ryvoPCUow",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Saudi Arabia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/q7ryvoPCUow/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "Post-Match Press Conference: Cabo Verde's Bubista On 0-0 Draw With Saudi Arabia",
+      "videoId": "qoZF1uXsPqU",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Saudi Arabia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/qoZF1uXsPqU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
     },
     {
       "title": "Post-Match Player Interviews: Cabo Verde 0-0 Saudi Arabia",
@@ -72,213 +247,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/xnSW4o5FVY8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Mohammed Al-Owais Save | Cabo Verde 0-0 Saudi Arabia | FIFA World Cup 2026™",
-      "videoId": "wPRyTZ52TT8",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Saudi Arabia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/wPRyTZ52TT8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Unai Simón Save | Uruguay 0-1 Spain | FIFA World Cup 2026™",
-      "videoId": "MVPL6OjOv0U",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Uruguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/MVPL6OjOv0U/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Álex Baena Goal | Uruguay 0-1 Spain | FIFA World Cup 2026™",
-      "videoId": "WCt0uWfpSX4",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Uruguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/WCt0uWfpSX4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "A huge stop from Al-Owais for Saudi Arabia! 🇸🇦🧤#FIFAWorldCupOnYT",
-      "videoId": "KP7byUbwbys",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Saudi Arabia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/KP7byUbwbys/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Great save from Unai Simón 🇪🇸🧤#FIFAWorldCupOnYT",
-      "videoId": "PqRu1KgQAKs",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PqRu1KgQAKs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Cabo Verde come inches away! 🇨🇻#FIFAWorldCupOnYT",
-      "videoId": "Jm-cXy9mwIc",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Jm-cXy9mwIc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Baena gets a lucky one for Spain 🇪🇸 #FIFAWorldCupOnYT",
-      "videoId": "Jw7LaD0xUNE",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Jw7LaD0xUNE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Highlights | Türkiye 3-2 USA | FIFA World Cup 2026™",
-      "videoId": "XnDs5rgXgFM",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "USA"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/XnDs5rgXgFM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Highlights | Paraguay 0-0 Australia | FIFA World Cup 2026™",
-      "videoId": "wZVzHTl__ck",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Australia",
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/wZVzHTl__ck/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Cabo Verde 🆚 Saudi Arabia #FIFAWorldCupOnYT",
-      "videoId": "ST0qGTu0QiU",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Saudi Arabia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ST0qGTu0QiU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Uruguay 🆚 Spain #FIFAWorldCupOnYT",
-      "videoId": "BdM7PvNlfrE",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Uruguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/BdM7PvNlfrE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "The moment Cabo Verde reached the Round of 32! 🥹🇨🇻 #FIFAWorldCupOnYT",
-      "videoId": "u-D_3QSXvdg",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/u-D_3QSXvdg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Austria Train Before Algeria | FIFA World Cup 2026™",
-      "videoId": "ezUbA70K2-g",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Algeria",
-        "Austria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ezUbA70K2-g/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Colombia vs Congo DR"
