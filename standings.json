@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T02:58:49.884Z",
+  "lastUpdated": "2026-06-27T05:41:07.916Z",
   "groups": {
     "A": {
       "teams": [
@@ -396,54 +396,54 @@
     "G": {
       "teams": [
         {
+          "name": "Belgium",
+          "code": "be",
+          "played": 3,
+          "won": 1,
+          "drawn": 2,
+          "lost": 0,
+          "gf": 6,
+          "ga": 2,
+          "gd": 4,
+          "points": 5,
+          "position": 1
+        },
+        {
           "name": "Egypt",
           "code": "eg",
-          "played": 2,
+          "played": 3,
           "won": 1,
-          "drawn": 1,
+          "drawn": 2,
           "lost": 0,
-          "gf": 4,
-          "ga": 2,
+          "gf": 5,
+          "ga": 3,
           "gd": 2,
-          "points": 4,
-          "position": 1
+          "points": 5,
+          "position": 2
         },
         {
           "name": "Iran",
           "code": "ir",
-          "played": 2,
+          "played": 3,
           "won": 0,
-          "drawn": 2,
+          "drawn": 3,
           "lost": 0,
-          "gf": 2,
-          "ga": 2,
+          "gf": 3,
+          "ga": 3,
           "gd": 0,
-          "points": 2,
-          "position": 2
-        },
-        {
-          "name": "Belgium",
-          "code": "be",
-          "played": 2,
-          "won": 0,
-          "drawn": 2,
-          "lost": 0,
-          "gf": 1,
-          "ga": 1,
-          "gd": 0,
-          "points": 2,
+          "points": 3,
           "position": 3
         },
         {
           "name": "New Zealand",
           "code": "nz",
-          "played": 2,
+          "played": 3,
           "won": 0,
           "drawn": 1,
-          "lost": 1,
-          "gf": 3,
-          "ga": 5,
-          "gd": -2,
+          "lost": 2,
+          "gf": 4,
+          "ga": 10,
+          "gd": -6,
           "points": 1,
           "position": 4
         }

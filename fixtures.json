@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T02:58:49.883Z",
+  "lastUpdated": "2026-06-27T05:41:07.915Z",
   "fixtures": [
     {
       "id": 760415,
@@ -1608,13 +1608,13 @@
       "utcDate": "2026-06-27T03:00Z",
       "homeTeam": "Egypt",
       "homeCode": "eg",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayTeam": "Iran",
       "awayCode": "ir",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "Lumen Field",
       "city": "Seattle, Washington",
-      "status": "timed",
+      "status": "finished",
       "group": "G",
       "stage": "GROUP_STAGE",
       "matchday": 0,
@@ -1633,13 +1633,13 @@
       "utcDate": "2026-06-27T03:00Z",
       "homeTeam": "New Zealand",
       "homeCode": "nz",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayTeam": "Belgium",
       "awayCode": "be",
-      "awayScore": 0,
+      "awayScore": 5,
       "venue": "BC Place",
       "city": "Vancouver",
-      "status": "timed",
+      "status": "finished",
       "group": "G",
       "stage": "GROUP_STAGE",
       "matchday": 0,
@@ -2006,8 +2006,8 @@
       "date": "2026-07-01",
       "time": "20:00",
       "utcDate": "2026-07-01T20:00Z",
-      "homeTeam": "Group G Winner",
-      "homeCode": "un",
+      "homeTeam": "Belgium",
+      "homeCode": "be",
       "homeScore": 0,
       "awayTeam": "Third Place Group A/E/H/I/J",
       "awayCode": "un",
@@ -2015,7 +2015,7 @@
       "venue": "Lumen Field",
       "city": "Seattle, Washington",
       "status": "timed",
-      "group": null,
+      "group": "G",
       "stage": "ROUND_OF_32",
       "matchday": 0,
       "minute": null,
@@ -2023,7 +2023,7 @@
         null,
         null
       ],
-      "homeFlag": "https://flagcdn.com/w160/un.png",
+      "homeFlag": "https://flagcdn.com/w160/be.png",
       "awayFlag": "https://flagcdn.com/w160/un.png"
     },
     {
@@ -2056,8 +2056,8 @@
       "date": "2026-07-02",
       "time": "19:00",
       "utcDate": "2026-07-02T19:00Z",
-      "homeTeam": "Group H Winner",
-      "homeCode": "un",
+      "homeTeam": "Spain",
+      "homeCode": "es",
       "homeScore": 0,
       "awayTeam": "Group J 2nd Place",
       "awayCode": "un",
@@ -2065,7 +2065,7 @@
       "venue": "SoFi Stadium",
       "city": "Inglewood, California",
       "status": "timed",
-      "group": null,
+      "group": "H",
       "stage": "ROUND_OF_32",
       "matchday": 0,
       "minute": null,
@@ -2073,7 +2073,7 @@
         null,
         null
       ],
-      "homeFlag": "https://flagcdn.com/w160/un.png",
+      "homeFlag": "https://flagcdn.com/w160/es.png",
       "awayFlag": "https://flagcdn.com/w160/un.png"
     },
     {
@@ -2134,8 +2134,8 @@
       "homeTeam": "Australia",
       "homeCode": "au",
       "homeScore": 0,
-      "awayTeam": "Group G 2nd Place",
-      "awayCode": "un",
+      "awayTeam": "Egypt",
+      "awayCode": "eg",
       "awayScore": 0,
       "venue": "AT&T Stadium",
       "city": "Arlington, Texas",
@@ -2149,7 +2149,7 @@
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/au.png",
-      "awayFlag": "https://flagcdn.com/w160/un.png"
+      "awayFlag": "https://flagcdn.com/w160/eg.png"
     },
     {
       "id": 760500,
@@ -2159,7 +2159,7 @@
       "homeTeam": "Argentina",
       "homeCode": "ar",
       "homeScore": 0,
-      "awayTeam": "Group H 2nd Place",
+      "awayTeam": "Cape Verde",
       "awayCode": "un",
       "awayScore": 0,
       "venue": "Hard Rock Stadium",
