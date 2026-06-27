@@ -1,11 +1,49 @@
 {
-  "lastUpdated": "2026-06-27T15:41:37.364Z",
+  "lastUpdated": "2026-06-27T16:47:47.632Z",
   "featured": {
-    "match": "fVZw7FXJqMc",
-    "highlight": "fVZw7FXJqMc",
+    "match": "uSl2YZr0bcw",
+    "highlight": "uSl2YZr0bcw",
     "interview": "Jj6UfMjIhSU"
   },
   "videos": [
+    {
+      "title": "Czechia vs Mexico | Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "uSl2YZr0bcw",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Czechia",
+        "Czech"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/uSl2YZr0bcw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico",
+      "source": "match-search"
+    },
+    {
+      "title": "Czechia vs Mexico Highlights | 2026 FIFA World Cup™ - FOX Sports",
+      "videoId": "XjUXcZtENUs",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Czechia",
+        "Czech"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/XjUXcZtENUs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico",
+      "source": "match-search"
+    },
     {
       "title": "Czechia vs. Mexico Full Highlights | FIFA World Cup 2026 - YouTube",
       "videoId": "fVZw7FXJqMc",
