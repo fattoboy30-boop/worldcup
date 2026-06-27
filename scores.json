@@ -1,6 +1,53 @@
 {
-  "lastUpdated": "2026-06-27T20:44:24.756Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-06-27T21:13:42.595Z",
+  "liveMatches": [
+    {
+      "id": 760480,
+      "date": "2026-06-27",
+      "time": "21:00",
+      "utcDate": "2026-06-27T21:00Z",
+      "homeTeam": "Croatia",
+      "homeCode": "hr",
+      "homeScore": 0,
+      "awayTeam": "Ghana",
+      "awayCode": "gh",
+      "awayScore": 0,
+      "venue": "Lincoln Financial Field",
+      "city": "Philadelphia, Pennsylvania",
+      "status": "in_play",
+      "group": "L",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "12'",
+      "halfTime": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": 760485,
+      "date": "2026-06-27",
+      "time": "21:00",
+      "utcDate": "2026-06-27T21:00Z",
+      "homeTeam": "Panama",
+      "homeCode": "pa",
+      "homeScore": 0,
+      "awayTeam": "England",
+      "awayCode": "gb-eng",
+      "awayScore": 0,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford, New Jersey",
+      "status": "in_play",
+      "group": "L",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "13'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -1522,52 +1569,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760480,
-      "date": "2026-06-27",
-      "time": "21:00",
-      "utcDate": "2026-06-27T21:00Z",
-      "homeTeam": "Croatia",
-      "homeCode": "hr",
-      "homeScore": 0,
-      "awayTeam": "Ghana",
-      "awayCode": "gh",
-      "awayScore": 0,
-      "venue": "Lincoln Financial Field",
-      "city": "Philadelphia, Pennsylvania",
-      "status": "timed",
-      "group": "L",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
-    {
-      "id": 760485,
-      "date": "2026-06-27",
-      "time": "21:00",
-      "utcDate": "2026-06-27T21:00Z",
-      "homeTeam": "Panama",
-      "homeCode": "pa",
-      "homeScore": 0,
-      "awayTeam": "England",
-      "awayCode": "gb-eng",
-      "awayScore": 0,
-      "venue": "MetLife Stadium",
-      "city": "East Rutherford, New Jersey",
-      "status": "timed",
-      "group": "L",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760481,
       "date": "2026-06-27",

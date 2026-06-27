@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T20:44:24.760Z",
+  "lastUpdated": "2026-06-27T21:13:42.599Z",
   "fixtures": [
     {
       "id": 760415,
@@ -1664,11 +1664,11 @@
       "awayScore": 0,
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia, Pennsylvania",
-      "status": "timed",
+      "status": "in_play",
       "group": "L",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "12'",
       "halfTime": [
         null,
         null
@@ -1689,11 +1689,11 @@
       "awayScore": 0,
       "venue": "MetLife Stadium",
       "city": "East Rutherford, New Jersey",
-      "status": "timed",
+      "status": "in_play",
       "group": "L",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "13'",
       "halfTime": [
         null,
         null
