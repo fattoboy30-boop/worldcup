@@ -1,86 +1,60 @@
 {
-  "lastUpdated": "2026-06-27T16:47:47.632Z",
+  "lastUpdated": "2026-06-27T17:14:55.695Z",
   "featured": {
-    "match": "uSl2YZr0bcw",
-    "highlight": "uSl2YZr0bcw",
-    "interview": "Jj6UfMjIhSU"
+    "match": "w_PXQm5rcEE",
+    "highlight": "w_PXQm5rcEE",
+    "interview": "ABjZvLqrCZY"
   },
   "videos": [
     {
-      "title": "Czechia vs Mexico | Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "uSl2YZr0bcw",
-      "channel": "Web Search",
+      "title": "Alt Cast Highlights: Uruguay v Spain | FIFA World Cup 2026™",
+      "videoId": "w_PXQm5rcEE",
+      "channel": "FIFA",
       "publishedAt": "2026-06-27",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "Czechia",
-        "Czech"
+        "Spain",
+        "Uruguay"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/uSl2YZr0bcw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/w_PXQm5rcEE/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico",
-      "source": "match-search"
+      "fixtureTeams": "Colombia vs Congo DR"
     },
     {
-      "title": "Czechia vs Mexico Highlights | 2026 FIFA World Cup™ - FOX Sports",
-      "videoId": "XjUXcZtENUs",
-      "channel": "Web Search",
+      "title": "Team Feature: South Africa | How South Africa Beat the Odds to Reach the Knockout Stage",
+      "videoId": "FnrKLrnDZ3w",
+      "channel": "FIFA",
       "publishedAt": "2026-06-27",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "Czechia",
-        "Czech"
+        "South Africa"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/XjUXcZtENUs/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/FnrKLrnDZ3w/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico",
-      "source": "match-search"
+      "fixtureTeams": "Colombia vs Congo DR"
     },
     {
-      "title": "Czechia vs. Mexico Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "fVZw7FXJqMc",
-      "channel": "Web Search",
+      "title": "Team Feature: Canada | Inside J.J. Adams' Coverage: Canada's Bittersweet Loss to Switzerland",
+      "videoId": "gB-xwWgDlb8",
+      "channel": "FIFA",
       "publishedAt": "2026-06-27",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "Czechia",
-        "Czech"
+        "Canada",
+        "Switzerland"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fVZw7FXJqMc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/gB-xwWgDlb8/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico",
-      "source": "match-search"
-    },
-    {
-      "title": "Czechia vs Mexico Highlights | 2026 FIFA World Cup™ - FOX Sports",
-      "videoId": "hfG1HyjN-do",
-      "channel": "Web Search",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Mexico",
-        "Czechia",
-        "Czech"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/hfG1HyjN-do/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico",
-      "source": "match-search"
+      "fixtureTeams": "Colombia vs Congo DR"
     },
     {
       "title": "Alt Cast Highlights: Senegal v Iraq | FIFA World Cup 2026™",
@@ -276,51 +250,46 @@
       "fixtureTeams": "Colombia vs Congo DR"
     },
     {
-      "title": "Post-Match Press Conference: New Zealand's Darren Bazeley On 5-1 Loss To Belgium",
-      "videoId": "3IEiFYM1ku4",
-      "channel": "FIFA",
+      "title": "Ali Krieger reacts to Norway vs. France and Christian Pulisic's return from injury | SportsCenter",
+      "videoId": "xvUCnTtlMwg",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-27",
       "category": "Highlights",
       "team": [
-        "Belgium"
+        "France",
+        "Norway"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/3IEiFYM1ku4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/xvUCnTtlMwg/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Colombia vs Congo DR"
     },
     {
-      "title": "Post-Match Press Conference: Egypt's Hossam Hassan On 1-1 Draw With IR Iran",
-      "videoId": "dr2sUu82ync",
-      "channel": "FIFA",
+      "title": "The wedding photos are going to be incredible 📸⚽",
+      "videoId": "ABjZvLqrCZY",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Iran",
-        "Egypt"
-      ],
+      "category": "Viral",
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/dr2sUu82ync/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/ABjZvLqrCZY/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Colombia vs Congo DR"
     },
     {
-      "title": "Post-Match Interviews: Egypt 1-1 IR Iran",
-      "videoId": "70r8aMlGE6A",
-      "channel": "FIFA",
+      "title": "Look what it means to Cape Verde ❤️🇨🇻",
+      "videoId": "C1tseMY-sQ0",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-27",
       "category": "Highlights",
-      "team": [
-        "Iran",
-        "Egypt"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/70r8aMlGE6A/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/C1tseMY-sQ0/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Colombia vs Congo DR"
@@ -514,54 +483,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/n15UVrmTpFk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "REACTION to Mauricio Pochettino’s comments after USMNT's 3-2 loss to Turkiye 👀 | ESPN FC",
-      "videoId": "wiVTNZiqfFE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-26",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/wiVTNZiqfFE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Uruguay vs. Spain PREVIEW 🍿 2026 World Cup | ESPN FC",
-      "videoId": "EkWuGx5S7QQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Uruguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/EkWuGx5S7QQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Norway vs. France FULL REACTION 🍿 Ousmane Dembele scores hat-trick | ESPN FC",
-      "videoId": "JHegyBue4YE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-26",
-      "category": "Viral",
-      "team": [
-        "France",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/JHegyBue4YE/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Norway vs Senegal"
