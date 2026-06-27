@@ -1,11 +1,49 @@
 {
-  "lastUpdated": "2026-06-27T03:49:19.732Z",
+  "lastUpdated": "2026-06-27T06:35:25.464Z",
   "featured": {
-    "match": "ezUbA70K2-g",
-    "highlight": "ezUbA70K2-g",
+    "match": "uSl2YZr0bcw",
+    "highlight": "uSl2YZr0bcw",
     "interview": "iL8UKjTMEmY"
   },
   "videos": [
+    {
+      "title": "Czechia vs Mexico | Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "uSl2YZr0bcw",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Czechia",
+        "Czech"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/uSl2YZr0bcw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico",
+      "source": "match-search"
+    },
+    {
+      "title": "Czechia vs. Mexico Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "fVZw7FXJqMc",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Czechia",
+        "Czech"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fVZw7FXJqMc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico",
+      "source": "match-search"
+    },
     {
       "title": "Austria Train Before Algeria | FIFA World Cup 2026™",
       "videoId": "ezUbA70K2-g",
