@@ -1,11 +1,49 @@
 {
-  "lastUpdated": "2026-06-27T15:18:38.024Z",
+  "lastUpdated": "2026-06-27T15:41:37.364Z",
   "featured": {
-    "match": "aeCtgK2HgTM",
-    "highlight": "aeCtgK2HgTM",
+    "match": "fVZw7FXJqMc",
+    "highlight": "fVZw7FXJqMc",
     "interview": "Jj6UfMjIhSU"
   },
   "videos": [
+    {
+      "title": "Czechia vs. Mexico Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "fVZw7FXJqMc",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Czechia",
+        "Czech"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fVZw7FXJqMc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico",
+      "source": "match-search"
+    },
+    {
+      "title": "Czechia vs Mexico Highlights | 2026 FIFA World Cup™ - FOX Sports",
+      "videoId": "hfG1HyjN-do",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Czechia",
+        "Czech"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/hfG1HyjN-do/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico",
+      "source": "match-search"
+    },
     {
       "title": "Alt Cast Highlights: Senegal v Iraq | FIFA World Cup 2026™",
       "videoId": "aeCtgK2HgTM",
