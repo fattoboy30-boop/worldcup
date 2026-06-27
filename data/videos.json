@@ -1,48 +1,77 @@
 {
-  "lastUpdated": "2026-06-27T14:14:12.504Z",
+  "lastUpdated": "2026-06-27T15:18:38.024Z",
   "featured": {
-    "match": "hfG1HyjN-do",
-    "highlight": "hfG1HyjN-do",
-    "interview": "qnjYBs6c3FU"
+    "match": "aeCtgK2HgTM",
+    "highlight": "aeCtgK2HgTM",
+    "interview": "Jj6UfMjIhSU"
   },
   "videos": [
     {
-      "title": "Czechia vs Mexico | Match Highlights | FIFA World Cup 2026™",
-      "videoId": "hfG1HyjN-do",
-      "channel": "Web Search",
+      "title": "Alt Cast Highlights: Senegal v Iraq | FIFA World Cup 2026™",
+      "videoId": "aeCtgK2HgTM",
+      "channel": "FIFA",
       "publishedAt": "2026-06-27",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "Czechia",
-        "Czech"
+        "Senegal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/hfG1HyjN-do/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/aeCtgK2HgTM/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico",
-      "source": "match-search"
+      "fixtureTeams": "Colombia vs Congo DR"
     },
     {
-      "title": "Czechia vs Mexico | Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "uSl2YZr0bcw",
-      "channel": "Web Search",
+      "title": "Post-Match Press Conference: IR Iran's Amir Ghalenoei On 1-1 Draw With The Egypt",
+      "videoId": "O3f5w-fbha4",
+      "channel": "FIFA",
       "publishedAt": "2026-06-27",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "Czechia",
-        "Czech"
+        "Iran",
+        "Egypt"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/uSl2YZr0bcw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/O3f5w-fbha4/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico",
-      "source": "match-search"
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "Match Preview: South Africa vs Canada | FIFA World Cup 2026™",
+      "videoId": "wKMsOsWNFSs",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Canada",
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/wKMsOsWNFSs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "Alt Cast Highlights: Norway v France | FIFA World Cup 2026™",
+      "videoId": "x3F4HnrK3zo",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/x3F4HnrK3zo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
     },
     {
       "title": "Great Knockout Goals In World Cup History (1970-1986)",
@@ -221,25 +250,41 @@
       "fixtureTeams": "Colombia vs Congo DR"
     },
     {
-      "title": "Post-Match Player Interviews: New Zealand 1-5 Belgium",
-      "videoId": "O1Jds8HiFAY",
-      "channel": "FIFA",
+      "title": "World Cup Takeaways ⚽ Dembele's hat trick, Spain's lackluster match and more! | ESPN FC Full Show",
+      "videoId": "Jj6UfMjIhSU",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-27",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [
-        "Belgium"
+        "Spain"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/O1Jds8HiFAY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Jj6UfMjIhSU/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Colombia vs Congo DR"
     },
     {
-      "title": "Post-Match Press Conference: Uruguay's Marcelo Bielsa On 1-0 Loss To Spain",
-      "videoId": "7gaK3ySCzZs",
-      "channel": "FIFA",
+      "title": "PREDICTION TIME! 🔮 Portugal break down + How many more goals will Cristiano Ronaldo score? | ESPN FC",
+      "videoId": "c7y-AyPaWmM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/c7y-AyPaWmM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "Uruguay was looking for a FIGHT against Spain in Group H 💥 - Alejandro Moreno | ESPN FC",
+      "videoId": "QCGnRc_DHAg",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-27",
       "category": "Highlights",
       "team": [
@@ -248,32 +293,29 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7gaK3ySCzZs/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/QCGnRc_DHAg/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Colombia vs Congo DR"
     },
     {
-      "title": "Post-Match Press Conference: Spain's Luis de la Fuente On 1-0 Win Over Uruguay",
-      "videoId": "skPGMaMapwo",
-      "channel": "FIFA",
+      "title": "Fábrica de Sueños",
+      "videoId": "hiDc1jRMDZk",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-27",
       "category": "Highlights",
-      "team": [
-        "Spain",
-        "Uruguay"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/skPGMaMapwo/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/hiDc1jRMDZk/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Colombia vs Congo DR"
     },
     {
-      "title": "De Bruyne with a stunner for Belgium! 🇧🇪 #FIFAWorldCupOnYT",
-      "videoId": "COWRDcREQC8",
-      "channel": "FIFA",
+      "title": "Alejandro Moreno doesn't see Belgium as a 'real threat' in the World Cup 👀 | ESPN FC",
+      "videoId": "-rmHtSjR1G8",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-27",
       "category": "Highlights",
       "team": [
@@ -281,13 +323,13 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/COWRDcREQC8/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/-rmHtSjR1G8/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Colombia vs Congo DR"
     },
     {
-      "title": "Norway vs. France takeaways ⚽ Reacting to Ousmane Dembélé's UNREAL FIRST-HALF HAT TRICK 😤 | ESPN FC",
+      "title": "Norway vs. France takeaways ⚽ Reacting to Ousmane Dembele's UNREAL FIRST-HALF HAT TRICK 😤 | ESPN FC",
       "videoId": "qnjYBs6c3FU",
       "channel": "ESPN FC",
       "publishedAt": "2026-06-27",
@@ -444,81 +486,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/JHegyBue4YE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Ousmane Dembele’s LEGENDARY hat-trick vs. Norway 🔥 2026 World Cup | ESPN FC",
-      "videoId": "gLAIwQ_TtBE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-26",
-      "category": "Viral",
-      "team": [
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/gLAIwQ_TtBE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Ousmane Dembele HAT TRICK! Norway vs. France [LIVE REACTION] | ESPN FC",
-      "videoId": "qBj0VCXDl78",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-26",
-      "category": "Viral",
-      "team": [
-        "France",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/qBj0VCXDl78/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Wemby doing his best CR7 impression 🔥 (via @tomatofc_tokyo/IG, h/t StokeyyG2/X)",
-      "videoId": "E2H_yU4tMHo",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/E2H_yU4tMHo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Shaka Hislop recaps USMNT’s loss to Türkiye and previews Round of 32 matches ⚽ | SportsCenter",
-      "videoId": "6Dn9QdPI5ws",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/6Dn9QdPI5ws/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Brek Shea was IMPRESSED with Christian Pulisic’s return 🗣️ ‘HE’S BACK!’ | Get Up",
-      "videoId": "d4lj_MkqKxQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/d4lj_MkqKxQ/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Norway vs Senegal"
