@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T23:01:22.350Z",
+  "lastUpdated": "2026-06-27T23:31:23.999Z",
   "fixtures": [
     {
       "id": 760415,
@@ -1959,8 +1959,8 @@
       "homeTeam": "Mexico",
       "homeCode": "mx",
       "homeScore": 0,
-      "awayTeam": "Third Place Group C/E/F/H/I",
-      "awayCode": "un",
+      "awayTeam": "Ecuador",
+      "awayCode": "ec",
       "awayScore": 0,
       "venue": "Estadio Banorte",
       "city": "Mexico City",
@@ -1974,7 +1974,7 @@
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/mx.png",
-      "awayFlag": "https://flagcdn.com/w160/un.png"
+      "awayFlag": "https://flagcdn.com/w160/ec.png"
     },
     {
       "id": 760495,
