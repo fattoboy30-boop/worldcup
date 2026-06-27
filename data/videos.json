@@ -1,67 +1,44 @@
 {
-  "lastUpdated": "2026-06-27T20:45:36.110Z",
+  "lastUpdated": "2026-06-27T21:08:45.161Z",
   "featured": {
-    "match": "uSl2YZr0bcw",
-    "highlight": "uSl2YZr0bcw",
+    "match": "wORfK6-QsKw",
+    "highlight": "wORfK6-QsKw",
     "interview": "ABjZvLqrCZY"
   },
   "videos": [
     {
-      "title": "Czechia vs Mexico | Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "uSl2YZr0bcw",
-      "channel": "Web Search",
+      "title": "Canada Train Before South Africa | FIFA World Cup 2026™",
+      "videoId": "wORfK6-QsKw",
+      "channel": "FIFA",
       "publishedAt": "2026-06-27",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "Czechia",
-        "Czech"
+        "Canada",
+        "South Africa"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/uSl2YZr0bcw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/wORfK6-QsKw/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico",
-      "source": "match-search"
+      "fixtureTeams": "Colombia vs Congo DR"
     },
     {
-      "title": "Czechia vs. Mexico Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "fVZw7FXJqMc",
-      "channel": "Web Search",
+      "title": "Alt Cast Highlights: Egypt v IR Iran | FIFA World Cup 2026™",
+      "videoId": "xHkXVqIabbc",
+      "channel": "FIFA",
       "publishedAt": "2026-06-27",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "Czechia",
-        "Czech"
+        "Iran",
+        "Egypt"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fVZw7FXJqMc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/xHkXVqIabbc/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico",
-      "source": "match-search"
-    },
-    {
-      "title": "Czechia vs Mexico | Match Highlights | FIFA World Cup 2026™",
-      "videoId": "hfG1HyjN-do",
-      "channel": "Web Search",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Mexico",
-        "Czechia",
-        "Czech"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/hfG1HyjN-do/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico",
-      "source": "match-search"
+      "fixtureTeams": "Colombia vs Congo DR"
     },
     {
       "title": "Alt Cast Highlights: Cabo Verde v Saudi Arabia | FIFA World Cup 2026™",
@@ -258,55 +235,6 @@
       "fixtureTeams": "Colombia vs Congo DR"
     },
     {
-      "title": "Romelu Lukaku Goal | New Zealand 1-5 Belgium | FIFA World Cup 2026™",
-      "videoId": "HzwuGXM8C7s",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Belgium"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/HzwuGXM8C7s/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Kevin De Bruyne Goal | New Zealand 1-5 Belgium | FIFA World Cup 2026™",
-      "videoId": "vA45mmp9PzM",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Belgium"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vA45mmp9PzM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Ramin Rezaeian Goal | Egypt 1-1 IR Iran | FIFA World Cup 2026™",
-      "videoId": "5RuToAC2JUA",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Iran",
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/5RuToAC2JUA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
       "title": "They’re bullying Messi 😂😂",
       "videoId": "ijGICsNrvjE",
       "channel": "ESPN FC",
@@ -335,15 +263,12 @@
       "fixtureTeams": "Colombia vs Congo DR"
     },
     {
-      "title": "Ali Krieger reacts to Norway vs. France and Christian Pulisic's return from injury | SportsCenter",
+      "title": "Which star is more critical to their team: Erling Haaland or Kylian Mbappe? | SportsCenter",
       "videoId": "xvUCnTtlMwg",
       "channel": "ESPN FC",
       "publishedAt": "2026-06-27",
       "category": "Highlights",
-      "team": [
-        "France",
-        "Norway"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/xvUCnTtlMwg/mqdefault.jpg",
@@ -490,7 +415,7 @@
       "fixtureTeams": "Colombia vs Congo DR"
     },
     {
-      "title": "Spain win Group H ���� Mpabbe & Dembele look SENSATIONAL + USMNT's World Cup Final chances | ESPN FC",
+      "title": "Spain win Group H 👏 Mpabbe & Dembele look SENSATIONAL + USMNT's World Cup Final chances | ESPN FC",
       "videoId": "9O75hWqnTsU",
       "channel": "ESPN FC",
       "publishedAt": "2026-06-27",
@@ -537,6 +462,23 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "WATCH LIVE | Croatia v Ghana | Group Stage L | FIFA World Cup 2026™",
+      "videoId": "IFPDw7pJGFo",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-10",
+      "category": "Highlights",
+      "team": [
+        "Croatia",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/IFPDw7pJGFo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Mexico vs South Africa"
     }
   ]
 }
