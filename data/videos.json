@@ -1,29 +1,72 @@
 {
-  "lastUpdated": "2026-06-27T12:20:07.672Z",
+  "lastUpdated": "2026-06-27T13:50:11.319Z",
   "featured": {
-    "match": "fVZw7FXJqMc",
-    "highlight": "fVZw7FXJqMc",
-    "interview": "wiVTNZiqfFE"
+    "match": "Q2BZzW4KbhA",
+    "highlight": "Q2BZzW4KbhA",
+    "interview": "qnjYBs6c3FU"
   },
   "videos": [
     {
-      "title": "Czechia vs. Mexico Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "fVZw7FXJqMc",
-      "channel": "Web Search",
+      "title": "Great Knockout Goals In World Cup History (1970-1986)",
+      "videoId": "Q2BZzW4KbhA",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Q2BZzW4KbhA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "Jordan Train Before Argentina | FIFA World Cup 2026™",
+      "videoId": "BzNrO7kcutU",
+      "channel": "FIFA",
       "publishedAt": "2026-06-27",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "Czechia",
-        "Czech"
+        "Argentina"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fVZw7FXJqMc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/BzNrO7kcutU/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico",
-      "source": "match-search"
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "Romelu Lukaku Goal | New Zealand 1-5 Belgium | FIFA World Cup 2026™",
+      "videoId": "HzwuGXM8C7s",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/HzwuGXM8C7s/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "Kevin De Bruyne Goal | New Zealand 1-5 Belgium | FIFA World Cup 2026™",
+      "videoId": "vA45mmp9PzM",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vA45mmp9PzM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
     },
     {
       "title": "Ramin Rezaeian Goal | Egypt 1-1 IR Iran | FIFA World Cup 2026™",
@@ -206,66 +249,32 @@
       "fixtureTeams": "Colombia vs Congo DR"
     },
     {
-      "title": "The equaliser for IR Iran 🇮🇷 #FIFAWorldCupOnYT",
-      "videoId": "CTmr5KWuhmQ",
-      "channel": "FIFA",
+      "title": "Norway vs. France takeaways ⚽ Reacting to Ousmane Dembélé's UNREAL FIRST-HALF HAT TRICK 😤 | ESPN FC",
+      "videoId": "qnjYBs6c3FU",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-27",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [
-        "Iran"
+        "France",
+        "Norway"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/CTmr5KWuhmQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/qnjYBs6c3FU/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Colombia vs Congo DR"
     },
     {
-      "title": "Romelu Lukaku, always there for Belgium. 🇧🇪 #FIFAWorldCupOnYT",
-      "videoId": "2KFkv8g4a0U",
-      "channel": "FIFA",
+      "title": "This workout from Ozil is intense 💪 (via alperaksac7/IG)",
+      "videoId": "kesSLUGuAU8",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-27",
       "category": "Highlights",
-      "team": [
-        "Belgium"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/2KFkv8g4a0U/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Saber finds the net for Egypt 🇪🇬 #FIFAWorldCupOnYT",
-      "videoId": "WQm_fhy3atE",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/WQm_fhy3atE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Post-Match Player Interviews: Uruguay 0-1 Spain",
-      "videoId": "eYo_oNKw0zg",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Uruguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/eYo_oNKw0zg/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/kesSLUGuAU8/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Colombia vs Congo DR"
@@ -472,36 +481,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/d4lj_MkqKxQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Brek Shea reacts to USMNT loss to  Türkiye 🗣️",
-      "videoId": "wn4-U1L6kKo",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/wn4-U1L6kKo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "ROUND OF 32 PREVIEW 🔮 Any worries for the USMNT vs. Bosnia-Herzegovina? | First Take",
-      "videoId": "VyJanB0D2bA",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [
-        "Bosnia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/VyJanB0D2bA/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Norway vs Senegal"
