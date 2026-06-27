@@ -1,213 +1,16 @@
 {
-  "lastUpdated": "2026-06-27T02:59:44.140Z",
+  "lastUpdated": "2026-06-27T03:49:19.732Z",
   "featured": {
-    "match": "PbIiyslLRrc",
-    "highlight": "PbIiyslLRrc",
-    "interview": "JHegyBue4YE"
+    "match": "ezUbA70K2-g",
+    "highlight": "ezUbA70K2-g",
+    "interview": "iL8UKjTMEmY"
   },
   "videos": [
     {
-      "title": "Czechia vs. Mexico | FIFA World Cup 2026 | GAME IN 30 - YouTube",
-      "videoId": "PbIiyslLRrc",
-      "channel": "Web Search",
+      "title": "Austria Train Before Algeria | FIFA World Cup 2026™",
+      "videoId": "ezUbA70K2-g",
+      "channel": "FIFA",
       "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Mexico",
-        "Czechia",
-        "Czech"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PbIiyslLRrc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico",
-      "source": "match-search"
-    },
-    {
-      "title": "Colombia vs. DR Congo Full Highlights | FIFA World Cup 2026",
-      "videoId": "7fYG88iWFF8",
-      "channel": "Web Search",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [
-        "Colombia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7fYG88iWFF8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR",
-      "source": "match-search"
-    },
-    {
-      "title": "Colombia vs Congo DR | Match Highlights | FIFA World Cup 2026™",
-      "videoId": "1G0pNGItTZY",
-      "channel": "Web Search",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [
-        "Colombia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/1G0pNGItTZY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR",
-      "source": "match-search"
-    },
-    {
-      "title": "Post-Match Press Conference: France's Guy Stephan On The 4-1 Win Over Norway",
-      "videoId": "9P6T5P3fMBM",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/9P6T5P3fMBM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Post-Match Press Conference: Norway's Ståle Solbakken On The 4-1 Loss To France",
-      "videoId": "Ypd0RywpHjU",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Ypd0RywpHjU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Post-Match Press Conference: Senegal's Pape Thiaw On The 5-0 Win Over Iraq",
-      "videoId": "z_2sJbJSDvY",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [
-        "Senegal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/z_2sJbJSDvY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Post-Match Press Conference: Iraq's Graham Arnold On The 5-0 Loss To Senegal",
-      "videoId": "NIO3Zt6Tc8A",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [
-        "Senegal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/NIO3Zt6Tc8A/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Highlights | Curacao 0-2 Cote d'Ivoire | FIFA World Cup 2026™",
-      "videoId": "vDLtuaCoIb0",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vDLtuaCoIb0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Highlights | Ecuador 2-1 Germany | FIFA World Cup 2026™",
-      "videoId": "TImmPYoLE-8",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [
-        "Germany",
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/TImmPYoLE-8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Croatia Train Before Ghana | FIFA World Cup 2026™",
-      "videoId": "My5RcsDqMPk",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [
-        "Croatia",
-        "Ghana"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/My5RcsDqMPk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "WATCH LIVE | Senegal v Iraq | Group Stage I | FIFA World Cup 2026™",
-      "videoId": "NX4tF2DZY8M",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [
-        "Senegal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/NX4tF2DZY8M/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Uzbekistan On Playing Congo DR | Fabio Cannavaro & Eldor Shomurodov Take Questions",
-      "videoId": "gxJiC724EK4",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/gxJiC724EK4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Austria On Playing Algeria | Ralf Rangnick & Konrad Laimer Takes Questions",
-      "videoId": "GnY0nIlsOh8",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-26",
       "category": "Highlights",
       "team": [
         "Algeria",
@@ -215,32 +18,47 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/GnY0nIlsOh8/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/ezUbA70K2-g/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
+      "fixtureTeams": "Colombia vs Congo DR"
     },
     {
-      "title": "Panama Train Before England | FIFA World Cup 2026™",
-      "videoId": "YycVuuQLEj8",
+      "title": "Algeria Train Before Austria | FIFA World Cup 2026™",
+      "videoId": "JUD2GTwoabQ",
       "channel": "FIFA",
-      "publishedAt": "2026-06-26",
+      "publishedAt": "2026-06-27",
       "category": "Highlights",
       "team": [
-        "England"
+        "Algeria",
+        "Austria"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/YycVuuQLEj8/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/JUD2GTwoabQ/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
+      "fixtureTeams": "Colombia vs Congo DR"
     },
     {
-      "title": "Colombia On Playing Portugal | Néstor Lorenzo Takes Questions",
-      "videoId": "QTthNU5rXJE",
+      "title": "Uzbekistan Train Before Congo DR | FIFA World Cup 2026™",
+      "videoId": "zvFck2oAduw",
       "channel": "FIFA",
-      "publishedAt": "2026-06-26",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/zvFck2oAduw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "Colombia Train Before Portugal | FIFA World Cup 2026™",
+      "videoId": "SrnRMCgtCEc",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-27",
       "category": "Highlights",
       "team": [
         "Portugal",
@@ -248,30 +66,63 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/QTthNU5rXJE/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/SrnRMCgtCEc/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
+      "fixtureTeams": "Colombia vs Congo DR"
     },
     {
-      "title": "Congo DR On Playing Uzbekistan | Sébastien Desabre Takes Questions",
-      "videoId": "iD7LrElXKxM",
+      "title": "Congo DR Train Before Uzbekistan | FIFA World Cup 2026™",
+      "videoId": "Qoi6a3T8oM8",
       "channel": "FIFA",
-      "publishedAt": "2026-06-26",
+      "publishedAt": "2026-06-27",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/iD7LrElXKxM/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Qoi6a3T8oM8/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
+      "fixtureTeams": "Colombia vs Congo DR"
     },
     {
-      "title": "Ghana Train Before Croatia | FIFA World Cup 2026™",
-      "videoId": "p0cC-rRVHEo",
+      "title": "Portugal Train Before Colombia | FIFA World Cup 2026™",
+      "videoId": "VZzK4SoCq5Q",
       "channel": "FIFA",
-      "publishedAt": "2026-06-26",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Portugal",
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/VZzK4SoCq5Q/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "Argentina On Playing Jordan | Lionel Scaloni Takes Questions",
+      "videoId": "-jVo42V9rkI",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-jVo42V9rkI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "Croatia On Playing Ghana | Zlatko Dalić & Ivan Perisic Takes Questions",
+      "videoId": "_Qj1bnQtg7g",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-27",
       "category": "Highlights",
       "team": [
         "Croatia",
@@ -279,30 +130,177 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/p0cC-rRVHEo/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/_Qj1bnQtg7g/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
+      "fixtureTeams": "Colombia vs Congo DR"
     },
     {
-      "title": "Ghana On Playing Croatia | Carlos Queiroz & Antoine Semenyo Takes Questions",
-      "videoId": "KDzjMqiroO0",
+      "title": "Highlights | Japan 1-1 Sweden | FIFA World Cup 2026™",
+      "videoId": "BppGXEZbiy4",
       "channel": "FIFA",
-      "publishedAt": "2026-06-26",
+      "publishedAt": "2026-06-27",
       "category": "Highlights",
       "team": [
-        "Croatia",
-        "Ghana"
+        "Japan",
+        "Sweden"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/KDzjMqiroO0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/BppGXEZbiy4/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
+      "fixtureTeams": "Colombia vs Congo DR"
     },
     {
-      "title": "Breaking down France’s path to the World Cup Final after 4-1 win vs. Norway | ESPN FC Full Show",
+      "title": "Highlights | Tunisia 1-3 Netherlands | FIFA World Cup 2026™",
+      "videoId": "oHYtLWbrwUo",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Tunisia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/oHYtLWbrwUo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "Panama On Playing England | Thomas Christiansen Takes Questions",
+      "videoId": "AqHGf4qiY3U",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/AqHGf4qiY3U/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "Désiré Doué Goal | Norway 1-4 France | FIFA World Cup 2026™",
+      "videoId": "EYxDX4PycbM",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/EYxDX4PycbM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "Ousmane Dembele Goal | Norway 1-4 France | FIFA World Cup 2026™",
+      "videoId": "Fz2XCIm2km8",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Fz2XCIm2km8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "Pape Gueye Goal | Senegal 5-0 Iraq | FIFA World Cup 2026™",
+      "videoId": "vxr8OOsL-K8",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Senegal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vxr8OOsL-K8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "Désiré Doué scores his first-ever World Cup goal. 🇫🇷✨ #FIFAWorldCupOnYt",
+      "videoId": "B7LB3RQcYdg",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/B7LB3RQcYdg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "Could USMNT beat Spain or Portugal in the World Cup? 👀 | ESPN FC Extra Time",
+      "videoId": "ox41GAfkfC0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ox41GAfkfC0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "Ale Moreno is losing confidence in Spain's World Cup chances 👀",
+      "videoId": "ynyVmEIWGSg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ynyVmEIWGSg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "‘Spain were UNDERWHELMING’ 😳 FULL REACTION to Uruguay vs. Spain | ESPN FC",
+      "videoId": "iL8UKjTMEmY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-27",
+      "category": "Viral",
+      "team": [
+        "Spain",
+        "Uruguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/iL8UKjTMEmY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "Breaking down France’s path to the World Cup Final after 4-1 win vs. Norway | ESPN FC",
       "videoId": "n15UVrmTpFk",
       "channel": "ESPN FC",
       "publishedAt": "2026-06-26",
@@ -319,11 +317,11 @@
       "fixtureTeams": "Norway vs Senegal"
     },
     {
-      "title": "USMNT Round of 32 PREVIEW 🍿 How far can the United States go in the World Cup? | ESPN FC",
+      "title": "REACTION to Mauricio Pochettino’s comments after USMNT's 3-2 loss to Turkiye 👀 | ESPN FC",
       "videoId": "wiVTNZiqfFE",
       "channel": "ESPN FC",
       "publishedAt": "2026-06-26",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [],
       "duration": "N/A",
       "views": 0,
@@ -350,7 +348,7 @@
       "fixtureTeams": "Norway vs Senegal"
     },
     {
-      "title": "Norway vs. France FULL REACTION �� Ousmane Dembele scores hat-trick | ESPN FC",
+      "title": "Norway vs. France FULL REACTION 🍿 Ousmane Dembele scores hat-trick | ESPN FC",
       "videoId": "JHegyBue4YE",
       "channel": "ESPN FC",
       "publishedAt": "2026-06-26",
@@ -481,48 +479,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/z6GrjQ1bh4Q/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Turkiye-USMNT REACTION 🔥 + More on the 2026 FIFA World Cup group stage 🌎 | ESPN FC",
-      "videoId": "yi3autynO2o",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-26",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/yi3autynO2o/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Reacting to Christian Pulisic's return from injury in the 57th minute vs. Türkiye ⚽️",
-      "videoId": "-FWlIWRYKFQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-FWlIWRYKFQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
-    },
-    {
-      "title": "Kasey Keller needs to see how USMNT responds to their 3-2 loss to Türkiye 📝",
-      "videoId": "EYuvj-vV3o8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/EYuvj-vV3o8/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Norway vs Senegal"
