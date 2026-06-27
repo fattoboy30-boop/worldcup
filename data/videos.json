@@ -1,48 +1,57 @@
 {
-  "lastUpdated": "2026-06-27T18:03:26.088Z",
+  "lastUpdated": "2026-06-27T19:25:58.331Z",
   "featured": {
-    "match": "fVZw7FXJqMc",
-    "highlight": "fVZw7FXJqMc",
+    "match": "KRGWaxhTghg",
+    "highlight": "KRGWaxhTghg",
     "interview": "ABjZvLqrCZY"
   },
   "videos": [
     {
-      "title": "Czechia vs. Mexico Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "fVZw7FXJqMc",
-      "channel": "Web Search",
+      "title": "Alt Cast Highlights: Cabo Verde v Saudi Arabia | FIFA World Cup 2026™",
+      "videoId": "KRGWaxhTghg",
+      "channel": "FIFA",
       "publishedAt": "2026-06-27",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "Czechia",
-        "Czech"
+        "Saudi Arabia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fVZw7FXJqMc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/KRGWaxhTghg/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico",
-      "source": "match-search"
+      "fixtureTeams": "Colombia vs Congo DR"
     },
     {
-      "title": "Czechia vs Mexico | Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "uSl2YZr0bcw",
-      "channel": "Web Search",
+      "title": "Hassan Al-Haydos Goal | Bosnia and Herzegovina 3-1 Qatar | FIFA World Cup 2026™",
+      "videoId": "YBpuAWK5JWo",
+      "channel": "FIFA",
       "publishedAt": "2026-06-27",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "Czechia",
-        "Czech"
+        "Qatar",
+        "Bosnia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/uSl2YZr0bcw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/YBpuAWK5JWo/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico",
-      "source": "match-search"
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "UNFORGETTABLE Knockout Stage Goals | FIFA World Cup",
+      "videoId": "c1SF8fhoVlA",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/c1SF8fhoVlA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
     },
     {
       "title": "Alt Cast Highlights: Uruguay v Spain | FIFA World Cup 2026™",
@@ -241,48 +250,29 @@
       "fixtureTeams": "Colombia vs Congo DR"
     },
     {
-      "title": "Mahmoud Saber Goal | Egypt 1-1 IR Iran | FIFA World Cup 2026™",
-      "videoId": "KDipJvWeJG0",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Iran",
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/KDipJvWeJG0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Post-Match Press Conference: Belgium's Rudi Garcia On 5-1 Win Over New Zealand",
-      "videoId": "UqtxqxKIdn0",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Belgium"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/UqtxqxKIdn0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "June 26 Matchday Recap | #FIFAWorldCup @aramco",
-      "videoId": "bzeCS2Qog64",
-      "channel": "FIFA",
+      "title": "They’re bullying Messi 😂😂",
+      "videoId": "ijGICsNrvjE",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-27",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/bzeCS2Qog64/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/ijGICsNrvjE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "😭😭😭 (via @plaqueboymax555/TT)",
+      "videoId": "EGZRZYSAuDk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/EGZRZYSAuDk/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Colombia vs Congo DR"
@@ -443,7 +433,7 @@
       "fixtureTeams": "Colombia vs Congo DR"
     },
     {
-      "title": "Spain win Group H 👏 Mpabbe & Dembele look SENSATIONAL + USMNT's World Cup Final chances | ESPN FC",
+      "title": "Spain win Group H ���� Mpabbe & Dembele look SENSATIONAL + USMNT's World Cup Final chances | ESPN FC",
       "videoId": "9O75hWqnTsU",
       "channel": "ESPN FC",
       "publishedAt": "2026-06-27",
@@ -490,40 +480,6 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "‘Uruguay have been EMBARRASSING’ 😳 Ale Moreno on Uruguay's performance vs. Spain | ESPN FC",
-      "videoId": "iL8UKjTMEmY",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Uruguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/iL8UKjTMEmY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Breaking down France’s path to the World Cup Final after 4-1 win vs. Norway | ESPN FC",
-      "videoId": "n15UVrmTpFk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-26",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/n15UVrmTpFk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Norway vs Senegal"
     }
   ]
 }
