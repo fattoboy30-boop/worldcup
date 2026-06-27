@@ -1,11 +1,49 @@
 {
-  "lastUpdated": "2026-06-27T06:55:46.549Z",
+  "lastUpdated": "2026-06-27T09:17:45.863Z",
   "featured": {
-    "match": "zuwj4fG9XwQ",
-    "highlight": "zuwj4fG9XwQ",
+    "match": "uSl2YZr0bcw",
+    "highlight": "uSl2YZr0bcw",
     "interview": "wiVTNZiqfFE"
   },
   "videos": [
+    {
+      "title": "Czechia vs Mexico | Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "uSl2YZr0bcw",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Czechia",
+        "Czech"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/uSl2YZr0bcw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico",
+      "source": "match-search"
+    },
+    {
+      "title": "Czechia vs. Mexico Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "fVZw7FXJqMc",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Czechia",
+        "Czech"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fVZw7FXJqMc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico",
+      "source": "match-search"
+    },
     {
       "title": "Post-Match Player Interviews: Cabo Verde 0-0 Saudi Arabia",
       "videoId": "zuwj4fG9XwQ",
