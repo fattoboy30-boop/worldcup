@@ -1,48 +1,43 @@
 {
-  "lastUpdated": "2026-06-27T21:47:34.136Z",
+  "lastUpdated": "2026-06-27T23:05:43.616Z",
   "featured": {
-    "match": "hfG1HyjN-do",
-    "highlight": "hfG1HyjN-do",
+    "match": "6N2BzwoMrCw",
+    "highlight": "6N2BzwoMrCw",
     "interview": "ABjZvLqrCZY"
   },
   "videos": [
     {
-      "title": "Czechia vs Mexico | Match Highlights | FIFA World Cup 2026™",
-      "videoId": "hfG1HyjN-do",
-      "channel": "Web Search",
+      "title": "Highlights |  Senegal 5-0 Iraq | FIFA World Cup 2026™",
+      "videoId": "6N2BzwoMrCw",
+      "channel": "FIFA",
       "publishedAt": "2026-06-27",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "Czechia",
-        "Czech"
+        "Senegal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/hfG1HyjN-do/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/6N2BzwoMrCw/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico",
-      "source": "match-search"
+      "fixtureTeams": "Colombia vs Congo DR"
     },
     {
-      "title": "Czechia vs. Mexico Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "fVZw7FXJqMc",
-      "channel": "Web Search",
+      "title": "Highlights | Norway 1-4 France | FIFA World Cup 2026™",
+      "videoId": "ABdniNBWtRs",
+      "channel": "FIFA",
       "publishedAt": "2026-06-27",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "Czechia",
-        "Czech"
+        "France",
+        "Norway"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fVZw7FXJqMc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/ABdniNBWtRs/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico",
-      "source": "match-search"
+      "fixtureTeams": "Colombia vs Congo DR"
     },
     {
       "title": "Canada Train Before South Africa | FIFA World Cup 2026™",
@@ -238,36 +233,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/x3F4HnrK3zo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Great Knockout Goals In World Cup History (1970-1986)",
-      "videoId": "Q2BZzW4KbhA",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Q2BZzW4KbhA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Jordan Train Before Argentina | FIFA World Cup 2026™",
-      "videoId": "BzNrO7kcutU",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/BzNrO7kcutU/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Colombia vs Congo DR"
