@@ -1,11 +1,49 @@
 {
-  "lastUpdated": "2026-06-27T21:08:45.161Z",
+  "lastUpdated": "2026-06-27T21:47:34.136Z",
   "featured": {
-    "match": "wORfK6-QsKw",
-    "highlight": "wORfK6-QsKw",
+    "match": "hfG1HyjN-do",
+    "highlight": "hfG1HyjN-do",
     "interview": "ABjZvLqrCZY"
   },
   "videos": [
+    {
+      "title": "Czechia vs Mexico | Match Highlights | FIFA World Cup 2026™",
+      "videoId": "hfG1HyjN-do",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Czechia",
+        "Czech"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/hfG1HyjN-do/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico",
+      "source": "match-search"
+    },
+    {
+      "title": "Czechia vs. Mexico Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "fVZw7FXJqMc",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Czechia",
+        "Czech"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fVZw7FXJqMc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico",
+      "source": "match-search"
+    },
     {
       "title": "Canada Train Before South Africa | FIFA World Cup 2026™",
       "videoId": "wORfK6-QsKw",

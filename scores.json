@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T21:13:42.595Z",
+  "lastUpdated": "2026-06-27T21:46:23.774Z",
   "liveMatches": [
     {
       "id": 760480,
@@ -8,7 +8,7 @@
       "utcDate": "2026-06-27T21:00Z",
       "homeTeam": "Croatia",
       "homeCode": "hr",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayTeam": "Ghana",
       "awayCode": "gh",
       "awayScore": 0,
@@ -18,7 +18,7 @@
       "group": "L",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "12'",
+      "minute": "45'",
       "halfTime": [
         null,
         null
@@ -41,7 +41,7 @@
       "group": "L",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "13'",
+      "minute": "45'",
       "halfTime": [
         null,
         null
