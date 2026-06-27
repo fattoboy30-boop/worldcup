@@ -1,11 +1,49 @@
 {
-  "lastUpdated": "2026-06-27T09:31:22.230Z",
+  "lastUpdated": "2026-06-27T11:11:58.073Z",
   "featured": {
-    "match": "70r8aMlGE6A",
-    "highlight": "70r8aMlGE6A",
+    "match": "uSl2YZr0bcw",
+    "highlight": "uSl2YZr0bcw",
     "interview": "wiVTNZiqfFE"
   },
   "videos": [
+    {
+      "title": "Czechia vs Mexico | Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "uSl2YZr0bcw",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Czechia",
+        "Czech"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/uSl2YZr0bcw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico",
+      "source": "match-search"
+    },
+    {
+      "title": "Czechia vs Mexico | Match Highlights | FIFA World Cup 2026™",
+      "videoId": "hfG1HyjN-do",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Czechia",
+        "Czech"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/hfG1HyjN-do/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico",
+      "source": "match-search"
+    },
     {
       "title": "Post-Match Player Interviews: Egypt 1-1 IR Iran",
       "videoId": "70r8aMlGE6A",
