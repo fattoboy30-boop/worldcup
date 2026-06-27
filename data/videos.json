@@ -1,51 +1,110 @@
 {
-  "lastUpdated": "2026-06-27T11:11:58.073Z",
+  "lastUpdated": "2026-06-27T11:37:40.744Z",
   "featured": {
-    "match": "uSl2YZr0bcw",
-    "highlight": "uSl2YZr0bcw",
+    "match": "5RuToAC2JUA",
+    "highlight": "5RuToAC2JUA",
     "interview": "wiVTNZiqfFE"
   },
   "videos": [
     {
-      "title": "Czechia vs Mexico | Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "uSl2YZr0bcw",
-      "channel": "Web Search",
+      "title": "Ramin Rezaeian Goal | Egypt 1-1 IR Iran | FIFA World Cup 2026™",
+      "videoId": "5RuToAC2JUA",
+      "channel": "FIFA",
       "publishedAt": "2026-06-27",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "Czechia",
-        "Czech"
+        "Iran",
+        "Egypt"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/uSl2YZr0bcw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/5RuToAC2JUA/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico",
-      "source": "match-search"
+      "fixtureTeams": "Colombia vs Congo DR"
     },
     {
-      "title": "Czechia vs Mexico | Match Highlights | FIFA World Cup 2026™",
-      "videoId": "hfG1HyjN-do",
-      "channel": "Web Search",
+      "title": "Mahmoud Saber Goal | Egypt 1-1 IR Iran | FIFA World Cup 2026™",
+      "videoId": "KDipJvWeJG0",
+      "channel": "FIFA",
       "publishedAt": "2026-06-27",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "Czechia",
-        "Czech"
+        "Iran",
+        "Egypt"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/hfG1HyjN-do/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/KDipJvWeJG0/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico",
-      "source": "match-search"
+      "fixtureTeams": "Colombia vs Congo DR"
     },
     {
-      "title": "Post-Match Player Interviews: Egypt 1-1 IR Iran",
+      "title": "Post-Match Press Conference: Belgium's Rudi Garcia On 5-1 Win Over New Zealand",
+      "videoId": "UqtxqxKIdn0",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/UqtxqxKIdn0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "June 26 Matchday Recap | #FIFAWorldCup @aramco",
+      "videoId": "bzeCS2Qog64",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/bzeCS2Qog64/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "Post-Match Press Conference: New Zealand's Darren Bazeley On 5-1 Loss To Belgium",
+      "videoId": "3IEiFYM1ku4",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/3IEiFYM1ku4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "Post-Match Press Conference: Egypt's Hossam Hassan On 1-1 Draw With IR Iran",
+      "videoId": "dr2sUu82ync",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Iran",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/dr2sUu82ync/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Colombia vs Congo DR"
+    },
+    {
+      "title": "Post-Match Interviews: Egypt 1-1 IR Iran",
       "videoId": "70r8aMlGE6A",
       "channel": "FIFA",
       "publishedAt": "2026-06-27",
@@ -188,103 +247,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/eYo_oNKw0zg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "New Zealand 🆚 Belgium #FIFAWorldCupOnYT",
-      "videoId": "_HLU_vuAWI4",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Belgium"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_HLU_vuAWI4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Egypt 🆚 IR Iran #FIFAWorldCupOnYT",
-      "videoId": "SQ2R8dAEJV8",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Iran",
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/SQ2R8dAEJV8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Post-Match Press Conference: Saudi Arabia's Georgios Donis On 0-0 Draw With Cabo Verde",
-      "videoId": "q7ryvoPCUow",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Saudi Arabia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/q7ryvoPCUow/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Post-Match Press Conference: Cabo Verde's Bubista On 0-0 Draw With Saudi Arabia",
-      "videoId": "qoZF1uXsPqU",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Saudi Arabia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/qoZF1uXsPqU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Post-Match Player Interviews: Cabo Verde 0-0 Saudi Arabia",
-      "videoId": "zuwj4fG9XwQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Saudi Arabia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/zuwj4fG9XwQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Nuno da Costa Miss | Cabo Verde 0-0 Saudi Arabia | FIFA World Cup 2026™",
-      "videoId": "xnSW4o5FVY8",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Saudi Arabia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xnSW4o5FVY8/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Colombia vs Congo DR"
