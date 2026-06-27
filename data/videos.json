@@ -1,11 +1,49 @@
 {
-  "lastUpdated": "2026-06-27T13:50:11.319Z",
+  "lastUpdated": "2026-06-27T14:14:12.504Z",
   "featured": {
-    "match": "Q2BZzW4KbhA",
-    "highlight": "Q2BZzW4KbhA",
+    "match": "hfG1HyjN-do",
+    "highlight": "hfG1HyjN-do",
     "interview": "qnjYBs6c3FU"
   },
   "videos": [
+    {
+      "title": "Czechia vs Mexico | Match Highlights | FIFA World Cup 2026™",
+      "videoId": "hfG1HyjN-do",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Czechia",
+        "Czech"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/hfG1HyjN-do/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico",
+      "source": "match-search"
+    },
+    {
+      "title": "Czechia vs Mexico | Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "uSl2YZr0bcw",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Czechia",
+        "Czech"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/uSl2YZr0bcw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico",
+      "source": "match-search"
+    },
     {
       "title": "Great Knockout Goals In World Cup History (1970-1986)",
       "videoId": "Q2BZzW4KbhA",
