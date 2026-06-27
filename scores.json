@@ -1,6 +1,53 @@
 {
-  "lastUpdated": "2026-06-26T23:50:47.658Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-06-27T01:48:32.836Z",
+  "liveMatches": [
+    {
+      "id": 760478,
+      "date": "2026-06-27",
+      "time": "00:00",
+      "utcDate": "2026-06-27T00:00Z",
+      "homeTeam": "Cape Verde",
+      "homeCode": "un",
+      "homeScore": 0,
+      "awayTeam": "Saudi Arabia",
+      "awayCode": "sa",
+      "awayScore": 0,
+      "venue": "NRG Stadium",
+      "city": "Houston, Texas",
+      "status": "in_play",
+      "group": "H",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "85'",
+      "halfTime": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": 760479,
+      "date": "2026-06-27",
+      "time": "00:00",
+      "utcDate": "2026-06-27T00:00Z",
+      "homeTeam": "Uruguay",
+      "homeCode": "uy",
+      "homeScore": 0,
+      "awayTeam": "Spain",
+      "awayCode": "es",
+      "awayScore": 1,
+      "venue": "Estadio Akron",
+      "city": "Guadalajara",
+      "status": "in_play",
+      "group": "H",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "84'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -1430,52 +1477,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760478,
-      "date": "2026-06-27",
-      "time": "00:00",
-      "utcDate": "2026-06-27T00:00Z",
-      "homeTeam": "Cape Verde",
-      "homeCode": "un",
-      "homeScore": 0,
-      "awayTeam": "Saudi Arabia",
-      "awayCode": "sa",
-      "awayScore": 0,
-      "venue": "NRG Stadium",
-      "city": "Houston, Texas",
-      "status": "timed",
-      "group": "H",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
-    {
-      "id": 760479,
-      "date": "2026-06-27",
-      "time": "00:00",
-      "utcDate": "2026-06-27T00:00Z",
-      "homeTeam": "Uruguay",
-      "homeCode": "uy",
-      "homeScore": 0,
-      "awayTeam": "Spain",
-      "awayCode": "es",
-      "awayScore": 0,
-      "venue": "Estadio Akron",
-      "city": "Guadalajara",
-      "status": "timed",
-      "group": "H",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760476,
       "date": "2026-06-27",

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T23:50:47.662Z",
+  "lastUpdated": "2026-06-27T01:48:32.840Z",
   "fixtures": [
     {
       "id": 760415,
@@ -1564,11 +1564,11 @@
       "awayScore": 0,
       "venue": "NRG Stadium",
       "city": "Houston, Texas",
-      "status": "timed",
+      "status": "in_play",
       "group": "H",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "85'",
       "halfTime": [
         null,
         null
@@ -1586,14 +1586,14 @@
       "homeScore": 0,
       "awayTeam": "Spain",
       "awayCode": "es",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "Estadio Akron",
       "city": "Guadalajara",
-      "status": "timed",
+      "status": "in_play",
       "group": "H",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "84'",
       "halfTime": [
         null,
         null
