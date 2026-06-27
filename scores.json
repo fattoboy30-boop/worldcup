@@ -1,53 +1,6 @@
 {
-  "lastUpdated": "2026-06-27T01:48:32.836Z",
-  "liveMatches": [
-    {
-      "id": 760478,
-      "date": "2026-06-27",
-      "time": "00:00",
-      "utcDate": "2026-06-27T00:00Z",
-      "homeTeam": "Cape Verde",
-      "homeCode": "un",
-      "homeScore": 0,
-      "awayTeam": "Saudi Arabia",
-      "awayCode": "sa",
-      "awayScore": 0,
-      "venue": "NRG Stadium",
-      "city": "Houston, Texas",
-      "status": "in_play",
-      "group": "H",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": "85'",
-      "halfTime": [
-        null,
-        null
-      ]
-    },
-    {
-      "id": 760479,
-      "date": "2026-06-27",
-      "time": "00:00",
-      "utcDate": "2026-06-27T00:00Z",
-      "homeTeam": "Uruguay",
-      "homeCode": "uy",
-      "homeScore": 0,
-      "awayTeam": "Spain",
-      "awayCode": "es",
-      "awayScore": 1,
-      "venue": "Estadio Akron",
-      "city": "Guadalajara",
-      "status": "in_play",
-      "group": "H",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": "84'",
-      "halfTime": [
-        null,
-        null
-      ]
-    }
-  ],
+  "lastUpdated": "2026-06-27T02:58:49.878Z",
+  "liveMatches": [],
   "recentResults": [
     {
       "id": 760415,
@@ -1474,6 +1427,52 @@
         null,
         null
       ]
+    },
+    {
+      "id": 760478,
+      "date": "2026-06-27",
+      "time": "00:00",
+      "utcDate": "2026-06-27T00:00Z",
+      "homeTeam": "Cape Verde",
+      "homeCode": "un",
+      "homeScore": 0,
+      "awayTeam": "Saudi Arabia",
+      "awayCode": "sa",
+      "awayScore": 0,
+      "venue": "NRG Stadium",
+      "city": "Houston, Texas",
+      "status": "finished",
+      "group": "H",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": null,
+      "halfTime": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": 760479,
+      "date": "2026-06-27",
+      "time": "00:00",
+      "utcDate": "2026-06-27T00:00Z",
+      "homeTeam": "Uruguay",
+      "homeCode": "uy",
+      "homeScore": 0,
+      "awayTeam": "Spain",
+      "awayCode": "es",
+      "awayScore": 1,
+      "venue": "Estadio Akron",
+      "city": "Guadalajara",
+      "status": "finished",
+      "group": "H",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": null,
+      "halfTime": [
+        null,
+        null
+      ]
     }
   ],
   "upcomingMatches": [
@@ -1715,8 +1714,8 @@
       "homeTeam": "Germany",
       "homeCode": "de",
       "homeScore": 0,
-      "awayTeam": "Third Place Group A/B/C/D/F",
-      "awayCode": "un",
+      "awayTeam": "Paraguay",
+      "awayCode": "py",
       "awayScore": 0,
       "venue": "Gillette Stadium",
       "city": "Foxborough, Massachusetts",
@@ -1784,8 +1783,8 @@
       "homeTeam": "France",
       "homeCode": "fr",
       "homeScore": 0,
-      "awayTeam": "Third Place Group C/D/F/G/H",
-      "awayCode": "un",
+      "awayTeam": "Sweden",
+      "awayCode": "se",
       "awayScore": 0,
       "venue": "MetLife Stadium",
       "city": "East Rutherford, New Jersey",

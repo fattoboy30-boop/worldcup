@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T01:48:32.840Z",
+  "lastUpdated": "2026-06-27T02:58:49.883Z",
   "fixtures": [
     {
       "id": 760415,
@@ -1564,11 +1564,11 @@
       "awayScore": 0,
       "venue": "NRG Stadium",
       "city": "Houston, Texas",
-      "status": "in_play",
+      "status": "finished",
       "group": "H",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "85'",
+      "minute": null,
       "halfTime": [
         null,
         null
@@ -1589,11 +1589,11 @@
       "awayScore": 1,
       "venue": "Estadio Akron",
       "city": "Guadalajara",
-      "status": "in_play",
+      "status": "finished",
       "group": "H",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "84'",
+      "minute": null,
       "halfTime": [
         null,
         null
@@ -1859,8 +1859,8 @@
       "homeTeam": "Germany",
       "homeCode": "de",
       "homeScore": 0,
-      "awayTeam": "Third Place Group A/B/C/D/F",
-      "awayCode": "un",
+      "awayTeam": "Paraguay",
+      "awayCode": "py",
       "awayScore": 0,
       "venue": "Gillette Stadium",
       "city": "Foxborough, Massachusetts",
@@ -1874,7 +1874,7 @@
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/de.png",
-      "awayFlag": "https://flagcdn.com/w160/un.png"
+      "awayFlag": "https://flagcdn.com/w160/py.png"
     },
     {
       "id": 760488,
@@ -1934,8 +1934,8 @@
       "homeTeam": "France",
       "homeCode": "fr",
       "homeScore": 0,
-      "awayTeam": "Third Place Group C/D/F/G/H",
-      "awayCode": "un",
+      "awayTeam": "Sweden",
+      "awayCode": "se",
       "awayScore": 0,
       "venue": "MetLife Stadium",
       "city": "East Rutherford, New Jersey",
@@ -1949,7 +1949,7 @@
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/fr.png",
-      "awayFlag": "https://flagcdn.com/w160/un.png"
+      "awayFlag": "https://flagcdn.com/w160/se.png"
     },
     {
       "id": 760491,

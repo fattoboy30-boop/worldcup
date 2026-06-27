@@ -1,11 +1,30 @@
 {
-  "lastUpdated": "2026-06-26T23:47:59.836Z",
+  "lastUpdated": "2026-06-27T02:59:44.140Z",
   "featured": {
-    "match": "7fYG88iWFF8",
-    "highlight": "7fYG88iWFF8",
+    "match": "PbIiyslLRrc",
+    "highlight": "PbIiyslLRrc",
     "interview": "JHegyBue4YE"
   },
   "videos": [
+    {
+      "title": "Czechia vs. Mexico | FIFA World Cup 2026 | GAME IN 30 - YouTube",
+      "videoId": "PbIiyslLRrc",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Czechia",
+        "Czech"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/PbIiyslLRrc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico",
+      "source": "match-search"
+    },
     {
       "title": "Colombia vs. DR Congo Full Highlights | FIFA World Cup 2026",
       "videoId": "7fYG88iWFF8",
