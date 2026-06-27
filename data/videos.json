@@ -1,11 +1,49 @@
 {
-  "lastUpdated": "2026-06-27T19:25:58.331Z",
+  "lastUpdated": "2026-06-27T19:45:35.679Z",
   "featured": {
-    "match": "KRGWaxhTghg",
-    "highlight": "KRGWaxhTghg",
+    "match": "fVZw7FXJqMc",
+    "highlight": "fVZw7FXJqMc",
     "interview": "ABjZvLqrCZY"
   },
   "videos": [
+    {
+      "title": "Czechia vs. Mexico Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "fVZw7FXJqMc",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Czechia",
+        "Czech"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fVZw7FXJqMc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico",
+      "source": "match-search"
+    },
+    {
+      "title": "Czechia vs Mexico | Match Highlights | FIFA World Cup 2026™",
+      "videoId": "hfG1HyjN-do",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Czechia",
+        "Czech"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/hfG1HyjN-do/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico",
+      "source": "match-search"
+    },
     {
       "title": "Alt Cast Highlights: Cabo Verde v Saudi Arabia | FIFA World Cup 2026™",
       "videoId": "KRGWaxhTghg",
