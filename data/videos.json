@@ -1,46 +1,108 @@
 {
-  "lastUpdated": "2026-06-28T22:15:20.747Z",
+  "lastUpdated": "2026-06-28T23:07:10.282Z",
   "featured": {
-    "match": "_zbSbW0Y0AA",
-    "highlight": "_zbSbW0Y0AA",
-    "interview": "g5w1YXCGwW4"
+    "match": "aOGyEmGQkqc",
+    "highlight": "aOGyEmGQkqc",
+    "interview": "Lekk14o3bG0"
   },
   "videos": [
     {
-      "title": "Try it free - FIFA World Cup 2026 live",
-      "videoId": "_zbSbW0Y0AA",
-      "channel": "Web Search",
+      "title": "Stephen Eustáquio Goal | South Africa 0-1 Canada",
+      "videoId": "aOGyEmGQkqc",
+      "channel": "FIFA",
       "publishedAt": "2026-06-28",
       "category": "Highlights",
       "team": [
-        "Paraguay",
-        "Australia"
+        "Canada",
+        "South Africa"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_zbSbW0Y0AA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/aOGyEmGQkqc/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Paraguay vs Australia",
-      "source": "match-search"
+      "fixtureTeams": "Czechia vs Mexico"
     },
     {
-      "title": "HIGHLIGHTS - Paraguay v Australia | FIFA World Cup 2026 - YouTube",
-      "videoId": "VxNAVcCwqRk",
-      "channel": "Web Search",
+      "title": "A massive defensive effort from South Africa 🇿🇦 #FIFAWorldCupOnYT",
+      "videoId": "9FfjsWoDJ_o",
+      "channel": "FIFA",
       "publishedAt": "2026-06-28",
       "category": "Highlights",
       "team": [
-        "Australia",
-        "Paraguay"
+        "South Africa"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/VxNAVcCwqRk/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/9FfjsWoDJ_o/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Paraguay vs Australia",
-      "source": "match-search"
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "Eustaquio’s unforgettable goal that made Canadian history 🇨🇦  #FIFAWorldCupOnYT",
+      "videoId": "EpUg3tCNeYY",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/EpUg3tCNeYY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "South Africa 🆚 Canada #FIFAWorldCupOnYT #shorts #worldcup",
+      "videoId": "Eov-gTtnKKg",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Canada",
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Eov-gTtnKKg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "Post-Match Press Conference: South Africa's Hugo Broos On The 1-0 Loss To Canada",
+      "videoId": "njVIS99154g",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Canada",
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/njVIS99154g/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "Japan Train Before Brazil | FIFA World Cup 2026™",
+      "videoId": "Vf8Vd1ctaZM",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Vf8Vd1ctaZM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
     },
     {
       "title": "WATCH LIVE | South Africa v Canada | Round of 32 | FIFA World Cup 2026™",
@@ -55,6 +117,23 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/UE4TXY0uaSI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "Brazil Train Before Japan | FIFA World Cup 2026™",
+      "videoId": "-2LISS18if0",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-2LISS18if0/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Czechia vs Mexico"
@@ -169,117 +248,76 @@
       "fixtureTeams": "Czechia vs Mexico"
     },
     {
-      "title": "15-Minute Match: Morocco vs Netherlands | 1994 Tussle",
-      "videoId": "vR_S_h8fW4s",
-      "channel": "FIFA",
+      "title": "Frank Leboeuf & Craig Burley reveal their World Cup knockout brackets | ESPN FC",
+      "videoId": "BpXew5RTzzQ",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-28",
       "category": "Highlights",
-      "team": [
-        "Netherlands",
-        "Morocco"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vR_S_h8fW4s/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/BpXew5RTzzQ/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Czechia vs Mexico"
     },
     {
-      "title": "Alt Cast Highlights: Colombia v Portugal | FIFA World Cup 2026™",
-      "videoId": "h6fFpUirW_Y",
-      "channel": "FIFA",
+      "title": "United States vs. Bosnia and Herzegovina preview 🍿 How far can USMNT go? | ESPN FC",
+      "videoId": "7HKogjz_K9s",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-28",
       "category": "Highlights",
       "team": [
-        "Portugal",
-        "Colombia"
+        "Bosnia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/h6fFpUirW_Y/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/7HKogjz_K9s/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Czechia vs Mexico"
     },
     {
-      "title": "Alt Cast Highlights: Croatia v Ghana | FIFA World Cup 2026™",
-      "videoId": "9NJ9BrTOQtc",
-      "channel": "FIFA",
+      "title": "Jurgen Klopp reflects on the exciting style of play Liverpool played under him | ESPN FC",
+      "videoId": "1H7v4b8Ibbg",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-28",
       "category": "Highlights",
-      "team": [
-        "Croatia",
-        "Ghana"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/9NJ9BrTOQtc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/1H7v4b8Ibbg/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Czechia vs Mexico"
     },
     {
-      "title": "Alt Cast Highlights: Panama v England | FIFA World Cup 2026™",
-      "videoId": "I4RlYlwlnsQ",
-      "channel": "FIFA",
+      "title": "REACTION to Carlos Queiroz and Jose Mourinho criticizing the 48-team World Cup format | ESPN FC",
+      "videoId": "Lekk14o3bG0",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "England"
-      ],
+      "category": "Viral",
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/I4RlYlwlnsQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Lekk14o3bG0/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Czechia vs Mexico"
     },
     {
-      "title": "WATCH LIVE | Brazil v Japan | Round of 32 | FIFA World Cup 2026™",
-      "videoId": "l2B8yesmil8",
-      "channel": "FIFA",
+      "title": "Round of 32 Reaction ⚽ Canada ELIMINATES South Africa from the World Cup | ESPN FC",
+      "videoId": "ySRuciXdicg",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-28",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [
-        "Brazil",
-        "Japan"
+        "Canada",
+        "South Africa"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/l2B8yesmil8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Team Feature: Morocco | From U20 Champions to the Senior Stage: Coach Ouahbi and Gessime Yassine",
-      "videoId": "IhaEQWdlfPg",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/IhaEQWdlfPg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Team Feature: Netherlands | \"Best Team To Never Win World Cup\"",
-      "videoId": "nB4YC3py-Is",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Netherlands"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/nB4YC3py-Is/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/ySRuciXdicg/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Czechia vs Mexico"
@@ -440,84 +478,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/PUi9DP3e7o8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Can Lionel Messi lead Argentina to another World Cup trophy? 🏆 | ESPN FC",
-      "videoId": "LS8j7VrNqPk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/LS8j7VrNqPk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "REACTION to Steve Clarke stepping down as Scotland head coach 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | ESPN FC",
-      "videoId": "uDVo5dm2khs",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-28",
-      "category": "Viral",
-      "team": [
-        "Scotland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/uDVo5dm2khs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "'We just witnessed greatness' - Jurgen Klopp on Mo Salah's career at Liverpool | ESPN FC",
-      "videoId": "ykTIdyA7Fe0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ykTIdyA7Fe0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Predicting the entire 2026 World Cup Knockout Rounds 🍿 Can anyone stop France? | ESPN FC",
-      "videoId": "2lZtWhv4NzY",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "France"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/2lZtWhv4NzY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Messi SCORES AGAIN 🤯 Is Argentina primed for another run to the World Cup final? 👀 | ESPN FC",
-      "videoId": "egiX2Eoc7WM",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/egiX2Eoc7WM/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Czechia vs Mexico"
