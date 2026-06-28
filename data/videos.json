@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-28T15:20:31.707Z",
+  "lastUpdated": "2026-06-28T15:49:52.724Z",
   "featured": {
-    "match": "TLLWysHfwWc",
-    "highlight": "TLLWysHfwWc",
+    "match": "_zbSbW0Y0AA",
+    "highlight": "_zbSbW0Y0AA",
     "interview": "nen7FfcnJGs"
   },
   "videos": [
+    {
+      "title": "HIGHLIGHTS - Paraguay v Australia | FIFA World Cup 2026 - YouTube",
+      "videoId": "_zbSbW0Y0AA",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Australia",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_zbSbW0Y0AA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia",
+      "source": "match-search"
+    },
+    {
+      "title": "Paraguay vs Australia Extended Highlights 2026 FIFA World Cup™",
+      "videoId": "NdgZtyReLbY",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Australia",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/NdgZtyReLbY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia",
+      "source": "match-search"
+    },
     {
       "title": "Team Feature: Germany | Undav: \"Scoring Goals is in My Blood\"",
       "videoId": "TLLWysHfwWc",
