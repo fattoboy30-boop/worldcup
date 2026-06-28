@@ -1,64 +1,142 @@
 {
-  "lastUpdated": "2026-06-28T17:11:24.670Z",
+  "lastUpdated": "2026-06-28T17:17:13.643Z",
   "featured": {
-    "match": "0zs8O3N0F4c",
-    "highlight": "0zs8O3N0F4c",
-    "interview": "nen7FfcnJGs"
+    "match": "h6fFpUirW_Y",
+    "highlight": "h6fFpUirW_Y",
+    "interview": "g5w1YXCGwW4"
   },
   "videos": [
     {
-      "title": "Alt Cast Highlights: Paraguay v Australia | FIFA World Cup 2026™",
-      "videoId": "0zs8O3N0F4c",
-      "channel": "Web Search",
+      "title": "Alt Cast Highlights: Colombia v Portugal | FIFA World Cup 2026™",
+      "videoId": "h6fFpUirW_Y",
+      "channel": "FIFA",
       "publishedAt": "2026-06-28",
       "category": "Highlights",
       "team": [
-        "Australia",
-        "Paraguay"
+        "Portugal",
+        "Colombia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/0zs8O3N0F4c/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/h6fFpUirW_Y/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Paraguay vs Australia",
-      "source": "match-search"
+      "fixtureTeams": "Czechia vs Mexico"
     },
     {
-      "title": "HIGHLIGHTS - Paraguay v Australia | FIFA World Cup 2026 - YouTube",
-      "videoId": "_zbSbW0Y0AA",
-      "channel": "Web Search",
+      "title": "Alt Cast Highlights: Croatia v Ghana | FIFA World Cup 2026™",
+      "videoId": "9NJ9BrTOQtc",
+      "channel": "FIFA",
       "publishedAt": "2026-06-28",
       "category": "Highlights",
       "team": [
-        "Australia",
-        "Paraguay"
+        "Croatia",
+        "Ghana"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_zbSbW0Y0AA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/9NJ9BrTOQtc/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Paraguay vs Australia",
-      "source": "match-search"
+      "fixtureTeams": "Czechia vs Mexico"
     },
     {
-      "title": "Paraguay vs Australia Extended Highlights 2026 FIFA World Cup™",
-      "videoId": "NdgZtyReLbY",
-      "channel": "Web Search",
+      "title": "Alt Cast Highlights: Panama v England | FIFA World Cup 2026™",
+      "videoId": "I4RlYlwlnsQ",
+      "channel": "FIFA",
       "publishedAt": "2026-06-28",
       "category": "Highlights",
       "team": [
-        "Australia",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/I4RlYlwlnsQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "WATCH LIVE | Brazil v Japan | Round of 32 | FIFA World Cup 2026™",
+      "videoId": "l2B8yesmil8",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/l2B8yesmil8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "WATCH LIVE | South Africa v Canada | Round of 32 | FIFA World Cup 2026™",
+      "videoId": "UE4TXY0uaSI",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Canada",
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/UE4TXY0uaSI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "Team Feature: Morocco | From U20 Champions to the Senior Stage: Coach Ouahbi and Gessime Yassine",
+      "videoId": "IhaEQWdlfPg",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/IhaEQWdlfPg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "Team Feature: Netherlands | \"Best Team To Never Win World Cup\"",
+      "videoId": "nB4YC3py-Is",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Netherlands"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/nB4YC3py-Is/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "Team Feature: Paraguay | Bobadilla Legacy: Aldo and Damian on Their Shared World Cup Journeys",
+      "videoId": "8YqbXra3KtA",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
         "Paraguay"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/NdgZtyReLbY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/8YqbXra3KtA/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Paraguay vs Australia",
-      "source": "match-search"
+      "fixtureTeams": "Czechia vs Mexico"
     },
     {
       "title": "Team Feature: Germany | Undav: \"Scoring Goals is in My Blood\"",
@@ -176,131 +254,32 @@
       "fixtureTeams": "Czechia vs Mexico"
     },
     {
-      "title": "Post-Match Press Conference: Jordan's Jamal Sellami On 3-1 Loss To Argentina",
-      "videoId": "w1wAB5RBwow",
-      "channel": "FIFA",
+      "title": "Why Spain or Portugal could be a PROBLEM for the USMNT in the World Cup 👀 | SportsCenter",
+      "videoId": "TAcAbLK8cSQ",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-28",
       "category": "Highlights",
       "team": [
-        "Argentina"
+        "Spain",
+        "Portugal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/w1wAB5RBwow/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/TAcAbLK8cSQ/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Czechia vs Mexico"
     },
     {
-      "title": "Post-Match Press Conference: Austria's Ralf Rangnick On 3-3 Draw With Algeria",
-      "videoId": "_wIksaQBY8M",
-      "channel": "FIFA",
+      "title": "Antonio Rudiger is too funny 😂 (via shootingstarsfcgh, realmadrid/TT)",
+      "videoId": "g5w1YXCGwW4",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Algeria",
-        "Austria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_wIksaQBY8M/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Post-Match Press Conference: Algeria's Vladimir Petković On 3-3 Draw With Austria",
-      "videoId": "lmGg4b-sXO4",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Algeria",
-        "Austria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/lmGg4b-sXO4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Post-Match Player Interviews: Colombia 0-0 Portugal",
-      "videoId": "F06pV_nybmg",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Portugal",
-        "Colombia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/F06pV_nybmg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Post-Match Player Interviews: Congo DR 3-1 Uzbekistan",
-      "videoId": "uEhPusfGd1g",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/uEhPusfGd1g/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Post-Match Player Interviews: Jordan 1-3 Argentina",
-      "videoId": "nTwfMMgp2i4",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/nTwfMMgp2i4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Post-Match Player Interviews: Algeria 3-3 Austria",
-      "videoId": "tYqjtHga2DM",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Algeria",
-        "Austria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/tYqjtHga2DM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Lionel Messi Goal | Jordan 1-3 Argentina | FIFA World Cup 2026™",
-      "videoId": "r4VNLBedQbs",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/r4VNLBedQbs/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/g5w1YXCGwW4/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Czechia vs Mexico"
@@ -508,40 +487,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/egiX2Eoc7WM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "‘England can beat ANYONE’ 😳 How far will they go in the 2026 World Cup? | ESPN FC",
-      "videoId": "VjDE2VGkC_c",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/VjDE2VGkC_c/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Breaking down Portugal’s path to the World Cup Final 👀 Can they beat Spain and France? | ESPN FC",
-      "videoId": "HBEcnCp8aPE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Spain",
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/HBEcnCp8aPE/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Czechia vs Mexico"
