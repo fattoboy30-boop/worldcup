@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T21:00:25.022Z",
+  "lastUpdated": "2026-06-28T21:46:36.943Z",
   "liveMatches": [],
   "recentResults": [
     {
@@ -2033,8 +2033,8 @@
       "date": "2026-07-04",
       "time": "17:00",
       "utcDate": "2026-07-04T17:00Z",
-      "homeTeam": "Canada",
-      "homeCode": "ca",
+      "homeTeam": "Round of 32 1 Winner",
+      "homeCode": "un",
       "homeScore": 0,
       "awayTeam": "Round of 32 3 Winner",
       "awayCode": "un",
@@ -2042,7 +2042,7 @@
       "venue": "NRG Stadium",
       "city": "Houston, Texas",
       "status": "timed",
-      "group": "B",
+      "group": null,
       "stage": "ROUND_OF_16",
       "matchday": 0,
       "minute": null,
