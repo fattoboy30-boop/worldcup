@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T04:54:38.213Z",
+  "lastUpdated": "2026-06-28T06:00:35.909Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2059,8 +2059,8 @@
       "homeTeam": "Spain",
       "homeCode": "es",
       "homeScore": 0,
-      "awayTeam": "Group J 2nd Place",
-      "awayCode": "un",
+      "awayTeam": "Austria",
+      "awayCode": "at",
       "awayScore": 0,
       "venue": "SoFi Stadium",
       "city": "Inglewood, California",
@@ -2074,7 +2074,7 @@
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/es.png",
-      "awayFlag": "https://flagcdn.com/w160/un.png"
+      "awayFlag": "https://flagcdn.com/w160/at.png"
     },
     {
       "id": 760496,
@@ -2109,7 +2109,7 @@
       "homeTeam": "Switzerland",
       "homeCode": "ch",
       "homeScore": 0,
-      "awayTeam": "Third Place Group E/F/G/I/J",
+      "awayTeam": "Algeria",
       "awayCode": "un",
       "awayScore": 0,
       "venue": "BC Place",
