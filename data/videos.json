@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-06-27T23:05:43.616Z",
+  "lastUpdated": "2026-06-28T00:15:02.922Z",
   "featured": {
-    "match": "6N2BzwoMrCw",
-    "highlight": "6N2BzwoMrCw",
+    "match": "_zbSbW0Y0AA",
+    "highlight": "_zbSbW0Y0AA",
     "interview": "ABjZvLqrCZY"
   },
   "videos": [
+    {
+      "title": "HIGHLIGHTS - Paraguay v Australia | FIFA World Cup 2026 - YouTube",
+      "videoId": "_zbSbW0Y0AA",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Australia",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_zbSbW0Y0AA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia",
+      "source": "match-search"
+    },
     {
       "title": "Highlights |  Senegal 5-0 Iraq | FIFA World Cup 2026™",
       "videoId": "6N2BzwoMrCw",

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T23:31:23.999Z",
+  "lastUpdated": "2026-06-28T00:14:12.595Z",
   "fixtures": [
     {
       "id": 760415,
@@ -1714,11 +1714,11 @@
       "awayScore": 0,
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens, Florida",
-      "status": "timed",
+      "status": "in_play",
       "group": "K",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "42'",
       "halfTime": [
         null,
         null
@@ -1736,14 +1736,14 @@
       "homeScore": 0,
       "awayTeam": "Uzbekistan",
       "awayCode": "un",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta, Georgia",
-      "status": "timed",
+      "status": "in_play",
       "group": "K",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": null,
+      "minute": "42'",
       "halfTime": [
         null,
         null

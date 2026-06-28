@@ -1,6 +1,53 @@
 {
-  "lastUpdated": "2026-06-27T23:31:23.995Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-06-28T00:14:12.590Z",
+  "liveMatches": [
+    {
+      "id": 760481,
+      "date": "2026-06-27",
+      "time": "23:30",
+      "utcDate": "2026-06-27T23:30Z",
+      "homeTeam": "Colombia",
+      "homeCode": "co",
+      "homeScore": 0,
+      "awayTeam": "Portugal",
+      "awayCode": "pt",
+      "awayScore": 0,
+      "venue": "Hard Rock Stadium",
+      "city": "Miami Gardens, Florida",
+      "status": "in_play",
+      "group": "K",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "42'",
+      "halfTime": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": 760482,
+      "date": "2026-06-27",
+      "time": "23:30",
+      "utcDate": "2026-06-27T23:30Z",
+      "homeTeam": "Congo DR",
+      "homeCode": "un",
+      "homeScore": 0,
+      "awayTeam": "Uzbekistan",
+      "awayCode": "un",
+      "awayScore": 1,
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta, Georgia",
+      "status": "in_play",
+      "group": "K",
+      "stage": "GROUP_STAGE",
+      "matchday": 0,
+      "minute": "42'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -1568,52 +1615,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760481,
-      "date": "2026-06-27",
-      "time": "23:30",
-      "utcDate": "2026-06-27T23:30Z",
-      "homeTeam": "Colombia",
-      "homeCode": "co",
-      "homeScore": 0,
-      "awayTeam": "Portugal",
-      "awayCode": "pt",
-      "awayScore": 0,
-      "venue": "Hard Rock Stadium",
-      "city": "Miami Gardens, Florida",
-      "status": "timed",
-      "group": "K",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
-    {
-      "id": 760482,
-      "date": "2026-06-27",
-      "time": "23:30",
-      "utcDate": "2026-06-27T23:30Z",
-      "homeTeam": "Congo DR",
-      "homeCode": "un",
-      "homeScore": 0,
-      "awayTeam": "Uzbekistan",
-      "awayCode": "un",
-      "awayScore": 0,
-      "venue": "Mercedes-Benz Stadium",
-      "city": "Atlanta, Georgia",
-      "status": "timed",
-      "group": "K",
-      "stage": "GROUP_STAGE",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760484,
       "date": "2026-06-28",
