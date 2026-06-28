@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-28T13:54:43.570Z",
+  "lastUpdated": "2026-06-28T14:16:54.190Z",
   "featured": {
-    "match": "eOmSHezhXsk",
-    "highlight": "eOmSHezhXsk",
+    "match": "_zbSbW0Y0AA",
+    "highlight": "_zbSbW0Y0AA",
     "interview": "uDVo5dm2khs"
   },
   "videos": [
+    {
+      "title": "HIGHLIGHTS - Paraguay v Australia | FIFA World Cup 2026 - YouTube",
+      "videoId": "_zbSbW0Y0AA",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Australia",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_zbSbW0Y0AA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia",
+      "source": "match-search"
+    },
+    {
+      "title": "Alt Cast Highlights: Paraguay v Australia | FIFA World Cup 2026™",
+      "videoId": "0zs8O3N0F4c",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Australia",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0zs8O3N0F4c/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia",
+      "source": "match-search"
+    },
     {
       "title": "Team Feature: Brazil | Neymar \"A Leader Who Brings Happiness To The Team\"",
       "videoId": "eOmSHezhXsk",
