@@ -1,46 +1,59 @@
 {
-  "lastUpdated": "2026-06-28T14:16:54.190Z",
+  "lastUpdated": "2026-06-28T15:20:31.707Z",
   "featured": {
-    "match": "_zbSbW0Y0AA",
-    "highlight": "_zbSbW0Y0AA",
-    "interview": "uDVo5dm2khs"
+    "match": "TLLWysHfwWc",
+    "highlight": "TLLWysHfwWc",
+    "interview": "nen7FfcnJGs"
   },
   "videos": [
     {
-      "title": "HIGHLIGHTS - Paraguay v Australia | FIFA World Cup 2026 - YouTube",
-      "videoId": "_zbSbW0Y0AA",
-      "channel": "Web Search",
+      "title": "Team Feature: Germany | Undav: \"Scoring Goals is in My Blood\"",
+      "videoId": "TLLWysHfwWc",
+      "channel": "FIFA",
       "publishedAt": "2026-06-28",
       "category": "Highlights",
       "team": [
-        "Australia",
-        "Paraguay"
+        "Germany"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_zbSbW0Y0AA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/TLLWysHfwWc/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Paraguay vs Australia",
-      "source": "match-search"
+      "fixtureTeams": "Czechia vs Mexico"
     },
     {
-      "title": "Alt Cast Highlights: Paraguay v Australia | FIFA World Cup 2026™",
-      "videoId": "0zs8O3N0F4c",
-      "channel": "Web Search",
+      "title": "15-Minute Match: Germany vs Paraguay | 2002 Nail-Biter",
+      "videoId": "CRXuTA_Hm7U",
+      "channel": "FIFA",
       "publishedAt": "2026-06-28",
       "category": "Highlights",
       "team": [
-        "Australia",
+        "Germany",
         "Paraguay"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/0zs8O3N0F4c/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/CRXuTA_Hm7U/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Paraguay vs Australia",
-      "source": "match-search"
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "Team Feature: Japan | The 2026 World Cup Dark Horses?",
+      "videoId": "JzAK5U7lLOk",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JzAK5U7lLOk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
     },
     {
       "title": "Team Feature: Brazil | Neymar \"A Leader Who Brings Happiness To The Team\"",
@@ -239,49 +252,130 @@
       "fixtureTeams": "Czechia vs Mexico"
     },
     {
-      "title": "Musa Al-Taamari Goal | Jordan 1-3 Argentina | FIFA World Cup 2026™",
-      "videoId": "xxLycmHq_xI",
-      "channel": "FIFA",
+      "title": "Ale Moreno said this after Portugal’s match against DR Congo 😮",
+      "videoId": "mBQSM6E07XA",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-28",
       "category": "Highlights",
+      "team": [
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/mBQSM6E07XA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "BORING Portugal & Argentina DELIVER ⚽ How Ronaldo & Messi's squads are performing | ESPN FC",
+      "videoId": "nen7FfcnJGs",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-28",
+      "category": "Viral",
       "team": [
         "Argentina",
-        "USA"
+        "Portugal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xxLycmHq_xI/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/nen7FfcnJGs/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Czechia vs Mexico"
     },
     {
-      "title": "Saša Kalajdžić Goal | Algeria 3-3 Austria | FIFA World Cup 2026™",
-      "videoId": "Rrb3SxpxvuQ",
-      "channel": "FIFA",
+      "title": "Ale Moreno on Argentina's win against Jordan 👏",
+      "videoId": "s9JNgDuNY6s",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-28",
       "category": "Highlights",
       "team": [
-        "Algeria",
-        "Austria"
+        "Argentina"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Rrb3SxpxvuQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/s9JNgDuNY6s/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Czechia vs Mexico"
     },
     {
-      "title": "June 27 Matchday Recap | #FIFAWorldCup @aramco",
-      "videoId": "lh2srQ_p8FE",
-      "channel": "FIFA",
+      "title": "Vinicius Jr. has played VERY, VERY WELL 👏 Will he do it again in Brazil vs. Japan? | ESPN FC",
+      "videoId": "OTuZfUU1A7E",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/OTuZfUU1A7E/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "It's the best team the U.S. has ever had! - Jurgen Klopp on USMNT's 2026 WC performance | ESPN FC",
+      "videoId": "DHBfw3TPrkM",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-28",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/lh2srQ_p8FE/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/DHBfw3TPrkM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "Like a TRAINING SESSION for Lionel Messi 😬 Ale Moreno reacts to Argentina defeating Jordan | ESPN FC",
+      "videoId": "3E52MCARxZg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-28",
+      "category": "Viral",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/3E52MCARxZg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "Shaka Hislop isn't convinced England can go far in the World Cup 👀 | ESPN FC",
+      "videoId": "jUzmUvmTcLI",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jUzmUvmTcLI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "Portugal was underwhelming vs. Colombia! - Ale Moreno on draw in Group K stage | ESPN FC",
+      "videoId": "PUi9DP3e7o8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Portugal",
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/PUi9DP3e7o8/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Czechia vs Mexico"
@@ -397,126 +491,6 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "aura (via rafasmithe/IG)",
-      "videoId": "WgRWLJjzlwY",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/WgRWLJjzlwY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Colombia vs. Portugal FULL REACTION 🍿 How can Portugal improve? | ESPN FC",
-      "videoId": "k37P86BkDzg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-28",
-      "category": "Viral",
-      "team": [
-        "Portugal",
-        "Colombia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/k37P86BkDzg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Speed is locked in for Ronaldo 😂 (via @IShowSpeed)",
-      "videoId": "TemBQIsxQI0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/TemBQIsxQI0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Croatia is 'a very limited side' 🗣️ REACTION to win over Ghana to advance to knockouts | ESPN FC",
-      "videoId": "dBCs1Yzbd3I",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-27",
-      "category": "Viral",
-      "team": [
-        "Croatia",
-        "Ghana"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/dBCs1Yzbd3I/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Concerns for England going into knockouts⁉️ REACTION to victory over Panama | ESPN FC",
-      "videoId": "VgNeBzo4-Qs",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-27",
-      "category": "Viral",
-      "team": [
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/VgNeBzo4-Qs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "They’re bullying Messi 😂😂",
-      "videoId": "ijGICsNrvjE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ijGICsNrvjE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "😭😭😭 (via @plaqueboymax555/TT)",
-      "videoId": "EGZRZYSAuDk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/EGZRZYSAuDk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Which star is more critical to their team: Erling Haaland or Kylian Mbappe? | SportsCenter",
-      "videoId": "xvUCnTtlMwg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xvUCnTtlMwg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
     }
   ]
 }
