@@ -1,46 +1,119 @@
 {
-  "lastUpdated": "2026-06-28T18:18:56.084Z",
+  "lastUpdated": "2026-06-28T19:26:23.500Z",
   "featured": {
-    "match": "_zbSbW0Y0AA",
-    "highlight": "_zbSbW0Y0AA",
+    "match": "UE4TXY0uaSI",
+    "highlight": "UE4TXY0uaSI",
     "interview": "g5w1YXCGwW4"
   },
   "videos": [
     {
-      "title": "HIGHLIGHTS - Paraguay v Australia | FIFA World Cup 2026 - YouTube",
-      "videoId": "_zbSbW0Y0AA",
-      "channel": "Web Search",
+      "title": "WATCH LIVE | South Africa v Canada | Round of 32 | FIFA World Cup 2026™",
+      "videoId": "UE4TXY0uaSI",
+      "channel": "FIFA",
       "publishedAt": "2026-06-28",
       "category": "Highlights",
       "team": [
-        "Australia",
-        "Paraguay"
+        "Canada",
+        "South Africa"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_zbSbW0Y0AA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/UE4TXY0uaSI/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Paraguay vs Australia",
-      "source": "match-search"
+      "fixtureTeams": "Czechia vs Mexico"
     },
     {
-      "title": "Alt Cast Highlights: Paraguay v Australia | FIFA World Cup 2026™",
-      "videoId": "0zs8O3N0F4c",
-      "channel": "Web Search",
+      "title": "Messi Breaks the World Cup Goalscoring Record | Ref's POV | Powered by Lenovo",
+      "videoId": "_sC9UZMg3ko",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_sC9UZMg3ko/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "Alt Cast Highlights: Algeria v Austria | FIFA World Cup 2026™",
+      "videoId": "xl541SKfhpU",
+      "channel": "FIFA",
       "publishedAt": "2026-06-28",
       "category": "Highlights",
       "team": [
-        "Australia",
-        "Paraguay"
+        "Algeria",
+        "Austria"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/0zs8O3N0F4c/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/xl541SKfhpU/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Paraguay vs Australia",
-      "source": "match-search"
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "Alt Cast Highlights: Jordan v Argentina | FIFA World Cup 2026™",
+      "videoId": "PX5plSqcJ8w",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/PX5plSqcJ8w/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "Hyundai Goal of the Tournament | Best Goals of the Group Stage | FIFA World Cup 2026™",
+      "videoId": "baEmWbhfemI",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/baEmWbhfemI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "Alt Cast Highlights: Congo DR v Uzbekistan | FIFA World Cup 2026™",
+      "videoId": "_5C7-jRaVLk",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_5C7-jRaVLk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "15-Minute Match: Morocco vs Netherlands | 1994 Tussle",
+      "videoId": "vR_S_h8fW4s",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vR_S_h8fW4s/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
     },
     {
       "title": "Alt Cast Highlights: Colombia v Portugal | FIFA World Cup 2026™",
@@ -110,23 +183,6 @@
       "fixtureTeams": "Czechia vs Mexico"
     },
     {
-      "title": "WATCH LIVE | South Africa v Canada | Round of 32 | FIFA World Cup 2026™",
-      "videoId": "UE4TXY0uaSI",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Canada",
-        "South Africa"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/UE4TXY0uaSI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
       "title": "Team Feature: Morocco | From U20 Champions to the Senior Stage: Coach Ouahbi and Gessime Yassine",
       "videoId": "IhaEQWdlfPg",
       "channel": "FIFA",
@@ -186,105 +242,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/TLLWysHfwWc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "15-Minute Match: Germany vs Paraguay | 2002 Nail-Biter",
-      "videoId": "CRXuTA_Hm7U",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Germany",
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/CRXuTA_Hm7U/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Team Feature: Japan | The 2026 World Cup Dark Horses?",
-      "videoId": "JzAK5U7lLOk",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Japan"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/JzAK5U7lLOk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Team Feature: Brazil | Neymar \"A Leader Who Brings Happiness To The Team\"",
-      "videoId": "eOmSHezhXsk",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Brazil"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/eOmSHezhXsk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Match Preview: Brazil vs Japan | FIFA World Cup 2026™",
-      "videoId": "sRg7HCNC8-A",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Japan"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/sRg7HCNC8-A/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "15-Minute Match: Brazil vs Japan | 2006 Masterclass",
-      "videoId": "K3tONCLv5DQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Japan"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/K3tONCLv5DQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Post-Match Press Conference: Argentina's Lionel Scaloni On 3-1 Win Against Jordan",
-      "videoId": "hDGjAjnT3Eo",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/hDGjAjnT3Eo/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Czechia vs Mexico"
