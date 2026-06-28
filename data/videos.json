@@ -1,11 +1,110 @@
 {
-  "lastUpdated": "2026-06-28T11:10:49.732Z",
+  "lastUpdated": "2026-06-28T13:54:43.570Z",
   "featured": {
-    "match": "lmGg4b-sXO4",
-    "highlight": "lmGg4b-sXO4",
+    "match": "eOmSHezhXsk",
+    "highlight": "eOmSHezhXsk",
     "interview": "uDVo5dm2khs"
   },
   "videos": [
+    {
+      "title": "Team Feature: Brazil | Neymar \"A Leader Who Brings Happiness To The Team\"",
+      "videoId": "eOmSHezhXsk",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Brazil"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/eOmSHezhXsk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "Match Preview: Brazil vs Japan | FIFA World Cup 2026™",
+      "videoId": "sRg7HCNC8-A",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/sRg7HCNC8-A/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "15-Minute Match: Brazil vs Japan | 2006 Masterclass",
+      "videoId": "K3tONCLv5DQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/K3tONCLv5DQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "Post-Match Press Conference: Argentina's Lionel Scaloni On 3-1 Win Against Jordan",
+      "videoId": "hDGjAjnT3Eo",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/hDGjAjnT3Eo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "Post-Match Press Conference: Jordan's Jamal Sellami On 3-1 Loss To Argentina",
+      "videoId": "w1wAB5RBwow",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/w1wAB5RBwow/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "Post-Match Press Conference: Austria's Ralf Rangnick On 3-3 Draw With Algeria",
+      "videoId": "_wIksaQBY8M",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Algeria",
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_wIksaQBY8M/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
     {
       "title": "Post-Match Press Conference: Algeria's Vladimir Petković On 3-3 Draw With Austria",
       "videoId": "lmGg4b-sXO4",
@@ -147,102 +246,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/lh2srQ_p8FE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Mahrez scores Algeria’s third goal against Austria ⚽️ #FIFAWorldCupOnYT",
-      "videoId": "tlLlLk0MAJY",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Algeria",
-        "Austria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/tlLlLk0MAJY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Lautaro Martinez scores Argentina’s second goal against Jordan 🎯 #FIFAWorldCupOnYT",
-      "videoId": "J3jnGzjUpCo",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/J3jnGzjUpCo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Giovani Lo Celso scores his first World Cup goal for Argentina ⚽️ #FIFAWorldCupOnYT",
-      "videoId": "qioeLeH2mGw",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/qioeLeH2mGw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Sasa Kalajdzic scores Austria’s qualifying goal for the Round of 32 ✅ #FIFAWorldCupOnYT",
-      "videoId": "hBTCde6bojk",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Austria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/hBTCde6bojk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Riyad Mahrez Goal | Algeria 3-3 Austria | FIFA World Cup 2026™",
-      "videoId": "eFvAh8ULrv0",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Algeria",
-        "Austria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/eFvAh8ULrv0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Great Knockout Goals In World Cup History (1990-2006)",
-      "videoId": "rPShv8-IemQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/rPShv8-IemQ/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Czechia vs Mexico"
