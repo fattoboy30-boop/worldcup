@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T00:14:12.596Z",
+  "lastUpdated": "2026-06-28T01:36:23.020Z",
   "groups": {
     "A": {
       "teams": [
@@ -566,27 +566,27 @@
         {
           "name": "Colombia",
           "code": "co",
-          "played": 2,
+          "played": 3,
           "won": 2,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 0,
           "gf": 4,
           "ga": 1,
           "gd": 3,
-          "points": 6,
+          "points": 7,
           "position": 1
         },
         {
           "name": "Portugal",
           "code": "pt",
-          "played": 2,
+          "played": 3,
           "won": 1,
-          "drawn": 1,
+          "drawn": 2,
           "lost": 0,
           "gf": 6,
           "ga": 1,
           "gd": 5,
-          "points": 4,
+          "points": 5,
           "position": 2
         },
         {

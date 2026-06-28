@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T00:14:12.595Z",
+  "lastUpdated": "2026-06-28T01:36:23.019Z",
   "fixtures": [
     {
       "id": 760415,
@@ -1714,11 +1714,11 @@
       "awayScore": 0,
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens, Florida",
-      "status": "in_play",
+      "status": "finished",
       "group": "K",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "42'",
+      "minute": null,
       "halfTime": [
         null,
         null
@@ -1733,7 +1733,7 @@
       "utcDate": "2026-06-27T23:30Z",
       "homeTeam": "Congo DR",
       "homeCode": "un",
-      "homeScore": 0,
+      "homeScore": 3,
       "awayTeam": "Uzbekistan",
       "awayCode": "un",
       "awayScore": 1,
@@ -1743,7 +1743,7 @@
       "group": "K",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "42'",
+      "minute": "90'+8'",
       "halfTime": [
         null,
         null
@@ -1981,8 +1981,8 @@
       "date": "2026-07-01",
       "time": "16:00",
       "utcDate": "2026-07-01T16:00Z",
-      "homeTeam": "Group L Winner",
-      "homeCode": "un",
+      "homeTeam": "England",
+      "homeCode": "gb-eng",
       "homeScore": 0,
       "awayTeam": "Third Place Group E/H/I/J/K",
       "awayCode": "un",
@@ -1990,7 +1990,7 @@
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta, Georgia",
       "status": "timed",
-      "group": null,
+      "group": "L",
       "stage": "ROUND_OF_32",
       "matchday": 0,
       "minute": null,
@@ -1998,7 +1998,7 @@
         null,
         null
       ],
-      "homeFlag": "https://flagcdn.com/w160/un.png",
+      "homeFlag": "https://flagcdn.com/w160/gb-eng.png",
       "awayFlag": "https://flagcdn.com/w160/un.png"
     },
     {
@@ -2084,13 +2084,13 @@
       "homeTeam": "Group K 2nd Place",
       "homeCode": "un",
       "homeScore": 0,
-      "awayTeam": "Group L 2nd Place",
-      "awayCode": "un",
+      "awayTeam": "Croatia",
+      "awayCode": "hr",
       "awayScore": 0,
       "venue": "BMO Field",
       "city": "Toronto",
       "status": "timed",
-      "group": null,
+      "group": "L",
       "stage": "ROUND_OF_32",
       "matchday": 0,
       "minute": null,
@@ -2099,7 +2099,7 @@
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/un.png",
-      "awayFlag": "https://flagcdn.com/w160/un.png"
+      "awayFlag": "https://flagcdn.com/w160/hr.png"
     },
     {
       "id": 760498,
@@ -2184,13 +2184,13 @@
       "homeTeam": "Group K Winner",
       "homeCode": "un",
       "homeScore": 0,
-      "awayTeam": "Third Place Group D/E/I/J/L",
-      "awayCode": "un",
+      "awayTeam": "Ghana",
+      "awayCode": "gh",
       "awayScore": 0,
       "venue": "GEHA Field at Arrowhead Stadium",
       "city": "Kansas City, Missouri",
       "status": "timed",
-      "group": null,
+      "group": "L",
       "stage": "ROUND_OF_32",
       "matchday": 0,
       "minute": null,
@@ -2199,7 +2199,7 @@
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/un.png",
-      "awayFlag": "https://flagcdn.com/w160/un.png"
+      "awayFlag": "https://flagcdn.com/w160/gh.png"
     },
     {
       "id": 760502,
