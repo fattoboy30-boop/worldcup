@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T01:36:23.019Z",
+  "lastUpdated": "2026-06-28T04:54:38.213Z",
   "fixtures": [
     {
       "id": 760415,
@@ -1739,11 +1739,11 @@
       "awayScore": 1,
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta, Georgia",
-      "status": "in_play",
+      "status": "finished",
       "group": "K",
       "stage": "GROUP_STAGE",
       "matchday": 0,
-      "minute": "90'+8'",
+      "minute": null,
       "halfTime": [
         null,
         null
@@ -1758,13 +1758,13 @@
       "utcDate": "2026-06-28T02:00Z",
       "homeTeam": "Algeria",
       "homeCode": "un",
-      "homeScore": 0,
+      "homeScore": 3,
       "awayTeam": "Austria",
       "awayCode": "at",
-      "awayScore": 0,
+      "awayScore": 3,
       "venue": "GEHA Field at Arrowhead Stadium",
       "city": "Kansas City, Missouri",
-      "status": "timed",
+      "status": "finished",
       "group": "J",
       "stage": "GROUP_STAGE",
       "matchday": 0,
@@ -1783,13 +1783,13 @@
       "utcDate": "2026-06-28T02:00Z",
       "homeTeam": "Jordan",
       "homeCode": "un",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayTeam": "Argentina",
       "awayCode": "ar",
-      "awayScore": 0,
+      "awayScore": 3,
       "venue": "AT&T Stadium",
       "city": "Arlington, Texas",
-      "status": "timed",
+      "status": "finished",
       "group": "J",
       "stage": "GROUP_STAGE",
       "matchday": 0,
@@ -1984,7 +1984,7 @@
       "homeTeam": "England",
       "homeCode": "gb-eng",
       "homeScore": 0,
-      "awayTeam": "Third Place Group E/H/I/J/K",
+      "awayTeam": "Congo DR",
       "awayCode": "un",
       "awayScore": 0,
       "venue": "Mercedes-Benz Stadium",
@@ -2009,8 +2009,8 @@
       "homeTeam": "Belgium",
       "homeCode": "be",
       "homeScore": 0,
-      "awayTeam": "Third Place Group A/E/H/I/J",
-      "awayCode": "un",
+      "awayTeam": "Senegal",
+      "awayCode": "sn",
       "awayScore": 0,
       "venue": "Lumen Field",
       "city": "Seattle, Washington",
@@ -2024,7 +2024,7 @@
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/be.png",
-      "awayFlag": "https://flagcdn.com/w160/un.png"
+      "awayFlag": "https://flagcdn.com/w160/sn.png"
     },
     {
       "id": 760494,
@@ -2081,8 +2081,8 @@
       "date": "2026-07-02",
       "time": "23:00",
       "utcDate": "2026-07-02T23:00Z",
-      "homeTeam": "Group K 2nd Place",
-      "homeCode": "un",
+      "homeTeam": "Portugal",
+      "homeCode": "pt",
       "homeScore": 0,
       "awayTeam": "Croatia",
       "awayCode": "hr",
@@ -2090,7 +2090,7 @@
       "venue": "BMO Field",
       "city": "Toronto",
       "status": "timed",
-      "group": "L",
+      "group": "K",
       "stage": "ROUND_OF_32",
       "matchday": 0,
       "minute": null,
@@ -2098,7 +2098,7 @@
         null,
         null
       ],
-      "homeFlag": "https://flagcdn.com/w160/un.png",
+      "homeFlag": "https://flagcdn.com/w160/pt.png",
       "awayFlag": "https://flagcdn.com/w160/hr.png"
     },
     {
@@ -2181,8 +2181,8 @@
       "date": "2026-07-04",
       "time": "01:30",
       "utcDate": "2026-07-04T01:30Z",
-      "homeTeam": "Group K Winner",
-      "homeCode": "un",
+      "homeTeam": "Colombia",
+      "homeCode": "co",
       "homeScore": 0,
       "awayTeam": "Ghana",
       "awayCode": "gh",
@@ -2190,7 +2190,7 @@
       "venue": "GEHA Field at Arrowhead Stadium",
       "city": "Kansas City, Missouri",
       "status": "timed",
-      "group": "L",
+      "group": "K",
       "stage": "ROUND_OF_32",
       "matchday": 0,
       "minute": null,
@@ -2198,7 +2198,7 @@
         null,
         null
       ],
-      "homeFlag": "https://flagcdn.com/w160/un.png",
+      "homeFlag": "https://flagcdn.com/w160/co.png",
       "awayFlag": "https://flagcdn.com/w160/gh.png"
     },
     {

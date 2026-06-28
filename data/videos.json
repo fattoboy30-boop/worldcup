@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-28T04:10:48.066Z",
+  "lastUpdated": "2026-06-28T04:55:37.015Z",
   "featured": {
-    "match": "9-dhiWKYSww",
-    "highlight": "9-dhiWKYSww",
+    "match": "_zbSbW0Y0AA",
+    "highlight": "_zbSbW0Y0AA",
     "interview": "dBCs1Yzbd3I"
   },
   "videos": [
+    {
+      "title": "HIGHLIGHTS - Paraguay v Australia | FIFA World Cup 2026 - YouTube",
+      "videoId": "_zbSbW0Y0AA",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Australia",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_zbSbW0Y0AA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia",
+      "source": "match-search"
+    },
+    {
+      "title": "Paraguay 0-0 Australia | Group D | FIFA World Cup 2026™ Highlights",
+      "videoId": "4VyfY0qrc6M",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Australia",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4VyfY0qrc6M/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia",
+      "source": "match-search"
+    },
     {
       "title": "Colombia 🆚 Portugal #FIFAWorldCupOnYT",
       "videoId": "9-dhiWKYSww",
