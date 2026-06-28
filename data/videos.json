@@ -1,67 +1,156 @@
 {
-  "lastUpdated": "2026-06-28T00:15:02.922Z",
+  "lastUpdated": "2026-06-28T04:10:48.066Z",
   "featured": {
-    "match": "_zbSbW0Y0AA",
-    "highlight": "_zbSbW0Y0AA",
-    "interview": "ABjZvLqrCZY"
+    "match": "9-dhiWKYSww",
+    "highlight": "9-dhiWKYSww",
+    "interview": "dBCs1Yzbd3I"
   },
   "videos": [
     {
-      "title": "HIGHLIGHTS - Paraguay v Australia | FIFA World Cup 2026 - YouTube",
-      "videoId": "_zbSbW0Y0AA",
-      "channel": "Web Search",
+      "title": "Colombia 🆚 Portugal #FIFAWorldCupOnYT",
+      "videoId": "9-dhiWKYSww",
+      "channel": "FIFA",
       "publishedAt": "2026-06-28",
       "category": "Highlights",
       "team": [
-        "Australia",
-        "Paraguay"
+        "Portugal",
+        "Colombia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_zbSbW0Y0AA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/9-dhiWKYSww/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Paraguay vs Australia",
-      "source": "match-search"
+      "fixtureTeams": "Czechia vs Mexico"
     },
     {
-      "title": "Highlights |  Senegal 5-0 Iraq | FIFA World Cup 2026™",
-      "videoId": "6N2BzwoMrCw",
+      "title": "Post-Match Press Conference: Portugal's Roberto Martinez On 0-0 Draw With Colombia",
+      "videoId": "cO6Ci1J-uBY",
       "channel": "FIFA",
-      "publishedAt": "2026-06-27",
+      "publishedAt": "2026-06-28",
       "category": "Highlights",
       "team": [
-        "Senegal"
+        "Portugal",
+        "Colombia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/6N2BzwoMrCw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/cO6Ci1J-uBY/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
+      "fixtureTeams": "Czechia vs Mexico"
     },
     {
-      "title": "Highlights | Norway 1-4 France | FIFA World Cup 2026™",
-      "videoId": "ABdniNBWtRs",
+      "title": "Fiston Mayele scores Congo DR’s second goal against Uzbekistan. #FIFAWorldCupOnYT",
+      "videoId": "dpxUvxPHhzQ",
       "channel": "FIFA",
-      "publishedAt": "2026-06-27",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/dpxUvxPHhzQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "Yoane Wisse scores Congo DR’s winner against Uzbekistan. #FIFAWorldCupOnYT",
+      "videoId": "QuE4xzrzO9k",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QuE4xzrzO9k/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "Post-Match Press Conference: Uzbekistan's Fabio Cannavaro On The 3-1 Loss To Congo DR",
+      "videoId": "rwPAh4brvco",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/rwPAh4brvco/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "Petar Sučić Goal | Croatia 2-1 Ghana | FIFA World Cup 2026™",
+      "videoId": "o9HnhCKQAqo",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
       "category": "Highlights",
       "team": [
-        "France",
-        "Norway"
+        "Croatia",
+        "Ghana"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ABdniNBWtRs/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/o9HnhCKQAqo/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
+      "fixtureTeams": "Czechia vs Mexico"
     },
     {
-      "title": "Canada Train Before South Africa | FIFA World Cup 2026™",
-      "videoId": "wORfK6-QsKw",
+      "title": "Congo DR 🆚 Uzbekistan #FIFAWorldCupOnFT",
+      "videoId": "eD9QSAfc8ls",
       "channel": "FIFA",
-      "publishedAt": "2026-06-27",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/eD9QSAfc8ls/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "Nikola Vlasic Goal | Croatia 2-1 Ghana | FIFA World Cup 2026™",
+      "videoId": "nX0_ql5mU_I",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Croatia",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/nX0_ql5mU_I/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "Harry Kane Goal | Panama 0-2 England | FIFA World Cup 2026™",
+      "videoId": "SRUBapryAes",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/SRUBapryAes/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "South Africa On Playing Canada | Hugo Broos & Ime Okon Takes Questions",
+      "videoId": "Nt5rQt_mGAc",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
       "category": "Highlights",
       "team": [
         "Canada",
@@ -69,80 +158,32 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/wORfK6-QsKw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Nt5rQt_mGAc/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
+      "fixtureTeams": "Czechia vs Mexico"
     },
     {
-      "title": "Alt Cast Highlights: Egypt v IR Iran | FIFA World Cup 2026™",
-      "videoId": "xHkXVqIabbc",
+      "title": "Highlights | Cabo Verde 0-0 Saudi Arabia | FIFA World Cup 2026™",
+      "videoId": "JE0dqNUIOg4",
       "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Iran",
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xHkXVqIabbc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Alt Cast Highlights: Cabo Verde v Saudi Arabia | FIFA World Cup 2026™",
-      "videoId": "KRGWaxhTghg",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
+      "publishedAt": "2026-06-28",
       "category": "Highlights",
       "team": [
         "Saudi Arabia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/KRGWaxhTghg/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/JE0dqNUIOg4/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
+      "fixtureTeams": "Czechia vs Mexico"
     },
     {
-      "title": "Hassan Al-Haydos Goal | Bosnia and Herzegovina 3-1 Qatar | FIFA World Cup 2026™",
-      "videoId": "YBpuAWK5JWo",
+      "title": "Highlights | Uruguay 0-1 Spain | FIFA World Cup 2026™",
+      "videoId": "Petu_ouNzr4",
       "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Qatar",
-        "Bosnia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/YBpuAWK5JWo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "UNFORGETTABLE Knockout Stage Goals | FIFA World Cup",
-      "videoId": "c1SF8fhoVlA",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/c1SF8fhoVlA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Alt Cast Highlights: Uruguay v Spain | FIFA World Cup 2026™",
-      "videoId": "w_PXQm5rcEE",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
+      "publishedAt": "2026-06-28",
       "category": "Highlights",
       "team": [
         "Spain",
@@ -150,107 +191,135 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/w_PXQm5rcEE/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Petu_ouNzr4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "Jude Bellingham Goal | Panama 0-2 England",
+      "videoId": "SsLYb6HFDKI",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/SsLYb6HFDKI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "Post-Match Player Interviews: Croatia 2-1 Ghana",
+      "videoId": "CpMgzJqXe2M",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Croatia",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/CpMgzJqXe2M/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "Post-Match Press Conference: Ghana's Carlos Queiroz On The 2-1 Loss To Croatia",
+      "videoId": "h35yeYoqKqw",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Croatia",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/h35yeYoqKqw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "aura (via rafasmithe/IG)",
+      "videoId": "WgRWLJjzlwY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/WgRWLJjzlwY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "Colombia WINS GROUP K after draw with Portugal 🔥 2026 World Cup | ESPN FC",
+      "videoId": "k37P86BkDzg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Portugal",
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/k37P86BkDzg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "Speed is locked in for Ronaldo 😂 (via @IShowSpeed)",
+      "videoId": "TemBQIsxQI0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-27",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/TemBQIsxQI0/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Colombia vs Congo DR"
     },
     {
-      "title": "Team Feature: South Africa | How South Africa Beat the Odds to Reach the Knockout Stage",
-      "videoId": "FnrKLrnDZ3w",
-      "channel": "FIFA",
+      "title": "Croatia is 'a very limited side' 🗣️ REACTION to win over Ghana to advance to knockouts | ESPN FC",
+      "videoId": "dBCs1Yzbd3I",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-27",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [
-        "South Africa"
+        "Croatia",
+        "Ghana"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FnrKLrnDZ3w/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/dBCs1Yzbd3I/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Colombia vs Congo DR"
     },
     {
-      "title": "Team Feature: Canada | Inside J.J. Adams' Coverage: Canada's Bittersweet Loss to Switzerland",
-      "videoId": "gB-xwWgDlb8",
-      "channel": "FIFA",
+      "title": "Concerns for England going into knockouts⁉️ REACTION to victory over Panama | ESPN FC",
+      "videoId": "VgNeBzo4-Qs",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-27",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [
-        "Canada",
-        "Switzerland"
+        "England"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/gB-xwWgDlb8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Alt Cast Highlights: Senegal v Iraq | FIFA World Cup 2026™",
-      "videoId": "aeCtgK2HgTM",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Senegal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/aeCtgK2HgTM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Post-Match Press Conference: IR Iran's Amir Ghalenoei On 1-1 Draw With The Egypt",
-      "videoId": "O3f5w-fbha4",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Iran",
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/O3f5w-fbha4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Match Preview: South Africa vs Canada | FIFA World Cup 2026™",
-      "videoId": "wKMsOsWNFSs",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Canada",
-        "South Africa"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/wKMsOsWNFSs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Alt Cast Highlights: Norway v France | FIFA World Cup 2026™",
-      "videoId": "x3F4HnrK3zo",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/x3F4HnrK3zo/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/VgNeBzo4-Qs/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Colombia vs Congo DR"
@@ -403,103 +472,6 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Norway vs. France takeaways ⚽ Reacting to Ousmane Dembele's UNREAL FIRST-HALF HAT TRICK 😤 | ESPN FC",
-      "videoId": "qnjYBs6c3FU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-27",
-      "category": "Viral",
-      "team": [
-        "France",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/qnjYBs6c3FU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "This workout from Ozil is intense 💪 (via alperaksac7/IG)",
-      "videoId": "kesSLUGuAU8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/kesSLUGuAU8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Spain win Group H 👏 Mpabbe & Dembele look SENSATIONAL + USMNT's World Cup Final chances | ESPN FC",
-      "videoId": "9O75hWqnTsU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/9O75hWqnTsU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Could USMNT beat Spain or Portugal in the World Cup? 👀 | ESPN FC Extra Time",
-      "videoId": "ox41GAfkfC0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ox41GAfkfC0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "Ale Moreno is losing confidence in Spain's World Cup chances 👀",
-      "videoId": "ynyVmEIWGSg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-27",
-      "category": "Highlights",
-      "team": [
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ynyVmEIWGSg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Colombia vs Congo DR"
-    },
-    {
-      "title": "WATCH LIVE | Croatia v Ghana | Group Stage L | FIFA World Cup 2026™",
-      "videoId": "IFPDw7pJGFo",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-10",
-      "category": "Highlights",
-      "team": [
-        "Croatia",
-        "Ghana"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/IFPDw7pJGFo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Mexico vs South Africa"
     }
   ]
 }
