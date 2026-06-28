@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-06-28T15:49:52.724Z",
+  "lastUpdated": "2026-06-28T17:11:24.670Z",
   "featured": {
-    "match": "_zbSbW0Y0AA",
-    "highlight": "_zbSbW0Y0AA",
+    "match": "0zs8O3N0F4c",
+    "highlight": "0zs8O3N0F4c",
     "interview": "nen7FfcnJGs"
   },
   "videos": [
+    {
+      "title": "Alt Cast Highlights: Paraguay v Australia | FIFA World Cup 2026™",
+      "videoId": "0zs8O3N0F4c",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Australia",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0zs8O3N0F4c/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia",
+      "source": "match-search"
+    },
     {
       "title": "HIGHLIGHTS - Paraguay v Australia | FIFA World Cup 2026 - YouTube",
       "videoId": "_zbSbW0Y0AA",
