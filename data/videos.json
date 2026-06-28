@@ -1,47 +1,11 @@
 {
-  "lastUpdated": "2026-06-28T21:01:26.874Z",
+  "lastUpdated": "2026-06-28T21:06:02.028Z",
   "featured": {
-    "match": "0zs8O3N0F4c",
-    "highlight": "0zs8O3N0F4c",
+    "match": "UE4TXY0uaSI",
+    "highlight": "UE4TXY0uaSI",
     "interview": "g5w1YXCGwW4"
   },
   "videos": [
-    {
-      "title": "Alt Cast Highlights: Paraguay v Australia | FIFA World Cup 2026™",
-      "videoId": "0zs8O3N0F4c",
-      "channel": "Web Search",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Australia",
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/0zs8O3N0F4c/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Paraguay vs Australia",
-      "source": "match-search"
-    },
-    {
-      "title": "HIGHLIGHTS - Paraguay v Australia | FIFA World Cup 2026 - YouTube",
-      "videoId": "_zbSbW0Y0AA",
-      "channel": "Web Search",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Australia",
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_zbSbW0Y0AA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Paraguay vs Australia",
-      "source": "match-search"
-    },
     {
       "title": "WATCH LIVE | South Africa v Canada | Round of 32 | FIFA World Cup 2026™",
       "videoId": "UE4TXY0uaSI",
@@ -55,6 +19,40 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/UE4TXY0uaSI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "Germany Train Before Paraguay | FIFA World Cup 2026™",
+      "videoId": "Bh2XkjjMbDo",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Germany",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Bh2XkjjMbDo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
+    },
+    {
+      "title": "Netherlands Train Before Morocco | FIFA World Cup 2026™",
+      "videoId": "vn-rwGtSt0A",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vn-rwGtSt0A/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Czechia vs Mexico"
@@ -246,38 +244,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/nB4YC3py-Is/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Team Feature: Paraguay | Bobadilla Legacy: Aldo and Damian on Their Shared World Cup Journeys",
-      "videoId": "8YqbXra3KtA",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/8YqbXra3KtA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Team Feature: Germany | Undav: \"Scoring Goals is in My Blood\"",
-      "videoId": "TLLWysHfwWc",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/TLLWysHfwWc/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Czechia vs Mexico"
