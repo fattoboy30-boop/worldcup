@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-28T23:07:10.282Z",
+  "lastUpdated": "2026-06-28T23:32:54.060Z",
   "featured": {
-    "match": "aOGyEmGQkqc",
-    "highlight": "aOGyEmGQkqc",
+    "match": "P8bnHlVLKlM",
+    "highlight": "P8bnHlVLKlM",
     "interview": "Lekk14o3bG0"
   },
   "videos": [
+    {
+      "title": "Paraguay vs. Australia Full Highlights | FIFA World Cup 2026",
+      "videoId": "P8bnHlVLKlM",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Australia",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/P8bnHlVLKlM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia",
+      "source": "match-search"
+    },
+    {
+      "title": "Paraguay vs Australia Highlights | 2026 FIFA World Cup™",
+      "videoId": "NdgZtyReLbY",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Australia",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/NdgZtyReLbY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia",
+      "source": "match-search"
+    },
     {
       "title": "Stephen Eustáquio Goal | South Africa 0-1 Canada",
       "videoId": "aOGyEmGQkqc",
