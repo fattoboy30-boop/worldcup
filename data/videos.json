@@ -1,11 +1,45 @@
 {
-  "lastUpdated": "2026-06-29T09:50:40.082Z",
+  "lastUpdated": "2026-06-29T11:59:06.324Z",
   "featured": {
-    "match": "4JjZto8QCF8",
-    "highlight": "4JjZto8QCF8",
+    "match": "xAQRRNla1Kk",
+    "highlight": "xAQRRNla1Kk",
     "interview": "Lekk14o3bG0"
   },
   "videos": [
+    {
+      "title": "Cape Verde vs Saudi Arabia | Match Highlights - YouTube",
+      "videoId": "xAQRRNla1Kk",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-29",
+      "category": "Highlights",
+      "team": [
+        "Saudi Arabia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xAQRRNla1Kk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia",
+      "source": "match-search"
+    },
+    {
+      "title": "Highlights | Cape Verde vs Saudi Arabia | Match 64 | FIFA World Cup 2026™",
+      "videoId": "2Bz2gOU-5bk",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-29",
+      "category": "Highlights",
+      "team": [
+        "Saudi Arabia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/2Bz2gOU-5bk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia",
+      "source": "match-search"
+    },
     {
       "title": "Match Preview: Mexico vs Ecuador | FIFA World Cup 2026™",
       "videoId": "4JjZto8QCF8",
