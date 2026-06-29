@@ -1,44 +1,121 @@
 {
-  "lastUpdated": "2026-06-29T11:59:06.324Z",
+  "lastUpdated": "2026-06-29T14:08:01.521Z",
   "featured": {
-    "match": "xAQRRNla1Kk",
-    "highlight": "xAQRRNla1Kk",
+    "match": "XidNuRLH3OE",
+    "highlight": "XidNuRLH3OE",
     "interview": "Lekk14o3bG0"
   },
   "videos": [
     {
-      "title": "Cape Verde vs Saudi Arabia | Match Highlights - YouTube",
-      "videoId": "xAQRRNla1Kk",
-      "channel": "Web Search",
+      "title": "Alt Cast Highlights: South Africa v Canada | FIFA World Cup 2026™",
+      "videoId": "XidNuRLH3OE",
+      "channel": "FIFA",
       "publishedAt": "2026-06-29",
       "category": "Highlights",
       "team": [
-        "Saudi Arabia"
+        "Canada",
+        "South Africa"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xAQRRNla1Kk/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/XidNuRLH3OE/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia",
-      "source": "match-search"
+      "fixtureTeams": "Paraguay vs Australia"
     },
     {
-      "title": "Highlights | Cape Verde vs Saudi Arabia | Match 64 | FIFA World Cup 2026™",
-      "videoId": "2Bz2gOU-5bk",
-      "channel": "Web Search",
+      "title": "Team Feature: France | Lucas Digne On The Importance of Family",
+      "videoId": "tncfUCMmR4M",
+      "channel": "FIFA",
       "publishedAt": "2026-06-29",
       "category": "Highlights",
       "team": [
-        "Saudi Arabia"
+        "France"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/2Bz2gOU-5bk/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/tncfUCMmR4M/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia",
-      "source": "match-search"
+      "fixtureTeams": "Paraguay vs Australia"
+    },
+    {
+      "title": "15-Minute Match: Mexico vs Ecuador | 2002 Thriller",
+      "videoId": "lUkClV-PWyA",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-29",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/lUkClV-PWyA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia"
+    },
+    {
+      "title": "Inside the Action: Brazil vs Haiti | Ref's POV | Powered by Lenovo",
+      "videoId": "E0xIt0VfpNc",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-29",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Haiti"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/E0xIt0VfpNc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia"
+    },
+    {
+      "title": "Team Feature: Norway | Like Father, Like Son",
+      "videoId": "O63J9G-c32w",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-29",
+      "category": "Highlights",
+      "team": [
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/O63J9G-c32w/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia"
+    },
+    {
+      "title": "June 28 Matchday Recap | #FIFAWorldCup @aramco",
+      "videoId": "d2X-qKsRk10",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-29",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/d2X-qKsRk10/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia"
+    },
+    {
+      "title": "Team Feature: Cote d'Ivoire | Kessié Savouring Every Moment Of World Cup Journey",
+      "videoId": "llVaY_8Is9k",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-29",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/llVaY_8Is9k/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia"
     },
     {
       "title": "Match Preview: Mexico vs Ecuador | FIFA World Cup 2026™",
@@ -170,117 +247,59 @@
       "fixtureTeams": "Paraguay vs Australia"
     },
     {
-      "title": "Morocco On Playing Netherlands | Mohamed Ouahbi & Yassine Bounou Takes Questions",
-      "videoId": "uWxPAyoYrjY",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-29",
-      "category": "Highlights",
-      "team": [
-        "Netherlands",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/uWxPAyoYrjY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Paraguay vs Australia"
-    },
-    {
-      "title": "Germany On Playing Paraguay | Julian Nagelsmann & Kai Havertz Takes Questions",
-      "videoId": "X3MrMcMx16A",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-29",
-      "category": "Highlights",
-      "team": [
-        "Germany",
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/X3MrMcMx16A/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Paraguay vs Australia"
-    },
-    {
-      "title": "Brazil On Playing Japan | Carlo Ancelotti Takes Questions",
-      "videoId": "XtARtHDP_Ww",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-29",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Japan"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/XtARtHDP_Ww/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Paraguay vs Australia"
-    },
-    {
-      "title": "Highlights | Colombia 0-0 Portugal | FIFA World Cup 2026™",
-      "videoId": "QhI0dUq1FKY",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-29",
-      "category": "Highlights",
-      "team": [
-        "Portugal",
-        "Colombia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/QhI0dUq1FKY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Paraguay vs Australia"
-    },
-    {
-      "title": "Highlights | Congo DR 3-1 Uzbekistan | FIFA World Cup 2026™",
-      "videoId": "_effg5dZWZc",
-      "channel": "FIFA",
+      "title": "Roger Bennett says it'll be 'a moment of truth' for the U.S. ⚽️",
+      "videoId": "lOSCrVvmmmg",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-29",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_effg5dZWZc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/lOSCrVvmmmg/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Paraguay vs Australia"
     },
     {
-      "title": "Paraguay On Playing Germany | Gustavo Alfaro & Gustavo Gomez Take Questions",
-      "videoId": "NB3oVV8DLu4",
-      "channel": "FIFA",
+      "title": "Speed did this after talking to Ronaldo’s partner 🤣 (via @IShowSpeed/TT)",
+      "videoId": "G_OS92LVL6s",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-29",
       "category": "Highlights",
-      "team": [
-        "Germany",
-        "Paraguay"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/NB3oVV8DLu4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/G_OS92LVL6s/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Paraguay vs Australia"
     },
     {
-      "title": "Japan On Playing Brazil | Hajime Moriyasu Takes Questions",
-      "videoId": "lyyDdlkunIE",
-      "channel": "FIFA",
+      "title": "Roger Bennett WANTS the U.S. to win it all but BELIEVES WHO WILL instead?! 👀 | Get Up",
+      "videoId": "5jJCOii2438",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-29",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/5jJCOii2438/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia"
+    },
+    {
+      "title": "When #Messi popped his head out to wave to all the #Argentina ❤️👋",
+      "videoId": "qu832Cap9E8",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-29",
       "category": "Highlights",
       "team": [
-        "Brazil",
-        "Japan"
+        "Argentina"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/lyyDdlkunIE/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/qu832Cap9E8/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Paraguay vs Australia"
@@ -448,69 +467,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/nen7FfcnJGs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Ale Moreno on Argentina's win against Jordan 👏",
-      "videoId": "s9JNgDuNY6s",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/s9JNgDuNY6s/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Vinicius Jr. has played VERY, VERY WELL 👏 Will he do it again in Brazil vs. Japan? | ESPN FC",
-      "videoId": "OTuZfUU1A7E",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Japan"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/OTuZfUU1A7E/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "It's the best team the U.S. has ever had! - Jurgen Klopp on USMNT's 2026 WC performance | ESPN FC",
-      "videoId": "DHBfw3TPrkM",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/DHBfw3TPrkM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Like a TRAINING SESSION for Lionel Messi 😬 Ale Moreno reacts to Argentina defeating Jordan | ESPN FC",
-      "videoId": "3E52MCARxZg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-28",
-      "category": "Viral",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/3E52MCARxZg/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Czechia vs Mexico"
