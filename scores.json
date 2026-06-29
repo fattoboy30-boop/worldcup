@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-29T16:11:26.525Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-06-29T18:22:50.643Z",
+  "liveMatches": [
+    {
+      "id": 760487,
+      "date": "2026-06-29",
+      "time": "17:00",
+      "utcDate": "2026-06-29T17:00Z",
+      "homeTeam": "Brazil",
+      "homeCode": "br",
+      "homeScore": 1,
+      "awayTeam": "Japan",
+      "awayCode": "jp",
+      "awayScore": 1,
+      "venue": "NRG Stadium",
+      "city": "Houston, Texas",
+      "status": "in_play",
+      "group": "C",
+      "stage": "ROUND_OF_32",
+      "matchday": 0,
+      "minute": "60'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -1683,29 +1707,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760487,
-      "date": "2026-06-29",
-      "time": "17:00",
-      "utcDate": "2026-06-29T17:00Z",
-      "homeTeam": "Brazil",
-      "homeCode": "br",
-      "homeScore": 0,
-      "awayTeam": "Japan",
-      "awayCode": "jp",
-      "awayScore": 0,
-      "venue": "NRG Stadium",
-      "city": "Houston, Texas",
-      "status": "timed",
-      "group": "C",
-      "stage": "ROUND_OF_32",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760489,
       "date": "2026-06-29",
