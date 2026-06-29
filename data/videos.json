@@ -1,61 +1,139 @@
 {
-  "lastUpdated": "2026-06-29T06:47:50.946Z",
+  "lastUpdated": "2026-06-29T09:50:40.082Z",
   "featured": {
-    "match": "xAQRRNla1Kk",
-    "highlight": "xAQRRNla1Kk",
+    "match": "4JjZto8QCF8",
+    "highlight": "4JjZto8QCF8",
     "interview": "Lekk14o3bG0"
   },
   "videos": [
     {
-      "title": "Cape Verde vs Saudi Arabia | Match Highlights - YouTube",
-      "videoId": "xAQRRNla1Kk",
-      "channel": "Web Search",
+      "title": "Match Preview: Mexico vs Ecuador | FIFA World Cup 2026™",
+      "videoId": "4JjZto8QCF8",
+      "channel": "FIFA",
       "publishedAt": "2026-06-29",
       "category": "Highlights",
       "team": [
-        "Saudi Arabia"
+        "Mexico",
+        "Ecuador"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xAQRRNla1Kk/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/4JjZto8QCF8/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia",
-      "source": "match-search"
+      "fixtureTeams": "Paraguay vs Australia"
     },
     {
-      "title": "Cape Verde vs Saudi Arabia Extended Highlights 2026 FIFA World Cup™",
-      "videoId": "grj3Ijq7cjQ",
-      "channel": "Web Search",
+      "title": "Great Knockout Goals In World Cup History (2010-2022)",
+      "videoId": "9xUDRhOMkjo",
+      "channel": "FIFA",
       "publishedAt": "2026-06-29",
       "category": "Highlights",
-      "team": [
-        "Saudi Arabia"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/grj3Ijq7cjQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/9xUDRhOMkjo/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia",
-      "source": "match-search"
+      "fixtureTeams": "Paraguay vs Australia"
     },
     {
-      "title": "Cape Verde vs Saudi Arabia Extended Highlights | 2026 FIFA World Cup™",
-      "videoId": "pNTOn8r3ojY",
-      "channel": "Web Search",
+      "title": "Netherlands On Playing Morocco | Ronald Koeman & Virgil van Dijk Take Questions",
+      "videoId": "VDPurTpiAA8",
+      "channel": "FIFA",
       "publishedAt": "2026-06-29",
       "category": "Highlights",
       "team": [
-        "Saudi Arabia"
+        "Netherlands",
+        "Morocco"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/pNTOn8r3ojY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/VDPurTpiAA8/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia",
-      "source": "match-search"
+      "fixtureTeams": "Paraguay vs Australia"
+    },
+    {
+      "title": "Best Group Stage Goals | FIFA World Cup 2026™",
+      "videoId": "hTES44U0fTs",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-29",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/hTES44U0fTs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia"
+    },
+    {
+      "title": "Morocco Train Before Netherlands | FIFA World Cup 2026™",
+      "videoId": "xXM0mTZ_3c4",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-29",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xXM0mTZ_3c4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia"
+    },
+    {
+      "title": "Paraguay Train Before Germany | FIFA World Cup 2026™",
+      "videoId": "jZH-AYHTTHc",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-29",
+      "category": "Highlights",
+      "team": [
+        "Germany",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jZH-AYHTTHc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia"
+    },
+    {
+      "title": "Highlights | Algeria 3-3 Austria | FIFA World Cup 2026™",
+      "videoId": "5Mvh0mqY8ik",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-29",
+      "category": "Highlights",
+      "team": [
+        "Algeria",
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/5Mvh0mqY8ik/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia"
+    },
+    {
+      "title": "Highlights | Jordan 1-3 Argentina | FIFA World Cup 2026™",
+      "videoId": "M6mpXtMm93M",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-29",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/M6mpXtMm93M/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia"
     },
     {
       "title": "Morocco On Playing Netherlands | Mohamed Ouahbi & Yassine Bounou Takes Questions",
@@ -172,139 +250,6 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Paraguay vs Australia"
-    },
-    {
-      "title": "Inside France vs Iraq | Ref's POV | Powered by Lenovo",
-      "videoId": "j-786upCgPM",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-29",
-      "category": "Highlights",
-      "team": [
-        "France"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/j-786upCgPM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Paraguay vs Australia"
-    },
-    {
-      "title": "Ronwen Williams Save | South Africa 0-1 Canada",
-      "videoId": "kRvTQeJ8LRA",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-29",
-      "category": "Highlights",
-      "team": [
-        "Canada",
-        "South Africa"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/kRvTQeJ8LRA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Paraguay vs Australia"
-    },
-    {
-      "title": "Post-Match Player Interviews: South Africa 0-1 Canada",
-      "videoId": "PMwsK1jJiQc",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Canada",
-        "South Africa"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PMwsK1jJiQc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Post-Match Press Conference: Canada's Jesse Marsch On The 1-0 Win Over South Africa",
-      "videoId": "WWmsyVXTlaU",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Canada",
-        "South Africa"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/WWmsyVXTlaU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Highlights | Croatia 2-1 Ghana | FIFA World Cup 2026™",
-      "videoId": "D1wfxmJhA04",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Croatia",
-        "Ghana"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/D1wfxmJhA04/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Highlights | Panama 0-2 England | FIFA World Cup 2026™",
-      "videoId": "FHcXnueraKc",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FHcXnueraKc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Stephen Eustáquio Wins It Late For Canada | South Africa 0-1 Canada",
-      "videoId": "aOGyEmGQkqc",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Canada",
-        "South Africa"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/aOGyEmGQkqc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "A massive defensive effort from South Africa 🇿🇦 #FIFAWorldCupOnYT",
-      "videoId": "9FfjsWoDJ_o",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "South Africa"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/9FfjsWoDJ_o/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
     },
     {
       "title": "World Cup Knockout PREDICTIONS 🍿 Who will win it all? | ESPN FC",
