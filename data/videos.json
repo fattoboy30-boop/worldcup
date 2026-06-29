@@ -1,11 +1,62 @@
 {
-  "lastUpdated": "2026-06-29T04:17:26.125Z",
+  "lastUpdated": "2026-06-29T06:47:50.946Z",
   "featured": {
-    "match": "uWxPAyoYrjY",
-    "highlight": "uWxPAyoYrjY",
+    "match": "xAQRRNla1Kk",
+    "highlight": "xAQRRNla1Kk",
     "interview": "Lekk14o3bG0"
   },
   "videos": [
+    {
+      "title": "Cape Verde vs Saudi Arabia | Match Highlights - YouTube",
+      "videoId": "xAQRRNla1Kk",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-29",
+      "category": "Highlights",
+      "team": [
+        "Saudi Arabia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xAQRRNla1Kk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia",
+      "source": "match-search"
+    },
+    {
+      "title": "Cape Verde vs Saudi Arabia Extended Highlights 2026 FIFA World Cup™",
+      "videoId": "grj3Ijq7cjQ",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-29",
+      "category": "Highlights",
+      "team": [
+        "Saudi Arabia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/grj3Ijq7cjQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia",
+      "source": "match-search"
+    },
+    {
+      "title": "Cape Verde vs Saudi Arabia Extended Highlights | 2026 FIFA World Cup™",
+      "videoId": "pNTOn8r3ojY",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-29",
+      "category": "Highlights",
+      "team": [
+        "Saudi Arabia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/pNTOn8r3ojY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia",
+      "source": "match-search"
+    },
     {
       "title": "Morocco On Playing Netherlands | Mohamed Ouahbi & Yassine Bounou Takes Questions",
       "videoId": "uWxPAyoYrjY",
