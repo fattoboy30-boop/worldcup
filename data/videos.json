@@ -1,44 +1,72 @@
 {
-  "lastUpdated": "2026-06-29T16:01:40.584Z",
+  "lastUpdated": "2026-06-29T17:40:57.510Z",
   "featured": {
-    "match": "xAQRRNla1Kk",
-    "highlight": "xAQRRNla1Kk",
+    "match": "EpqVEjBAx54",
+    "highlight": "EpqVEjBAx54",
     "interview": "Lekk14o3bG0"
   },
   "videos": [
     {
-      "title": "Cape Verde vs Saudi Arabia | Match Highlights - YouTube",
-      "videoId": "xAQRRNla1Kk",
-      "channel": "Web Search",
+      "title": "Team Feature: Ecuador | Beccacece: 'Let's Do Our Talking On The Pitch'",
+      "videoId": "EpqVEjBAx54",
+      "channel": "FIFA",
       "publishedAt": "2026-06-29",
       "category": "Highlights",
       "team": [
-        "Saudi Arabia"
+        "Ecuador"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xAQRRNla1Kk/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/EpqVEjBAx54/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia",
-      "source": "match-search"
+      "fixtureTeams": "Paraguay vs Australia"
     },
     {
-      "title": "Cabo Verde 0-0 Saudi Arabia Highlights | Historic Qualification ...",
-      "videoId": "pNTOn8r3ojY",
-      "channel": "Web Search",
+      "title": "Team Feature: Mexico | Quiñones: 'Mexico Made Me Who I am Today'",
+      "videoId": "KE6E1KhjZxU",
+      "channel": "FIFA",
       "publishedAt": "2026-06-29",
       "category": "Highlights",
       "team": [
-        "Saudi Arabia"
+        "Mexico"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/pNTOn8r3ojY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/KE6E1KhjZxU/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia",
-      "source": "match-search"
+      "fixtureTeams": "Paraguay vs Australia"
+    },
+    {
+      "title": "Breakout Goalkeeping Stars | FIFA World Cup 2026™",
+      "videoId": "Sk-6oi75SZw",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-29",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Sk-6oi75SZw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia"
+    },
+    {
+      "title": "Team Feature: Sweden | Elanga Explains All!",
+      "videoId": "Aad6Ikazvlk",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-29",
+      "category": "Highlights",
+      "team": [
+        "Sweden"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Aad6Ikazvlk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia"
     },
     {
       "title": "Alt Cast Highlights: South Africa v Canada | FIFA World Cup 2026™",
@@ -200,40 +228,25 @@
       "fixtureTeams": "Paraguay vs Australia"
     },
     {
-      "title": "Best Group Stage Goals | FIFA World Cup 2026™",
-      "videoId": "hTES44U0fTs",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-29",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/hTES44U0fTs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Paraguay vs Australia"
-    },
-    {
-      "title": "Morocco Train Before Netherlands | FIFA World Cup 2026™",
-      "videoId": "xXM0mTZ_3c4",
-      "channel": "FIFA",
+      "title": "Is France the team to watch? 🤨",
+      "videoId": "3ZuBGKbLT-c",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-29",
       "category": "Highlights",
       "team": [
-        "Netherlands",
-        "Morocco"
+        "France"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xXM0mTZ_3c4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/3ZuBGKbLT-c/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Paraguay vs Australia"
     },
     {
-      "title": "Paraguay Train Before Germany | FIFA World Cup 2026™",
-      "videoId": "jZH-AYHTTHc",
-      "channel": "FIFA",
+      "title": "Jurgen Klopp assesses Germany in the World Cup and previews Paraguay matchup | ESPN FC",
+      "videoId": "j7vu5PQZ3es",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-29",
       "category": "Highlights",
       "team": [
@@ -242,40 +255,38 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/jZH-AYHTTHc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/j7vu5PQZ3es/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Paraguay vs Australia"
     },
     {
-      "title": "Highlights | Algeria 3-3 Austria | FIFA World Cup 2026™",
-      "videoId": "5Mvh0mqY8ik",
-      "channel": "FIFA",
+      "title": "Alejandro Moreno's giving Canada a single flower for win over South Africa 🌹👀 | ESPN FC",
+      "videoId": "oMjBA9dRASg",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-29",
       "category": "Highlights",
       "team": [
-        "Algeria",
-        "Austria"
+        "Canada",
+        "South Africa"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/5Mvh0mqY8ik/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/oMjBA9dRASg/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Paraguay vs Australia"
     },
     {
-      "title": "Highlights | Jordan 1-3 Argentina | FIFA World Cup 2026™",
-      "videoId": "M6mpXtMm93M",
-      "channel": "FIFA",
+      "title": "How deep of a run can the U.S. make in the World Cup?! Roger Bennett says… | First Take",
+      "videoId": "LEjYBr5aWZY",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-29",
       "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/M6mpXtMm93M/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/LEjYBr5aWZY/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Paraguay vs Australia"
@@ -337,6 +348,23 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Paraguay vs Australia"
+    },
+    {
+      "title": "WATCH LIVE | Brazil v Japan | Round of 32 | FIFA World Cup 2026™",
+      "videoId": "l2B8yesmil8",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/l2B8yesmil8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
     },
     {
       "title": "World Cup Knockout PREDICTIONS 🍿 Who will win it all? | ESPN FC",
@@ -437,70 +465,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/ySRuciXdicg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Why Spain or Portugal could be a PROBLEM for the USMNT in the World Cup 👀 | SportsCenter",
-      "videoId": "TAcAbLK8cSQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/TAcAbLK8cSQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Antonio Rudiger is too funny 😂 (via shootingstarsfcgh, realmadrid/TT)",
-      "videoId": "g5w1YXCGwW4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-28",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/g5w1YXCGwW4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "Ale Moreno said this after Portugal’s match against DR Congo 😮",
-      "videoId": "mBQSM6E07XA",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/mBQSM6E07XA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
-    },
-    {
-      "title": "BORING Portugal & Argentina DELIVER ⚽ How Ronaldo & Messi's squads are performing | ESPN FC",
-      "videoId": "nen7FfcnJGs",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-28",
-      "category": "Viral",
-      "team": [
-        "Argentina",
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/nen7FfcnJGs/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Czechia vs Mexico"
