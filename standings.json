@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T23:00:07.142Z",
+  "lastUpdated": "2026-06-29T23:42:56.030Z",
   "groups": {
     "A": {
       "teams": [
@@ -256,14 +256,14 @@
         {
           "name": "Germany",
           "code": "de",
-          "played": 3,
+          "played": 4,
           "won": 2,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 1,
-          "gf": 10,
-          "ga": 4,
+          "gf": 11,
+          "ga": 5,
           "gd": 6,
-          "points": 6,
+          "points": 7,
           "position": 1
         },
         {
@@ -293,6 +293,19 @@
           "position": 3
         },
         {
+          "name": "Paraguay",
+          "code": "py",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1,
+          "position": 4
+        },
+        {
           "name": "Curaçao",
           "code": "un",
           "played": 3,
@@ -303,7 +316,7 @@
           "ga": 9,
           "gd": -8,
           "points": 1,
-          "position": 4
+          "position": 5
         }
       ]
     },
