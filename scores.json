@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-29T20:23:51.975Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-06-29T21:48:01.855Z",
+  "liveMatches": [
+    {
+      "id": 760489,
+      "date": "2026-06-29",
+      "time": "20:30",
+      "utcDate": "2026-06-29T20:30Z",
+      "homeTeam": "Germany",
+      "homeCode": "de",
+      "homeScore": 0,
+      "awayTeam": "Paraguay",
+      "awayCode": "py",
+      "awayScore": 0,
+      "venue": "Gillette Stadium",
+      "city": "Foxborough, Massachusetts",
+      "status": "in_play",
+      "group": "E",
+      "stage": "ROUND_OF_32",
+      "matchday": 0,
+      "minute": "29'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -1706,29 +1730,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760489,
-      "date": "2026-06-29",
-      "time": "20:30",
-      "utcDate": "2026-06-29T20:30Z",
-      "homeTeam": "Germany",
-      "homeCode": "de",
-      "homeScore": 0,
-      "awayTeam": "Paraguay",
-      "awayCode": "py",
-      "awayScore": 0,
-      "venue": "Gillette Stadium",
-      "city": "Foxborough, Massachusetts",
-      "status": "timed",
-      "group": "E",
-      "stage": "ROUND_OF_32",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760488,
       "date": "2026-06-30",
