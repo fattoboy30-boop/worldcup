@@ -1,11 +1,45 @@
 {
-  "lastUpdated": "2026-06-29T14:08:01.521Z",
+  "lastUpdated": "2026-06-29T16:01:40.584Z",
   "featured": {
-    "match": "XidNuRLH3OE",
-    "highlight": "XidNuRLH3OE",
+    "match": "xAQRRNla1Kk",
+    "highlight": "xAQRRNla1Kk",
     "interview": "Lekk14o3bG0"
   },
   "videos": [
+    {
+      "title": "Cape Verde vs Saudi Arabia | Match Highlights - YouTube",
+      "videoId": "xAQRRNla1Kk",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-29",
+      "category": "Highlights",
+      "team": [
+        "Saudi Arabia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xAQRRNla1Kk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia",
+      "source": "match-search"
+    },
+    {
+      "title": "Cabo Verde 0-0 Saudi Arabia Highlights | Historic Qualification ...",
+      "videoId": "pNTOn8r3ojY",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-29",
+      "category": "Highlights",
+      "team": [
+        "Saudi Arabia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/pNTOn8r3ojY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia",
+      "source": "match-search"
+    },
     {
       "title": "Alt Cast Highlights: South Africa v Canada | FIFA World Cup 2026™",
       "videoId": "XidNuRLH3OE",
