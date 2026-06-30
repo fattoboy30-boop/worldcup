@@ -901,24 +901,53 @@ function renderKnockoutStage(container) {
         const date = new Date(match.date);
         const formattedDate = date.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' });
         const solomonTime = toSolomonTime(match.date, match.time);
+        const status = match.status || 'timed';
+        const isLive = ['in_play','paused','live','1h','2h','ht'].includes(status);
+        const isFinished = ['finished','ft','aet','pen'].includes(status);
+        const hasScore = match.homeScore != null && match.awayScore != null;
+        
+        const homeResolved = match.homeCode && match.homeCode !== 'un';
+        const awayResolved = match.awayCode && match.awayCode !== 'un';
+        
+        let statusBadge = '';
+        if (isLive) statusBadge = `<span class="status-badge live">LIVE</span>`;
+        else if (isFinished) statusBadge = `<span class="status-badge finished">FT</span>`;
+        
+        let scoreDisplay = '';
+        if (hasScore) {
+            scoreDisplay = `<div class="match-score-inline"><span>${match.homeScore}</span> - <span>${match.awayScore}</span></div>`;
+        }
+
+        const homeFlagHtml = homeResolved
+            ? `<img src="${match.homeFlag}" alt="${match.homeTeam}" class="match-flag" onerror="this.src='https://flagcdn.com/w160/un.png'">`
+            : `<div class="match-flag tbd">TBD</div>`;
+        const awayFlagHtml = awayResolved
+            ? `<img src="${match.awayFlag}" alt="${match.awayTeam}" class="match-flag" onerror="this.src='https://flagcdn.com/w160/un.png'">`
+            : `<div class="match-flag tbd">TBD</div>`;
+
+        const homeNameHtml = homeResolved ? match.homeTeam : `Winner ${match.label ? match.label.split(' vs ')[0].replace('Winner ', '') : 'TBD'}`;
+        const awayNameHtml = awayResolved ? match.awayTeam : `Winner ${match.label ? match.label.split(' vs ')[1].replace('Winner ', '') : 'TBD'}`;
         
         html += `
-            <div class="schedule-card knockout ${currentStage === 'final' ? 'final-match' : ''}">
+            <div class="schedule-card knockout ${currentStage === 'final' ? 'final-match' : ''} ${isLive ? 'live-card' : ''} ${isFinished ? 'finished-card' : ''}">
                 <div class="match-date">${formattedDate} • ${match.time}</div>
                 <div class="match-date-sbt">Solomon Islands: ${solomonTime}</div>
                 <div class="match-teams">
-                    <div class="team tbd-team">
-                        <div class="match-flag tbd">TBD</div>
-                        <span class="team-name">Winner ${match.label.split(' vs ')[0].replace('Winner ', '')}</span>
+                    <div class="team ${!homeResolved ? 'tbd-team' : ''}">
+                        ${homeFlagHtml}
+                        <span class="team-name">${homeNameHtml}</span>
                     </div>
-                    <span class="match-vs">VS</span>
-                    <div class="team tbd-team">
-                        <div class="match-flag tbd">TBD</div>
-                        <span class="team-name">Winner ${match.label.split(' vs ')[1].replace('Winner ', '')}</span>
+                    <div class="match-vs-block">
+                        ${scoreDisplay || '<span class="match-vs">VS</span>'}
+                        ${statusBadge}
+                    </div>
+                    <div class="team ${!awayResolved ? 'tbd-team' : ''}">
+                        ${awayFlagHtml}
+                        <span class="team-name">${awayNameHtml}</span>
                     </div>
                 </div>
                 <div class="match-venue">${match.venue}, ${match.city}</div>
-                <div class="match-label">${match.label}</div>
+                ${match.label ? `<div class="match-label">${match.label}</div>` : ''}
             </div>
         `;
     });
