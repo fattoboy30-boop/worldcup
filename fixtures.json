@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T16:53:11.415Z",
+  "lastUpdated": "2026-06-30T18:29:34.580Z",
   "fixtures": [
     {
       "id": 760415,
@@ -1911,14 +1911,14 @@
       "homeScore": 0,
       "awayTeam": "Norway",
       "awayCode": "no",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "AT&T Stadium",
       "city": "Arlington, Texas",
-      "status": "timed",
+      "status": "in_play",
       "group": "E",
       "stage": "ROUND_OF_32",
       "matchday": 0,
-      "minute": null,
+      "minute": "54'",
       "halfTime": [
         null,
         null
