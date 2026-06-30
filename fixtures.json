@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T04:36:28.496Z",
+  "lastUpdated": "2026-06-30T05:58:05.112Z",
   "fixtures": [
     {
       "id": 760415,
@@ -1889,11 +1889,11 @@
       "awayScore": 1,
       "venue": "Estadio BBVA",
       "city": "Guadalupe",
-      "status": "in_play",
+      "status": "finished",
       "group": "F",
       "stage": "ROUND_OF_32",
       "matchday": 0,
-      "minute": "113'",
+      "minute": null,
       "halfTime": [
         null,
         null
@@ -2209,8 +2209,8 @@
       "homeTeam": "Canada",
       "homeCode": "ca",
       "homeScore": 0,
-      "awayTeam": "Morocco",
-      "awayCode": "ma",
+      "awayTeam": "Round of 32 3 Winner",
+      "awayCode": "un",
       "awayScore": 0,
       "venue": "NRG Stadium",
       "city": "Houston, Texas",
@@ -2224,7 +2224,7 @@
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/ca.png",
-      "awayFlag": "https://flagcdn.com/w160/ma.png"
+      "awayFlag": "https://flagcdn.com/w160/un.png"
     },
     {
       "id": 760503,

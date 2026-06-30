@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T04:36:28.498Z",
+  "lastUpdated": "2026-06-30T05:58:05.115Z",
   "groups": {
     "A": {
       "teams": [
@@ -325,14 +325,14 @@
         {
           "name": "Netherlands",
           "code": "nl",
-          "played": 3,
+          "played": 4,
           "won": 2,
-          "drawn": 1,
+          "drawn": 2,
           "lost": 0,
-          "gf": 10,
-          "ga": 4,
+          "gf": 11,
+          "ga": 5,
           "gd": 6,
-          "points": 7,
+          "points": 8,
           "position": 1
         },
         {
@@ -362,6 +362,19 @@
           "position": 3
         },
         {
+          "name": "Morocco",
+          "code": "ma",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1,
+          "position": 4
+        },
+        {
           "name": "Tunisia",
           "code": "tn",
           "played": 3,
@@ -372,7 +385,7 @@
           "ga": 12,
           "gd": -10,
           "points": 0,
-          "position": 4
+          "position": 5
         }
       ]
     },
