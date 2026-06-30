@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-06-30T12:12:16.395Z",
+  "lastUpdated": "2026-06-30T13:23:33.155Z",
   "featured": {
-    "match": "NVZj5gthMUY",
-    "highlight": "NVZj5gthMUY",
+    "match": "xl541SKfhpU",
+    "highlight": "xl541SKfhpU",
     "interview": "C_n81QxVAAo"
   },
   "videos": [
+    {
+      "title": "Alt Cast Highlights: Algeria v Austria | FIFA World Cup 2026™",
+      "videoId": "xl541SKfhpU",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Algeria",
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xl541SKfhpU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria",
+      "source": "match-search"
+    },
     {
       "title": "Team Feature: Congo DR | Kayembe: 'We Will Fight Like Leopards'",
       "videoId": "NVZj5gthMUY",
