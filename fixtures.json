@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T05:58:05.112Z",
+  "lastUpdated": "2026-06-30T08:20:40.666Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2209,8 +2209,8 @@
       "homeTeam": "Canada",
       "homeCode": "ca",
       "homeScore": 0,
-      "awayTeam": "Round of 32 3 Winner",
-      "awayCode": "un",
+      "awayTeam": "Morocco",
+      "awayCode": "ma",
       "awayScore": 0,
       "venue": "NRG Stadium",
       "city": "Houston, Texas",
@@ -2224,7 +2224,7 @@
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/ca.png",
-      "awayFlag": "https://flagcdn.com/w160/un.png"
+      "awayFlag": "https://flagcdn.com/w160/ma.png"
     },
     {
       "id": 760503,
