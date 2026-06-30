@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T19:53:32.601Z",
+  "lastUpdated": "2026-06-30T20:31:13.260Z",
   "fixtures": [
     {
       "id": 760415,
@@ -17,7 +17,7 @@
       "status": "finished",
       "group": "A",
       "stage": "GROUP_STAGE",
-      "matchday": 1,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -42,7 +42,7 @@
       "status": "finished",
       "group": "A",
       "stage": "GROUP_STAGE",
-      "matchday": 1,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -67,7 +67,7 @@
       "status": "finished",
       "group": "B",
       "stage": "GROUP_STAGE",
-      "matchday": 1,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -82,7 +82,7 @@
       "time": "01:00",
       "utcDate": "2026-06-13T01:00Z",
       "homeTeam": "United States",
-      "homeCode": "us",
+      "homeCode": "un",
       "homeScore": 4,
       "awayTeam": "Paraguay",
       "awayCode": "py",
@@ -98,7 +98,7 @@
         null,
         null
       ],
-      "homeFlag": "https://flagcdn.com/w160/us.png",
+      "homeFlag": "https://flagcdn.com/w160/un.png",
       "awayFlag": "https://flagcdn.com/w160/py.png"
     },
     {
@@ -117,7 +117,7 @@
       "status": "finished",
       "group": "B",
       "stage": "GROUP_STAGE",
-      "matchday": 1,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -142,7 +142,7 @@
       "status": "finished",
       "group": "C",
       "stage": "GROUP_STAGE",
-      "matchday": 1,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -167,7 +167,7 @@
       "status": "finished",
       "group": "C",
       "stage": "GROUP_STAGE",
-      "matchday": 1,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -192,7 +192,7 @@
       "status": "finished",
       "group": "D",
       "stage": "GROUP_STAGE",
-      "matchday": 1,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -210,21 +210,21 @@
       "homeCode": "de",
       "homeScore": 7,
       "awayTeam": "Curaçao",
-      "awayCode": "cw",
+      "awayCode": "un",
       "awayScore": 1,
       "venue": "NRG Stadium",
       "city": "Houston, Texas",
       "status": "finished",
       "group": "E",
       "stage": "GROUP_STAGE",
-      "matchday": 1,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/de.png",
-      "awayFlag": "https://flagcdn.com/w160/cw.png"
+      "awayFlag": "https://flagcdn.com/w160/un.png"
     },
     {
       "id": 760425,
@@ -242,7 +242,7 @@
       "status": "finished",
       "group": "F",
       "stage": "GROUP_STAGE",
-      "matchday": 1,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -292,7 +292,7 @@
       "status": "finished",
       "group": "F",
       "stage": "GROUP_STAGE",
-      "matchday": 1,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -310,21 +310,21 @@
       "homeCode": "es",
       "homeScore": 0,
       "awayTeam": "Cape Verde",
-      "awayCode": "cv",
+      "awayCode": "un",
       "awayScore": 0,
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta, Georgia",
       "status": "finished",
       "group": "H",
       "stage": "GROUP_STAGE",
-      "matchday": 1,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/es.png",
-      "awayFlag": "https://flagcdn.com/w160/cv.png"
+      "awayFlag": "https://flagcdn.com/w160/un.png"
     },
     {
       "id": 760426,
@@ -342,7 +342,7 @@
       "status": "finished",
       "group": "G",
       "stage": "GROUP_STAGE",
-      "matchday": 1,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -367,7 +367,7 @@
       "status": "finished",
       "group": "H",
       "stage": "GROUP_STAGE",
-      "matchday": 1,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -392,7 +392,7 @@
       "status": "finished",
       "group": "G",
       "stage": "GROUP_STAGE",
-      "matchday": 1,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -417,7 +417,7 @@
       "status": "finished",
       "group": "I",
       "stage": "GROUP_STAGE",
-      "matchday": 1,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -442,7 +442,7 @@
       "status": "finished",
       "group": "I",
       "stage": "GROUP_STAGE",
-      "matchday": 1,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -460,21 +460,21 @@
       "homeCode": "ar",
       "homeScore": 3,
       "awayTeam": "Algeria",
-      "awayCode": "dz",
+      "awayCode": "un",
       "awayScore": 0,
       "venue": "GEHA Field at Arrowhead Stadium",
       "city": "Kansas City, Missouri",
       "status": "finished",
       "group": "J",
       "stage": "GROUP_STAGE",
-      "matchday": 1,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/ar.png",
-      "awayFlag": "https://flagcdn.com/w160/dz.png"
+      "awayFlag": "https://flagcdn.com/w160/un.png"
     },
     {
       "id": 760431,
@@ -485,21 +485,21 @@
       "homeCode": "at",
       "homeScore": 3,
       "awayTeam": "Jordan",
-      "awayCode": "jo",
+      "awayCode": "un",
       "awayScore": 1,
       "venue": "Levi's Stadium",
       "city": "Santa Clara, California",
       "status": "finished",
       "group": "J",
       "stage": "GROUP_STAGE",
-      "matchday": 1,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/at.png",
-      "awayFlag": "https://flagcdn.com/w160/jo.png"
+      "awayFlag": "https://flagcdn.com/w160/un.png"
     },
     {
       "id": 760435,
@@ -510,21 +510,21 @@
       "homeCode": "pt",
       "homeScore": 1,
       "awayTeam": "Congo DR",
-      "awayCode": "cd",
+      "awayCode": "un",
       "awayScore": 1,
       "venue": "NRG Stadium",
       "city": "Houston, Texas",
       "status": "finished",
       "group": "K",
       "stage": "GROUP_STAGE",
-      "matchday": 1,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/pt.png",
-      "awayFlag": "https://flagcdn.com/w160/cd.png"
+      "awayFlag": "https://flagcdn.com/w160/un.png"
     },
     {
       "id": 760437,
@@ -542,7 +542,7 @@
       "status": "finished",
       "group": "L",
       "stage": "GROUP_STAGE",
-      "matchday": 1,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -567,7 +567,7 @@
       "status": "finished",
       "group": "L",
       "stage": "GROUP_STAGE",
-      "matchday": 1,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -582,7 +582,7 @@
       "time": "02:00",
       "utcDate": "2026-06-18T02:00Z",
       "homeTeam": "Uzbekistan",
-      "homeCode": "uz",
+      "homeCode": "un",
       "homeScore": 1,
       "awayTeam": "Colombia",
       "awayCode": "co",
@@ -592,13 +592,13 @@
       "status": "finished",
       "group": "K",
       "stage": "GROUP_STAGE",
-      "matchday": 1,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
         null
       ],
-      "homeFlag": "https://flagcdn.com/w160/uz.png",
+      "homeFlag": "https://flagcdn.com/w160/un.png",
       "awayFlag": "https://flagcdn.com/w160/co.png"
     },
     {
@@ -617,7 +617,7 @@
       "status": "finished",
       "group": "A",
       "stage": "GROUP_STAGE",
-      "matchday": 2,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -642,7 +642,7 @@
       "status": "finished",
       "group": "B",
       "stage": "GROUP_STAGE",
-      "matchday": 2,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -667,7 +667,7 @@
       "status": "finished",
       "group": "B",
       "stage": "GROUP_STAGE",
-      "matchday": 2,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -692,7 +692,7 @@
       "status": "finished",
       "group": "A",
       "stage": "GROUP_STAGE",
-      "matchday": 2,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -707,7 +707,7 @@
       "time": "19:00",
       "utcDate": "2026-06-19T19:00Z",
       "homeTeam": "United States",
-      "homeCode": "us",
+      "homeCode": "un",
       "homeScore": 2,
       "awayTeam": "Australia",
       "awayCode": "au",
@@ -723,7 +723,7 @@
         null,
         null
       ],
-      "homeFlag": "https://flagcdn.com/w160/us.png",
+      "homeFlag": "https://flagcdn.com/w160/un.png",
       "awayFlag": "https://flagcdn.com/w160/au.png"
     },
     {
@@ -742,7 +742,7 @@
       "status": "finished",
       "group": "C",
       "stage": "GROUP_STAGE",
-      "matchday": 2,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -767,7 +767,7 @@
       "status": "finished",
       "group": "C",
       "stage": "GROUP_STAGE",
-      "matchday": 2,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -792,7 +792,7 @@
       "status": "finished",
       "group": "D",
       "stage": "GROUP_STAGE",
-      "matchday": 2,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -817,7 +817,7 @@
       "status": "finished",
       "group": "F",
       "stage": "GROUP_STAGE",
-      "matchday": 2,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -860,21 +860,21 @@
       "homeCode": "ec",
       "homeScore": 0,
       "awayTeam": "Curaçao",
-      "awayCode": "cw",
+      "awayCode": "un",
       "awayScore": 0,
       "venue": "GEHA Field at Arrowhead Stadium",
       "city": "Kansas City, Missouri",
       "status": "finished",
       "group": "E",
       "stage": "GROUP_STAGE",
-      "matchday": 2,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/ec.png",
-      "awayFlag": "https://flagcdn.com/w160/cw.png"
+      "awayFlag": "https://flagcdn.com/w160/un.png"
     },
     {
       "id": 760449,
@@ -892,7 +892,7 @@
       "status": "finished",
       "group": "F",
       "stage": "GROUP_STAGE",
-      "matchday": 2,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -917,7 +917,7 @@
       "status": "finished",
       "group": "H",
       "stage": "GROUP_STAGE",
-      "matchday": 2,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -942,7 +942,7 @@
       "status": "finished",
       "group": "G",
       "stage": "GROUP_STAGE",
-      "matchday": 2,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -960,21 +960,21 @@
       "homeCode": "uy",
       "homeScore": 2,
       "awayTeam": "Cape Verde",
-      "awayCode": "cv",
+      "awayCode": "un",
       "awayScore": 2,
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens, Florida",
       "status": "finished",
       "group": "H",
       "stage": "GROUP_STAGE",
-      "matchday": 2,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/uy.png",
-      "awayFlag": "https://flagcdn.com/w160/cv.png"
+      "awayFlag": "https://flagcdn.com/w160/un.png"
     },
     {
       "id": 760452,
@@ -992,7 +992,7 @@
       "status": "finished",
       "group": "G",
       "stage": "GROUP_STAGE",
-      "matchday": 2,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -1017,7 +1017,7 @@
       "status": "finished",
       "group": "J",
       "stage": "GROUP_STAGE",
-      "matchday": 2,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -1042,7 +1042,7 @@
       "status": "finished",
       "group": "I",
       "stage": "GROUP_STAGE",
-      "matchday": 2,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -1067,7 +1067,7 @@
       "status": "finished",
       "group": "I",
       "stage": "GROUP_STAGE",
-      "matchday": 2,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -1082,24 +1082,24 @@
       "time": "03:00",
       "utcDate": "2026-06-23T03:00Z",
       "homeTeam": "Jordan",
-      "homeCode": "jo",
+      "homeCode": "un",
       "homeScore": 1,
       "awayTeam": "Algeria",
-      "awayCode": "dz",
+      "awayCode": "un",
       "awayScore": 2,
       "venue": "Levi's Stadium",
       "city": "Santa Clara, California",
       "status": "finished",
       "group": "J",
       "stage": "GROUP_STAGE",
-      "matchday": 2,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
         null
       ],
-      "homeFlag": "https://flagcdn.com/w160/jo.png",
-      "awayFlag": "https://flagcdn.com/w160/dz.png"
+      "homeFlag": "https://flagcdn.com/w160/un.png",
+      "awayFlag": "https://flagcdn.com/w160/un.png"
     },
     {
       "id": 760461,
@@ -1110,21 +1110,21 @@
       "homeCode": "pt",
       "homeScore": 5,
       "awayTeam": "Uzbekistan",
-      "awayCode": "uz",
+      "awayCode": "un",
       "awayScore": 0,
       "venue": "NRG Stadium",
       "city": "Houston, Texas",
       "status": "finished",
       "group": "K",
       "stage": "GROUP_STAGE",
-      "matchday": 2,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/pt.png",
-      "awayFlag": "https://flagcdn.com/w160/uz.png"
+      "awayFlag": "https://flagcdn.com/w160/un.png"
     },
     {
       "id": 760458,
@@ -1142,7 +1142,7 @@
       "status": "finished",
       "group": "L",
       "stage": "GROUP_STAGE",
-      "matchday": 2,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -1167,7 +1167,7 @@
       "status": "finished",
       "group": "L",
       "stage": "GROUP_STAGE",
-      "matchday": 2,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -1185,21 +1185,21 @@
       "homeCode": "co",
       "homeScore": 1,
       "awayTeam": "Congo DR",
-      "awayCode": "cd",
+      "awayCode": "un",
       "awayScore": 0,
       "venue": "Estadio Akron",
       "city": "Guadalajara",
       "status": "finished",
       "group": "K",
       "stage": "GROUP_STAGE",
-      "matchday": 2,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/co.png",
-      "awayFlag": "https://flagcdn.com/w160/cd.png"
+      "awayFlag": "https://flagcdn.com/w160/un.png"
     },
     {
       "id": 760462,
@@ -1217,7 +1217,7 @@
       "status": "finished",
       "group": "B",
       "stage": "GROUP_STAGE",
-      "matchday": 3,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -1242,7 +1242,7 @@
       "status": "finished",
       "group": "B",
       "stage": "GROUP_STAGE",
-      "matchday": 3,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -1267,7 +1267,7 @@
       "status": "finished",
       "group": "C",
       "stage": "GROUP_STAGE",
-      "matchday": 3,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -1292,7 +1292,7 @@
       "status": "finished",
       "group": "C",
       "stage": "GROUP_STAGE",
-      "matchday": 3,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -1317,7 +1317,7 @@
       "status": "finished",
       "group": "A",
       "stage": "GROUP_STAGE",
-      "matchday": 3,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -1342,7 +1342,7 @@
       "status": "finished",
       "group": "A",
       "stage": "GROUP_STAGE",
-      "matchday": 3,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -1357,7 +1357,7 @@
       "time": "20:00",
       "utcDate": "2026-06-25T20:00Z",
       "homeTeam": "Curaçao",
-      "homeCode": "cw",
+      "homeCode": "un",
       "homeScore": 0,
       "awayTeam": "Ivory Coast",
       "awayCode": "ci",
@@ -1373,7 +1373,7 @@
         null,
         null
       ],
-      "homeFlag": "https://flagcdn.com/w160/cw.png",
+      "homeFlag": "https://flagcdn.com/w160/un.png",
       "awayFlag": "https://flagcdn.com/w160/ci.png"
     },
     {
@@ -1392,7 +1392,7 @@
       "status": "finished",
       "group": "E",
       "stage": "GROUP_STAGE",
-      "matchday": 3,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -1417,7 +1417,7 @@
       "status": "finished",
       "group": "F",
       "stage": "GROUP_STAGE",
-      "matchday": 3,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -1442,7 +1442,7 @@
       "status": "finished",
       "group": "F",
       "stage": "GROUP_STAGE",
-      "matchday": 3,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -1467,7 +1467,7 @@
       "status": "finished",
       "group": "D",
       "stage": "GROUP_STAGE",
-      "matchday": 3,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -1485,7 +1485,7 @@
       "homeCode": "tr",
       "homeScore": 3,
       "awayTeam": "United States",
-      "awayCode": "us",
+      "awayCode": "un",
       "awayScore": 2,
       "venue": "SoFi Stadium",
       "city": "Inglewood, California",
@@ -1499,7 +1499,7 @@
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/tr.png",
-      "awayFlag": "https://flagcdn.com/w160/us.png"
+      "awayFlag": "https://flagcdn.com/w160/un.png"
     },
     {
       "id": 760475,
@@ -1517,7 +1517,7 @@
       "status": "finished",
       "group": "I",
       "stage": "GROUP_STAGE",
-      "matchday": 3,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -1542,7 +1542,7 @@
       "status": "finished",
       "group": "I",
       "stage": "GROUP_STAGE",
-      "matchday": 3,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -1557,7 +1557,7 @@
       "time": "00:00",
       "utcDate": "2026-06-27T00:00Z",
       "homeTeam": "Cape Verde",
-      "homeCode": "cv",
+      "homeCode": "un",
       "homeScore": 0,
       "awayTeam": "Saudi Arabia",
       "awayCode": "sa",
@@ -1567,13 +1567,13 @@
       "status": "finished",
       "group": "H",
       "stage": "GROUP_STAGE",
-      "matchday": 3,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
         null
       ],
-      "homeFlag": "https://flagcdn.com/w160/cv.png",
+      "homeFlag": "https://flagcdn.com/w160/un.png",
       "awayFlag": "https://flagcdn.com/w160/sa.png"
     },
     {
@@ -1592,7 +1592,7 @@
       "status": "finished",
       "group": "H",
       "stage": "GROUP_STAGE",
-      "matchday": 3,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -1617,7 +1617,7 @@
       "status": "finished",
       "group": "G",
       "stage": "GROUP_STAGE",
-      "matchday": 3,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -1642,7 +1642,7 @@
       "status": "finished",
       "group": "G",
       "stage": "GROUP_STAGE",
-      "matchday": 3,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -1667,7 +1667,7 @@
       "status": "finished",
       "group": "L",
       "stage": "GROUP_STAGE",
-      "matchday": 3,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -1692,7 +1692,7 @@
       "status": "finished",
       "group": "L",
       "stage": "GROUP_STAGE",
-      "matchday": 3,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -1717,7 +1717,7 @@
       "status": "finished",
       "group": "K",
       "stage": "GROUP_STAGE",
-      "matchday": 3,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
@@ -1732,24 +1732,24 @@
       "time": "23:30",
       "utcDate": "2026-06-27T23:30Z",
       "homeTeam": "Congo DR",
-      "homeCode": "cd",
+      "homeCode": "un",
       "homeScore": 3,
       "awayTeam": "Uzbekistan",
-      "awayCode": "uz",
+      "awayCode": "un",
       "awayScore": 1,
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta, Georgia",
       "status": "finished",
       "group": "K",
       "stage": "GROUP_STAGE",
-      "matchday": 3,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
         null
       ],
-      "homeFlag": "https://flagcdn.com/w160/cd.png",
-      "awayFlag": "https://flagcdn.com/w160/uz.png"
+      "homeFlag": "https://flagcdn.com/w160/un.png",
+      "awayFlag": "https://flagcdn.com/w160/un.png"
     },
     {
       "id": 760484,
@@ -1757,7 +1757,7 @@
       "time": "02:00",
       "utcDate": "2026-06-28T02:00Z",
       "homeTeam": "Algeria",
-      "homeCode": "dz",
+      "homeCode": "un",
       "homeScore": 3,
       "awayTeam": "Austria",
       "awayCode": "at",
@@ -1767,13 +1767,13 @@
       "status": "finished",
       "group": "J",
       "stage": "GROUP_STAGE",
-      "matchday": 3,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
         null
       ],
-      "homeFlag": "https://flagcdn.com/w160/dz.png",
+      "homeFlag": "https://flagcdn.com/w160/un.png",
       "awayFlag": "https://flagcdn.com/w160/at.png"
     },
     {
@@ -1782,7 +1782,7 @@
       "time": "02:00",
       "utcDate": "2026-06-28T02:00Z",
       "homeTeam": "Jordan",
-      "homeCode": "jo",
+      "homeCode": "un",
       "homeScore": 1,
       "awayTeam": "Argentina",
       "awayCode": "ar",
@@ -1792,13 +1792,13 @@
       "status": "finished",
       "group": "J",
       "stage": "GROUP_STAGE",
-      "matchday": 3,
+      "matchday": 0,
       "minute": null,
       "halfTime": [
         null,
         null
       ],
-      "homeFlag": "https://flagcdn.com/w160/jo.png",
+      "homeFlag": "https://flagcdn.com/w160/un.png",
       "awayFlag": "https://flagcdn.com/w160/ar.png"
     },
     {
@@ -1908,17 +1908,17 @@
       "utcDate": "2026-06-30T17:00Z",
       "homeTeam": "Ivory Coast",
       "homeCode": "ci",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayTeam": "Norway",
       "awayCode": "no",
-      "awayScore": 1,
+      "awayScore": 2,
       "venue": "AT&T Stadium",
       "city": "Arlington, Texas",
-      "status": "in_play",
+      "status": "finished",
       "group": "E",
       "stage": "ROUND_OF_32",
       "matchday": 0,
-      "minute": "54'",
+      "minute": null,
       "halfTime": [
         null,
         null
@@ -1985,7 +1985,7 @@
       "homeCode": "gb-eng",
       "homeScore": 0,
       "awayTeam": "Congo DR",
-      "awayCode": "cd",
+      "awayCode": "un",
       "awayScore": 0,
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta, Georgia",
@@ -1999,7 +1999,7 @@
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/gb-eng.png",
-      "awayFlag": "https://flagcdn.com/w160/cd.png"
+      "awayFlag": "https://flagcdn.com/w160/un.png"
     },
     {
       "id": 760493,
@@ -2032,7 +2032,7 @@
       "time": "00:00",
       "utcDate": "2026-07-02T00:00Z",
       "homeTeam": "United States",
-      "homeCode": "us",
+      "homeCode": "un",
       "homeScore": 0,
       "awayTeam": "Bosnia-Herzegovina",
       "awayCode": "ba",
@@ -2048,7 +2048,7 @@
         null,
         null
       ],
-      "homeFlag": "https://flagcdn.com/w160/us.png",
+      "homeFlag": "https://flagcdn.com/w160/un.png",
       "awayFlag": "https://flagcdn.com/w160/ba.png"
     },
     {
@@ -2110,7 +2110,7 @@
       "homeCode": "ch",
       "homeScore": 0,
       "awayTeam": "Algeria",
-      "awayCode": "dz",
+      "awayCode": "un",
       "awayScore": 0,
       "venue": "BC Place",
       "city": "Vancouver",
@@ -2124,7 +2124,7 @@
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/ch.png",
-      "awayFlag": "https://flagcdn.com/w160/dz.png"
+      "awayFlag": "https://flagcdn.com/w160/un.png"
     },
     {
       "id": 760499,
@@ -2160,7 +2160,7 @@
       "homeCode": "ar",
       "homeScore": 0,
       "awayTeam": "Cape Verde",
-      "awayCode": "cv",
+      "awayCode": "un",
       "awayScore": 0,
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens, Florida",
@@ -2174,7 +2174,7 @@
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/ar.png",
-      "awayFlag": "https://flagcdn.com/w160/cv.png"
+      "awayFlag": "https://flagcdn.com/w160/un.png"
     },
     {
       "id": 760501,
@@ -2259,8 +2259,8 @@
       "homeTeam": "Brazil",
       "homeCode": "br",
       "homeScore": 0,
-      "awayTeam": "Round of 32 6 Winner",
-      "awayCode": "un",
+      "awayTeam": "Norway",
+      "awayCode": "no",
       "awayScore": 0,
       "venue": "MetLife Stadium",
       "city": "East Rutherford, New Jersey",
@@ -2274,7 +2274,7 @@
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/br.png",
-      "awayFlag": "https://flagcdn.com/w160/un.png"
+      "awayFlag": "https://flagcdn.com/w160/no.png"
     },
     {
       "id": 760505,
@@ -2603,558 +2603,6 @@
     }
   ],
   "knockoutStage": {
-    "roundOf32": {
-      "name": "Round of 32",
-      "matches": [
-        {
-          "id": 760486,
-          "date": "2026-06-28",
-          "time": "19:00",
-          "venue": "SoFi Stadium",
-          "city": "Inglewood, California",
-          "label": "South Africa vs Canada",
-          "homeTeam": "South Africa",
-          "homeCode": "za",
-          "homeFlag": "https://flagcdn.com/w160/za.png",
-          "awayTeam": "Canada",
-          "awayCode": "ca",
-          "awayFlag": "https://flagcdn.com/w160/ca.png",
-          "status": "finished",
-          "homeScore": 0,
-          "awayScore": 1
-        },
-        {
-          "id": 760487,
-          "date": "2026-06-29",
-          "time": "17:00",
-          "venue": "NRG Stadium",
-          "city": "Houston, Texas",
-          "label": "Brazil vs Japan",
-          "homeTeam": "Brazil",
-          "homeCode": "br",
-          "homeFlag": "https://flagcdn.com/w160/br.png",
-          "awayTeam": "Japan",
-          "awayCode": "jp",
-          "awayFlag": "https://flagcdn.com/w160/jp.png",
-          "status": "finished",
-          "homeScore": 2,
-          "awayScore": 1
-        },
-        {
-          "id": 760489,
-          "date": "2026-06-29",
-          "time": "20:30",
-          "venue": "Gillette Stadium",
-          "city": "Foxborough, Massachusetts",
-          "label": "Germany vs Paraguay",
-          "homeTeam": "Germany",
-          "homeCode": "de",
-          "homeFlag": "https://flagcdn.com/w160/de.png",
-          "awayTeam": "Paraguay",
-          "awayCode": "py",
-          "awayFlag": "https://flagcdn.com/w160/py.png",
-          "status": "finished",
-          "homeScore": 1,
-          "awayScore": 1
-        },
-        {
-          "id": 760488,
-          "date": "2026-06-30",
-          "time": "01:00",
-          "venue": "Estadio BBVA",
-          "city": "Guadalupe",
-          "label": "Netherlands vs Morocco",
-          "homeTeam": "Netherlands",
-          "homeCode": "nl",
-          "homeFlag": "https://flagcdn.com/w160/nl.png",
-          "awayTeam": "Morocco",
-          "awayCode": "ma",
-          "awayFlag": "https://flagcdn.com/w160/ma.png",
-          "status": "finished",
-          "homeScore": 1,
-          "awayScore": 1
-        },
-        {
-          "id": 760490,
-          "date": "2026-06-30",
-          "time": "17:00",
-          "venue": "AT&T Stadium",
-          "city": "Arlington, Texas",
-          "label": "Ivory Coast vs Norway",
-          "homeTeam": "Ivory Coast",
-          "homeCode": "ci",
-          "homeFlag": "https://flagcdn.com/w160/ci.png",
-          "awayTeam": "Norway",
-          "awayCode": "no",
-          "awayFlag": "https://flagcdn.com/w160/no.png",
-          "status": "in_play",
-          "homeScore": 0,
-          "awayScore": 1
-        },
-        {
-          "id": 760492,
-          "date": "2026-06-30",
-          "time": "21:00",
-          "venue": "MetLife Stadium",
-          "city": "East Rutherford, New Jersey",
-          "label": "France vs Sweden",
-          "homeTeam": "France",
-          "homeCode": "fr",
-          "homeFlag": "https://flagcdn.com/w160/fr.png",
-          "awayTeam": "Sweden",
-          "awayCode": "se",
-          "awayFlag": "https://flagcdn.com/w160/se.png",
-          "status": "timed",
-          "homeScore": 0,
-          "awayScore": 0
-        },
-        {
-          "id": 760491,
-          "date": "2026-07-01",
-          "time": "01:00",
-          "venue": "Estadio Banorte",
-          "city": "Mexico City",
-          "label": "Mexico vs Ecuador",
-          "homeTeam": "Mexico",
-          "homeCode": "mx",
-          "homeFlag": "https://flagcdn.com/w160/mx.png",
-          "awayTeam": "Ecuador",
-          "awayCode": "ec",
-          "awayFlag": "https://flagcdn.com/w160/ec.png",
-          "status": "timed",
-          "homeScore": 0,
-          "awayScore": 0
-        },
-        {
-          "id": 760495,
-          "date": "2026-07-01",
-          "time": "16:00",
-          "venue": "Mercedes-Benz Stadium",
-          "city": "Atlanta, Georgia",
-          "label": "England vs Congo DR",
-          "homeTeam": "England",
-          "homeCode": "gb-eng",
-          "homeFlag": "https://flagcdn.com/w160/gb-eng.png",
-          "awayTeam": "Congo DR",
-          "awayCode": "cd",
-          "awayFlag": "https://flagcdn.com/w160/cd.png",
-          "status": "timed",
-          "homeScore": 0,
-          "awayScore": 0
-        },
-        {
-          "id": 760493,
-          "date": "2026-07-01",
-          "time": "20:00",
-          "venue": "Lumen Field",
-          "city": "Seattle, Washington",
-          "label": "Belgium vs Senegal",
-          "homeTeam": "Belgium",
-          "homeCode": "be",
-          "homeFlag": "https://flagcdn.com/w160/be.png",
-          "awayTeam": "Senegal",
-          "awayCode": "sn",
-          "awayFlag": "https://flagcdn.com/w160/sn.png",
-          "status": "timed",
-          "homeScore": 0,
-          "awayScore": 0
-        },
-        {
-          "id": 760494,
-          "date": "2026-07-02",
-          "time": "00:00",
-          "venue": "Levi's Stadium",
-          "city": "Santa Clara, California",
-          "label": "United States vs Bosnia-Herzegovina",
-          "homeTeam": "United States",
-          "homeCode": "us",
-          "homeFlag": "https://flagcdn.com/w160/us.png",
-          "awayTeam": "Bosnia-Herzegovina",
-          "awayCode": "ba",
-          "awayFlag": "https://flagcdn.com/w160/ba.png",
-          "status": "timed",
-          "homeScore": 0,
-          "awayScore": 0
-        },
-        {
-          "id": 760497,
-          "date": "2026-07-02",
-          "time": "19:00",
-          "venue": "SoFi Stadium",
-          "city": "Inglewood, California",
-          "label": "Spain vs Austria",
-          "homeTeam": "Spain",
-          "homeCode": "es",
-          "homeFlag": "https://flagcdn.com/w160/es.png",
-          "awayTeam": "Austria",
-          "awayCode": "at",
-          "awayFlag": "https://flagcdn.com/w160/at.png",
-          "status": "timed",
-          "homeScore": 0,
-          "awayScore": 0
-        },
-        {
-          "id": 760496,
-          "date": "2026-07-02",
-          "time": "23:00",
-          "venue": "BMO Field",
-          "city": "Toronto",
-          "label": "Portugal vs Croatia",
-          "homeTeam": "Portugal",
-          "homeCode": "pt",
-          "homeFlag": "https://flagcdn.com/w160/pt.png",
-          "awayTeam": "Croatia",
-          "awayCode": "hr",
-          "awayFlag": "https://flagcdn.com/w160/hr.png",
-          "status": "timed",
-          "homeScore": 0,
-          "awayScore": 0
-        },
-        {
-          "id": 760498,
-          "date": "2026-07-03",
-          "time": "03:00",
-          "venue": "BC Place",
-          "city": "Vancouver",
-          "label": "Switzerland vs Algeria",
-          "homeTeam": "Switzerland",
-          "homeCode": "ch",
-          "homeFlag": "https://flagcdn.com/w160/ch.png",
-          "awayTeam": "Algeria",
-          "awayCode": "dz",
-          "awayFlag": "https://flagcdn.com/w160/dz.png",
-          "status": "timed",
-          "homeScore": 0,
-          "awayScore": 0
-        },
-        {
-          "id": 760499,
-          "date": "2026-07-03",
-          "time": "18:00",
-          "venue": "AT&T Stadium",
-          "city": "Arlington, Texas",
-          "label": "Australia vs Egypt",
-          "homeTeam": "Australia",
-          "homeCode": "au",
-          "homeFlag": "https://flagcdn.com/w160/au.png",
-          "awayTeam": "Egypt",
-          "awayCode": "eg",
-          "awayFlag": "https://flagcdn.com/w160/eg.png",
-          "status": "timed",
-          "homeScore": 0,
-          "awayScore": 0
-        },
-        {
-          "id": 760500,
-          "date": "2026-07-03",
-          "time": "22:00",
-          "venue": "Hard Rock Stadium",
-          "city": "Miami Gardens, Florida",
-          "label": "Argentina vs Cape Verde",
-          "homeTeam": "Argentina",
-          "homeCode": "ar",
-          "homeFlag": "https://flagcdn.com/w160/ar.png",
-          "awayTeam": "Cape Verde",
-          "awayCode": "cv",
-          "awayFlag": "https://flagcdn.com/w160/cv.png",
-          "status": "timed",
-          "homeScore": 0,
-          "awayScore": 0
-        },
-        {
-          "id": 760501,
-          "date": "2026-07-04",
-          "time": "01:30",
-          "venue": "GEHA Field at Arrowhead Stadium",
-          "city": "Kansas City, Missouri",
-          "label": "Colombia vs Ghana",
-          "homeTeam": "Colombia",
-          "homeCode": "co",
-          "homeFlag": "https://flagcdn.com/w160/co.png",
-          "awayTeam": "Ghana",
-          "awayCode": "gh",
-          "awayFlag": "https://flagcdn.com/w160/gh.png",
-          "status": "timed",
-          "homeScore": 0,
-          "awayScore": 0
-        }
-      ]
-    },
-    "roundOf16": {
-      "name": "Round of 16",
-      "matches": [
-        {
-          "id": 760502,
-          "date": "2026-07-04",
-          "time": "17:00",
-          "venue": "NRG Stadium",
-          "city": "Houston, Texas",
-          "label": "Canada vs Morocco",
-          "homeTeam": "Canada",
-          "homeCode": "ca",
-          "homeFlag": "https://flagcdn.com/w160/ca.png",
-          "awayTeam": "Morocco",
-          "awayCode": "ma",
-          "awayFlag": "https://flagcdn.com/w160/ma.png",
-          "status": "timed",
-          "homeScore": 0,
-          "awayScore": 0
-        },
-        {
-          "id": 760503,
-          "date": "2026-07-04",
-          "time": "21:00",
-          "venue": "Lincoln Financial Field",
-          "city": "Philadelphia, Pennsylvania",
-          "label": "Paraguay vs Round of 32 5 Winner",
-          "homeTeam": "Paraguay",
-          "homeCode": "py",
-          "homeFlag": "https://flagcdn.com/w160/py.png",
-          "awayTeam": "Round of 32 5 Winner",
-          "awayCode": "un",
-          "awayFlag": "https://flagcdn.com/w160/un.png",
-          "status": "timed",
-          "homeScore": 0,
-          "awayScore": 0
-        },
-        {
-          "id": 760504,
-          "date": "2026-07-05",
-          "time": "20:00",
-          "venue": "MetLife Stadium",
-          "city": "East Rutherford, New Jersey",
-          "label": "Brazil vs Round of 32 6 Winner",
-          "homeTeam": "Brazil",
-          "homeCode": "br",
-          "homeFlag": "https://flagcdn.com/w160/br.png",
-          "awayTeam": "Round of 32 6 Winner",
-          "awayCode": "un",
-          "awayFlag": "https://flagcdn.com/w160/un.png",
-          "status": "timed",
-          "homeScore": 0,
-          "awayScore": 0
-        },
-        {
-          "id": 760505,
-          "date": "2026-07-06",
-          "time": "00:00",
-          "venue": "Estadio Banorte",
-          "city": "Mexico City",
-          "label": "Round of 32 7 Winner vs Round of 32 8 Winner",
-          "homeTeam": "Round of 32 7 Winner",
-          "homeCode": "un",
-          "homeFlag": "https://flagcdn.com/w160/un.png",
-          "awayTeam": "Round of 32 8 Winner",
-          "awayCode": "un",
-          "awayFlag": "https://flagcdn.com/w160/un.png",
-          "status": "timed",
-          "homeScore": 0,
-          "awayScore": 0
-        },
-        {
-          "id": 760506,
-          "date": "2026-07-06",
-          "time": "19:00",
-          "venue": "AT&T Stadium",
-          "city": "Arlington, Texas",
-          "label": "Round of 32 11 Winner vs Round of 32 12 Winner",
-          "homeTeam": "Round of 32 11 Winner",
-          "homeCode": "un",
-          "homeFlag": "https://flagcdn.com/w160/un.png",
-          "awayTeam": "Round of 32 12 Winner",
-          "awayCode": "un",
-          "awayFlag": "https://flagcdn.com/w160/un.png",
-          "status": "timed",
-          "homeScore": 0,
-          "awayScore": 0
-        },
-        {
-          "id": 760507,
-          "date": "2026-07-07",
-          "time": "00:00",
-          "venue": "Lumen Field",
-          "city": "Seattle, Washington",
-          "label": "Round of 32 9 Winner vs Round of 32 10 Winner",
-          "homeTeam": "Round of 32 9 Winner",
-          "homeCode": "un",
-          "homeFlag": "https://flagcdn.com/w160/un.png",
-          "awayTeam": "Round of 32 10 Winner",
-          "awayCode": "un",
-          "awayFlag": "https://flagcdn.com/w160/un.png",
-          "status": "timed",
-          "homeScore": 0,
-          "awayScore": 0
-        },
-        {
-          "id": 760509,
-          "date": "2026-07-07",
-          "time": "16:00",
-          "venue": "Mercedes-Benz Stadium",
-          "city": "Atlanta, Georgia",
-          "label": "Round of 32 14 Winner vs Round of 32 16 Winner",
-          "homeTeam": "Round of 32 14 Winner",
-          "homeCode": "un",
-          "homeFlag": "https://flagcdn.com/w160/un.png",
-          "awayTeam": "Round of 32 16 Winner",
-          "awayCode": "un",
-          "awayFlag": "https://flagcdn.com/w160/un.png",
-          "status": "timed",
-          "homeScore": 0,
-          "awayScore": 0
-        },
-        {
-          "id": 760508,
-          "date": "2026-07-07",
-          "time": "20:00",
-          "venue": "BC Place",
-          "city": "Vancouver",
-          "label": "Round of 32 13 Winner vs Round of 32 15 Winner",
-          "homeTeam": "Round of 32 13 Winner",
-          "homeCode": "un",
-          "homeFlag": "https://flagcdn.com/w160/un.png",
-          "awayTeam": "Round of 32 15 Winner",
-          "awayCode": "un",
-          "awayFlag": "https://flagcdn.com/w160/un.png",
-          "status": "timed",
-          "homeScore": 0,
-          "awayScore": 0
-        }
-      ]
-    },
-    "quarterfinals": {
-      "name": "Quarterfinals",
-      "matches": [
-        {
-          "id": 760510,
-          "date": "2026-07-09",
-          "time": "20:00",
-          "venue": "Gillette Stadium",
-          "city": "Foxborough, Massachusetts",
-          "label": "Round of 16 1 Winner vs Round of 16 2 Winner",
-          "homeTeam": "Round of 16 1 Winner",
-          "homeCode": "un",
-          "homeFlag": "https://flagcdn.com/w160/un.png",
-          "awayTeam": "Round of 16 2 Winner",
-          "awayCode": "un",
-          "awayFlag": "https://flagcdn.com/w160/un.png",
-          "status": "timed",
-          "homeScore": 0,
-          "awayScore": 0
-        },
-        {
-          "id": 760511,
-          "date": "2026-07-10",
-          "time": "19:00",
-          "venue": "SoFi Stadium",
-          "city": "Inglewood, California",
-          "label": "Round of 16 5 Winner vs Round of 16 6 Winner",
-          "homeTeam": "Round of 16 5 Winner",
-          "homeCode": "un",
-          "homeFlag": "https://flagcdn.com/w160/un.png",
-          "awayTeam": "Round of 16 6 Winner",
-          "awayCode": "un",
-          "awayFlag": "https://flagcdn.com/w160/un.png",
-          "status": "timed",
-          "homeScore": 0,
-          "awayScore": 0
-        },
-        {
-          "id": 760512,
-          "date": "2026-07-11",
-          "time": "21:00",
-          "venue": "Hard Rock Stadium",
-          "city": "Miami Gardens, Florida",
-          "label": "Round of 16 3 Winner vs Round of 16 4 Winner",
-          "homeTeam": "Round of 16 3 Winner",
-          "homeCode": "un",
-          "homeFlag": "https://flagcdn.com/w160/un.png",
-          "awayTeam": "Round of 16 4 Winner",
-          "awayCode": "un",
-          "awayFlag": "https://flagcdn.com/w160/un.png",
-          "status": "timed",
-          "homeScore": 0,
-          "awayScore": 0
-        },
-        {
-          "id": 760513,
-          "date": "2026-07-12",
-          "time": "01:00",
-          "venue": "GEHA Field at Arrowhead Stadium",
-          "city": "Kansas City, Missouri",
-          "label": "Round of 16 7 Winner vs Round of 16 8 Winner",
-          "homeTeam": "Round of 16 7 Winner",
-          "homeCode": "un",
-          "homeFlag": "https://flagcdn.com/w160/un.png",
-          "awayTeam": "Round of 16 8 Winner",
-          "awayCode": "un",
-          "awayFlag": "https://flagcdn.com/w160/un.png",
-          "status": "timed",
-          "homeScore": 0,
-          "awayScore": 0
-        }
-      ]
-    },
-    "semifinals": {
-      "name": "Semifinals",
-      "matches": [
-        {
-          "id": 760514,
-          "date": "2026-07-14",
-          "time": "19:00",
-          "venue": "AT&T Stadium",
-          "city": "Arlington, Texas",
-          "label": "Quarterfinal 1 Winner vs Quarterfinal 2 Winner",
-          "homeTeam": "Quarterfinal 1 Winner",
-          "homeCode": "un",
-          "homeFlag": "https://flagcdn.com/w160/un.png",
-          "awayTeam": "Quarterfinal 2 Winner",
-          "awayCode": "un",
-          "awayFlag": "https://flagcdn.com/w160/un.png",
-          "status": "timed",
-          "homeScore": 0,
-          "awayScore": 0
-        },
-        {
-          "id": 760515,
-          "date": "2026-07-15",
-          "time": "19:00",
-          "venue": "Mercedes-Benz Stadium",
-          "city": "Atlanta, Georgia",
-          "label": "Quarterfinal 3 Winner vs Quarterfinal 4 Winner",
-          "homeTeam": "Quarterfinal 3 Winner",
-          "homeCode": "un",
-          "homeFlag": "https://flagcdn.com/w160/un.png",
-          "awayTeam": "Quarterfinal 4 Winner",
-          "awayCode": "un",
-          "awayFlag": "https://flagcdn.com/w160/un.png",
-          "status": "timed",
-          "homeScore": 0,
-          "awayScore": 0
-        }
-      ]
-    },
-    "thirdPlace": {
-      "name": "3rd Place Match",
-      "matches": [
-        {
-          "id": 760516,
-          "date": "2026-07-18",
-          "time": "21:00",
-          "venue": "Hard Rock Stadium",
-          "city": "Miami Gardens, Florida",
-          "label": "Semifinal 1 Loser vs Semifinal 2 Loser",
-          "homeTeam": "Semifinal 1 Loser",
-          "homeCode": "un",
-          "homeFlag": "https://flagcdn.com/w160/un.png",
-          "awayTeam": "Semifinal 2 Loser",
-          "awayCode": "un",
-          "awayFlag": "https://flagcdn.com/w160/un.png",
-          "status": "timed",
-          "homeScore": 0,
-          "awayScore": 0
-        }
-      ]
-    },
     "final": {
       "name": "Final",
       "matches": [
@@ -3164,16 +2612,7 @@
           "time": "19:00",
           "venue": "MetLife Stadium",
           "city": "East Rutherford, New Jersey",
-          "label": "Semifinal 1 Winner vs Semifinal 2 Winner",
-          "homeTeam": "Semifinal 1 Winner",
-          "homeCode": "un",
-          "homeFlag": "https://flagcdn.com/w160/un.png",
-          "awayTeam": "Semifinal 2 Winner",
-          "awayCode": "un",
-          "awayFlag": "https://flagcdn.com/w160/un.png",
-          "status": "timed",
-          "homeScore": 0,
-          "awayScore": 0
+          "label": "Semifinal 1 Winner vs Semifinal 2 Winner"
         }
       ]
     }
