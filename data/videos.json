@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-30T00:08:11.158Z",
+  "lastUpdated": "2026-06-30T00:15:11.178Z",
   "featured": {
-    "match": "_iu7diQa_Is",
-    "highlight": "_iu7diQa_Is",
+    "match": "xl541SKfhpU",
+    "highlight": "xl541SKfhpU",
     "interview": "ffZH37s2UnE"
   },
   "videos": [
+    {
+      "title": "Alt Cast Highlights: Algeria v Austria | FIFA World Cup 2026™",
+      "videoId": "xl541SKfhpU",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Algeria",
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xl541SKfhpU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria",
+      "source": "match-search"
+    },
+    {
+      "title": "Algeria vs Austria Highlights | 2026 FIFA World Cup™ - FOX Sports",
+      "videoId": "KGzqrMVKa-U",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Algeria",
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/KGzqrMVKa-U/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria",
+      "source": "match-search"
+    },
     {
       "title": "Casemiro scores the equalizer for Brazil against Japan. #FIFAWorldCupOnYT",
       "videoId": "_iu7diQa_Is",
