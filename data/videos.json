@@ -1,28 +1,76 @@
 {
-  "lastUpdated": "2026-06-30T16:04:47.735Z",
+  "lastUpdated": "2026-06-30T17:59:31.775Z",
   "featured": {
-    "match": "xl541SKfhpU",
-    "highlight": "xl541SKfhpU",
+    "match": "Crhw8vr6b4s",
+    "highlight": "Crhw8vr6b4s",
     "interview": "3L5g2z9I2Jk"
   },
   "videos": [
     {
-      "title": "Alt Cast Highlights: Algeria v Austria | FIFA World Cup 2026™",
-      "videoId": "xl541SKfhpU",
-      "channel": "Web Search",
+      "title": "Alt Cast Highlights: Brazil v Japan | FIFA World Cup 2026™",
+      "videoId": "Crhw8vr6b4s",
+      "channel": "FIFA",
       "publishedAt": "2026-06-30",
       "category": "Highlights",
       "team": [
-        "Algeria",
-        "Austria"
+        "Brazil",
+        "Japan"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xl541SKfhpU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Crhw8vr6b4s/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria",
-      "source": "match-search"
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "Highlights | Brazil 2-1 Japan | FIFA World Cup 2026™",
+      "videoId": "Fd_KYjbmws4",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Fd_KYjbmws4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "Team Feature: Bosnia And Herzegovina | Moving From Underdogs to Tournament Competitors",
+      "videoId": "gBCSidDD-g0",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/gBCSidDD-g0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "Team Feature: USA | The Journey of Sergiño Dest: From Ajax Youth to the World Cup Stage",
+      "videoId": "dlAhC6bnyf0",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/dlAhC6bnyf0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
     },
     {
       "title": "INCREDIBLE SAVES | Group Stage | FIFA World Cup 2026™",
@@ -175,99 +223,64 @@
       "fixtureTeams": "Cape Verde vs Saudi Arabia"
     },
     {
-      "title": "Watch the full penalty shootout between the Netherlands and Morocco! 🇳🇱🆚🇲🇦 #FIFAWorldCupOnYT",
-      "videoId": "E-i10iMY0CI",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-30",
-      "category": "Highlights",
-      "team": [
-        "Netherlands",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/E-i10iMY0CI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
-    },
-    {
-      "title": "Ecuador On Playing Mexico | Coach Beccacece and goalkeeper Valle Take Questions",
-      "videoId": "Fk3lW1HXmN0",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-30",
-      "category": "Highlights",
-      "team": [
-        "Mexico",
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Fk3lW1HXmN0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
-    },
-    {
-      "title": "Netherlands 🆚 Morocco #FIFAWorldCupOnYT",
-      "videoId": "MPXsMR5m5Io",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-30",
-      "category": "Highlights",
-      "team": [
-        "Netherlands",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/MPXsMR5m5Io/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
-    },
-    {
-      "title": "Post-Match Press Conference: Koeman On Netherlands' 3-2 Loss On Penalties To Morocco",
-      "videoId": "fhyIIYW5KtE",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-30",
-      "category": "Highlights",
-      "team": [
-        "Netherlands",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fhyIIYW5KtE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
-    },
-    {
-      "title": "Post-Match Press Conference: Morocco's Mohamed Ouahbi On 3-2 Win On Penalties Over The Netherlands",
-      "videoId": "4lNvrpltYtQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-30",
-      "category": "Highlights",
-      "team": [
-        "Netherlands",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/4lNvrpltYtQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
-    },
-    {
-      "title": "Germany vs. Paraguay REACTION 🔥 Geoff Cameron says Germany should be DISAPPOINTED | First Take",
-      "videoId": "L_DpMo_Q0Cw",
+      "title": "'A DISASTER!’ 😱 Reactions to Germany’s World Cup loss | ESPN FC",
+      "videoId": "Ujh6BGCxYlQ",
       "channel": "ESPN FC",
       "publishedAt": "2026-06-30",
       "category": "Viral",
       "team": [
+        "Germany"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Ujh6BGCxYlQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "Did Brazil prove to be LEGIT WORLD CUP CONTENDERS with Round of 32 win vs. Japan? 😯 | ESPN FC",
+      "videoId": "ahttpRM0u_k",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ahttpRM0u_k/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "Morocco ELIMINATES the Netherlands 👀 Juls Laurens QUESTIONS the managing | ESPN FC",
+      "videoId": "aRXc8KjDjRo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/aRXc8KjDjRo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "More surprising exit from the 2026 FIFA World Cup: Germany or the Netherlands? 🌎 | First Take",
+      "videoId": "L_DpMo_Q0Cw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
         "Germany",
-        "Paraguay"
+        "Netherlands"
       ],
       "duration": "N/A",
       "views": 0,
@@ -448,50 +461,20 @@
       "fixtureTeams": "Cape Verde vs Saudi Arabia"
     },
     {
-      "title": "Carlo Ancelotti 'empowers his players' 🗣️ Brazil advance to Round of 16 at the World Cup | ESPN FC",
-      "videoId": "OJsP5dTdU34",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-30",
+      "title": "WATCH LIVE | Côte d'Ivoire v Norway | Round of 32 | FIFA World Cup 2026™",
+      "videoId": "FyHI66zBpxk",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
       "category": "Highlights",
       "team": [
-        "Brazil"
+        "Norway"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/OJsP5dTdU34/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/FyHI66zBpxk/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
-    },
-    {
-      "title": "Is Julian Nagelsmann’s job safe after Germany’s World Cup exit? | ESPN FC",
-      "videoId": "kb0xucI1CKg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-30",
-      "category": "Highlights",
-      "team": [
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/kb0xucI1CKg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
-    },
-    {
-      "title": "The dog was HYPED 😂 (via lilia_belcacho, thiagopain95/IG)",
-      "videoId": "OpYHeZm5uww",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-30",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/OpYHeZm5uww/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+      "fixtureTeams": "Czechia vs Mexico"
     }
   ]
 }
