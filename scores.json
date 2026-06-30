@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T22:00:46.988Z",
+  "lastUpdated": "2026-06-30T23:11:55.270Z",
   "liveMatches": [
     {
       "id": 760492,
@@ -8,7 +8,7 @@
       "utcDate": "2026-06-30T21:00Z",
       "homeTeam": "France",
       "homeCode": "fr",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayTeam": "Sweden",
       "awayCode": "se",
       "awayScore": 0,
@@ -18,7 +18,7 @@
       "group": "I",
       "stage": "ROUND_OF_32",
       "matchday": 0,
-      "minute": "45'+4'",
+      "minute": "61'",
       "halfTime": [
         null,
         null
@@ -2060,8 +2060,8 @@
       "homeTeam": "Paraguay",
       "homeCode": "py",
       "homeScore": 0,
-      "awayTeam": "Round of 32 5 Winner",
-      "awayCode": "un",
+      "awayTeam": "France",
+      "awayCode": "fr",
       "awayScore": 0,
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia, Pennsylvania",

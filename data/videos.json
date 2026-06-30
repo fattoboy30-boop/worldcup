@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-30T22:17:18.624Z",
+  "lastUpdated": "2026-06-30T23:12:28.548Z",
   "featured": {
-    "match": "erw1rCF9BtU",
-    "highlight": "erw1rCF9BtU",
+    "match": "5Mvh0mqY8ik",
+    "highlight": "5Mvh0mqY8ik",
     "interview": "feKJ-BO2lAE"
   },
   "videos": [
+    {
+      "title": "Highlights | Algeria 3-3 Austria | FIFA World Cup 2026™ - YouTube",
+      "videoId": "5Mvh0mqY8ik",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Algeria",
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/5Mvh0mqY8ik/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria",
+      "source": "match-search"
+    },
+    {
+      "title": "Algeria vs. Austria | Match Highlights | FIFA World Cup 2026™",
+      "videoId": "t92Q_KzIiEc",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Algeria",
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/t92Q_KzIiEc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria",
+      "source": "match-search"
+    },
     {
       "title": "Antonio Nusa Goal | Cote d'Ivoire 1-2 Norway | FIFA World Cup 2026™",
       "videoId": "erw1rCF9BtU",
