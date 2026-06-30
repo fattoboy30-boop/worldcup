@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T23:11:55.273Z",
+  "lastUpdated": "2026-06-30T23:21:46.395Z",
   "fixtures": [
     {
       "id": 760415,
@@ -1933,17 +1933,17 @@
       "utcDate": "2026-06-30T21:00Z",
       "homeTeam": "France",
       "homeCode": "fr",
-      "homeScore": 2,
+      "homeScore": 3,
       "awayTeam": "Sweden",
       "awayCode": "se",
       "awayScore": 0,
       "venue": "MetLife Stadium",
       "city": "East Rutherford, New Jersey",
-      "status": "in_play",
+      "status": "finished",
       "group": "I",
       "stage": "ROUND_OF_32",
       "matchday": 0,
-      "minute": "61'",
+      "minute": null,
       "halfTime": [
         null,
         null
