@@ -1,44 +1,128 @@
 {
-  "lastUpdated": "2026-06-29T23:01:01.350Z",
+  "lastUpdated": "2026-06-30T00:08:11.158Z",
   "featured": {
-    "match": "pNTOn8r3ojY",
-    "highlight": "pNTOn8r3ojY",
+    "match": "_iu7diQa_Is",
+    "highlight": "_iu7diQa_Is",
     "interview": "ffZH37s2UnE"
   },
   "videos": [
     {
-      "title": "Cabo Verde 0-0 Saudi Arabia Highlights | Historic Qualification ...",
-      "videoId": "pNTOn8r3ojY",
-      "channel": "Web Search",
+      "title": "Casemiro scores the equalizer for Brazil against Japan. #FIFAWorldCupOnYT",
+      "videoId": "_iu7diQa_Is",
+      "channel": "FIFA",
       "publishedAt": "2026-06-29",
       "category": "Highlights",
       "team": [
-        "Saudi Arabia"
+        "Brazil",
+        "Japan"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/pNTOn8r3ojY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/_iu7diQa_Is/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia",
-      "source": "match-search"
+      "fixtureTeams": "Paraguay vs Australia"
     },
     {
-      "title": "Highlights | Cape Verde vs Saudi Arabia | Match 64 | FIFA World Cup 2026™",
-      "videoId": "2Bz2gOU-5bk",
-      "channel": "Web Search",
+      "title": "Mexico On Playing Ecuador | Javier Aguirre Onaindía Takes Questions",
+      "videoId": "YyshBwzwrpw",
+      "channel": "FIFA",
       "publishedAt": "2026-06-29",
       "category": "Highlights",
       "team": [
-        "Saudi Arabia"
+        "Mexico",
+        "Ecuador"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/2Bz2gOU-5bk/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/YyshBwzwrpw/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia",
-      "source": "match-search"
+      "fixtureTeams": "Paraguay vs Australia"
+    },
+    {
+      "title": "Norway Train Before Cote d'Ivoire | FIFA World Cup 2026™",
+      "videoId": "W8C6cIRdrcA",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-29",
+      "category": "Highlights",
+      "team": [
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/W8C6cIRdrcA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia"
+    },
+    {
+      "title": "Mexico Train Before Ecuador | FIFA World Cup 2026™",
+      "videoId": "KtHvt1kOAlA",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-29",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/KtHvt1kOAlA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia"
+    },
+    {
+      "title": "Sweden On Playing France | Graham Potter and Victor Lindelöf Take Questions",
+      "videoId": "Wzk-sGkRHPo",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-29",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Sweden"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Wzk-sGkRHPo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia"
+    },
+    {
+      "title": "Gabriel Martinelli Goal | Brazil 2-1 Japan | FIFA World Cup 2026™",
+      "videoId": "eWR-9okpBfM",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-29",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/eWR-9okpBfM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia"
+    },
+    {
+      "title": "Martinelli scores Brazil’s winner against Japan. #FIFAWorldCupOnYT",
+      "videoId": "nJt_qglJAKw",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-29",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/nJt_qglJAKw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia"
     },
     {
       "title": "Post-Match Press Conference: Japan's Hajime Moriyasu On 2-1 Loss To Brazil",
@@ -175,114 +259,18 @@
       "fixtureTeams": "Paraguay vs Australia"
     },
     {
-      "title": "Ecuador Train Before Mexico | FIFA World Cup 2026™",
-      "videoId": "HvFcd7W1ISg",
-      "channel": "FIFA",
+      "title": "‘A LOT of thinking for Ancelotti’ 😬🇧🇷 Brazil eliminate Japan, but can they go further? | ESPN FC",
+      "videoId": "2IVYfRUpRQs",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-29",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "Ecuador"
+        "Brazil",
+        "Japan"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/HvFcd7W1ISg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Paraguay vs Australia"
-    },
-    {
-      "title": "France On Playing Sweden | Didier Deschamps Takes Questions",
-      "videoId": "x1LKTbHEdp0",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-29",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Sweden"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/x1LKTbHEdp0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Paraguay vs Australia"
-    },
-    {
-      "title": "Team Feature: Ecuador | Beccacece: 'Let's Do Our Talking On The Pitch'",
-      "videoId": "EpqVEjBAx54",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-29",
-      "category": "Highlights",
-      "team": [
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/EpqVEjBAx54/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Paraguay vs Australia"
-    },
-    {
-      "title": "Team Feature: Mexico | Quiñones: 'Mexico Made Me Who I am Today'",
-      "videoId": "KE6E1KhjZxU",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-29",
-      "category": "Highlights",
-      "team": [
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/KE6E1KhjZxU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Paraguay vs Australia"
-    },
-    {
-      "title": "Breakout Goalkeeping Stars | FIFA World Cup 2026™",
-      "videoId": "Sk-6oi75SZw",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-29",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Sk-6oi75SZw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Paraguay vs Australia"
-    },
-    {
-      "title": "Team Feature: Sweden | Elanga Explains All!",
-      "videoId": "Aad6Ikazvlk",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-29",
-      "category": "Highlights",
-      "team": [
-        "Sweden"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Aad6Ikazvlk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Paraguay vs Australia"
-    },
-    {
-      "title": "Alt Cast Highlights: South Africa v Canada | FIFA World Cup 2026™",
-      "videoId": "XidNuRLH3OE",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-29",
-      "category": "Highlights",
-      "team": [
-        "Canada",
-        "South Africa"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/XidNuRLH3OE/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/2IVYfRUpRQs/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Paraguay vs Australia"
@@ -501,22 +489,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/5jJCOii2438/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Paraguay vs Australia"
-    },
-    {
-      "title": "When #Messi popped his head out to wave to all the #Argentina ❤️👋",
-      "videoId": "qu832Cap9E8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-29",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/qu832Cap9E8/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Paraguay vs Australia"
