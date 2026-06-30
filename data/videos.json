@@ -1,46 +1,171 @@
 {
-  "lastUpdated": "2026-06-30T21:55:53.236Z",
+  "lastUpdated": "2026-06-30T22:17:18.624Z",
   "featured": {
-    "match": "xl541SKfhpU",
-    "highlight": "xl541SKfhpU",
-    "interview": "3L5g2z9I2Jk"
+    "match": "erw1rCF9BtU",
+    "highlight": "erw1rCF9BtU",
+    "interview": "feKJ-BO2lAE"
   },
   "videos": [
     {
-      "title": "Alt Cast Highlights: Algeria v Austria | FIFA World Cup 2026™",
-      "videoId": "xl541SKfhpU",
-      "channel": "Web Search",
+      "title": "Antonio Nusa Goal | Cote d'Ivoire 1-2 Norway | FIFA World Cup 2026™",
+      "videoId": "erw1rCF9BtU",
+      "channel": "FIFA",
       "publishedAt": "2026-06-30",
       "category": "Highlights",
       "team": [
-        "Algeria",
-        "Austria"
+        "USA",
+        "Norway"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xl541SKfhpU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/erw1rCF9BtU/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria",
-      "source": "match-search"
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
     },
     {
-      "title": "Algeria vs Austria Highlights | 2026 FIFA World Cup™ - FOX Sports",
-      "videoId": "JH_WRKTCPK4",
-      "channel": "Web Search",
+      "title": "Erling Haaland Goal | Cote d'Ivoire 1-2 Norway | FIFA World Cup 2026™",
+      "videoId": "XhYSxGmy3Lw",
+      "channel": "FIFA",
       "publishedAt": "2026-06-30",
       "category": "Highlights",
       "team": [
-        "Algeria",
-        "Austria"
+        "Norway"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/JH_WRKTCPK4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/XhYSxGmy3Lw/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria",
-      "source": "match-search"
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "Erling Haaland delivers the winner for Norway 🇳🇴 #FIFAWorldCupOnYT",
+      "videoId": "Ts-gGm8g4So",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Ts-gGm8g4So/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "Nusa scores a stunning goal for Norway! 🇳🇴 #FIFAWolrdCupOnYT",
+      "videoId": "exfp8qRosUs",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "USA",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/exfp8qRosUs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "Post-Match Interviews: Cote d'Ivoire 1-2 Norway",
+      "videoId": "DeyCAiA4vXs",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/DeyCAiA4vXs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "Côte d’Ivoire 🆚 Norway #FIFAWorldCupOnYT",
+      "videoId": "jd-1XtKhHQk",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jd-1XtKhHQk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "Post-Match Press Conference: Norway's Ståle Solbakken On 2-1 Win Over Cote d'Ivoire",
+      "videoId": "0KK9F6Lj88Y",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0KK9F6Lj88Y/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "Post-Match Press Conference: Cote d'Ivoire's Emerse Fae On 2-1 Loss To Norway",
+      "videoId": "p2tePetOozE",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/p2tePetOozE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "Highlights | Germany (3)1-1(4) Paraguay | FIFA World Cup 2026™",
+      "videoId": "Gw6vNwAvkTs",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Germany",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Gw6vNwAvkTs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "The Goal of the Group Stage Winner! #HyundaiGOTT2026",
+      "videoId": "CBRBSiyn3UE",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/CBRBSiyn3UE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
     },
     {
       "title": "Belgium Train Before Senegal |FIFA World Cup 2026™",
@@ -55,7 +180,7 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/tN26RP2TGHw/mqdefault.jpg",
-      "matchday": 3,
+      "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Cape Verde vs Saudi Arabia"
     },
@@ -71,7 +196,7 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/FyHI66zBpxk/mqdefault.jpg",
-      "matchday": 3,
+      "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Cape Verde vs Saudi Arabia"
     },
@@ -88,7 +213,7 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/PCBKo13Cnd0/mqdefault.jpg",
-      "matchday": 3,
+      "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Cape Verde vs Saudi Arabia"
     },
@@ -104,7 +229,7 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/x9rO4u9Yl7U/mqdefault.jpg",
-      "matchday": 3,
+      "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Cape Verde vs Saudi Arabia"
     },
@@ -121,163 +246,23 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/HtgvNnsbQn4/mqdefault.jpg",
-      "matchday": 3,
+      "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Cape Verde vs Saudi Arabia"
     },
     {
-      "title": "England Train Before Congo DR | FIFA World Cup 2026™",
-      "videoId": "bRnSiZAmhIE",
-      "channel": "FIFA",
+      "title": "Julien Laurens didn't hold back on Ronald Koeman's handling of the Netherlands 😲",
+      "videoId": "hp-vbtad-oQ",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-30",
       "category": "Highlights",
       "team": [
-        "England"
+        "Netherlands"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/bRnSiZAmhIE/mqdefault.jpg",
-      "matchday": 3,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
-    },
-    {
-      "title": "Alt Cast Highlights: Brazil v Japan | FIFA World Cup 2026™",
-      "videoId": "Crhw8vr6b4s",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-30",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Japan"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Crhw8vr6b4s/mqdefault.jpg",
-      "matchday": 3,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
-    },
-    {
-      "title": "Highlights | Brazil 2-1 Japan | FIFA World Cup 2026™",
-      "videoId": "Fd_KYjbmws4",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-30",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Japan"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Fd_KYjbmws4/mqdefault.jpg",
-      "matchday": 3,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
-    },
-    {
-      "title": "Team Feature: Bosnia And Herzegovina | Moving From Underdogs to Tournament Competitors",
-      "videoId": "gBCSidDD-g0",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-30",
-      "category": "Highlights",
-      "team": [
-        "Bosnia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/gBCSidDD-g0/mqdefault.jpg",
-      "matchday": 3,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
-    },
-    {
-      "title": "Team Feature: USA | The Journey of Sergiño Dest: From Ajax Youth to the World Cup Stage",
-      "videoId": "dlAhC6bnyf0",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-30",
-      "category": "Highlights",
-      "team": [
-        "USA"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/dlAhC6bnyf0/mqdefault.jpg",
-      "matchday": 3,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
-    },
-    {
-      "title": "INCREDIBLE SAVES | Group Stage | FIFA World Cup 2026™",
-      "videoId": "3L5g2z9I2Jk",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-30",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/3L5g2z9I2Jk/mqdefault.jpg",
-      "matchday": 3,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
-    },
-    {
-      "title": "Team Feature: Senegal | Sadio Mané: What It Takes to Achieve Your World Cup Dream",
-      "videoId": "cXH7F1wFbUQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-30",
-      "category": "Highlights",
-      "team": [
-        "Senegal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/cXH7F1wFbUQ/mqdefault.jpg",
-      "matchday": 3,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
-    },
-    {
-      "title": "The Shared Journey of Romelu Lukaku and Kevin De Bruyne",
-      "videoId": "KFQK0t_5L4M",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-30",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/KFQK0t_5L4M/mqdefault.jpg",
-      "matchday": 3,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
-    },
-    {
-      "title": "Team Feature: Congo DR | Kayembe: 'We Will Fight Like Leopards'",
-      "videoId": "NVZj5gthMUY",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-30",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/NVZj5gthMUY/mqdefault.jpg",
-      "matchday": 3,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
-    },
-    {
-      "title": "Team Feature: England | Tuchel Loving Life As England Boss",
-      "videoId": "PnvmLzMl19c",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-30",
-      "category": "Highlights",
-      "team": [
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PnvmLzMl19c/mqdefault.jpg",
-      "matchday": 3,
+      "thumbnail": "https://img.youtube.com/vi/hp-vbtad-oQ/mqdefault.jpg",
+      "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Cape Verde vs Saudi Arabia"
     },
@@ -291,7 +276,7 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/TTzn8Ij9OpI/mqdefault.jpg",
-      "matchday": 3,
+      "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Cape Verde vs Saudi Arabia"
     },
@@ -308,7 +293,7 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/feKJ-BO2lAE/mqdefault.jpg",
-      "matchday": 3,
+      "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Cape Verde vs Saudi Arabia"
     },
@@ -324,7 +309,7 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/fIgMO268vtc/mqdefault.jpg",
-      "matchday": 3,
+      "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Cape Verde vs Saudi Arabia"
     },
@@ -340,7 +325,7 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/MKEvcqagtb0/mqdefault.jpg",
-      "matchday": 3,
+      "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Cape Verde vs Saudi Arabia"
     },
@@ -354,7 +339,7 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/anfVXUbSPfE/mqdefault.jpg",
-      "matchday": 3,
+      "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Cape Verde vs Saudi Arabia"
     },
@@ -370,7 +355,7 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/Ujh6BGCxYlQ/mqdefault.jpg",
-      "matchday": 3,
+      "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Cape Verde vs Saudi Arabia"
     },
@@ -387,7 +372,7 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/ahttpRM0u_k/mqdefault.jpg",
-      "matchday": 3,
+      "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Cape Verde vs Saudi Arabia"
     },
@@ -404,7 +389,7 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/aRXc8KjDjRo/mqdefault.jpg",
-      "matchday": 3,
+      "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Cape Verde vs Saudi Arabia"
     },
@@ -421,7 +406,7 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/L_DpMo_Q0Cw/mqdefault.jpg",
-      "matchday": 3,
+      "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Cape Verde vs Saudi Arabia"
     },
@@ -435,7 +420,7 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/VXYwHvzVTC8/mqdefault.jpg",
-      "matchday": 3,
+      "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Cape Verde vs Saudi Arabia"
     },
@@ -451,7 +436,7 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/MejqEN0kTvM/mqdefault.jpg",
-      "matchday": 3,
+      "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Cape Verde vs Saudi Arabia"
     },
@@ -467,7 +452,7 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/dtq6h_VkZmE/mqdefault.jpg",
-      "matchday": 3,
+      "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Cape Verde vs Saudi Arabia"
     },
@@ -483,7 +468,7 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/bSk4s0T9VCo/mqdefault.jpg",
-      "matchday": 3,
+      "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Cape Verde vs Saudi Arabia"
     },
@@ -499,24 +484,7 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/6vifiwyU7qU/mqdefault.jpg",
-      "matchday": 3,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
-    },
-    {
-      "title": "Germany vs. Paraguay FULL penalty shootout from a German fan’s POV | ESPN FC",
-      "videoId": "S21JqqihQBE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-30",
-      "category": "Highlights",
-      "team": [
-        "Germany",
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/S21JqqihQBE/mqdefault.jpg",
-      "matchday": 3,
+      "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Cape Verde vs Saudi Arabia"
     }
