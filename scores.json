@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-30T20:31:13.256Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-06-30T21:55:19.501Z",
+  "liveMatches": [
+    {
+      "id": 760492,
+      "date": "2026-06-30",
+      "time": "21:00",
+      "utcDate": "2026-06-30T21:00Z",
+      "homeTeam": "France",
+      "homeCode": "fr",
+      "homeScore": 1,
+      "awayTeam": "Sweden",
+      "awayCode": "se",
+      "awayScore": 0,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford, New Jersey",
+      "status": "in_play",
+      "group": "I",
+      "stage": "ROUND_OF_32",
+      "matchday": 0,
+      "minute": "45'+3'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -1775,29 +1799,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760492,
-      "date": "2026-06-30",
-      "time": "21:00",
-      "utcDate": "2026-06-30T21:00Z",
-      "homeTeam": "France",
-      "homeCode": "fr",
-      "homeScore": 0,
-      "awayTeam": "Sweden",
-      "awayCode": "se",
-      "awayScore": 0,
-      "venue": "MetLife Stadium",
-      "city": "East Rutherford, New Jersey",
-      "status": "timed",
-      "group": "I",
-      "stage": "ROUND_OF_32",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760491,
       "date": "2026-07-01",

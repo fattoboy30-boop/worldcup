@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-30T20:11:37.451Z",
+  "lastUpdated": "2026-06-30T21:55:53.236Z",
   "featured": {
-    "match": "tN26RP2TGHw",
-    "highlight": "tN26RP2TGHw",
+    "match": "xl541SKfhpU",
+    "highlight": "xl541SKfhpU",
     "interview": "3L5g2z9I2Jk"
   },
   "videos": [
+    {
+      "title": "Alt Cast Highlights: Algeria v Austria | FIFA World Cup 2026™",
+      "videoId": "xl541SKfhpU",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Algeria",
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xl541SKfhpU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria",
+      "source": "match-search"
+    },
+    {
+      "title": "Algeria vs Austria Highlights | 2026 FIFA World Cup™ - FOX Sports",
+      "videoId": "JH_WRKTCPK4",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Algeria",
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JH_WRKTCPK4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria",
+      "source": "match-search"
+    },
     {
       "title": "Belgium Train Before Senegal |FIFA World Cup 2026™",
       "videoId": "tN26RP2TGHw",
