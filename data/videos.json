@@ -1,28 +1,495 @@
 {
-  "lastUpdated": "2026-06-30T08:21:07.814Z",
+  "lastUpdated": "2026-06-30T09:44:28.421Z",
   "featured": {
-    "match": "xl541SKfhpU",
-    "highlight": "xl541SKfhpU",
-    "interview": "xl541SKfhpU"
+    "match": "PTilt8o21Og",
+    "highlight": "PTilt8o21Og",
+    "interview": "C_n81QxVAAo"
   },
   "videos": [
     {
-      "title": "Alt Cast Highlights: Algeria v Austria | FIFA World Cup 2026™",
-      "videoId": "xl541SKfhpU",
-      "channel": "Web Search",
+      "title": "Issa Diop Goal | Netherlands (2)1-1(3) Morocco | FIFA World Cup 2026™",
+      "videoId": "PTilt8o21Og",
+      "channel": "FIFA",
       "publishedAt": "2026-06-30",
       "category": "Highlights",
       "team": [
-        "Algeria",
-        "Austria"
+        "Netherlands",
+        "Morocco"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xl541SKfhpU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/PTilt8o21Og/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria",
-      "source": "match-search"
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "June 29 Matchday Recap | #FIFAWorldCup @aramco",
+      "videoId": "a9mDZNES_QU",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/a9mDZNES_QU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "Morocco Eliminate Netherlands On Penalties | Netherlands (2)1-1(3) Morocco | FIFA World Cup 2026™",
+      "videoId": "jE-jOIfNlCw",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jE-jOIfNlCw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "Diop with a dramatic late equaliser! ⏱️🇲🇦 #FIFAWorldCupOnYT",
+      "videoId": "c8QmneYF_HI",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/c8QmneYF_HI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "Watch the full penalty shootout between the Netherlands and Morocco! 🇳🇱🆚🇲🇦 #FIFAWorldCupOnYT",
+      "videoId": "E-i10iMY0CI",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/E-i10iMY0CI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "Ecuador On Playing Mexico | Coach Beccacece and goalkeeper Valle Take Questions",
+      "videoId": "Fk3lW1HXmN0",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Fk3lW1HXmN0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "Netherlands 🆚 Morocco #FIFAWorldCupOnYT",
+      "videoId": "MPXsMR5m5Io",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/MPXsMR5m5Io/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "Post-Match Press Conference: Koeman On Netherlands' 3-2 Loss On Penalties To Morocco",
+      "videoId": "fhyIIYW5KtE",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fhyIIYW5KtE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "Post-Match Press Conference: Morocco's Mohamed Ouahbi On 3-2 Win On Penalties Over The Netherlands",
+      "videoId": "4lNvrpltYtQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4lNvrpltYtQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "An unforgettable walk onto the pitch as the Official Match Ball Carrier. ✨#KiaOMBC26",
+      "videoId": "TyxhfP48vF8",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/TyxhfP48vF8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "Post-Match Player Interviews: Netherlands (2)1-1(3) Morocco",
+      "videoId": "CZc7JeOyxpM",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/CZc7JeOyxpM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "The Soul of Football … Pass it On! ⚽️",
+      "videoId": "pkM09aH5Q3I",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/pkM09aH5Q3I/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "Cote d'Ivoire Train Before Norway | FIFA World Cup 2026™",
+      "videoId": "Hyg16vhezzo",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Hyg16vhezzo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "Post-Match Press Conference: Paraguay's Gustavo Alfaro On 4-3 Win On Penalties Over Germany",
+      "videoId": "yYcBhVNaaVU",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Germany",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/yYcBhVNaaVU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "Paraguay Eliminate Germany On Penalties | FIFA World Cup 2026™",
+      "videoId": "lq3o-vf5o40",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Germany",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/lq3o-vf5o40/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "Penalty drama in World Cup knockout round 🍿 Round of 32 FULL REACTION | ESPN FC",
+      "videoId": "C_n81QxVAAo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-30",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/C_n81QxVAAo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "'USA is in really good shape' 👀 Round of 32 PREVIEW vs. Bosnia & Herzegovina | ESPN FC",
+      "videoId": "MgqF9_48-DA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "USA",
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/MgqF9_48-DA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "Netherlands vs. Morocco Reaction 👀 They don’t know how to kick penalties! – Leboeuf | ESPN FC",
+      "videoId": "1cv4mLyZ7Ck",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-30",
+      "category": "Viral",
+      "team": [
+        "Netherlands",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/1cv4mLyZ7Ck/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "Carlo Ancelotti 'empowers his players' 🗣️ Brazil advance to Round of 16 at the World Cup | ESPN FC",
+      "videoId": "OJsP5dTdU34",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Brazil"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/OJsP5dTdU34/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "Is Julian Nagelsmann’s job safe after Germany’s World Cup exit? | ESPN FC",
+      "videoId": "kb0xucI1CKg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Germany"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/kb0xucI1CKg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "The dog was HYPED 😂 (via lilia_belcacho, thiagopain95/IG)",
+      "videoId": "OpYHeZm5uww",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/OpYHeZm5uww/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "Germany STUNNED by Paraguay + Brazil avoid World Cup SHOCK! | ESPN FC",
+      "videoId": "Xbp8ekrvVRI",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Germany",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Xbp8ekrvVRI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "‘A DISASTER FOR GERMANY’ 😳 Paraguay win on penalties and advance to Round of 16 | ESPN FC",
+      "videoId": "A7Uuzh3rTSs",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Germany",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/A7Uuzh3rTSs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "Alejandro Moreno on Neymar's ability to help Brazil when they need offense ⚽️",
+      "videoId": "jFm4WzH9BC8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Brazil"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jFm4WzH9BC8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "‘A LOT of thinking for Ancelotti’ 😬🇧🇷 Brazil eliminate Japan, but can they go further? | ESPN FC",
+      "videoId": "2IVYfRUpRQs",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-29",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/2IVYfRUpRQs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia"
+    },
+    {
+      "title": "Bruno Guimarães assists Brazil's winning goal vs. Japan to advance to Round of 16 🔥 | ESPN FC",
+      "videoId": "9DkOLPnrH3I",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-29",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/9DkOLPnrH3I/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia"
+    },
+    {
+      "title": "Brazil vs. Japan FULL REACTION 🍿 | How far can Brazil go in the World Cup? | ESPN FC",
+      "videoId": "ffZH37s2UnE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-29",
+      "category": "Viral",
+      "team": [
+        "Brazil",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ffZH37s2UnE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia"
+    },
+    {
+      "title": "LATE LATE GOAL! FULL REACTION: Brazil vs. Japan [Round of 32] | ESPN FC",
+      "videoId": "fZXdM6ARAAg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-29",
+      "category": "Viral",
+      "team": [
+        "Brazil",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fZXdM6ARAAg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia"
+    },
+    {
+      "title": "Sam Kerr's thoughts on returning to Gotham FC, NWSL season expectations & the USMNT! | SportsCenter",
+      "videoId": "d36tnnhE2Q8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-29",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/d36tnnhE2Q8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia"
+    },
+    {
+      "title": "Craig Burley on Canada's team spirit 🇨🇦 ⚽️",
+      "videoId": "qNmBSjtVdh0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-06-29",
+      "category": "Highlights",
+      "team": [
+        "Canada"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/qNmBSjtVdh0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Paraguay vs Australia"
     }
   ]
 }
