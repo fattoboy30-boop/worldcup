@@ -1,46 +1,54 @@
 {
-  "lastUpdated": "2026-06-30T11:27:04.829Z",
+  "lastUpdated": "2026-06-30T12:12:16.395Z",
   "featured": {
-    "match": "t92Q_KzIiEc",
-    "highlight": "t92Q_KzIiEc",
+    "match": "NVZj5gthMUY",
+    "highlight": "NVZj5gthMUY",
     "interview": "C_n81QxVAAo"
   },
   "videos": [
     {
-      "title": "Algeria vs. Austria | Match Highlights | FIFA World Cup 2026™",
-      "videoId": "t92Q_KzIiEc",
-      "channel": "Web Search",
+      "title": "Team Feature: Congo DR | Kayembe: 'We Will Fight Like Leopards'",
+      "videoId": "NVZj5gthMUY",
+      "channel": "FIFA",
       "publishedAt": "2026-06-30",
       "category": "Highlights",
-      "team": [
-        "Algeria",
-        "Austria"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/t92Q_KzIiEc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/NVZj5gthMUY/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria",
-      "source": "match-search"
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
     },
     {
-      "title": "Alt Cast Highlights: Algeria v Austria | FIFA World Cup 2026™",
-      "videoId": "xl541SKfhpU",
-      "channel": "Web Search",
+      "title": "Team Feature: England | Tuchel Loving Life As England Boss",
+      "videoId": "PnvmLzMl19c",
+      "channel": "FIFA",
       "publishedAt": "2026-06-30",
       "category": "Highlights",
       "team": [
-        "Algeria",
-        "Austria"
+        "England"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xl541SKfhpU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/PnvmLzMl19c/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria",
-      "source": "match-search"
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "Best Assists | Group Stage | FIFA World Cup 2026™",
+      "videoId": "2JjALaxEDHc",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/2JjALaxEDHc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
     },
     {
       "title": "Issa Diop Goal | Netherlands (2)1-1(3) Morocco | FIFA World Cup 2026™",
@@ -230,56 +238,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/pkM09aH5Q3I/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
-    },
-    {
-      "title": "Cote d'Ivoire Train Before Norway | FIFA World Cup 2026™",
-      "videoId": "Hyg16vhezzo",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-30",
-      "category": "Highlights",
-      "team": [
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Hyg16vhezzo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
-    },
-    {
-      "title": "Post-Match Press Conference: Paraguay's Gustavo Alfaro On 4-3 Win On Penalties Over Germany",
-      "videoId": "yYcBhVNaaVU",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-30",
-      "category": "Highlights",
-      "team": [
-        "Germany",
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/yYcBhVNaaVU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
-    },
-    {
-      "title": "Paraguay Eliminate Germany On Penalties | FIFA World Cup 2026™",
-      "videoId": "lq3o-vf5o40",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-30",
-      "category": "Highlights",
-      "team": [
-        "Germany",
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/lq3o-vf5o40/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Cape Verde vs Saudi Arabia"
