@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-30T01:50:47.134Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-06-30T04:36:28.493Z",
+  "liveMatches": [
+    {
+      "id": 760488,
+      "date": "2026-06-30",
+      "time": "01:00",
+      "utcDate": "2026-06-30T01:00Z",
+      "homeTeam": "Netherlands",
+      "homeCode": "nl",
+      "homeScore": 1,
+      "awayTeam": "Morocco",
+      "awayCode": "ma",
+      "awayScore": 1,
+      "venue": "Estadio BBVA",
+      "city": "Guadalupe",
+      "status": "in_play",
+      "group": "F",
+      "stage": "ROUND_OF_32",
+      "matchday": 0,
+      "minute": "113'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -1730,29 +1754,6 @@
   ],
   "upcomingMatches": [
     {
-      "id": 760488,
-      "date": "2026-06-30",
-      "time": "01:00",
-      "utcDate": "2026-06-30T01:00Z",
-      "homeTeam": "Netherlands",
-      "homeCode": "nl",
-      "homeScore": 0,
-      "awayTeam": "Morocco",
-      "awayCode": "ma",
-      "awayScore": 0,
-      "venue": "Estadio BBVA",
-      "city": "Guadalupe",
-      "status": "timed",
-      "group": "F",
-      "stage": "ROUND_OF_32",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
-    {
       "id": 760490,
       "date": "2026-06-30",
       "time": "17:00",
@@ -2036,8 +2037,8 @@
       "homeTeam": "Canada",
       "homeCode": "ca",
       "homeScore": 0,
-      "awayTeam": "Round of 32 3 Winner",
-      "awayCode": "un",
+      "awayTeam": "Morocco",
+      "awayCode": "ma",
       "awayScore": 0,
       "venue": "NRG Stadium",
       "city": "Houston, Texas",

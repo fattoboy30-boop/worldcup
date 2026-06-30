@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-06-30T00:15:11.178Z",
+  "lastUpdated": "2026-06-30T04:36:52.033Z",
   "featured": {
-    "match": "xl541SKfhpU",
-    "highlight": "xl541SKfhpU",
+    "match": "5Mvh0mqY8ik",
+    "highlight": "5Mvh0mqY8ik",
     "interview": "ffZH37s2UnE"
   },
   "videos": [
+    {
+      "title": "Highlights | Algeria 3-3 Austria | FIFA World Cup 2026™ - YouTube",
+      "videoId": "5Mvh0mqY8ik",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Algeria",
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/5Mvh0mqY8ik/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria",
+      "source": "match-search"
+    },
+    {
+      "title": "Algeria vs Austria Highlights | 2026 FIFA World Cup™ - FOX Sports",
+      "videoId": "qq3eMBEUbzY",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Algeria",
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/qq3eMBEUbzY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria",
+      "source": "match-search"
+    },
     {
       "title": "Alt Cast Highlights: Algeria v Austria | FIFA World Cup 2026™",
       "videoId": "xl541SKfhpU",
