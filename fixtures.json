@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T00:14:49.534Z",
+  "lastUpdated": "2026-06-30T01:50:47.136Z",
   "fixtures": [
     {
       "id": 760415,
@@ -1864,11 +1864,11 @@
       "awayScore": 1,
       "venue": "Gillette Stadium",
       "city": "Foxborough, Massachusetts",
-      "status": "in_play",
+      "status": "finished",
       "group": "E",
       "stage": "ROUND_OF_32",
       "matchday": 0,
-      "minute": "105'+5'",
+      "minute": null,
       "halfTime": [
         null,
         null
@@ -2231,8 +2231,8 @@
       "date": "2026-07-04",
       "time": "21:00",
       "utcDate": "2026-07-04T21:00Z",
-      "homeTeam": "Round of 32 2 Winner",
-      "homeCode": "un",
+      "homeTeam": "Paraguay",
+      "homeCode": "py",
       "homeScore": 0,
       "awayTeam": "Round of 32 5 Winner",
       "awayCode": "un",
@@ -2240,7 +2240,7 @@
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia, Pennsylvania",
       "status": "timed",
-      "group": null,
+      "group": "D",
       "stage": "ROUND_OF_16",
       "matchday": 0,
       "minute": null,
@@ -2248,7 +2248,7 @@
         null,
         null
       ],
-      "homeFlag": "https://flagcdn.com/w160/un.png",
+      "homeFlag": "https://flagcdn.com/w160/py.png",
       "awayFlag": "https://flagcdn.com/w160/un.png"
     },
     {

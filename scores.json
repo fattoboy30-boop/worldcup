@@ -1,30 +1,6 @@
 {
-  "lastUpdated": "2026-06-30T00:14:49.530Z",
-  "liveMatches": [
-    {
-      "id": 760489,
-      "date": "2026-06-29",
-      "time": "20:30",
-      "utcDate": "2026-06-29T20:30Z",
-      "homeTeam": "Germany",
-      "homeCode": "de",
-      "homeScore": 1,
-      "awayTeam": "Paraguay",
-      "awayCode": "py",
-      "awayScore": 1,
-      "venue": "Gillette Stadium",
-      "city": "Foxborough, Massachusetts",
-      "status": "in_play",
-      "group": "E",
-      "stage": "ROUND_OF_32",
-      "matchday": 0,
-      "minute": "105'+5'",
-      "halfTime": [
-        null,
-        null
-      ]
-    }
-  ],
+  "lastUpdated": "2026-06-30T01:50:47.134Z",
+  "liveMatches": [],
   "recentResults": [
     {
       "id": 760415,
@@ -1727,6 +1703,29 @@
         null,
         null
       ]
+    },
+    {
+      "id": 760489,
+      "date": "2026-06-29",
+      "time": "20:30",
+      "utcDate": "2026-06-29T20:30Z",
+      "homeTeam": "Germany",
+      "homeCode": "de",
+      "homeScore": 1,
+      "awayTeam": "Paraguay",
+      "awayCode": "py",
+      "awayScore": 1,
+      "venue": "Gillette Stadium",
+      "city": "Foxborough, Massachusetts",
+      "status": "finished",
+      "group": "E",
+      "stage": "ROUND_OF_32",
+      "matchday": 0,
+      "minute": null,
+      "halfTime": [
+        null,
+        null
+      ]
     }
   ],
   "upcomingMatches": [
@@ -2057,8 +2056,8 @@
       "date": "2026-07-04",
       "time": "21:00",
       "utcDate": "2026-07-04T21:00Z",
-      "homeTeam": "Round of 32 2 Winner",
-      "homeCode": "un",
+      "homeTeam": "Paraguay",
+      "homeCode": "py",
       "homeScore": 0,
       "awayTeam": "Round of 32 5 Winner",
       "awayCode": "un",
@@ -2066,7 +2065,7 @@
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia, Pennsylvania",
       "status": "timed",
-      "group": null,
+      "group": "D",
       "stage": "ROUND_OF_16",
       "matchday": 0,
       "minute": null,
