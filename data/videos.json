@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-06-30T15:31:51.265Z",
+  "lastUpdated": "2026-06-30T16:04:47.735Z",
   "featured": {
-    "match": "3L5g2z9I2Jk",
-    "highlight": "cXH7F1wFbUQ",
+    "match": "xl541SKfhpU",
+    "highlight": "xl541SKfhpU",
     "interview": "3L5g2z9I2Jk"
   },
   "videos": [
+    {
+      "title": "Alt Cast Highlights: Algeria v Austria | FIFA World Cup 2026™",
+      "videoId": "xl541SKfhpU",
+      "channel": "Web Search",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Algeria",
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xl541SKfhpU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria",
+      "source": "match-search"
+    },
     {
       "title": "INCREDIBLE SAVES | Group Stage | FIFA World Cup 2026™",
       "videoId": "3L5g2z9I2Jk",
