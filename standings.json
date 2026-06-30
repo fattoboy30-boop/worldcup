@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T18:58:10.898Z",
+  "lastUpdated": "2026-06-30T18:29:34.581Z",
   "groups": {
     "A": {
       "teams": [
@@ -19,15 +19,28 @@
         {
           "name": "South Africa",
           "code": "za",
-          "played": 3,
+          "played": 4,
           "won": 1,
           "drawn": 1,
-          "lost": 1,
+          "lost": 2,
           "gf": 2,
-          "ga": 3,
-          "gd": -1,
+          "ga": 4,
+          "gd": -2,
           "points": 4,
           "position": 2
+        },
+        {
+          "name": "Canada",
+          "code": "ca",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 1,
+          "ga": 0,
+          "gd": 1,
+          "points": 3,
+          "position": 3
         },
         {
           "name": "South Korea",
@@ -40,7 +53,7 @@
           "ga": 3,
           "gd": -1,
           "points": 3,
-          "position": 3
+          "position": 4
         },
         {
           "name": "Czechia",
@@ -53,7 +66,7 @@
           "ga": 6,
           "gd": -4,
           "points": 1,
-          "position": 4
+          "position": 5
         }
       ]
     },
@@ -113,67 +126,11 @@
         }
       ]
     },
-    "C": {
-      "teams": [
-        {
-          "name": "Brazil",
-          "code": "br",
-          "played": 3,
-          "won": 2,
-          "drawn": 1,
-          "lost": 0,
-          "gf": 7,
-          "ga": 1,
-          "gd": 6,
-          "points": 7,
-          "position": 1
-        },
-        {
-          "name": "Morocco",
-          "code": "ma",
-          "played": 3,
-          "won": 2,
-          "drawn": 1,
-          "lost": 0,
-          "gf": 6,
-          "ga": 3,
-          "gd": 3,
-          "points": 7,
-          "position": 2
-        },
-        {
-          "name": "Scotland",
-          "code": "gb-sct",
-          "played": 3,
-          "won": 1,
-          "drawn": 0,
-          "lost": 2,
-          "gf": 1,
-          "ga": 4,
-          "gd": -3,
-          "points": 3,
-          "position": 3
-        },
-        {
-          "name": "Haiti",
-          "code": "ht",
-          "played": 3,
-          "won": 0,
-          "drawn": 0,
-          "lost": 3,
-          "gf": 2,
-          "ga": 8,
-          "gd": -6,
-          "points": 0,
-          "position": 4
-        }
-      ]
-    },
     "D": {
       "teams": [
         {
           "name": "United States",
-          "code": "us",
+          "code": "un",
           "played": 3,
           "won": 2,
           "drawn": 0,
@@ -225,19 +182,88 @@
         }
       ]
     },
+    "C": {
+      "teams": [
+        {
+          "name": "Brazil",
+          "code": "br",
+          "played": 4,
+          "won": 3,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 9,
+          "ga": 2,
+          "gd": 7,
+          "points": 10,
+          "position": 1
+        },
+        {
+          "name": "Morocco",
+          "code": "ma",
+          "played": 3,
+          "won": 2,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 6,
+          "ga": 3,
+          "gd": 3,
+          "points": 7,
+          "position": 2
+        },
+        {
+          "name": "Scotland",
+          "code": "gb-sct",
+          "played": 3,
+          "won": 1,
+          "drawn": 0,
+          "lost": 2,
+          "gf": 1,
+          "ga": 4,
+          "gd": -3,
+          "points": 3,
+          "position": 3
+        },
+        {
+          "name": "Japan",
+          "code": "jp",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 1,
+          "ga": 2,
+          "gd": -1,
+          "points": 0,
+          "position": 4
+        },
+        {
+          "name": "Haiti",
+          "code": "ht",
+          "played": 3,
+          "won": 0,
+          "drawn": 0,
+          "lost": 3,
+          "gf": 2,
+          "ga": 8,
+          "gd": -6,
+          "points": 0,
+          "position": 5
+        }
+      ]
+    },
     "E": {
       "teams": [
         {
           "name": "Germany",
           "code": "de",
-          "played": 3,
+          "played": 4,
           "won": 2,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 1,
-          "gf": 10,
-          "ga": 4,
+          "gf": 11,
+          "ga": 5,
           "gd": 6,
-          "points": 6,
+          "points": 7,
           "position": 1
         },
         {
@@ -267,8 +293,21 @@
           "position": 3
         },
         {
+          "name": "Paraguay",
+          "code": "py",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1,
+          "position": 4
+        },
+        {
           "name": "Curaçao",
-          "code": "cw",
+          "code": "un",
           "played": 3,
           "won": 0,
           "drawn": 1,
@@ -277,7 +316,7 @@
           "ga": 9,
           "gd": -8,
           "points": 1,
-          "position": 4
+          "position": 5
         }
       ]
     },
@@ -286,14 +325,14 @@
         {
           "name": "Netherlands",
           "code": "nl",
-          "played": 3,
+          "played": 4,
           "won": 2,
-          "drawn": 1,
+          "drawn": 2,
           "lost": 0,
-          "gf": 10,
-          "ga": 4,
+          "gf": 11,
+          "ga": 5,
           "gd": 6,
-          "points": 7,
+          "points": 8,
           "position": 1
         },
         {
@@ -323,6 +362,19 @@
           "position": 3
         },
         {
+          "name": "Morocco",
+          "code": "ma",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1,
+          "position": 4
+        },
+        {
           "name": "Tunisia",
           "code": "tn",
           "played": 3,
@@ -333,63 +385,7 @@
           "ga": 12,
           "gd": -10,
           "points": 0,
-          "position": 4
-        }
-      ]
-    },
-    "G": {
-      "teams": [
-        {
-          "name": "Egypt",
-          "code": "eg",
-          "played": 2,
-          "won": 1,
-          "drawn": 1,
-          "lost": 0,
-          "gf": 4,
-          "ga": 2,
-          "gd": 2,
-          "points": 4,
-          "position": 1
-        },
-        {
-          "name": "IR Iran",
-          "code": "ir",
-          "played": 2,
-          "won": 0,
-          "drawn": 2,
-          "lost": 0,
-          "gf": 2,
-          "ga": 2,
-          "gd": 0,
-          "points": 2,
-          "position": 2
-        },
-        {
-          "name": "Belgium",
-          "code": "be",
-          "played": 2,
-          "won": 0,
-          "drawn": 2,
-          "lost": 0,
-          "gf": 1,
-          "ga": 1,
-          "gd": 0,
-          "points": 2,
-          "position": 3
-        },
-        {
-          "name": "New Zealand",
-          "code": "nz",
-          "played": 2,
-          "won": 0,
-          "drawn": 1,
-          "lost": 1,
-          "gf": 3,
-          "ga": 5,
-          "gd": -2,
-          "points": 1,
-          "position": 4
+          "position": 5
         }
       ]
     },
@@ -398,52 +394,108 @@
         {
           "name": "Spain",
           "code": "es",
-          "played": 2,
-          "won": 1,
+          "played": 3,
+          "won": 2,
           "drawn": 1,
           "lost": 0,
-          "gf": 4,
+          "gf": 5,
           "ga": 0,
-          "gd": 4,
-          "points": 4,
+          "gd": 5,
+          "points": 7,
           "position": 1
         },
         {
-          "name": "Uruguay",
-          "code": "uy",
-          "played": 2,
-          "won": 0,
-          "drawn": 2,
-          "lost": 0,
-          "gf": 3,
-          "ga": 3,
-          "gd": 0,
-          "points": 2,
-          "position": 2
-        },
-        {
           "name": "Cape Verde",
-          "code": "cv",
-          "played": 2,
+          "code": "un",
+          "played": 3,
           "won": 0,
-          "drawn": 2,
+          "drawn": 3,
           "lost": 0,
           "gf": 2,
           "ga": 2,
           "gd": 0,
+          "points": 3,
+          "position": 2
+        },
+        {
+          "name": "Uruguay",
+          "code": "uy",
+          "played": 3,
+          "won": 0,
+          "drawn": 2,
+          "lost": 1,
+          "gf": 3,
+          "ga": 4,
+          "gd": -1,
           "points": 2,
           "position": 3
         },
         {
           "name": "Saudi Arabia",
           "code": "sa",
-          "played": 2,
+          "played": 3,
           "won": 0,
-          "drawn": 1,
+          "drawn": 2,
           "lost": 1,
           "gf": 1,
           "ga": 5,
           "gd": -4,
+          "points": 2,
+          "position": 4
+        }
+      ]
+    },
+    "G": {
+      "teams": [
+        {
+          "name": "Belgium",
+          "code": "be",
+          "played": 3,
+          "won": 1,
+          "drawn": 2,
+          "lost": 0,
+          "gf": 6,
+          "ga": 2,
+          "gd": 4,
+          "points": 5,
+          "position": 1
+        },
+        {
+          "name": "Egypt",
+          "code": "eg",
+          "played": 3,
+          "won": 1,
+          "drawn": 2,
+          "lost": 0,
+          "gf": 5,
+          "ga": 3,
+          "gd": 2,
+          "points": 5,
+          "position": 2
+        },
+        {
+          "name": "Iran",
+          "code": "ir",
+          "played": 3,
+          "won": 0,
+          "drawn": 3,
+          "lost": 0,
+          "gf": 3,
+          "ga": 3,
+          "gd": 0,
+          "points": 3,
+          "position": 3
+        },
+        {
+          "name": "New Zealand",
+          "code": "nz",
+          "played": 3,
+          "won": 0,
+          "drawn": 1,
+          "lost": 2,
+          "gf": 4,
+          "ga": 10,
+          "gd": -6,
           "points": 1,
           "position": 4
         }
@@ -454,52 +506,52 @@
         {
           "name": "France",
           "code": "fr",
-          "played": 2,
-          "won": 2,
+          "played": 3,
+          "won": 3,
           "drawn": 0,
           "lost": 0,
-          "gf": 6,
-          "ga": 1,
-          "gd": 5,
-          "points": 6,
+          "gf": 10,
+          "ga": 2,
+          "gd": 8,
+          "points": 9,
           "position": 1
         },
         {
           "name": "Norway",
           "code": "no",
-          "played": 2,
+          "played": 3,
           "won": 2,
           "drawn": 0,
-          "lost": 0,
-          "gf": 7,
-          "ga": 3,
-          "gd": 4,
+          "lost": 1,
+          "gf": 8,
+          "ga": 7,
+          "gd": 1,
           "points": 6,
           "position": 2
         },
         {
           "name": "Senegal",
           "code": "sn",
-          "played": 2,
-          "won": 0,
+          "played": 3,
+          "won": 1,
           "drawn": 0,
           "lost": 2,
-          "gf": 3,
+          "gf": 8,
           "ga": 6,
-          "gd": -3,
-          "points": 0,
+          "gd": 2,
+          "points": 3,
           "position": 3
         },
         {
           "name": "Iraq",
           "code": "iq",
-          "played": 2,
+          "played": 3,
           "won": 0,
           "drawn": 0,
-          "lost": 2,
+          "lost": 3,
           "gf": 1,
-          "ga": 7,
-          "gd": -6,
+          "ga": 12,
+          "gd": -11,
           "points": 0,
           "position": 4
         }
@@ -510,52 +562,52 @@
         {
           "name": "Argentina",
           "code": "ar",
-          "played": 2,
-          "won": 2,
+          "played": 3,
+          "won": 3,
           "drawn": 0,
           "lost": 0,
-          "gf": 5,
-          "ga": 0,
-          "gd": 5,
-          "points": 6,
+          "gf": 8,
+          "ga": 1,
+          "gd": 7,
+          "points": 9,
           "position": 1
         },
         {
           "name": "Austria",
           "code": "at",
-          "played": 2,
+          "played": 3,
           "won": 1,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 1,
-          "gf": 3,
-          "ga": 3,
+          "gf": 6,
+          "ga": 6,
           "gd": 0,
-          "points": 3,
+          "points": 4,
           "position": 2
         },
         {
           "name": "Algeria",
-          "code": "dz",
-          "played": 2,
+          "code": "un",
+          "played": 3,
           "won": 1,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 1,
-          "gf": 2,
-          "ga": 4,
+          "gf": 5,
+          "ga": 7,
           "gd": -2,
-          "points": 3,
+          "points": 4,
           "position": 3
         },
         {
           "name": "Jordan",
-          "code": "jo",
-          "played": 2,
+          "code": "un",
+          "played": 3,
           "won": 0,
           "drawn": 0,
-          "lost": 2,
-          "gf": 2,
-          "ga": 5,
-          "gd": -3,
+          "lost": 3,
+          "gf": 3,
+          "ga": 8,
+          "gd": -5,
           "points": 0,
           "position": 4
         }
@@ -566,52 +618,52 @@
         {
           "name": "Colombia",
           "code": "co",
-          "played": 2,
+          "played": 3,
           "won": 2,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 0,
           "gf": 4,
           "ga": 1,
           "gd": 3,
-          "points": 6,
+          "points": 7,
           "position": 1
         },
         {
           "name": "Portugal",
           "code": "pt",
-          "played": 2,
+          "played": 3,
           "won": 1,
-          "drawn": 1,
+          "drawn": 2,
           "lost": 0,
           "gf": 6,
           "ga": 1,
           "gd": 5,
-          "points": 4,
+          "points": 5,
           "position": 2
         },
         {
           "name": "Congo DR",
-          "code": "cd",
-          "played": 2,
-          "won": 0,
+          "code": "un",
+          "played": 3,
+          "won": 1,
           "drawn": 1,
           "lost": 1,
-          "gf": 1,
-          "ga": 2,
-          "gd": -1,
-          "points": 1,
+          "gf": 4,
+          "ga": 3,
+          "gd": 1,
+          "points": 4,
           "position": 3
         },
         {
           "name": "Uzbekistan",
-          "code": "uz",
-          "played": 2,
+          "code": "un",
+          "played": 3,
           "won": 0,
           "drawn": 0,
-          "lost": 2,
-          "gf": 1,
-          "ga": 8,
-          "gd": -7,
+          "lost": 3,
+          "gf": 2,
+          "ga": 11,
+          "gd": -9,
           "points": 0,
           "position": 4
         }
@@ -622,52 +674,52 @@
         {
           "name": "England",
           "code": "gb-eng",
-          "played": 2,
-          "won": 1,
+          "played": 3,
+          "won": 2,
           "drawn": 1,
           "lost": 0,
-          "gf": 4,
+          "gf": 6,
           "ga": 2,
-          "gd": 2,
-          "points": 4,
+          "gd": 4,
+          "points": 7,
           "position": 1
-        },
-        {
-          "name": "Ghana",
-          "code": "gh",
-          "played": 2,
-          "won": 1,
-          "drawn": 1,
-          "lost": 0,
-          "gf": 1,
-          "ga": 0,
-          "gd": 1,
-          "points": 4,
-          "position": 2
         },
         {
           "name": "Croatia",
           "code": "hr",
-          "played": 2,
-          "won": 1,
+          "played": 3,
+          "won": 2,
           "drawn": 0,
           "lost": 1,
-          "gf": 3,
-          "ga": 4,
-          "gd": -1,
-          "points": 3,
+          "gf": 5,
+          "ga": 5,
+          "gd": 0,
+          "points": 6,
+          "position": 2
+        },
+        {
+          "name": "Ghana",
+          "code": "gh",
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "gf": 2,
+          "ga": 2,
+          "gd": 0,
+          "points": 4,
           "position": 3
         },
         {
           "name": "Panama",
           "code": "pa",
-          "played": 2,
+          "played": 3,
           "won": 0,
           "drawn": 0,
-          "lost": 2,
+          "lost": 3,
           "gf": 0,
-          "ga": 2,
-          "gd": -2,
+          "ga": 4,
+          "gd": -4,
           "points": 0,
           "position": 4
         }
