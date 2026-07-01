@@ -1,67 +1,299 @@
 {
-  "lastUpdated": "2026-07-01T06:10:54.013Z",
+  "lastUpdated": "2026-07-01T09:55:28.578Z",
   "featured": {
-    "match": "hqETej2LqkU",
-    "highlight": "hqETej2LqkU",
+    "match": "FOgMmkTG07Q",
+    "highlight": "FOgMmkTG07Q",
     "interview": "_jns3_ev_48"
   },
   "videos": [
     {
-      "title": "Brazil 2-3 Japan FIFA World Cup 2026 | football highlights",
-      "videoId": "hqETej2LqkU",
-      "channel": "Web Search",
+      "title": "Senegal On Playing Belgium | Pape Thiaw & Mamadou Sarr Take Questions",
+      "videoId": "FOgMmkTG07Q",
+      "channel": "FIFA",
       "publishedAt": "2026-07-01",
       "category": "Highlights",
       "team": [
-        "Brazil",
-        "Japan"
+        "Belgium",
+        "Senegal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/hqETej2LqkU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/FOgMmkTG07Q/mqdefault.jpg",
       "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan",
-      "source": "match-search"
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
     },
     {
-      "title": "BRAZIL vs JAPAN World Cup 2026 - Match Highlights & Realistic ... - YouTube",
-      "videoId": "Ag-vxoB2mBw",
-      "channel": "Web Search",
+      "title": "Raúl Jiménez Goal | Mexico 2-0 Ecuador | FIFA World Cup 2026™",
+      "videoId": "X2A3t5iVzU8",
+      "channel": "FIFA",
       "publishedAt": "2026-07-01",
       "category": "Highlights",
       "team": [
-        "Brazil",
-        "Japan"
+        "Mexico",
+        "Ecuador"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Ag-vxoB2mBw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/X2A3t5iVzU8/mqdefault.jpg",
       "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan",
-      "source": "match-search"
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
     },
     {
-      "title": "Brazil vs Japan Highlights 2026 FIFA World Cup™ | Round of 32",
-      "videoId": "9u4QRrwz1Nc",
-      "channel": "Web Search",
+      "title": "June 30 Matchday Recap | #FIFAWorldCup @aramco",
+      "videoId": "SlsF3BHmGI4",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/SlsF3BHmGI4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "Julián Quiñones Goal | Mexico 2-0 Ecuador | FIFA World Cup 2026™",
+      "videoId": "xoe-GMNTESs",
+      "channel": "FIFA",
       "publishedAt": "2026-07-01",
       "category": "Highlights",
       "team": [
-        "Brazil",
-        "Japan"
+        "Mexico",
+        "Ecuador"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/9u4QRrwz1Nc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/xoe-GMNTESs/mqdefault.jpg",
       "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan",
-      "source": "match-search"
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
     },
     {
-      "title": "Should Germany part ways with Nagelsmann⁉️ Jurgen Klopp 'can HEAL German football' | ESPN FC",
+      "title": "Raúl Jiménez scores Mexico’s second goal against Ecuador 💥 #FIFAWorldCupOnYT",
+      "videoId": "6MAOwBUgiVo",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6MAOwBUgiVo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "Quiñones scores Mexico’s first goal against Ecuador ⚽️ #FIFAWorldCupOnYT",
+      "videoId": "weCJ4OcPJzQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/weCJ4OcPJzQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "Mexico 🆚 Ecuador #FIFAWorldCupOnYT",
+      "videoId": "LcS4HK1tOhE",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/LcS4HK1tOhE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "Post-Match Press Conference: Ecuador's Sebastián Beccacece On 2-0 Loss To Mexico",
+      "videoId": "yrY6XO-fDEs",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/yrY6XO-fDEs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "Post-Match Press Conference: Mexico's Javier Aguirre On 2-0 Win Over Ecuador",
+      "videoId": "vtQLgmzMURA",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vtQLgmzMURA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "Post-Match Player Interviews: Mexico 2-0 Ecuador",
+      "videoId": "PAPXDqjcuYk",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/PAPXDqjcuYk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "15-Minute Match: Spain vs Austria | 1978 Shocker",
+      "videoId": "SpzFXb8tkQE",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/SpzFXb8tkQE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "Bosnia And Herzegovina Train Before USA | FIFA World Cup 2026™",
+      "videoId": "ZgiLkk8BtSY",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [
+        "USA",
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ZgiLkk8BtSY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "Senegal Train Before Belgium | FIFA World Cup 2026™",
+      "videoId": "m7UZVhjP9FQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [
+        "Belgium",
+        "Senegal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/m7UZVhjP9FQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "Post-Match Press Conference: France's Didier Deschamps On The 3-0 Win Over Sweden",
+      "videoId": "3vqHHgMWk6k",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Sweden"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/3vqHHgMWk6k/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "Kylian Mbappe Goal | France 3-0 Sweden | FIFA World Cup 2026™",
+      "videoId": "SoQCKUDfpvo",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Sweden"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/SoQCKUDfpvo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "France, Mexico & Norway advance to Round of 16 + Mbappe chasing Messi's goals record 👀 | ESPN FC",
+      "videoId": "bJ7cH8LsaFo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Mexico",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/bJ7cH8LsaFo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "Could Jurgen Klopp replace Julian Nagelsmann at Germany? 👀 | ESPN FC Extra Time",
+      "videoId": "yZB670_bDJs",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [
+        "Germany"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/yZB670_bDJs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "Should Germany part ways with Julian Nagelsmann⁉️ Jurgen Klopp 'can HEAL German football' | ESPN FC",
       "videoId": "ixGOfK8h_aE",
       "channel": "ESPN FC",
       "publishedAt": "2026-07-01",
@@ -261,36 +493,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/MKEvcqagtb0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
-    },
-    {
-      "title": "Doing their part 🤝😂 (via @zaritzisosa/X)",
-      "videoId": "anfVXUbSPfE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-30",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/anfVXUbSPfE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
-    },
-    {
-      "title": "'A DISASTER!’ 😱 Reactions to Germany’s World Cup loss | ESPN FC",
-      "videoId": "Ujh6BGCxYlQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-30",
-      "category": "Viral",
-      "team": [
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Ujh6BGCxYlQ/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Cape Verde vs Saudi Arabia"
