@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-01T00:09:58.894Z",
+  "lastUpdated": "2026-07-01T01:33:46.451Z",
   "featured": {
-    "match": "nP7CpUfDbBg",
-    "highlight": "nP7CpUfDbBg",
+    "match": "Ag-vxoB2mBw",
+    "highlight": "EtDySLVm6zU",
     "interview": "_jns3_ev_48"
   },
   "videos": [
+    {
+      "title": "Brazil vs Japan | Full Match Highlights | FIFA World Cup 2026",
+      "videoId": "EtDySLVm6zU",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-01",
+      "category": "Full Match",
+      "team": [
+        "Brazil",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/EtDySLVm6zU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Brazil vs Japan",
+      "source": "match-search"
+    },
+    {
+      "title": "BRAZIL vs JAPAN World Cup 2026 - Match Highlights & Realistic ... - YouTube",
+      "videoId": "Ag-vxoB2mBw",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Ag-vxoB2mBw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Brazil vs Japan",
+      "source": "match-search"
+    },
     {
       "title": "England On Playing Congo DR | Thomas Tuchel & Jordan Pickford Take Questions",
       "videoId": "nP7CpUfDbBg",
