@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-01T20:48:20.542Z",
+  "lastUpdated": "2026-07-01T21:06:33.073Z",
   "featured": {
-    "match": "W9b7RkUS7f0",
-    "highlight": "W9b7RkUS7f0",
+    "match": "QgUSOlN0Tt0",
+    "highlight": "b27ZUEbyBbY",
     "interview": "wnreMGKCZO0"
   },
   "videos": [
+    {
+      "title": "Brazil vs Japan Highlights 2026 FIFA World Cup ... - YouTube",
+      "videoId": "QgUSOlN0Tt0",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QgUSOlN0Tt0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Brazil vs Japan",
+      "source": "match-search"
+    },
+    {
+      "title": "Brazil vs Japan 2026 - Full Match Highlights | FIFA World Cup ... - YouTube",
+      "videoId": "b27ZUEbyBbY",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-01",
+      "category": "Full Match",
+      "team": [
+        "Brazil",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/b27ZUEbyBbY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Brazil vs Japan",
+      "source": "match-search"
+    },
     {
       "title": "Harry Kane Wins It For England! | England 2-1 Congo DR",
       "videoId": "W9b7RkUS7f0",
