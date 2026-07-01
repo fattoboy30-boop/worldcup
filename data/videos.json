@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-01T18:00:48.677Z",
+  "lastUpdated": "2026-07-01T19:24:09.508Z",
   "featured": {
-    "match": "9-nRi5iZM20",
-    "highlight": "9-nRi5iZM20",
-    "interview": "9-nRi5iZM20"
+    "match": "Ag-vxoB2mBw",
+    "highlight": "b27ZUEbyBbY",
+    "interview": "b27ZUEbyBbY"
   },
   "videos": [
+    {
+      "title": "Brazil vs Japan 2026 - Full Match Highlights | FIFA World Cup ... - YouTube",
+      "videoId": "b27ZUEbyBbY",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-01",
+      "category": "Full Match",
+      "team": [
+        "Brazil",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/b27ZUEbyBbY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Brazil vs Japan",
+      "source": "match-search"
+    },
+    {
+      "title": "BRAZIL vs JAPAN World Cup 2026 - Match Highlights & Realistic ... - YouTube",
+      "videoId": "Ag-vxoB2mBw",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Ag-vxoB2mBw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Brazil vs Japan",
+      "source": "match-search"
+    },
     {
       "title": "Alt Cast Highlights: France v Sweden | FIFA World Cup 2026™",
       "videoId": "9-nRi5iZM20",
