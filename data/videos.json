@@ -1,82 +1,74 @@
 {
-  "lastUpdated": "2026-07-01T15:41:24.978Z",
+  "lastUpdated": "2026-07-01T15:45:43.255Z",
   "featured": {
-    "match": "QgUSOlN0Tt0",
-    "highlight": "EtDySLVm6zU",
-    "interview": "_jns3_ev_48"
+    "match": "qsr7Y8njiTM",
+    "highlight": "qsr7Y8njiTM",
+    "interview": "qsr7Y8njiTM"
   },
   "videos": [
     {
-      "title": "Brazil vs Japan Highlights 2026 FIFA World Cup ... - YouTube",
-      "videoId": "QgUSOlN0Tt0",
-      "channel": "Web Search",
+      "title": "Team Feature: Algeria | The Legacy of Riyad Mahrez",
+      "videoId": "qsr7Y8njiTM",
+      "channel": "FIFA",
       "publishedAt": "2026-07-01",
       "category": "Highlights",
       "team": [
-        "Brazil",
-        "Japan"
+        "Algeria"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/QgUSOlN0Tt0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/qsr7Y8njiTM/mqdefault.jpg",
       "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan",
-      "source": "match-search"
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
     },
     {
-      "title": "Brazil vs Japan | Full Match Highlights | FIFA World Cup 2026",
-      "videoId": "EtDySLVm6zU",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-01",
-      "category": "Full Match",
-      "team": [
-        "Brazil",
-        "Japan"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/EtDySLVm6zU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan",
-      "source": "match-search"
-    },
-    {
-      "title": "Brazil 2-3 Japan FIFA World Cup 2026 | football highlights",
-      "videoId": "hqETej2LqkU",
-      "channel": "Web Search",
+      "title": "Team Feature: Switzerland | Kobel Is One Of The Best In The World",
+      "videoId": "ohDYqxTpLlg",
+      "channel": "FIFA",
       "publishedAt": "2026-07-01",
       "category": "Highlights",
       "team": [
-        "Brazil",
-        "Japan"
+        "Switzerland"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/hqETej2LqkU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/ohDYqxTpLlg/mqdefault.jpg",
       "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan",
-      "source": "match-search"
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
     },
     {
-      "title": "BRAZIL vs JAPAN World Cup 2026 - Match Highlights & Realistic ... - YouTube",
-      "videoId": "Ag-vxoB2mBw",
-      "channel": "Web Search",
+      "title": "Team Feature: Croatia | Gvardiol On Taking On the Mantle From Croatia Greats",
+      "videoId": "vS6AWYKgRpw",
+      "channel": "FIFA",
       "publishedAt": "2026-07-01",
       "category": "Highlights",
       "team": [
-        "Brazil",
-        "Japan"
+        "Croatia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Ag-vxoB2mBw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/vS6AWYKgRpw/mqdefault.jpg",
       "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan",
-      "source": "match-search"
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "Team Feature: Portugal | Growing Into The Tournament",
+      "videoId": "on_ETYdPQHI",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/on_ETYdPQHI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
     },
     {
       "title": "Team Feature: Austria | Is It The Last Dance For Marko Arnautović?",
@@ -261,69 +253,131 @@
       "fixtureTeams": "Algeria vs Austria"
     },
     {
-      "title": "Post-Match Player Interviews: Mexico 2-0 Ecuador",
-      "videoId": "PAPXDqjcuYk",
-      "channel": "FIFA",
+      "title": "Is Kylian Mbappe the BEST PLAYER IN THE WORLD? 😮 Geoff Cameron says YES | First Take",
+      "videoId": "vaX6pGlQVfk",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-01",
       "category": "Highlights",
-      "team": [
-        "Mexico",
-        "Ecuador"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PAPXDqjcuYk/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/vaX6pGlQVfk/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Algeria vs Austria"
     },
     {
-      "title": "15-Minute Match: Spain vs Austria | 1978 Shocker",
-      "videoId": "SpzFXb8tkQE",
-      "channel": "FIFA",
+      "title": "Herculez Gomez’s official VERDICT of USMNT vs. European competition | ESPN FC",
+      "videoId": "04U-rxOo0IU",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-01",
       "category": "Highlights",
-      "team": [
-        "Spain",
-        "Austria"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/SpzFXb8tkQE/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/04U-rxOo0IU/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Algeria vs Austria"
     },
     {
-      "title": "Bosnia And Herzegovina Train Before USA | FIFA World Cup 2026™",
-      "videoId": "ZgiLkk8BtSY",
-      "channel": "FIFA",
+      "title": "Kylian Mbappe, Michael Olise OR Ousmane Dembele: ESPN FC DEBATES!",
+      "videoId": "FysyJDucrew",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-01",
       "category": "Highlights",
-      "team": [
-        "USA",
-        "Bosnia"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ZgiLkk8BtSY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/FysyJDucrew/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Algeria vs Austria"
     },
     {
-      "title": "Senegal Train Before Belgium | FIFA World Cup 2026™",
-      "videoId": "m7UZVhjP9FQ",
-      "channel": "FIFA",
+      "title": "Erling Haaland has been ‘unstoppable,’ BUT he got lucky?! | ESPN FC",
+      "videoId": "0Hu6oO51T0U",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0Hu6oO51T0U/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "ABSOLUTE SCENES! Herculez Gomez thinks Mexico are SILENCING critics?! | ESPN FC",
+      "videoId": "Stjufzt5nWI",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-01",
       "category": "Highlights",
       "team": [
-        "Belgium",
-        "Senegal"
+        "Mexico"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/m7UZVhjP9FQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Stjufzt5nWI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "Will the World Cup will be a failure if the U.S. loses tonight? Geoff Cameron says… 😬 | Get Up",
+      "videoId": "HTvcCEZcXBo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/HTvcCEZcXBo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "Will the USMNT remain as a topdog?💪",
+      "videoId": "N2Byc18uxjM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/N2Byc18uxjM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "This is how Mexico celebrated its first victory in 40 years in a World Cup knockout stage 🇲🇽",
+      "videoId": "YxBRZ6JP7bk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/YxBRZ6JP7bk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "Mbappe closes in on the record 👀",
+      "videoId": "HchPdBYU-lc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/HchPdBYU-lc/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Algeria vs Austria"
@@ -425,146 +479,6 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Algeria vs Austria"
-    },
-    {
-      "title": "'I'm not convinced about Brazil' 🗣️ Steve Nicol believes Norway can win Round of 16 match | ESPN FC",
-      "videoId": "oc_u9EXmOXM",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-01",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/oc_u9EXmOXM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria"
-    },
-    {
-      "title": "Mexico went on to eliminate Ecuador and advance the next day 😂 (via ECZ23/X)",
-      "videoId": "YMNSXobmPZI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-01",
-      "category": "Highlights",
-      "team": [
-        "Mexico",
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/YMNSXobmPZI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria"
-    },
-    {
-      "title": "Super Bowl Champ & World Cup Dad: Antonio Freeman on his son’s journey with USMNT",
-      "videoId": "UzX8OLlRIsA",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-01",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/UzX8OLlRIsA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria"
-    },
-    {
-      "title": "Erling the Cowboy 😂 (via Erling Haaland/Snapchat)",
-      "videoId": "z7fMtE_ZDi4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-01",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/z7fMtE_ZDi4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria"
-    },
-    {
-      "title": "Mbappé is coming for the all-time men's World Cup scoring record 👀",
-      "videoId": "6bNiHrtNwsQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-01",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/6bNiHrtNwsQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria"
-    },
-    {
-      "title": "REACTION to France vs. Sweden 🚨 'Mbappe was absolutely fantastic!' - Frank LeBeouf! | ESPN FC",
-      "videoId": "_jns3_ev_48",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-30",
-      "category": "Viral",
-      "team": [
-        "France",
-        "Sweden"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_jns3_ev_48/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
-    },
-    {
-      "title": "Julien Laurens didn't hold back on Ronald Koeman's handling of the Netherlands 😲",
-      "videoId": "hp-vbtad-oQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-30",
-      "category": "Highlights",
-      "team": [
-        "Netherlands"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/hp-vbtad-oQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
-    },
-    {
-      "title": "World Cup Preview 👀 Christian Pulisic on USMNT’s mindset before Round of 32 | SportsCenter",
-      "videoId": "TTzn8Ij9OpI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-30",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/TTzn8Ij9OpI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
-    },
-    {
-      "title": "Norway vs. Ivory Coast FULL REACTION: Norway is ‘NOT BURDENED’ | ESPN FC",
-      "videoId": "feKJ-BO2lAE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-30",
-      "category": "Viral",
-      "team": [
-        "Ivory Coast",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/feKJ-BO2lAE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
     }
   ]
 }
