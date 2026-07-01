@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T01:33:23.116Z",
+  "lastUpdated": "2026-07-01T01:36:32.442Z",
   "fixtures": [
     {
       "id": 760415,
@@ -1954,8 +1954,8 @@
     {
       "id": 760491,
       "date": "2026-07-01",
-      "time": "01:00",
-      "utcDate": "2026-07-01T01:00Z",
+      "time": "02:00",
+      "utcDate": "2026-07-01T02:00Z",
       "homeTeam": "Mexico",
       "homeCode": "mx",
       "homeScore": 0,
