@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-07-01T19:23:35.025Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-07-01T20:58:16.488Z",
+  "liveMatches": [
+    {
+      "id": 760493,
+      "date": "2026-07-01",
+      "time": "20:00",
+      "utcDate": "2026-07-01T20:00Z",
+      "homeTeam": "Belgium",
+      "homeCode": "be",
+      "homeScore": 0,
+      "awayTeam": "Senegal",
+      "awayCode": "sn",
+      "awayScore": 1,
+      "venue": "Lumen Field",
+      "city": "Seattle, Washington",
+      "status": "in_play",
+      "group": "G",
+      "stage": "ROUND_OF_32",
+      "matchday": 0,
+      "minute": "45'+5'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -1844,29 +1868,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760493,
-      "date": "2026-07-01",
-      "time": "20:00",
-      "utcDate": "2026-07-01T20:00Z",
-      "homeTeam": "Belgium",
-      "homeCode": "be",
-      "homeScore": 0,
-      "awayTeam": "Senegal",
-      "awayCode": "sn",
-      "awayScore": 0,
-      "venue": "Lumen Field",
-      "city": "Seattle, Washington",
-      "status": "timed",
-      "group": "G",
-      "stage": "ROUND_OF_32",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760494,
       "date": "2026-07-02",
