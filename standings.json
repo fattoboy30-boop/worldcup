@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T17:32:46.869Z",
+  "lastUpdated": "2026-07-01T19:20:30.574Z",
   "groups": {
     "A": {
       "teams": [
@@ -713,14 +713,14 @@
         {
           "name": "England",
           "code": "gb-eng",
-          "played": 3,
-          "won": 2,
+          "played": 4,
+          "won": 3,
           "drawn": 1,
           "lost": 0,
-          "gf": 6,
-          "ga": 2,
-          "gd": 4,
-          "points": 7,
+          "gf": 8,
+          "ga": 3,
+          "gd": 5,
+          "points": 10,
           "position": 1
         },
         {
@@ -750,6 +750,19 @@
           "position": 3
         },
         {
+          "name": "Congo DR",
+          "code": "un",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 1,
+          "ga": 2,
+          "gd": -1,
+          "points": 0,
+          "position": 4
+        },
+        {
           "name": "Panama",
           "code": "pa",
           "played": 3,
@@ -760,7 +773,7 @@
           "ga": 4,
           "gd": -4,
           "points": 0,
-          "position": 4
+          "position": 5
         }
       ]
     }
