@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T22:39:47.880Z",
+  "lastUpdated": "2026-07-01T23:48:51.009Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2008,17 +2008,17 @@
       "utcDate": "2026-07-01T20:00Z",
       "homeTeam": "Belgium",
       "homeCode": "be",
-      "homeScore": 2,
+      "homeScore": 3,
       "awayTeam": "Senegal",
       "awayCode": "sn",
       "awayScore": 2,
       "venue": "Lumen Field",
       "city": "Seattle, Washington",
-      "status": "in_play",
+      "status": "finished",
       "group": "G",
       "stage": "ROUND_OF_32",
       "matchday": 0,
-      "minute": "120'+2'",
+      "minute": null,
       "halfTime": [
         null,
         null
