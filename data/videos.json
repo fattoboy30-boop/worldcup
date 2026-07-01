@@ -1,46 +1,202 @@
 {
-  "lastUpdated": "2026-07-01T19:24:09.508Z",
+  "lastUpdated": "2026-07-01T20:48:20.542Z",
   "featured": {
-    "match": "Ag-vxoB2mBw",
-    "highlight": "b27ZUEbyBbY",
-    "interview": "b27ZUEbyBbY"
+    "match": "W9b7RkUS7f0",
+    "highlight": "W9b7RkUS7f0",
+    "interview": "wnreMGKCZO0"
   },
   "videos": [
     {
-      "title": "Brazil vs Japan 2026 - Full Match Highlights | FIFA World Cup ... - YouTube",
-      "videoId": "b27ZUEbyBbY",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-01",
-      "category": "Full Match",
-      "team": [
-        "Brazil",
-        "Japan"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/b27ZUEbyBbY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan",
-      "source": "match-search"
-    },
-    {
-      "title": "BRAZIL vs JAPAN World Cup 2026 - Match Highlights & Realistic ... - YouTube",
-      "videoId": "Ag-vxoB2mBw",
-      "channel": "Web Search",
+      "title": "Harry Kane Wins It For England! | England 2-1 Congo DR",
+      "videoId": "W9b7RkUS7f0",
+      "channel": "FIFA",
       "publishedAt": "2026-07-01",
       "category": "Highlights",
       "team": [
-        "Brazil",
-        "Japan"
+        "England"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Ag-vxoB2mBw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/W9b7RkUS7f0/mqdefault.jpg",
       "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan",
-      "source": "match-search"
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "Monterrey’s Unsung Hero, an inspiration for all volunteers at the FIFA World Cup 2026™",
+      "videoId": "ElPChefb1OQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ElPChefb1OQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "Harr Kane Goal | England 2-1 Congo DR | FIFA World Cup 2026™",
+      "videoId": "nWYNWzkjvV4",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/nWYNWzkjvV4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "Who else? Kane delivers the winner for England. #FIFAWorldCupOnYT",
+      "videoId": "oFhMIgXvxN0",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/oFhMIgXvxN0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "Kane heads home the equalizer for England! #FIFAWorldCupOnYT",
+      "videoId": "K5h2s2LZkpE",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/K5h2s2LZkpE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "Post-Match Press Conference: Congo DR's Sébastien Desabre On The 2-1 Loss To England",
+      "videoId": "3Iz-Lb8T3Uk",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/3Iz-Lb8T3Uk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "Post-Match Press Conference: England's Thomas Tuchel On The 2-1 Win Over Congo DR",
+      "videoId": "Zp63dup25YU",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Zp63dup25YU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "England 🆚 Congo DR #FIFAWorldCupOnYT",
+      "videoId": "ytvIh6NFRC4",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ytvIh6NFRC4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "Post-Match Player Interviews: England 2-1 Congo DR",
+      "videoId": "rei3gGyAlbU",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/rei3gGyAlbU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "Croatia Train Before Portugal | FIFA World Cup 2026™",
+      "videoId": "qbRY5tuOdY4",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [
+        "Portugal",
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/qbRY5tuOdY4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "Alt Cast Highlights: Mexico v Ecuador | FIFA World Cup 2026™",
+      "videoId": "h7qVCA2s6Ps",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/h7qVCA2s6Ps/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "WATCH LIVE | England v DR Congo | Round of 32 | FIFA World Cup 2026™",
+      "videoId": "gD95oAMFUOg",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/gD95oAMFUOg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
     },
     {
       "title": "Alt Cast Highlights: France v Sweden | FIFA World Cup 2026™",
@@ -92,179 +248,47 @@
       "fixtureTeams": "Algeria vs Austria"
     },
     {
-      "title": "Team Feature: Algeria | The Legacy of Riyad Mahrez",
-      "videoId": "qsr7Y8njiTM",
-      "channel": "FIFA",
+      "title": "England vs. DR Congo FULL REACTION: Harry Kane saves the day! | ESPN FC",
+      "videoId": "wnreMGKCZO0",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-01",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [
-        "Algeria"
+        "England"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/qsr7Y8njiTM/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/wnreMGKCZO0/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Algeria vs Austria"
     },
     {
-      "title": "Team Feature: Switzerland | Kobel Is One Of The Best In The World",
-      "videoId": "ohDYqxTpLlg",
-      "channel": "FIFA",
+      "title": "Are England going to win the World Cup now?! ‘HELL YEAH!’ 🤣 | ESPN FC",
+      "videoId": "hFPEmJSp9rc",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-01",
       "category": "Highlights",
       "team": [
-        "Switzerland"
+        "England"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ohDYqxTpLlg/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/hFPEmJSp9rc/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Algeria vs Austria"
     },
     {
-      "title": "Team Feature: Croatia | Gvardiol On Taking On the Mantle From Croatia Greats",
-      "videoId": "vS6AWYKgRpw",
-      "channel": "FIFA",
+      "title": "Their reaction is everything you’d imagine and more ❤️❤️❤️ (via vroedvrouwtalia/TT)",
+      "videoId": "s45fvAHnpSY",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-01",
-      "category": "Highlights",
-      "team": [
-        "Croatia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vS6AWYKgRpw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria"
-    },
-    {
-      "title": "Team Feature: Portugal | Growing Into The Tournament",
-      "videoId": "on_ETYdPQHI",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-01",
-      "category": "Highlights",
-      "team": [
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/on_ETYdPQHI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria"
-    },
-    {
-      "title": "Team Feature: Austria | Is It The Last Dance For Marko Arnautović?",
-      "videoId": "8EjBI1Cn1Lc",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-01",
-      "category": "Highlights",
-      "team": [
-        "Austria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/8EjBI1Cn1Lc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria"
-    },
-    {
-      "title": "Team Feature: Spain | The People Of Rocafonda And Lamine Yamal",
-      "videoId": "J02wZx-1xw4",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-01",
-      "category": "Highlights",
-      "team": [
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/J02wZx-1xw4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria"
-    },
-    {
-      "title": "Senegal On Playing Belgium | Pape Thiaw & Mamadou Sarr Take Questions",
-      "videoId": "FOgMmkTG07Q",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-01",
-      "category": "Highlights",
-      "team": [
-        "Belgium",
-        "Senegal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FOgMmkTG07Q/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria"
-    },
-    {
-      "title": "Raúl Jiménez Goal | Mexico 2-0 Ecuador | FIFA World Cup 2026™",
-      "videoId": "X2A3t5iVzU8",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-01",
-      "category": "Highlights",
-      "team": [
-        "Mexico",
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/X2A3t5iVzU8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria"
-    },
-    {
-      "title": "June 30 Matchday Recap | #FIFAWorldCup @aramco",
-      "videoId": "SlsF3BHmGI4",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-01",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/SlsF3BHmGI4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria"
-    },
-    {
-      "title": "Julián Quiñones Goal | Mexico 2-0 Ecuador | FIFA World Cup 2026™",
-      "videoId": "xoe-GMNTESs",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-01",
-      "category": "Highlights",
-      "team": [
-        "Mexico",
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xoe-GMNTESs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria"
-    },
-    {
-      "title": "Raúl Jiménez scores Mexico’s second goal against Ecuador 💥 #FIFAWorldCupOnYT",
-      "videoId": "6MAOwBUgiVo",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-01",
-      "category": "Highlights",
-      "team": [
-        "Mexico",
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/6MAOwBUgiVo/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/s45fvAHnpSY/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Algeria vs Austria"
@@ -447,71 +471,6 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Algeria vs Austria"
-    },
-    {
-      "title": "Could Jurgen Klopp replace Julian Nagelsmann at Germany? 👀 | ESPN FC Extra Time",
-      "videoId": "yZB670_bDJs",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-01",
-      "category": "Highlights",
-      "team": [
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/yZB670_bDJs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria"
-    },
-    {
-      "title": "Should Germany part ways with Julian Nagelsmann⁉️ Jurgen Klopp 'can HEAL German football' | ESPN FC",
-      "videoId": "ixGOfK8h_aE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-01",
-      "category": "Highlights",
-      "team": [
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ixGOfK8h_aE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria"
-    },
-    {
-      "title": "Mexico shut down Ecuador to advance to Round of 16 at the World Cup 🇲🇽 | ESPN FC",
-      "videoId": "D4jHtXPFbNY",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-01",
-      "category": "Highlights",
-      "team": [
-        "Mexico",
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/D4jHtXPFbNY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria"
-    },
-    {
-      "title": "WATCH LIVE | England v DR Congo | Round of 32 | FIFA World Cup 2026™",
-      "videoId": "gD95oAMFUOg",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/gD95oAMFUOg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
     }
   ]
 }
