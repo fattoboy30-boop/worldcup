@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-07-01T01:36:32.445Z",
+  "lastUpdated": "2026-07-01T06:09:06.968Z",
   "groups": {
     "A": {
       "teams": [
         {
           "name": "Mexico",
           "code": "mx",
-          "played": 3,
-          "won": 3,
+          "played": 4,
+          "won": 4,
           "drawn": 0,
           "lost": 0,
-          "gf": 6,
+          "gf": 8,
           "ga": 0,
-          "gd": 6,
-          "points": 9,
+          "gd": 8,
+          "points": 12,
           "position": 1
         },
         {
@@ -67,6 +67,19 @@
           "gd": -4,
           "points": 1,
           "position": 5
+        },
+        {
+          "name": "Ecuador",
+          "code": "ec",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 0,
+          "ga": 2,
+          "gd": -2,
+          "points": 0,
+          "position": 6
         }
       ]
     },
