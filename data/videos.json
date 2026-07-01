@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-01T09:55:28.578Z",
+  "lastUpdated": "2026-07-01T10:14:19.682Z",
   "featured": {
-    "match": "FOgMmkTG07Q",
-    "highlight": "FOgMmkTG07Q",
+    "match": "QgUSOlN0Tt0",
+    "highlight": "EtDySLVm6zU",
     "interview": "_jns3_ev_48"
   },
   "videos": [
+    {
+      "title": "Brazil vs Japan Highlights 2026 FIFA World Cup ... - YouTube",
+      "videoId": "QgUSOlN0Tt0",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QgUSOlN0Tt0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Brazil vs Japan",
+      "source": "match-search"
+    },
+    {
+      "title": "Brazil vs Japan | Full Match Highlights | FIFA World Cup 2026",
+      "videoId": "EtDySLVm6zU",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-01",
+      "category": "Full Match",
+      "team": [
+        "Brazil",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/EtDySLVm6zU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Brazil vs Japan",
+      "source": "match-search"
+    },
     {
       "title": "Senegal On Playing Belgium | Pape Thiaw & Mamadou Sarr Take Questions",
       "videoId": "FOgMmkTG07Q",
