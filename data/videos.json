@@ -1,46 +1,76 @@
 {
-  "lastUpdated": "2026-06-30T23:12:28.548Z",
+  "lastUpdated": "2026-07-01T00:09:58.894Z",
   "featured": {
-    "match": "5Mvh0mqY8ik",
-    "highlight": "5Mvh0mqY8ik",
-    "interview": "feKJ-BO2lAE"
+    "match": "nP7CpUfDbBg",
+    "highlight": "nP7CpUfDbBg",
+    "interview": "_jns3_ev_48"
   },
   "videos": [
     {
-      "title": "Highlights | Algeria 3-3 Austria | FIFA World Cup 2026™ - YouTube",
-      "videoId": "5Mvh0mqY8ik",
-      "channel": "Web Search",
+      "title": "England On Playing Congo DR | Thomas Tuchel & Jordan Pickford Take Questions",
+      "videoId": "nP7CpUfDbBg",
+      "channel": "FIFA",
       "publishedAt": "2026-06-30",
       "category": "Highlights",
       "team": [
-        "Algeria",
-        "Austria"
+        "England"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/5Mvh0mqY8ik/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/nP7CpUfDbBg/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria",
-      "source": "match-search"
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
     },
     {
-      "title": "Algeria vs. Austria | Match Highlights | FIFA World Cup 2026™",
-      "videoId": "t92Q_KzIiEc",
-      "channel": "Web Search",
+      "title": "USA On Playing Bosnia And Herzegovina | Mauricio Pochettino Takes Questions",
+      "videoId": "iGVv_P8__jM",
+      "channel": "FIFA",
       "publishedAt": "2026-06-30",
       "category": "Highlights",
       "team": [
-        "Algeria",
-        "Austria"
+        "USA",
+        "Bosnia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/t92Q_KzIiEc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/iGVv_P8__jM/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria",
-      "source": "match-search"
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "Belgium On Playing Senegal | Rudi Garcia & Charles De Ketelaere Take Questions",
+      "videoId": "QkuyrU3aUCs",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "Belgium",
+        "Senegal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QkuyrU3aUCs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
+    },
+    {
+      "title": "Congo DR On Playing England | Sébastien Desabre Takes Questions",
+      "videoId": "QWiVIW3F2Ng",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-30",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QWiVIW3F2Ng/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Cape Verde vs Saudi Arabia"
     },
     {
       "title": "Antonio Nusa Goal | Cote d'Ivoire 1-2 Norway | FIFA World Cup 2026™",
@@ -221,67 +251,18 @@
       "fixtureTeams": "Cape Verde vs Saudi Arabia"
     },
     {
-      "title": "WATCH LIVE | Côte d'Ivoire v Norway | Round of 32 | FIFA World Cup 2026™",
-      "videoId": "FyHI66zBpxk",
-      "channel": "FIFA",
+      "title": "REACTION to France vs. Sweden 🚨 'Mbappe was absolutely fantastic!' - Frank LeBeouf! | ESPN FC",
+      "videoId": "_jns3_ev_48",
+      "channel": "ESPN FC",
       "publishedAt": "2026-06-30",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [
-        "Norway"
+        "France",
+        "Sweden"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FyHI66zBpxk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
-    },
-    {
-      "title": "USA Train Before Bosnia And Herzegovina | FIFA World Cup 2026™",
-      "videoId": "PCBKo13Cnd0",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-30",
-      "category": "Highlights",
-      "team": [
-        "USA",
-        "Bosnia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PCBKo13Cnd0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
-    },
-    {
-      "title": "Congo DR Train Before England | FIFA World Cup 2026™",
-      "videoId": "x9rO4u9Yl7U",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-30",
-      "category": "Highlights",
-      "team": [
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/x9rO4u9Yl7U/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
-    },
-    {
-      "title": "Alt Cast Highlights: Germany v Paraguay | FIFA World Cup 2026™",
-      "videoId": "HtgvNnsbQn4",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-30",
-      "category": "Highlights",
-      "team": [
-        "Germany",
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/HtgvNnsbQn4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/_jns3_ev_48/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Cape Verde vs Saudi Arabia"
@@ -504,22 +485,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/bSk4s0T9VCo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
-    },
-    {
-      "title": "Netherlands need to practice their penalties?",
-      "videoId": "6vifiwyU7qU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-30",
-      "category": "Highlights",
-      "team": [
-        "Netherlands"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/6vifiwyU7qU/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Cape Verde vs Saudi Arabia"
