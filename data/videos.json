@@ -1,46 +1,42 @@
 {
-  "lastUpdated": "2026-07-01T10:14:19.682Z",
+  "lastUpdated": "2026-07-01T12:37:24.245Z",
   "featured": {
-    "match": "QgUSOlN0Tt0",
-    "highlight": "EtDySLVm6zU",
+    "match": "8EjBI1Cn1Lc",
+    "highlight": "8EjBI1Cn1Lc",
     "interview": "_jns3_ev_48"
   },
   "videos": [
     {
-      "title": "Brazil vs Japan Highlights 2026 FIFA World Cup ... - YouTube",
-      "videoId": "QgUSOlN0Tt0",
-      "channel": "Web Search",
+      "title": "Team Feature: Austria | Is It The Last Dance For Marko Arnautović?",
+      "videoId": "8EjBI1Cn1Lc",
+      "channel": "FIFA",
       "publishedAt": "2026-07-01",
       "category": "Highlights",
       "team": [
-        "Brazil",
-        "Japan"
+        "Austria"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/QgUSOlN0Tt0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/8EjBI1Cn1Lc/mqdefault.jpg",
       "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan",
-      "source": "match-search"
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
     },
     {
-      "title": "Brazil vs Japan | Full Match Highlights | FIFA World Cup 2026",
-      "videoId": "EtDySLVm6zU",
-      "channel": "Web Search",
+      "title": "Team Feature: Spain | The People Of Rocafonda And Lamine Yamal",
+      "videoId": "J02wZx-1xw4",
+      "channel": "FIFA",
       "publishedAt": "2026-07-01",
-      "category": "Full Match",
+      "category": "Highlights",
       "team": [
-        "Brazil",
-        "Japan"
+        "Spain"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/EtDySLVm6zU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/J02wZx-1xw4/mqdefault.jpg",
       "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan",
-      "source": "match-search"
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
     },
     {
       "title": "Senegal On Playing Belgium | Pape Thiaw & Mamadou Sarr Take Questions",
@@ -261,35 +257,32 @@
       "fixtureTeams": "Algeria vs Austria"
     },
     {
-      "title": "Post-Match Press Conference: France's Didier Deschamps On The 3-0 Win Over Sweden",
-      "videoId": "3vqHHgMWk6k",
-      "channel": "FIFA",
+      "title": "Brazil vs. Norway FIRST LOOK: How will Brazil slow down Erling Haaland?! | ESPN FC",
+      "videoId": "Au9FDJZ5GBs",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-01",
       "category": "Highlights",
       "team": [
-        "France",
-        "Sweden"
+        "Brazil",
+        "Norway"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/3vqHHgMWk6k/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Au9FDJZ5GBs/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Algeria vs Austria"
     },
     {
-      "title": "Kylian Mbappe Goal | France 3-0 Sweden | FIFA World Cup 2026™",
-      "videoId": "SoQCKUDfpvo",
-      "channel": "FIFA",
+      "title": "Lionel Messi vs. Kylian Mbappe: World Cup Golden Boot race DEBATE | SportsCenter",
+      "videoId": "4v-HUJtaR2c",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-01",
       "category": "Highlights",
-      "team": [
-        "France",
-        "Sweden"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/SoQCKUDfpvo/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/4v-HUJtaR2c/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Algeria vs Austria"
@@ -497,38 +490,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/feKJ-BO2lAE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
-    },
-    {
-      "title": "Germany exits another World Cup early in the knockout rounds 😬",
-      "videoId": "fIgMO268vtc",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-30",
-      "category": "Highlights",
-      "team": [
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fIgMO268vtc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Cape Verde vs Saudi Arabia"
-    },
-    {
-      "title": "Taylor Twellman on USMNT's keys to beating Bosnia-Herzegovina | The Rich Eisen Show",
-      "videoId": "MKEvcqagtb0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-06-30",
-      "category": "Highlights",
-      "team": [
-        "Bosnia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/MKEvcqagtb0/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Cape Verde vs Saudi Arabia"
