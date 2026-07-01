@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-01T22:20:22.252Z",
+  "lastUpdated": "2026-07-01T22:40:21.546Z",
   "featured": {
-    "match": "7CCX5mQbZK8",
-    "highlight": "7CCX5mQbZK8",
+    "match": "QgUSOlN0Tt0",
+    "highlight": "QgUSOlN0Tt0",
     "interview": "wnreMGKCZO0"
   },
   "videos": [
+    {
+      "title": "Brazil vs Japan Highlights 2026 FIFA World Cup ... - YouTube",
+      "videoId": "QgUSOlN0Tt0",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QgUSOlN0Tt0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Brazil vs Japan",
+      "source": "match-search"
+    },
+    {
+      "title": "BRAZIL vs JAPAN World Cup 2026 - Match Highlights & Realistic ... - YouTube",
+      "videoId": "Ag-vxoB2mBw",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Ag-vxoB2mBw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Brazil vs Japan",
+      "source": "match-search"
+    },
     {
       "title": "Portugal On Playing Croatia | Roberto Martínez Takes Questions",
       "videoId": "7CCX5mQbZK8",
