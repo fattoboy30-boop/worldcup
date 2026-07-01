@@ -1,82 +1,59 @@
 {
-  "lastUpdated": "2026-07-01T17:33:18.531Z",
+  "lastUpdated": "2026-07-01T18:00:48.677Z",
   "featured": {
-    "match": "QgUSOlN0Tt0",
-    "highlight": "QgUSOlN0Tt0",
-    "interview": "QgUSOlN0Tt0"
+    "match": "9-nRi5iZM20",
+    "highlight": "9-nRi5iZM20",
+    "interview": "9-nRi5iZM20"
   },
   "videos": [
     {
-      "title": "Brazil vs Japan Highlights 2026 FIFA World Cup ... - YouTube",
-      "videoId": "QgUSOlN0Tt0",
-      "channel": "Web Search",
+      "title": "Alt Cast Highlights: France v Sweden | FIFA World Cup 2026™",
+      "videoId": "9-nRi5iZM20",
+      "channel": "FIFA",
       "publishedAt": "2026-07-01",
       "category": "Highlights",
       "team": [
-        "Brazil",
-        "Japan"
+        "France",
+        "Sweden"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/QgUSOlN0Tt0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/9-nRi5iZM20/mqdefault.jpg",
       "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan",
-      "source": "match-search"
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
     },
     {
-      "title": "BRAZIL vs JAPAN World Cup 2026 - Match Highlights & Realistic ... - YouTube",
-      "videoId": "Ag-vxoB2mBw",
-      "channel": "Web Search",
+      "title": "Highlights | Cote d'Ivoire 1-2 Norway | FIFA World Cup 2026™",
+      "videoId": "ATzmoebQMj0",
+      "channel": "FIFA",
       "publishedAt": "2026-07-01",
       "category": "Highlights",
       "team": [
-        "Brazil",
-        "Japan"
+        "Norway"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Ag-vxoB2mBw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/ATzmoebQMj0/mqdefault.jpg",
       "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan",
-      "source": "match-search"
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
     },
     {
-      "title": "Brazil vs Japan Highlights 2026 FIFA World Cup™ | Round of 32",
-      "videoId": "-Egf_FHRf_Y",
-      "channel": "Web Search",
+      "title": "Alt Cast Highlights: Côte d'Ivoire v Norway | FIFA World Cup 2026™",
+      "videoId": "AUnAfOv72FI",
+      "channel": "FIFA",
       "publishedAt": "2026-07-01",
       "category": "Highlights",
       "team": [
-        "Brazil",
-        "Japan"
+        "Norway"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-Egf_FHRf_Y/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/AUnAfOv72FI/mqdefault.jpg",
       "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan",
-      "source": "match-search"
-    },
-    {
-      "title": "Brazil v Japan | Round of 32 | FIFA World Cup 2026™ | Highlights",
-      "videoId": "9u4QRrwz1Nc",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-01",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Japan"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/9u4QRrwz1Nc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan",
-      "source": "match-search"
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
     },
     {
       "title": "Team Feature: Algeria | The Legacy of Riyad Mahrez",
@@ -252,74 +229,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/6MAOwBUgiVo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria"
-    },
-    {
-      "title": "Quiñones scores Mexico’s first goal against Ecuador ⚽️ #FIFAWorldCupOnYT",
-      "videoId": "weCJ4OcPJzQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-01",
-      "category": "Highlights",
-      "team": [
-        "Mexico",
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/weCJ4OcPJzQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria"
-    },
-    {
-      "title": "Mexico 🆚 Ecuador #FIFAWorldCupOnYT",
-      "videoId": "LcS4HK1tOhE",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-01",
-      "category": "Highlights",
-      "team": [
-        "Mexico",
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/LcS4HK1tOhE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria"
-    },
-    {
-      "title": "Post-Match Press Conference: Ecuador's Sebastián Beccacece On 2-0 Loss To Mexico",
-      "videoId": "yrY6XO-fDEs",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-01",
-      "category": "Highlights",
-      "team": [
-        "Mexico",
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/yrY6XO-fDEs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria"
-    },
-    {
-      "title": "Post-Match Press Conference: Mexico's Javier Aguirre On 2-0 Win Over Ecuador",
-      "videoId": "vtQLgmzMURA",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-01",
-      "category": "Highlights",
-      "team": [
-        "Mexico",
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vtQLgmzMURA/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Algeria vs Austria"
@@ -551,6 +460,22 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "WATCH LIVE | England v DR Congo | Round of 32 | FIFA World Cup 2026™",
+      "videoId": "gD95oAMFUOg",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/gD95oAMFUOg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
     }
   ]
 }
