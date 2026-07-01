@@ -1,46 +1,44 @@
 {
-  "lastUpdated": "2026-07-01T21:06:33.073Z",
+  "lastUpdated": "2026-07-01T22:20:22.252Z",
   "featured": {
-    "match": "QgUSOlN0Tt0",
-    "highlight": "b27ZUEbyBbY",
+    "match": "7CCX5mQbZK8",
+    "highlight": "7CCX5mQbZK8",
     "interview": "wnreMGKCZO0"
   },
   "videos": [
     {
-      "title": "Brazil vs Japan Highlights 2026 FIFA World Cup ... - YouTube",
-      "videoId": "QgUSOlN0Tt0",
-      "channel": "Web Search",
+      "title": "Portugal On Playing Croatia | Roberto Martínez Takes Questions",
+      "videoId": "7CCX5mQbZK8",
+      "channel": "FIFA",
       "publishedAt": "2026-07-01",
       "category": "Highlights",
       "team": [
-        "Brazil",
-        "Japan"
+        "Portugal",
+        "Croatia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/QgUSOlN0Tt0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/7CCX5mQbZK8/mqdefault.jpg",
       "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan",
-      "source": "match-search"
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
     },
     {
-      "title": "Brazil vs Japan 2026 - Full Match Highlights | FIFA World Cup ... - YouTube",
-      "videoId": "b27ZUEbyBbY",
-      "channel": "Web Search",
+      "title": "Highlights | France 3-0 Sweden | FIFA World Cup 2026™",
+      "videoId": "A7pgChEIFTg",
+      "channel": "FIFA",
       "publishedAt": "2026-07-01",
-      "category": "Full Match",
+      "category": "Highlights",
       "team": [
-        "Brazil",
-        "Japan"
+        "France",
+        "Sweden"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/b27ZUEbyBbY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/A7pgChEIFTg/mqdefault.jpg",
       "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan",
-      "source": "match-search"
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
     },
     {
       "title": "Harry Kane Wins It For England! | England 2-1 Congo DR",
@@ -247,38 +245,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/9-nRi5iZM20/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria"
-    },
-    {
-      "title": "Highlights | Cote d'Ivoire 1-2 Norway | FIFA World Cup 2026™",
-      "videoId": "ATzmoebQMj0",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-01",
-      "category": "Highlights",
-      "team": [
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ATzmoebQMj0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria"
-    },
-    {
-      "title": "Alt Cast Highlights: Côte d'Ivoire v Norway | FIFA World Cup 2026™",
-      "videoId": "AUnAfOv72FI",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-01",
-      "category": "Highlights",
-      "team": [
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/AUnAfOv72FI/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Algeria vs Austria"
