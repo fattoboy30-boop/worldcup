@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T23:55:31.331Z",
+  "lastUpdated": "2026-07-02T01:52:44.554Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2033,17 +2033,17 @@
       "utcDate": "2026-07-02T00:00Z",
       "homeTeam": "United States",
       "homeCode": "un",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayTeam": "Bosnia-Herzegovina",
       "awayCode": "ba",
       "awayScore": 0,
       "venue": "Levi's Stadium",
       "city": "Santa Clara, California",
-      "status": "timed",
+      "status": "in_play",
       "group": "D",
       "stage": "ROUND_OF_32",
       "matchday": 0,
-      "minute": null,
+      "minute": "87'",
       "halfTime": [
         null,
         null
@@ -2334,13 +2334,13 @@
       "homeTeam": "Round of 32 9 Winner",
       "homeCode": "un",
       "homeScore": 0,
-      "awayTeam": "Round of 32 10 Winner",
-      "awayCode": "un",
+      "awayTeam": "Belgium",
+      "awayCode": "be",
       "awayScore": 0,
       "venue": "Lumen Field",
       "city": "Seattle, Washington",
       "status": "timed",
-      "group": null,
+      "group": "G",
       "stage": "ROUND_OF_16",
       "matchday": 0,
       "minute": null,
@@ -2349,7 +2349,7 @@
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/un.png",
-      "awayFlag": "https://flagcdn.com/w160/un.png"
+      "awayFlag": "https://flagcdn.com/w160/be.png"
     },
     {
       "id": 760509,
