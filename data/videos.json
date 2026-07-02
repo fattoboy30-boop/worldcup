@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-02T09:18:27.293Z",
+  "lastUpdated": "2026-07-02T10:12:10.865Z",
   "featured": {
-    "match": "9UdYEXFDVRs",
-    "highlight": "9UdYEXFDVRs",
+    "match": "z9umI2sq4ZE",
+    "highlight": "z9umI2sq4ZE",
     "interview": "h7Q5QrpgKvs"
   },
   "videos": [
+    {
+      "title": "HIGHLIGHTS: Netherlands vs Morocco | FIFA World Cup 2026™ | 30/06/2026",
+      "videoId": "z9umI2sq4ZE",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-02",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/z9umI2sq4ZE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Netherlands vs Morocco",
+      "source": "match-search"
+    },
+    {
+      "title": "HIGHLIGHTS - Netherlands v Morocco | All Action Knockout Match! - YouTube",
+      "videoId": "He2Fm2LCB0U",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-02",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/He2Fm2LCB0U/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Netherlands vs Morocco",
+      "source": "match-search"
+    },
     {
       "title": "Algeria Train Before Switzerland | FIFA World Cup 2026™",
       "videoId": "9UdYEXFDVRs",
