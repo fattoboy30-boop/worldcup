@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T22:41:43.791Z",
+  "lastUpdated": "2026-07-02T22:46:43.768Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2309,13 +2309,13 @@
       "homeTeam": "Round of 32 11 Winner",
       "homeCode": "un",
       "homeScore": 0,
-      "awayTeam": "Round of 32 12 Winner",
-      "awayCode": "un",
+      "awayTeam": "Spain",
+      "awayCode": "es",
       "awayScore": 0,
       "venue": "AT&T Stadium",
       "city": "Arlington, Texas",
       "status": "timed",
-      "group": null,
+      "group": "H",
       "stage": "ROUND_OF_16",
       "matchday": 0,
       "minute": null,
@@ -2324,7 +2324,7 @@
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/un.png",
-      "awayFlag": "https://flagcdn.com/w160/un.png"
+      "awayFlag": "https://flagcdn.com/w160/es.png"
     },
     {
       "id": 760507,
