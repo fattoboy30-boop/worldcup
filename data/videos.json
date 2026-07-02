@@ -1,46 +1,61 @@
 {
-  "lastUpdated": "2026-07-01T22:40:21.546Z",
+  "lastUpdated": "2026-07-02T00:12:06.687Z",
   "featured": {
-    "match": "QgUSOlN0Tt0",
-    "highlight": "QgUSOlN0Tt0",
+    "match": "V-AoBMS_lc4",
+    "highlight": "V-AoBMS_lc4",
     "interview": "wnreMGKCZO0"
   },
   "videos": [
     {
-      "title": "Brazil vs Japan Highlights 2026 FIFA World Cup ... - YouTube",
-      "videoId": "QgUSOlN0Tt0",
-      "channel": "Web Search",
+      "title": "Spain On Playing Austria | Luis de la Fuente Takes Questions",
+      "videoId": "V-AoBMS_lc4",
+      "channel": "FIFA",
       "publishedAt": "2026-07-01",
       "category": "Highlights",
       "team": [
-        "Brazil",
-        "Japan"
+        "Spain",
+        "Austria"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/QgUSOlN0Tt0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/V-AoBMS_lc4/mqdefault.jpg",
       "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan",
-      "source": "match-search"
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
     },
     {
-      "title": "BRAZIL vs JAPAN World Cup 2026 - Match Highlights & Realistic ... - YouTube",
-      "videoId": "Ag-vxoB2mBw",
-      "channel": "Web Search",
+      "title": "Switzerland On Playing Algeria | Murat Yakin & Breel Embolo Takes Questions",
+      "videoId": "xPZKpkuJFZs",
+      "channel": "FIFA",
       "publishedAt": "2026-07-01",
       "category": "Highlights",
       "team": [
-        "Brazil",
-        "Japan"
+        "Switzerland",
+        "Algeria"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Ag-vxoB2mBw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/xPZKpkuJFZs/mqdefault.jpg",
       "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan",
-      "source": "match-search"
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
+    },
+    {
+      "title": "Croatia On Playing Portugal | Zlatko Dalić And Dominik Livakovic Take Questions",
+      "videoId": "ZHatpSXCwZQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-01",
+      "category": "Highlights",
+      "team": [
+        "Portugal",
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ZHatpSXCwZQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Algeria vs Austria"
     },
     {
       "title": "Portugal On Playing Croatia | Roberto Martínez Takes Questions",
@@ -236,51 +251,17 @@
       "fixtureTeams": "Algeria vs Austria"
     },
     {
-      "title": "Alt Cast Highlights: Mexico v Ecuador | FIFA World Cup 2026™",
-      "videoId": "h7qVCA2s6Ps",
-      "channel": "FIFA",
+      "title": "Belgium is ‘very lucky’ to be in the Round of 16 – Craig Burley | Futbol Americas",
+      "videoId": "WtLjfdhcp1Y",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-01",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "Ecuador"
+        "Belgium"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/h7qVCA2s6Ps/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria"
-    },
-    {
-      "title": "WATCH LIVE | England v DR Congo | Round of 32 | FIFA World Cup 2026™",
-      "videoId": "gD95oAMFUOg",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-01",
-      "category": "Highlights",
-      "team": [
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/gD95oAMFUOg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria"
-    },
-    {
-      "title": "Alt Cast Highlights: France v Sweden | FIFA World Cup 2026™",
-      "videoId": "9-nRi5iZM20",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-01",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Sweden"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/9-nRi5iZM20/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/WtLjfdhcp1Y/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Algeria vs Austria"
@@ -488,24 +469,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/4v-HUJtaR2c/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Algeria vs Austria"
-    },
-    {
-      "title": "France, Mexico & Norway advance to Round of 16 + Mbappe chasing Messi's goals record 👀 | ESPN FC",
-      "videoId": "bJ7cH8LsaFo",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-01",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Mexico",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/bJ7cH8LsaFo/mqdefault.jpg",
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "fixtureTeams": "Algeria vs Austria"
