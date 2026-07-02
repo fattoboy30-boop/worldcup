@@ -1,46 +1,111 @@
 {
-  "lastUpdated": "2026-07-02T22:47:22.829Z",
+  "lastUpdated": "2026-07-02T23:11:15.487Z",
   "featured": {
-    "match": "rql8_f5j5XQ",
-    "highlight": "rql8_f5j5XQ",
-    "interview": "rql8_f5j5XQ"
+    "match": "gyNTOxtkvDg",
+    "highlight": "gyNTOxtkvDg",
+    "interview": "AglFbRE1_lc"
   },
   "videos": [
     {
-      "title": "Netherlands vs. Morocco Full Highlights | FIFA World Cup 2026",
-      "videoId": "rql8_f5j5XQ",
-      "channel": "Web Search",
+      "title": "Post-Match Press Conference: Spain's Luis de la Fuente On The 3-0 Win Over Austria",
+      "videoId": "gyNTOxtkvDg",
+      "channel": "FIFA",
       "publishedAt": "2026-07-02",
       "category": "Highlights",
       "team": [
-        "Netherlands",
-        "Morocco"
+        "Spain",
+        "Austria"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/rql8_f5j5XQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/gyNTOxtkvDg/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco",
-      "source": "match-search"
+      "fixtureTeams": "Brazil vs Japan"
     },
     {
-      "title": "Highlights | Netherlands (2)1-1 (3) Morocco | FIFA World Cup 2026™",
-      "videoId": "vdnhUnGHwco",
-      "channel": "Web Search",
+      "title": "Post-Match Press Conference: Austria's Ralf Rangnick On The 3-0 Loss To Spain",
+      "videoId": "rY3MzB3Vchw",
+      "channel": "FIFA",
       "publishedAt": "2026-07-02",
       "category": "Highlights",
       "team": [
-        "Netherlands",
-        "Morocco"
+        "Spain",
+        "Austria"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vdnhUnGHwco/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/rY3MzB3Vchw/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco",
-      "source": "match-search"
+      "fixtureTeams": "Brazil vs Japan"
+    },
+    {
+      "title": "Post-Match Player Interviews | Spain 3-0 Austria",
+      "videoId": "uzo02iOD2_M",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-02",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/uzo02iOD2_M/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Brazil vs Japan"
+    },
+    {
+      "title": "Colombia On Playing Ghana | Néstor Gabriel Lorenzo Takes Questions",
+      "videoId": "o2GTZ9knLXA",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-02",
+      "category": "Highlights",
+      "team": [
+        "Colombia",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/o2GTZ9knLXA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Brazil vs Japan"
+    },
+    {
+      "title": "Cabo Verde On Playing Argentina | Pedro Leitão Brito & Stopira Take Questions",
+      "videoId": "gvVDBs3MVaA",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-02",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/gvVDBs3MVaA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Brazil vs Japan"
+    },
+    {
+      "title": "WATCH LIVE | Spain v Austria | Round of 32 | FIFA World Cup 2026™",
+      "videoId": "14UKIWdEp0M",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-02",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/14UKIWdEp0M/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Brazil vs Japan"
     },
     {
       "title": "Ghana On Playing Colombia | Carlos Queiroz & Jordan Ayew Take Questions",
@@ -188,60 +253,25 @@
       "fixtureTeams": "Brazil vs Japan"
     },
     {
-      "title": "Alt Cast Highlights: USA v Bosnia and Herzegovina | FIFA World Cup 2026™",
-      "videoId": "4XugoFOWH34",
-      "channel": "FIFA",
+      "title": "Mexico fans are LIVING after advancing in the World Cup 😂🇲🇽 (via @mauriliogonz/TT)",
+      "videoId": "Kpcqn8yYL2k",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-02",
       "category": "Highlights",
       "team": [
-        "USA",
-        "Bosnia"
+        "Mexico"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/4XugoFOWH34/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Kpcqn8yYL2k/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Brazil vs Japan"
     },
     {
-      "title": "Alt Cast Highlights: Belgium v Senegal | FIFA World Cup 2026™",
-      "videoId": "hyUCSQB2Y44",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [
-        "Belgium",
-        "Senegal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/hyUCSQB2Y44/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "15-Minute Match: France 1-0 Paraguay | 1998 Drama",
-      "videoId": "ASJMq40QCDE",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ASJMq40QCDE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "Alt Cast Highlights: England v Congo DR | FIFA World Cup 2026™",
-      "videoId": "V1SeDmfU3UA",
-      "channel": "FIFA",
+      "title": "’England HAVE TO IMPROVE!’ 😳 Do they have enough to compete with the top World Cup teams? | ESPN FC",
+      "videoId": "KZQEl6ceJAQ",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-02",
       "category": "Highlights",
       "team": [
@@ -249,21 +279,24 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/V1SeDmfU3UA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/KZQEl6ceJAQ/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Brazil vs Japan"
     },
     {
-      "title": "Team Feature: Cabo Verde | Building A Lasting Legacy",
-      "videoId": "7SaYMN-ibj4",
-      "channel": "FIFA",
+      "title": "‘A FLAWLESS PERFORMANCE!’ 🔥 Spain vs. Austria FULL REACTION | ESPN FC",
+      "videoId": "AglFbRE1_lc",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [],
+      "category": "Viral",
+      "team": [
+        "Spain",
+        "Austria"
+      ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7SaYMN-ibj4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/AglFbRE1_lc/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Brazil vs Japan"
@@ -299,7 +332,7 @@
       "fixtureTeams": "Brazil vs Japan"
     },
     {
-      "title": "A CONTROVERSIAL PENALTY ���� Was the call justified in Belgium vs. Senegal? | ESPN FC",
+      "title": "A CONTROVERSIAL PENALTY 🚨 Was the call justified in Belgium vs. Senegal? | ESPN FC",
       "videoId": "_At8NUy2Ztk",
       "channel": "ESPN FC",
       "publishedAt": "2026-07-02",
@@ -444,67 +477,6 @@
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "ABSOLUTE JOKE! DEVASTATING! INCONSISTENCY! 😧 Fallout of Balogun's red card controversy | First Take",
-      "videoId": "ZL7HcSRb_qw",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ZL7HcSRb_qw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "A simple question. Why not US?",
-      "videoId": "ZpSP3muTWos",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ZpSP3muTWos/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "First Take reacts to Folarin Balogun receiving a red card in match vs. Bosnia and Herzegovina 😬",
-      "videoId": "5ZYEnRb5y-Y",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [
-        "Bosnia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/5ZYEnRb5y-Y/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "WATCH LIVE | Spain v Austria | Round of 32 | FIFA World Cup 2026™",
-      "videoId": "14UKIWdEp0M",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Austria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/14UKIWdEp0M/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
     }
   ]
 }
