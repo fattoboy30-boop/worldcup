@@ -1,46 +1,40 @@
 {
-  "lastUpdated": "2026-07-02T18:16:33.903Z",
+  "lastUpdated": "2026-07-02T19:35:36.517Z",
   "featured": {
-    "match": "vdnhUnGHwco",
-    "highlight": "vdnhUnGHwco",
-    "interview": "vdnhUnGHwco"
+    "match": "H3PrLQrSQnA",
+    "highlight": "H3PrLQrSQnA",
+    "interview": "H3PrLQrSQnA"
   },
   "videos": [
     {
-      "title": "Highlights | Netherlands (2)1-1 (3) Morocco | FIFA World Cup 2026™",
-      "videoId": "vdnhUnGHwco",
-      "channel": "Web Search",
+      "title": "Moisés Caicedo's Surprise for FIFA World Cup 2026 Unsung Hero Nancy Tituaña Morales",
+      "videoId": "H3PrLQrSQnA",
+      "channel": "FIFA",
       "publishedAt": "2026-07-02",
       "category": "Highlights",
-      "team": [
-        "Netherlands",
-        "Morocco"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vdnhUnGHwco/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/H3PrLQrSQnA/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco",
-      "source": "match-search"
+      "fixtureTeams": "Brazil vs Japan"
     },
     {
-      "title": "Netherlands vs. Morocco Full Highlights | FIFA World Cup 2026",
-      "videoId": "rql8_f5j5XQ",
-      "channel": "Web Search",
+      "title": "Team Feature: Ghana | Iñaki Williams: Family Heritage and Representing Ghana",
+      "videoId": "UInBYzmjDO8",
+      "channel": "FIFA",
       "publishedAt": "2026-07-02",
       "category": "Highlights",
       "team": [
-        "Netherlands",
-        "Morocco"
+        "Ghana"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/rql8_f5j5XQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/UInBYzmjDO8/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco",
-      "source": "match-search"
+      "fixtureTeams": "Brazil vs Japan"
     },
     {
       "title": "Team Feature: Egypt | Mostafa Shoubir: Guarding Egypt’s Goal Just Like His Father",
@@ -238,55 +232,54 @@
       "fixtureTeams": "Brazil vs Japan"
     },
     {
-      "title": "July 1 Matchday Recap | #FIFAWorldCup @aramco",
-      "videoId": "BP2lBiOC9GY",
-      "channel": "FIFA",
+      "title": "Stevie Nicol GUSHES over Harry Kane's performance for England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | ESPN FC",
+      "videoId": "WnogVaAqpZ0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-02",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/WnogVaAqpZ0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Brazil vs Japan"
+    },
+    {
+      "title": "Should there be an APPEAL PROCESS in FIFA after criticized red card on USMNT? | The Rich Eisen Show",
+      "videoId": "rzenqQ0iRpg",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-02",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/BP2lBiOC9GY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/rzenqQ0iRpg/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Brazil vs Japan"
     },
     {
-      "title": "Post-Match Press Conference: Bosnia And Herzegovina's Sergej Barbarez On The 2-0 Loss To The USA",
-      "videoId": "zmUrw-3gK14",
-      "channel": "FIFA",
+      "title": "A CONTROVERSIAL PENALTY ��� Was the call justified in Belgium vs. Senegal? | ESPN FC",
+      "videoId": "_At8NUy2Ztk",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-02",
       "category": "Highlights",
       "team": [
-        "USA",
-        "Bosnia"
+        "Belgium",
+        "Senegal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/zmUrw-3gK14/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/_At8NUy2Ztk/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Brazil vs Japan"
     },
     {
-      "title": "Post-Match Press Conference: USA's Mauricio Pochettino On The 2-0 Win Over Bosnia And Herzegovina",
-      "videoId": "ScoHuHpga-o",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [
-        "USA",
-        "Bosnia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ScoHuHpga-o/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "Elliot Anderson joins Manchester City 🚨 Stevie Nicol thinks it's WORTH IT! | ESPN FC",
+      "title": "Sandro Tonali set to join Spurs 🚨 Shaka Hislop is CONFUSED 😕 | ESPN FC",
       "videoId": "QASyiz0FmOg",
       "channel": "ESPN FC",
       "publishedAt": "2026-07-02",
@@ -460,46 +453,21 @@
       "fixtureTeams": "Brazil vs Japan"
     },
     {
-      "title": "Folarin Balogun's red card controversy ⚽",
-      "videoId": "N0McVEiNjMs",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-02",
+      "title": "WATCH LIVE | Spain v Austria | Round of 32 | FIFA World Cup 2026™",
+      "videoId": "14UKIWdEp0M",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
       "category": "Highlights",
-      "team": [],
+      "team": [
+        "Spain",
+        "Austria"
+      ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/N0McVEiNjMs/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/14UKIWdEp0M/mqdefault.jpg",
       "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "Could the World Cup be STOLEN from the USMNT with Folarin Balogun's red card?! 😨 | Get Up",
-      "videoId": "n0rMBg_z5M8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/n0rMBg_z5M8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "Can the USMNT win without Balogun? 🤔",
-      "videoId": "JqW8J0ZEZZE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/JqW8J0ZEZZE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
     }
   ]
 }
