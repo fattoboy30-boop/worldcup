@@ -1,30 +1,6 @@
 {
-  "lastUpdated": "2026-07-02T20:11:03.692Z",
-  "liveMatches": [
-    {
-      "id": 760497,
-      "date": "2026-07-02",
-      "time": "19:00",
-      "utcDate": "2026-07-02T19:00Z",
-      "homeTeam": "Spain",
-      "homeCode": "es",
-      "homeScore": 1,
-      "awayTeam": "Austria",
-      "awayCode": "at",
-      "awayScore": 0,
-      "venue": "SoFi Stadium",
-      "city": "Inglewood, California",
-      "status": "in_play",
-      "group": "H",
-      "stage": "ROUND_OF_32",
-      "matchday": 0,
-      "minute": "49'",
-      "halfTime": [
-        null,
-        null
-      ]
-    }
-  ],
+  "lastUpdated": "2026-07-02T21:32:07.910Z",
+  "liveMatches": [],
   "recentResults": [
     {
       "id": 760415,
@@ -1904,6 +1880,29 @@
       "city": "Santa Clara, California",
       "status": "finished",
       "group": "D",
+      "stage": "ROUND_OF_32",
+      "matchday": 0,
+      "minute": null,
+      "halfTime": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": 760497,
+      "date": "2026-07-02",
+      "time": "19:00",
+      "utcDate": "2026-07-02T19:00Z",
+      "homeTeam": "Spain",
+      "homeCode": "es",
+      "homeScore": 3,
+      "awayTeam": "Austria",
+      "awayCode": "at",
+      "awayScore": 0,
+      "venue": "SoFi Stadium",
+      "city": "Inglewood, California",
+      "status": "finished",
+      "group": "H",
       "stage": "ROUND_OF_32",
       "matchday": 0,
       "minute": null,
