@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-02T15:18:52.026Z",
+  "lastUpdated": "2026-07-02T16:28:44.196Z",
   "featured": {
-    "match": "hyUCSQB2Y44",
-    "highlight": "hyUCSQB2Y44",
-    "interview": "hyUCSQB2Y44"
+    "match": "RPAcZTlSULg",
+    "highlight": "RPAcZTlSULg",
+    "interview": "RPAcZTlSULg"
   },
   "videos": [
+    {
+      "title": "Netherlands vs Morocco | Highlight | FIFA World Cup 2026™ - YouTube",
+      "videoId": "RPAcZTlSULg",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-02",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RPAcZTlSULg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Netherlands vs Morocco",
+      "source": "match-search"
+    },
+    {
+      "title": "Netherlands vs. Morocco Full Highlights | FIFA World Cup 2026",
+      "videoId": "rql8_f5j5XQ",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-02",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/rql8_f5j5XQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Netherlands vs Morocco",
+      "source": "match-search"
+    },
     {
       "title": "Alt Cast Highlights: Belgium v Senegal | FIFA World Cup 2026™",
       "videoId": "hyUCSQB2Y44",
