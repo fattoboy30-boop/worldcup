@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-02T12:10:25.051Z",
+  "lastUpdated": "2026-07-02T12:22:21.079Z",
   "featured": {
-    "match": "feEfpG84lSM",
-    "highlight": "feEfpG84lSM",
+    "match": "rql8_f5j5XQ",
+    "highlight": "rql8_f5j5XQ",
     "interview": "h7Q5QrpgKvs"
   },
   "videos": [
+    {
+      "title": "Netherlands vs. Morocco Full Highlights | FIFA World Cup 2026",
+      "videoId": "rql8_f5j5XQ",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-02",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/rql8_f5j5XQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Netherlands vs Morocco",
+      "source": "match-search"
+    },
+    {
+      "title": "Netherlands vs Morocco | Match Highlights | FIFA World Cup 2026™",
+      "videoId": "u1ck_AE6X5Y",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-02",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/u1ck_AE6X5Y/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Netherlands vs Morocco",
+      "source": "match-search"
+    },
     {
       "title": "Team Feature: Argentina | Fernandez With The Burning Desire To Win More World Cups",
       "videoId": "feEfpG84lSM",
