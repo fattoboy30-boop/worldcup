@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-07-02T22:46:43.766Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-07-02T23:45:04.440Z",
+  "liveMatches": [
+    {
+      "id": 760496,
+      "date": "2026-07-02",
+      "time": "23:00",
+      "utcDate": "2026-07-02T23:00Z",
+      "homeTeam": "Portugal",
+      "homeCode": "pt",
+      "homeScore": 0,
+      "awayTeam": "Croatia",
+      "awayCode": "hr",
+      "awayScore": 0,
+      "venue": "BMO Field",
+      "city": "Toronto",
+      "status": "in_play",
+      "group": "K",
+      "stage": "ROUND_OF_32",
+      "matchday": 0,
+      "minute": "44'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -1913,29 +1937,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760496,
-      "date": "2026-07-02",
-      "time": "23:00",
-      "utcDate": "2026-07-02T23:00Z",
-      "homeTeam": "Portugal",
-      "homeCode": "pt",
-      "homeScore": 0,
-      "awayTeam": "Croatia",
-      "awayCode": "hr",
-      "awayScore": 0,
-      "venue": "BMO Field",
-      "city": "Toronto",
-      "status": "timed",
-      "group": "K",
-      "stage": "ROUND_OF_32",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760498,
       "date": "2026-07-03",
