@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-02T00:12:06.687Z",
+  "lastUpdated": "2026-07-02T03:34:16.035Z",
   "featured": {
-    "match": "V-AoBMS_lc4",
-    "highlight": "V-AoBMS_lc4",
+    "match": "z9umI2sq4ZE",
+    "highlight": "z9umI2sq4ZE",
     "interview": "wnreMGKCZO0"
   },
   "videos": [
+    {
+      "title": "HIGHLIGHTS: Netherlands vs Morocco | FIFA World Cup 2026™ | 30/06/2026",
+      "videoId": "z9umI2sq4ZE",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-02",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/z9umI2sq4ZE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Netherlands vs Morocco",
+      "source": "match-search"
+    },
+    {
+      "title": "Netherlands vs Morocco | Match Highlights | FIFA World Cup 2026™",
+      "videoId": "u1ck_AE6X5Y",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-02",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/u1ck_AE6X5Y/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Netherlands vs Morocco",
+      "source": "match-search"
+    },
     {
       "title": "Spain On Playing Austria | Luis de la Fuente Takes Questions",
       "videoId": "V-AoBMS_lc4",
