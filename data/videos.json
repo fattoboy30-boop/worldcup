@@ -1,46 +1,75 @@
 {
-  "lastUpdated": "2026-07-02T16:28:44.196Z",
+  "lastUpdated": "2026-07-02T17:52:14.489Z",
   "featured": {
-    "match": "RPAcZTlSULg",
-    "highlight": "RPAcZTlSULg",
-    "interview": "RPAcZTlSULg"
+    "match": "VU6sunmJH0k",
+    "highlight": "VU6sunmJH0k",
+    "interview": "VU6sunmJH0k"
   },
   "videos": [
     {
-      "title": "Netherlands vs Morocco | Highlight | FIFA World Cup 2026™ - YouTube",
-      "videoId": "RPAcZTlSULg",
-      "channel": "Web Search",
+      "title": "Team Feature: Egypt | Mostafa Shoubir: Guarding Egypt’s Goal Just Like His Father",
+      "videoId": "VU6sunmJH0k",
+      "channel": "FIFA",
       "publishedAt": "2026-07-02",
       "category": "Highlights",
       "team": [
-        "Netherlands",
-        "Morocco"
+        "Egypt"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/RPAcZTlSULg/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/VU6sunmJH0k/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco",
-      "source": "match-search"
+      "fixtureTeams": "Brazil vs Japan"
     },
     {
-      "title": "Netherlands vs. Morocco Full Highlights | FIFA World Cup 2026",
-      "videoId": "rql8_f5j5XQ",
-      "channel": "Web Search",
+      "title": "Team Feature: Australia | Tony Popovic on 2006 Memories and Knockout Margins",
+      "videoId": "L36dHEWJWgo",
+      "channel": "FIFA",
       "publishedAt": "2026-07-02",
       "category": "Highlights",
       "team": [
-        "Netherlands",
-        "Morocco"
+        "Australia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/rql8_f5j5XQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/L36dHEWJWgo/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco",
-      "source": "match-search"
+      "fixtureTeams": "Brazil vs Japan"
+    },
+    {
+      "title": "Highlights | England 2-1 Congo DR | FIFA World Cup 2026™",
+      "videoId": "T6MYUQgpCv8",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-02",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/T6MYUQgpCv8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Brazil vs Japan"
+    },
+    {
+      "title": "Alt Cast Highlights: USA v Bosnia and Herzegovina | FIFA World Cup 2026™",
+      "videoId": "4XugoFOWH34",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-02",
+      "category": "Highlights",
+      "team": [
+        "USA",
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4XugoFOWH34/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Brazil vs Japan"
     },
     {
       "title": "Alt Cast Highlights: Belgium v Senegal | FIFA World Cup 2026™",
@@ -221,69 +250,117 @@
       "fixtureTeams": "Brazil vs Japan"
     },
     {
-      "title": "Post-Match Player Interviews: USA 2-0 Bosnia And Herzegovina",
-      "videoId": "MH-M4nCap9s",
-      "channel": "FIFA",
+      "title": "Elliot Anderson joins Manchester City 🚨 Stevie Nicol thinks it's WORTH IT! | ESPN FC",
+      "videoId": "QASyiz0FmOg",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-02",
       "category": "Highlights",
-      "team": [
-        "USA",
-        "Bosnia"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/MH-M4nCap9s/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/QASyiz0FmOg/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Brazil vs Japan"
     },
     {
-      "title": "Switzerland Train Before Algeria | FIFA World Cup 2026™",
-      "videoId": "oaNOLIaLIhg",
-      "channel": "FIFA",
+      "title": "Comparing Folarin Balogun's red card to this Lionel Messi moment vs. Algeria 👀 | ESPN FC",
+      "videoId": "5CDS6OvOahI",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-02",
       "category": "Highlights",
       "team": [
-        "Switzerland",
         "Algeria"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/oaNOLIaLIhg/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/5CDS6OvOahI/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Brazil vs Japan"
     },
     {
-      "title": "Austria Train Before Spain | FIFA World Cup 2026™",
-      "videoId": "-MHfL-aCkGw",
-      "channel": "FIFA",
+      "title": "'UNPROFESSIONAL!' - Steve Nicol on Enzo Fernandez's agent's comments on his Chelsea future | ESPN FC",
+      "videoId": "NUeJkt8bAf0",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-02",
       "category": "Highlights",
-      "team": [
-        "Spain",
-        "Austria"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-MHfL-aCkGw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/NUeJkt8bAf0/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Brazil vs Japan"
     },
     {
-      "title": "Folarin Balogun Goal | USA 2-0 Bosnia and Herzegovina",
-      "videoId": "Jl8oFBgcLNI",
-      "channel": "FIFA",
+      "title": "Real for that 😂 (via @InterMiamiCF/TT)",
+      "videoId": "QV94KAzKzzE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-02",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QV94KAzKzzE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Brazil vs Japan"
+    },
+    {
+      "title": "Portugal better off without Ronaldo?!",
+      "videoId": "0_eQ1vsYzsk",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-02",
       "category": "Highlights",
       "team": [
-        "USA",
-        "Bosnia"
+        "Portugal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Jl8oFBgcLNI/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/0_eQ1vsYzsk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Brazil vs Japan"
+    },
+    {
+      "title": "Roger Bennett STILL HAS FAITH w/o Folarin Balogun 🗣️ 'I THINK WE CAN WIN IT' | First Take",
+      "videoId": "XOZqtQCeaD0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-02",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/XOZqtQCeaD0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Brazil vs Japan"
+    },
+    {
+      "title": "Should American fans be overconfident? 😳",
+      "videoId": "3Dl1rtQZ-eo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-02",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/3Dl1rtQZ-eo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Brazil vs Japan"
+    },
+    {
+      "title": "Everything looks like a Michael Bay action scene in slow-mo 🤣",
+      "videoId": "qtZOBllwHiE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-02",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/qtZOBllwHiE/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Brazil vs Japan"
@@ -384,126 +461,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/JqW8J0ZEZZE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "'You have to FEEL for Folarin Balogun!' 😮 - Bradley Wright-Phillips on the USMNT red card | SC",
-      "videoId": "h84LVztxC5E",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/h84LVztxC5E/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "United States defeat Bosnia & Herzegovina, set to face Belgium next [FULL SHOW] | ESPN FC",
-      "videoId": "_YTa1ApLPNQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [
-        "Belgium",
-        "Bosnia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_YTa1ApLPNQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "Which was worse: Balogun's red card or Messi's no-call? 🤔 | ESPN FC Extra Time",
-      "videoId": "7Wpmf0bwVGQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7Wpmf0bwVGQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "Should Flo Balogun have been shown a red card? 🤔",
-      "videoId": "5mfJNNOdAnY",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/5mfJNNOdAnY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "DIABOLICAL CALL 🗣️ Brek Shea and Geoff Cameron react to USMNT advancing in World Cup | ESPN FC",
-      "videoId": "H8-RCV4e5RY",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/H8-RCV4e5RY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "How will USMNT stack up against Belgium without Folarin Balogun? | ESPN FC",
-      "videoId": "THHCAROvsgo",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [
-        "Belgium"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/THHCAROvsgo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "Electric ⚡🇲🇽 (via jacksonKMBC9/X)",
-      "videoId": "PIf--2SbTq4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PIf--2SbTq4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "England will MELT in the altitude vs. Mexico at Azteca – Herculez Gomez | ESPN FC",
-      "videoId": "4UxF9TkFY5k",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/4UxF9TkFY5k/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Brazil vs Japan"
