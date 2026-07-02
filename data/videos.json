@@ -1,46 +1,59 @@
 {
-  "lastUpdated": "2026-07-02T10:12:10.865Z",
+  "lastUpdated": "2026-07-02T12:10:25.051Z",
   "featured": {
-    "match": "z9umI2sq4ZE",
-    "highlight": "z9umI2sq4ZE",
+    "match": "feEfpG84lSM",
+    "highlight": "feEfpG84lSM",
     "interview": "h7Q5QrpgKvs"
   },
   "videos": [
     {
-      "title": "HIGHLIGHTS: Netherlands vs Morocco | FIFA World Cup 2026™ | 30/06/2026",
-      "videoId": "z9umI2sq4ZE",
-      "channel": "Web Search",
+      "title": "Team Feature: Argentina | Fernandez With The Burning Desire To Win More World Cups",
+      "videoId": "feEfpG84lSM",
+      "channel": "FIFA",
       "publishedAt": "2026-07-02",
       "category": "Highlights",
       "team": [
-        "Netherlands",
-        "Morocco"
+        "Argentina"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/z9umI2sq4ZE/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/feEfpG84lSM/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco",
-      "source": "match-search"
+      "fixtureTeams": "Brazil vs Japan"
     },
     {
-      "title": "HIGHLIGHTS - Netherlands v Morocco | All Action Knockout Match! - YouTube",
-      "videoId": "He2Fm2LCB0U",
-      "channel": "Web Search",
+      "title": "Match Preview: Argentina vs Cabo Verde | FIFA World Cup 2026™",
+      "videoId": "qkHW4cub6bE",
+      "channel": "FIFA",
       "publishedAt": "2026-07-02",
       "category": "Highlights",
       "team": [
-        "Netherlands",
-        "Morocco"
+        "Argentina"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/He2Fm2LCB0U/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/qkHW4cub6bE/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco",
-      "source": "match-search"
+      "fixtureTeams": "Brazil vs Japan"
+    },
+    {
+      "title": "15-Minute Match: Canada 1-2 Morocco | 2022 Battle",
+      "videoId": "Dqby6vNRMic",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-02",
+      "category": "Highlights",
+      "team": [
+        "Morocco",
+        "Canada"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Dqby6vNRMic/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Brazil vs Japan"
     },
     {
       "title": "Algeria Train Before Switzerland | FIFA World Cup 2026™",
@@ -244,57 +257,6 @@
       "fixtureTeams": "Brazil vs Japan"
     },
     {
-      "title": "USA 🆚 Bosnia and Herzegovina #FIFAWorldCupOnYT",
-      "videoId": "vLNVR1KnINY",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [
-        "USA",
-        "Bosnia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vLNVR1KnINY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "Tielemans scores the winning penalty for Belgium against Senegal. #FIFAWorldCupOnYT",
-      "videoId": "J6InRGuylGY",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [
-        "Belgium",
-        "Senegal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/J6InRGuylGY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "Portugal Train Before Croatia | FIFA World Cup 2026™",
-      "videoId": "VkxRYoslxQ0",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [
-        "Portugal",
-        "Croatia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/VkxRYoslxQ0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
       "title": "United States defeat Bosnia & Herzegovina, set to face Belgium next [FULL SHOW] | ESPN FC",
       "videoId": "_YTa1ApLPNQ",
       "channel": "ESPN FC",
@@ -384,13 +346,14 @@
       "fixtureTeams": "Brazil vs Japan"
     },
     {
-      "title": "Harry Kane got England OUT OF TROUBLE – Craig Burley | ESPN FC",
+      "title": "England will MELT in the altitude vs. Mexico at Azteca – Herculez Gomez | ESPN FC",
       "videoId": "4UxF9TkFY5k",
       "channel": "ESPN FC",
       "publishedAt": "2026-07-02",
       "category": "Highlights",
       "team": [
-        "England"
+        "England",
+        "Mexico"
       ],
       "duration": "N/A",
       "views": 0,
