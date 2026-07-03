@@ -1,46 +1,40 @@
 {
-  "lastUpdated": "2026-07-03T12:25:49.922Z",
+  "lastUpdated": "2026-07-03T12:57:50.376Z",
   "featured": {
-    "match": "t-miz8tN7Qw",
-    "highlight": "t-miz8tN7Qw",
+    "match": "okPf3HkWL2o",
+    "highlight": "okPf3HkWL2o",
     "interview": "kooNQhCaGw4"
   },
   "videos": [
     {
-      "title": "Highlights | Mexico 2-0 Ecuador |FIFA World Cup 2026™",
-      "videoId": "t-miz8tN7Qw",
-      "channel": "Web Search",
+      "title": "MOST DRAMATIC Stoppage Time Winners In FIFA World Cup History!",
+      "videoId": "okPf3HkWL2o",
+      "channel": "FIFA",
       "publishedAt": "2026-07-03",
       "category": "Highlights",
-      "team": [
-        "Mexico",
-        "Ecuador"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/t-miz8tN7Qw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/okPf3HkWL2o/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador",
-      "source": "match-search"
+      "fixtureTeams": "Netherlands vs Morocco"
     },
     {
-      "title": "Mexico vs. Ecuador Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "NBd4gIaCag4",
-      "channel": "Web Search",
+      "title": "Team Feature: Canada | Jesse Marsch: \"You Are Canadian Heroes\"",
+      "videoId": "DY9NuRdoXPI",
+      "channel": "FIFA",
       "publishedAt": "2026-07-03",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "Ecuador"
+        "Canada"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/NBd4gIaCag4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/DY9NuRdoXPI/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador",
-      "source": "match-search"
+      "fixtureTeams": "Netherlands vs Morocco"
     },
     {
       "title": "15-Minute Match: Brazil 1-2 Norway | 1998 Stunner",
@@ -259,34 +253,61 @@
       "fixtureTeams": "Netherlands vs Morocco"
     },
     {
-      "title": "Switzerland 🆚 Algeria #FIFAWorldCupOnYT",
-      "videoId": "3BFn-WRJi1o",
-      "channel": "FIFA",
+      "title": "He tried his best 😂 (via lamine.yamal/TT)",
+      "videoId": "PtIvvEk-u1E",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-03",
       "category": "Highlights",
-      "team": [
-        "Switzerland",
-        "Algeria"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/3BFn-WRJi1o/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/PtIvvEk-u1E/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Netherlands vs Morocco"
     },
     {
-      "title": "Cabo Verde Train Before Argentina | FIFA World Cup 2026™",
-      "videoId": "_2yJfmKjUIA",
-      "channel": "FIFA",
+      "title": "Herculez Gomez does his best Cristiano Ronaldo impression 😅 | SportsCenter",
+      "videoId": "UoDsrRUyj1M",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-03",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/UoDsrRUyj1M/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Netherlands vs Morocco"
+    },
+    {
+      "title": "Portugal ‘LOST BELIEF’ when Cristiano Ronaldo went off - Kieran Gibbs | ESPN FC",
+      "videoId": "ir6No8o4fJc",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-03",
       "category": "Highlights",
       "team": [
-        "Argentina"
+        "Portugal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_2yJfmKjUIA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/ir6No8o4fJc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Netherlands vs Morocco"
+    },
+    {
+      "title": "A MIRACLE needs to happen to stop France? | ESPN FC Extra Time",
+      "videoId": "nurIZK50b_c",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-03",
+      "category": "Highlights",
+      "team": [
+        "France"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/nurIZK50b_c/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Netherlands vs Morocco"
@@ -391,7 +412,7 @@
       "fixtureTeams": "Brazil vs Japan"
     },
     {
-      "title": "Stevie Nicol GUSHES over Harry Kane's performance for England 🏴󠁧����󠁥󠁮󠁧󠁿 | ESPN FC",
+      "title": "Stevie Nicol GUSHES over Harry Kane's performance for England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | ESPN FC",
       "videoId": "WnogVaAqpZ0",
       "channel": "ESPN FC",
       "publishedAt": "2026-07-02",
@@ -463,64 +484,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/5CDS6OvOahI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "'UNPROFESSIONAL!' - Steve Nicol on Enzo Fernandez's agent's comments on his Chelsea future | ESPN FC",
-      "videoId": "NUeJkt8bAf0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/NUeJkt8bAf0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "Real for that 😂 (via @InterMiamiCF/TT)",
-      "videoId": "QV94KAzKzzE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/QV94KAzKzzE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "Portugal better off without Ronaldo?!",
-      "videoId": "0_eQ1vsYzsk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/0_eQ1vsYzsk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "Roger Bennett STILL HAS FAITH w/o Folarin Balogun 🗣️ 'I THINK WE CAN WIN IT' | First Take",
-      "videoId": "XOZqtQCeaD0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/XOZqtQCeaD0/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Brazil vs Japan"
