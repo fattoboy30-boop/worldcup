@@ -1,46 +1,129 @@
 {
-  "lastUpdated": "2026-07-03T21:45:34.920Z",
+  "lastUpdated": "2026-07-03T23:07:36.615Z",
   "featured": {
-    "match": "NBd4gIaCag4",
-    "highlight": "NBd4gIaCag4",
-    "interview": "UoDsrRUyj1M"
+    "match": "JT6C3LZ_edI",
+    "highlight": "JT6C3LZ_edI",
+    "interview": "SsrRzmru11w"
   },
   "videos": [
     {
-      "title": "Mexico vs. Ecuador Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "NBd4gIaCag4",
-      "channel": "Web Search",
+      "title": "Post-Match Player Interviews | Australia (2)1-1(4) Egypt",
+      "videoId": "JT6C3LZ_edI",
+      "channel": "FIFA",
       "publishedAt": "2026-07-03",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "Ecuador"
+        "Australia",
+        "Egypt"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/NBd4gIaCag4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/JT6C3LZ_edI/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador",
-      "source": "match-search"
+      "fixtureTeams": "Netherlands vs Morocco"
     },
     {
-      "title": "Highlights | Mexico 2-0 Ecuador |FIFA World Cup 2026™",
-      "videoId": "t-miz8tN7Qw",
-      "channel": "Web Search",
+      "title": "Emam Ashour scores Egypt goal against Australia for the Round of 32. #FIFAWorldCupOnYT",
+      "videoId": "MgVHfyS-CZU",
+      "channel": "FIFA",
       "publishedAt": "2026-07-03",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "Ecuador"
+        "Australia",
+        "Egypt"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/t-miz8tN7Qw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/MgVHfyS-CZU/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador",
-      "source": "match-search"
+      "fixtureTeams": "Netherlands vs Morocco"
+    },
+    {
+      "title": "Australia 🆚 Egypt #FIFAWorldCupOnYT",
+      "videoId": "r6_fr1yXdDI",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-03",
+      "category": "Highlights",
+      "team": [
+        "Australia",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/r6_fr1yXdDI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Netherlands vs Morocco"
+    },
+    {
+      "title": "Post-Match Press Conference: Australia's Tony Popovic On 4-2 Penalty Loss To Egypt",
+      "videoId": "bNMlSsNXWaU",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-03",
+      "category": "Highlights",
+      "team": [
+        "Australia",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/bNMlSsNXWaU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Netherlands vs Morocco"
+    },
+    {
+      "title": "Morocco On Playing Canada | Mohamed Ouahbi Takes Questions",
+      "videoId": "0P-aOqtzPUk",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-03",
+      "category": "Highlights",
+      "team": [
+        "Morocco",
+        "Canada"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0P-aOqtzPUk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Netherlands vs Morocco"
+    },
+    {
+      "title": "Paraguay On Playing France | Gustavo Alfaro And Júnior Alonso Take Questions",
+      "videoId": "1IgDzNMz7Y4",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-03",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/1IgDzNMz7Y4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Netherlands vs Morocco"
+    },
+    {
+      "title": "France On Playing Paraguay | Didier Deschamps Takes Questions",
+      "videoId": "F5ZWOCMeCMY",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-03",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/F5ZWOCMeCMY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Netherlands vs Morocco"
     },
     {
       "title": "Canada On Playing Morocco | Jesse Marsch & Alistair Johnston Take Questions",
@@ -158,130 +241,35 @@
       "fixtureTeams": "Netherlands vs Morocco"
     },
     {
-      "title": "Team Feature: Paraguay | Miguel Almirón on Paraguay's World Cup Unity",
-      "videoId": "R9x7zofYcLM",
-      "channel": "FIFA",
+      "title": "‘I DON’T LIKE IT’! Were Croatia unfairly denied a late equlizer vs. Portugal? | World Cup | ESPN FC",
+      "videoId": "KLTEPjHYq4g",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-03",
       "category": "Highlights",
       "team": [
-        "Paraguay"
+        "Portugal",
+        "Croatia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/R9x7zofYcLM/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/KLTEPjHYq4g/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Netherlands vs Morocco"
     },
     {
-      "title": "15-Minute Match: England 2-0 Mexico | 1966 Classic",
-      "videoId": "EANW8q9Un9A",
-      "channel": "FIFA",
+      "title": "Australia vs. Egypt FULL REACTION 🍿 2026 World Cup Round of 32 | ESPN FC",
+      "videoId": "SsrRzmru11w",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-03",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [
-        "England",
-        "Mexico"
+        "Australia",
+        "Egypt"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/EANW8q9Un9A/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "Team Feature: Morocco | The Inspiring Journey of Ismael Saibari: Faith, Family, and Football",
-      "videoId": "Ra6XMs5RG44",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Ra6XMs5RG44/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "MOST DRAMATIC Stoppage Time Winners In FIFA World Cup History!",
-      "videoId": "okPf3HkWL2o",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/okPf3HkWL2o/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "Team Feature: Canada | Jesse Marsch: \"You Are Canadian Heroes\"",
-      "videoId": "DY9NuRdoXPI",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [
-        "Canada"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/DY9NuRdoXPI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "15-Minute Match: Brazil 1-2 Norway | 1998 Stunner",
-      "videoId": "IOrd3lHYfiA",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/IOrd3lHYfiA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "Match Preview: Canada vs Morocco | FIFA World Cup 2026™",
-      "videoId": "EaUiZ5tdFTQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [
-        "Morocco",
-        "Canada"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/EaUiZ5tdFTQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "Belgium Love An Epic Comeback! | FIFA World Cup",
-      "videoId": "j9YZcGFV4zM",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [
-        "Belgium"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/j9YZcGFV4zM/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/SsrRzmru11w/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Netherlands vs Morocco"
@@ -487,34 +475,20 @@
       "fixtureTeams": "Netherlands vs Morocco"
     },
     {
-      "title": "He tried his best 😂 (via lamine.yamal/TT)",
-      "videoId": "PtIvvEk-u1E",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-03",
+      "title": "WATCH LIVE | Argentina v Cabo Verde | Round of 32 | FIFA World Cup 2026™",
+      "videoId": "HWev75x4W24",
+      "channel": "FIFA",
+      "publishedAt": "2026-06-28",
       "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PtIvvEk-u1E/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "REACTION to Croatia's equalizer being called offside 👀 Herc BELIEVES VAR! | SportsCenter",
-      "videoId": "UoDsrRUyj1M",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-03",
-      "category": "Viral",
       "team": [
-        "Croatia"
+        "Argentina"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/UoDsrRUyj1M/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/HWev75x4W24/mqdefault.jpg",
       "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
+      "stage": "GROUP_STAGE",
+      "fixtureTeams": "Czechia vs Mexico"
     }
   ]
 }
