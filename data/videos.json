@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-03T07:24:33.103Z",
+  "lastUpdated": "2026-07-03T07:36:12.872Z",
   "featured": {
-    "match": "t-L_XbmJ6jk",
-    "highlight": "t-L_XbmJ6jk",
+    "match": "t-miz8tN7Qw",
+    "highlight": "t-miz8tN7Qw",
     "interview": "kooNQhCaGw4"
   },
   "videos": [
+    {
+      "title": "Highlights | Mexico 2-0 Ecuador |FIFA World Cup 2026™",
+      "videoId": "t-miz8tN7Qw",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-03",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/t-miz8tN7Qw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador",
+      "source": "match-search"
+    },
+    {
+      "title": "Mexico vs. Ecuador Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "NBd4gIaCag4",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-03",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/NBd4gIaCag4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador",
+      "source": "match-search"
+    },
     {
       "title": "Dan Ndoye Goal | Switzerland 2-0 Algeria | FIFA World Cup 2026™",
       "videoId": "t-L_XbmJ6jk",
