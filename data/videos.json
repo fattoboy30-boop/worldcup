@@ -1,46 +1,44 @@
 {
-  "lastUpdated": "2026-07-03T20:38:39.745Z",
+  "lastUpdated": "2026-07-03T21:11:03.079Z",
   "featured": {
-    "match": "NBd4gIaCag4",
-    "highlight": "NBd4gIaCag4",
+    "match": "VKB2YWOTIT0",
+    "highlight": "VKB2YWOTIT0",
     "interview": "UoDsrRUyj1M"
   },
   "videos": [
     {
-      "title": "Mexico vs. Ecuador Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "NBd4gIaCag4",
-      "channel": "Web Search",
+      "title": "Canada On Playing Morocco | Jesse Marsch & Alistair Johnston Take Questions",
+      "videoId": "VKB2YWOTIT0",
+      "channel": "FIFA",
       "publishedAt": "2026-07-03",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "Ecuador"
+        "Morocco",
+        "Canada"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/NBd4gIaCag4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/VKB2YWOTIT0/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador",
-      "source": "match-search"
+      "fixtureTeams": "Netherlands vs Morocco"
     },
     {
-      "title": "Highlights | Mexico 2-0 Ecuador |FIFA World Cup 2026™",
-      "videoId": "t-miz8tN7Qw",
-      "channel": "Web Search",
+      "title": "Alt Cast Highlights: Switzerland v Algeria | FIFA World Cup 2026™",
+      "videoId": "_g2Yf9rRpLM",
+      "channel": "FIFA",
       "publishedAt": "2026-07-03",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "Ecuador"
+        "Switzerland",
+        "Algeria"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/t-miz8tN7Qw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/_g2Yf9rRpLM/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador",
-      "source": "match-search"
+      "fixtureTeams": "Netherlands vs Morocco"
     },
     {
       "title": "Highlights | Spain 3-0 Austria | FIFA World Cup 2026™",
@@ -253,35 +251,31 @@
       "fixtureTeams": "Netherlands vs Morocco"
     },
     {
-      "title": "Post-Match Press Conference: Algeria's Vladimir Petković On 2-0 Loss Against Switzerland",
-      "videoId": "NWY4k3W6hNQ",
-      "channel": "FIFA",
+      "title": "Luis Díaz's father praying to his jersey before Colombia's knockout stage begins (@mane_diaz_26/IG)",
+      "videoId": "zbr_EORQtqw",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-03",
       "category": "Highlights",
       "team": [
-        "Switzerland",
-        "Algeria"
+        "Colombia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/NWY4k3W6hNQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/zbr_EORQtqw/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Netherlands vs Morocco"
     },
     {
-      "title": "Post-Match Press Conference: Switzerland's Murat Yakin On 2-0 Win Against Algeria",
-      "videoId": "AkmJ3hOXnz0",
-      "channel": "FIFA",
+      "title": "Only works when it's on 😂 (via review_guy189/IG)",
+      "videoId": "jhzRn4GHNPA",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-03",
       "category": "Highlights",
-      "team": [
-        "Switzerland",
-        "Algeria"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/AkmJ3hOXnz0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/jhzRn4GHNPA/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Netherlands vs Morocco"
@@ -482,38 +476,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/UoDsrRUyj1M/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "Portugal ‘LOST BELIEF’ when Cristiano Ronaldo went off - Kieran Gibbs | ESPN FC",
-      "videoId": "ir6No8o4fJc",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ir6No8o4fJc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "A MIRACLE needs to happen to stop France? | ESPN FC Extra Time",
-      "videoId": "nurIZK50b_c",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [
-        "France"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/nurIZK50b_c/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Netherlands vs Morocco"
