@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T04:07:57.621Z",
+  "lastUpdated": "2026-07-03T05:02:49.918Z",
   "groups": {
     "A": {
       "teams": [
@@ -88,14 +88,14 @@
         {
           "name": "Switzerland",
           "code": "ch",
-          "played": 3,
-          "won": 2,
+          "played": 4,
+          "won": 3,
           "drawn": 1,
           "lost": 0,
-          "gf": 7,
+          "gf": 9,
           "ga": 3,
-          "gd": 4,
-          "points": 7,
+          "gd": 6,
+          "points": 10,
           "position": 1
         },
         {
@@ -136,6 +136,19 @@
           "gd": -8,
           "points": 1,
           "position": 4
+        },
+        {
+          "name": "Algeria",
+          "code": "un",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 0,
+          "ga": 2,
+          "gd": -2,
+          "points": 0,
+          "position": 5
         }
       ]
     },

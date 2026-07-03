@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T04:07:57.617Z",
+  "lastUpdated": "2026-07-03T05:02:49.917Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2114,11 +2114,11 @@
       "awayScore": 0,
       "venue": "BC Place",
       "city": "Vancouver",
-      "status": "in_play",
+      "status": "finished",
       "group": "B",
       "stage": "ROUND_OF_32",
       "matchday": 0,
-      "minute": "48'",
+      "minute": null,
       "halfTime": [
         null,
         null
@@ -2381,8 +2381,8 @@
       "date": "2026-07-07",
       "time": "20:00",
       "utcDate": "2026-07-07T20:00Z",
-      "homeTeam": "Round of 32 13 Winner",
-      "homeCode": "un",
+      "homeTeam": "Switzerland",
+      "homeCode": "ch",
       "homeScore": 0,
       "awayTeam": "Round of 32 15 Winner",
       "awayCode": "un",
@@ -2390,7 +2390,7 @@
       "venue": "BC Place",
       "city": "Vancouver",
       "status": "timed",
-      "group": null,
+      "group": "B",
       "stage": "ROUND_OF_16",
       "matchday": 0,
       "minute": null,
@@ -2398,7 +2398,7 @@
         null,
         null
       ],
-      "homeFlag": "https://flagcdn.com/w160/un.png",
+      "homeFlag": "https://flagcdn.com/w160/ch.png",
       "awayFlag": "https://flagcdn.com/w160/un.png"
     },
     {

@@ -1,30 +1,6 @@
 {
-  "lastUpdated": "2026-07-03T04:07:57.614Z",
-  "liveMatches": [
-    {
-      "id": 760498,
-      "date": "2026-07-03",
-      "time": "03:00",
-      "utcDate": "2026-07-03T03:00Z",
-      "homeTeam": "Switzerland",
-      "homeCode": "ch",
-      "homeScore": 2,
-      "awayTeam": "Algeria",
-      "awayCode": "un",
-      "awayScore": 0,
-      "venue": "BC Place",
-      "city": "Vancouver",
-      "status": "in_play",
-      "group": "B",
-      "stage": "ROUND_OF_32",
-      "matchday": 0,
-      "minute": "48'",
-      "halfTime": [
-        null,
-        null
-      ]
-    }
-  ],
+  "lastUpdated": "2026-07-03T05:02:49.914Z",
+  "liveMatches": [],
   "recentResults": [
     {
       "id": 760415,
@@ -1957,6 +1933,29 @@
         null,
         null
       ]
+    },
+    {
+      "id": 760498,
+      "date": "2026-07-03",
+      "time": "03:00",
+      "utcDate": "2026-07-03T03:00Z",
+      "homeTeam": "Switzerland",
+      "homeCode": "ch",
+      "homeScore": 2,
+      "awayTeam": "Algeria",
+      "awayCode": "un",
+      "awayScore": 0,
+      "venue": "BC Place",
+      "city": "Vancouver",
+      "status": "finished",
+      "group": "B",
+      "stage": "ROUND_OF_32",
+      "matchday": 0,
+      "minute": null,
+      "halfTime": [
+        null,
+        null
+      ]
     }
   ],
   "upcomingMatches": [
@@ -2195,8 +2194,8 @@
       "date": "2026-07-07",
       "time": "20:00",
       "utcDate": "2026-07-07T20:00Z",
-      "homeTeam": "Round of 32 13 Winner",
-      "homeCode": "un",
+      "homeTeam": "Switzerland",
+      "homeCode": "ch",
       "homeScore": 0,
       "awayTeam": "Round of 32 15 Winner",
       "awayCode": "un",
@@ -2204,7 +2203,7 @@
       "venue": "BC Place",
       "city": "Vancouver",
       "status": "timed",
-      "group": null,
+      "group": "B",
       "stage": "ROUND_OF_16",
       "matchday": 0,
       "minute": null,
