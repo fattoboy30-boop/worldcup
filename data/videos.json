@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-03T12:57:50.376Z",
+  "lastUpdated": "2026-07-03T14:41:24.330Z",
   "featured": {
-    "match": "okPf3HkWL2o",
-    "highlight": "okPf3HkWL2o",
+    "match": "NBd4gIaCag4",
+    "highlight": "NBd4gIaCag4",
     "interview": "kooNQhCaGw4"
   },
   "videos": [
+    {
+      "title": "Mexico vs. Ecuador Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "NBd4gIaCag4",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-03",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/NBd4gIaCag4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador",
+      "source": "match-search"
+    },
+    {
+      "title": "Highlights | Mexico 2-0 Ecuador |FIFA World Cup 2026™",
+      "videoId": "t-miz8tN7Qw",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-03",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/t-miz8tN7Qw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador",
+      "source": "match-search"
+    },
     {
       "title": "MOST DRAMATIC Stoppage Time Winners In FIFA World Cup History!",
       "videoId": "okPf3HkWL2o",
