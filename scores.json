@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T22:45:28.394Z",
+  "lastUpdated": "2026-07-03T23:47:18.452Z",
   "liveMatches": [
     {
       "id": 760500,
@@ -11,14 +11,14 @@
       "homeScore": 1,
       "awayTeam": "Cape Verde",
       "awayCode": "un",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens, Florida",
       "status": "in_play",
       "group": "J",
       "stage": "ROUND_OF_32",
       "matchday": 0,
-      "minute": "45'",
+      "minute": "86'",
       "halfTime": [
         null,
         null
