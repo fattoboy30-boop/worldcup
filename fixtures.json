@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T00:04:41.937Z",
+  "lastUpdated": "2026-07-03T01:19:41.649Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2083,17 +2083,17 @@
       "utcDate": "2026-07-02T23:00Z",
       "homeTeam": "Portugal",
       "homeCode": "pt",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayTeam": "Croatia",
       "awayCode": "hr",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "BMO Field",
       "city": "Toronto",
-      "status": "in_play",
+      "status": "finished",
       "group": "K",
       "stage": "ROUND_OF_32",
       "matchday": 0,
-      "minute": "45'+4'",
+      "minute": null,
       "halfTime": [
         null,
         null
