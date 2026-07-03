@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-03T10:39:59.491Z",
+  "lastUpdated": "2026-07-03T12:25:49.922Z",
   "featured": {
-    "match": "IOrd3lHYfiA",
-    "highlight": "IOrd3lHYfiA",
+    "match": "t-miz8tN7Qw",
+    "highlight": "t-miz8tN7Qw",
     "interview": "kooNQhCaGw4"
   },
   "videos": [
+    {
+      "title": "Highlights | Mexico 2-0 Ecuador |FIFA World Cup 2026™",
+      "videoId": "t-miz8tN7Qw",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-03",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/t-miz8tN7Qw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador",
+      "source": "match-search"
+    },
+    {
+      "title": "Mexico vs. Ecuador Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "NBd4gIaCag4",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-03",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/NBd4gIaCag4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador",
+      "source": "match-search"
+    },
     {
       "title": "15-Minute Match: Brazil 1-2 Norway | 1998 Stunner",
       "videoId": "IOrd3lHYfiA",
