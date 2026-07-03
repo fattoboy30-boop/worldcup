@@ -1,46 +1,56 @@
 {
-  "lastUpdated": "2026-07-03T16:14:34.521Z",
+  "lastUpdated": "2026-07-03T17:36:06.801Z",
   "featured": {
-    "match": "NBd4gIaCag4",
-    "highlight": "NBd4gIaCag4",
+    "match": "3ZOKtPC1MmU",
+    "highlight": "3ZOKtPC1MmU",
     "interview": "UoDsrRUyj1M"
   },
   "videos": [
     {
-      "title": "Mexico vs. Ecuador Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "NBd4gIaCag4",
-      "channel": "Web Search",
+      "title": "Team Feature: France | Didier Deschamps: \"We Have A Mission\"",
+      "videoId": "3ZOKtPC1MmU",
+      "channel": "FIFA",
       "publishedAt": "2026-07-03",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "Ecuador"
+        "France"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/NBd4gIaCag4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/3ZOKtPC1MmU/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador",
-      "source": "match-search"
+      "fixtureTeams": "Netherlands vs Morocco"
     },
     {
-      "title": "Highlights | Mexico 2-0 Ecuador |FIFA World Cup 2026™",
-      "videoId": "t-miz8tN7Qw",
-      "channel": "Web Search",
+      "title": "Andrea Bocelli, David Guetta, EJAE, Megan Thee Stallion - DNA (FIFA World Cup 2026™) Music Video",
+      "videoId": "UTYREFIOijM",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-03",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/UTYREFIOijM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Netherlands vs Morocco"
+    },
+    {
+      "title": "Team Feature: Paraguay | Miguel Almirón on Paraguay's World Cup Unity",
+      "videoId": "R9x7zofYcLM",
+      "channel": "FIFA",
       "publishedAt": "2026-07-03",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "Ecuador"
+        "Paraguay"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/t-miz8tN7Qw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/R9x7zofYcLM/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador",
-      "source": "match-search"
+      "fixtureTeams": "Netherlands vs Morocco"
     },
     {
       "title": "15-Minute Match: England 2-0 Mexico | 1966 Classic",
@@ -238,52 +248,66 @@
       "fixtureTeams": "Netherlands vs Morocco"
     },
     {
-      "title": "Breel Embolo Goal | Switzerland 2-0 Algeria | FIFA World Cup 2026™",
-      "videoId": "iciWzE1bYU4",
-      "channel": "FIFA",
+      "title": "Switzerland made it 'look easy' vs. Algeria + Julian Nagelsmann out as Germany coach 🚨 | ESPN FC",
+      "videoId": "YHsLAxPddug",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-03",
       "category": "Highlights",
       "team": [
+        "Germany",
         "Switzerland",
         "Algeria"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/iciWzE1bYU4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/YHsLAxPddug/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Netherlands vs Morocco"
     },
     {
-      "title": "Post-Match Player Interviews: Portugal 2-1 Croatia",
-      "videoId": "r2dIP3IhkRg",
-      "channel": "FIFA",
+      "title": "'BRAVEST DECISION OF THEM ALL!' - Ale Moreno on Ronaldo being subbed out vs. Croatia | ESPN FC",
+      "videoId": "ey_h5A580CU",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-03",
       "category": "Highlights",
       "team": [
-        "Portugal",
         "Croatia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/r2dIP3IhkRg/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/ey_h5A580CU/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Netherlands vs Morocco"
     },
     {
-      "title": "Ndoye scores the winner for Switzerland against Algeria. #FIFAWorldCupOnYT",
-      "videoId": "vzSRkdxZLvA",
-      "channel": "FIFA",
+      "title": "Mario Suarez is CONFIDENT that Spain can pull past Portugal 🗣️ | ESPN FC",
+      "videoId": "1AGfOawPyk8",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-03",
       "category": "Highlights",
       "team": [
-        "Switzerland",
-        "Algeria"
+        "Spain",
+        "Portugal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vzSRkdxZLvA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/1AGfOawPyk8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Netherlands vs Morocco"
+    },
+    {
+      "title": "Right decision to sub out Ronaldo? 🤔",
+      "videoId": "m21Z10xBFE8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-03",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/m21Z10xBFE8/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Netherlands vs Morocco"
@@ -460,71 +484,6 @@
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "Argentina vs. Cape Verde Round of 32: LIVE REACTION | ESPN FC",
-      "videoId": "kooNQhCaGw4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-03",
-      "category": "Viral",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/kooNQhCaGw4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "Mexico fans are LIVING after advancing in the World Cup 😂🇲🇽 (via @mauriliogonz/TT)",
-      "videoId": "Kpcqn8yYL2k",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Kpcqn8yYL2k/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "’England HAVE TO IMPROVE!’ 😳 Do they have enough to compete with the top World Cup teams? | ESPN FC",
-      "videoId": "KZQEl6ceJAQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/KZQEl6ceJAQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "‘A FLAWLESS PERFORMANCE!’ 🔥 Spain vs. Austria FULL REACTION | ESPN FC",
-      "videoId": "AglFbRE1_lc",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-02",
-      "category": "Viral",
-      "team": [
-        "Spain",
-        "Austria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/AglFbRE1_lc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
     }
   ]
 }
