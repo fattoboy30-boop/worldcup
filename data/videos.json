@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-03T03:36:36.181Z",
+  "lastUpdated": "2026-07-03T04:08:24.858Z",
   "featured": {
-    "match": "4ZeAC3qGyeU",
-    "highlight": "4ZeAC3qGyeU",
+    "match": "t-miz8tN7Qw",
+    "highlight": "t-miz8tN7Qw",
     "interview": "kooNQhCaGw4"
   },
   "videos": [
+    {
+      "title": "Highlights | Mexico 2-0 Ecuador |FIFA World Cup 2026™",
+      "videoId": "t-miz8tN7Qw",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-03",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/t-miz8tN7Qw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador",
+      "source": "match-search"
+    },
+    {
+      "title": "Mexico vs Ecuador 2-0 Highlights | All Goals & Extended ... - YouTube",
+      "videoId": "PCoplV5LqzQ",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-03",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/PCoplV5LqzQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador",
+      "source": "match-search"
+    },
     {
       "title": "Portugal 🆚 Croatia #FIFAWorldCupOnYT",
       "videoId": "4ZeAC3qGyeU",

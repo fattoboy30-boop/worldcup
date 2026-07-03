@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-07-03T01:19:41.646Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-07-03T04:07:57.614Z",
+  "liveMatches": [
+    {
+      "id": 760498,
+      "date": "2026-07-03",
+      "time": "03:00",
+      "utcDate": "2026-07-03T03:00Z",
+      "homeTeam": "Switzerland",
+      "homeCode": "ch",
+      "homeScore": 2,
+      "awayTeam": "Algeria",
+      "awayCode": "un",
+      "awayScore": 0,
+      "venue": "BC Place",
+      "city": "Vancouver",
+      "status": "in_play",
+      "group": "B",
+      "stage": "ROUND_OF_32",
+      "matchday": 0,
+      "minute": "48'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -1937,29 +1961,6 @@
   ],
   "upcomingMatches": [
     {
-      "id": 760498,
-      "date": "2026-07-03",
-      "time": "03:00",
-      "utcDate": "2026-07-03T03:00Z",
-      "homeTeam": "Switzerland",
-      "homeCode": "ch",
-      "homeScore": 0,
-      "awayTeam": "Algeria",
-      "awayCode": "un",
-      "awayScore": 0,
-      "venue": "BC Place",
-      "city": "Vancouver",
-      "status": "timed",
-      "group": "B",
-      "stage": "ROUND_OF_32",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
-    {
       "id": 760499,
       "date": "2026-07-03",
       "time": "18:00",
@@ -2125,8 +2126,8 @@
       "date": "2026-07-06",
       "time": "19:00",
       "utcDate": "2026-07-06T19:00Z",
-      "homeTeam": "Round of 32 11 Winner",
-      "homeCode": "un",
+      "homeTeam": "Portugal",
+      "homeCode": "pt",
       "homeScore": 0,
       "awayTeam": "Spain",
       "awayCode": "es",
@@ -2134,7 +2135,7 @@
       "venue": "AT&T Stadium",
       "city": "Arlington, Texas",
       "status": "timed",
-      "group": "H",
+      "group": "K",
       "stage": "ROUND_OF_16",
       "matchday": 0,
       "minute": null,
