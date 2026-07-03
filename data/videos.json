@@ -1,46 +1,43 @@
 {
-  "lastUpdated": "2026-07-03T14:41:24.330Z",
+  "lastUpdated": "2026-07-03T15:18:00.500Z",
   "featured": {
-    "match": "NBd4gIaCag4",
-    "highlight": "NBd4gIaCag4",
-    "interview": "kooNQhCaGw4"
+    "match": "EANW8q9Un9A",
+    "highlight": "EANW8q9Un9A",
+    "interview": "UoDsrRUyj1M"
   },
   "videos": [
     {
-      "title": "Mexico vs. Ecuador Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "NBd4gIaCag4",
-      "channel": "Web Search",
+      "title": "15-Minute Match: England 2-0 Mexico | 1966 Classic",
+      "videoId": "EANW8q9Un9A",
+      "channel": "FIFA",
       "publishedAt": "2026-07-03",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "Ecuador"
+        "England",
+        "Mexico"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/NBd4gIaCag4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/EANW8q9Un9A/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador",
-      "source": "match-search"
+      "fixtureTeams": "Netherlands vs Morocco"
     },
     {
-      "title": "Highlights | Mexico 2-0 Ecuador |FIFA World Cup 2026™",
-      "videoId": "t-miz8tN7Qw",
-      "channel": "Web Search",
+      "title": "Team Feature: Morocco | The Inspiring Journey of Ismael Saibari: Faith, Family, and Football",
+      "videoId": "Ra6XMs5RG44",
+      "channel": "FIFA",
       "publishedAt": "2026-07-03",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "Ecuador"
+        "Morocco"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/t-miz8tN7Qw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Ra6XMs5RG44/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador",
-      "source": "match-search"
+      "fixtureTeams": "Netherlands vs Morocco"
     },
     {
       "title": "MOST DRAMATIC Stoppage Time Winners In FIFA World Cup History!",
@@ -256,34 +253,78 @@
       "fixtureTeams": "Netherlands vs Morocco"
     },
     {
-      "title": "Colombia Train Before Ghana | FIFA World Cup 2026™",
-      "videoId": "XQzX4J2Kuq0",
-      "channel": "FIFA",
+      "title": "World Cup Controversy ⚽ Roger Bennett reacts to VAR call on Croatia against Portugal | First Take",
+      "videoId": "TM6N9DZaz9M",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-03",
       "category": "Highlights",
       "team": [
-        "Colombia",
-        "Ghana"
+        "Portugal",
+        "Croatia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/XQzX4J2Kuq0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/TM6N9DZaz9M/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Netherlands vs Morocco"
     },
     {
-      "title": "Embolo scores Switzerland first goal against Argelia. #FIFAWorldCupOnYT",
-      "videoId": "hU9ZegZZnwY",
-      "channel": "FIFA",
+      "title": "Portugal SNATCH victory WITHOUT Cristiano Ronaldo 👀 | ESPN FC",
+      "videoId": "ICKvdWdX0tw",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-03",
       "category": "Highlights",
       "team": [
-        "Switzerland"
+        "Portugal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/hU9ZegZZnwY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/ICKvdWdX0tw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Netherlands vs Morocco"
+    },
+    {
+      "title": "'EXPECT MORE MESSI GREATNESS!' 🤩 - Herculez Gomez on Argentina vs. Cape Verde | Get Up",
+      "videoId": "wogsIlcazFs",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-03",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/wogsIlcazFs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Netherlands vs Morocco"
+    },
+    {
+      "title": "Expect Messi greatness 😤",
+      "videoId": "T0Q8XqqD2iM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-03",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/T0Q8XqqD2iM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Netherlands vs Morocco"
+    },
+    {
+      "title": "Craig Burley IS ADAMANTLY AGAINST Folarin Balogun’s red card!",
+      "videoId": "OH1NO2b-cvc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-03",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/OH1NO2b-cvc/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Netherlands vs Morocco"
@@ -303,12 +344,14 @@
       "fixtureTeams": "Netherlands vs Morocco"
     },
     {
-      "title": "Herculez Gomez does his best Cristiano Ronaldo impression 😅 | SportsCenter",
+      "title": "REACTION to Croatia's equalizer being called offside 👀 Herc BELIEVES VAR! | SportsCenter",
       "videoId": "UoDsrRUyj1M",
       "channel": "ESPN FC",
       "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [],
+      "category": "Viral",
+      "team": [
+        "Croatia"
+      ],
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/UoDsrRUyj1M/mqdefault.jpg",
@@ -443,83 +486,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/AglFbRE1_lc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "Stevie Nicol GUSHES over Harry Kane's performance for England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | ESPN FC",
-      "videoId": "WnogVaAqpZ0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/WnogVaAqpZ0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "Should there be an APPEAL PROCESS in FIFA after criticized red card on USMNT? | The Rich Eisen Show",
-      "videoId": "rzenqQ0iRpg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/rzenqQ0iRpg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "A CONTROVERSIAL PENALTY 🚨 Was the call justified in Belgium vs. Senegal? | ESPN FC",
-      "videoId": "_At8NUy2Ztk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [
-        "Belgium",
-        "Senegal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_At8NUy2Ztk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "Sandro Tonali set to join Spurs 🚨 Shaka Hislop is CONFUSED 😕 | ESPN FC",
-      "videoId": "QASyiz0FmOg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/QASyiz0FmOg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "Comparing Folarin Balogun's red card to this Lionel Messi moment vs. Algeria 👀 | ESPN FC",
-      "videoId": "5CDS6OvOahI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [
-        "Algeria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/5CDS6OvOahI/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Brazil vs Japan"
