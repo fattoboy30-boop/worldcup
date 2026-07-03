@@ -1,50 +1,48 @@
 {
-  "lastUpdated": "2026-07-03T04:08:24.858Z",
+  "lastUpdated": "2026-07-03T07:24:33.103Z",
   "featured": {
-    "match": "t-miz8tN7Qw",
-    "highlight": "t-miz8tN7Qw",
+    "match": "t-L_XbmJ6jk",
+    "highlight": "t-L_XbmJ6jk",
     "interview": "kooNQhCaGw4"
   },
   "videos": [
     {
-      "title": "Highlights | Mexico 2-0 Ecuador |FIFA World Cup 2026™",
-      "videoId": "t-miz8tN7Qw",
-      "channel": "Web Search",
+      "title": "Dan Ndoye Goal | Switzerland 2-0 Algeria | FIFA World Cup 2026™",
+      "videoId": "t-L_XbmJ6jk",
+      "channel": "FIFA",
       "publishedAt": "2026-07-03",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "Ecuador"
+        "Switzerland",
+        "Algeria"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/t-miz8tN7Qw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/t-L_XbmJ6jk/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador",
-      "source": "match-search"
+      "fixtureTeams": "Netherlands vs Morocco"
     },
     {
-      "title": "Mexico vs Ecuador 2-0 Highlights | All Goals & Extended ... - YouTube",
-      "videoId": "PCoplV5LqzQ",
-      "channel": "Web Search",
+      "title": "Breel Embolo Goal | Switzerland 2-0 Algeria | FIFA World Cup 2026™",
+      "videoId": "iciWzE1bYU4",
+      "channel": "FIFA",
       "publishedAt": "2026-07-03",
       "category": "Highlights",
       "team": [
-        "Mexico",
-        "Ecuador"
+        "Switzerland",
+        "Algeria"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PCoplV5LqzQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/iciWzE1bYU4/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador",
-      "source": "match-search"
+      "fixtureTeams": "Netherlands vs Morocco"
     },
     {
-      "title": "Portugal 🆚 Croatia #FIFAWorldCupOnYT",
-      "videoId": "4ZeAC3qGyeU",
+      "title": "Post-Match Player Interviews: Portugal 2-1 Croatia",
+      "videoId": "r2dIP3IhkRg",
       "channel": "FIFA",
       "publishedAt": "2026-07-03",
       "category": "Highlights",
@@ -54,31 +52,31 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/4ZeAC3qGyeU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/r2dIP3IhkRg/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Netherlands vs Morocco"
     },
     {
-      "title": "Australia Train Before Egypt | FIFA World Cup 2026™",
-      "videoId": "W27ryYkhYwE",
+      "title": "Ndoye scores the winner for Switzerland against Algeria. #FIFAWorldCupOnYT",
+      "videoId": "vzSRkdxZLvA",
       "channel": "FIFA",
       "publishedAt": "2026-07-03",
       "category": "Highlights",
       "team": [
-        "Australia",
-        "Egypt"
+        "Switzerland",
+        "Algeria"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/W27ryYkhYwE/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/vzSRkdxZLvA/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Netherlands vs Morocco"
     },
     {
-      "title": "Ghana Train Before Colombia | FIFA World Cup 2026™",
-      "videoId": "jZo0fMtiGwg",
+      "title": "Colombia Train Before Ghana | FIFA World Cup 2026™",
+      "videoId": "XQzX4J2Kuq0",
       "channel": "FIFA",
       "publishedAt": "2026-07-03",
       "category": "Highlights",
@@ -88,48 +86,47 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/jZo0fMtiGwg/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/XQzX4J2Kuq0/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Netherlands vs Morocco"
     },
     {
-      "title": "Egypt On Playing Australia | Hossam Hassan Takes Questions",
-      "videoId": "JixG46tN-wg",
+      "title": "Embolo scores Switzerland first goal against Argelia. #FIFAWorldCupOnYT",
+      "videoId": "hU9ZegZZnwY",
       "channel": "FIFA",
       "publishedAt": "2026-07-03",
       "category": "Highlights",
       "team": [
-        "Australia",
-        "Egypt"
+        "Switzerland"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/JixG46tN-wg/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/hU9ZegZZnwY/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Netherlands vs Morocco"
     },
     {
-      "title": "Australia On Playing Egypt | Tony Popovic & Aiden O'Neill Take Questions",
-      "videoId": "V8bXnogWz8U",
+      "title": "Switzerland 🆚 Algeria #FIFAWorldCupOnYT",
+      "videoId": "3BFn-WRJi1o",
       "channel": "FIFA",
       "publishedAt": "2026-07-03",
       "category": "Highlights",
       "team": [
-        "Australia",
-        "Egypt"
+        "Switzerland",
+        "Algeria"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/V8bXnogWz8U/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/3BFn-WRJi1o/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Netherlands vs Morocco"
     },
     {
-      "title": "Argentina Train Before Cabo Verde | FIFA World Cup 2026™",
-      "videoId": "ydAkI_cX9xk",
+      "title": "Cabo Verde Train Before Argentina | FIFA World Cup 2026™",
+      "videoId": "_2yJfmKjUIA",
       "channel": "FIFA",
       "publishedAt": "2026-07-03",
       "category": "Highlights",
@@ -138,24 +135,123 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ydAkI_cX9xk/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/_2yJfmKjUIA/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Netherlands vs Morocco"
     },
     {
-      "title": "Highlights | USA 2-0 Bosnia And Herzegovina | FIFA World Cup 2026™",
-      "videoId": "SGQpzA9qcwk",
+      "title": "Egypt Train Before Australia | FIFA World Cup 2026™",
+      "videoId": "maYo-RZFam8",
       "channel": "FIFA",
       "publishedAt": "2026-07-03",
       "category": "Highlights",
       "team": [
-        "USA",
-        "Bosnia"
+        "Australia",
+        "Egypt"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/SGQpzA9qcwk/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/maYo-RZFam8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Netherlands vs Morocco"
+    },
+    {
+      "title": "Goncalo Ramos Goal | Portugal 2-1 Croatia | FIFA World Cup 2026™",
+      "videoId": "XX8ttISeRYM",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-03",
+      "category": "Highlights",
+      "team": [
+        "Portugal",
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/XX8ttISeRYM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Netherlands vs Morocco"
+    },
+    {
+      "title": "Post-Match Press Conference: Croatia's Zlatko Dalić On 2-1 Loss To Portugal",
+      "videoId": "KVNcGiKgY2E",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-03",
+      "category": "Highlights",
+      "team": [
+        "Portugal",
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/KVNcGiKgY2E/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Netherlands vs Morocco"
+    },
+    {
+      "title": "Gonçalo Ramos scores the winner for Portugal against Croatia. #FIFAWorldCupOnYT",
+      "videoId": "hEjI3IZxgeM",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-03",
+      "category": "Highlights",
+      "team": [
+        "Portugal",
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/hEjI3IZxgeM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Netherlands vs Morocco"
+    },
+    {
+      "title": "Cristiano Ronaldo Goal | Portugal 2-1 Croatia | FIFA World Cup 2026™",
+      "videoId": "ZlSvZ5qNWw8",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-03",
+      "category": "Highlights",
+      "team": [
+        "Portugal",
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ZlSvZ5qNWw8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Netherlands vs Morocco"
+    },
+    {
+      "title": "Cristiano Ronaldo scores his first-ever knockout goal in the World Cup. #FIFAWorldCupOnYT",
+      "videoId": "vxqOerlz3B0",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-03",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vxqOerlz3B0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Netherlands vs Morocco"
+    },
+    {
+      "title": "Post-Match Press Conference: Portugal's Roberto Martínez On The 2-1 Win Over Croatia",
+      "videoId": "g54pJvnJxh8",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-03",
+      "category": "Highlights",
+      "team": [
+        "Portugal",
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/g54pJvnJxh8/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Netherlands vs Morocco"
@@ -195,7 +291,7 @@
       "fixtureTeams": "Netherlands vs Morocco"
     },
     {
-      "title": "Argentina vs Cape Verde Round of 32 Live Reaction | ESPN FC",
+      "title": "Argentina vs. Cape Verde Round of 32: LIVE REACTION | ESPN FC",
       "videoId": "kooNQhCaGw4",
       "channel": "ESPN FC",
       "publishedAt": "2026-07-03",
@@ -209,138 +305,6 @@
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "Mikel Oyarzabal Goal | Spain 3-0 Austria | FIFA World Cup 2026™",
-      "videoId": "SPdL2dqyVI8",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Austria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/SPdL2dqyVI8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "Pedro Porro Goal | Spain 3-0 Austria | FIFA World Cup 2026™",
-      "videoId": "MWzMw3ml86E",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Austria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/MWzMw3ml86E/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "Pedro Porro scores with a brilliant header for Spain! #FIFAWorldCupOnYT",
-      "videoId": "nM2RFIjplB8",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/nM2RFIjplB8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "Perfect cross from Cucurella, finished by Oyarzabal. 👏 #FIFAWorldCupOnYT",
-      "videoId": "EDvelpxkrro",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/EDvelpxkrro/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "Spain 🆚 Austria #FIFAWorldCupOnYT",
-      "videoId": "Yjar8clIrM0",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Austria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Yjar8clIrM0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "Post-Match Press Conference: Spain's Luis de la Fuente On The 3-0 Win Over Austria",
-      "videoId": "gyNTOxtkvDg",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Austria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/gyNTOxtkvDg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "Post-Match Press Conference: Austria's Ralf Rangnick On The 3-0 Loss To Spain",
-      "videoId": "rY3MzB3Vchw",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Austria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/rY3MzB3Vchw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
-    },
-    {
-      "title": "Post-Match Player Interviews | Spain 3-0 Austria",
-      "videoId": "uzo02iOD2_M",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-02",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Austria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/uzo02iOD2_M/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Brazil vs Japan"
     },
     {
       "title": "Mexico fans are LIVING after advancing in the World Cup 😂🇲🇽 (via @mauriliogonz/TT)",
@@ -392,7 +356,7 @@
       "fixtureTeams": "Brazil vs Japan"
     },
     {
-      "title": "Stevie Nicol GUSHES over Harry Kane's performance for England 🏴󠁧󠁢󠁥󠁮���󠁿 | ESPN FC",
+      "title": "Stevie Nicol GUSHES over Harry Kane's performance for England 🏴󠁧���󠁥󠁮󠁧󠁿 | ESPN FC",
       "videoId": "WnogVaAqpZ0",
       "channel": "ESPN FC",
       "publishedAt": "2026-07-02",
