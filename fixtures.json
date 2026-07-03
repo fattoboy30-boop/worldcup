@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T17:51:07.191Z",
+  "lastUpdated": "2026-07-03T18:05:22.132Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2139,11 +2139,11 @@
       "awayScore": 0,
       "venue": "AT&T Stadium",
       "city": "Arlington, Texas",
-      "status": "timed",
+      "status": "in_play",
       "group": "D",
       "stage": "ROUND_OF_32",
       "matchday": 0,
-      "minute": null,
+      "minute": "4'",
       "halfTime": [
         null,
         null
