@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T16:41:33.571Z",
+  "lastUpdated": "2026-07-04T17:39:48.360Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2214,11 +2214,11 @@
       "awayScore": 0,
       "venue": "NRG Stadium",
       "city": "Houston, Texas",
-      "status": "timed",
+      "status": "in_play",
       "group": "B",
       "stage": "ROUND_OF_16",
       "matchday": 0,
-      "minute": null,
+      "minute": "38'",
       "halfTime": [
         null,
         null

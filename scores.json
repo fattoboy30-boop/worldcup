@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-07-04T16:41:33.568Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-07-04T17:39:48.357Z",
+  "liveMatches": [
+    {
+      "id": 760502,
+      "date": "2026-07-04",
+      "time": "17:00",
+      "utcDate": "2026-07-04T17:00Z",
+      "homeTeam": "Canada",
+      "homeCode": "ca",
+      "homeScore": 0,
+      "awayTeam": "Morocco",
+      "awayCode": "ma",
+      "awayScore": 0,
+      "venue": "NRG Stadium",
+      "city": "Houston, Texas",
+      "status": "in_play",
+      "group": "B",
+      "stage": "ROUND_OF_16",
+      "matchday": 0,
+      "minute": "38'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -2028,29 +2052,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760502,
-      "date": "2026-07-04",
-      "time": "17:00",
-      "utcDate": "2026-07-04T17:00Z",
-      "homeTeam": "Canada",
-      "homeCode": "ca",
-      "homeScore": 0,
-      "awayTeam": "Morocco",
-      "awayCode": "ma",
-      "awayScore": 0,
-      "venue": "NRG Stadium",
-      "city": "Houston, Texas",
-      "status": "timed",
-      "group": "B",
-      "stage": "ROUND_OF_16",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760503,
       "date": "2026-07-04",
