@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T22:29:56.818Z",
+  "lastUpdated": "2026-07-04T22:39:38.581Z",
   "liveMatches": [
     {
       "id": 760503,
@@ -11,14 +11,14 @@
       "homeScore": 0,
       "awayTeam": "France",
       "awayCode": "fr",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia, Pennsylvania",
       "status": "in_play",
       "group": "D",
       "stage": "ROUND_OF_16",
       "matchday": 0,
-      "minute": "65'",
+      "minute": "74'",
       "halfTime": [
         null,
         null
