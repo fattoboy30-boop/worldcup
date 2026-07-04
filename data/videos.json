@@ -1,27 +1,285 @@
 {
-  "lastUpdated": "2026-07-04T00:03:47.842Z",
+  "lastUpdated": "2026-07-04T03:29:21.674Z",
   "featured": {
-    "match": "a_7-aiuXpSM",
-    "highlight": "a_7-aiuXpSM",
-    "interview": "SsrRzmru11w"
+    "match": "-q-nO0sz18s",
+    "highlight": "-q-nO0sz18s",
+    "interview": "H_PvIWZrd5o"
   },
   "videos": [
     {
-      "title": "United States vs Bosnia and Herzegovina Highlights 2026 FIFA World ...",
-      "videoId": "a_7-aiuXpSM",
-      "channel": "Web Search",
+      "title": "Highlights | Switzerland 2-0 Algeria | FIFA World Cup 2026™",
+      "videoId": "-q-nO0sz18s",
+      "channel": "FIFA",
       "publishedAt": "2026-07-04",
       "category": "Highlights",
       "team": [
-        "Bosnia"
+        "Switzerland",
+        "Algeria"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/a_7-aiuXpSM/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/-q-nO0sz18s/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "Post-Match Press Conference: Cabo Verde's Bubista On The 3-2 Loss To Argentina",
+      "videoId": "T1uOwtuEcTg",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/T1uOwtuEcTg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "Post-Match Press Conference: Argentina's Lionel Scaloni On The 3-2 Win Over Cabo Verde",
+      "videoId": "Rh7z3bRlZfE",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Rh7z3bRlZfE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "Argentina 🆚 Cabo Verde #FIFAWorldCupOnYT",
+      "videoId": "2YvdMpXPa-k",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/2YvdMpXPa-k/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "Canada Train Before Morocco | FIFA World Cup 2026™",
+      "videoId": "qR4BoALAlIE",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "Morocco",
+        "Canada"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/qR4BoALAlIE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "Alphonso Davies & Canada surprise father-daughter duo with Unsung Hero award",
+      "videoId": "jChMA8Xm8io",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "Canada"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jChMA8Xm8io/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "WATCH LIVE | Argentina v Cabo Verde | Round of 32 | FIFA World Cup 2026™",
+      "videoId": "HWev75x4W24",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/HWev75x4W24/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "France Train Before Paraguay | FIFA World Cup 2026™",
+      "videoId": "KJYM5oAgR7Q",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/KJYM5oAgR7Q/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "😂😂 (via erling/YouTube)",
+      "videoId": "Oli4hHlpuRM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Oli4hHlpuRM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "Vozinha’s Next Chapter: Big Club Move Still Possible at 40 | ESPN FC",
+      "videoId": "RjNE-K6oU0o",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RjNE-K6oU0o/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "ARGENTINA LOOKED FATIGUED! 🚨 Argentina's 'scare' vs. Cape Verde CAME AS A SHOCK - Burley | ESPN FC",
+      "videoId": "b6L39PiWYrE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/b6L39PiWYrE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "REACTION to Argentina vs. Cape Verde 🚨 'Cape Verde OUTPLAYED the world champs!' - Burley | ESPN FC",
+      "videoId": "H_PvIWZrd5o",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-04",
+      "category": "Viral",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/H_PvIWZrd5o/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "Argentina vs. Cape Verde Round of 32: LIVE REACTION | ESPN FC",
+      "videoId": "kooNQhCaGw4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-04",
+      "category": "Viral",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/kooNQhCaGw4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "Egypt win penalty shootout against Australia. #FIFAWorldCupOnYT",
+      "videoId": "PjQhO7XsJyI",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-03",
+      "category": "Highlights",
+      "team": [
+        "Australia",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/PjQhO7XsJyI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Netherlands vs Morocco"
+    },
+    {
+      "title": "Post-Match Press Conference: Egypt's Hossam Hassan On 4-2 Penalty Win Over Australia",
+      "videoId": "Y_P2Mftello",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-03",
+      "category": "Highlights",
+      "team": [
+        "Australia",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Y_P2Mftello/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Netherlands vs Morocco"
+    },
+    {
+      "title": "Emam Ashour Goal | Australia (2)1-1(4) Egypt",
+      "videoId": "P3hXAipNtys",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-03",
+      "category": "Highlights",
+      "team": [
+        "Australia",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/P3hXAipNtys/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Netherlands vs Morocco"
+    },
+    {
+      "title": "Highlights | Portugal 2-1 Croatia | FIFA World Cup 2026™",
+      "videoId": "jxU1VT5YXXE",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-03",
+      "category": "Highlights",
+      "team": [
+        "Portugal",
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jxU1VT5YXXE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Netherlands vs Morocco"
     },
     {
       "title": "Post-Match Player Interviews | Australia (2)1-1(4) Egypt",
@@ -75,184 +333,18 @@
       "fixtureTeams": "Netherlands vs Morocco"
     },
     {
-      "title": "Post-Match Press Conference: Australia's Tony Popovic On 4-2 Penalty Loss To Egypt",
-      "videoId": "bNMlSsNXWaU",
-      "channel": "FIFA",
+      "title": "How will USMNT adjust with Folarin Balogun SUSPENDED⁉️ + Mexico vs. England preview | ESPN FC",
+      "videoId": "Qx7shY5H64M",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-03",
       "category": "Highlights",
       "team": [
-        "Australia",
-        "Egypt"
+        "England",
+        "Mexico"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/bNMlSsNXWaU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "Morocco On Playing Canada | Mohamed Ouahbi Takes Questions",
-      "videoId": "0P-aOqtzPUk",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [
-        "Morocco",
-        "Canada"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/0P-aOqtzPUk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "Paraguay On Playing France | Gustavo Alfaro And Júnior Alonso Take Questions",
-      "videoId": "1IgDzNMz7Y4",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/1IgDzNMz7Y4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "France On Playing Paraguay | Didier Deschamps Takes Questions",
-      "videoId": "F5ZWOCMeCMY",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/F5ZWOCMeCMY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "Canada On Playing Morocco | Jesse Marsch & Alistair Johnston Take Questions",
-      "videoId": "VKB2YWOTIT0",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [
-        "Morocco",
-        "Canada"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/VKB2YWOTIT0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "Alt Cast Highlights: Switzerland v Algeria | FIFA World Cup 2026™",
-      "videoId": "_g2Yf9rRpLM",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [
-        "Switzerland",
-        "Algeria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_g2Yf9rRpLM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "Highlights | Spain 3-0 Austria | FIFA World Cup 2026™",
-      "videoId": "p_j4aMfNQyI",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Austria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/p_j4aMfNQyI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "Alt Cast Highlights: Portugal v Croatia | FIFA World Cup 2026™",
-      "videoId": "gnVLAw8pdgM",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [
-        "Portugal",
-        "Croatia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/gnVLAw8pdgM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "Alt Cast Highlights: Spain v Austria | FIFA World Cup 2026™",
-      "videoId": "fk8awIuktps",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Austria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fk8awIuktps/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "Team Feature: France | Didier Deschamps: \"We Have A Mission\"",
-      "videoId": "3ZOKtPC1MmU",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [
-        "France"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/3ZOKtPC1MmU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "Andrea Bocelli, David Guetta, EJAE, Megan Thee Stallion - DNA (FIFA World Cup 2026™) Music Video",
-      "videoId": "UTYREFIOijM",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/UTYREFIOijM/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Qx7shY5H64M/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Netherlands vs Morocco"
@@ -399,113 +491,6 @@
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "Right decision to sub out Ronaldo? 🤔",
-      "videoId": "m21Z10xBFE8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/m21Z10xBFE8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "World Cup Controversy ⚽ Roger Bennett reacts to VAR call on Croatia against Portugal | First Take",
-      "videoId": "TM6N9DZaz9M",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [
-        "Portugal",
-        "Croatia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/TM6N9DZaz9M/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "Portugal SNATCH victory WITHOUT Cristiano Ronaldo 👀 | ESPN FC",
-      "videoId": "ICKvdWdX0tw",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ICKvdWdX0tw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "'EXPECT MORE MESSI GREATNESS!' 🤩 - Herculez Gomez on Argentina vs. Cape Verde | Get Up",
-      "videoId": "wogsIlcazFs",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/wogsIlcazFs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "Expect Messi greatness 😤",
-      "videoId": "T0Q8XqqD2iM",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/T0Q8XqqD2iM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "Craig Burley IS ADAMANTLY AGAINST Folarin Balogun’s red card!",
-      "videoId": "OH1NO2b-cvc",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/OH1NO2b-cvc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "WATCH LIVE | Argentina v Cabo Verde | Round of 32 | FIFA World Cup 2026™",
-      "videoId": "HWev75x4W24",
-      "channel": "FIFA",
-      "publishedAt": "2026-06-28",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/HWev75x4W24/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "GROUP_STAGE",
-      "fixtureTeams": "Czechia vs Mexico"
     }
   ]
 }
