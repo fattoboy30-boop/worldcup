@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T22:39:38.583Z",
+  "lastUpdated": "2026-07-04T23:35:13.130Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2239,11 +2239,11 @@
       "awayScore": 1,
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia, Pennsylvania",
-      "status": "in_play",
+      "status": "finished",
       "group": "D",
       "stage": "ROUND_OF_16",
       "matchday": 0,
-      "minute": "74'",
+      "minute": null,
       "halfTime": [
         null,
         null
@@ -2406,8 +2406,8 @@
       "date": "2026-07-09",
       "time": "20:00",
       "utcDate": "2026-07-09T20:00Z",
-      "homeTeam": "Round of 16 1 Winner",
-      "homeCode": "un",
+      "homeTeam": "France",
+      "homeCode": "fr",
       "homeScore": 0,
       "awayTeam": "Morocco",
       "awayCode": "ma",
@@ -2415,7 +2415,7 @@
       "venue": "Gillette Stadium",
       "city": "Foxborough, Massachusetts",
       "status": "timed",
-      "group": "C",
+      "group": "I",
       "stage": "QUARTERFINALS",
       "matchday": 0,
       "minute": null,
@@ -2423,7 +2423,7 @@
         null,
         null
       ],
-      "homeFlag": "https://flagcdn.com/w160/un.png",
+      "homeFlag": "https://flagcdn.com/w160/fr.png",
       "awayFlag": "https://flagcdn.com/w160/ma.png"
     },
     {

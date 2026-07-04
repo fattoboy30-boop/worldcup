@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T22:39:38.585Z",
+  "lastUpdated": "2026-07-04T23:35:13.132Z",
   "groups": {
     "A": {
       "teams": [
@@ -196,15 +196,28 @@
         {
           "name": "Paraguay",
           "code": "py",
-          "played": 3,
+          "played": 4,
           "won": 1,
           "drawn": 1,
-          "lost": 1,
+          "lost": 2,
           "gf": 2,
-          "ga": 4,
-          "gd": -2,
+          "ga": 5,
+          "gd": -3,
           "points": 4,
           "position": 3
+        },
+        {
+          "name": "France",
+          "code": "fr",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 1,
+          "ga": 0,
+          "gd": 1,
+          "points": 3,
+          "position": 4
         },
         {
           "name": "Türkiye",
@@ -217,7 +230,7 @@
           "ga": 5,
           "gd": -2,
           "points": 3,
-          "position": 4
+          "position": 5
         },
         {
           "name": "Egypt",
@@ -230,7 +243,7 @@
           "ga": 1,
           "gd": 0,
           "points": 1,
-          "position": 5
+          "position": 6
         },
         {
           "name": "Bosnia-Herzegovina",
@@ -243,7 +256,7 @@
           "ga": 2,
           "gd": -2,
           "points": 0,
-          "position": 6
+          "position": 7
         }
       ]
     },
