@@ -1,11 +1,46 @@
 {
-  "lastUpdated": "2026-07-04T09:25:11.630Z",
+  "lastUpdated": "2026-07-04T09:33:00.900Z",
   "featured": {
-    "match": "qF39iTGe9BU",
-    "highlight": "qF39iTGe9BU",
+    "match": "SGQpzA9qcwk",
+    "highlight": "SGQpzA9qcwk",
     "interview": "bZslHxSHiL0"
   },
   "videos": [
+    {
+      "title": "Highlights | USA 2-0 Bosnia And Herzegovina | FIFA World Cup 2026™",
+      "videoId": "SGQpzA9qcwk",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "USA",
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/SGQpzA9qcwk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "United States vs Bosnia-Herzegovina",
+      "source": "match-search"
+    },
+    {
+      "title": "United States vs Bosnia and Herzegovina Highlights ... - YouTube",
+      "videoId": "NuuMIICMQxo",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/NuuMIICMQxo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "United States vs Bosnia-Herzegovina",
+      "source": "match-search"
+    },
     {
       "title": "World Cup Rematch: The Last Time USA Met Belgium | 2014 Epic",
       "videoId": "qF39iTGe9BU",
