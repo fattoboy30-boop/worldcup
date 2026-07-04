@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T23:47:18.455Z",
+  "lastUpdated": "2026-07-04T00:03:22.131Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2168,7 +2168,7 @@
       "group": "J",
       "stage": "ROUND_OF_32",
       "matchday": 0,
-      "minute": "86'",
+      "minute": "90'+8'",
       "halfTime": [
         null,
         null

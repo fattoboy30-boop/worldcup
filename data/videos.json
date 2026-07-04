@@ -1,11 +1,28 @@
 {
-  "lastUpdated": "2026-07-03T23:07:36.615Z",
+  "lastUpdated": "2026-07-04T00:03:47.842Z",
   "featured": {
-    "match": "JT6C3LZ_edI",
-    "highlight": "JT6C3LZ_edI",
+    "match": "a_7-aiuXpSM",
+    "highlight": "a_7-aiuXpSM",
     "interview": "SsrRzmru11w"
   },
   "videos": [
+    {
+      "title": "United States vs Bosnia and Herzegovina Highlights 2026 FIFA World ...",
+      "videoId": "a_7-aiuXpSM",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/a_7-aiuXpSM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "United States vs Bosnia-Herzegovina",
+      "source": "match-search"
+    },
     {
       "title": "Post-Match Player Interviews | Australia (2)1-1(4) Egypt",
       "videoId": "JT6C3LZ_edI",
