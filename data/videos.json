@@ -1,27 +1,44 @@
 {
-  "lastUpdated": "2026-07-04T14:09:17.491Z",
+  "lastUpdated": "2026-07-04T15:08:17.706Z",
   "featured": {
-    "match": "NuuMIICMQxo",
-    "highlight": "NuuMIICMQxo",
+    "match": "thUnViDQGDs",
+    "highlight": "thUnViDQGDs",
     "interview": "Vkwi4B98AJ8"
   },
   "videos": [
     {
-      "title": "United States vs Bosnia and Herzegovina Highlights ... - YouTube",
-      "videoId": "NuuMIICMQxo",
-      "channel": "Web Search",
+      "title": "World Cup Rematch: Spain 1-0 Portugal | 2010 Nail-Biter",
+      "videoId": "thUnViDQGDs",
+      "channel": "FIFA",
       "publishedAt": "2026-07-04",
       "category": "Highlights",
       "team": [
-        "Bosnia"
+        "Spain",
+        "Portugal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/NuuMIICMQxo/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/thUnViDQGDs/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "Team Feature: England | Nico O’Reilly on Self-Belief ahead of Mexico Knockout",
+      "videoId": "wJx1WXkhSAM",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/wJx1WXkhSAM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
     },
     {
       "title": "Team Feature: Mexico | Mexico's Youngest Superstar Gilberto Mora In Focus",
@@ -232,34 +249,34 @@
       "fixtureTeams": "Mexico vs Ecuador"
     },
     {
-      "title": "Jhon Arias Goal | Colombia 1-0 Ghana | FIFA World Cup 2026™",
-      "videoId": "-ESO5hlxkJQ",
-      "channel": "FIFA",
+      "title": "Mexico vs. England SHROUDED IN CONTROVERSY 😳 John Sutcliffe EXPLAINS ALL! | ESPN FC",
+      "videoId": "xFZ1Weqceq4",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-04",
       "category": "Highlights",
       "team": [
-        "Colombia",
-        "Ghana"
+        "England",
+        "Mexico"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-ESO5hlxkJQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/xFZ1Weqceq4/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Mexico vs Ecuador"
     },
     {
-      "title": "Super save from Zigi against Colombia in the Round of 32. 🇬🇭🧤 #FIFAWorldCupOnYT",
-      "videoId": "xLj5JNbaAd0",
-      "channel": "FIFA",
+      "title": "WORLD CUP THRILLER ⚽ Cape Verde left it all on the field against Argentina ❤️ | ESPN FC",
+      "videoId": "FA8U8d5NdS0",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-04",
       "category": "Highlights",
       "team": [
-        "Colombia"
+        "Argentina"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xLj5JNbaAd0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/FA8U8d5NdS0/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Mexico vs Ecuador"
@@ -466,34 +483,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/zbr_EORQtqw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "Only works when it's on 😂 (via review_guy189/IG)",
-      "videoId": "jhzRn4GHNPA",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/jhzRn4GHNPA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "Ronaldo got the fans outside 😂",
-      "videoId": "zwZgm2cJp2Q",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/zwZgm2cJp2Q/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Netherlands vs Morocco"
