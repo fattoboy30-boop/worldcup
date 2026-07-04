@@ -1,30 +1,6 @@
 {
-  "lastUpdated": "2026-07-04T00:03:22.129Z",
-  "liveMatches": [
-    {
-      "id": 760500,
-      "date": "2026-07-03",
-      "time": "22:00",
-      "utcDate": "2026-07-03T22:00Z",
-      "homeTeam": "Argentina",
-      "homeCode": "ar",
-      "homeScore": 1,
-      "awayTeam": "Cape Verde",
-      "awayCode": "un",
-      "awayScore": 1,
-      "venue": "Hard Rock Stadium",
-      "city": "Miami Gardens, Florida",
-      "status": "in_play",
-      "group": "J",
-      "stage": "ROUND_OF_32",
-      "matchday": 0,
-      "minute": "90'+8'",
-      "halfTime": [
-        null,
-        null
-      ]
-    }
-  ],
+  "lastUpdated": "2026-07-04T01:20:45.546Z",
+  "liveMatches": [],
   "recentResults": [
     {
       "id": 760415,
@@ -1996,6 +1972,29 @@
       "city": "Arlington, Texas",
       "status": "finished",
       "group": "D",
+      "stage": "ROUND_OF_32",
+      "matchday": 0,
+      "minute": null,
+      "halfTime": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": 760500,
+      "date": "2026-07-03",
+      "time": "22:00",
+      "utcDate": "2026-07-03T22:00Z",
+      "homeTeam": "Argentina",
+      "homeCode": "ar",
+      "homeScore": 3,
+      "awayTeam": "Cape Verde",
+      "awayCode": "un",
+      "awayScore": 2,
+      "venue": "Hard Rock Stadium",
+      "city": "Miami Gardens, Florida",
+      "status": "finished",
+      "group": "J",
       "stage": "ROUND_OF_32",
       "matchday": 0,
       "minute": null,

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T00:03:22.133Z",
+  "lastUpdated": "2026-07-04T01:20:45.551Z",
   "groups": {
     "A": {
       "teams": [
@@ -666,14 +666,14 @@
         {
           "name": "Argentina",
           "code": "ar",
-          "played": 3,
-          "won": 3,
+          "played": 4,
+          "won": 4,
           "drawn": 0,
           "lost": 0,
-          "gf": 8,
-          "ga": 1,
-          "gd": 7,
-          "points": 9,
+          "gf": 11,
+          "ga": 3,
+          "gd": 8,
+          "points": 12,
           "position": 1
         },
         {
@@ -703,6 +703,19 @@
           "position": 3
         },
         {
+          "name": "Cape Verde",
+          "code": "un",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 2,
+          "ga": 3,
+          "gd": -1,
+          "points": 0,
+          "position": 4
+        },
+        {
           "name": "Jordan",
           "code": "un",
           "played": 3,
@@ -713,7 +726,7 @@
           "ga": 8,
           "gd": -5,
           "points": 0,
-          "position": 4
+          "position": 5
         }
       ]
     },
