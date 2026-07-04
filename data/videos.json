@@ -1,11 +1,46 @@
 {
-  "lastUpdated": "2026-07-04T17:09:32.931Z",
+  "lastUpdated": "2026-07-04T17:45:59.332Z",
   "featured": {
-    "match": "Zy1C6zY2e5Q",
-    "highlight": "Zy1C6zY2e5Q",
+    "match": "WDWtcfLdndc",
+    "highlight": "WDWtcfLdndc",
     "interview": "Vkwi4B98AJ8"
   },
   "videos": [
+    {
+      "title": "United States vs Bosnia and Herzegovina | Highlight | FIFA World Cup 2026™",
+      "videoId": "WDWtcfLdndc",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/WDWtcfLdndc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "United States vs Bosnia-Herzegovina",
+      "source": "match-search"
+    },
+    {
+      "title": "USA vs Bosnia & Herzegovina | FIFA World Cup 2026 Highlights ...",
+      "videoId": "a_7-aiuXpSM",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "USA",
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/a_7-aiuXpSM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "United States vs Bosnia-Herzegovina",
+      "source": "match-search"
+    },
     {
       "title": "Alt Cast Highlights: Argentina v Cabo Verde | FIFA World Cup 2026™",
       "videoId": "Zy1C6zY2e5Q",
