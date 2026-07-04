@@ -1,45 +1,204 @@
 {
-  "lastUpdated": "2026-07-04T04:01:48.977Z",
+  "lastUpdated": "2026-07-04T06:49:35.599Z",
   "featured": {
-    "match": "SGQpzA9qcwk",
-    "highlight": "SGQpzA9qcwk",
-    "interview": "H_PvIWZrd5o"
+    "match": "yK0vmSzv49k",
+    "highlight": "yK0vmSzv49k",
+    "interview": "bZslHxSHiL0"
   },
   "videos": [
     {
-      "title": "Highlights | USA 2-0 Bosnia And Herzegovina | FIFA World Cup 2026™",
-      "videoId": "SGQpzA9qcwk",
-      "channel": "Web Search",
+      "title": "Lawrence Ati Zigi Save | Colombia 1-0 Ghana | FIFA World Cup 2026™",
+      "videoId": "yK0vmSzv49k",
+      "channel": "FIFA",
       "publishedAt": "2026-07-04",
       "category": "Highlights",
       "team": [
-        "USA",
-        "Bosnia"
+        "Colombia",
+        "Ghana"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/SGQpzA9qcwk/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/yK0vmSzv49k/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs Ecuador"
     },
     {
-      "title": "United States vs Bosnia and Herzegovina Highlights ... - YouTube",
-      "videoId": "NuuMIICMQxo",
-      "channel": "Web Search",
+      "title": "Jhon Arias Goal | Colombia 1-0 Ghana | FIFA World Cup 2026™",
+      "videoId": "-ESO5hlxkJQ",
+      "channel": "FIFA",
       "publishedAt": "2026-07-04",
       "category": "Highlights",
       "team": [
-        "Bosnia"
+        "Colombia",
+        "Ghana"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/NuuMIICMQxo/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/-ESO5hlxkJQ/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "Super save from Zigi against Colombia in the Round of 32. 🇬🇭🧤 #FIFAWorldCupOnYT",
+      "videoId": "xLj5JNbaAd0",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xLj5JNbaAd0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "Jhon Arias scores for Colombia against Ghana. #FIFAWorldCupOnYT",
+      "videoId": "thP8Y7bVQDg",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "Colombia",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/thP8Y7bVQDg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "Colombia 🆚 Ghana #FIFAWorldCupOnYT",
+      "videoId": "gR3_854bs9M",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "Colombia",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/gR3_854bs9M/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "Paraguay Train Before France | FIFA World Cup 2026™",
+      "videoId": "zi0TWOujj7s",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/zi0TWOujj7s/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "Morocco Train Before Canada | FIFA World Cup 2026™",
+      "videoId": "sltPj6CPB7E",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "Morocco",
+        "Canada"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/sltPj6CPB7E/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "Host nation celebrations & amazing music! 🥳 | FIFA Fan Festival | Best of Week 3",
+      "videoId": "bZslHxSHiL0",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-04",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/bZslHxSHiL0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "Sidny Lopes Cabral Goal | Argentina 3-2 Cabo Verde | FIFA World Cup 2026™",
+      "videoId": "5kJG7zWOSjU",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/5kJG7zWOSjU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "Lionel Messi Goal | Argentina 3-2 Cabo Verde | FIFA World Cup 2026™",
+      "videoId": "QsQjNQLU6bQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QsQjNQLU6bQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "Sidny Lopes Cabral scores Cabo Verde’s second goal against Argentina. #FIFAWorldCup",
+      "videoId": "S4RBmpMq48Q",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/S4RBmpMq48Q/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "Messi scores his 20th World Cup goal against Cabo Verde. #FIFAWorldCupOnYT",
+      "videoId": "1uU-1oAY77Y",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/1uU-1oAY77Y/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
     },
     {
       "title": "Highlights | Switzerland 2-0 Algeria | FIFA World Cup 2026™",
@@ -91,83 +250,34 @@
       "fixtureTeams": "Mexico vs Ecuador"
     },
     {
-      "title": "Argentina 🆚 Cabo Verde #FIFAWorldCupOnYT",
-      "videoId": "2YvdMpXPa-k",
-      "channel": "FIFA",
+      "title": "Was Cape Verde's fairytale equalizer the MOST DRAMATIC World Cup ending? | ESPN FC",
+      "videoId": "yLc8mLhopIY",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-04",
       "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/2YvdMpXPa-k/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/yLc8mLhopIY/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Mexico vs Ecuador"
     },
     {
-      "title": "Canada Train Before Morocco | FIFA World Cup 2026™",
-      "videoId": "qR4BoALAlIE",
-      "channel": "FIFA",
+      "title": "Colombia defeat Ghana to advance to the Round of 16 🔥 + Egypt vs. Australia reaction | ESPN FC",
+      "videoId": "6fIIlj1eOGo",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-04",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [
-        "Morocco",
-        "Canada"
+        "Colombia",
+        "Australia",
+        "Ghana",
+        "Egypt"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/qR4BoALAlIE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "Alphonso Davies & Canada surprise father-daughter duo with Unsung Hero award",
-      "videoId": "jChMA8Xm8io",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [
-        "Canada"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/jChMA8Xm8io/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "WATCH LIVE | Argentina v Cabo Verde | Round of 32 | FIFA World Cup 2026™",
-      "videoId": "HWev75x4W24",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/HWev75x4W24/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "France Train Before Paraguay | FIFA World Cup 2026™",
-      "videoId": "KJYM5oAgR7Q",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/KJYM5oAgR7Q/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/6fIIlj1eOGo/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Mexico vs Ecuador"
@@ -247,125 +357,6 @@
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "Egypt win penalty shootout against Australia. #FIFAWorldCupOnYT",
-      "videoId": "PjQhO7XsJyI",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [
-        "Australia",
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PjQhO7XsJyI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "Post-Match Press Conference: Egypt's Hossam Hassan On 4-2 Penalty Win Over Australia",
-      "videoId": "Y_P2Mftello",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [
-        "Australia",
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Y_P2Mftello/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "Emam Ashour Goal | Australia (2)1-1(4) Egypt",
-      "videoId": "P3hXAipNtys",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [
-        "Australia",
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/P3hXAipNtys/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "Highlights | Portugal 2-1 Croatia | FIFA World Cup 2026™",
-      "videoId": "jxU1VT5YXXE",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [
-        "Portugal",
-        "Croatia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/jxU1VT5YXXE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "Post-Match Player Interviews | Australia (2)1-1(4) Egypt",
-      "videoId": "JT6C3LZ_edI",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [
-        "Australia",
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/JT6C3LZ_edI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "Emam Ashour scores Egypt goal against Australia for the Round of 32. #FIFAWorldCupOnYT",
-      "videoId": "MgVHfyS-CZU",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [
-        "Australia",
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/MgVHfyS-CZU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "Australia 🆚 Egypt #FIFAWorldCupOnYT",
-      "videoId": "r6_fr1yXdDI",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [
-        "Australia",
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/r6_fr1yXdDI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
     },
     {
       "title": "How will USMNT adjust with Folarin Balogun SUSPENDED⁉️ + Mexico vs. England preview | ESPN FC",
@@ -490,39 +481,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/YHsLAxPddug/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "'BRAVEST DECISION OF THEM ALL!' - Ale Moreno on Ronaldo being subbed out vs. Croatia | ESPN FC",
-      "videoId": "ey_h5A580CU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [
-        "Croatia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ey_h5A580CU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "Mario Suarez is CONFIDENT that Spain can pull past Portugal 🗣️ | ESPN FC",
-      "videoId": "1AGfOawPyk8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/1AGfOawPyk8/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Netherlands vs Morocco"
