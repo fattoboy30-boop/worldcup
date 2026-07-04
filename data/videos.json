@@ -1,27 +1,128 @@
 {
-  "lastUpdated": "2026-07-04T21:28:12.531Z",
+  "lastUpdated": "2026-07-04T23:00:18.523Z",
   "featured": {
-    "match": "NuuMIICMQxo",
-    "highlight": "NuuMIICMQxo",
+    "match": "WvRhVzfoLsg",
+    "highlight": "WvRhVzfoLsg",
     "interview": "52gdEAEsSqA"
   },
   "videos": [
     {
-      "title": "United States vs Bosnia and Herzegovina Highlights ... - YouTube",
-      "videoId": "NuuMIICMQxo",
-      "channel": "Web Search",
+      "title": "Mexico On Playing England | Javier Aguirre Takes Questions",
+      "videoId": "WvRhVzfoLsg",
+      "channel": "FIFA",
       "publishedAt": "2026-07-04",
       "category": "Highlights",
       "team": [
-        "Bosnia"
+        "England",
+        "Mexico"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/NuuMIICMQxo/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/WvRhVzfoLsg/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "Highlights | Argentina 3-2 Cabo Verde | FIFA World Cup 2026™",
+      "videoId": "hzvEZ2Vxb94",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/hzvEZ2Vxb94/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "Brazil On Playing Norway | Carlo Ancelotti Takes Questions",
+      "videoId": "5Q1_wbr1pXQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/5Q1_wbr1pXQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "Norway On Playing Brazil | Ståle Solbakken Takes Questions",
+      "videoId": "qtmLshgQg48",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/qtmLshgQg48/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "Azzedine Ounahi Doubles Morocco's Lead Against Canada!",
+      "videoId": "EkaOGDsYdYg",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "Morocco",
+        "Canada"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/EkaOGDsYdYg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "Azzedine Ounahi Opens The Scoring For Morocco vs Canada!",
+      "videoId": "frj5Zs81E48",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "Morocco",
+        "Canada"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/frj5Zs81E48/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "Post-Match Press Conference: Morocco's Mohamed Ouahbi On The 3-0 Win Over Canada",
+      "videoId": "Cvmdzpj3TrI",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "Morocco",
+        "Canada"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Cvmdzpj3TrI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
     },
     {
       "title": "Post-Match Player Interviews: Canada 0-3 Morocco",
@@ -160,116 +261,15 @@
       "fixtureTeams": "Mexico vs Ecuador"
     },
     {
-      "title": "Highlights | Australia (2)1-1(4) Egypt | FIFA World Cup 2026™",
-      "videoId": "olBx2GK7kZI",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [
-        "Australia",
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/olBx2GK7kZI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "Alt Cast Highlights: Colombia v Ghana | FIFA World Cup 2026™",
-      "videoId": "YAocmnsVlqI",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [
-        "Colombia",
-        "Ghana"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/YAocmnsVlqI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "Alt Cast Highlights: Argentina v Cabo Verde | FIFA World Cup 2026™",
-      "videoId": "Zy1C6zY2e5Q",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Zy1C6zY2e5Q/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "Alt Cast Highlights: Australia v Egypt | FIFA World Cup 2026™",
-      "videoId": "A2GtVHanGxc",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [
-        "Australia",
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/A2GtVHanGxc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "Hyundai Goal of the Tournament | Best Goals of the Round of 32 | FIFA World Cup 2026™",
-      "videoId": "atp3x63wRho",
-      "channel": "FIFA",
+      "title": "Taylor Twellman on who needs to step up with Folarin Balogun out for USMNT | SportsCenter",
+      "videoId": "2Shb1K2Obss",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-04",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/atp3x63wRho/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "World Cup Rematch: Spain 1-0 Portugal | 2010 Nail-Biter",
-      "videoId": "thUnViDQGDs",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/thUnViDQGDs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "Team Feature: England | Nico O’Reilly on Self-Belief ahead of Mexico Knockout",
-      "videoId": "wJx1WXkhSAM",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/wJx1WXkhSAM/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/2Shb1K2Obss/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Mexico vs Ecuador"
@@ -490,23 +490,6 @@
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "How will USMNT adjust with Folarin Balogun SUSPENDED⁉️ + Mexico vs. England preview | ESPN FC",
-      "videoId": "Qx7shY5H64M",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Qx7shY5H64M/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
     }
   ]
 }
