@@ -1,11 +1,28 @@
 {
-  "lastUpdated": "2026-07-04T21:01:30.910Z",
+  "lastUpdated": "2026-07-04T21:28:12.531Z",
   "featured": {
-    "match": "Q5iGu5zFKmM",
-    "highlight": "Q5iGu5zFKmM",
+    "match": "NuuMIICMQxo",
+    "highlight": "NuuMIICMQxo",
     "interview": "52gdEAEsSqA"
   },
   "videos": [
+    {
+      "title": "United States vs Bosnia and Herzegovina Highlights ... - YouTube",
+      "videoId": "NuuMIICMQxo",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/NuuMIICMQxo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "United States vs Bosnia-Herzegovina",
+      "source": "match-search"
+    },
     {
       "title": "Post-Match Player Interviews: Canada 0-3 Morocco",
       "videoId": "Q5iGu5zFKmM",

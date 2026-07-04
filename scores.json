@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-07-04T20:43:45.243Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-07-04T21:27:36.908Z",
+  "liveMatches": [
+    {
+      "id": 760503,
+      "date": "2026-07-04",
+      "time": "21:00",
+      "utcDate": "2026-07-04T21:00Z",
+      "homeTeam": "Paraguay",
+      "homeCode": "py",
+      "homeScore": 0,
+      "awayTeam": "France",
+      "awayCode": "fr",
+      "awayScore": 0,
+      "venue": "Lincoln Financial Field",
+      "city": "Philadelphia, Pennsylvania",
+      "status": "in_play",
+      "group": "D",
+      "stage": "ROUND_OF_16",
+      "matchday": 0,
+      "minute": "23'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -2052,29 +2076,6 @@
   ],
   "upcomingMatches": [
     {
-      "id": 760503,
-      "date": "2026-07-04",
-      "time": "21:00",
-      "utcDate": "2026-07-04T21:00Z",
-      "homeTeam": "Paraguay",
-      "homeCode": "py",
-      "homeScore": 0,
-      "awayTeam": "France",
-      "awayCode": "fr",
-      "awayScore": 0,
-      "venue": "Lincoln Financial Field",
-      "city": "Philadelphia, Pennsylvania",
-      "status": "timed",
-      "group": "D",
-      "stage": "ROUND_OF_16",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
-    {
       "id": 760504,
       "date": "2026-07-05",
       "time": "20:00",
@@ -2220,13 +2221,13 @@
       "homeTeam": "Round of 16 1 Winner",
       "homeCode": "un",
       "homeScore": 0,
-      "awayTeam": "Round of 16 2 Winner",
-      "awayCode": "un",
+      "awayTeam": "Morocco",
+      "awayCode": "ma",
       "awayScore": 0,
       "venue": "Gillette Stadium",
       "city": "Foxborough, Massachusetts",
       "status": "timed",
-      "group": null,
+      "group": "C",
       "stage": "QUARTERFINALS",
       "matchday": 0,
       "minute": null,
