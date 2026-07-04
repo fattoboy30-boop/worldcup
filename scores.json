@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T20:16:22.856Z",
+  "lastUpdated": "2026-07-04T20:43:45.243Z",
   "liveMatches": [],
   "recentResults": [
     {
@@ -2220,13 +2220,13 @@
       "homeTeam": "Round of 16 1 Winner",
       "homeCode": "un",
       "homeScore": 0,
-      "awayTeam": "Morocco",
-      "awayCode": "ma",
+      "awayTeam": "Round of 16 2 Winner",
+      "awayCode": "un",
       "awayScore": 0,
       "venue": "Gillette Stadium",
       "city": "Foxborough, Massachusetts",
       "status": "timed",
-      "group": "C",
+      "group": null,
       "stage": "QUARTERFINALS",
       "matchday": 0,
       "minute": null,

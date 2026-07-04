@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T20:16:22.858Z",
+  "lastUpdated": "2026-07-04T20:43:45.245Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2409,13 +2409,13 @@
       "homeTeam": "Round of 16 1 Winner",
       "homeCode": "un",
       "homeScore": 0,
-      "awayTeam": "Morocco",
-      "awayCode": "ma",
+      "awayTeam": "Round of 16 2 Winner",
+      "awayCode": "un",
       "awayScore": 0,
       "venue": "Gillette Stadium",
       "city": "Foxborough, Massachusetts",
       "status": "timed",
-      "group": "C",
+      "group": null,
       "stage": "QUARTERFINALS",
       "matchday": 0,
       "minute": null,
@@ -2424,7 +2424,7 @@
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/un.png",
-      "awayFlag": "https://flagcdn.com/w160/ma.png"
+      "awayFlag": "https://flagcdn.com/w160/un.png"
     },
     {
       "id": 760511,
