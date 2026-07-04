@@ -1,62 +1,129 @@
 {
-  "lastUpdated": "2026-07-04T20:16:58.892Z",
+  "lastUpdated": "2026-07-04T21:01:30.910Z",
   "featured": {
-    "match": "SGQpzA9qcwk",
-    "highlight": "SGQpzA9qcwk",
-    "interview": "Vkwi4B98AJ8"
+    "match": "Q5iGu5zFKmM",
+    "highlight": "Q5iGu5zFKmM",
+    "interview": "52gdEAEsSqA"
   },
   "videos": [
     {
-      "title": "Highlights | USA 2-0 Bosnia And Herzegovina | FIFA World Cup 2026™",
-      "videoId": "SGQpzA9qcwk",
-      "channel": "Web Search",
+      "title": "Post-Match Player Interviews: Canada 0-3 Morocco",
+      "videoId": "Q5iGu5zFKmM",
+      "channel": "FIFA",
       "publishedAt": "2026-07-04",
       "category": "Highlights",
       "team": [
-        "USA",
-        "Bosnia"
+        "Morocco",
+        "Canada"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/SGQpzA9qcwk/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Q5iGu5zFKmM/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs Ecuador"
     },
     {
-      "title": "United States vs Bosnia and Herzegovina Highlights ... - YouTube",
-      "videoId": "NuuMIICMQxo",
-      "channel": "Web Search",
+      "title": "Ounahi scores a brace for Morocco against Canada. #FIFAWorldCupOnYT",
+      "videoId": "jY9zD1V9FH0",
+      "channel": "FIFA",
       "publishedAt": "2026-07-04",
       "category": "Highlights",
       "team": [
-        "Bosnia"
+        "Morocco",
+        "Canada"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/NuuMIICMQxo/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/jY9zD1V9FH0/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs Ecuador"
     },
     {
-      "title": "United States vs Bosnia and Herzegovina | Highlight | FIFA World Cup 2026™",
-      "videoId": "WDWtcfLdndc",
-      "channel": "Web Search",
+      "title": "Ounahi scores Morocco first goal against Canada for the Round of 16. #FIFAWorldCupOnYT",
+      "videoId": "wXliNpLyJVE",
+      "channel": "FIFA",
       "publishedAt": "2026-07-04",
       "category": "Highlights",
       "team": [
-        "Bosnia"
+        "Morocco",
+        "Canada"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/WDWtcfLdndc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/wXliNpLyJVE/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "Post-Match Press Conference: Canada's Jesse Marsch On 3-0 Loss To Morocco",
+      "videoId": "xORx-VIMvVs",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "Morocco",
+        "Canada"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xORx-VIMvVs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "Canada 🆚 Morocco #FIFAWorldCupOnYT",
+      "videoId": "DhHZsPdI0jI",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "Morocco",
+        "Canada"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/DhHZsPdI0jI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "Mexico Train Before England | FIFA World Cup 2026™",
+      "videoId": "qpHaU6rVdPc",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/qpHaU6rVdPc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
+    },
+    {
+      "title": "WATCH LIVE | Canada v Morocco | Round of 16 | FIFA World Cup 2026™",
+      "videoId": "bK50aCL9Nmk",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "Morocco",
+        "Canada"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/bK50aCL9Nmk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Mexico vs Ecuador"
     },
     {
       "title": "Brazil Train Before Norway | FIFA World Cup 2026™",
@@ -191,94 +258,18 @@
       "fixtureTeams": "Mexico vs Ecuador"
     },
     {
-      "title": "Team Feature: Mexico | Mexico's Youngest Superstar Gilberto Mora In Focus",
-      "videoId": "TN2XKLsOHUE",
-      "channel": "FIFA",
+      "title": "Morocco advance to World Cup Quarterfinals 🔥 FULL REACTION to 3-0 win vs. Canada | ESPN FC",
+      "videoId": "52gdEAEsSqA",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-04",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [
-        "Mexico"
+        "Morocco",
+        "Canada"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/TN2XKLsOHUE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "Sorry, I’ll call you back… Messi just scored 😅🇦🇷 #FIFAFanFestival #FIFAWorldCup",
-      "videoId": "WoY8LOnEXwk",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/WoY8LOnEXwk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "FIFA World Cup's MOST MEMORABLE Extra Time Goals!",
-      "videoId": "UxCTJofoLbI",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/UxCTJofoLbI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "Team Feature: Norway | Sander Berge: Basketball and US Sports Were A Huge Part Of My Life Growing Up",
-      "videoId": "bbxbamzwUwI",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/bbxbamzwUwI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "Team Feature: Brazil | Ancelotti: Brazil Are Overcoming Obstacles",
-      "videoId": "lbujXHrn5lk",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [
-        "Brazil"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/lbujXHrn5lk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "World Cup Rematch: The Last Time USA Met Belgium | 2014 Epic",
-      "videoId": "qF39iTGe9BU",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [
-        "Belgium",
-        "USA"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/qF39iTGe9BU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/52gdEAEsSqA/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Mexico vs Ecuador"
@@ -484,23 +475,6 @@
       "fixtureTeams": "Mexico vs Ecuador"
     },
     {
-      "title": "WATCH LIVE | Canada v Morocco | Round of 16 | FIFA World Cup 2026™",
-      "videoId": "bK50aCL9Nmk",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [
-        "Morocco",
-        "Canada"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/bK50aCL9Nmk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
       "title": "How will USMNT adjust with Folarin Balogun SUSPENDED⁉️ + Mexico vs. England preview | ESPN FC",
       "videoId": "Qx7shY5H64M",
       "channel": "ESPN FC",
@@ -513,23 +487,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/Qx7shY5H64M/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
-    },
-    {
-      "title": "‘I DON’T LIKE IT’! Were Croatia unfairly denied a late equlizer vs. Portugal? | World Cup | ESPN FC",
-      "videoId": "KLTEPjHYq4g",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [
-        "Portugal",
-        "Croatia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/KLTEPjHYq4g/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Netherlands vs Morocco"
