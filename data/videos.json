@@ -1,11 +1,28 @@
 {
-  "lastUpdated": "2026-07-04T13:40:45.404Z",
+  "lastUpdated": "2026-07-04T14:09:17.491Z",
   "featured": {
-    "match": "TN2XKLsOHUE",
-    "highlight": "TN2XKLsOHUE",
+    "match": "NuuMIICMQxo",
+    "highlight": "NuuMIICMQxo",
     "interview": "Vkwi4B98AJ8"
   },
   "videos": [
+    {
+      "title": "United States vs Bosnia and Herzegovina Highlights ... - YouTube",
+      "videoId": "NuuMIICMQxo",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-04",
+      "category": "Highlights",
+      "team": [
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/NuuMIICMQxo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "United States vs Bosnia-Herzegovina",
+      "source": "match-search"
+    },
     {
       "title": "Team Feature: Mexico | Mexico's Youngest Superstar Gilberto Mora In Focus",
       "videoId": "TN2XKLsOHUE",
