@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T18:40:20.464Z",
+  "lastUpdated": "2026-07-04T19:10:43.474Z",
   "groups": {
     "A": {
       "teams": [
@@ -101,13 +101,13 @@
         {
           "name": "Canada",
           "code": "ca",
-          "played": 3,
+          "played": 4,
           "won": 1,
           "drawn": 1,
-          "lost": 1,
+          "lost": 2,
           "gf": 8,
-          "ga": 3,
-          "gd": 5,
+          "ga": 6,
+          "gd": 2,
           "points": 4,
           "position": 2
         },
@@ -125,6 +125,19 @@
           "position": 3
         },
         {
+          "name": "Morocco",
+          "code": "ma",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 3,
+          "ga": 0,
+          "gd": 3,
+          "points": 3,
+          "position": 4
+        },
+        {
           "name": "Qatar",
           "code": "qa",
           "played": 3,
@@ -135,7 +148,7 @@
           "ga": 10,
           "gd": -8,
           "points": 1,
-          "position": 4
+          "position": 5
         },
         {
           "name": "Algeria",
@@ -148,7 +161,7 @@
           "ga": 2,
           "gd": -2,
           "points": 0,
-          "position": 5
+          "position": 6
         }
       ]
     },

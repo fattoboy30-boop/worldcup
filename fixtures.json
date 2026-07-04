@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T18:40:20.462Z",
+  "lastUpdated": "2026-07-04T19:10:43.472Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2211,14 +2211,14 @@
       "homeScore": 0,
       "awayTeam": "Morocco",
       "awayCode": "ma",
-      "awayScore": 1,
+      "awayScore": 3,
       "venue": "NRG Stadium",
       "city": "Houston, Texas",
-      "status": "in_play",
+      "status": "finished",
       "group": "B",
       "stage": "ROUND_OF_16",
       "matchday": 0,
-      "minute": "75'",
+      "minute": null,
       "halfTime": [
         null,
         null
