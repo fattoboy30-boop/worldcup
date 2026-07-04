@@ -1,45 +1,42 @@
 {
-  "lastUpdated": "2026-07-04T09:33:00.900Z",
+  "lastUpdated": "2026-07-04T11:35:20.277Z",
   "featured": {
-    "match": "SGQpzA9qcwk",
-    "highlight": "SGQpzA9qcwk",
-    "interview": "bZslHxSHiL0"
+    "match": "bbxbamzwUwI",
+    "highlight": "bbxbamzwUwI",
+    "interview": "6fIIlj1eOGo"
   },
   "videos": [
     {
-      "title": "Highlights | USA 2-0 Bosnia And Herzegovina | FIFA World Cup 2026™",
-      "videoId": "SGQpzA9qcwk",
-      "channel": "Web Search",
+      "title": "Team Feature: Norway | Sander Berge: Basketball and US Sports Were A Huge Part Of My Life Growing Up",
+      "videoId": "bbxbamzwUwI",
+      "channel": "FIFA",
       "publishedAt": "2026-07-04",
       "category": "Highlights",
       "team": [
-        "USA",
-        "Bosnia"
+        "Norway"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/SGQpzA9qcwk/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/bbxbamzwUwI/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs Ecuador"
     },
     {
-      "title": "United States vs Bosnia and Herzegovina Highlights ... - YouTube",
-      "videoId": "NuuMIICMQxo",
-      "channel": "Web Search",
+      "title": "Team Feature: Brazil | Ancelotti: Brazil Are Overcoming Obstacles",
+      "videoId": "lbujXHrn5lk",
+      "channel": "FIFA",
       "publishedAt": "2026-07-04",
       "category": "Highlights",
       "team": [
-        "Bosnia"
+        "Brazil"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/NuuMIICMQxo/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/lbujXHrn5lk/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs Ecuador"
     },
     {
       "title": "World Cup Rematch: The Last Time USA Met Belgium | 2014 Epic",
@@ -253,37 +250,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/zi0TWOujj7s/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "Morocco Train Before Canada | FIFA World Cup 2026™",
-      "videoId": "sltPj6CPB7E",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [
-        "Morocco",
-        "Canada"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/sltPj6CPB7E/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "Host nation celebrations & amazing music! 🥳 | FIFA Fan Festival | Best of Week 3",
-      "videoId": "bZslHxSHiL0",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-04",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/bZslHxSHiL0/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Mexico vs Ecuador"
