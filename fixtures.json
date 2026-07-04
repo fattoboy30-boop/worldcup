@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T04:01:19.787Z",
+  "lastUpdated": "2026-07-04T04:57:50.768Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2384,8 +2384,8 @@
       "homeTeam": "Switzerland",
       "homeCode": "ch",
       "homeScore": 0,
-      "awayTeam": "Round of 32 15 Winner",
-      "awayCode": "un",
+      "awayTeam": "Colombia",
+      "awayCode": "co",
       "awayScore": 0,
       "venue": "BC Place",
       "city": "Vancouver",
@@ -2399,7 +2399,7 @@
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/ch.png",
-      "awayFlag": "https://flagcdn.com/w160/un.png"
+      "awayFlag": "https://flagcdn.com/w160/co.png"
     },
     {
       "id": 760510,
