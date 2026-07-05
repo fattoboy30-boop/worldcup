@@ -1,46 +1,41 @@
 {
-  "lastUpdated": "2026-07-05T08:31:11.442Z",
+  "lastUpdated": "2026-07-05T10:18:59.387Z",
   "featured": {
-    "match": "-q-nO0sz18s",
-    "highlight": "-q-nO0sz18s",
+    "match": "fjrcQQaC5Ek",
+    "highlight": "fjrcQQaC5Ek",
     "interview": "52gdEAEsSqA"
   },
   "videos": [
     {
-      "title": "Highlights | Switzerland 2-0 Algeria | FIFA World Cup 2026™",
-      "videoId": "-q-nO0sz18s",
-      "channel": "Web Search",
+      "title": "World Cup Rematch: Switzerland 0-2 Colombia | 1994 Showdown",
+      "videoId": "fjrcQQaC5Ek",
+      "channel": "FIFA",
       "publishedAt": "2026-07-05",
       "category": "Highlights",
       "team": [
-        "Switzerland",
-        "Algeria"
+        "Colombia",
+        "Switzerland"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-q-nO0sz18s/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/fjrcQQaC5Ek/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria",
-      "source": "match-search"
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
     },
     {
-      "title": "Switzerland vs Algeria | Full Highlights | Round of 32 | FIFA World Cup ...",
-      "videoId": "9ZkDPCYcQUA",
-      "channel": "Web Search",
+      "title": "July 4 Matchday Recap | #FIFAWorldCup @aramco",
+      "videoId": "gsiLzDG2cYo",
+      "channel": "FIFA",
       "publishedAt": "2026-07-05",
       "category": "Highlights",
-      "team": [
-        "Switzerland",
-        "Algeria"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/9ZkDPCYcQUA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/gsiLzDG2cYo/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria",
-      "source": "match-search"
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
     },
     {
       "title": "World Cup Rematch: Portugal 3-3 Spain | 2018 Masterclass",
@@ -360,40 +355,6 @@
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "United States vs Bosnia-Herzegovina"
-    },
-    {
-      "title": "Norway Train Before Brazil | FIFA World Cup 2026™",
-      "videoId": "RgDoC-lYr_8",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/RgDoC-lYr_8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "Mexico On Playing England | Javier Aguirre Takes Questions",
-      "videoId": "WvRhVzfoLsg",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/WvRhVzfoLsg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
     },
     {
       "title": "France vs. Morocco in the World Cup Quarterfinals 👀 Who will advance? | ESPN FC",
