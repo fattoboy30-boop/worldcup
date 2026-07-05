@@ -1,81 +1,329 @@
 {
-  "lastUpdated": "2026-07-05T01:24:32.235Z",
+  "lastUpdated": "2026-07-05T03:47:03.287Z",
   "featured": {
-    "match": "-q-nO0sz18s",
-    "highlight": "-q-nO0sz18s",
+    "match": "b9d5DboyCy8",
+    "highlight": "b9d5DboyCy8",
     "interview": "52gdEAEsSqA"
   },
   "videos": [
     {
-      "title": "Highlights | Switzerland 2-0 Algeria | FIFA World Cup 2026™",
-      "videoId": "-q-nO0sz18s",
-      "channel": "Web Search",
+      "title": "England Train Before Mexico | FIFA World Cup 2026™",
+      "videoId": "b9d5DboyCy8",
+      "channel": "FIFA",
       "publishedAt": "2026-07-05",
       "category": "Highlights",
       "team": [
-        "Switzerland",
-        "Algeria"
+        "England",
+        "Mexico"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-q-nO0sz18s/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/b9d5DboyCy8/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria",
-      "source": "match-search"
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
     },
     {
-      "title": "Switzerland vs Algeria 2-1 | 2026 World Cup Highlights & Goals",
-      "videoId": "23En_q125-Q",
-      "channel": "Web Search",
+      "title": "Post-Match Press Conference: Paraguay's Gustavo Alfaro On The 1-0 Loss To France",
+      "videoId": "shbKS2tY58s",
+      "channel": "FIFA",
       "publishedAt": "2026-07-05",
       "category": "Highlights",
       "team": [
-        "Switzerland",
-        "Algeria"
+        "France",
+        "Paraguay"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/23En_q125-Q/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/shbKS2tY58s/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria",
-      "source": "match-search"
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
     },
     {
-      "title": "United States vs Bosnia and Herzegovina Highlights ... - YouTube",
-      "videoId": "NuuMIICMQxo",
-      "channel": "Web Search",
+      "title": "England On Playing Mexico | Thomas Tuchel & Jordan Henderson Take Questions",
+      "videoId": "-zhoUWSetfU",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-05",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-zhoUWSetfU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
+    },
+    {
+      "title": "Highlights | Colombia 1-0 Ghana | FIFA World Cup 2026™",
+      "videoId": "I43WUQJFfCw",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-05",
+      "category": "Highlights",
+      "team": [
+        "Colombia",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/I43WUQJFfCw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
+    },
+    {
+      "title": "Historic record set by Mexico City’s “eternal volunteer” Pina Flores, the capital’s Unsung Hero",
+      "videoId": "gUwF2iReTl8",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-05",
+      "category": "Highlights",
+      "team": [
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/gUwF2iReTl8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
+    },
+    {
+      "title": "Orlando Gill Double Save For Paraguay Against France",
+      "videoId": "QTMCg9nkkMs",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-05",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QTMCg9nkkMs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
+    },
+    {
+      "title": "Kylian Mbappe Goal | Paraguay 0-1 France | FIFA World Cup 2026™",
+      "videoId": "ffLy8YsNOhw",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-05",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ffLy8YsNOhw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
+    },
+    {
+      "title": "Huge double save by Gill for Paraguay! 🧤🇵🇾 #FIFAWorldCupOnYT",
+      "videoId": "e5ejEqh9w1Y",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-05",
+      "category": "Highlights",
+      "team": [
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/e5ejEqh9w1Y/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
+    },
+    {
+      "title": "Mbappé nets his 19th FIFA World Cup goal for France! 🤩🇫🇷 #FIFAWorldCupOnYT",
+      "videoId": "3g3a3fl3-Qk",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-05",
+      "category": "Highlights",
+      "team": [
+        "France"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/3g3a3fl3-Qk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
+    },
+    {
+      "title": "Post-Match Press Conference: France's Didier Deschamps On The 1-0 Win Over Paraguay",
+      "videoId": "_KVG6sc9dWI",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-05",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_KVG6sc9dWI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
+    },
+    {
+      "title": "Post-Match Player Interviews | Paraguay 0-1 France",
+      "videoId": "JIPapoOQbmI",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-05",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JIPapoOQbmI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
+    },
+    {
+      "title": "Paraguay 🆚 France #FIFAWorldCupOnYT",
+      "videoId": "Fy0Atm9NBko",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-05",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Fy0Atm9NBko/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
+    },
+    {
+      "title": "Should France and Argentina still be favorites to win the World Cup? 👀  | ESPN FC",
+      "videoId": "wLahi2z1x8s",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-05",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "France"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/wLahi2z1x8s/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
+    },
+    {
+      "title": "Who had a worse performance: Argentina or France? | ESPN FC Extra Time",
+      "videoId": "QRxuvKJbPrQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-05",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "France"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QRxuvKJbPrQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
+    },
+    {
+      "title": "United States vs. Belgium PREDICTIONS 🍿 2026 World Cup Round of 16 | ESPN FC",
+      "videoId": "vzc36wDBdIE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-05",
+      "category": "Highlights",
+      "team": [
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vzc36wDBdIE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
+    },
+    {
+      "title": "Mexico vs. England Preview: How significant will the conditions be to the result? | ESPN FC",
+      "videoId": "glmRqS_X6zc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-05",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/glmRqS_X6zc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
+    },
+    {
+      "title": "‘It will be a great BATTLE’ ⚔️ Brazil vs. Norway preview and predictions | ESPN FC",
+      "videoId": "eh-p-AcNbqg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-05",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/eh-p-AcNbqg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
+    },
+    {
+      "title": "Jermaine Jones is picking Morocco to upset France in the quarterfinals 👀",
+      "videoId": "Y4jt_RS0qYQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-05",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Y4jt_RS0qYQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
+    },
+    {
+      "title": "Norway Train Before Brazil | FIFA World Cup 2026™",
+      "videoId": "RgDoC-lYr_8",
+      "channel": "FIFA",
       "publishedAt": "2026-07-04",
       "category": "Highlights",
       "team": [
-        "Bosnia"
+        "Brazil",
+        "Norway"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/NuuMIICMQxo/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/RgDoC-lYr_8/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina",
-      "source": "match-search"
-    },
-    {
-      "title": "Highlights | USA 2-0 Bosnia And Herzegovina | FIFA World Cup 2026™",
-      "videoId": "SGQpzA9qcwk",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [
-        "USA",
-        "Bosnia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/SGQpzA9qcwk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs Ecuador"
     },
     {
       "title": "Mexico On Playing England | Javier Aguirre Takes Questions",
@@ -111,222 +359,35 @@
       "fixtureTeams": "Mexico vs Ecuador"
     },
     {
-      "title": "Brazil On Playing Norway | Carlo Ancelotti Takes Questions",
-      "videoId": "5Q1_wbr1pXQ",
-      "channel": "FIFA",
+      "title": "France vs. Morocco in the World Cup Quarterfinals 👀 Who will advance? | ESPN FC",
+      "videoId": "YJj_7Y8kwHw",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-04",
       "category": "Highlights",
       "team": [
-        "Brazil",
-        "Norway"
+        "France",
+        "Morocco"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/5Q1_wbr1pXQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/YJj_7Y8kwHw/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Mexico vs Ecuador"
     },
     {
-      "title": "Norway On Playing Brazil | Ståle Solbakken Takes Questions",
-      "videoId": "qtmLshgQg48",
-      "channel": "FIFA",
+      "title": "France advance to the World Cup Quarterfinals after 1-0 win vs. Paraguay 🔥 | ESPN FC",
+      "videoId": "aubuhlYCcoA",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-04",
       "category": "Highlights",
       "team": [
-        "Brazil",
-        "Norway"
+        "France",
+        "Paraguay"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/qtmLshgQg48/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "Azzedine Ounahi Doubles Morocco's Lead Against Canada!",
-      "videoId": "EkaOGDsYdYg",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [
-        "Morocco",
-        "Canada"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/EkaOGDsYdYg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "Azzedine Ounahi Opens The Scoring For Morocco vs Canada!",
-      "videoId": "frj5Zs81E48",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [
-        "Morocco",
-        "Canada"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/frj5Zs81E48/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "Post-Match Press Conference: Morocco's Mohamed Ouahbi On The 3-0 Win Over Canada",
-      "videoId": "Cvmdzpj3TrI",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [
-        "Morocco",
-        "Canada"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Cvmdzpj3TrI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "Post-Match Player Interviews: Canada 0-3 Morocco",
-      "videoId": "Q5iGu5zFKmM",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [
-        "Morocco",
-        "Canada"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Q5iGu5zFKmM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "Ounahi scores a brace for Morocco against Canada. #FIFAWorldCupOnYT",
-      "videoId": "jY9zD1V9FH0",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [
-        "Morocco",
-        "Canada"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/jY9zD1V9FH0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "Ounahi scores Morocco first goal against Canada for the Round of 16. #FIFAWorldCupOnYT",
-      "videoId": "wXliNpLyJVE",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [
-        "Morocco",
-        "Canada"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/wXliNpLyJVE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "Post-Match Press Conference: Canada's Jesse Marsch On 3-0 Loss To Morocco",
-      "videoId": "xORx-VIMvVs",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [
-        "Morocco",
-        "Canada"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xORx-VIMvVs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "Canada 🆚 Morocco #FIFAWorldCupOnYT",
-      "videoId": "DhHZsPdI0jI",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [
-        "Morocco",
-        "Canada"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/DhHZsPdI0jI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "Mexico Train Before England | FIFA World Cup 2026™",
-      "videoId": "qpHaU6rVdPc",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/qpHaU6rVdPc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "WATCH LIVE | Canada v Morocco | Round of 16 | FIFA World Cup 2026™",
-      "videoId": "bK50aCL9Nmk",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [
-        "Morocco",
-        "Canada"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/bK50aCL9Nmk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "Brazil Train Before Norway | FIFA World Cup 2026™",
-      "videoId": "_5rq4KDfdsE",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_5rq4KDfdsE/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/aubuhlYCcoA/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Mexico vs Ecuador"
@@ -433,131 +494,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/5qRa6IfUNmE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "Argentina vs. Cape Verde REACTION & MORE 🔥 'Best performance yet!' - Craig Burley | ESPN FC",
-      "videoId": "Vkwi4B98AJ8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-04",
-      "category": "Viral",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Vkwi4B98AJ8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "Was Cape Verde's fairytale equalizer the MOST DRAMATIC World Cup ending? | ESPN FC",
-      "videoId": "yLc8mLhopIY",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/yLc8mLhopIY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "Colombia defeat Ghana to advance to the Round of 16 🔥 + Egypt vs. Australia reaction | ESPN FC",
-      "videoId": "6fIIlj1eOGo",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-04",
-      "category": "Viral",
-      "team": [
-        "Colombia",
-        "Australia",
-        "Ghana",
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/6fIIlj1eOGo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "😂😂 (via erling/YouTube)",
-      "videoId": "Oli4hHlpuRM",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Oli4hHlpuRM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "Vozinha’s Next Chapter: Big Club Move Still Possible at 40 | ESPN FC",
-      "videoId": "RjNE-K6oU0o",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/RjNE-K6oU0o/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "ARGENTINA LOOKED FATIGUED! 🚨 Argentina's 'scare' vs. Cape Verde CAME AS A SHOCK - Burley | ESPN FC",
-      "videoId": "b6L39PiWYrE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/b6L39PiWYrE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "REACTION to Argentina vs. Cape Verde 🚨 'Cape Verde OUTPLAYED the world champs!' - Burley | ESPN FC",
-      "videoId": "H_PvIWZrd5o",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-04",
-      "category": "Viral",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/H_PvIWZrd5o/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "Argentina vs. Cape Verde Round of 32: LIVE REACTION | ESPN FC",
-      "videoId": "kooNQhCaGw4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-04",
-      "category": "Viral",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/kooNQhCaGw4/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Mexico vs Ecuador"
