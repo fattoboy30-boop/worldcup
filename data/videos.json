@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-05T18:05:51.657Z",
+  "lastUpdated": "2026-07-05T19:16:52.440Z",
   "featured": {
-    "match": "r4t8vJX_xrY",
-    "highlight": "r4t8vJX_xrY",
+    "match": "-q-nO0sz18s",
+    "highlight": "-q-nO0sz18s",
     "interview": "5RyDENw6yaM"
   },
   "videos": [
+    {
+      "title": "Highlights | Switzerland 2-0 Algeria | FIFA World Cup 2026™",
+      "videoId": "-q-nO0sz18s",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-05",
+      "category": "Highlights",
+      "team": [
+        "Switzerland",
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-q-nO0sz18s/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria",
+      "source": "match-search"
+    },
+    {
+      "title": "Switzerland vs Algeria | Full Highlights | Round of 32 | FIFA World Cup ...",
+      "videoId": "9ZkDPCYcQUA",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-05",
+      "category": "Highlights",
+      "team": [
+        "Switzerland",
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/9ZkDPCYcQUA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria",
+      "source": "match-search"
+    },
     {
       "title": "Portugal Train Before Spain | FIFA World Cup 2026™",
       "videoId": "r4t8vJX_xrY",
