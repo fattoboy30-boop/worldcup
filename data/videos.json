@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-07-05T16:12:00.241Z",
+  "lastUpdated": "2026-07-05T16:44:17.711Z",
   "featured": {
-    "match": "5RyDENw6yaM",
-    "highlight": "iY99BoTqcZM",
+    "match": "5juI900p6ZQ",
+    "highlight": "5juI900p6ZQ",
     "interview": "5RyDENw6yaM"
   },
   "videos": [
+    {
+      "title": "Switzerland 2-0 Algeria | Full Match Highlights | FIFA World Cup 2026 ...",
+      "videoId": "5juI900p6ZQ",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-05",
+      "category": "Full Match",
+      "team": [
+        "Switzerland",
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/5juI900p6ZQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria",
+      "source": "match-search"
+    },
     {
       "title": "Team Feature: Belgium | Rudi Garcia on Incredible Comeback Against Senegal",
       "videoId": "5RyDENw6yaM",
