@@ -1,46 +1,27 @@
 {
-  "lastUpdated": "2026-07-05T12:15:42.173Z",
+  "lastUpdated": "2026-07-05T12:18:55.754Z",
   "featured": {
-    "match": "-q-nO0sz18s",
-    "highlight": "-q-nO0sz18s",
+    "match": "aDNucX8JO5k",
+    "highlight": "aDNucX8JO5k",
     "interview": "52gdEAEsSqA"
   },
   "videos": [
     {
-      "title": "Highlights | Switzerland 2-0 Algeria | FIFA World Cup 2026™",
-      "videoId": "-q-nO0sz18s",
-      "channel": "Web Search",
+      "title": "Team Feature: Portugal | Martinez's Tactical Masterclass Against Croatia",
+      "videoId": "aDNucX8JO5k",
+      "channel": "FIFA",
       "publishedAt": "2026-07-05",
       "category": "Highlights",
       "team": [
-        "Switzerland",
-        "Algeria"
+        "Portugal",
+        "Croatia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-q-nO0sz18s/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/aDNucX8JO5k/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria",
-      "source": "match-search"
-    },
-    {
-      "title": "Switzerland vs Algeria | Full Highlights | Round of 32 | FIFA World Cup ...",
-      "videoId": "9ZkDPCYcQUA",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-05",
-      "category": "Highlights",
-      "team": [
-        "Switzerland",
-        "Algeria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/9ZkDPCYcQUA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria",
-      "source": "match-search"
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
     },
     {
       "title": "World Cup Rematch: Switzerland 0-2 Colombia | 1994 Showdown",
@@ -270,23 +251,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/JIPapoOQbmI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina"
-    },
-    {
-      "title": "Paraguay 🆚 France #FIFAWorldCupOnYT",
-      "videoId": "Fy0Atm9NBko",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-05",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Fy0Atm9NBko/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "United States vs Bosnia-Herzegovina"
