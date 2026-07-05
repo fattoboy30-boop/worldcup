@@ -1,46 +1,61 @@
 {
-  "lastUpdated": "2026-07-05T19:16:52.440Z",
+  "lastUpdated": "2026-07-05T20:16:37.267Z",
   "featured": {
-    "match": "-q-nO0sz18s",
-    "highlight": "-q-nO0sz18s",
+    "match": "gt9xQdqY2UA",
+    "highlight": "gt9xQdqY2UA",
     "interview": "5RyDENw6yaM"
   },
   "videos": [
     {
-      "title": "Highlights | Switzerland 2-0 Algeria | FIFA World Cup 2026™",
-      "videoId": "-q-nO0sz18s",
-      "channel": "Web Search",
+      "title": "Alt Cast Highlights: Paraguay v France | FIFA World Cup 2026™",
+      "videoId": "gt9xQdqY2UA",
+      "channel": "FIFA",
       "publishedAt": "2026-07-05",
       "category": "Highlights",
       "team": [
-        "Switzerland",
-        "Algeria"
+        "France",
+        "Paraguay"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-q-nO0sz18s/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/gt9xQdqY2UA/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria",
-      "source": "match-search"
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
     },
     {
-      "title": "Switzerland vs Algeria | Full Highlights | Round of 32 | FIFA World Cup ...",
-      "videoId": "9ZkDPCYcQUA",
-      "channel": "Web Search",
+      "title": "Alt Cast Highlights: Canada v Morocco | FIFA World Cup 2026™",
+      "videoId": "g6XsOIKogl0",
+      "channel": "FIFA",
       "publishedAt": "2026-07-05",
       "category": "Highlights",
       "team": [
-        "Switzerland",
-        "Algeria"
+        "Morocco",
+        "Canada"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/9ZkDPCYcQUA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/g6XsOIKogl0/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria",
-      "source": "match-search"
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
+    },
+    {
+      "title": "Spain Train Before Portugal | FIFA World Cup 2026™",
+      "videoId": "RWRx09-YHX4",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-05",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RWRx09-YHX4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
     },
     {
       "title": "Portugal Train Before Spain | FIFA World Cup 2026™",
@@ -224,68 +239,17 @@
       "fixtureTeams": "United States vs Bosnia-Herzegovina"
     },
     {
-      "title": "Post-Match Press Conference: Paraguay's Gustavo Alfaro On The 1-0 Loss To France",
-      "videoId": "shbKS2tY58s",
-      "channel": "FIFA",
+      "title": "'SHADY BUSINESS!' - Alejandro Moreno on FIFA allowing Balogun to play vs. Belgium | ESPN FC",
+      "videoId": "vx7pdZ4P4PI",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-05",
       "category": "Highlights",
       "team": [
-        "France",
-        "Paraguay"
+        "Belgium"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/shbKS2tY58s/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina"
-    },
-    {
-      "title": "England On Playing Mexico | Thomas Tuchel & Jordan Henderson Take Questions",
-      "videoId": "-zhoUWSetfU",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-05",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-zhoUWSetfU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina"
-    },
-    {
-      "title": "Highlights | Colombia 1-0 Ghana | FIFA World Cup 2026™",
-      "videoId": "I43WUQJFfCw",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-05",
-      "category": "Highlights",
-      "team": [
-        "Colombia",
-        "Ghana"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/I43WUQJFfCw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina"
-    },
-    {
-      "title": "Historic record set by Mexico City’s “eternal volunteer” Pina Flores, the capital’s Unsung Hero",
-      "videoId": "gUwF2iReTl8",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-05",
-      "category": "Highlights",
-      "team": [
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/gUwF2iReTl8/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/vx7pdZ4P4PI/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "United States vs Bosnia-Herzegovina"
@@ -502,7 +466,7 @@
       "fixtureTeams": "Mexico vs Ecuador"
     },
     {
-      "title": "Haaland couldn’t stop saying his full name 😂 (via @Erlinghaaland/TT)",
+      "title": "Haaland couldn’t stop saying his full name ��� (via @Erlinghaaland/TT)",
       "videoId": "JLrhLOsdRsI",
       "channel": "ESPN FC",
       "publishedAt": "2026-07-04",
@@ -516,21 +480,21 @@
       "fixtureTeams": "Mexico vs Ecuador"
     },
     {
-      "title": "Mexico vs. England SHROUDED IN CONTROVERSY 😳 John Sutcliffe EXPLAINS ALL! | ESPN FC",
-      "videoId": "xFZ1Weqceq4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-04",
+      "title": "WATCH LIVE | Brazil v Norway | Round of 16 | FIFA World Cup 2026™",
+      "videoId": "X9YxoJ3NwS0",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-03",
       "category": "Highlights",
       "team": [
-        "England",
-        "Mexico"
+        "Brazil",
+        "Norway"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xFZ1Weqceq4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/X9YxoJ3NwS0/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
+      "fixtureTeams": "Netherlands vs Morocco"
     }
   ]
 }
