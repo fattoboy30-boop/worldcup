@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-05T10:18:59.387Z",
+  "lastUpdated": "2026-07-05T12:15:42.173Z",
   "featured": {
-    "match": "fjrcQQaC5Ek",
-    "highlight": "fjrcQQaC5Ek",
+    "match": "-q-nO0sz18s",
+    "highlight": "-q-nO0sz18s",
     "interview": "52gdEAEsSqA"
   },
   "videos": [
+    {
+      "title": "Highlights | Switzerland 2-0 Algeria | FIFA World Cup 2026™",
+      "videoId": "-q-nO0sz18s",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-05",
+      "category": "Highlights",
+      "team": [
+        "Switzerland",
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-q-nO0sz18s/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria",
+      "source": "match-search"
+    },
+    {
+      "title": "Switzerland vs Algeria | Full Highlights | Round of 32 | FIFA World Cup ...",
+      "videoId": "9ZkDPCYcQUA",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-05",
+      "category": "Highlights",
+      "team": [
+        "Switzerland",
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/9ZkDPCYcQUA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria",
+      "source": "match-search"
+    },
     {
       "title": "World Cup Rematch: Switzerland 0-2 Colombia | 1994 Showdown",
       "videoId": "fjrcQQaC5Ek",
