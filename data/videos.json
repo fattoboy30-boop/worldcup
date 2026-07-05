@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-07-05T20:36:31.471Z",
+  "lastUpdated": "2026-07-05T21:41:42.029Z",
   "featured": {
-    "match": "-q-nO0sz18s",
-    "highlight": "-q-nO0sz18s",
+    "match": "xesgw1gqvBQ",
+    "highlight": "xesgw1gqvBQ",
     "interview": "5RyDENw6yaM"
   },
   "videos": [
+    {
+      "title": "Switzerland 2-0 Algeria | Round of 32 | FIFA World Cup 2026™ Highlights",
+      "videoId": "xesgw1gqvBQ",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-05",
+      "category": "Highlights",
+      "team": [
+        "Switzerland",
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xesgw1gqvBQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria",
+      "source": "match-search"
+    },
     {
       "title": "Highlights | Switzerland 2-0 Algeria | FIFA World Cup 2026™",
       "videoId": "-q-nO0sz18s",
