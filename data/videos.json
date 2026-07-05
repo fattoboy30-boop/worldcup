@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-07-05T03:47:03.287Z",
+  "lastUpdated": "2026-07-05T05:37:08.815Z",
   "featured": {
-    "match": "b9d5DboyCy8",
-    "highlight": "b9d5DboyCy8",
+    "match": "23En_q125-Q",
+    "highlight": "23En_q125-Q",
     "interview": "52gdEAEsSqA"
   },
   "videos": [
+    {
+      "title": "Switzerland vs Algeria 2-1 | 2026 World Cup Highlights & Goals",
+      "videoId": "23En_q125-Q",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-05",
+      "category": "Highlights",
+      "team": [
+        "Switzerland",
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/23En_q125-Q/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria",
+      "source": "match-search"
+    },
     {
       "title": "England Train Before Mexico | FIFA World Cup 2026™",
       "videoId": "b9d5DboyCy8",
