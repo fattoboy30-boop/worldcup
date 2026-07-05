@@ -1,64 +1,60 @@
 {
-  "lastUpdated": "2026-07-05T17:47:59.372Z",
+  "lastUpdated": "2026-07-05T18:05:51.657Z",
   "featured": {
-    "match": "-q-nO0sz18s",
-    "highlight": "5juI900p6ZQ",
+    "match": "r4t8vJX_xrY",
+    "highlight": "r4t8vJX_xrY",
     "interview": "5RyDENw6yaM"
   },
   "videos": [
     {
-      "title": "Highlights | Switzerland 2-0 Algeria | FIFA World Cup 2026™",
-      "videoId": "-q-nO0sz18s",
-      "channel": "Web Search",
+      "title": "Portugal Train Before Spain | FIFA World Cup 2026™",
+      "videoId": "r4t8vJX_xrY",
+      "channel": "FIFA",
       "publishedAt": "2026-07-05",
       "category": "Highlights",
       "team": [
-        "Switzerland",
-        "Algeria"
+        "Spain",
+        "Portugal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-q-nO0sz18s/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/r4t8vJX_xrY/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria",
-      "source": "match-search"
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
     },
     {
-      "title": "Switzerland 2-0 Algeria | Round of 32 | FIFA World Cup 2026™ Highlights",
-      "videoId": "xesgw1gqvBQ",
-      "channel": "Web Search",
+      "title": "Highlights | Canada 0-3 Morocco | FIFA World Cup 2026™",
+      "videoId": "sAYjtcpoaf0",
+      "channel": "FIFA",
       "publishedAt": "2026-07-05",
       "category": "Highlights",
       "team": [
-        "Switzerland",
-        "Algeria"
+        "Morocco",
+        "Canada"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xesgw1gqvBQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/sAYjtcpoaf0/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria",
-      "source": "match-search"
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
     },
     {
-      "title": "Switzerland 2-0 Algeria | Full Match Highlights | FIFA World Cup 2026 ...",
-      "videoId": "5juI900p6ZQ",
-      "channel": "Web Search",
+      "title": "Argentina end Cabo Verde dream, as the Round of 16 begins",
+      "videoId": "KIEj76L5GHA",
+      "channel": "FIFA",
       "publishedAt": "2026-07-05",
-      "category": "Full Match",
+      "category": "Highlights",
       "team": [
-        "Switzerland",
-        "Algeria"
+        "Argentina"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/5juI900p6ZQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/KIEj76L5GHA/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria",
-      "source": "match-search"
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
     },
     {
       "title": "Team Feature: Belgium | Rudi Garcia on Incredible Comeback Against Senegal",
@@ -254,56 +250,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/gUwF2iReTl8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina"
-    },
-    {
-      "title": "Orlando Gill Double Save For Paraguay Against France",
-      "videoId": "QTMCg9nkkMs",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-05",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/QTMCg9nkkMs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina"
-    },
-    {
-      "title": "Kylian Mbappe Goal | Paraguay 0-1 France | FIFA World Cup 2026™",
-      "videoId": "ffLy8YsNOhw",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-05",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ffLy8YsNOhw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina"
-    },
-    {
-      "title": "Huge double save by Gill for Paraguay! 🧤🇵🇾 #FIFAWorldCupOnYT",
-      "videoId": "e5ejEqh9w1Y",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-05",
-      "category": "Highlights",
-      "team": [
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/e5ejEqh9w1Y/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "United States vs Bosnia-Herzegovina"
