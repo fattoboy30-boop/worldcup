@@ -1,46 +1,27 @@
 {
-  "lastUpdated": "2026-07-05T15:39:35.188Z",
+  "lastUpdated": "2026-07-05T16:12:00.241Z",
   "featured": {
-    "match": "-q-nO0sz18s",
-    "highlight": "5juI900p6ZQ",
-    "interview": "52gdEAEsSqA"
+    "match": "5RyDENw6yaM",
+    "highlight": "iY99BoTqcZM",
+    "interview": "5RyDENw6yaM"
   },
   "videos": [
     {
-      "title": "Highlights | Switzerland 2-0 Algeria | FIFA World Cup 2026™",
-      "videoId": "-q-nO0sz18s",
-      "channel": "Web Search",
+      "title": "Team Feature: Belgium | Rudi Garcia on Incredible Comeback Against Senegal",
+      "videoId": "5RyDENw6yaM",
+      "channel": "FIFA",
       "publishedAt": "2026-07-05",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [
-        "Switzerland",
-        "Algeria"
+        "Belgium",
+        "Senegal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-q-nO0sz18s/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/5RyDENw6yaM/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria",
-      "source": "match-search"
-    },
-    {
-      "title": "Switzerland 2-0 Algeria | Full Match Highlights | FIFA World Cup 2026 ...",
-      "videoId": "5juI900p6ZQ",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-05",
-      "category": "Full Match",
-      "team": [
-        "Switzerland",
-        "Algeria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/5juI900p6ZQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria",
-      "source": "match-search"
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
     },
     {
       "title": "Team Feature: USA | Can the USA Go All the Way?",
@@ -274,17 +255,32 @@
       "fixtureTeams": "United States vs Bosnia-Herzegovina"
     },
     {
-      "title": "Mbappé nets his 19th FIFA World Cup goal for France! 🤩🇫🇷 #FIFAWorldCupOnYT",
-      "videoId": "3g3a3fl3-Qk",
-      "channel": "FIFA",
+      "title": "The French aura 😤",
+      "videoId": "aUsinjCNXA8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-05",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/aUsinjCNXA8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
+    },
+    {
+      "title": "Brek Shea says England’s walking into an intense environment vs. Mexico in the Round of 16 👀 | SC",
+      "videoId": "6MRkOLjVHmc",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-05",
       "category": "Highlights",
       "team": [
-        "France"
+        "England",
+        "Mexico"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/3g3a3fl3-Qk/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/6MRkOLjVHmc/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "United States vs Bosnia-Herzegovina"
@@ -496,36 +492,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/xFZ1Weqceq4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "WORLD CUP THRILLER ⚽ Cape Verde left it all on the field against Argentina ❤️ | ESPN FC",
-      "videoId": "FA8U8d5NdS0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FA8U8d5NdS0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "This skill is forever iconic 😅 (via marcelfreestyle/TT)",
-      "videoId": "5qRa6IfUNmE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/5qRa6IfUNmE/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Mexico vs Ecuador"
