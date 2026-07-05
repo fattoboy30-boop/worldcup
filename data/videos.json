@@ -1,64 +1,61 @@
 {
-  "lastUpdated": "2026-07-05T21:41:42.029Z",
+  "lastUpdated": "2026-07-05T22:04:27.809Z",
   "featured": {
-    "match": "xesgw1gqvBQ",
-    "highlight": "xesgw1gqvBQ",
+    "match": "oDeX46Ge2lo",
+    "highlight": "oDeX46Ge2lo",
     "interview": "5RyDENw6yaM"
   },
   "videos": [
     {
-      "title": "Switzerland 2-0 Algeria | Round of 32 | FIFA World Cup 2026™ Highlights",
-      "videoId": "xesgw1gqvBQ",
-      "channel": "Web Search",
+      "title": "Belgium On Playing USA | Rudi Garcia & Thibaut Courtois Take Questions",
+      "videoId": "oDeX46Ge2lo",
+      "channel": "FIFA",
       "publishedAt": "2026-07-05",
       "category": "Highlights",
       "team": [
-        "Switzerland",
-        "Algeria"
+        "Belgium",
+        "USA"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xesgw1gqvBQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/oDeX46Ge2lo/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria",
-      "source": "match-search"
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
     },
     {
-      "title": "Highlights | Switzerland 2-0 Algeria | FIFA World Cup 2026™",
-      "videoId": "-q-nO0sz18s",
-      "channel": "Web Search",
+      "title": "Highlights | Paraguay 0-1 France | FIFA World Cup 2026™",
+      "videoId": "4HZCeb88uSI",
+      "channel": "FIFA",
       "publishedAt": "2026-07-05",
       "category": "Highlights",
       "team": [
-        "Switzerland",
-        "Algeria"
+        "France",
+        "Paraguay"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-q-nO0sz18s/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/4HZCeb88uSI/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria",
-      "source": "match-search"
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
     },
     {
-      "title": "HIGHLIGHTS - Switzerland v Algeria | Knockout Battle in ... - YouTube",
-      "videoId": "SoSnKdCz8sQ",
-      "channel": "Web Search",
+      "title": "Portugal On Playing Spain | Cristiano Ronaldo & Roberto Martinez Take Questions",
+      "videoId": "-Wh5SSCnmL0",
+      "channel": "FIFA",
       "publishedAt": "2026-07-05",
       "category": "Highlights",
       "team": [
-        "Switzerland",
-        "Algeria"
+        "Spain",
+        "Portugal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/SoSnKdCz8sQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/-Wh5SSCnmL0/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria",
-      "source": "match-search"
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
     },
     {
       "title": "Alt Cast Highlights: Paraguay v France | FIFA World Cup 2026™",
@@ -245,49 +242,17 @@
       "fixtureTeams": "United States vs Bosnia-Herzegovina"
     },
     {
-      "title": "July 4 Matchday Recap | #FIFAWorldCup @aramco",
-      "videoId": "gsiLzDG2cYo",
-      "channel": "FIFA",
+      "title": "REACTION to Germany hiring Jürgen Klopp as head coach 🇩🇪 Can he fix their problems? | ESPN FC",
+      "videoId": "Z42PpnS3Wzo",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-05",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/gsiLzDG2cYo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina"
-    },
-    {
-      "title": "World Cup Rematch: Portugal 3-3 Spain | 2018 Masterclass",
-      "videoId": "ZbM-tVTnRO8",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-05",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [
-        "Spain",
-        "Portugal"
+        "Germany"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ZbM-tVTnRO8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina"
-    },
-    {
-      "title": "England Train Before Mexico | FIFA World Cup 2026™",
-      "videoId": "b9d5DboyCy8",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-05",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/b9d5DboyCy8/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Z42PpnS3Wzo/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "United States vs Bosnia-Herzegovina"
@@ -515,20 +480,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/lragCShe-kc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "Haaland couldn’t stop saying his full name ��� (via @Erlinghaaland/TT)",
-      "videoId": "JLrhLOsdRsI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/JLrhLOsdRsI/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Mexico vs Ecuador"
