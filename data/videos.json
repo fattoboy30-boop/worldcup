@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-05T12:18:55.754Z",
+  "lastUpdated": "2026-07-05T14:12:49.507Z",
   "featured": {
-    "match": "aDNucX8JO5k",
-    "highlight": "aDNucX8JO5k",
+    "match": "-q-nO0sz18s",
+    "highlight": "-q-nO0sz18s",
     "interview": "52gdEAEsSqA"
   },
   "videos": [
+    {
+      "title": "Highlights | Switzerland 2-0 Algeria | FIFA World Cup 2026™",
+      "videoId": "-q-nO0sz18s",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-05",
+      "category": "Highlights",
+      "team": [
+        "Switzerland",
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-q-nO0sz18s/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria",
+      "source": "match-search"
+    },
+    {
+      "title": "Switzerland vs Algeria | Full Highlights | Round of 32 | FIFA World Cup ...",
+      "videoId": "9ZkDPCYcQUA",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-05",
+      "category": "Highlights",
+      "team": [
+        "Switzerland",
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/9ZkDPCYcQUA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria",
+      "source": "match-search"
+    },
     {
       "title": "Team Feature: Portugal | Martinez's Tactical Masterclass Against Croatia",
       "videoId": "aDNucX8JO5k",
