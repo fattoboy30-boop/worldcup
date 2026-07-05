@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-05T14:46:07.897Z",
+  "lastUpdated": "2026-07-05T15:39:35.188Z",
   "featured": {
-    "match": "iY99BoTqcZM",
-    "highlight": "iY99BoTqcZM",
+    "match": "-q-nO0sz18s",
+    "highlight": "5juI900p6ZQ",
     "interview": "52gdEAEsSqA"
   },
   "videos": [
+    {
+      "title": "Highlights | Switzerland 2-0 Algeria | FIFA World Cup 2026™",
+      "videoId": "-q-nO0sz18s",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-05",
+      "category": "Highlights",
+      "team": [
+        "Switzerland",
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-q-nO0sz18s/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria",
+      "source": "match-search"
+    },
+    {
+      "title": "Switzerland 2-0 Algeria | Full Match Highlights | FIFA World Cup 2026 ...",
+      "videoId": "5juI900p6ZQ",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-05",
+      "category": "Full Match",
+      "team": [
+        "Switzerland",
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/5juI900p6ZQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria",
+      "source": "match-search"
+    },
     {
       "title": "Team Feature: USA | Can the USA Go All the Way?",
       "videoId": "iY99BoTqcZM",
