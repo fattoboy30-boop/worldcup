@@ -1,28 +1,27 @@
 {
-  "lastUpdated": "2026-07-05T05:37:08.815Z",
+  "lastUpdated": "2026-07-05T07:30:16.083Z",
   "featured": {
-    "match": "23En_q125-Q",
-    "highlight": "23En_q125-Q",
+    "match": "ZbM-tVTnRO8",
+    "highlight": "ZbM-tVTnRO8",
     "interview": "52gdEAEsSqA"
   },
   "videos": [
     {
-      "title": "Switzerland vs Algeria 2-1 | 2026 World Cup Highlights & Goals",
-      "videoId": "23En_q125-Q",
-      "channel": "Web Search",
+      "title": "World Cup Rematch: Portugal 3-3 Spain | 2018 Masterclass",
+      "videoId": "ZbM-tVTnRO8",
+      "channel": "FIFA",
       "publishedAt": "2026-07-05",
       "category": "Highlights",
       "team": [
-        "Switzerland",
-        "Algeria"
+        "Spain",
+        "Portugal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/23En_q125-Q/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/ZbM-tVTnRO8/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria",
-      "source": "match-search"
+      "fixtureTeams": "United States vs Bosnia-Herzegovina"
     },
     {
       "title": "England Train Before Mexico | FIFA World Cup 2026™",
@@ -356,22 +355,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/WvRhVzfoLsg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "Highlights | Argentina 3-2 Cabo Verde | FIFA World Cup 2026™",
-      "videoId": "hzvEZ2Vxb94",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/hzvEZ2Vxb94/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Mexico vs Ecuador"
