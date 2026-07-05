@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T20:01:07.974Z",
+  "lastUpdated": "2026-07-05T20:36:01.705Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2264,11 +2264,11 @@
       "awayScore": 0,
       "venue": "MetLife Stadium",
       "city": "East Rutherford, New Jersey",
-      "status": "timed",
+      "status": "in_play",
       "group": "C",
       "stage": "ROUND_OF_16",
       "matchday": 0,
-      "minute": null,
+      "minute": "35'",
       "halfTime": [
         null,
         null

@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-07-05T20:01:07.972Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-07-05T20:36:01.703Z",
+  "liveMatches": [
+    {
+      "id": 760504,
+      "date": "2026-07-05",
+      "time": "20:00",
+      "utcDate": "2026-07-05T20:00Z",
+      "homeTeam": "Brazil",
+      "homeCode": "br",
+      "homeScore": 0,
+      "awayTeam": "Norway",
+      "awayCode": "no",
+      "awayScore": 0,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford, New Jersey",
+      "status": "in_play",
+      "group": "C",
+      "stage": "ROUND_OF_16",
+      "matchday": 0,
+      "minute": "35'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -2074,29 +2098,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760504,
-      "date": "2026-07-05",
-      "time": "20:00",
-      "utcDate": "2026-07-05T20:00Z",
-      "homeTeam": "Brazil",
-      "homeCode": "br",
-      "homeScore": 0,
-      "awayTeam": "Norway",
-      "awayCode": "no",
-      "awayScore": 0,
-      "venue": "MetLife Stadium",
-      "city": "East Rutherford, New Jersey",
-      "status": "timed",
-      "group": "C",
-      "stage": "ROUND_OF_16",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760505,
       "date": "2026-07-06",
