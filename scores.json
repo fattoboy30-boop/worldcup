@@ -1,30 +1,6 @@
 {
-  "lastUpdated": "2026-07-05T21:41:12.423Z",
-  "liveMatches": [
-    {
-      "id": 760504,
-      "date": "2026-07-05",
-      "time": "20:00",
-      "utcDate": "2026-07-05T20:00Z",
-      "homeTeam": "Brazil",
-      "homeCode": "br",
-      "homeScore": 0,
-      "awayTeam": "Norway",
-      "awayCode": "no",
-      "awayScore": 0,
-      "venue": "MetLife Stadium",
-      "city": "East Rutherford, New Jersey",
-      "status": "in_play",
-      "group": "C",
-      "stage": "ROUND_OF_16",
-      "matchday": 0,
-      "minute": "78'",
-      "halfTime": [
-        null,
-        null
-      ]
-    }
-  ],
+  "lastUpdated": "2026-07-05T22:14:32.884Z",
+  "liveMatches": [],
   "recentResults": [
     {
       "id": 760415,
@@ -2095,6 +2071,29 @@
         null,
         null
       ]
+    },
+    {
+      "id": 760504,
+      "date": "2026-07-05",
+      "time": "20:00",
+      "utcDate": "2026-07-05T20:00Z",
+      "homeTeam": "Brazil",
+      "homeCode": "br",
+      "homeScore": 1,
+      "awayTeam": "Norway",
+      "awayCode": "no",
+      "awayScore": 2,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford, New Jersey",
+      "status": "finished",
+      "group": "C",
+      "stage": "ROUND_OF_16",
+      "matchday": 0,
+      "minute": null,
+      "halfTime": [
+        null,
+        null
+      ]
     }
   ],
   "upcomingMatches": [
@@ -2264,8 +2263,8 @@
       "date": "2026-07-11",
       "time": "21:00",
       "utcDate": "2026-07-11T21:00Z",
-      "homeTeam": "Round of 16 3 Winner",
-      "homeCode": "un",
+      "homeTeam": "Norway",
+      "homeCode": "no",
       "homeScore": 0,
       "awayTeam": "Round of 16 4 Winner",
       "awayCode": "un",
@@ -2273,7 +2272,7 @@
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens, Florida",
       "status": "timed",
-      "group": null,
+      "group": "I",
       "stage": "QUARTERFINALS",
       "matchday": 0,
       "minute": null,

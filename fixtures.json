@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T21:41:12.426Z",
+  "lastUpdated": "2026-07-05T22:14:32.886Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2258,17 +2258,17 @@
       "utcDate": "2026-07-05T20:00Z",
       "homeTeam": "Brazil",
       "homeCode": "br",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayTeam": "Norway",
       "awayCode": "no",
-      "awayScore": 0,
+      "awayScore": 2,
       "venue": "MetLife Stadium",
       "city": "East Rutherford, New Jersey",
-      "status": "in_play",
+      "status": "finished",
       "group": "C",
       "stage": "ROUND_OF_16",
       "matchday": 0,
-      "minute": "78'",
+      "minute": null,
       "halfTime": [
         null,
         null
@@ -2456,8 +2456,8 @@
       "date": "2026-07-11",
       "time": "21:00",
       "utcDate": "2026-07-11T21:00Z",
-      "homeTeam": "Round of 16 3 Winner",
-      "homeCode": "un",
+      "homeTeam": "Norway",
+      "homeCode": "no",
       "homeScore": 0,
       "awayTeam": "Round of 16 4 Winner",
       "awayCode": "un",
@@ -2465,7 +2465,7 @@
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens, Florida",
       "status": "timed",
-      "group": null,
+      "group": "I",
       "stage": "QUARTERFINALS",
       "matchday": 0,
       "minute": null,
@@ -2473,7 +2473,7 @@
         null,
         null
       ],
-      "homeFlag": "https://flagcdn.com/w160/un.png",
+      "homeFlag": "https://flagcdn.com/w160/no.png",
       "awayFlag": "https://flagcdn.com/w160/un.png"
     },
     {

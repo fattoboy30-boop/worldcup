@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T21:41:12.429Z",
+  "lastUpdated": "2026-07-05T22:14:32.887Z",
   "groups": {
     "A": {
       "teams": [
@@ -265,13 +265,13 @@
         {
           "name": "Brazil",
           "code": "br",
-          "played": 4,
+          "played": 5,
           "won": 3,
           "drawn": 1,
-          "lost": 0,
-          "gf": 9,
-          "ga": 2,
-          "gd": 7,
+          "lost": 1,
+          "gf": 10,
+          "ga": 4,
+          "gd": 6,
           "points": 10,
           "position": 1
         },
@@ -289,6 +289,19 @@
           "position": 2
         },
         {
+          "name": "Norway",
+          "code": "no",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 2,
+          "ga": 1,
+          "gd": 1,
+          "points": 3,
+          "position": 3
+        },
+        {
           "name": "Scotland",
           "code": "gb-sct",
           "played": 3,
@@ -299,7 +312,7 @@
           "ga": 4,
           "gd": -3,
           "points": 3,
-          "position": 3
+          "position": 4
         },
         {
           "name": "Japan",
@@ -312,7 +325,7 @@
           "ga": 2,
           "gd": -1,
           "points": 0,
-          "position": 4
+          "position": 5
         },
         {
           "name": "Haiti",
@@ -325,7 +338,7 @@
           "ga": 8,
           "gd": -6,
           "points": 0,
-          "position": 5
+          "position": 6
         }
       ]
     },
