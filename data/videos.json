@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-06T22:16:04.058Z",
+  "lastUpdated": "2026-07-06T23:06:31.028Z",
   "featured": {
-    "match": "fK26a8mAXSw",
-    "highlight": "fK26a8mAXSw",
+    "match": "RGSDF7DDWRI",
+    "highlight": "RGSDF7DDWRI",
     "interview": "CW34mOEM2-E"
   },
   "videos": [
+    {
+      "title": "Colombia vs. Ghana | Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "RGSDF7DDWRI",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "Colombia",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RGSDF7DDWRI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana",
+      "source": "match-search"
+    },
+    {
+      "title": "Colombia vs Ghana | Match Highlights | FIFA World Cup 2026™",
+      "videoId": "2Lw8B3RwITw",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "Colombia",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/2Lw8B3RwITw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana",
+      "source": "match-search"
+    },
     {
       "title": "Egypt Train Before Argentina | FIFA World Cup 2026™",
       "videoId": "fK26a8mAXSw",
