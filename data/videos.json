@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-07-06T05:14:39.978Z",
+  "lastUpdated": "2026-07-06T08:03:54.598Z",
   "featured": {
-    "match": "S3XlsULsi-Q",
-    "highlight": "S3XlsULsi-Q",
+    "match": "q9fXwjLYvG4",
+    "highlight": "q9fXwjLYvG4",
     "interview": "dBNfnJ6DVOE"
   },
   "videos": [
+    {
+      "title": "HIGHLIGHTS - Colombia v Ghana | High Stakes Battle | FIFA World Cup 2026",
+      "videoId": "q9fXwjLYvG4",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "Colombia",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/q9fXwjLYvG4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana",
+      "source": "match-search"
+    },
     {
       "title": "Jude Bellingham Goal | Mexico 2-3 England | FIFA World Cup 2026™",
       "videoId": "S3XlsULsi-Q",
