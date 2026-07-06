@@ -1,46 +1,380 @@
 {
-  "lastUpdated": "2026-07-06T03:26:48.804Z",
+  "lastUpdated": "2026-07-06T05:14:39.978Z",
   "featured": {
-    "match": "Y4Sc2oIPvNI",
-    "highlight": "Y4Sc2oIPvNI",
-    "interview": "5RyDENw6yaM"
+    "match": "S3XlsULsi-Q",
+    "highlight": "S3XlsULsi-Q",
+    "interview": "dBNfnJ6DVOE"
   },
   "videos": [
     {
-      "title": "Colombia vs Ghana Highlights | 2026 FIFA World Cup - YouTube",
-      "videoId": "Y4Sc2oIPvNI",
-      "channel": "Web Search",
+      "title": "Jude Bellingham Goal | Mexico 2-3 England | FIFA World Cup 2026™",
+      "videoId": "S3XlsULsi-Q",
+      "channel": "FIFA",
       "publishedAt": "2026-07-06",
       "category": "Highlights",
       "team": [
-        "Colombia",
-        "Ghana"
+        "England",
+        "Mexico"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Y4Sc2oIPvNI/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/S3XlsULsi-Q/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Colombia vs Ghana",
-      "source": "match-search"
+      "fixtureTeams": "Switzerland vs Algeria"
     },
     {
-      "title": "Colombia 1-0 Ghana | Round of 32 | FIFA World Cup 2026™ Highlights",
-      "videoId": "T3HT8692rsE",
-      "channel": "Web Search",
+      "title": "Harry Kane converts from the spot for England! #FIFAWorldCupOnYT",
+      "videoId": "ntWmwg7_Rew",
+      "channel": "FIFA",
       "publishedAt": "2026-07-06",
       "category": "Highlights",
       "team": [
-        "Colombia",
-        "Ghana"
+        "England"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/T3HT8692rsE/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/ntWmwg7_Rew/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Colombia vs Ghana",
-      "source": "match-search"
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "Bellingham shines on the big stage again for England! #FIFAWorldCupOnYT",
+      "videoId": "Tq-6j9PaQe4",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Tq-6j9PaQe4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "Mexico 🆚 England #FIFAWorldCupOnYT",
+      "videoId": "cloibD37BUg",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cloibD37BUg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "Belgium Train Before USA | FIFA World Cup 2026™",
+      "videoId": "IqOaaKcwsZU",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "Belgium",
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/IqOaaKcwsZU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "USA Train Before Belgium | FIFA World Cup 2026™",
+      "videoId": "r0D1q1KCG68",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "Belgium",
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/r0D1q1KCG68/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "Erling Haaland First Goal | Brazil 1-2 Norway",
+      "videoId": "lpjrLxycquo",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/lpjrLxycquo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "An incredible header by Haaland for Norway! #FIFAWorldCupOnYT",
+      "videoId": "dBNfnJ6DVOE",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-06",
+      "category": "Viral",
+      "team": [
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/dBNfnJ6DVOE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "Erling Haaland Scores Again! | Brazil 1-2 Norway",
+      "videoId": "GKRC_JfNFms",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/GKRC_JfNFms/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "Post-Match Player Interviews | Brazil 1-2 Norway",
+      "videoId": "da_2x9CEvvQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/da_2x9CEvvQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "Haaland buries it into the net against Brazil. 🇳🇴 #FIFAWorldCupOnYT",
+      "videoId": "ex3wW88Kj_E",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "Brazil"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ex3wW88Kj_E/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "Post-Match Press Conference: Norway's Ståle Solbakken On The 2-1 Win Over Brazil",
+      "videoId": "mxSpiEy4gt4",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/mxSpiEy4gt4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "Brazil 🆚 Norway #FIFAWorldCupOnYT",
+      "videoId": "a945oObDZgQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/a945oObDZgQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "Round of 16 Reaction 🔥 England & Norway set for World Cup showdown | ESPN FC Full Show",
+      "videoId": "RqnrMbM9Iqg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-06",
+      "category": "Viral",
+      "team": [
+        "England",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RqnrMbM9Iqg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "Is it coming home!? | ESPN FC Extra Time",
+      "videoId": "broOobbgAjE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/broOobbgAjE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "Norway vs. England in the 2026 World Cup Quarterfinals 🍿 Preview and predictions | ESPN FC",
+      "videoId": "IjIobmU3QQ4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/IjIobmU3QQ4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "Shaka Hislop questions the integrity of FIFA & the sport after Balogun red card suspension | ESPN FC",
+      "videoId": "4OT-eY98r5g",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4OT-eY98r5g/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "‘BRAZIL ARE A MESS’ 😳 Is Ancelotti to blame for Brazil’s World Cup struggles? | ESPN FC",
+      "videoId": "o9LBAsQ1Vgs",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "Brazil"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/o9LBAsQ1Vgs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "Mexico vs. England FULL REACTION 🍿 Jude Bellingham’s brace powers run to quarters | ESPN FC",
+      "videoId": "OEhyXSz-eEw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-06",
+      "category": "Viral",
+      "team": [
+        "England",
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/OEhyXSz-eEw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "Cape Verde’s team welcomed home 👏",
+      "videoId": "phYY8Htc8Wc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/phYY8Htc8Wc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "🎆👀 (via @barcaplenus/X)",
+      "videoId": "xfBKm3-94TI",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xfBKm3-94TI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "‘A shot in the arm’ for USMNT – Taylor Twellman ⚽️",
+      "videoId": "8d5Fws2ysSk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/8d5Fws2ysSk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "USMNT vs. Belgium Preview: ‘This is the test’ – Kasey Keller | The Sports Reporters",
+      "videoId": "14hBkvJifnk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/14hBkvJifnk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
     },
     {
       "title": "Post-Match Press Conference: Brazil's Carlo Ancelotti On The 2-1 Loss To Norway",
@@ -69,226 +403,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/9nEBxpU08iI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina"
-    },
-    {
-      "title": "WATCH LIVE | Brazil v Norway | Round of 16 | FIFA World Cup 2026™",
-      "videoId": "X9YxoJ3NwS0",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-05",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/X9YxoJ3NwS0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina"
-    },
-    {
-      "title": "USA On Playing Belgium | Mauricio Pochettino Takes Questions",
-      "videoId": "fmZxBtL3TYE",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-05",
-      "category": "Highlights",
-      "team": [
-        "Belgium",
-        "USA"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fmZxBtL3TYE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina"
-    },
-    {
-      "title": "Spain On Playing Portugal | Luis de la Fuente Castillo Takes Questions",
-      "videoId": "tYU3rCs0q-c",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-05",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/tYU3rCs0q-c/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina"
-    },
-    {
-      "title": "Belgium On Playing USA | Rudi Garcia & Thibaut Courtois Take Questions",
-      "videoId": "oDeX46Ge2lo",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-05",
-      "category": "Highlights",
-      "team": [
-        "Belgium",
-        "USA"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/oDeX46Ge2lo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina"
-    },
-    {
-      "title": "Highlights | Paraguay 0-1 France | FIFA World Cup 2026™",
-      "videoId": "4HZCeb88uSI",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-05",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/4HZCeb88uSI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina"
-    },
-    {
-      "title": "Portugal On Playing Spain | Cristiano Ronaldo & Roberto Martinez Take Questions",
-      "videoId": "-Wh5SSCnmL0",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-05",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-Wh5SSCnmL0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina"
-    },
-    {
-      "title": "Alt Cast Highlights: Paraguay v France | FIFA World Cup 2026™",
-      "videoId": "gt9xQdqY2UA",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-05",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/gt9xQdqY2UA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina"
-    },
-    {
-      "title": "Alt Cast Highlights: Canada v Morocco | FIFA World Cup 2026™",
-      "videoId": "g6XsOIKogl0",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-05",
-      "category": "Highlights",
-      "team": [
-        "Morocco",
-        "Canada"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/g6XsOIKogl0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina"
-    },
-    {
-      "title": "Spain Train Before Portugal | FIFA World Cup 2026™",
-      "videoId": "RWRx09-YHX4",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-05",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/RWRx09-YHX4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina"
-    },
-    {
-      "title": "Portugal Train Before Spain | FIFA World Cup 2026™",
-      "videoId": "r4t8vJX_xrY",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-05",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/r4t8vJX_xrY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina"
-    },
-    {
-      "title": "Highlights | Canada 0-3 Morocco | FIFA World Cup 2026™",
-      "videoId": "sAYjtcpoaf0",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-05",
-      "category": "Highlights",
-      "team": [
-        "Morocco",
-        "Canada"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/sAYjtcpoaf0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina"
-    },
-    {
-      "title": "Argentina end Cabo Verde dream, as the Round of 16 begins",
-      "videoId": "KIEj76L5GHA",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-05",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/KIEj76L5GHA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina"
-    },
-    {
-      "title": "Team Feature: Belgium | Rudi Garcia on Incredible Comeback Against Senegal",
-      "videoId": "5RyDENw6yaM",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-05",
-      "category": "Viral",
-      "team": [
-        "Belgium",
-        "Senegal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/5RyDENw6yaM/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "United States vs Bosnia-Herzegovina"
@@ -357,7 +471,7 @@
       "fixtureTeams": "United States vs Bosnia-Herzegovina"
     },
     {
-      "title": "The French aura ��",
+      "title": "The French aura 😤",
       "videoId": "aUsinjCNXA8",
       "channel": "ESPN FC",
       "publishedAt": "2026-07-05",
@@ -369,172 +483,6 @@
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "United States vs Bosnia-Herzegovina"
-    },
-    {
-      "title": "Brek Shea says England’s walking into an intense environment vs. Mexico in the Round of 16 👀 | SC",
-      "videoId": "6MRkOLjVHmc",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-05",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/6MRkOLjVHmc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina"
-    },
-    {
-      "title": "Should France and Argentina still be favorites to win the World Cup? 👀  | ESPN FC",
-      "videoId": "wLahi2z1x8s",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-05",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "France"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/wLahi2z1x8s/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina"
-    },
-    {
-      "title": "Who had a worse performance: Argentina or France? | ESPN FC Extra Time",
-      "videoId": "QRxuvKJbPrQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-05",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "France"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/QRxuvKJbPrQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina"
-    },
-    {
-      "title": "United States vs. Belgium PREDICTIONS 🍿 2026 World Cup Round of 16 | ESPN FC",
-      "videoId": "vzc36wDBdIE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-05",
-      "category": "Highlights",
-      "team": [
-        "Belgium"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vzc36wDBdIE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina"
-    },
-    {
-      "title": "Mexico vs. England Preview: How significant will the conditions be to the result? | ESPN FC",
-      "videoId": "glmRqS_X6zc",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-05",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/glmRqS_X6zc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina"
-    },
-    {
-      "title": "‘It will be a great BATTLE’ ⚔️ Brazil vs. Norway preview and predictions | ESPN FC",
-      "videoId": "eh-p-AcNbqg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-05",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/eh-p-AcNbqg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina"
-    },
-    {
-      "title": "Jermaine Jones is picking Morocco to upset France in the quarterfinals 👀",
-      "videoId": "Y4jt_RS0qYQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-05",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Y4jt_RS0qYQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina"
-    },
-    {
-      "title": "France vs. Morocco in the World Cup Quarterfinals 👀 Who will advance? | ESPN FC",
-      "videoId": "YJj_7Y8kwHw",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/YJj_7Y8kwHw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "France advance to the World Cup Quarterfinals after 1-0 win vs. Paraguay 🔥 | ESPN FC",
-      "videoId": "aubuhlYCcoA",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/aubuhlYCcoA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
-    },
-    {
-      "title": "Taylor Twellman on who needs to step up with Folarin Balogun out for USMNT | SportsCenter",
-      "videoId": "2Shb1K2Obss",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-04",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/2Shb1K2Obss/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Mexico vs Ecuador"
     }
   ]
 }
