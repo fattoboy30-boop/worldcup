@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T01:17:56.161Z",
+  "lastUpdated": "2026-07-06T03:26:27.212Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2283,13 +2283,13 @@
       "utcDate": "2026-07-06T01:00Z",
       "homeTeam": "Mexico",
       "homeCode": "mx",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayTeam": "England",
       "awayCode": "gb-eng",
-      "awayScore": 0,
+      "awayScore": 3,
       "venue": "Estadio Banorte",
       "city": "Mexico City",
-      "status": "timed",
+      "status": "finished",
       "group": "A",
       "stage": "ROUND_OF_16",
       "matchday": 0,
@@ -2459,8 +2459,8 @@
       "homeTeam": "Norway",
       "homeCode": "no",
       "homeScore": 0,
-      "awayTeam": "Round of 16 4 Winner",
-      "awayCode": "un",
+      "awayTeam": "England",
+      "awayCode": "gb-eng",
       "awayScore": 0,
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens, Florida",
@@ -2474,7 +2474,7 @@
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/no.png",
-      "awayFlag": "https://flagcdn.com/w160/un.png"
+      "awayFlag": "https://flagcdn.com/w160/gb-eng.png"
     },
     {
       "id": 760513,

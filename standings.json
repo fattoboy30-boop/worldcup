@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-07-06T01:17:56.163Z",
+  "lastUpdated": "2026-07-06T03:26:27.215Z",
   "groups": {
     "A": {
       "teams": [
         {
           "name": "Mexico",
           "code": "mx",
-          "played": 4,
+          "played": 5,
           "won": 4,
           "drawn": 0,
-          "lost": 0,
-          "gf": 8,
-          "ga": 0,
-          "gd": 8,
+          "lost": 1,
+          "gf": 10,
+          "ga": 3,
+          "gd": 7,
           "points": 12,
           "position": 1
         },
@@ -30,6 +30,19 @@
           "position": 2
         },
         {
+          "name": "England",
+          "code": "gb-eng",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 3,
+          "ga": 2,
+          "gd": 1,
+          "points": 3,
+          "position": 3
+        },
+        {
           "name": "Canada",
           "code": "ca",
           "played": 1,
@@ -40,7 +53,7 @@
           "ga": 0,
           "gd": 1,
           "points": 3,
-          "position": 3
+          "position": 4
         },
         {
           "name": "South Korea",
@@ -53,7 +66,7 @@
           "ga": 3,
           "gd": -1,
           "points": 3,
-          "position": 4
+          "position": 5
         },
         {
           "name": "Czechia",
@@ -66,7 +79,7 @@
           "ga": 6,
           "gd": -4,
           "points": 1,
-          "position": 5
+          "position": 6
         },
         {
           "name": "Ecuador",
@@ -79,7 +92,7 @@
           "ga": 2,
           "gd": -2,
           "points": 0,
-          "position": 6
+          "position": 7
         }
       ]
     },

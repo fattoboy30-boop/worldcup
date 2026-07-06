@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T01:17:56.159Z",
+  "lastUpdated": "2026-07-06T03:26:27.210Z",
   "liveMatches": [],
   "recentResults": [
     {
@@ -2094,9 +2094,7 @@
         null,
         null
       ]
-    }
-  ],
-  "upcomingMatches": [
+    },
     {
       "id": 760505,
       "date": "2026-07-06",
@@ -2104,13 +2102,13 @@
       "utcDate": "2026-07-06T01:00Z",
       "homeTeam": "Mexico",
       "homeCode": "mx",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayTeam": "England",
       "awayCode": "gb-eng",
-      "awayScore": 0,
+      "awayScore": 3,
       "venue": "Estadio Banorte",
       "city": "Mexico City",
-      "status": "timed",
+      "status": "finished",
       "group": "A",
       "stage": "ROUND_OF_16",
       "matchday": 0,
@@ -2119,7 +2117,9 @@
         null,
         null
       ]
-    },
+    }
+  ],
+  "upcomingMatches": [
     {
       "id": 760506,
       "date": "2026-07-06",
@@ -2266,8 +2266,8 @@
       "homeTeam": "Norway",
       "homeCode": "no",
       "homeScore": 0,
-      "awayTeam": "Round of 16 4 Winner",
-      "awayCode": "un",
+      "awayTeam": "England",
+      "awayCode": "gb-eng",
       "awayScore": 0,
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens, Florida",

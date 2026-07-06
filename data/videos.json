@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-06T00:10:07.300Z",
+  "lastUpdated": "2026-07-06T03:26:48.804Z",
   "featured": {
-    "match": "pI3eNR45hpE",
-    "highlight": "pI3eNR45hpE",
+    "match": "Y4Sc2oIPvNI",
+    "highlight": "Y4Sc2oIPvNI",
     "interview": "5RyDENw6yaM"
   },
   "videos": [
+    {
+      "title": "Colombia vs Ghana Highlights | 2026 FIFA World Cup - YouTube",
+      "videoId": "Y4Sc2oIPvNI",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "Colombia",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Y4Sc2oIPvNI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana",
+      "source": "match-search"
+    },
+    {
+      "title": "Colombia 1-0 Ghana | Round of 32 | FIFA World Cup 2026™ Highlights",
+      "videoId": "T3HT8692rsE",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "Colombia",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/T3HT8692rsE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana",
+      "source": "match-search"
+    },
     {
       "title": "Post-Match Press Conference: Brazil's Carlo Ancelotti On The 2-1 Loss To Norway",
       "videoId": "pI3eNR45hpE",
