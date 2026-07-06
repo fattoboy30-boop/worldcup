@@ -1,30 +1,6 @@
 {
-  "lastUpdated": "2026-07-06T20:28:55.769Z",
-  "liveMatches": [
-    {
-      "id": 760506,
-      "date": "2026-07-06",
-      "time": "19:00",
-      "utcDate": "2026-07-06T19:00Z",
-      "homeTeam": "Portugal",
-      "homeCode": "pt",
-      "homeScore": 0,
-      "awayTeam": "Spain",
-      "awayCode": "es",
-      "awayScore": 0,
-      "venue": "AT&T Stadium",
-      "city": "Arlington, Texas",
-      "status": "in_play",
-      "group": "K",
-      "stage": "ROUND_OF_16",
-      "matchday": 0,
-      "minute": "65'",
-      "halfTime": [
-        null,
-        null
-      ]
-    }
-  ],
+  "lastUpdated": "2026-07-06T21:49:35.419Z",
+  "liveMatches": [],
   "recentResults": [
     {
       "id": 760415,
@@ -2141,6 +2117,29 @@
         null,
         null
       ]
+    },
+    {
+      "id": 760506,
+      "date": "2026-07-06",
+      "time": "19:00",
+      "utcDate": "2026-07-06T19:00Z",
+      "homeTeam": "Portugal",
+      "homeCode": "pt",
+      "homeScore": 0,
+      "awayTeam": "Spain",
+      "awayCode": "es",
+      "awayScore": 1,
+      "venue": "AT&T Stadium",
+      "city": "Arlington, Texas",
+      "status": "finished",
+      "group": "K",
+      "stage": "ROUND_OF_16",
+      "matchday": 0,
+      "minute": null,
+      "halfTime": [
+        null,
+        null
+      ]
     }
   ],
   "upcomingMatches": [
@@ -2241,8 +2240,8 @@
       "date": "2026-07-10",
       "time": "19:00",
       "utcDate": "2026-07-10T19:00Z",
-      "homeTeam": "Round of 16 5 Winner",
-      "homeCode": "un",
+      "homeTeam": "Spain",
+      "homeCode": "es",
       "homeScore": 0,
       "awayTeam": "Round of 16 6 Winner",
       "awayCode": "un",
@@ -2250,7 +2249,7 @@
       "venue": "SoFi Stadium",
       "city": "Inglewood, California",
       "status": "timed",
-      "group": null,
+      "group": "H",
       "stage": "QUARTERFINALS",
       "matchday": 0,
       "minute": null,

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T20:28:55.772Z",
+  "lastUpdated": "2026-07-06T21:49:35.422Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2311,14 +2311,14 @@
       "homeScore": 0,
       "awayTeam": "Spain",
       "awayCode": "es",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "AT&T Stadium",
       "city": "Arlington, Texas",
-      "status": "in_play",
+      "status": "finished",
       "group": "K",
       "stage": "ROUND_OF_16",
       "matchday": 0,
-      "minute": "65'",
+      "minute": null,
       "halfTime": [
         null,
         null
@@ -2431,8 +2431,8 @@
       "date": "2026-07-10",
       "time": "19:00",
       "utcDate": "2026-07-10T19:00Z",
-      "homeTeam": "Round of 16 5 Winner",
-      "homeCode": "un",
+      "homeTeam": "Spain",
+      "homeCode": "es",
       "homeScore": 0,
       "awayTeam": "Round of 16 6 Winner",
       "awayCode": "un",
@@ -2440,7 +2440,7 @@
       "venue": "SoFi Stadium",
       "city": "Inglewood, California",
       "status": "timed",
-      "group": null,
+      "group": "H",
       "stage": "QUARTERFINALS",
       "matchday": 0,
       "minute": null,
@@ -2448,7 +2448,7 @@
         null,
         null
       ],
-      "homeFlag": "https://flagcdn.com/w160/un.png",
+      "homeFlag": "https://flagcdn.com/w160/es.png",
       "awayFlag": "https://flagcdn.com/w160/un.png"
     },
     {
