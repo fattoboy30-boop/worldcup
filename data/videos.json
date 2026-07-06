@@ -1,46 +1,42 @@
 {
-  "lastUpdated": "2026-07-06T15:56:09.928Z",
+  "lastUpdated": "2026-07-06T17:45:49.474Z",
   "featured": {
-    "match": "RGSDF7DDWRI",
-    "highlight": "RGSDF7DDWRI",
-    "interview": "RqnrMbM9Iqg"
+    "match": "Vq_HqrLb3mk",
+    "highlight": "Vq_HqrLb3mk",
+    "interview": "2pG0ZaNfRic"
   },
   "videos": [
     {
-      "title": "Colombia vs. Ghana | Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "RGSDF7DDWRI",
-      "channel": "Web Search",
+      "title": "Team Feature: Colombia | \"Lucho, I Love You, Never Forget Who You Are\"",
+      "videoId": "Vq_HqrLb3mk",
+      "channel": "FIFA",
       "publishedAt": "2026-07-06",
       "category": "Highlights",
       "team": [
-        "Colombia",
-        "Ghana"
+        "Colombia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/RGSDF7DDWRI/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Vq_HqrLb3mk/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Colombia vs Ghana",
-      "source": "match-search"
+      "fixtureTeams": "Switzerland vs Algeria"
     },
     {
-      "title": "Colombia vs Ghana Highlights | 2026 FIFA World Cup - YouTube",
-      "videoId": "Y4Sc2oIPvNI",
-      "channel": "Web Search",
+      "title": "Team Feature: Switzerland | Lessons Learned Will Not Be Forgotten",
+      "videoId": "Uiy3V-QFMzU",
+      "channel": "FIFA",
       "publishedAt": "2026-07-06",
       "category": "Highlights",
       "team": [
-        "Colombia",
-        "Ghana"
+        "Switzerland"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Y4Sc2oIPvNI/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Uiy3V-QFMzU/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Colombia vs Ghana",
-      "source": "match-search"
+      "fixtureTeams": "Switzerland vs Algeria"
     },
     {
       "title": "Team Feature: Egypt | Salah - King Of Egypt",
@@ -256,35 +252,47 @@
       "fixtureTeams": "Switzerland vs Algeria"
     },
     {
-      "title": "USA Train Before Belgium | FIFA World Cup 2026™",
-      "videoId": "r0D1q1KCG68",
-      "channel": "FIFA",
+      "title": "This moment can never be forgotten 😆 (via @IShowSpeed/TT)",
+      "videoId": "kaRyG0slWFk",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-06",
       "category": "Highlights",
-      "team": [
-        "Belgium",
-        "USA"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/r0D1q1KCG68/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/kaRyG0slWFk/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Switzerland vs Algeria"
     },
     {
-      "title": "Erling Haaland First Goal | Brazil 1-2 Norway",
-      "videoId": "lpjrLxycquo",
-      "channel": "FIFA",
+      "title": "‘He looked like a man possessed’🔥",
+      "videoId": "PRq7Hx8Cdko",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-06",
       "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/PRq7Hx8Cdko/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "England vs. Mexico REACTION, Haaland propels Norway + Balogun’s reprieve | ESPN FC",
+      "videoId": "2pG0ZaNfRic",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-06",
+      "category": "Viral",
       "team": [
-        "Brazil",
+        "England",
+        "Mexico",
         "Norway"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/lpjrLxycquo/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/2pG0ZaNfRic/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Switzerland vs Algeria"
@@ -318,22 +326,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/TK20NhslOEg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria"
-    },
-    {
-      "title": "Ronaldo HITS OUT at Carlo Ancelotti’s ‘TOO MANY MISTAKES’ with Brazil | ESPN FC",
-      "videoId": "4b_AQo2cAr0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-06",
-      "category": "Highlights",
-      "team": [
-        "Brazil"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/4b_AQo2cAr0/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Switzerland vs Algeria"
@@ -487,34 +479,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/phYY8Htc8Wc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria"
-    },
-    {
-      "title": "🎆👀 (via @barcaplenus/X)",
-      "videoId": "xfBKm3-94TI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-06",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xfBKm3-94TI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria"
-    },
-    {
-      "title": "‘A shot in the arm’ for USMNT – Taylor Twellman ⚽️",
-      "videoId": "8d5Fws2ysSk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-06",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/8d5Fws2ysSk/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Switzerland vs Algeria"
