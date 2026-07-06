@@ -1,46 +1,103 @@
 {
-  "lastUpdated": "2026-07-06T18:11:39.648Z",
+  "lastUpdated": "2026-07-06T20:02:32.579Z",
   "featured": {
-    "match": "Y4Sc2oIPvNI",
-    "highlight": "Y4Sc2oIPvNI",
-    "interview": "2pG0ZaNfRic"
+    "match": "o5rLdDeZnLo",
+    "highlight": "o5rLdDeZnLo",
+    "interview": "oORcBt-d0o8"
   },
   "videos": [
     {
-      "title": "Colombia vs Ghana Highlights | 2026 FIFA World Cup - YouTube",
-      "videoId": "Y4Sc2oIPvNI",
-      "channel": "Web Search",
+      "title": "Alt Cast Highlights: Brazil v Norway | FIFA World Cup 2026™",
+      "videoId": "o5rLdDeZnLo",
+      "channel": "FIFA",
       "publishedAt": "2026-07-06",
       "category": "Highlights",
       "team": [
-        "Colombia",
-        "Ghana"
+        "Brazil",
+        "Norway"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Y4Sc2oIPvNI/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/o5rLdDeZnLo/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Colombia vs Ghana",
-      "source": "match-search"
+      "fixtureTeams": "Switzerland vs Algeria"
     },
     {
-      "title": "Colombia vs. Ghana | Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "RGSDF7DDWRI",
-      "channel": "Web Search",
+      "title": "Alt Cast Highlights: Mexico v England | FIFA World Cup 2026™",
+      "videoId": "yebun9xjIBY",
+      "channel": "FIFA",
       "publishedAt": "2026-07-06",
       "category": "Highlights",
       "team": [
-        "Colombia",
-        "Ghana"
+        "England",
+        "Mexico"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/RGSDF7DDWRI/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/yebun9xjIBY/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Colombia vs Ghana",
-      "source": "match-search"
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "Unsung Hero Gladys Torres dreams of five more FIFA World Cups",
+      "videoId": "yf8qnznWw_Q",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/yf8qnznWw_Q/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "Mother and daughter live out shared love of football as FIFA World Cup 2026 volunteers",
+      "videoId": "5cRN0ZiITsc",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/5cRN0ZiITsc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "Sidny Lopes Cabral is your Hyundai GOTT Round of 32 winner! #HyundaiGOTT2026",
+      "videoId": "6qrIILEyuYw",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6qrIILEyuYw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "Argentina Train Before Egypt | FIFA World Cup 2026™",
+      "videoId": "I2LsHP1e3Qo",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/I2LsHP1e3Qo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
     },
     {
       "title": "Team Feature: Colombia | \"Lucho, I Love You, Never Forget Who You Are\"",
@@ -171,118 +228,17 @@
       "fixtureTeams": "Switzerland vs Algeria"
     },
     {
-      "title": "Post-Match Interviews: Mexico 2-3 England",
-      "videoId": "4UVmh1j7xQw",
-      "channel": "FIFA",
+      "title": "‘A MASSIVE FAILURE!’ 😬🇧🇷 Brazil crash out & more World Cup reaction | ESPN FC",
+      "videoId": "oORcBt-d0o8",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-06",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [
-        "England",
-        "Mexico"
+        "Brazil"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/4UVmh1j7xQw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria"
-    },
-    {
-      "title": "Harry Kane Goal | Mexico 2-3 England | FIFA World Cup 2026™",
-      "videoId": "V5HMKWXr6dE",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-06",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/V5HMKWXr6dE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria"
-    },
-    {
-      "title": "Jude Bellingham Goal | Mexico 2-3 England | FIFA World Cup 2026™",
-      "videoId": "S3XlsULsi-Q",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-06",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/S3XlsULsi-Q/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria"
-    },
-    {
-      "title": "Harry Kane converts from the spot for England! #FIFAWorldCupOnYT",
-      "videoId": "ntWmwg7_Rew",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-06",
-      "category": "Highlights",
-      "team": [
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ntWmwg7_Rew/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria"
-    },
-    {
-      "title": "Bellingham shines on the big stage again for England! #FIFAWorldCupOnYT",
-      "videoId": "Tq-6j9PaQe4",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-06",
-      "category": "Highlights",
-      "team": [
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Tq-6j9PaQe4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria"
-    },
-    {
-      "title": "Mexico 🆚 England #FIFAWorldCupOnYT",
-      "videoId": "cloibD37BUg",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-06",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/cloibD37BUg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria"
-    },
-    {
-      "title": "Belgium Train Before USA | FIFA World Cup 2026™",
-      "videoId": "IqOaaKcwsZU",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-06",
-      "category": "Highlights",
-      "team": [
-        "Belgium",
-        "USA"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/IqOaaKcwsZU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/oORcBt-d0o8/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Switzerland vs Algeria"
@@ -506,18 +462,21 @@
       "fixtureTeams": "Switzerland vs Algeria"
     },
     {
-      "title": "Cape Verde’s team welcomed home 👏",
-      "videoId": "phYY8Htc8Wc",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-06",
+      "title": "WATCH LIVE | Portugal v Spain | Round of 16 | FIFA World Cup 2026™",
+      "videoId": "_PATD6saheU",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-03",
       "category": "Highlights",
-      "team": [],
+      "team": [
+        "Spain",
+        "Portugal"
+      ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/phYY8Htc8Wc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/_PATD6saheU/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria"
+      "fixtureTeams": "Netherlands vs Morocco"
     }
   ]
 }
