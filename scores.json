@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-07-06T18:31:03.252Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-07-06T20:14:15.959Z",
+  "liveMatches": [
+    {
+      "id": 760506,
+      "date": "2026-07-06",
+      "time": "19:00",
+      "utcDate": "2026-07-06T19:00Z",
+      "homeTeam": "Portugal",
+      "homeCode": "pt",
+      "homeScore": 0,
+      "awayTeam": "Spain",
+      "awayCode": "es",
+      "awayScore": 0,
+      "venue": "AT&T Stadium",
+      "city": "Arlington, Texas",
+      "status": "in_play",
+      "group": "K",
+      "stage": "ROUND_OF_16",
+      "matchday": 0,
+      "minute": "51'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -2120,29 +2144,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760506,
-      "date": "2026-07-06",
-      "time": "19:00",
-      "utcDate": "2026-07-06T19:00Z",
-      "homeTeam": "Portugal",
-      "homeCode": "pt",
-      "homeScore": 0,
-      "awayTeam": "Spain",
-      "awayCode": "es",
-      "awayScore": 0,
-      "venue": "AT&T Stadium",
-      "city": "Arlington, Texas",
-      "status": "timed",
-      "group": "K",
-      "stage": "ROUND_OF_16",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760507,
       "date": "2026-07-07",

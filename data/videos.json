@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-06T20:02:32.579Z",
+  "lastUpdated": "2026-07-06T20:14:41.731Z",
   "featured": {
-    "match": "o5rLdDeZnLo",
-    "highlight": "o5rLdDeZnLo",
+    "match": "I43WUQJFfCw",
+    "highlight": "I43WUQJFfCw",
     "interview": "oORcBt-d0o8"
   },
   "videos": [
+    {
+      "title": "Highlights | Colombia 1-0 Ghana | FIFA World Cup 2026™ - YouTube",
+      "videoId": "I43WUQJFfCw",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "Colombia",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/I43WUQJFfCw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana",
+      "source": "match-search"
+    },
+    {
+      "title": "Colombia vs. Ghana | Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "RGSDF7DDWRI",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "Colombia",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RGSDF7DDWRI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana",
+      "source": "match-search"
+    },
     {
       "title": "Alt Cast Highlights: Brazil v Norway | FIFA World Cup 2026™",
       "videoId": "o5rLdDeZnLo",
