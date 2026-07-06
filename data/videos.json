@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-06T17:45:49.474Z",
+  "lastUpdated": "2026-07-06T18:11:39.648Z",
   "featured": {
-    "match": "Vq_HqrLb3mk",
-    "highlight": "Vq_HqrLb3mk",
+    "match": "Y4Sc2oIPvNI",
+    "highlight": "Y4Sc2oIPvNI",
     "interview": "2pG0ZaNfRic"
   },
   "videos": [
+    {
+      "title": "Colombia vs Ghana Highlights | 2026 FIFA World Cup - YouTube",
+      "videoId": "Y4Sc2oIPvNI",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "Colombia",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Y4Sc2oIPvNI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana",
+      "source": "match-search"
+    },
+    {
+      "title": "Colombia vs. Ghana | Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "RGSDF7DDWRI",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "Colombia",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RGSDF7DDWRI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana",
+      "source": "match-search"
+    },
     {
       "title": "Team Feature: Colombia | \"Lucho, I Love You, Never Forget Who You Are\"",
       "videoId": "Vq_HqrLb3mk",
