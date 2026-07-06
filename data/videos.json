@@ -1,28 +1,108 @@
 {
-  "lastUpdated": "2026-07-06T08:03:54.598Z",
+  "lastUpdated": "2026-07-06T10:43:54.695Z",
   "featured": {
-    "match": "q9fXwjLYvG4",
-    "highlight": "q9fXwjLYvG4",
+    "match": "GS-b7Xllsb0",
+    "highlight": "GS-b7Xllsb0",
     "interview": "dBNfnJ6DVOE"
   },
   "videos": [
     {
-      "title": "HIGHLIGHTS - Colombia v Ghana | High Stakes Battle | FIFA World Cup 2026",
-      "videoId": "q9fXwjLYvG4",
-      "channel": "Web Search",
+      "title": "Ronaldo Scores First World Cup Knockout Goal vs. Croatia | Ref's POV | Powered by Lenovo",
+      "videoId": "GS-b7Xllsb0",
+      "channel": "FIFA",
       "publishedAt": "2026-07-06",
       "category": "Highlights",
       "team": [
-        "Colombia",
-        "Ghana"
+        "Croatia"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/q9fXwjLYvG4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/GS-b7Xllsb0/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Colombia vs Ghana",
-      "source": "match-search"
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "July 5 Matchday Recap | #FIFAWorldCup @aramco",
+      "videoId": "40BVLl-RTEA",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/40BVLl-RTEA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "Post-Match Press Conference: Mexico's Javier Aguirre On 3-2 Loss To England",
+      "videoId": "smpXB8eOwL4",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/smpXB8eOwL4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "Post-Match Press Conference: England's Thomas Tuchel On 3-2 Win Against Mexico",
+      "videoId": "zunjj_rrpqI",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/zunjj_rrpqI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "Post-Match Interviews: Mexico 2-3 England",
+      "videoId": "4UVmh1j7xQw",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4UVmh1j7xQw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "Harry Kane Goal | Mexico 2-3 England | FIFA World Cup 2026™",
+      "videoId": "V5HMKWXr6dE",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/V5HMKWXr6dE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
     },
     {
       "title": "Jude Bellingham Goal | Mexico 2-3 England | FIFA World Cup 2026™",
@@ -170,73 +250,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/GKRC_JfNFms/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria"
-    },
-    {
-      "title": "Post-Match Player Interviews | Brazil 1-2 Norway",
-      "videoId": "da_2x9CEvvQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-06",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/da_2x9CEvvQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria"
-    },
-    {
-      "title": "Haaland buries it into the net against Brazil. 🇳🇴 #FIFAWorldCupOnYT",
-      "videoId": "ex3wW88Kj_E",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-06",
-      "category": "Highlights",
-      "team": [
-        "Brazil"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ex3wW88Kj_E/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria"
-    },
-    {
-      "title": "Post-Match Press Conference: Norway's Ståle Solbakken On The 2-1 Win Over Brazil",
-      "videoId": "mxSpiEy4gt4",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-06",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/mxSpiEy4gt4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria"
-    },
-    {
-      "title": "Brazil 🆚 Norway #FIFAWorldCupOnYT",
-      "videoId": "a945oObDZgQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-06",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/a945oObDZgQ/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Switzerland vs Algeria"
@@ -393,37 +406,6 @@
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Switzerland vs Algeria"
-    },
-    {
-      "title": "Post-Match Press Conference: Brazil's Carlo Ancelotti On The 2-1 Loss To Norway",
-      "videoId": "pI3eNR45hpE",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-05",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/pI3eNR45hpE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina"
-    },
-    {
-      "title": "🗣️ \"It's about passion\", Cristiano Ronaldo. 🇵🇹 #FIFAWorldCupOnYT",
-      "videoId": "9nEBxpU08iI",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-05",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/9nEBxpU08iI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "United States vs Bosnia-Herzegovina"
     },
     {
       "title": "Herculez Gomez on FIFA suspending Folarin Balogun's red card ⚽️",
