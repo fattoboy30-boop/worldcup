@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-06T10:43:54.695Z",
+  "lastUpdated": "2026-07-06T12:15:43.267Z",
   "featured": {
-    "match": "GS-b7Xllsb0",
-    "highlight": "GS-b7Xllsb0",
+    "match": "RGSDF7DDWRI",
+    "highlight": "RGSDF7DDWRI",
     "interview": "dBNfnJ6DVOE"
   },
   "videos": [
+    {
+      "title": "Colombia vs. Ghana | Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "RGSDF7DDWRI",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "Colombia",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RGSDF7DDWRI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana",
+      "source": "match-search"
+    },
+    {
+      "title": "COLOMBIA vs GHANA | 2026 World Cup | Match Highlights",
+      "videoId": "HzWgswd_2no",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "Colombia",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/HzWgswd_2no/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana",
+      "source": "match-search"
+    },
     {
       "title": "Ronaldo Scores First World Cup Knockout Goal vs. Croatia | Ref's POV | Powered by Lenovo",
       "videoId": "GS-b7Xllsb0",
