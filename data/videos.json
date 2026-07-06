@@ -1,46 +1,78 @@
 {
-  "lastUpdated": "2026-07-06T20:14:41.731Z",
+  "lastUpdated": "2026-07-06T22:16:04.058Z",
   "featured": {
-    "match": "I43WUQJFfCw",
-    "highlight": "I43WUQJFfCw",
-    "interview": "oORcBt-d0o8"
+    "match": "fK26a8mAXSw",
+    "highlight": "fK26a8mAXSw",
+    "interview": "CW34mOEM2-E"
   },
   "videos": [
     {
-      "title": "Highlights | Colombia 1-0 Ghana | FIFA World Cup 2026™ - YouTube",
-      "videoId": "I43WUQJFfCw",
-      "channel": "Web Search",
+      "title": "Egypt Train Before Argentina | FIFA World Cup 2026™",
+      "videoId": "fK26a8mAXSw",
+      "channel": "FIFA",
       "publishedAt": "2026-07-06",
       "category": "Highlights",
       "team": [
-        "Colombia",
-        "Ghana"
+        "Argentina",
+        "Egypt"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/I43WUQJFfCw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/fK26a8mAXSw/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Colombia vs Ghana",
-      "source": "match-search"
+      "fixtureTeams": "Switzerland vs Algeria"
     },
     {
-      "title": "Colombia vs. Ghana | Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "RGSDF7DDWRI",
-      "channel": "Web Search",
+      "title": "WATCH LIVE | Portugal v Spain | Round of 16 | FIFA World Cup 2026™",
+      "videoId": "_PATD6saheU",
+      "channel": "FIFA",
       "publishedAt": "2026-07-06",
       "category": "Highlights",
       "team": [
-        "Colombia",
-        "Ghana"
+        "Spain",
+        "Portugal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/RGSDF7DDWRI/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/_PATD6saheU/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Colombia vs Ghana",
-      "source": "match-search"
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "Egypt On Playing Argentina | Hossam Hassan Takes Questions",
+      "videoId": "e_G7zaxxKbw",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/e_G7zaxxKbw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "Highlights | Brazil 1-2 Norway | FIFA World Cup 2026™",
+      "videoId": "42ovN5rW79U",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/42ovN5rW79U/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
     },
     {
       "title": "Alt Cast Highlights: Brazil v Norway | FIFA World Cup 2026™",
@@ -216,49 +248,52 @@
       "fixtureTeams": "Switzerland vs Algeria"
     },
     {
-      "title": "July 5 Matchday Recap | #FIFAWorldCup @aramco",
-      "videoId": "40BVLl-RTEA",
-      "channel": "FIFA",
+      "title": "HUGE DISAPPOINTMENT for Portugal⁉️ REACTION to Spain's Round of 16 win at the World Cup | ESPN FC",
+      "videoId": "CW34mOEM2-E",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-06",
-      "category": "Highlights",
-      "team": [],
+      "category": "Viral",
+      "team": [
+        "Spain",
+        "Portugal"
+      ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/40BVLl-RTEA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/CW34mOEM2-E/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Switzerland vs Algeria"
     },
     {
-      "title": "Post-Match Press Conference: Mexico's Javier Aguirre On 3-2 Loss To England",
-      "videoId": "smpXB8eOwL4",
-      "channel": "FIFA",
+      "title": "RONALDO HEARTBREAK! Portugal vs. Spain FULL LIVE REACTION [Round of 16] | ESPN FC",
+      "videoId": "_RjAAI2p1WM",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-06",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [
-        "England",
-        "Mexico"
+        "Spain",
+        "Portugal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/smpXB8eOwL4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/_RjAAI2p1WM/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Switzerland vs Algeria"
     },
     {
-      "title": "Post-Match Press Conference: England's Thomas Tuchel On 3-2 Win Against Mexico",
-      "videoId": "zunjj_rrpqI",
-      "channel": "FIFA",
+      "title": "Ferran Torres assists Spain’s winning goal vs. Portugal in the World Cup Round of 16 🔥 | ESPN FC",
+      "videoId": "vwLbwkNqWXU",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-06",
       "category": "Highlights",
       "team": [
-        "England",
-        "Mexico"
+        "Spain",
+        "Portugal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/zunjj_rrpqI/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/vwLbwkNqWXU/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Switzerland vs Algeria"
@@ -449,70 +484,6 @@
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Switzerland vs Algeria"
-    },
-    {
-      "title": "Shaka Hislop questions the integrity of FIFA & the sport after Balogun red card suspension | ESPN FC",
-      "videoId": "4OT-eY98r5g",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-06",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/4OT-eY98r5g/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria"
-    },
-    {
-      "title": "‘BRAZIL ARE A MESS’ 😳 Is Ancelotti to blame for Brazil’s World Cup struggles? | ESPN FC",
-      "videoId": "o9LBAsQ1Vgs",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-06",
-      "category": "Highlights",
-      "team": [
-        "Brazil"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/o9LBAsQ1Vgs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria"
-    },
-    {
-      "title": "Mexico vs. England FULL REACTION 🍿 Jude Bellingham’s brace powers run to quarters | ESPN FC",
-      "videoId": "OEhyXSz-eEw",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-06",
-      "category": "Viral",
-      "team": [
-        "England",
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/OEhyXSz-eEw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria"
-    },
-    {
-      "title": "WATCH LIVE | Portugal v Spain | Round of 16 | FIFA World Cup 2026™",
-      "videoId": "_PATD6saheU",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-03",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_PATD6saheU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Netherlands vs Morocco"
     }
   ]
 }
