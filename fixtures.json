@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T23:07:18.750Z",
+  "lastUpdated": "2026-07-07T00:18:31.861Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2336,14 +2336,14 @@
       "homeScore": 0,
       "awayTeam": "Belgium",
       "awayCode": "be",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "Lumen Field",
       "city": "Seattle, Washington",
-      "status": "timed",
+      "status": "in_play",
       "group": "D",
       "stage": "ROUND_OF_16",
       "matchday": 0,
-      "minute": null,
+      "minute": "17'",
       "halfTime": [
         null,
         null

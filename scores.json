@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-07-06T23:07:18.747Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-07-07T00:18:31.859Z",
+  "liveMatches": [
+    {
+      "id": 760507,
+      "date": "2026-07-07",
+      "time": "00:00",
+      "utcDate": "2026-07-07T00:00Z",
+      "homeTeam": "United States",
+      "homeCode": "un",
+      "homeScore": 0,
+      "awayTeam": "Belgium",
+      "awayCode": "be",
+      "awayScore": 1,
+      "venue": "Lumen Field",
+      "city": "Seattle, Washington",
+      "status": "in_play",
+      "group": "D",
+      "stage": "ROUND_OF_16",
+      "matchday": 0,
+      "minute": "17'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -2143,29 +2167,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760507,
-      "date": "2026-07-07",
-      "time": "00:00",
-      "utcDate": "2026-07-07T00:00Z",
-      "homeTeam": "United States",
-      "homeCode": "un",
-      "homeScore": 0,
-      "awayTeam": "Belgium",
-      "awayCode": "be",
-      "awayScore": 0,
-      "venue": "Lumen Field",
-      "city": "Seattle, Washington",
-      "status": "timed",
-      "group": "D",
-      "stage": "ROUND_OF_16",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760509,
       "date": "2026-07-07",
