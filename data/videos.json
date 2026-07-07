@@ -1,46 +1,27 @@
 {
-  "lastUpdated": "2026-07-07T13:34:03.741Z",
+  "lastUpdated": "2026-07-07T14:44:14.287Z",
   "featured": {
-    "match": "G3C2kLNsIvo",
-    "highlight": "G3C2kLNsIvo",
+    "match": "Zw2seaa7SiQ",
+    "highlight": "Zw2seaa7SiQ",
     "interview": "FudW6SaVtJM"
   },
   "videos": [
     {
-      "title": "Brazil vs Norway 1-2 Highlights | 2026 World Cup Goals",
-      "videoId": "G3C2kLNsIvo",
-      "channel": "Web Search",
+      "title": "Alt Cast Highlights: Portugal v Spain | FIFA World Cup 2026™",
+      "videoId": "Zw2seaa7SiQ",
+      "channel": "FIFA",
       "publishedAt": "2026-07-07",
       "category": "Highlights",
       "team": [
-        "Brazil",
-        "Norway"
+        "Spain",
+        "Portugal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/G3C2kLNsIvo/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Zw2seaa7SiQ/mqdefault.jpg",
       "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Brazil vs Norway",
-      "source": "match-search"
-    },
-    {
-      "title": "Brazil vs Norway Highlights 2026 FIFA World Cup ... - YouTube",
-      "videoId": "vpcukTVSD8Q",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-07",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vpcukTVSD8Q/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Brazil vs Norway",
-      "source": "match-search"
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
     },
     {
       "title": "World Cup Rematch: France 2-0 Morocco | 2022 Semi-Final",
@@ -275,18 +256,101 @@
       "fixtureTeams": "Colombia vs Ghana"
     },
     {
-      "title": "Switzerland On Playing Colombia | Murat Yakin & Nico Elvedi Take Questions",
-      "videoId": "4XYr-ZqUpXY",
-      "channel": "FIFA",
+      "title": "USMNT FAILURE?! Cristiano Ronaldo’s legacy + Ilkay Gundogan joins! | ESPN FC",
+      "videoId": "R3bg7SMR_cU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/R3bg7SMR_cU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "Rodri apologizes to Bernardo Silva 👀 'Don't apologize baby, CELEBRATE!' - Ale Moreno | ESPN FC",
+      "videoId": "2Ex_-jTvs_s",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/2Ex_-jTvs_s/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "Why would Mauricio Pochettino want to stay?! - Steve Nicol | ESPN FC",
+      "videoId": "MZRdNXwe2fU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/MZRdNXwe2fU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "Cristiano Ronaldo and Portugal’s World Cup destiny was ‘FORETOLD’ | ESPN FC",
+      "videoId": "qBzM8p2GBmw",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-07",
       "category": "Highlights",
       "team": [
-        "Colombia",
-        "Switzerland"
+        "Portugal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/4XYr-ZqUpXY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/qBzM8p2GBmw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "Steve Nicol DID NOT HEED Jermaine Jones’ USMNT warning 🍿 | ESPN FC",
+      "videoId": "OLNmxWWgOvA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/OLNmxWWgOvA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "No idea how bro did this 🔥 (via @Bundesliga/TT)",
+      "videoId": "1NcZKl_bmGA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/1NcZKl_bmGA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "Brek Shea thinks the ‘MOMENT WAS TOO BIG’ for the USMNT | SportsCenter",
+      "videoId": "8fDyijNBM94",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/8fDyijNBM94/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Colombia vs Ghana"
@@ -415,119 +479,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/qceSOU-wZ9M/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria"
-    },
-    {
-      "title": "HUGE DISAPPOINTMENT for Portugal⁉️ REACTION to Spain's Round of 16 win at the World Cup | ESPN FC",
-      "videoId": "CW34mOEM2-E",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-06",
-      "category": "Viral",
-      "team": [
-        "Spain",
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/CW34mOEM2-E/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria"
-    },
-    {
-      "title": "RONALDO HEARTBREAK! Portugal vs. Spain FULL LIVE REACTION [Round of 16] | ESPN FC",
-      "videoId": "_RjAAI2p1WM",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-06",
-      "category": "Viral",
-      "team": [
-        "Spain",
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_RjAAI2p1WM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria"
-    },
-    {
-      "title": "Ferran Torres assists Spain’s winning goal vs. Portugal in the World Cup Round of 16 🔥 | ESPN FC",
-      "videoId": "vwLbwkNqWXU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-06",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vwLbwkNqWXU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria"
-    },
-    {
-      "title": "‘A MASSIVE FAILURE!’ 😬🇧🇷 Brazil crash out & more World Cup reaction | ESPN FC",
-      "videoId": "oORcBt-d0o8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-06",
-      "category": "Viral",
-      "team": [
-        "Brazil"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/oORcBt-d0o8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria"
-    },
-    {
-      "title": "This moment can never be forgotten 😆 (via @IShowSpeed/TT)",
-      "videoId": "kaRyG0slWFk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-06",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/kaRyG0slWFk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria"
-    },
-    {
-      "title": "‘He looked like a man possessed’🔥",
-      "videoId": "PRq7Hx8Cdko",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-06",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PRq7Hx8Cdko/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria"
-    },
-    {
-      "title": "England vs. Mexico REACTION, Haaland propels Norway + Balogun’s reprieve | ESPN FC",
-      "videoId": "2pG0ZaNfRic",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-06",
-      "category": "Viral",
-      "team": [
-        "England",
-        "Mexico",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/2pG0ZaNfRic/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Switzerland vs Algeria"
