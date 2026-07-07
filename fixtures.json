@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T13:33:42.336Z",
+  "lastUpdated": "2026-07-07T16:03:09.314Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2364,11 +2364,11 @@
       "awayScore": 0,
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta, Georgia",
-      "status": "timed",
+      "status": "in_play",
       "group": "J",
       "stage": "ROUND_OF_16",
       "matchday": 0,
-      "minute": null,
+      "minute": "2'",
       "halfTime": [
         null,
         null
