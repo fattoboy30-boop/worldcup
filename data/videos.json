@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-07T20:00:29.091Z",
+  "lastUpdated": "2026-07-07T20:24:55.166Z",
   "featured": {
-    "match": "Njg9l2VmzjY",
-    "highlight": "Njg9l2VmzjY",
+    "match": "G3C2kLNsIvo",
+    "highlight": "G3C2kLNsIvo",
     "interview": "KqijsClzyhw"
   },
   "videos": [
+    {
+      "title": "Brazil vs Norway 1-2 Highlights | 2026 World Cup Goals",
+      "videoId": "G3C2kLNsIvo",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/G3C2kLNsIvo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Brazil vs Norway",
+      "source": "match-search"
+    },
+    {
+      "title": "Brazil vs Norway 1-2 || Extended Highlights & All Goals || FIFA World ...",
+      "videoId": "eE4K0Mn6UqU",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/eE4K0Mn6UqU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Brazil vs Norway",
+      "source": "match-search"
+    },
     {
       "title": "Argentina 🆚 Egypt #FIFAWorldCupOnYT",
       "videoId": "Njg9l2VmzjY",

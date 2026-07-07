@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T20:13:55.467Z",
+  "lastUpdated": "2026-07-07T20:24:31.349Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2393,7 +2393,7 @@
       "group": "B",
       "stage": "ROUND_OF_16",
       "matchday": 0,
-      "minute": "13'",
+      "minute": "24'",
       "halfTime": [
         null,
         null
@@ -2481,8 +2481,8 @@
       "date": "2026-07-12",
       "time": "01:00",
       "utcDate": "2026-07-12T01:00Z",
-      "homeTeam": "Round of 16 7 Winner",
-      "homeCode": "un",
+      "homeTeam": "Argentina",
+      "homeCode": "ar",
       "homeScore": 0,
       "awayTeam": "Round of 16 8 Winner",
       "awayCode": "un",
@@ -2490,7 +2490,7 @@
       "venue": "GEHA Field at Arrowhead Stadium",
       "city": "Kansas City, Missouri",
       "status": "timed",
-      "group": null,
+      "group": "J",
       "stage": "QUARTERFINALS",
       "matchday": 0,
       "minute": null,
@@ -2498,7 +2498,7 @@
         null,
         null
       ],
-      "homeFlag": "https://flagcdn.com/w160/un.png",
+      "homeFlag": "https://flagcdn.com/w160/ar.png",
       "awayFlag": "https://flagcdn.com/w160/un.png"
     },
     {
