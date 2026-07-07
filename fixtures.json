@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T22:44:54.763Z",
+  "lastUpdated": "2026-07-07T23:00:02.252Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2389,11 +2389,11 @@
       "awayScore": 0,
       "venue": "BC Place",
       "city": "Vancouver",
-      "status": "in_play",
+      "status": "finished",
       "group": "B",
       "stage": "ROUND_OF_16",
       "matchday": 0,
-      "minute": "120'",
+      "minute": null,
       "halfTime": [
         null,
         null

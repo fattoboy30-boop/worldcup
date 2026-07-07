@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-07T22:12:24.685Z",
+  "lastUpdated": "2026-07-07T23:00:27.936Z",
   "featured": {
-    "match": "eJejsSoO1go",
-    "highlight": "eJejsSoO1go",
+    "match": "ygrvVTlNBQY",
+    "highlight": "0wPkptiNROM",
     "interview": "RexQO3suF80"
   },
   "videos": [
+    {
+      "title": "Brazil vs Norway | 2026 World Cup Highlights | Full Match Highlights ...",
+      "videoId": "0wPkptiNROM",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-07",
+      "category": "Full Match",
+      "team": [
+        "Brazil",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0wPkptiNROM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Brazil vs Norway",
+      "source": "match-search"
+    },
+    {
+      "title": "Brazil vs. Norway Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "ygrvVTlNBQY",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ygrvVTlNBQY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Brazil vs Norway",
+      "source": "match-search"
+    },
     {
       "title": "Post-Match Press Conference: Argentina's Lionel Scaloni On 3-2 Win Over Egypt",
       "videoId": "eJejsSoO1go",

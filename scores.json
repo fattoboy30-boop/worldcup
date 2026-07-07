@@ -1,30 +1,6 @@
 {
-  "lastUpdated": "2026-07-07T22:44:54.762Z",
-  "liveMatches": [
-    {
-      "id": 760508,
-      "date": "2026-07-07",
-      "time": "20:00",
-      "utcDate": "2026-07-07T20:00Z",
-      "homeTeam": "Switzerland",
-      "homeCode": "ch",
-      "homeScore": 0,
-      "awayTeam": "Colombia",
-      "awayCode": "co",
-      "awayScore": 0,
-      "venue": "BC Place",
-      "city": "Vancouver",
-      "status": "in_play",
-      "group": "B",
-      "stage": "ROUND_OF_16",
-      "matchday": 0,
-      "minute": "120'",
-      "halfTime": [
-        null,
-        null
-      ]
-    }
-  ],
+  "lastUpdated": "2026-07-07T23:00:02.249Z",
+  "liveMatches": [],
   "recentResults": [
     {
       "id": 760415,
@@ -2203,6 +2179,29 @@
       "city": "Atlanta, Georgia",
       "status": "finished",
       "group": "J",
+      "stage": "ROUND_OF_16",
+      "matchday": 0,
+      "minute": null,
+      "halfTime": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": 760508,
+      "date": "2026-07-07",
+      "time": "20:00",
+      "utcDate": "2026-07-07T20:00Z",
+      "homeTeam": "Switzerland",
+      "homeCode": "ch",
+      "homeScore": 0,
+      "awayTeam": "Colombia",
+      "awayCode": "co",
+      "awayScore": 0,
+      "venue": "BC Place",
+      "city": "Vancouver",
+      "status": "finished",
+      "group": "B",
       "stage": "ROUND_OF_16",
       "matchday": 0,
       "minute": null,
