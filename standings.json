@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T00:19:48.007Z",
+  "lastUpdated": "2026-07-07T04:28:12.222Z",
   "groups": {
     "A": {
       "teams": [
@@ -183,13 +183,13 @@
         {
           "name": "United States",
           "code": "un",
-          "played": 4,
+          "played": 5,
           "won": 3,
           "drawn": 0,
-          "lost": 1,
-          "gf": 10,
-          "ga": 4,
-          "gd": 6,
+          "lost": 2,
+          "gf": 11,
+          "ga": 8,
+          "gd": 3,
           "points": 9,
           "position": 1
         },
@@ -220,6 +220,19 @@
           "position": 3
         },
         {
+          "name": "Belgium",
+          "code": "be",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 4,
+          "ga": 1,
+          "gd": 3,
+          "points": 3,
+          "position": 4
+        },
+        {
           "name": "France",
           "code": "fr",
           "played": 1,
@@ -230,7 +243,7 @@
           "ga": 0,
           "gd": 1,
           "points": 3,
-          "position": 4
+          "position": 5
         },
         {
           "name": "Türkiye",
@@ -243,7 +256,7 @@
           "ga": 5,
           "gd": -2,
           "points": 3,
-          "position": 5
+          "position": 6
         },
         {
           "name": "Egypt",
@@ -256,7 +269,7 @@
           "ga": 1,
           "gd": 0,
           "points": 1,
-          "position": 6
+          "position": 7
         },
         {
           "name": "Bosnia-Herzegovina",
@@ -269,7 +282,7 @@
           "ga": 2,
           "gd": -2,
           "points": 0,
-          "position": 7
+          "position": 8
         }
       ]
     },

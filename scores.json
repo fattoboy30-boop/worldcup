@@ -1,30 +1,6 @@
 {
-  "lastUpdated": "2026-07-07T00:19:48.001Z",
-  "liveMatches": [
-    {
-      "id": 760507,
-      "date": "2026-07-07",
-      "time": "00:00",
-      "utcDate": "2026-07-07T00:00Z",
-      "homeTeam": "United States",
-      "homeCode": "un",
-      "homeScore": 0,
-      "awayTeam": "Belgium",
-      "awayCode": "be",
-      "awayScore": 1,
-      "venue": "Lumen Field",
-      "city": "Seattle, Washington",
-      "status": "in_play",
-      "group": "D",
-      "stage": "ROUND_OF_16",
-      "matchday": 0,
-      "minute": "19'",
-      "halfTime": [
-        null,
-        null
-      ]
-    }
-  ],
+  "lastUpdated": "2026-07-07T04:28:12.217Z",
+  "liveMatches": [],
   "recentResults": [
     {
       "id": 760415,
@@ -2164,6 +2140,29 @@
         null,
         null
       ]
+    },
+    {
+      "id": 760507,
+      "date": "2026-07-07",
+      "time": "00:00",
+      "utcDate": "2026-07-07T00:00Z",
+      "homeTeam": "United States",
+      "homeCode": "un",
+      "homeScore": 1,
+      "awayTeam": "Belgium",
+      "awayCode": "be",
+      "awayScore": 4,
+      "venue": "Lumen Field",
+      "city": "Seattle, Washington",
+      "status": "finished",
+      "group": "D",
+      "stage": "ROUND_OF_16",
+      "matchday": 0,
+      "minute": null,
+      "halfTime": [
+        null,
+        null
+      ]
     }
   ],
   "upcomingMatches": [
@@ -2244,8 +2243,8 @@
       "homeTeam": "Spain",
       "homeCode": "es",
       "homeScore": 0,
-      "awayTeam": "Round of 16 6 Winner",
-      "awayCode": "un",
+      "awayTeam": "Belgium",
+      "awayCode": "be",
       "awayScore": 0,
       "venue": "SoFi Stadium",
       "city": "Inglewood, California",
