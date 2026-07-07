@@ -1,64 +1,27 @@
 {
-  "lastUpdated": "2026-07-07T21:53:11.646Z",
+  "lastUpdated": "2026-07-07T22:12:24.685Z",
   "featured": {
-    "match": "G3C2kLNsIvo",
-    "highlight": "0wPkptiNROM",
-    "interview": "KqijsClzyhw"
+    "match": "eJejsSoO1go",
+    "highlight": "eJejsSoO1go",
+    "interview": "RexQO3suF80"
   },
   "videos": [
     {
-      "title": "Brazil vs Norway | 2026 World Cup Highlights | Full Match Highlights ...",
-      "videoId": "0wPkptiNROM",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-07",
-      "category": "Full Match",
-      "team": [
-        "Brazil",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/0wPkptiNROM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Brazil vs Norway",
-      "source": "match-search"
-    },
-    {
-      "title": "Brazil vs Norway 1-2 Highlights | 2026 World Cup Goals",
-      "videoId": "G3C2kLNsIvo",
-      "channel": "Web Search",
+      "title": "Post-Match Press Conference: Argentina's Lionel Scaloni On 3-2 Win Over Egypt",
+      "videoId": "eJejsSoO1go",
+      "channel": "FIFA",
       "publishedAt": "2026-07-07",
       "category": "Highlights",
       "team": [
-        "Brazil",
-        "Norway"
+        "Argentina",
+        "Egypt"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/G3C2kLNsIvo/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/eJejsSoO1go/mqdefault.jpg",
       "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Brazil vs Norway",
-      "source": "match-search"
-    },
-    {
-      "title": "Brazil vs Norway 1-2 || Extended Highlights & All Goals || FIFA World ...",
-      "videoId": "eE4K0Mn6UqU",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-07",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/eE4K0Mn6UqU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Brazil vs Norway",
-      "source": "match-search"
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
     },
     {
       "title": "Argentina 🆚 Egypt #FIFAWorldCupOnYT",
@@ -296,18 +259,29 @@
       "fixtureTeams": "Colombia vs Ghana"
     },
     {
-      "title": "Lukaku scores Belgium fourth goal against USA. #FIFAWorldCupOnYT",
-      "videoId": "Ml2adM3VCqc",
-      "channel": "FIFA",
+      "title": "ESPN FC provides World Cup POWER RANKINGS 👀",
+      "videoId": "6fmGDKluYus",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-07",
       "category": "Highlights",
-      "team": [
-        "Belgium",
-        "USA"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Ml2adM3VCqc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/6fmGDKluYus/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "The reaction of Norwegian fans in Oslo 🥳🧤",
+      "videoId": "RexQO3suF80",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-07",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RexQO3suF80/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Colombia vs Ghana"
@@ -507,36 +481,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/4M-Dd4q0VK4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Colombia vs Ghana"
-    },
-    {
-      "title": "Colombian fans travel WELL 🇨🇴 (via laporti10/IG)",
-      "videoId": "0f_Dru9yiBM",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-07",
-      "category": "Highlights",
-      "team": [
-        "Colombia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/0f_Dru9yiBM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Colombia vs Ghana"
-    },
-    {
-      "title": "A dedicated fan 😅",
-      "videoId": "bPSuwhj7pfs",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-07",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/bPSuwhj7pfs/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Colombia vs Ghana"
