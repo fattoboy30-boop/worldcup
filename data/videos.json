@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-07T08:26:07.873Z",
+  "lastUpdated": "2026-07-07T11:19:21.398Z",
   "featured": {
-    "match": "cOzzYEJrpgE",
-    "highlight": "cOzzYEJrpgE",
+    "match": "G3C2kLNsIvo",
+    "highlight": "G3C2kLNsIvo",
     "interview": "FudW6SaVtJM"
   },
   "videos": [
+    {
+      "title": "Brazil vs Norway 1-2 Highlights | 2026 World Cup Goals",
+      "videoId": "G3C2kLNsIvo",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/G3C2kLNsIvo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Brazil vs Norway",
+      "source": "match-search"
+    },
+    {
+      "title": "Brazil vs Norway Highlights 2026 FIFA World Cup ... - YouTube",
+      "videoId": "vpcukTVSD8Q",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vpcukTVSD8Q/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Brazil vs Norway",
+      "source": "match-search"
+    },
     {
       "title": "Colombia On Playing Switzerland | Nestor Lorenzo Takes Questions",
       "videoId": "cOzzYEJrpgE",
