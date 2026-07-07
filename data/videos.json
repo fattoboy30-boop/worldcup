@@ -1,46 +1,95 @@
 {
-  "lastUpdated": "2026-07-06T23:06:31.028Z",
+  "lastUpdated": "2026-07-07T00:11:45.775Z",
   "featured": {
-    "match": "RGSDF7DDWRI",
-    "highlight": "RGSDF7DDWRI",
+    "match": "2rrDiyqbZMc",
+    "highlight": "2rrDiyqbZMc",
     "interview": "CW34mOEM2-E"
   },
   "videos": [
     {
-      "title": "Colombia vs. Ghana | Full Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "RGSDF7DDWRI",
-      "channel": "Web Search",
+      "title": "Post-Match Player Interviews | Portugal 0-1 Spain",
+      "videoId": "2rrDiyqbZMc",
+      "channel": "FIFA",
       "publishedAt": "2026-07-06",
       "category": "Highlights",
       "team": [
-        "Colombia",
-        "Ghana"
+        "Spain",
+        "Portugal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/RGSDF7DDWRI/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/2rrDiyqbZMc/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Colombia vs Ghana",
-      "source": "match-search"
+      "fixtureTeams": "Switzerland vs Algeria"
     },
     {
-      "title": "Colombia vs Ghana | Match Highlights | FIFA World Cup 2026™",
-      "videoId": "2Lw8B3RwITw",
-      "channel": "Web Search",
+      "title": "Post-Match Press Conference: Spain's Luis de la Fuente On 1-0 Win Over Portugal",
+      "videoId": "_9NXX7_iy3E",
+      "channel": "FIFA",
       "publishedAt": "2026-07-06",
       "category": "Highlights",
       "team": [
-        "Colombia",
-        "Ghana"
+        "Spain",
+        "Portugal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/2Lw8B3RwITw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/_9NXX7_iy3E/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
-      "fixtureTeams": "Colombia vs Ghana",
-      "source": "match-search"
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "Post-Match Press Conference: Portugal's Roberto Martinez On The 1-0 Loss To Spain",
+      "videoId": "RFTwR_L_v3E",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RFTwR_L_v3E/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "Portugal 🆚 Spain #FIFAWorldCupOnYT",
+      "videoId": "GBkgPGKMjc4",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/GBkgPGKMjc4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "Mikel Merino Goal | Portugal 0-1 Spain | FIFA World Cup 2026™",
+      "videoId": "xhLHMcq5BtE",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xhLHMcq5BtE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
     },
     {
       "title": "Egypt Train Before Argentina | FIFA World Cup 2026™",
@@ -204,81 +253,50 @@
       "fixtureTeams": "Switzerland vs Algeria"
     },
     {
-      "title": "Team Feature: Colombia | \"Lucho, I Love You, Never Forget Who You Are\"",
-      "videoId": "Vq_HqrLb3mk",
-      "channel": "FIFA",
+      "title": "MLS Commissioner Don Garber on the World Cup and the growth of soccer in the USA ⚽️ | SportsCenter",
+      "videoId": "l3oFiMTFcdk",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-06",
       "category": "Highlights",
       "team": [
-        "Colombia"
+        "USA"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Vq_HqrLb3mk/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/l3oFiMTFcdk/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Switzerland vs Algeria"
     },
     {
-      "title": "Team Feature: Switzerland | Lessons Learned Will Not Be Forgotten",
-      "videoId": "Uiy3V-QFMzU",
-      "channel": "FIFA",
+      "title": "Should Ronaldo have been subbed off for Gonçalo Ramos in Portugal's Round of 16 loss to Spain?",
+      "videoId": "rmvru92HFDE",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-06",
       "category": "Highlights",
       "team": [
-        "Switzerland"
+        "Spain",
+        "Portugal"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Uiy3V-QFMzU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/rmvru92HFDE/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Switzerland vs Algeria"
     },
     {
-      "title": "Team Feature: Egypt | Salah - King Of Egypt",
-      "videoId": "5CsohCgJ_tA",
-      "channel": "FIFA",
+      "title": "The latest on FIFA suspending Folarin Balogun’s red card and Belgium’s appeal | SportsCenter",
+      "videoId": "qceSOU-wZ9M",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-06",
       "category": "Highlights",
       "team": [
-        "Egypt"
+        "Belgium"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/5CsohCgJ_tA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria"
-    },
-    {
-      "title": "Team Feature: Argentina | The Power And The Passion Of A Nation",
-      "videoId": "TFAKbuGVNHc",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-06",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/TFAKbuGVNHc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria"
-    },
-    {
-      "title": "Ronaldo Scores First World Cup Knockout Goal vs. Croatia | Ref's POV | Powered by Lenovo",
-      "videoId": "GS-b7Xllsb0",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-06",
-      "category": "Highlights",
-      "team": [
-        "Croatia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/GS-b7Xllsb0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/qceSOU-wZ9M/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Switzerland vs Algeria"
@@ -469,54 +487,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/bHdoXhyifyc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria"
-    },
-    {
-      "title": "Round of 16 Reaction 🔥 England & Norway set for World Cup showdown | ESPN FC Full Show",
-      "videoId": "RqnrMbM9Iqg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-06",
-      "category": "Viral",
-      "team": [
-        "England",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/RqnrMbM9Iqg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria"
-    },
-    {
-      "title": "Is it coming home!? | ESPN FC Extra Time",
-      "videoId": "broOobbgAjE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-06",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/broOobbgAjE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Switzerland vs Algeria"
-    },
-    {
-      "title": "Norway vs. England in the 2026 World Cup Quarterfinals 🍿 Preview and predictions | ESPN FC",
-      "videoId": "IjIobmU3QQ4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-06",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/IjIobmU3QQ4/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Switzerland vs Algeria"
