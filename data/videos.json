@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-07T00:11:45.775Z",
+  "lastUpdated": "2026-07-07T00:20:03.063Z",
   "featured": {
-    "match": "2rrDiyqbZMc",
-    "highlight": "2rrDiyqbZMc",
+    "match": "vpcukTVSD8Q",
+    "highlight": "vpcukTVSD8Q",
     "interview": "CW34mOEM2-E"
   },
   "videos": [
+    {
+      "title": "Brazil vs Norway Highlights 2026 FIFA World Cup ... - YouTube",
+      "videoId": "vpcukTVSD8Q",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vpcukTVSD8Q/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Brazil vs Norway",
+      "source": "match-search"
+    },
+    {
+      "title": "Ivory Coast v Norway | Highlights | FIFA WORLD CUP 26 - YouTube",
+      "videoId": "e7D7zXg2hzg",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [
+        "Ivory Coast",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/e7D7zXg2hzg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Brazil vs Norway",
+      "source": "match-search"
+    },
     {
       "title": "Post-Match Player Interviews | Portugal 0-1 Spain",
       "videoId": "2rrDiyqbZMc",
