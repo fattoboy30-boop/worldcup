@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-07-07T20:24:55.166Z",
+  "lastUpdated": "2026-07-07T21:53:11.646Z",
   "featured": {
     "match": "G3C2kLNsIvo",
-    "highlight": "G3C2kLNsIvo",
+    "highlight": "0wPkptiNROM",
     "interview": "KqijsClzyhw"
   },
   "videos": [
+    {
+      "title": "Brazil vs Norway | 2026 World Cup Highlights | Full Match Highlights ...",
+      "videoId": "0wPkptiNROM",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-07",
+      "category": "Full Match",
+      "team": [
+        "Brazil",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0wPkptiNROM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Brazil vs Norway",
+      "source": "match-search"
+    },
     {
       "title": "Brazil vs Norway 1-2 Highlights | 2026 World Cup Goals",
       "videoId": "G3C2kLNsIvo",
