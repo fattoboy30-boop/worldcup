@@ -1,28 +1,500 @@
 {
-  "lastUpdated": "2026-07-07T08:03:02.113Z",
+  "lastUpdated": "2026-07-07T08:26:07.873Z",
   "featured": {
-    "match": "G3C2kLNsIvo",
-    "highlight": "G3C2kLNsIvo",
-    "interview": "G3C2kLNsIvo"
+    "match": "cOzzYEJrpgE",
+    "highlight": "cOzzYEJrpgE",
+    "interview": "FudW6SaVtJM"
   },
   "videos": [
     {
-      "title": "Brazil vs Norway 1-2 Highlights | 2026 World Cup Goals",
-      "videoId": "G3C2kLNsIvo",
-      "channel": "Web Search",
+      "title": "Colombia On Playing Switzerland | Nestor Lorenzo Takes Questions",
+      "videoId": "cOzzYEJrpgE",
+      "channel": "FIFA",
       "publishedAt": "2026-07-07",
       "category": "Highlights",
       "team": [
-        "Brazil",
+        "Colombia",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cOzzYEJrpgE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "July 6 Matchday Recap | #FIFAWorldCup @aramco",
+      "videoId": "rzYRjJCMmqs",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/rzYRjJCMmqs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "Post-Match Press Conference: Belgium's Rudi Garcia On 4-1 Win Against The USA",
+      "videoId": "c8AGFTALLO0",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [
+        "Belgium",
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/c8AGFTALLO0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "Post-Match Press Conference: USA's Mauricio Pochettino On 4-1 Defeat To Belgium",
+      "videoId": "jlNZRrw8Vc4",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [
+        "Belgium",
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jlNZRrw8Vc4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "Post-Match Player Interviews: USA 1-4 Belgium",
+      "videoId": "N_UCbRcr3sY",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [
+        "Belgium",
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/N_UCbRcr3sY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "Switzerland Train Before Colombia | FIFA World Cup 2026™",
+      "videoId": "Alohjsl9B8Y",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [
+        "Colombia",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Alohjsl9B8Y/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "Romelu Lukaku Goal | USA 1-4 Belgium | FIFA World Cup 2026™",
+      "videoId": "tavq8elKZn0",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [
+        "Belgium",
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tavq8elKZn0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "Charles De Ketelaere Goal | USA 1-4 Belgium",
+      "videoId": "YDC7xjDAwvU",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [
+        "Belgium",
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/YDC7xjDAwvU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "Lukaku scores Belgium fourth goal against USA. #FIFAWorldCupOnYT",
+      "videoId": "Ml2adM3VCqc",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [
+        "Belgium",
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Ml2adM3VCqc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "De Ketelaere opens the scoring for Belgium against USA. #FIFAWorldCupOnYT",
+      "videoId": "AV479pTAxe8",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [
+        "Belgium",
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/AV479pTAxe8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "USA 🆚 Belgium #FIFAWorldCupOnYT",
+      "videoId": "xV9SXf_cun4",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [
+        "Belgium",
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xV9SXf_cun4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "Colombia Train Before Switzerland | FIFA World Cup 2026™",
+      "videoId": "Rh2gsKmjRfo",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [
+        "Colombia",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Rh2gsKmjRfo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "Atlas turned the halftime into a moment. 🤖🔥",
+      "videoId": "rvqOCR77_CI",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/rvqOCR77_CI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "Switzerland On Playing Colombia | Murat Yakin & Nico Elvedi Take Questions",
+      "videoId": "4XYr-ZqUpXY",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [
+        "Colombia",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4XYr-ZqUpXY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "Highlights | Mexico 2-3 England | FIFA World Cup 2026™",
+      "videoId": "ydx1L0aDj_c",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ydx1L0aDj_c/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "Were American pundits too positive about USMNT’s chances to beat Belgium? | ESPN FC Extra Time",
+      "videoId": "kh-jDNC9_I4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/kh-jDNC9_I4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "FULL REACTION to USMNT’s defeat vs. Belgium in World Cup Round of 16 | ESPN FC",
+      "videoId": "FudW6SaVtJM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-07",
+      "category": "Viral",
+      "team": [
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/FudW6SaVtJM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "Should Mauricio Pochettino be extended after USMNT's elimination from the World Cup? | ESPN FC",
+      "videoId": "awgZ8o0maTU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/awgZ8o0maTU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "Belgium eliminates USMNT from World Cup 👀 ‘A huge disappointment’ – Klinsmann | ESPN FC",
+      "videoId": "NrEbQ9UKNIk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/NrEbQ9UKNIk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "Argentina Take On Egypt in the Round of 16 | LIVE Reaction | ESPN FC",
+      "videoId": "KqijsClzyhw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-07",
+      "category": "Viral",
+      "team": [
+        "Argentina",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/KqijsClzyhw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "MLS Commissioner Don Garber on the World Cup and the growth of soccer in the USA ⚽️ | SportsCenter",
+      "videoId": "l3oFiMTFcdk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/l3oFiMTFcdk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "Should Ronaldo have been subbed off for Gonçalo Ramos in Portugal's Round of 16 loss to Spain?",
+      "videoId": "rmvru92HFDE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/rmvru92HFDE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "The latest on FIFA suspending Folarin Balogun’s red card and Belgium’s appeal | SportsCenter",
+      "videoId": "qceSOU-wZ9M",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/qceSOU-wZ9M/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "HUGE DISAPPOINTMENT for Portugal⁉️ REACTION to Spain's Round of 16 win at the World Cup | ESPN FC",
+      "videoId": "CW34mOEM2-E",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-06",
+      "category": "Viral",
+      "team": [
+        "Spain",
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/CW34mOEM2-E/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "RONALDO HEARTBREAK! Portugal vs. Spain FULL LIVE REACTION [Round of 16] | ESPN FC",
+      "videoId": "_RjAAI2p1WM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-06",
+      "category": "Viral",
+      "team": [
+        "Spain",
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_RjAAI2p1WM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "Ferran Torres assists Spain’s winning goal vs. Portugal in the World Cup Round of 16 🔥 | ESPN FC",
+      "videoId": "vwLbwkNqWXU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vwLbwkNqWXU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "‘A MASSIVE FAILURE!’ 😬🇧🇷 Brazil crash out & more World Cup reaction | ESPN FC",
+      "videoId": "oORcBt-d0o8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-06",
+      "category": "Viral",
+      "team": [
+        "Brazil"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/oORcBt-d0o8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "This moment can never be forgotten 😆 (via @IShowSpeed/TT)",
+      "videoId": "kaRyG0slWFk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/kaRyG0slWFk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "‘He looked like a man possessed’🔥",
+      "videoId": "PRq7Hx8Cdko",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-06",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/PRq7Hx8Cdko/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
+    },
+    {
+      "title": "England vs. Mexico REACTION, Haaland propels Norway + Balogun’s reprieve | ESPN FC",
+      "videoId": "2pG0ZaNfRic",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-06",
+      "category": "Viral",
+      "team": [
+        "England",
+        "Mexico",
         "Norway"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/G3C2kLNsIvo/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/2pG0ZaNfRic/mqdefault.jpg",
       "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Brazil vs Norway",
-      "source": "match-search"
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Switzerland vs Algeria"
     }
   ]
 }
