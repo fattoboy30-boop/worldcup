@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T16:03:09.317Z",
+  "lastUpdated": "2026-07-07T18:11:25.055Z",
   "groups": {
     "A": {
       "teams": [
@@ -731,14 +731,14 @@
         {
           "name": "Argentina",
           "code": "ar",
-          "played": 4,
-          "won": 4,
+          "played": 5,
+          "won": 5,
           "drawn": 0,
           "lost": 0,
-          "gf": 11,
-          "ga": 3,
-          "gd": 8,
-          "points": 12,
+          "gf": 14,
+          "ga": 5,
+          "gd": 9,
+          "points": 15,
           "position": 1
         },
         {
@@ -781,6 +781,19 @@
           "position": 4
         },
         {
+          "name": "Egypt",
+          "code": "eg",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 2,
+          "ga": 3,
+          "gd": -1,
+          "points": 0,
+          "position": 5
+        },
+        {
           "name": "Jordan",
           "code": "un",
           "played": 3,
@@ -791,7 +804,7 @@
           "ga": 8,
           "gd": -5,
           "points": 0,
-          "position": 5
+          "position": 6
         }
       ]
     },

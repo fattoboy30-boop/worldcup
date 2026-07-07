@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T16:03:09.314Z",
+  "lastUpdated": "2026-07-07T18:11:25.052Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2358,17 +2358,17 @@
       "utcDate": "2026-07-07T16:00Z",
       "homeTeam": "Argentina",
       "homeCode": "ar",
-      "homeScore": 0,
+      "homeScore": 3,
       "awayTeam": "Egypt",
       "awayCode": "eg",
-      "awayScore": 0,
+      "awayScore": 2,
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta, Georgia",
-      "status": "in_play",
+      "status": "finished",
       "group": "J",
       "stage": "ROUND_OF_16",
       "matchday": 0,
-      "minute": "2'",
+      "minute": null,
       "halfTime": [
         null,
         null
