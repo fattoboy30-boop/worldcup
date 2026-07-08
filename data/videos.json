@@ -1,46 +1,488 @@
 {
-  "lastUpdated": "2026-07-08T06:17:01.183Z",
+  "lastUpdated": "2026-07-08T07:30:50.073Z",
   "featured": {
-    "match": "xsxpbUgCNFw",
-    "highlight": "00v9u2drFtc",
-    "interview": "xsxpbUgCNFw"
+    "match": "2oVGc6Kkxxs",
+    "highlight": "2oVGc6Kkxxs",
+    "interview": "xuogXmVIYcA"
   },
   "videos": [
     {
-      "title": "Mexico vs. England Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "xsxpbUgCNFw",
-      "channel": "Web Search",
+      "title": "Team Feature: France | The Legacy Of Champions Past and Present",
+      "videoId": "2oVGc6Kkxxs",
+      "channel": "FIFA",
       "publishedAt": "2026-07-08",
       "category": "Highlights",
       "team": [
-        "England",
-        "Mexico"
+        "France"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xsxpbUgCNFw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/2oVGc6Kkxxs/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England",
-      "source": "match-search"
+      "fixtureTeams": "Brazil vs Norway"
     },
     {
-      "title": "⚽ Mexico vs England Highlights | Full Match Recap | FIFA World Cup 2026 ...",
-      "videoId": "00v9u2drFtc",
-      "channel": "Web Search",
+      "title": "Jaminton Campaz's Long Range Attempt For Colombia v Switzerland",
+      "videoId": "y6iamU4x5tw",
+      "channel": "FIFA",
       "publishedAt": "2026-07-08",
-      "category": "Full Match",
+      "category": "Highlights",
       "team": [
-        "England",
-        "Mexico"
+        "Colombia",
+        "Switzerland"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/00v9u2drFtc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/y6iamU4x5tw/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England",
-      "source": "match-search"
+      "fixtureTeams": "Brazil vs Norway"
+    },
+    {
+      "title": "Enzo Fernandez Goal | Argentina 3-2 Egypt | FIFA World Cup 2026™",
+      "videoId": "FunGHOVC6sw",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-08",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/FunGHOVC6sw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Brazil vs Norway"
+    },
+    {
+      "title": "Lionel Messi Goal | Argentina 3-2 Egypt",
+      "videoId": "i49NzYqYQ1I",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-08",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/i49NzYqYQ1I/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Brazil vs Norway"
+    },
+    {
+      "title": "Jhon Lucumí Came So Close For Colombia v Switzerland!",
+      "videoId": "2Sq11E9Q1sk",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-08",
+      "category": "Highlights",
+      "team": [
+        "Colombia",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/2Sq11E9Q1sk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Brazil vs Norway"
+    },
+    {
+      "title": "Penalty shootout: Switzerland 🆚 Colombia. #FIFAWorldCupOnYT",
+      "videoId": "p2SUU10_t4k",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-08",
+      "category": "Highlights",
+      "team": [
+        "Colombia",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/p2SUU10_t4k/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Brazil vs Norway"
+    },
+    {
+      "title": "Jhon Lucumí was inches away from scoring for Colombia.  🤯🇨🇴 #FIFAWorldCup",
+      "videoId": "tvI_-GvAKiU",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-08",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tvI_-GvAKiU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Brazil vs Norway"
+    },
+    {
+      "title": "Post-Match Press Conference: Switzerland's Murat Yakin On 4-3 Penalty Win Over Colombia",
+      "videoId": "3fEyFeoSfis",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-08",
+      "category": "Highlights",
+      "team": [
+        "Colombia",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/3fEyFeoSfis/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Brazil vs Norway"
+    },
+    {
+      "title": "Post-Match Interviews | Switzerland (4)0-0(3) Colombia",
+      "videoId": "T2MrLts47bM",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-08",
+      "category": "Highlights",
+      "team": [
+        "Colombia",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/T2MrLts47bM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Brazil vs Norway"
+    },
+    {
+      "title": "Switzerland 🆚 Colombia #FIFAWorldCupOnYT",
+      "videoId": "bKyL5d2vrJQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-08",
+      "category": "Highlights",
+      "team": [
+        "Colombia",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/bKyL5d2vrJQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Brazil vs Norway"
+    },
+    {
+      "title": "Post-Match Press Conference: Colombia's Néstor Gabriel Lorenzo On 3-4 Penalty Loss To Switzerland",
+      "videoId": "uVgyGtn0qAI",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-08",
+      "category": "Highlights",
+      "team": [
+        "Colombia",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/uVgyGtn0qAI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Brazil vs Norway"
+    },
+    {
+      "title": "Highlights | USA 1-4 Belgium | FIFA World Cup 2026™",
+      "videoId": "b5HCJV5DFnw",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-08",
+      "category": "Highlights",
+      "team": [
+        "Belgium",
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/b5HCJV5DFnw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Brazil vs Norway"
+    },
+    {
+      "title": "All in just one take 🔥 (via @biazinha/TT)",
+      "videoId": "hIKtCcfxnJM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-08",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/hIKtCcfxnJM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Brazil vs Norway"
+    },
+    {
+      "title": "WHAT DIDN'T GO WRONG ⁉️ Geoff Cameron calls the USMNT loss a 'TOUGH PILL TO SWALLOW!' | SportsCenter",
+      "videoId": "aO6bkipty98",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-08",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/aO6bkipty98/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Brazil vs Norway"
+    },
+    {
+      "title": "FULL REACTION to Argentina and Switzerland advancing to World Cup Quarterfinals | ESPN FC",
+      "videoId": "xuogXmVIYcA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-08",
+      "category": "Viral",
+      "team": [
+        "Argentina",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xuogXmVIYcA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Brazil vs Norway"
+    },
+    {
+      "title": "Did Colombia fall below expectations in the World Cup? | ESPN FC",
+      "videoId": "clpiYZJU62Q",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-08",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/clpiYZJU62Q/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Brazil vs Norway"
+    },
+    {
+      "title": "ESPN FC takes stock of the USMNT following their World Cup elimination",
+      "videoId": "Kb7T26K6R40",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-08",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Kb7T26K6R40/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Brazil vs Norway"
+    },
+    {
+      "title": "ESPN previews the World Cup Quarterfinals: Morocco a big test for France? | ESPN FC",
+      "videoId": "-LPFro46ucI",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-08",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-LPFro46ucI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Brazil vs Norway"
+    },
+    {
+      "title": "Post-Match Press Conference: Egypt's Hossam Hassan Hussein On 3-2 Loss ToThe Argentina",
+      "videoId": "h-sebcnW-ag",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/h-sebcnW-ag/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "Post-Match Press Conference: Argentina's Lionel Scaloni On 3-2 Win Over Egypt",
+      "videoId": "eJejsSoO1go",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/eJejsSoO1go/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "Argentina 🆚 Egypt #FIFAWorldCupOnYT",
+      "videoId": "Njg9l2VmzjY",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Njg9l2VmzjY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "Messi's FANTASTIC goal vs. Egypt keeps Argentina from ALMOST LOSING AGAIN 😱 | ESPN FC",
+      "videoId": "ImQ2xg7wLyU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ImQ2xg7wLyU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "Argentina lived up to the moment 👏",
+      "videoId": "QP60u7MTRkY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QP60u7MTRkY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "Was Argentina's comeback about momentum? 👀",
+      "videoId": "O4VygA1Nq7I",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/O4VygA1Nq7I/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "ESPN FC provides World Cup POWER RANKINGS 👀",
+      "videoId": "6fmGDKluYus",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6fmGDKluYus/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "The reaction of Norwegian fans in Oslo 🥳🧤",
+      "videoId": "RexQO3suF80",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-07",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RexQO3suF80/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "Lionel Messi once again proves Father Time 'WRONG' | ESPN FC",
+      "videoId": "VwzH0n3uQb8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/VwzH0n3uQb8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "That is a bold statement",
+      "videoId": "nk4l3Ct84OI",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/nk4l3Ct84OI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "🇧🇪🇺🇸 The highs and lows of being a fan 🥲",
+      "videoId": "Vwy8jq9cVzA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Vwy8jq9cVzA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "Unreal 🇦🇷",
+      "videoId": "GA46MoHUpy4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/GA46MoHUpy4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
     }
   ]
 }
