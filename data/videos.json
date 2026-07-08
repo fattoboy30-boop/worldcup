@@ -1,64 +1,58 @@
 {
-  "lastUpdated": "2026-07-08T22:44:02.337Z",
+  "lastUpdated": "2026-07-08T23:11:10.562Z",
   "featured": {
-    "match": "ydx1L0aDj_c",
-    "highlight": "00v9u2drFtc",
+    "match": "TRxs5ySLKf0",
+    "highlight": "TRxs5ySLKf0",
     "interview": "THShEbFk-PM"
   },
   "videos": [
     {
-      "title": "Highlights | Mexico 2-3 England | FIFA World Cup 2026™",
-      "videoId": "ydx1L0aDj_c",
-      "channel": "Web Search",
+      "title": "Unsung Hero Eduardo Granados connects FIFA World Cup™ 1986 with 2026",
+      "videoId": "TRxs5ySLKf0",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-08",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/TRxs5ySLKf0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Brazil vs Norway"
+    },
+    {
+      "title": "World Cup Rematch: Spain 1-1 Belgium (4-5 Pens) | 1986 quarter-final",
+      "videoId": "Ap_SvN2880M",
+      "channel": "FIFA",
       "publishedAt": "2026-07-08",
       "category": "Highlights",
       "team": [
-        "England",
-        "Mexico"
+        "Spain",
+        "Belgium"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ydx1L0aDj_c/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Ap_SvN2880M/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England",
-      "source": "match-search"
+      "fixtureTeams": "Brazil vs Norway"
     },
     {
-      "title": "⚽ Mexico vs England Highlights | Full Match Recap | FIFA World Cup 2026 ...",
-      "videoId": "00v9u2drFtc",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-08",
-      "category": "Full Match",
-      "team": [
-        "England",
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/00v9u2drFtc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England",
-      "source": "match-search"
-    },
-    {
-      "title": "Mexico vs. England Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "xsxpbUgCNFw",
-      "channel": "Web Search",
+      "title": "France Train Before Morocco FIFA World Cup 2026™",
+      "videoId": "fdM7_W4sfnY",
+      "channel": "FIFA",
       "publishedAt": "2026-07-08",
       "category": "Highlights",
       "team": [
-        "England",
-        "Mexico"
+        "France",
+        "Morocco"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xsxpbUgCNFw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/fdM7_W4sfnY/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England",
-      "source": "match-search"
+      "fixtureTeams": "Brazil vs Norway"
     },
     {
       "title": "Highlights | Switzerland (4)0-0(3) Colombia",
@@ -246,51 +240,45 @@
       "fixtureTeams": "Brazil vs Norway"
     },
     {
-      "title": "Team Feature: France | The Legacy Of Champions Past and Present",
-      "videoId": "2oVGc6Kkxxs",
-      "channel": "FIFA",
+      "title": "The ‘FATIGUE FACTOR IS REAL’ for Argentina – Ale Moreno | ESPN FC",
+      "videoId": "V2Vbe11-w9I",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-08",
       "category": "Highlights",
       "team": [
-        "France"
+        "Argentina"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/2oVGc6Kkxxs/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/V2Vbe11-w9I/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "Brazil vs Norway"
     },
     {
-      "title": "Jaminton Campaz's Long Range Attempt For Colombia v Switzerland",
-      "videoId": "y6iamU4x5tw",
-      "channel": "FIFA",
+      "title": "Imagine looking out your bedroom window to this 😂 (via @_paritabhatt/IG)",
+      "videoId": "Gme9YdMw-bc",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-08",
       "category": "Highlights",
-      "team": [
-        "Colombia",
-        "Switzerland"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/y6iamU4x5tw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Gme9YdMw-bc/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "Brazil vs Norway"
     },
     {
-      "title": "Enzo Fernandez Goal | Argentina 3-2 Egypt | FIFA World Cup 2026™",
-      "videoId": "FunGHOVC6sw",
-      "channel": "FIFA",
+      "title": "Messi = Michael Jordan and Ronaldo = LeBron James?! 🏀 Juls makes some NBA comparisons! | NBA Today",
+      "videoId": "0Z4uq4qQnP8",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-08",
       "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Egypt"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FunGHOVC6sw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/0Z4uq4qQnP8/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "Brazil vs Norway"
@@ -463,51 +451,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/1XxdTcpUS3k/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Brazil vs Norway"
-    },
-    {
-      "title": "Geoff Cameron wants to see a change in the development of U.S. players 👀",
-      "videoId": "7cxogYmnC4c",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-08",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7cxogYmnC4c/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Brazil vs Norway"
-    },
-    {
-      "title": "Norway vs. England is his MATCH TO WATCH! 👀 'Erling Haaland is a MACHINE!' - Alecko Eskandarian | SC",
-      "videoId": "TXU_4-ZshHk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-08",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/TXU_4-ZshHk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Brazil vs Norway"
-    },
-    {
-      "title": "All in just one take 🔥 (via @biazinha/TT)",
-      "videoId": "hIKtCcfxnJM",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-08",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/hIKtCcfxnJM/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "Brazil vs Norway"
