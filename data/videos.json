@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-08T15:23:48.040Z",
+  "lastUpdated": "2026-07-08T15:34:19.471Z",
   "featured": {
-    "match": "UjBzxgGmpNU",
-    "highlight": "UjBzxgGmpNU",
+    "match": "ydx1L0aDj_c",
+    "highlight": "ydx1L0aDj_c",
     "interview": "xuogXmVIYcA"
   },
   "videos": [
+    {
+      "title": "Highlights | Mexico 2-3 England | FIFA World Cup 2026™",
+      "videoId": "ydx1L0aDj_c",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-08",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ydx1L0aDj_c/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England",
+      "source": "match-search"
+    },
+    {
+      "title": "Highlights | England 3-2 Mexico | FIFA World Cup 2026™",
+      "videoId": "vppYp65pnNs",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-08",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vppYp65pnNs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England",
+      "source": "match-search"
+    },
     {
       "title": "Hyundai Goal of the Tournament | Best Goals of the Round of 16 | FIFA World Cup 2026™",
       "videoId": "UjBzxgGmpNU",
