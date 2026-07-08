@@ -1,47 +1,11 @@
 {
-  "lastUpdated": "2026-07-07T23:00:27.936Z",
+  "lastUpdated": "2026-07-08T00:00:14.318Z",
   "featured": {
-    "match": "ygrvVTlNBQY",
-    "highlight": "0wPkptiNROM",
+    "match": "eJejsSoO1go",
+    "highlight": "eJejsSoO1go",
     "interview": "RexQO3suF80"
   },
   "videos": [
-    {
-      "title": "Brazil vs Norway | 2026 World Cup Highlights | Full Match Highlights ...",
-      "videoId": "0wPkptiNROM",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-07",
-      "category": "Full Match",
-      "team": [
-        "Brazil",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/0wPkptiNROM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Brazil vs Norway",
-      "source": "match-search"
-    },
-    {
-      "title": "Brazil vs. Norway Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "ygrvVTlNBQY",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-07",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ygrvVTlNBQY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Brazil vs Norway",
-      "source": "match-search"
-    },
     {
       "title": "Post-Match Press Conference: Argentina's Lionel Scaloni On 3-2 Win Over Egypt",
       "videoId": "eJejsSoO1go",
@@ -295,6 +259,55 @@
       "fixtureTeams": "Colombia vs Ghana"
     },
     {
+      "title": "Messi's FANTASTIC goal vs. Egypt keeps Argentina from ALMOST LOSING AGAIN 😱 | ESPN FC",
+      "videoId": "ImQ2xg7wLyU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ImQ2xg7wLyU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "Argentina lived up to the moment 👏",
+      "videoId": "QP60u7MTRkY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QP60u7MTRkY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
+      "title": "Was Argentina's comeback about momentum? 👀",
+      "videoId": "O4VygA1Nq7I",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-07",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/O4VygA1Nq7I/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_32",
+      "fixtureTeams": "Colombia vs Ghana"
+    },
+    {
       "title": "ESPN FC provides World Cup POWER RANKINGS 👀",
       "videoId": "6fmGDKluYus",
       "channel": "ESPN FC",
@@ -467,56 +480,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/F_CbPei9dHg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Colombia vs Ghana"
-    },
-    {
-      "title": "Argentina vs. Egypt FULL REACTION: Messi leads 11 minute 3-2 COMEBACK! | ESPN FC",
-      "videoId": "5fu2rBAqBH4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-07",
-      "category": "Viral",
-      "team": [
-        "Argentina",
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/5fu2rBAqBH4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Colombia vs Ghana"
-    },
-    {
-      "title": "Argentina vs. Egypt REACTION: A Hollywood movie | ESPN FC",
-      "videoId": "j9q_WXi7yGg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-07",
-      "category": "Viral",
-      "team": [
-        "Argentina",
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/j9q_WXi7yGg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Colombia vs Ghana"
-    },
-    {
-      "title": "This Argentina fan in a Messi mask 🫣😮‍💨",
-      "videoId": "4M-Dd4q0VK4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-07",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/4M-Dd4q0VK4/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_32",
       "fixtureTeams": "Colombia vs Ghana"
