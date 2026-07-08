@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-08T19:37:47.222Z",
+  "lastUpdated": "2026-07-08T20:11:41.117Z",
   "featured": {
-    "match": "eJ-GTtHzK4E",
-    "highlight": "eJ-GTtHzK4E",
+    "match": "ydx1L0aDj_c",
+    "highlight": "ydx1L0aDj_c",
     "interview": "RnTyXjbc-xU"
   },
   "videos": [
+    {
+      "title": "Highlights | Mexico 2-3 England | FIFA World Cup 2026™",
+      "videoId": "ydx1L0aDj_c",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-08",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ydx1L0aDj_c/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England",
+      "source": "match-search"
+    },
+    {
+      "title": "Mexico vs. England Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "xsxpbUgCNFw",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-08",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xsxpbUgCNFw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England",
+      "source": "match-search"
+    },
     {
       "title": "France On Playing Morocco | Didier Deschamps Takes Questions",
       "videoId": "eJ-GTtHzK4E",
