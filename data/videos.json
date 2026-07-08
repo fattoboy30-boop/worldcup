@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-08T07:30:50.073Z",
+  "lastUpdated": "2026-07-08T09:06:15.440Z",
   "featured": {
-    "match": "2oVGc6Kkxxs",
-    "highlight": "2oVGc6Kkxxs",
+    "match": "ydx1L0aDj_c",
+    "highlight": "ydx1L0aDj_c",
     "interview": "xuogXmVIYcA"
   },
   "videos": [
+    {
+      "title": "Highlights | Mexico 2-3 England | FIFA World Cup 2026™",
+      "videoId": "ydx1L0aDj_c",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-08",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ydx1L0aDj_c/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England",
+      "source": "match-search"
+    },
+    {
+      "title": "Mexico vs. England Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "xsxpbUgCNFw",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-08",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xsxpbUgCNFw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England",
+      "source": "match-search"
+    },
     {
       "title": "Team Feature: France | The Legacy Of Champions Past and Present",
       "videoId": "2oVGc6Kkxxs",
