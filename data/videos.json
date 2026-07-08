@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-08T21:10:55.202Z",
+  "lastUpdated": "2026-07-08T21:32:10.637Z",
   "featured": {
-    "match": "pZ1Fh5Dnk3U",
-    "highlight": "pZ1Fh5Dnk3U",
+    "match": "xsxpbUgCNFw",
+    "highlight": "00v9u2drFtc",
     "interview": "THShEbFk-PM"
   },
   "videos": [
+    {
+      "title": "⚽ Mexico vs England Highlights | Full Match Recap | FIFA World Cup 2026 ...",
+      "videoId": "00v9u2drFtc",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-08",
+      "category": "Full Match",
+      "team": [
+        "England",
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/00v9u2drFtc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England",
+      "source": "match-search"
+    },
+    {
+      "title": "Mexico vs. England Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "xsxpbUgCNFw",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-08",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xsxpbUgCNFw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England",
+      "source": "match-search"
+    },
     {
       "title": "Highlights | Switzerland (4)0-0(3) Colombia",
       "videoId": "pZ1Fh5Dnk3U",
