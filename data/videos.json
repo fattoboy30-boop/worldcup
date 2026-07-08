@@ -1,64 +1,26 @@
 {
-  "lastUpdated": "2026-07-08T11:17:30.326Z",
+  "lastUpdated": "2026-07-08T12:22:33.577Z",
   "featured": {
-    "match": "xsxpbUgCNFw",
-    "highlight": "00v9u2drFtc",
+    "match": "RhgkU09piSI",
+    "highlight": "RhgkU09piSI",
     "interview": "xuogXmVIYcA"
   },
   "videos": [
     {
-      "title": "⚽ Mexico vs England Highlights | Full Match Recap | FIFA World Cup 2026 ...",
-      "videoId": "00v9u2drFtc",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-08",
-      "category": "Full Match",
-      "team": [
-        "England",
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/00v9u2drFtc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England",
-      "source": "match-search"
-    },
-    {
-      "title": "Mexico vs. England Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "xsxpbUgCNFw",
-      "channel": "Web Search",
+      "title": "Team Feature: Morocco | Azzedine Ounahi - For The Love of Morocco",
+      "videoId": "RhgkU09piSI",
+      "channel": "FIFA",
       "publishedAt": "2026-07-08",
       "category": "Highlights",
       "team": [
-        "England",
-        "Mexico"
+        "Morocco"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xsxpbUgCNFw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/RhgkU09piSI/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England",
-      "source": "match-search"
-    },
-    {
-      "title": "Mexico vs England 2-3 Highlights | 2026 World Cup Goals - YouTube",
-      "videoId": "tHsTyv6NgFU",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-08",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/tHsTyv6NgFU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England",
-      "source": "match-search"
+      "fixtureTeams": "Brazil vs Norway"
     },
     {
       "title": "World Cup Rematch: Belgium 1-2 Spain | 1990 Group Match",
@@ -286,23 +248,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/bKyL5d2vrJQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Brazil vs Norway"
-    },
-    {
-      "title": "Post-Match Press Conference: Colombia's Néstor Gabriel Lorenzo On 3-4 Penalty Loss To Switzerland",
-      "videoId": "uVgyGtn0qAI",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-08",
-      "category": "Highlights",
-      "team": [
-        "Colombia",
-        "Switzerland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/uVgyGtn0qAI/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "Brazil vs Norway"
