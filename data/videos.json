@@ -1,46 +1,27 @@
 {
-  "lastUpdated": "2026-07-08T20:11:41.117Z",
+  "lastUpdated": "2026-07-08T21:10:55.202Z",
   "featured": {
-    "match": "ydx1L0aDj_c",
-    "highlight": "ydx1L0aDj_c",
-    "interview": "RnTyXjbc-xU"
+    "match": "pZ1Fh5Dnk3U",
+    "highlight": "pZ1Fh5Dnk3U",
+    "interview": "THShEbFk-PM"
   },
   "videos": [
     {
-      "title": "Highlights | Mexico 2-3 England | FIFA World Cup 2026™",
-      "videoId": "ydx1L0aDj_c",
-      "channel": "Web Search",
+      "title": "Highlights | Switzerland (4)0-0(3) Colombia",
+      "videoId": "pZ1Fh5Dnk3U",
+      "channel": "FIFA",
       "publishedAt": "2026-07-08",
       "category": "Highlights",
       "team": [
-        "England",
-        "Mexico"
+        "Colombia",
+        "Switzerland"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ydx1L0aDj_c/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/pZ1Fh5Dnk3U/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England",
-      "source": "match-search"
-    },
-    {
-      "title": "Mexico vs. England Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "xsxpbUgCNFw",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-08",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xsxpbUgCNFw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England",
-      "source": "match-search"
+      "fixtureTeams": "Brazil vs Norway"
     },
     {
       "title": "France On Playing Morocco | Didier Deschamps Takes Questions",
@@ -261,18 +242,15 @@
       "fixtureTeams": "Brazil vs Norway"
     },
     {
-      "title": "Lionel Messi Goal | Argentina 3-2 Egypt",
-      "videoId": "i49NzYqYQ1I",
-      "channel": "FIFA",
+      "title": "Unbelievable 😱",
+      "videoId": "THShEbFk-PM",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-08",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Egypt"
-      ],
+      "category": "Viral",
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/i49NzYqYQ1I/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/THShEbFk-PM/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "Brazil vs Norway"
@@ -476,20 +454,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/hIKtCcfxnJM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Brazil vs Norway"
-    },
-    {
-      "title": "WHAT DIDN'T GO WRONG ⁉️ Geoff Cameron calls the USMNT loss a 'TOUGH PILL TO SWALLOW!' | SportsCenter",
-      "videoId": "aO6bkipty98",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-08",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/aO6bkipty98/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "Brazil vs Norway"
