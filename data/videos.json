@@ -1,11 +1,65 @@
 {
-  "lastUpdated": "2026-07-08T10:22:04.459Z",
+  "lastUpdated": "2026-07-08T11:17:30.326Z",
   "featured": {
-    "match": "xIR_VApTaF0",
-    "highlight": "xIR_VApTaF0",
+    "match": "xsxpbUgCNFw",
+    "highlight": "00v9u2drFtc",
     "interview": "xuogXmVIYcA"
   },
   "videos": [
+    {
+      "title": "⚽ Mexico vs England Highlights | Full Match Recap | FIFA World Cup 2026 ...",
+      "videoId": "00v9u2drFtc",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-08",
+      "category": "Full Match",
+      "team": [
+        "England",
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/00v9u2drFtc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England",
+      "source": "match-search"
+    },
+    {
+      "title": "Mexico vs. England Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "xsxpbUgCNFw",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-08",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xsxpbUgCNFw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England",
+      "source": "match-search"
+    },
+    {
+      "title": "Mexico vs England 2-3 Highlights | 2026 World Cup Goals - YouTube",
+      "videoId": "tHsTyv6NgFU",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-08",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tHsTyv6NgFU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England",
+      "source": "match-search"
+    },
     {
       "title": "World Cup Rematch: Belgium 1-2 Spain | 1990 Group Match",
       "videoId": "xIR_VApTaF0",
