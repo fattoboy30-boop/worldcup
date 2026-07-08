@@ -1,46 +1,72 @@
 {
-  "lastUpdated": "2026-07-08T09:06:15.440Z",
+  "lastUpdated": "2026-07-08T10:22:04.459Z",
   "featured": {
-    "match": "ydx1L0aDj_c",
-    "highlight": "ydx1L0aDj_c",
+    "match": "xIR_VApTaF0",
+    "highlight": "xIR_VApTaF0",
     "interview": "xuogXmVIYcA"
   },
   "videos": [
     {
-      "title": "Highlights | Mexico 2-3 England | FIFA World Cup 2026™",
-      "videoId": "ydx1L0aDj_c",
-      "channel": "Web Search",
+      "title": "World Cup Rematch: Belgium 1-2 Spain | 1990 Group Match",
+      "videoId": "xIR_VApTaF0",
+      "channel": "FIFA",
       "publishedAt": "2026-07-08",
       "category": "Highlights",
       "team": [
-        "England",
-        "Mexico"
+        "Spain",
+        "Belgium"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ydx1L0aDj_c/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/xIR_VApTaF0/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England",
-      "source": "match-search"
+      "fixtureTeams": "Brazil vs Norway"
     },
     {
-      "title": "Mexico vs. England Highlights | FIFA World Cup 2026 - YouTube",
-      "videoId": "xsxpbUgCNFw",
-      "channel": "Web Search",
+      "title": "Match Preview: France vs Morocco | FIFA World Cup 2026™",
+      "videoId": "eOVKu18ikCw",
+      "channel": "FIFA",
       "publishedAt": "2026-07-08",
       "category": "Highlights",
       "team": [
-        "England",
-        "Mexico"
+        "France",
+        "Morocco"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xsxpbUgCNFw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/eOVKu18ikCw/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England",
-      "source": "match-search"
+      "fixtureTeams": "Brazil vs Norway"
+    },
+    {
+      "title": "July 7 Matchday Recap | #FIFAWorldCup @aramco ​",
+      "videoId": "I6BhCgLr7nI",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-08",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/I6BhCgLr7nI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Brazil vs Norway"
+    },
+    {
+      "title": "The Best Of The 2026 FIFA World Cup So Far!",
+      "videoId": "gXQB_3L16hA",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-08",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/gXQB_3L16hA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Brazil vs Norway"
     },
     {
       "title": "Team Feature: France | The Legacy Of Champions Past and Present",
@@ -228,23 +254,6 @@
       "fixtureTeams": "Brazil vs Norway"
     },
     {
-      "title": "Highlights | USA 1-4 Belgium | FIFA World Cup 2026™",
-      "videoId": "b5HCJV5DFnw",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-08",
-      "category": "Highlights",
-      "team": [
-        "Belgium",
-        "USA"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/b5HCJV5DFnw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Brazil vs Norway"
-    },
-    {
       "title": "All in just one take 🔥 (via @biazinha/TT)",
       "videoId": "hIKtCcfxnJM",
       "channel": "ESPN FC",
@@ -335,57 +344,6 @@
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "Brazil vs Norway"
-    },
-    {
-      "title": "Post-Match Press Conference: Egypt's Hossam Hassan Hussein On 3-2 Loss ToThe Argentina",
-      "videoId": "h-sebcnW-ag",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-07",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/h-sebcnW-ag/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Colombia vs Ghana"
-    },
-    {
-      "title": "Post-Match Press Conference: Argentina's Lionel Scaloni On 3-2 Win Over Egypt",
-      "videoId": "eJejsSoO1go",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-07",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/eJejsSoO1go/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Colombia vs Ghana"
-    },
-    {
-      "title": "Argentina 🆚 Egypt #FIFAWorldCupOnYT",
-      "videoId": "Njg9l2VmzjY",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-07",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Njg9l2VmzjY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_32",
-      "fixtureTeams": "Colombia vs Ghana"
     },
     {
       "title": "Messi's FANTASTIC goal vs. Egypt keeps Argentina from ALMOST LOSING AGAIN 😱 | ESPN FC",
