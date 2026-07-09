@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-07-09T19:44:33.917Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-07-09T20:19:46.981Z",
+  "liveMatches": [
+    {
+      "id": 760510,
+      "date": "2026-07-09",
+      "time": "20:00",
+      "utcDate": "2026-07-09T20:00Z",
+      "homeTeam": "France",
+      "homeCode": "fr",
+      "homeScore": 0,
+      "awayTeam": "Morocco",
+      "awayCode": "ma",
+      "awayScore": 0,
+      "venue": "Gillette Stadium",
+      "city": "Foxborough, Massachusetts",
+      "status": "in_play",
+      "group": "I",
+      "stage": "QUARTERFINALS",
+      "matchday": 0,
+      "minute": "18'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -2212,29 +2236,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760510,
-      "date": "2026-07-09",
-      "time": "20:00",
-      "utcDate": "2026-07-09T20:00Z",
-      "homeTeam": "France",
-      "homeCode": "fr",
-      "homeScore": 0,
-      "awayTeam": "Morocco",
-      "awayCode": "ma",
-      "awayScore": 0,
-      "venue": "Gillette Stadium",
-      "city": "Foxborough, Massachusetts",
-      "status": "timed",
-      "group": "I",
-      "stage": "QUARTERFINALS",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760511,
       "date": "2026-07-10",
