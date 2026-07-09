@@ -1,45 +1,44 @@
 {
-  "lastUpdated": "2026-07-09T10:14:57.194Z",
+  "lastUpdated": "2026-07-09T10:57:43.445Z",
   "featured": {
-    "match": "AVOoPnYtWbg",
-    "highlight": "AVOoPnYtWbg",
+    "match": "Zj9EKNb2b58",
+    "highlight": "Zj9EKNb2b58",
     "interview": "0emmlN6YzZA"
   },
   "videos": [
     {
-      "title": "Highlights | Belgium 4-1 USA | FIFA World Cup 2026™ - YouTube",
-      "videoId": "AVOoPnYtWbg",
-      "channel": "Web Search",
+      "title": "World Cup Rematch: Argentina 1-0 Switzerland (AET) | 2014 Last-16",
+      "videoId": "Zj9EKNb2b58",
+      "channel": "FIFA",
       "publishedAt": "2026-07-09",
       "category": "Highlights",
       "team": [
-        "Belgium",
-        "USA"
+        "Argentina",
+        "Switzerland"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/AVOoPnYtWbg/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Zj9EKNb2b58/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs England"
     },
     {
-      "title": "United States vs Belgium Highlights 2026 FIFA World ... - YouTube",
-      "videoId": "QL3kCTgeVKA",
-      "channel": "Web Search",
+      "title": "Match Preview: Spain vs Belgium | FIFA World Cup 2026™",
+      "videoId": "Nd1ofqCNrks",
+      "channel": "FIFA",
       "publishedAt": "2026-07-09",
       "category": "Highlights",
       "team": [
+        "Spain",
         "Belgium"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/QL3kCTgeVKA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Nd1ofqCNrks/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs England"
     },
     {
       "title": "Alt Cast Highlights: Switzerland v Colombia | FIFA World Cup 2026™",
@@ -288,34 +287,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/TezBxa0yLTc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Brazil vs Norway"
-    },
-    {
-      "title": "Hyundai Goal of the Tournament | Best Goals of the Round of 16 | FIFA World Cup 2026™",
-      "videoId": "UjBzxgGmpNU",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-08",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/UjBzxgGmpNU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Brazil vs Norway"
-    },
-    {
-      "title": "ALL-TIME: Top Quarter-Final Goals In World Cup History",
-      "videoId": "ON4zirDkdzk",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-08",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ON4zirDkdzk/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "Brazil vs Norway"
