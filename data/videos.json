@@ -1,46 +1,44 @@
 {
-  "lastUpdated": "2026-07-09T19:44:49.066Z",
+  "lastUpdated": "2026-07-09T20:49:14.578Z",
   "featured": {
-    "match": "b5HCJV5DFnw",
-    "highlight": "b5HCJV5DFnw",
+    "match": "wGFiNhEIZFE",
+    "highlight": "wGFiNhEIZFE",
     "interview": "0emmlN6YzZA"
   },
   "videos": [
     {
-      "title": "Highlights | USA 1-4 Belgium | FIFA World Cup 2026™ - YouTube",
-      "videoId": "b5HCJV5DFnw",
-      "channel": "Web Search",
+      "title": "WATCH LIVE | France v Morocco | Quarter-final | FIFA World Cup 2026™",
+      "videoId": "wGFiNhEIZFE",
+      "channel": "FIFA",
       "publishedAt": "2026-07-09",
       "category": "Highlights",
       "team": [
-        "Belgium",
-        "USA"
+        "France",
+        "Morocco"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/b5HCJV5DFnw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/wGFiNhEIZFE/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs England"
     },
     {
-      "title": "Highlights | Belgium 4-1 USA | FIFA World Cup 2026™ - YouTube",
-      "videoId": "AVOoPnYtWbg",
-      "channel": "Web Search",
+      "title": "Spain Train Before Belgium | FIFA World Cup 2026™",
+      "videoId": "N3jU12K7U_o",
+      "channel": "FIFA",
       "publishedAt": "2026-07-09",
       "category": "Highlights",
       "team": [
-        "Belgium",
-        "USA"
+        "Spain",
+        "Belgium"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/AVOoPnYtWbg/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/N3jU12K7U_o/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs England"
     },
     {
       "title": "WATCH LIVE | Norway v England | Quarter-final | FIFA World Cup 2026™",
@@ -89,23 +87,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/vTokY4w3tHs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England"
-    },
-    {
-      "title": "WATCH LIVE | France v Morocco | Quarter-final | FIFA World Cup 2026™",
-      "videoId": "wGFiNhEIZFE",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-09",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/wGFiNhEIZFE/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "Mexico vs England"
@@ -262,6 +243,20 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/xQDXv5T5e-A/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
+    },
+    {
+      "title": "Messi just keeps defying expectations 👏",
+      "videoId": "nw5-7UOvvXw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/nw5-7UOvvXw/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "Mexico vs England"
@@ -472,37 +467,6 @@
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "Mexico vs England"
-    },
-    {
-      "title": "Herculez Gomez is ALL IN on what World Cup team? 🗣️ | Get Up",
-      "videoId": "Xv3-WY2nynw",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-09",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Xv3-WY2nynw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England"
-    },
-    {
-      "title": "Morocco Train Before France | FIFA World Cup 2026™",
-      "videoId": "cFcGJF-mZS0",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-08",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/cFcGJF-mZS0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Brazil vs Norway"
     }
   ]
 }
