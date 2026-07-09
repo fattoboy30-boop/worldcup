@@ -1,11 +1,46 @@
 {
-  "lastUpdated": "2026-07-09T16:29:10.984Z",
+  "lastUpdated": "2026-07-09T17:54:55.214Z",
   "featured": {
-    "match": "c3AHf5gSyiA",
-    "highlight": "c3AHf5gSyiA",
+    "match": "b5HCJV5DFnw",
+    "highlight": "b5HCJV5DFnw",
     "interview": "0emmlN6YzZA"
   },
   "videos": [
+    {
+      "title": "Highlights | USA 1-4 Belgium | FIFA World Cup 2026™ - YouTube",
+      "videoId": "b5HCJV5DFnw",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [
+        "Belgium",
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/b5HCJV5DFnw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium",
+      "source": "match-search"
+    },
+    {
+      "title": "United States vs Belgium Highlights 2026 FIFA World ... - YouTube",
+      "videoId": "QL3kCTgeVKA",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QL3kCTgeVKA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium",
+      "source": "match-search"
+    },
     {
       "title": "THE BEST GOALS | Round Of 16 | FIFA World Cup 2026™",
       "videoId": "c3AHf5gSyiA",
