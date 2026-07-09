@@ -1,45 +1,78 @@
 {
-  "lastUpdated": "2026-07-09T17:54:55.214Z",
+  "lastUpdated": "2026-07-09T18:51:20.788Z",
   "featured": {
-    "match": "b5HCJV5DFnw",
-    "highlight": "b5HCJV5DFnw",
+    "match": "71ycqp_zguI",
+    "highlight": "71ycqp_zguI",
     "interview": "0emmlN6YzZA"
   },
   "videos": [
     {
-      "title": "Highlights | USA 1-4 Belgium | FIFA World Cup 2026™ - YouTube",
-      "videoId": "b5HCJV5DFnw",
-      "channel": "Web Search",
+      "title": "WATCH LIVE | Norway v England | Quarter-final | FIFA World Cup 2026™",
+      "videoId": "71ycqp_zguI",
+      "channel": "FIFA",
       "publishedAt": "2026-07-09",
       "category": "Highlights",
       "team": [
-        "Belgium",
-        "USA"
+        "England",
+        "Norway"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/b5HCJV5DFnw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/71ycqp_zguI/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs England"
     },
     {
-      "title": "United States vs Belgium Highlights 2026 FIFA World ... - YouTube",
-      "videoId": "QL3kCTgeVKA",
-      "channel": "Web Search",
+      "title": "World Cup Rematch: Argentina 2-0 Switzerland | 1966 Group Match",
+      "videoId": "Isugqr-x10I",
+      "channel": "FIFA",
       "publishedAt": "2026-07-09",
       "category": "Highlights",
       "team": [
+        "Argentina",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Isugqr-x10I/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
+    },
+    {
+      "title": "WATCH LIVE | Spain v Belgium | Quarter-final | FIFA World Cup 2026™",
+      "videoId": "vTokY4w3tHs",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [
+        "Spain",
         "Belgium"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/QL3kCTgeVKA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/vTokY4w3tHs/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium",
-      "source": "match-search"
+      "fixtureTeams": "Mexico vs England"
+    },
+    {
+      "title": "WATCH LIVE | France v Morocco | Quarter-final | FIFA World Cup 2026™",
+      "videoId": "wGFiNhEIZFE",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/wGFiNhEIZFE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
     },
     {
       "title": "THE BEST GOALS | Round Of 16 | FIFA World Cup 2026™",
@@ -198,6 +231,20 @@
       "fixtureTeams": "Mexico vs England"
     },
     {
+      "title": "'He’s Hollywooding me' 😭 (via @IShowSpeed/TT)",
+      "videoId": "lUSWO3sQrFM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/lUSWO3sQrFM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
+    },
+    {
       "title": "Living his best life (via @vozinha1/IG)",
       "videoId": "gImpt9JQLOA",
       "channel": "ESPN FC",
@@ -257,7 +304,7 @@
       "fixtureTeams": "Mexico vs England"
     },
     {
-      "title": "Herculez Gomez says Christian Pulisic DOESN'T HAVE 'a Kobe mentality!' | First Take",
+      "title": "Herculez Gomez was NOT SURPRISED by the USMNT: 'Exactly how I thought it would go' | First Take",
       "videoId": "CJ90xe2wDjk",
       "channel": "ESPN FC",
       "publishedAt": "2026-07-09",
@@ -405,23 +452,6 @@
       "fixtureTeams": "Mexico vs England"
     },
     {
-      "title": "Not ready for the bromance at the Norway-England quarterfinal 😂 (via @bvb/TT)",
-      "videoId": "ZTfB1ThQrW0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-09",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ZTfB1ThQrW0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England"
-    },
-    {
       "title": "Morocco Train Before France | FIFA World Cup 2026™",
       "videoId": "cFcGJF-mZS0",
       "channel": "FIFA",
@@ -434,71 +464,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/cFcGJF-mZS0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Brazil vs Norway"
-    },
-    {
-      "title": "Unsung Hero Eduardo Granados connects FIFA World Cup™ 1986 with 2026",
-      "videoId": "TRxs5ySLKf0",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-08",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/TRxs5ySLKf0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Brazil vs Norway"
-    },
-    {
-      "title": "World Cup Rematch: Spain 1-1 Belgium (4-5 Pens) | 1986 quarter-final",
-      "videoId": "Ap_SvN2880M",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-08",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Belgium"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Ap_SvN2880M/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Brazil vs Norway"
-    },
-    {
-      "title": "France Train Before Morocco FIFA World Cup 2026™",
-      "videoId": "fdM7_W4sfnY",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-08",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fdM7_W4sfnY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Brazil vs Norway"
-    },
-    {
-      "title": "Highlights | Switzerland (4)0-0(3) Colombia",
-      "videoId": "pZ1Fh5Dnk3U",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-08",
-      "category": "Highlights",
-      "team": [
-        "Colombia",
-        "Switzerland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/pZ1Fh5Dnk3U/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "Brazil vs Norway"
