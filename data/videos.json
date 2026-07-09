@@ -1,11 +1,43 @@
 {
-  "lastUpdated": "2026-07-09T10:57:43.445Z",
+  "lastUpdated": "2026-07-09T13:52:11.317Z",
   "featured": {
-    "match": "Zj9EKNb2b58",
-    "highlight": "Zj9EKNb2b58",
+    "match": "IQKSzQhwG90",
+    "highlight": "IQKSzQhwG90",
     "interview": "0emmlN6YzZA"
   },
   "videos": [
+    {
+      "title": "Team Feature: Belgium | Mechele Leading By Example",
+      "videoId": "IQKSzQhwG90",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/IQKSzQhwG90/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
+    },
+    {
+      "title": "Team Feature: Spain | Simón: Hard Working Spain Gaining Momentum",
+      "videoId": "Q8Du50-YXC0",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Q8Du50-YXC0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
+    },
     {
       "title": "World Cup Rematch: Argentina 1-0 Switzerland (AET) | 2014 Last-16",
       "videoId": "Zj9EKNb2b58",
@@ -98,6 +130,112 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/xQDXv5T5e-A/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
+    },
+    {
+      "title": "WOW! (via @heathlucas02/IG)",
+      "videoId": "8HllKfdpM94",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/8HllKfdpM94/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
+    },
+    {
+      "title": "Herculez Gomez is ALL IN on what World Cup team? 🗣️ | Get Up",
+      "videoId": "Xv3-WY2nynw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Xv3-WY2nynw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
+    },
+    {
+      "title": "Not ready for the bromance at the Norway-England quarterfinal 😂 (via @bvb/TT)",
+      "videoId": "ZTfB1ThQrW0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ZTfB1ThQrW0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
+    },
+    {
+      "title": "A true ‘you had to be there’ moment 🇦🇷 (via @aerialofnature/IG)",
+      "videoId": "yRioymwjqBU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/yRioymwjqBU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
+    },
+    {
+      "title": "He’s now reached the quarterfinals in his first World Cup 🔥 (via @mancity/TT)",
+      "videoId": "0X5XnhXn4qU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0X5XnhXn4qU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
+    },
+    {
+      "title": "France is the \"team to beat\" 👀",
+      "videoId": "r1NOOqOs2UM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [
+        "France"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/r1NOOqOs2UM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
+    },
+    {
+      "title": "'THAT'S WHY HE'S THE GOAT' 🐐 How Messi inspired Argentina's comeback vs. Egypt | ESPN FC",
+      "videoId": "pzyOsL1-nAI",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/pzyOsL1-nAI/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "Mexico vs England"
@@ -264,34 +402,6 @@
       "fixtureTeams": "Brazil vs Norway"
     },
     {
-      "title": "Fernández, Mbappé, Pogba and Müller. Who’s next? 👀 #FIFAWorldCup #FIFAYoungPlayerAward @aramco",
-      "videoId": "rHObci5JErw",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-08",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/rHObci5JErw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Brazil vs Norway"
-    },
-    {
-      "title": "The Quarter-Finals await at FIFA World Cup 2026™",
-      "videoId": "TezBxa0yLTc",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-08",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/TezBxa0yLTc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Brazil vs Norway"
-    },
-    {
       "title": "2026 FIFA World Cup in review ✍️ Drama, emotion and top moments so far! | ESPN FC",
       "videoId": "4qWBYrIuKJY",
       "channel": "ESPN FC",
@@ -363,106 +473,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/u5slpzZZxc8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Brazil vs Norway"
-    },
-    {
-      "title": "The ‘FATIGUE FACTOR IS REAL’ for Argentina – Ale Moreno | ESPN FC",
-      "videoId": "V2Vbe11-w9I",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-08",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/V2Vbe11-w9I/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Brazil vs Norway"
-    },
-    {
-      "title": "Imagine looking out your bedroom window to this 😂 (via @_paritabhatt/IG)",
-      "videoId": "Gme9YdMw-bc",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-08",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Gme9YdMw-bc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Brazil vs Norway"
-    },
-    {
-      "title": "Messi = Michael Jordan and Ronaldo = LeBron James?! 🏀 Juls makes some NBA comparisons! | NBA Today",
-      "videoId": "0Z4uq4qQnP8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-08",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/0Z4uq4qQnP8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Brazil vs Norway"
-    },
-    {
-      "title": "Unbelievable 😱",
-      "videoId": "THShEbFk-PM",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-08",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/THShEbFk-PM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Brazil vs Norway"
-    },
-    {
-      "title": "Erling Haaland is an international treasure 😭👏 (via @herrelandslaget/TT)",
-      "videoId": "t5QDsp71xQ4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-08",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/t5QDsp71xQ4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Brazil vs Norway"
-    },
-    {
-      "title": "That celebration 🔥",
-      "videoId": "RnTyXjbc-xU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-08",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/RnTyXjbc-xU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Brazil vs Norway"
-    },
-    {
-      "title": "Gary Lineker is holding it down for Harry Kane 😅",
-      "videoId": "BWUCCMv4_SU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-08",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/BWUCCMv4_SU/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "Brazil vs Norway"
