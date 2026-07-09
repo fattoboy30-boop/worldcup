@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-07-09T22:43:29.542Z",
+  "lastUpdated": "2026-07-09T23:52:51.948Z",
   "featured": {
-    "match": "QL3kCTgeVKA",
-    "highlight": "QL3kCTgeVKA",
+    "match": "b5HCJV5DFnw",
+    "highlight": "b5HCJV5DFnw",
     "interview": "0emmlN6YzZA"
   },
   "videos": [
+    {
+      "title": "Highlights | USA 1-4 Belgium | FIFA World Cup 2026™ - YouTube",
+      "videoId": "b5HCJV5DFnw",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [
+        "Belgium",
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/b5HCJV5DFnw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium",
+      "source": "match-search"
+    },
     {
       "title": "United States vs Belgium Highlights 2026 FIFA World ... - YouTube",
       "videoId": "QL3kCTgeVKA",
