@@ -1,11 +1,46 @@
 {
-  "lastUpdated": "2026-07-09T22:25:11.752Z",
+  "lastUpdated": "2026-07-09T22:43:29.542Z",
   "featured": {
-    "match": "wGFiNhEIZFE",
-    "highlight": "wGFiNhEIZFE",
+    "match": "QL3kCTgeVKA",
+    "highlight": "QL3kCTgeVKA",
     "interview": "0emmlN6YzZA"
   },
   "videos": [
+    {
+      "title": "United States vs Belgium Highlights 2026 FIFA World ... - YouTube",
+      "videoId": "QL3kCTgeVKA",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QL3kCTgeVKA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium",
+      "source": "match-search"
+    },
+    {
+      "title": "USA vs Belgium | Match Highlights | FIFA World Cup 2026™ - YouTube",
+      "videoId": "Gq9ILhysbgQ",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [
+        "Belgium",
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Gq9ILhysbgQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium",
+      "source": "match-search"
+    },
     {
       "title": "WATCH LIVE | France v Morocco | Quarter-final | FIFA World Cup 2026™",
       "videoId": "wGFiNhEIZFE",
