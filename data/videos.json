@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-09T18:51:20.788Z",
+  "lastUpdated": "2026-07-09T19:44:49.066Z",
   "featured": {
-    "match": "71ycqp_zguI",
-    "highlight": "71ycqp_zguI",
+    "match": "b5HCJV5DFnw",
+    "highlight": "b5HCJV5DFnw",
     "interview": "0emmlN6YzZA"
   },
   "videos": [
+    {
+      "title": "Highlights | USA 1-4 Belgium | FIFA World Cup 2026™ - YouTube",
+      "videoId": "b5HCJV5DFnw",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [
+        "Belgium",
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/b5HCJV5DFnw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium",
+      "source": "match-search"
+    },
+    {
+      "title": "Highlights | Belgium 4-1 USA | FIFA World Cup 2026™ - YouTube",
+      "videoId": "AVOoPnYtWbg",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [
+        "Belgium",
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/AVOoPnYtWbg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium",
+      "source": "match-search"
+    },
     {
       "title": "WATCH LIVE | Norway v England | Quarter-final | FIFA World Cup 2026™",
       "videoId": "71ycqp_zguI",
