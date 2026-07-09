@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T21:07:30.703Z",
+  "lastUpdated": "2026-07-09T21:52:41.097Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2408,7 +2408,7 @@
       "utcDate": "2026-07-09T20:00Z",
       "homeTeam": "France",
       "homeCode": "fr",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayTeam": "Morocco",
       "awayCode": "ma",
       "awayScore": 0,
@@ -2418,7 +2418,7 @@
       "group": "I",
       "stage": "QUARTERFINALS",
       "matchday": 0,
-      "minute": "45'+5'",
+      "minute": "88'",
       "halfTime": [
         null,
         null
