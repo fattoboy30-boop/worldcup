@@ -1,28 +1,38 @@
 {
-  "lastUpdated": "2026-07-10T15:20:13.720Z",
+  "lastUpdated": "2026-07-10T16:58:31.627Z",
   "featured": {
-    "match": "wpQN9x7gbKA",
-    "highlight": "wpQN9x7gbKA",
-    "interview": "R3oi6OATpLA"
+    "match": "bj9v2jHFIbg",
+    "highlight": "bj9v2jHFIbg",
+    "interview": "xU1AwpaIhng"
   },
   "videos": [
     {
-      "title": "France 2-0 Morocco Highlights | Mbappé Magic Sends France ... - YouTube",
-      "videoId": "wpQN9x7gbKA",
-      "channel": "Web Search",
+      "title": "Knockout round drama and headline performances! 🎉  | FIFA Fan Festival | Best of Week 4",
+      "videoId": "bj9v2jHFIbg",
+      "channel": "FIFA",
       "publishedAt": "2026-07-10",
       "category": "Highlights",
-      "team": [
-        "France",
-        "Morocco"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/wpQN9x7gbKA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/bj9v2jHFIbg/mqdefault.jpg",
       "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco",
-      "source": "match-search"
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "Your Goal of the Round of 16 goes to Erling Haaland.",
+      "videoId": "FhcVzJnsCT4",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/FhcVzJnsCT4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
     },
     {
       "title": "Team Feature: Argentina | The Personal Rollercoaster of The World Cup Final 2022 For Montiel",
@@ -239,35 +249,97 @@
       "fixtureTeams": "United States vs Belgium"
     },
     {
-      "title": "France 🆚 Morocco #FIFAWorldCupOnYT",
-      "videoId": "rSfvfKxhXmY",
-      "channel": "FIFA",
+      "title": "France vs. Morocco REACTION & LOOK-AHEAD 👀 Juls is a HAPPY FRENCHMAN! 🇫🇷 | ESPN FC",
+      "videoId": "xU1AwpaIhng",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-10",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [
         "France",
         "Morocco"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/rSfvfKxhXmY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/xU1AwpaIhng/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "United States vs Belgium"
     },
     {
-      "title": "Post-Match Press Conference: France's Didier Deschamps On The 2-0 Win Over Morocco",
-      "videoId": "rvqY0J7Tylw",
-      "channel": "FIFA",
+      "title": "Messi: The Forgotten Tape: How Lionel Messi NEARLY played for Spain | ESPN FC",
+      "videoId": "uFWKnKGwAWc",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-10",
       "category": "Highlights",
       "team": [
-        "France",
-        "Morocco"
+        "Spain"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/rvqY0J7Tylw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/uFWKnKGwAWc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "What can Erling Haaland DO to take down England as Norway's BEST PLAYER? 🇳🇴 | First Take",
+      "videoId": "-vhZDcvPHkM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-vhZDcvPHkM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "'No. Next question.' ➡️ Can Kylian Mbappe and France BE STOPPED in the World Cup ⁉️ | First Take",
+      "videoId": "QdD1NWWT52o",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [
+        "France"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QdD1NWWT52o/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "France is looking strong 🔥",
+      "videoId": "un7pTG46Obk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [
+        "France"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/un7pTG46Obk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "Gabriel Martinelli might just be one of Cristiano Ronaldo's biggest fans 😅❤️",
+      "videoId": "aoE0WdNx1IQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/aoE0WdNx1IQ/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "United States vs Belgium"
@@ -400,96 +472,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/EMfr-bW57sA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England"
-    },
-    {
-      "title": "Has Christian Pulisic criticism GONE TOO FAR!? 😬 'This feels PERSONAL!' - Craig Burley | ESPN FC",
-      "videoId": "b5azCTc9KE4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-09",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/b5azCTc9KE4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England"
-    },
-    {
-      "title": "Do you agree with Frank Leboeuf saying this is the best French team EVER? 🤔",
-      "videoId": "v3zEv3HmmYE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-09",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/v3zEv3HmmYE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England"
-    },
-    {
-      "title": "Spain vs. Belgium preview and predictions 🍿+ Lamine Yamal injury update | ESPN FC",
-      "videoId": "pcrnGYyrr3I",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-09",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Belgium"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/pcrnGYyrr3I/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England"
-    },
-    {
-      "title": "‘The BEST FRENCH TEAM EVER!’ 😳 Frank Leboeuf on France’s 2-0 win vs. Morocco | ESPN FC",
-      "videoId": "Bdf7whnn11I",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-09",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Bdf7whnn11I/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England"
-    },
-    {
-      "title": "MBAPPÉ IS INEVITABLE.",
-      "videoId": "rafCC__Jb6k",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-09",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/rafCC__Jb6k/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England"
-    },
-    {
-      "title": "Messi just keeps defying expectations 👏",
-      "videoId": "nw5-7UOvvXw",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-09",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/nw5-7UOvvXw/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "Mexico vs England"
