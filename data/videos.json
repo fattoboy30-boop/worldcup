@@ -1,33 +1,97 @@
 {
-  "lastUpdated": "2026-07-10T06:46:40.137Z",
+  "lastUpdated": "2026-07-10T08:26:00.583Z",
   "featured": {
-    "match": "bg_vtS8YRQU",
-    "highlight": "bg_vtS8YRQU",
-    "interview": "bg_vtS8YRQU"
+    "match": "35BRjni0tsQ",
+    "highlight": "35BRjni0tsQ",
+    "interview": "R3oi6OATpLA"
   },
   "videos": [
     {
-      "title": "FRANCE vs MOROCCO | FIFA World Cup 2026 Highlights - YouTube",
-      "videoId": "bg_vtS8YRQU",
-      "channel": "Web Search",
+      "title": "Match Preview | Norway vs England | FIFA World Cup 2026™ Quarter-final",
+      "videoId": "35BRjni0tsQ",
+      "channel": "FIFA",
       "publishedAt": "2026-07-10",
       "category": "Highlights",
       "team": [
-        "France",
-        "Morocco"
+        "England",
+        "Norway"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/bg_vtS8YRQU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/35BRjni0tsQ/mqdefault.jpg",
       "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco",
-      "source": "match-search"
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
     },
     {
-      "title": "FIFA World Cup 2026: Highlights: France v Morocco: Quarter-final",
-      "videoId": "K3Apk8-HBWY",
-      "channel": "Web Search",
+      "title": "July 9 Matchday Recap | #FIFAWorldCup @aramco",
+      "videoId": "fDpr32d_JAg",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fDpr32d_JAg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "Belgium On Playing Spain | Rudi Garcia & Romelu Lukaku Take Questions",
+      "videoId": "yngne7i0XAo",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/yngne7i0XAo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "Alt Cast Highlights | Argentina v Egypt | FIFA World Cup 2026",
+      "videoId": "kBmJofMIjAc",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/kBmJofMIjAc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "Spain On Playing Belgium | Luis de la Fuente Takes Questions",
+      "videoId": "ITkFw8LLfac",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ITkFw8LLfac/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "Ousmane Dembele Goal | France 2-0 Morocco",
+      "videoId": "j8g-1qV2Iog",
+      "channel": "FIFA",
       "publishedAt": "2026-07-10",
       "category": "Highlights",
       "team": [
@@ -36,11 +100,383 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/K3Apk8-HBWY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/j8g-1qV2Iog/mqdefault.jpg",
       "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco",
-      "source": "match-search"
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "Kylian Mbappe Goal | France 2-0 Morocco | FIFA World Cup 2026™",
+      "videoId": "3LrNmNWyAn0",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/3LrNmNWyAn0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "Dembélé seals France's victory over Morocco. 🇫🇷 #FIFAWorldCupOnYT",
+      "videoId": "iWeS7-P6EX0",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/iWeS7-P6EX0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "Mbappé nets his 20th #FIFAWorldCup goal for France. 🇫🇷 #FIFAWorldCupOnYT",
+      "videoId": "0tSpK0bVtXE",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [
+        "France"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0tSpK0bVtXE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "France 🆚 Morocco #FIFAWorldCupOnYT",
+      "videoId": "rSfvfKxhXmY",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/rSfvfKxhXmY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "Post-Match Press Conference: France's Didier Deschamps On The 2-0 Win Over Morocco",
+      "videoId": "rvqY0J7Tylw",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/rvqY0J7Tylw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "Post-Match Player Interviews | France 2-0 Morocco",
+      "videoId": "dZ35_YoYZlU",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/dZ35_YoYZlU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
+    },
+    {
+      "title": "Post-Match Press Conference: Morocco's Mohamed Ouahbi On 2-0 Loss To France",
+      "videoId": "-762Q_SZzlI",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-762Q_SZzlI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
+    },
+    {
+      "title": "WATCH LIVE | France v Morocco | Quarter-final | FIFA World Cup 2026™",
+      "videoId": "wGFiNhEIZFE",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/wGFiNhEIZFE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
+    },
+    {
+      "title": "Belgium Train Before Spain | FIFA World Cup 2026™",
+      "videoId": "NQ0avLwRBW8",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/NQ0avLwRBW8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
+    },
+    {
+      "title": "Is France winning the 2026 World Cup inevitable? 😳 Quarterfinals REACTION | ESPN FC",
+      "videoId": "R3oi6OATpLA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-09",
+      "category": "Viral",
+      "team": [
+        "France"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/R3oi6OATpLA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
+    },
+    {
+      "title": "Has the 2026 World Cup DIMINISHED Ronaldo’s career? 😳 | ESPN FC",
+      "videoId": "EMfr-bW57sA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/EMfr-bW57sA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
+    },
+    {
+      "title": "Has Christian Pulisic criticism GONE TOO FAR!? 😬 'This feels PERSONAL!' - Craig Burley | ESPN FC",
+      "videoId": "b5azCTc9KE4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/b5azCTc9KE4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
+    },
+    {
+      "title": "Do you agree with Frank Leboeuf saying this is the best French team EVER? 🤔",
+      "videoId": "v3zEv3HmmYE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/v3zEv3HmmYE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
+    },
+    {
+      "title": "Spain vs. Belgium preview and predictions 🍿+ Lamine Yamal injury update | ESPN FC",
+      "videoId": "pcrnGYyrr3I",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/pcrnGYyrr3I/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
+    },
+    {
+      "title": "‘The BEST FRENCH TEAM EVER!’ 😳 Frank Leboeuf on France’s 2-0 win vs. Morocco | ESPN FC",
+      "videoId": "Bdf7whnn11I",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Bdf7whnn11I/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
+    },
+    {
+      "title": "MBAPPÉ IS INEVITABLE.",
+      "videoId": "rafCC__Jb6k",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/rafCC__Jb6k/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
+    },
+    {
+      "title": "Messi just keeps defying expectations 👏",
+      "videoId": "nw5-7UOvvXw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/nw5-7UOvvXw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
+    },
+    {
+      "title": "'He’s Hollywooding me' 😭 (via @IShowSpeed/TT)",
+      "videoId": "lUSWO3sQrFM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/lUSWO3sQrFM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
+    },
+    {
+      "title": "Living his best life (via @vozinha1/IG)",
+      "videoId": "gImpt9JQLOA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/gImpt9JQLOA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
+    },
+    {
+      "title": "BREAKING NEWS: Pulisic's World Cup injury revealed 👀",
+      "videoId": "RYkYUGTlyqU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RYkYUGTlyqU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
+    },
+    {
+      "title": "Herc Gomez says 'VAR has RUINED this game' addressing Argentina vs. Egypt | First Take",
+      "videoId": "0f5uOTk7ELI",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0f5uOTk7ELI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
+    },
+    {
+      "title": "USMNT's 'golden generation' missed their shot?",
+      "videoId": "HoD5U3-kIB4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/HoD5U3-kIB4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
+    },
+    {
+      "title": "Herculez Gomez was NOT SURPRISED by the USMNT: 'Exactly how I thought it would go' | First Take",
+      "videoId": "CJ90xe2wDjk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/CJ90xe2wDjk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
+    },
+    {
+      "title": "A special Man United moment 😂❤️ (via jxrdan/TT)",
+      "videoId": "RqV7hOpd0Bw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RqV7hOpd0Bw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
     }
   ]
 }
