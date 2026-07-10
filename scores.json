@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-07-10T18:59:37.704Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-07-10T20:27:15.829Z",
+  "liveMatches": [
+    {
+      "id": 760511,
+      "date": "2026-07-10",
+      "time": "19:00",
+      "utcDate": "2026-07-10T19:00Z",
+      "homeTeam": "Spain",
+      "homeCode": "es",
+      "homeScore": 1,
+      "awayTeam": "Belgium",
+      "awayCode": "be",
+      "awayScore": 1,
+      "venue": "SoFi Stadium",
+      "city": "Inglewood, California",
+      "status": "in_play",
+      "group": "H",
+      "stage": "QUARTERFINALS",
+      "matchday": 0,
+      "minute": "65'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -2235,29 +2259,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760511,
-      "date": "2026-07-10",
-      "time": "19:00",
-      "utcDate": "2026-07-10T19:00Z",
-      "homeTeam": "Spain",
-      "homeCode": "es",
-      "homeScore": 0,
-      "awayTeam": "Belgium",
-      "awayCode": "be",
-      "awayScore": 0,
-      "venue": "SoFi Stadium",
-      "city": "Inglewood, California",
-      "status": "timed",
-      "group": "H",
-      "stage": "QUARTERFINALS",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760512,
       "date": "2026-07-11",

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T18:59:37.706Z",
+  "lastUpdated": "2026-07-10T20:27:15.831Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2433,17 +2433,17 @@
       "utcDate": "2026-07-10T19:00Z",
       "homeTeam": "Spain",
       "homeCode": "es",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayTeam": "Belgium",
       "awayCode": "be",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "SoFi Stadium",
       "city": "Inglewood, California",
-      "status": "timed",
+      "status": "in_play",
       "group": "H",
       "stage": "QUARTERFINALS",
       "matchday": 0,
-      "minute": null,
+      "minute": "65'",
       "halfTime": [
         null,
         null
