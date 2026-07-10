@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-07-10T08:26:00.583Z",
+  "lastUpdated": "2026-07-10T10:22:53.912Z",
   "featured": {
-    "match": "35BRjni0tsQ",
-    "highlight": "35BRjni0tsQ",
+    "match": "aimho865B5s",
+    "highlight": "aimho865B5s",
     "interview": "R3oi6OATpLA"
   },
   "videos": [
+    {
+      "title": "France vs Morocco 2-0 Highlights | All Goals & Extended ... - YouTube",
+      "videoId": "aimho865B5s",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/aimho865B5s/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco",
+      "source": "match-search"
+    },
     {
       "title": "Match Preview | Norway vs England | FIFA World Cup 2026™ Quarter-final",
       "videoId": "35BRjni0tsQ",
