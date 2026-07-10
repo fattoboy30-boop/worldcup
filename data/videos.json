@@ -1,28 +1,43 @@
 {
-  "lastUpdated": "2026-07-10T10:22:53.912Z",
+  "lastUpdated": "2026-07-10T11:55:18.334Z",
   "featured": {
-    "match": "aimho865B5s",
-    "highlight": "aimho865B5s",
+    "match": "NoqugOQFKX4",
+    "highlight": "NoqugOQFKX4",
     "interview": "R3oi6OATpLA"
   },
   "videos": [
     {
-      "title": "France vs Morocco 2-0 Highlights | All Goals & Extended ... - YouTube",
-      "videoId": "aimho865B5s",
-      "channel": "Web Search",
+      "title": "Team Feature: England | Spence: Beating Mexico The Best Feeling In The World",
+      "videoId": "NoqugOQFKX4",
+      "channel": "FIFA",
       "publishedAt": "2026-07-10",
       "category": "Highlights",
       "team": [
-        "France",
-        "Morocco"
+        "England",
+        "Mexico"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/aimho865B5s/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/NoqugOQFKX4/mqdefault.jpg",
       "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco",
-      "source": "match-search"
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "Team Feature: Norway | 'Play The Game Not The Ocassion'",
+      "videoId": "8vNdCY502EI",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/8vNdCY502EI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
     },
     {
       "title": "Match Preview | Norway vs England | FIFA World Cup 2026™ Quarter-final",
@@ -237,40 +252,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/-762Q_SZzlI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England"
-    },
-    {
-      "title": "WATCH LIVE | France v Morocco | Quarter-final | FIFA World Cup 2026™",
-      "videoId": "wGFiNhEIZFE",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-09",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/wGFiNhEIZFE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England"
-    },
-    {
-      "title": "Belgium Train Before Spain | FIFA World Cup 2026™",
-      "videoId": "NQ0avLwRBW8",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-09",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Belgium"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/NQ0avLwRBW8/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "Mexico vs England"
