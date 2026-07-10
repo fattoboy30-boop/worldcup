@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-07-10T20:25:55.481Z",
+  "lastUpdated": "2026-07-10T20:38:40.203Z",
   "featured": {
-    "match": "Lfo49ZbV4WU",
-    "highlight": "Lfo49ZbV4WU",
+    "match": "xU64uBtO638",
+    "highlight": "xU64uBtO638",
     "interview": "xU1AwpaIhng"
   },
   "videos": [
+    {
+      "title": "France vs Morocco 2-0 All Goals & Extended Highlights | FIFA World Cup 2026",
+      "videoId": "xU64uBtO638",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xU64uBtO638/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco",
+      "source": "match-search"
+    },
     {
       "title": "Highlights | France 2-0 Morocco | FIFA World Cup 2026™",
       "videoId": "Lfo49ZbV4WU",
