@@ -1,11 +1,43 @@
 {
-  "lastUpdated": "2026-07-10T11:55:18.334Z",
+  "lastUpdated": "2026-07-10T14:35:29.262Z",
   "featured": {
-    "match": "NoqugOQFKX4",
-    "highlight": "NoqugOQFKX4",
+    "match": "GFxA9l4Ve94",
+    "highlight": "GFxA9l4Ve94",
     "interview": "R3oi6OATpLA"
   },
   "videos": [
+    {
+      "title": "Team Feature: Argentina | The Personal Rollercoaster of The World Cup Final 2022 For Montiel",
+      "videoId": "GFxA9l4Ve94",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/GFxA9l4Ve94/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "Team Feature: Switzerland | Keeping Cool Under Pressure",
+      "videoId": "0nk8ZxOPZjs",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0nk8ZxOPZjs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
+    },
     {
       "title": "Team Feature: England | Spence: Beating Mexico The Best Feeling In The World",
       "videoId": "NoqugOQFKX4",
@@ -223,38 +255,106 @@
       "fixtureTeams": "United States vs Belgium"
     },
     {
-      "title": "Post-Match Player Interviews | France 2-0 Morocco",
-      "videoId": "dZ35_YoYZlU",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-09",
+      "title": "Is Mbappe the GREATEST international player at the World Cup level?! 👀",
+      "videoId": "v5usJSktH3k",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-10",
       "category": "Highlights",
-      "team": [
-        "France",
-        "Morocco"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/dZ35_YoYZlU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/v5usJSktH3k/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England"
+      "fixtureTeams": "United States vs Belgium"
     },
     {
-      "title": "Post-Match Press Conference: Morocco's Mohamed Ouahbi On 2-0 Loss To France",
-      "videoId": "-762Q_SZzlI",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-09",
+      "title": "Kylian Mbappe and Ousmane Dembele the greatest duo ever?",
+      "videoId": "ljoeZ53V2vg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ljoeZ53V2vg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "Kylian Mbappe has been DRAGGING France through the World Cup 😳 Should fans be nervous?! | Get Up",
+      "videoId": "lF1ZtBCOXLc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-10",
       "category": "Highlights",
       "team": [
-        "France",
-        "Morocco"
+        "France"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-762Q_SZzlI/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/lF1ZtBCOXLc/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England"
+      "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "Addressing the BACKLASH against Christian Pulisic after World Cup loss 😮 | The Sports Reporters",
+      "videoId": "g7-WtyAOjbQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/g7-WtyAOjbQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "Can ANYONE STOP France?! Herculez Gomez says... 👀 | SportsCenter",
+      "videoId": "2tgjkFULA6s",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [
+        "France"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/2tgjkFULA6s/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "This was unknown territory for the USMNT",
+      "videoId": "_Dg4KNC1rVU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_Dg4KNC1rVU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "The humiliating loss 👀",
+      "videoId": "hPtb8T6476U",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/hPtb8T6476U/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
     },
     {
       "title": "Is France winning the 2026 World Cup inevitable? 😳 Quarterfinals REACTION | ESPN FC",
@@ -372,107 +472,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/nw5-7UOvvXw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England"
-    },
-    {
-      "title": "'He’s Hollywooding me' 😭 (via @IShowSpeed/TT)",
-      "videoId": "lUSWO3sQrFM",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-09",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/lUSWO3sQrFM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England"
-    },
-    {
-      "title": "Living his best life (via @vozinha1/IG)",
-      "videoId": "gImpt9JQLOA",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-09",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/gImpt9JQLOA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England"
-    },
-    {
-      "title": "BREAKING NEWS: Pulisic's World Cup injury revealed 👀",
-      "videoId": "RYkYUGTlyqU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-09",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/RYkYUGTlyqU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England"
-    },
-    {
-      "title": "Herc Gomez says 'VAR has RUINED this game' addressing Argentina vs. Egypt | First Take",
-      "videoId": "0f5uOTk7ELI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-09",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/0f5uOTk7ELI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England"
-    },
-    {
-      "title": "USMNT's 'golden generation' missed their shot?",
-      "videoId": "HoD5U3-kIB4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-09",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/HoD5U3-kIB4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England"
-    },
-    {
-      "title": "Herculez Gomez was NOT SURPRISED by the USMNT: 'Exactly how I thought it would go' | First Take",
-      "videoId": "CJ90xe2wDjk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-09",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/CJ90xe2wDjk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England"
-    },
-    {
-      "title": "A special Man United moment 😂❤️ (via jxrdan/TT)",
-      "videoId": "RqV7hOpd0Bw",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-09",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/RqV7hOpd0Bw/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "Mexico vs England"
