@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T21:35:07.808Z",
+  "lastUpdated": "2026-07-10T21:41:53.107Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2509,8 +2509,8 @@
       "homeTeam": "France",
       "homeCode": "fr",
       "homeScore": 0,
-      "awayTeam": "Quarterfinal 2 Winner",
-      "awayCode": "un",
+      "awayTeam": "Spain",
+      "awayCode": "es",
       "awayScore": 0,
       "venue": "AT&T Stadium",
       "city": "Arlington, Texas",
@@ -2524,7 +2524,7 @@
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/fr.png",
-      "awayFlag": "https://flagcdn.com/w160/un.png"
+      "awayFlag": "https://flagcdn.com/w160/es.png"
     },
     {
       "id": 760515,
