@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-07-10T22:07:41.655Z",
+  "lastUpdated": "2026-07-10T22:41:51.174Z",
   "featured": {
-    "match": "vTokY4w3tHs",
-    "highlight": "vTokY4w3tHs",
+    "match": "JO3JQzFvHYM",
+    "highlight": "JO3JQzFvHYM",
     "interview": "b-xot5LTo_M"
   },
   "videos": [
+    {
+      "title": "France Vs Morocco 4-0 FIFA World Cup Quarter Final Goals Full ... - YouTube",
+      "videoId": "JO3JQzFvHYM",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JO3JQzFvHYM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco",
+      "source": "match-search"
+    },
     {
       "title": "WATCH LIVE | Spain v Belgium | Quarter-final | FIFA World Cup 2026™",
       "videoId": "vTokY4w3tHs",
