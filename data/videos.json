@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-07-10T14:35:29.262Z",
+  "lastUpdated": "2026-07-10T15:20:13.720Z",
   "featured": {
-    "match": "GFxA9l4Ve94",
-    "highlight": "GFxA9l4Ve94",
+    "match": "wpQN9x7gbKA",
+    "highlight": "wpQN9x7gbKA",
     "interview": "R3oi6OATpLA"
   },
   "videos": [
+    {
+      "title": "France 2-0 Morocco Highlights | Mbappé Magic Sends France ... - YouTube",
+      "videoId": "wpQN9x7gbKA",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/wpQN9x7gbKA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco",
+      "source": "match-search"
+    },
     {
       "title": "Team Feature: Argentina | The Personal Rollercoaster of The World Cup Final 2022 For Montiel",
       "videoId": "GFxA9l4Ve94",
