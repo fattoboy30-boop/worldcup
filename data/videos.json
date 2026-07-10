@@ -1,9 +1,46 @@
 {
-  "lastUpdated": "2026-07-10T04:55:05.470Z",
+  "lastUpdated": "2026-07-10T06:46:40.137Z",
   "featured": {
-    "match": "",
-    "highlight": "",
-    "interview": ""
+    "match": "bg_vtS8YRQU",
+    "highlight": "bg_vtS8YRQU",
+    "interview": "bg_vtS8YRQU"
   },
-  "videos": []
+  "videos": [
+    {
+      "title": "FRANCE vs MOROCCO | FIFA World Cup 2026 Highlights - YouTube",
+      "videoId": "bg_vtS8YRQU",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/bg_vtS8YRQU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco",
+      "source": "match-search"
+    },
+    {
+      "title": "FIFA World Cup 2026: Highlights: France v Morocco: Quarter-final",
+      "videoId": "K3Apk8-HBWY",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/K3Apk8-HBWY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco",
+      "source": "match-search"
+    }
+  ]
 }
