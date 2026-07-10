@@ -1,46 +1,41 @@
 {
-  "lastUpdated": "2026-07-10T21:42:02.050Z",
+  "lastUpdated": "2026-07-10T22:07:41.655Z",
   "featured": {
-    "match": "JO3JQzFvHYM",
-    "highlight": "JO3JQzFvHYM",
-    "interview": "xU1AwpaIhng"
+    "match": "vTokY4w3tHs",
+    "highlight": "vTokY4w3tHs",
+    "interview": "b-xot5LTo_M"
   },
   "videos": [
     {
-      "title": "France vs Morocco Highlights 2026 FIFA World Cup™ | Quarterfinals",
-      "videoId": "JO3JQzFvHYM",
-      "channel": "Web Search",
+      "title": "WATCH LIVE | Spain v Belgium | Quarter-final | FIFA World Cup 2026™",
+      "videoId": "vTokY4w3tHs",
+      "channel": "FIFA",
       "publishedAt": "2026-07-10",
       "category": "Highlights",
       "team": [
-        "France",
-        "Morocco"
+        "Spain",
+        "Belgium"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/JO3JQzFvHYM/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/vTokY4w3tHs/mqdefault.jpg",
       "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco",
-      "source": "match-search"
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
     },
     {
-      "title": "France vs Morocco 2-0 All Goals & Extended Highlights | FIFA World Cup 2026",
-      "videoId": "xU64uBtO638",
-      "channel": "Web Search",
+      "title": "'Once a volunteer, always a volunteer': the FIFA World Cup 2026™ story of Paula Pontes",
+      "videoId": "XUUVfrY4L8Q",
+      "channel": "FIFA",
       "publishedAt": "2026-07-10",
       "category": "Highlights",
-      "team": [
-        "France",
-        "Morocco"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xU64uBtO638/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/XUUVfrY4L8Q/mqdefault.jpg",
       "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco",
-      "source": "match-search"
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
     },
     {
       "title": "Highlights | France 2-0 Morocco | FIFA World Cup 2026™",
@@ -252,18 +247,36 @@
       "fixtureTeams": "United States vs Belgium"
     },
     {
-      "title": "Spain On Playing Belgium | Luis de la Fuente Takes Questions",
-      "videoId": "ITkFw8LLfac",
-      "channel": "FIFA",
+      "title": "Spain vs. Belgium FULL REACTION 🍿 Can they beat France in the Semifinals? | ESPN FC",
+      "videoId": "b-xot5LTo_M",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-10",
-      "category": "Highlights",
+      "category": "Viral",
+      "team": [
+        "France",
+        "Spain",
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/b-xot5LTo_M/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "FULL LIVE REACTION: Spain vs. Belgium! Mikel Merino TO THE RESCUE! | ESPN FC",
+      "videoId": "R3QSmZZtRVE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-10",
+      "category": "Viral",
       "team": [
         "Spain",
         "Belgium"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ITkFw8LLfac/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/R3QSmZZtRVE/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "United States vs Belgium"
@@ -471,53 +484,6 @@
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "United States vs Belgium"
-    },
-    {
-      "title": "Can ANYONE STOP France?! Herculez Gomez says... 👀 | SportsCenter",
-      "videoId": "2tgjkFULA6s",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-10",
-      "category": "Highlights",
-      "team": [
-        "France"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/2tgjkFULA6s/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
-      "title": "This was unknown territory for the USMNT",
-      "videoId": "_Dg4KNC1rVU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-10",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_Dg4KNC1rVU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
-      "title": "WATCH LIVE | Spain v Belgium | Quarter-final | FIFA World Cup 2026™",
-      "videoId": "vTokY4w3tHs",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-09",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Belgium"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vTokY4w3tHs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England"
     }
   ]
 }
