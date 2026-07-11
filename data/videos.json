@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-07-11T22:53:59.867Z",
+  "lastUpdated": "2026-07-11T23:10:38.268Z",
   "featured": {
-    "match": "KBu-6tblNNM",
-    "highlight": "KBu-6tblNNM",
-    "interview": "KBu-6tblNNM"
+    "match": "J_1iFnRsHG0",
+    "highlight": "J_1iFnRsHG0",
+    "interview": "J_1iFnRsHG0"
   },
   "videos": [
+    {
+      "title": "France vs Morocco Highlights 2026 FIFA World Cup ... - YouTube",
+      "videoId": "J_1iFnRsHG0",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-11",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/J_1iFnRsHG0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco",
+      "source": "match-search"
+    },
     {
       "title": "Unsung Hero Vera lauded by Captain America for her selfless contribution",
       "videoId": "KBu-6tblNNM",
