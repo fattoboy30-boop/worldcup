@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T21:26:28.907Z",
+  "lastUpdated": "2026-07-11T22:08:27.700Z",
   "liveMatches": [
     {
       "id": 760512,
@@ -8,17 +8,17 @@
       "utcDate": "2026-07-11T21:00Z",
       "homeTeam": "Norway",
       "homeCode": "no",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayTeam": "England",
       "awayCode": "gb-eng",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens, Florida",
       "status": "in_play",
       "group": "I",
       "stage": "QUARTERFINALS",
       "matchday": 0,
-      "minute": "25'",
+      "minute": "45'+5'",
       "halfTime": [
         null,
         null
