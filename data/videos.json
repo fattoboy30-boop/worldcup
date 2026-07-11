@@ -1,28 +1,78 @@
 {
-  "lastUpdated": "2026-07-11T01:08:45.472Z",
+  "lastUpdated": "2026-07-11T04:15:01.570Z",
   "featured": {
-    "match": "1F4u7Ug3XgQ",
-    "highlight": "1F4u7Ug3XgQ",
+    "match": "5OyaQOGUtiI",
+    "highlight": "5OyaQOGUtiI",
     "interview": "L7CSc3udaSE"
   },
   "videos": [
     {
-      "title": "France vs Morocco | Match Highlights | FIFA World Cup 2026™",
-      "videoId": "1F4u7Ug3XgQ",
-      "channel": "Web Search",
+      "title": "Lamine Yamal Nearly Scores | Spain 2-1 Belgium | FIFA World Cup 2026™",
+      "videoId": "5OyaQOGUtiI",
+      "channel": "FIFA",
       "publishedAt": "2026-07-11",
       "category": "Highlights",
       "team": [
-        "France",
-        "Morocco"
+        "Spain",
+        "Belgium"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/1F4u7Ug3XgQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/5OyaQOGUtiI/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco",
-      "source": "match-search"
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "Lamine Yamal Skill | Spain 2-1 Belgium | FIFA World Cup 2026™",
+      "videoId": "8zNvahD-QS4",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-11",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/8zNvahD-QS4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "England Train Before Norway | FIFA World Cup 2026™",
+      "videoId": "C2DyTve89P0",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-11",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/C2DyTve89P0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "Norway Train Before England | FIFA World Cup 2026™",
+      "videoId": "OBOIGWe2FR4",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-11",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/OBOIGWe2FR4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
     },
     {
       "title": "Post-Match Player Interviews: Spain 2-1 Belgium",
@@ -200,67 +250,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/sSR-esGzYbU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
-      "title": "Switzerland On Playing Argentina | Murat Yakin & Granit Xhaka Take Questions",
-      "videoId": "-mupWoOHvGw",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-10",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Switzerland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-mupWoOHvGw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
-      "title": "Knockout round drama and headline performances! 🎉  | FIFA Fan Festival | Best of Week 4",
-      "videoId": "bj9v2jHFIbg",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-10",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/bj9v2jHFIbg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
-      "title": "Your Goal of the Round of 16 goes to Erling Haaland.",
-      "videoId": "FhcVzJnsCT4",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-10",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FhcVzJnsCT4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
-      "title": "Team Feature: Argentina | The Personal Rollercoaster of The World Cup Final 2022 For Montiel",
-      "videoId": "GFxA9l4Ve94",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-10",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/GFxA9l4Ve94/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "United States vs Belgium"
