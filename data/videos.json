@@ -1,46 +1,41 @@
 {
-  "lastUpdated": "2026-07-11T08:28:32.914Z",
+  "lastUpdated": "2026-07-11T09:40:46.065Z",
   "featured": {
-    "match": "1F4u7Ug3XgQ",
-    "highlight": "1F4u7Ug3XgQ",
+    "match": "DpkXiBrwCvY",
+    "highlight": "DpkXiBrwCvY",
     "interview": "L7CSc3udaSE"
   },
   "videos": [
     {
-      "title": "France vs Morocco | Match Highlights | FIFA World Cup 2026™",
-      "videoId": "1F4u7Ug3XgQ",
-      "channel": "Web Search",
+      "title": "Argentina On Playing Switzerland | Lionel Scaloni Takes Questions",
+      "videoId": "DpkXiBrwCvY",
+      "channel": "FIFA",
       "publishedAt": "2026-07-11",
       "category": "Highlights",
       "team": [
-        "France",
-        "Morocco"
+        "Argentina",
+        "Switzerland"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/1F4u7Ug3XgQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/DpkXiBrwCvY/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco",
-      "source": "match-search"
+      "fixtureTeams": "France vs Morocco"
     },
     {
-      "title": "France vs Morocco Highlights 2026 FIFA World Cup™ | Quarterfinals",
-      "videoId": "K3Apk8-HBWY",
-      "channel": "Web Search",
+      "title": "July 10 Matchday Recap | #FIFAWorldCup @aramco",
+      "videoId": "9wdlXsXTJ98",
+      "channel": "FIFA",
       "publishedAt": "2026-07-11",
       "category": "Highlights",
-      "team": [
-        "France",
-        "Morocco"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/K3Apk8-HBWY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/9wdlXsXTJ98/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco",
-      "source": "match-search"
+      "fixtureTeams": "France vs Morocco"
     },
     {
       "title": "Argentina Train Before Switzerland | FIFA World Cup 2026™",
@@ -255,37 +250,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/YhZ6h9saOxg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
-      "title": "WATCH LIVE | Spain v Belgium | Quarter-final | FIFA World Cup 2026™",
-      "videoId": "vTokY4w3tHs",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-10",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Belgium"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vTokY4w3tHs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
-      "title": "'Once a volunteer, always a volunteer': the FIFA World Cup 2026™ story of Paula Pontes",
-      "videoId": "XUUVfrY4L8Q",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-10",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/XUUVfrY4L8Q/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "United States vs Belgium"
