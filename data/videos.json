@@ -1,28 +1,27 @@
 {
-  "lastUpdated": "2026-07-11T20:10:58.036Z",
+  "lastUpdated": "2026-07-11T20:54:05.775Z",
   "featured": {
-    "match": "fLeA9wFInyA",
-    "highlight": "fLeA9wFInyA",
+    "match": "VHoctq0AOg8",
+    "highlight": "VHoctq0AOg8",
     "interview": "L7CSc3udaSE"
   },
   "videos": [
     {
-      "title": "HIGHLIGHTS - France v Morocco | Mbappé Chasing Golden Boot | FIFA World ...",
-      "videoId": "fLeA9wFInyA",
-      "channel": "Web Search",
+      "title": "Highlights | Spain 2-1 Belgium | FIFA World Cup 2026™",
+      "videoId": "VHoctq0AOg8",
+      "channel": "FIFA",
       "publishedAt": "2026-07-11",
       "category": "Highlights",
       "team": [
-        "France",
-        "Morocco"
+        "Spain",
+        "Belgium"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fLeA9wFInyA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/VHoctq0AOg8/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco",
-      "source": "match-search"
+      "fixtureTeams": "France vs Morocco"
     },
     {
       "title": "Alt Cast Highlights: Spain v Belgium | FIFA World Cup 2026™",
@@ -403,23 +402,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/S_MRt2Axd-g/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
-      "title": "Post-Match Press Conference: Spain's Luis de la Fuente On The 2-1 Win Over Belgium",
-      "videoId": "wBB5qkLVnPU",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-10",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Belgium"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/wBB5qkLVnPU/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "United States vs Belgium"
