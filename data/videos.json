@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-11T07:12:57.637Z",
+  "lastUpdated": "2026-07-11T08:28:32.914Z",
   "featured": {
-    "match": "KEvpFhWivOA",
-    "highlight": "KEvpFhWivOA",
+    "match": "1F4u7Ug3XgQ",
+    "highlight": "1F4u7Ug3XgQ",
     "interview": "L7CSc3udaSE"
   },
   "videos": [
+    {
+      "title": "France vs Morocco | Match Highlights | FIFA World Cup 2026™",
+      "videoId": "1F4u7Ug3XgQ",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-11",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/1F4u7Ug3XgQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco",
+      "source": "match-search"
+    },
+    {
+      "title": "France vs Morocco Highlights 2026 FIFA World Cup™ | Quarterfinals",
+      "videoId": "K3Apk8-HBWY",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-11",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/K3Apk8-HBWY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco",
+      "source": "match-search"
+    },
     {
       "title": "Argentina Train Before Switzerland | FIFA World Cup 2026™",
       "videoId": "KEvpFhWivOA",
