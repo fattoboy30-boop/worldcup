@@ -1,28 +1,125 @@
 {
-  "lastUpdated": "2026-07-10T22:41:51.174Z",
+  "lastUpdated": "2026-07-11T00:01:51.642Z",
   "featured": {
-    "match": "JO3JQzFvHYM",
-    "highlight": "JO3JQzFvHYM",
-    "interview": "b-xot5LTo_M"
+    "match": "_8208YTMFuM",
+    "highlight": "_8208YTMFuM",
+    "interview": "L7CSc3udaSE"
   },
   "videos": [
     {
-      "title": "France Vs Morocco 4-0 FIFA World Cup Quarter Final Goals Full ... - YouTube",
-      "videoId": "JO3JQzFvHYM",
-      "channel": "Web Search",
+      "title": "Post-Match Player Interviews: Spain 2-1 Belgium",
+      "videoId": "_8208YTMFuM",
+      "channel": "FIFA",
       "publishedAt": "2026-07-10",
       "category": "Highlights",
       "team": [
-        "France",
-        "Morocco"
+        "Spain",
+        "Belgium"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/JO3JQzFvHYM/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/_8208YTMFuM/mqdefault.jpg",
       "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco",
-      "source": "match-search"
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "Lamine Yamal inches away from scoring against Belgium! 🤯#FIFAWorldCupOnYT",
+      "videoId": "ADwK3kDx_Fs",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ADwK3kDx_Fs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "Lamine Yamal skills in LA. ✨🇪🇸#FIFAWorldCupOnYT",
+      "videoId": "L7CSc3udaSE",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-10",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/L7CSc3udaSE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "Spain 🆚 Belgium #FIFAWorldCupOnYT",
+      "videoId": "S_MRt2Axd-g",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/S_MRt2Axd-g/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "Post-Match Press Conference: Spain's Luis de la Fuente On The 2-1 Win Over Belgium",
+      "videoId": "wBB5qkLVnPU",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/wBB5qkLVnPU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "Post-Match Press Conference: Belgium's Rudi Garcia On The 2-1 Loss To Spain",
+      "videoId": "zybQnviH6mE",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/zybQnviH6mE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "Norway On Playing England | Ståle Solbakken Takes Questions",
+      "videoId": "YhZ6h9saOxg",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/YhZ6h9saOxg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
     },
     {
       "title": "WATCH LIVE | Spain v Belgium | Quarter-final | FIFA World Cup 2026™",
@@ -151,115 +248,99 @@
       "fixtureTeams": "United States vs Belgium"
     },
     {
-      "title": "Team Feature: Switzerland | Keeping Cool Under Pressure",
-      "videoId": "0nk8ZxOPZjs",
-      "channel": "FIFA",
+      "title": "Spain advance to face France in the 2026 World Cup Semifinals 🔥 | ESPN FC",
+      "videoId": "zJRsKA45baQ",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-10",
       "category": "Highlights",
       "team": [
-        "Switzerland"
+        "France",
+        "Spain"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/0nk8ZxOPZjs/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/zJRsKA45baQ/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "United States vs Belgium"
     },
     {
-      "title": "Team Feature: England | Spence: Beating Mexico The Best Feeling In The World",
-      "videoId": "NoqugOQFKX4",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-10",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/NoqugOQFKX4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
-      "title": "Team Feature: Norway | 'Play The Game Not The Ocassion'",
-      "videoId": "8vNdCY502EI",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-10",
-      "category": "Highlights",
-      "team": [
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/8vNdCY502EI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
-      "title": "Match Preview | Norway vs England | FIFA World Cup 2026™ Quarter-final",
-      "videoId": "35BRjni0tsQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-10",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/35BRjni0tsQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
-      "title": "July 9 Matchday Recap | #FIFAWorldCup @aramco",
-      "videoId": "fDpr32d_JAg",
-      "channel": "FIFA",
+      "title": "Is Mikel Merino the next Olivier Giroud with late game-winning goals? | ESPN FC Extra Time",
+      "videoId": "nqUDZcYtj_8",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-10",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fDpr32d_JAg/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/nqUDZcYtj_8/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "United States vs Belgium"
     },
     {
-      "title": "Belgium On Playing Spain | Rudi Garcia & Romelu Lukaku Take Questions",
-      "videoId": "yngne7i0XAo",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-10",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Belgium"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/yngne7i0XAo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
-      "title": "Alt Cast Highlights | Argentina v Egypt | FIFA World Cup 2026",
-      "videoId": "kBmJofMIjAc",
-      "channel": "FIFA",
+      "title": "Argentina vs. Switzerland Preview: Can Xhaka defend Messi? | ESPN FC",
+      "videoId": "UdCUpl-deOE",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-10",
       "category": "Highlights",
       "team": [
         "Argentina",
-        "Egypt"
+        "Switzerland"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/kBmJofMIjAc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/UdCUpl-deOE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "Norway vs. England PREVIEW 🍿 Who will advance to the World Cup Semifinals? | ESPN FC",
+      "videoId": "TOzTAs-csMM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/TOzTAs-csMM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "Argentina vs Switzerland: FULL LIVE REACTION | ESPN FC",
+      "videoId": "NJSrj4i9SII",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-10",
+      "category": "Viral",
+      "team": [
+        "Argentina",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/NJSrj4i9SII/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "‘He kept them in the game!’ 🙌 Steve Nicol on Thibaut Courtois’ performance vs. Spain | ESPN FC",
+      "videoId": "16DEZuPGwvM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-10",
+      "category": "Highlights",
+      "team": [
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/16DEZuPGwvM/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "United States vs Belgium"
@@ -411,94 +492,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/QdD1NWWT52o/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
-      "title": "France is looking strong 🔥",
-      "videoId": "un7pTG46Obk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-10",
-      "category": "Highlights",
-      "team": [
-        "France"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/un7pTG46Obk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
-      "title": "Gabriel Martinelli might just be one of Cristiano Ronaldo's biggest fans 😅❤️",
-      "videoId": "aoE0WdNx1IQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-10",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/aoE0WdNx1IQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
-      "title": "Is Mbappe the GREATEST international player at the World Cup level?! 👀",
-      "videoId": "v5usJSktH3k",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-10",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/v5usJSktH3k/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
-      "title": "Kylian Mbappe and Ousmane Dembele the greatest duo ever?",
-      "videoId": "ljoeZ53V2vg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-10",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ljoeZ53V2vg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
-      "title": "Kylian Mbappe has been DRAGGING France through the World Cup 😳 Should fans be nervous?! | Get Up",
-      "videoId": "lF1ZtBCOXLc",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-10",
-      "category": "Highlights",
-      "team": [
-        "France"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/lF1ZtBCOXLc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
-      "title": "Addressing the BACKLASH against Christian Pulisic after World Cup loss 😮 | The Sports Reporters",
-      "videoId": "g7-WtyAOjbQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-10",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/g7-WtyAOjbQ/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "United States vs Belgium"
