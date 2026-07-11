@@ -1,29 +1,11 @@
 {
-  "lastUpdated": "2026-07-11T22:08:40.879Z",
+  "lastUpdated": "2026-07-11T22:53:59.867Z",
   "featured": {
-    "match": "1F4u7Ug3XgQ",
-    "highlight": "1F4u7Ug3XgQ",
-    "interview": "NJSrj4i9SII"
+    "match": "KBu-6tblNNM",
+    "highlight": "KBu-6tblNNM",
+    "interview": "KBu-6tblNNM"
   },
   "videos": [
-    {
-      "title": "France vs Morocco | Match Highlights | FIFA World Cup 2026™",
-      "videoId": "1F4u7Ug3XgQ",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-11",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/1F4u7Ug3XgQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco",
-      "source": "match-search"
-    },
     {
       "title": "Unsung Hero Vera lauded by Captain America for her selfless contribution",
       "videoId": "KBu-6tblNNM",
@@ -218,6 +200,53 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/OBOIGWe2FR4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "London fans GO WILD as Bellingham equalizes for England! 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "videoId": "E4PJCXuVRoM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-11",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/E4PJCXuVRoM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "Vozinha's return to Cape Verde 🤩⚽️ (via @vozinha1/IG)",
+      "videoId": "PBzAXLFNc7Y",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-11",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/PBzAXLFNc7Y/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "SCENES in Oslo as Norway take the lead against England! 🇳🇴",
+      "videoId": "E8hQzOOxPzc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-11",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/E8hQzOOxPzc/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "France vs Morocco"
@@ -434,57 +463,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/nqUDZcYtj_8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
-      "title": "Argentina vs. Switzerland Preview: Can Xhaka defend Messi? | ESPN FC",
-      "videoId": "UdCUpl-deOE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-10",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Switzerland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/UdCUpl-deOE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
-      "title": "Norway vs. England PREVIEW 🍿 Who will advance to the World Cup Semifinals? | ESPN FC",
-      "videoId": "TOzTAs-csMM",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-10",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/TOzTAs-csMM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
-      "title": "Argentina vs Switzerland: FULL LIVE REACTION | ESPN FC",
-      "videoId": "NJSrj4i9SII",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-10",
-      "category": "Viral",
-      "team": [
-        "Argentina",
-        "Switzerland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/NJSrj4i9SII/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "United States vs Belgium"
