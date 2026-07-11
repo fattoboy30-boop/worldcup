@@ -1,47 +1,11 @@
 {
-  "lastUpdated": "2026-07-11T19:07:38.187Z",
+  "lastUpdated": "2026-07-11T19:14:55.403Z",
   "featured": {
-    "match": "1F4u7Ug3XgQ",
-    "highlight": "1F4u7Ug3XgQ",
+    "match": "MZ1aObhqBQQ",
+    "highlight": "MZ1aObhqBQQ",
     "interview": "L7CSc3udaSE"
   },
   "videos": [
-    {
-      "title": "France vs Morocco | Match Highlights | FIFA World Cup 2026™",
-      "videoId": "1F4u7Ug3XgQ",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-11",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/1F4u7Ug3XgQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco",
-      "source": "match-search"
-    },
-    {
-      "title": "France vs Morocco 2-0 All Goals & Extended Highlights | FIFA World Cup 2026",
-      "videoId": "xU64uBtO638",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-11",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xU64uBtO638/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco",
-      "source": "match-search"
-    },
     {
       "title": "Alt Cast Highlights: Spain v Belgium | FIFA World Cup 2026™",
       "videoId": "MZ1aObhqBQQ",
@@ -205,6 +169,48 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/OBOIGWe2FR4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "These are too good 😂👏 (via rudy_willingham/IG)",
+      "videoId": "Mn8GcgceO5s",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-11",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Mn8GcgceO5s/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "Haaland was MOVING 👀😮‍💨 (via @ErlingHaaland/TT)",
+      "videoId": "tzS4_BpvyY8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-11",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tzS4_BpvyY8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "Nothing but food 😂 (via @erlinghaaland/TT)",
+      "videoId": "-afPqUKUIso",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-11",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-afPqUKUIso/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "France vs Morocco"
@@ -478,57 +484,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/NJSrj4i9SII/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
-      "title": "‘He kept them in the game!’ 🙌 Steve Nicol on Thibaut Courtois’ performance vs. Spain | ESPN FC",
-      "videoId": "16DEZuPGwvM",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-10",
-      "category": "Highlights",
-      "team": [
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/16DEZuPGwvM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
-      "title": "Spain vs. Belgium FULL REACTION 🍿 Can they beat France in the Semifinals? | ESPN FC",
-      "videoId": "b-xot5LTo_M",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-10",
-      "category": "Viral",
-      "team": [
-        "France",
-        "Spain",
-        "Belgium"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/b-xot5LTo_M/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
-      "title": "FULL LIVE REACTION: Spain vs. Belgium! Mikel Merino TO THE RESCUE! | ESPN FC",
-      "videoId": "R3QSmZZtRVE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-10",
-      "category": "Viral",
-      "team": [
-        "Spain",
-        "Belgium"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/R3QSmZZtRVE/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "United States vs Belgium"
