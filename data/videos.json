@@ -1,46 +1,44 @@
 {
-  "lastUpdated": "2026-07-11T04:28:06.018Z",
+  "lastUpdated": "2026-07-11T07:12:57.637Z",
   "featured": {
-    "match": "J_1iFnRsHG0",
-    "highlight": "J_1iFnRsHG0",
+    "match": "KEvpFhWivOA",
+    "highlight": "KEvpFhWivOA",
     "interview": "L7CSc3udaSE"
   },
   "videos": [
     {
-      "title": "France vs Morocco Highlights 2026 FIFA World Cup ... - YouTube",
-      "videoId": "J_1iFnRsHG0",
-      "channel": "Web Search",
+      "title": "Argentina Train Before Switzerland | FIFA World Cup 2026™",
+      "videoId": "KEvpFhWivOA",
+      "channel": "FIFA",
       "publishedAt": "2026-07-11",
       "category": "Highlights",
       "team": [
-        "France",
-        "Morocco"
+        "Argentina",
+        "Switzerland"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/J_1iFnRsHG0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/KEvpFhWivOA/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco",
-      "source": "match-search"
+      "fixtureTeams": "France vs Morocco"
     },
     {
-      "title": "France vs Morocco 3-1 - All Goals & Highlights - 2026 - YouTube",
-      "videoId": "K3Apk8-HBWY",
-      "channel": "Web Search",
+      "title": "England On Playing Norway | Thomas Tuchel And Harry Kane Take Questions",
+      "videoId": "QA2hs_b2QvU",
+      "channel": "FIFA",
       "publishedAt": "2026-07-11",
       "category": "Highlights",
       "team": [
-        "France",
-        "Morocco"
+        "England",
+        "Norway"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/K3Apk8-HBWY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/QA2hs_b2QvU/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco",
-      "source": "match-search"
+      "fixtureTeams": "France vs Morocco"
     },
     {
       "title": "Lamine Yamal Nearly Scores | Spain 2-1 Belgium | FIFA World Cup 2026™",
@@ -252,40 +250,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/XUUVfrY4L8Q/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
-      "title": "Highlights | France 2-0 Morocco | FIFA World Cup 2026™",
-      "videoId": "Lfo49ZbV4WU",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-10",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Lfo49ZbV4WU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
-      "title": "Mexico vs England from the Referee’s POV | Ref Cam | Powered by Lenovo",
-      "videoId": "sSR-esGzYbU",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-10",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/sSR-esGzYbU/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "United States vs Belgium"
