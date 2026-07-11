@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-07-11T20:31:07.182Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-07-11T21:06:49.548Z",
+  "liveMatches": [
+    {
+      "id": 760512,
+      "date": "2026-07-11",
+      "time": "21:00",
+      "utcDate": "2026-07-11T21:00Z",
+      "homeTeam": "Norway",
+      "homeCode": "no",
+      "homeScore": 0,
+      "awayTeam": "England",
+      "awayCode": "gb-eng",
+      "awayScore": 0,
+      "venue": "Hard Rock Stadium",
+      "city": "Miami Gardens, Florida",
+      "status": "in_play",
+      "group": "I",
+      "stage": "QUARTERFINALS",
+      "matchday": 0,
+      "minute": "5'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -2258,29 +2282,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760512,
-      "date": "2026-07-11",
-      "time": "21:00",
-      "utcDate": "2026-07-11T21:00Z",
-      "homeTeam": "Norway",
-      "homeCode": "no",
-      "homeScore": 0,
-      "awayTeam": "England",
-      "awayCode": "gb-eng",
-      "awayScore": 0,
-      "venue": "Hard Rock Stadium",
-      "city": "Miami Gardens, Florida",
-      "status": "timed",
-      "group": "I",
-      "stage": "QUARTERFINALS",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760513,
       "date": "2026-07-12",

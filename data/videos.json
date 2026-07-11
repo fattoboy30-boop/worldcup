@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-11T20:54:05.775Z",
+  "lastUpdated": "2026-07-11T21:07:02.695Z",
   "featured": {
-    "match": "VHoctq0AOg8",
-    "highlight": "VHoctq0AOg8",
+    "match": "WqWrH1nMCrs",
+    "highlight": "WqWrH1nMCrs",
     "interview": "L7CSc3udaSE"
   },
   "videos": [
+    {
+      "title": "Highlights | France 2-0 Morocco | FIFA World Cup 2026™",
+      "videoId": "WqWrH1nMCrs",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-11",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/WqWrH1nMCrs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco",
+      "source": "match-search"
+    },
+    {
+      "title": "France vs Morocco Highlights 2026 FIFA World Cup ... - YouTube",
+      "videoId": "J_1iFnRsHG0",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-11",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/J_1iFnRsHG0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco",
+      "source": "match-search"
+    },
     {
       "title": "Highlights | Spain 2-1 Belgium | FIFA World Cup 2026™",
       "videoId": "VHoctq0AOg8",
