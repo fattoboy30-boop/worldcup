@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-07-11T14:57:19.627Z",
+  "lastUpdated": "2026-07-11T15:55:03.171Z",
   "featured": {
-    "match": "y5i8FkMGYeQ",
-    "highlight": "y5i8FkMGYeQ",
+    "match": "fLeA9wFInyA",
+    "highlight": "fLeA9wFInyA",
     "interview": "L7CSc3udaSE"
   },
   "videos": [
+    {
+      "title": "Match Highlights | FIFA World Cup 2026™ - YouTube",
+      "videoId": "fLeA9wFInyA",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-11",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fLeA9wFInyA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco",
+      "source": "match-search"
+    },
     {
       "title": "Switzerland Train Before Argentina | FIFA World Cup 2026™",
       "videoId": "y5i8FkMGYeQ",
