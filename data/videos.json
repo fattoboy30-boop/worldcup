@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-11T04:15:01.570Z",
+  "lastUpdated": "2026-07-11T04:28:06.018Z",
   "featured": {
-    "match": "5OyaQOGUtiI",
-    "highlight": "5OyaQOGUtiI",
+    "match": "J_1iFnRsHG0",
+    "highlight": "J_1iFnRsHG0",
     "interview": "L7CSc3udaSE"
   },
   "videos": [
+    {
+      "title": "France vs Morocco Highlights 2026 FIFA World Cup ... - YouTube",
+      "videoId": "J_1iFnRsHG0",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-11",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/J_1iFnRsHG0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco",
+      "source": "match-search"
+    },
+    {
+      "title": "France vs Morocco 3-1 - All Goals & Highlights - 2026 - YouTube",
+      "videoId": "K3Apk8-HBWY",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-11",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/K3Apk8-HBWY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco",
+      "source": "match-search"
+    },
     {
       "title": "Lamine Yamal Nearly Scores | Spain 2-1 Belgium | FIFA World Cup 2026™",
       "videoId": "5OyaQOGUtiI",
