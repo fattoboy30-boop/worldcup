@@ -1,46 +1,24 @@
 {
-  "lastUpdated": "2026-07-11T21:07:02.695Z",
+  "lastUpdated": "2026-07-11T21:53:39.356Z",
   "featured": {
-    "match": "WqWrH1nMCrs",
-    "highlight": "WqWrH1nMCrs",
-    "interview": "L7CSc3udaSE"
+    "match": "KBu-6tblNNM",
+    "highlight": "KBu-6tblNNM",
+    "interview": "NJSrj4i9SII"
   },
   "videos": [
     {
-      "title": "Highlights | France 2-0 Morocco | FIFA World Cup 2026™",
-      "videoId": "WqWrH1nMCrs",
-      "channel": "Web Search",
+      "title": "Unsung Hero Vera lauded by Captain America for her selfless contribution",
+      "videoId": "KBu-6tblNNM",
+      "channel": "FIFA",
       "publishedAt": "2026-07-11",
       "category": "Highlights",
-      "team": [
-        "France",
-        "Morocco"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/WqWrH1nMCrs/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/KBu-6tblNNM/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco",
-      "source": "match-search"
-    },
-    {
-      "title": "France vs Morocco Highlights 2026 FIFA World Cup ... - YouTube",
-      "videoId": "J_1iFnRsHG0",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-11",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/J_1iFnRsHG0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco",
-      "source": "match-search"
+      "fixtureTeams": "France vs Morocco"
     },
     {
       "title": "Highlights | Spain 2-1 Belgium | FIFA World Cup 2026™",
@@ -412,37 +390,6 @@
       "fixtureTeams": "United States vs Belgium"
     },
     {
-      "title": "Lamine Yamal skills in LA. ✨🇪🇸#FIFAWorldCupOnYT",
-      "videoId": "L7CSc3udaSE",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-10",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/L7CSc3udaSE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
-      "title": "Spain 🆚 Belgium #FIFAWorldCupOnYT",
-      "videoId": "S_MRt2Axd-g",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-10",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Belgium"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/S_MRt2Axd-g/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
       "title": "Spain advance to face France in the 2026 World Cup Semifinals 🔥 | ESPN FC",
       "videoId": "zJRsKA45baQ",
       "channel": "ESPN FC",
@@ -523,6 +470,23 @@
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "United States vs Belgium"
+    },
+    {
+      "title": "WATCH LIVE | Norway v England | Quarter-final | FIFA World Cup 2026™",
+      "videoId": "71ycqp_zguI",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-09",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/71ycqp_zguI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
     }
   ]
 }
