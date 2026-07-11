@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-07-11T19:14:55.403Z",
+  "lastUpdated": "2026-07-11T20:10:58.036Z",
   "featured": {
-    "match": "MZ1aObhqBQQ",
-    "highlight": "MZ1aObhqBQQ",
+    "match": "fLeA9wFInyA",
+    "highlight": "fLeA9wFInyA",
     "interview": "L7CSc3udaSE"
   },
   "videos": [
+    {
+      "title": "HIGHLIGHTS - France v Morocco | Mbappé Chasing Golden Boot | FIFA World ...",
+      "videoId": "fLeA9wFInyA",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-11",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fLeA9wFInyA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco",
+      "source": "match-search"
+    },
     {
       "title": "Alt Cast Highlights: Spain v Belgium | FIFA World Cup 2026™",
       "videoId": "MZ1aObhqBQQ",
