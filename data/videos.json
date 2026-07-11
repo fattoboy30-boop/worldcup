@@ -1,46 +1,27 @@
 {
-  "lastUpdated": "2026-07-11T10:01:42.750Z",
+  "lastUpdated": "2026-07-11T11:08:23.622Z",
   "featured": {
-    "match": "Lfo49ZbV4WU",
-    "highlight": "Lfo49ZbV4WU",
+    "match": "y5i8FkMGYeQ",
+    "highlight": "y5i8FkMGYeQ",
     "interview": "L7CSc3udaSE"
   },
   "videos": [
     {
-      "title": "Highlights | France 2-0 Morocco | FIFA World Cup 2026™",
-      "videoId": "Lfo49ZbV4WU",
-      "channel": "Web Search",
+      "title": "Switzerland Train Before Argentina | FIFA World Cup 2026™",
+      "videoId": "y5i8FkMGYeQ",
+      "channel": "FIFA",
       "publishedAt": "2026-07-11",
       "category": "Highlights",
       "team": [
-        "France",
-        "Morocco"
+        "Argentina",
+        "Switzerland"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Lfo49ZbV4WU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/y5i8FkMGYeQ/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco",
-      "source": "match-search"
-    },
-    {
-      "title": "France vs Morocco Highlights 2026 FIFA World Cup™ | Quarterfinals",
-      "videoId": "JO3JQzFvHYM",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-11",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/JO3JQzFvHYM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco",
-      "source": "match-search"
+      "fixtureTeams": "France vs Morocco"
     },
     {
       "title": "Argentina On Playing Switzerland | Lionel Scaloni Takes Questions",
@@ -269,23 +250,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/zybQnviH6mE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
-      "title": "Norway On Playing England | Ståle Solbakken Takes Questions",
-      "videoId": "YhZ6h9saOxg",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-10",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/YhZ6h9saOxg/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "United States vs Belgium"
