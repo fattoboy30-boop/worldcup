@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T23:10:25.259Z",
+  "lastUpdated": "2026-07-11T23:14:43.673Z",
   "liveMatches": [
     {
       "id": 760512,
@@ -11,14 +11,14 @@
       "homeScore": 1,
       "awayTeam": "England",
       "awayCode": "gb-eng",
-      "awayScore": 1,
+      "awayScore": 2,
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens, Florida",
       "status": "in_play",
       "group": "I",
       "stage": "QUARTERFINALS",
       "matchday": 0,
-      "minute": "93'",
+      "minute": "97'",
       "halfTime": [
         null,
         null
