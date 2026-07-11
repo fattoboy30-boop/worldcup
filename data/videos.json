@@ -1,28 +1,27 @@
 {
-  "lastUpdated": "2026-07-11T16:57:16.737Z",
+  "lastUpdated": "2026-07-11T17:56:27.034Z",
   "featured": {
-    "match": "Lfo49ZbV4WU",
-    "highlight": "Lfo49ZbV4WU",
+    "match": "MZ1aObhqBQQ",
+    "highlight": "MZ1aObhqBQQ",
     "interview": "L7CSc3udaSE"
   },
   "videos": [
     {
-      "title": "Highlights | France 2-0 Morocco | FIFA World Cup 2026™",
-      "videoId": "Lfo49ZbV4WU",
-      "channel": "Web Search",
+      "title": "Alt Cast Highlights: Spain v Belgium | FIFA World Cup 2026™",
+      "videoId": "MZ1aObhqBQQ",
+      "channel": "FIFA",
       "publishedAt": "2026-07-11",
       "category": "Highlights",
       "team": [
-        "France",
-        "Morocco"
+        "Spain",
+        "Belgium"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Lfo49ZbV4WU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/MZ1aObhqBQQ/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco",
-      "source": "match-search"
+      "fixtureTeams": "France vs Morocco"
     },
     {
       "title": "Switzerland Train Before Argentina | FIFA World Cup 2026™",
@@ -170,6 +169,34 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/OBOIGWe2FR4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "Soccer toe touches 🔥 (via @thechicagostars/TT)",
+      "videoId": "VIeTjSCNzhM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-11",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/VIeTjSCNzhM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "In 2020, Erling Haaland explained why he wears blue light glasses and sleeps with WiFi unplugged 👀",
+      "videoId": "chhrplw3bRE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-11",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/chhrplw3bRE/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "France vs Morocco"
@@ -338,23 +365,6 @@
       "fixtureTeams": "United States vs Belgium"
     },
     {
-      "title": "Post-Match Press Conference: Belgium's Rudi Garcia On The 2-1 Loss To Spain",
-      "videoId": "zybQnviH6mE",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-10",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Belgium"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/zybQnviH6mE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
       "title": "Spain advance to face France in the 2026 World Cup Semifinals 🔥 | ESPN FC",
       "videoId": "zJRsKA45baQ",
       "channel": "ESPN FC",
@@ -483,39 +493,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/R3QSmZZtRVE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
-      "title": "Why ALL THE PRESSURE is on England in the World Cup Quarterfinals vs. Norway 🧐 | ESPN FC",
-      "videoId": "W2QnvZ3uUqM",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-10",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/W2QnvZ3uUqM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "United States vs Belgium"
-    },
-    {
-      "title": "Kylian Mbappe’s to lose + Erling Haaland to spoil England’s party?! | ESPN FC",
-      "videoId": "q_xWUzWaRF4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-10",
-      "category": "Highlights",
-      "team": [
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/q_xWUzWaRF4/mqdefault.jpg",
       "matchday": 1,
       "stage": "ROUND_OF_16",
       "fixtureTeams": "United States vs Belgium"
