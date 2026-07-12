@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-07-12T14:59:51.622Z",
+  "lastUpdated": "2026-07-12T15:18:49.295Z",
   "featured": {
-    "match": "O8Xb0agffeU",
-    "highlight": "O8Xb0agffeU",
+    "match": "jqG_pZGkLcc",
+    "highlight": "jqG_pZGkLcc",
     "interview": "CVAnjbvD_So"
   },
   "videos": [
+    {
+      "title": "Match Highlights | FIFA World Cup 2026™ - YouTube",
+      "videoId": "jqG_pZGkLcc",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-12",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jqG_pZGkLcc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium",
+      "source": "match-search"
+    },
     {
       "title": "Alt Cast Highlights: Argentina v Switzerland | FIFA World Cup 2026™",
       "videoId": "O8Xb0agffeU",
