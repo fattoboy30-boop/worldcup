@@ -1,46 +1,27 @@
 {
-  "lastUpdated": "2026-07-12T12:38:18.406Z",
+  "lastUpdated": "2026-07-12T13:27:46.558Z",
   "featured": {
-    "match": "fL0DSslHkbc",
-    "highlight": "fL0DSslHkbc",
+    "match": "O8Xb0agffeU",
+    "highlight": "O8Xb0agffeU",
     "interview": "CVAnjbvD_So"
   },
   "videos": [
     {
-      "title": "Match Highlights | FIFA World Cup 2026™ - YouTube",
-      "videoId": "fL0DSslHkbc",
-      "channel": "Web Search",
+      "title": "Alt Cast Highlights: Argentina v Switzerland | FIFA World Cup 2026™",
+      "videoId": "O8Xb0agffeU",
+      "channel": "FIFA",
       "publishedAt": "2026-07-12",
       "category": "Highlights",
       "team": [
-        "Spain",
-        "Belgium"
+        "Argentina",
+        "Switzerland"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fL0DSslHkbc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/O8Xb0agffeU/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium",
-      "source": "match-search"
-    },
-    {
-      "title": "Match Highlights | FIFA World Cup 2026™ - YouTube",
-      "videoId": "jqG_pZGkLcc",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-12",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Belgium"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/jqG_pZGkLcc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium",
-      "source": "match-search"
+      "fixtureTeams": "France vs Morocco"
     },
     {
       "title": "Post-Match Press Conference: Switzerland's Murat Yakin On 1-3 Loss To Argentina",
@@ -278,23 +259,6 @@
       "fixtureTeams": "France vs Morocco"
     },
     {
-      "title": "Schjelderup opens the score for Norway against England. #FIFAWorldCupOnYT",
-      "videoId": "mpckIlbKxRg",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-12",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/mpckIlbKxRg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco"
-    },
-    {
       "title": "Stopping penalties from these legends 👀🧤",
       "videoId": "ZjkLn6P3Px0",
       "channel": "ESPN FC",
@@ -345,7 +309,7 @@
       "fixtureTeams": "France vs Morocco"
     },
     {
-      "title": "��IT’S RIDICULOUS!’ 😳 REACTION to VAR decision on England's first goal | ESPN FC",
+      "title": "‘IT’S RIDICULOUS!’ 😳 REACTION to VAR decision on England's first goal | ESPN FC",
       "videoId": "meLiooKTJBc",
       "channel": "ESPN FC",
       "publishedAt": "2026-07-12",
