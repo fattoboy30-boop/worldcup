@@ -1,28 +1,41 @@
 {
-  "lastUpdated": "2026-07-12T18:38:24.903Z",
+  "lastUpdated": "2026-07-12T20:07:02.938Z",
   "featured": {
-    "match": "fL0DSslHkbc",
-    "highlight": "fL0DSslHkbc",
+    "match": "7QRV7DCpjmA",
+    "highlight": "7QRV7DCpjmA",
     "interview": "CVAnjbvD_So"
   },
   "videos": [
     {
-      "title": "Match Highlights | FIFA World Cup 2026™ - YouTube",
-      "videoId": "fL0DSslHkbc",
-      "channel": "Web Search",
+      "title": "Almost ready for the YouTube FIFA Creator Cup! 🙌🏆",
+      "videoId": "7QRV7DCpjmA",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7QRV7DCpjmA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "World Cup Rematch: | England 3-1 Argentina | A 1962 Classic",
+      "videoId": "Oj5-O7ktiFE",
+      "channel": "FIFA",
       "publishedAt": "2026-07-12",
       "category": "Highlights",
       "team": [
-        "Spain",
-        "Belgium"
+        "Argentina",
+        "England"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fL0DSslHkbc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Oj5-O7ktiFE/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium",
-      "source": "match-search"
+      "fixtureTeams": "France vs Morocco"
     },
     {
       "title": "Alt Cast Highlights: Norway v England | FIFA World Cup 2026™",
@@ -238,40 +251,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/WPnvRIXtrzA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco"
-    },
-    {
-      "title": "Jude Bellingham Goal | Norway 1-2 England | FIFA World Cup 2026™",
-      "videoId": "m2YIgnjuEII",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-12",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/m2YIgnjuEII/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco"
-    },
-    {
-      "title": "Merino Sends Spain Through vs. Belgium | Ref’s POV | Powered by Lenovo",
-      "videoId": "MN5Vb5ApGfE",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-12",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Belgium"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/MN5Vb5ApGfE/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "France vs Morocco"
