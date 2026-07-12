@@ -1,28 +1,41 @@
 {
-  "lastUpdated": "2026-07-12T23:36:41.180Z",
+  "lastUpdated": "2026-07-12T23:58:43.717Z",
   "featured": {
-    "match": "fL0DSslHkbc",
-    "highlight": "fL0DSslHkbc",
+    "match": "g0rjuf0vTsQ",
+    "highlight": "g0rjuf0vTsQ",
     "interview": "CVAnjbvD_So"
   },
   "videos": [
     {
-      "title": "Match Highlights | FIFA World Cup 2026™ - YouTube",
-      "videoId": "fL0DSslHkbc",
-      "channel": "Web Search",
+      "title": "Who is your favourite #FIFAWorldCup player? 👀",
+      "videoId": "g0rjuf0vTsQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/g0rjuf0vTsQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "World Cup Rematch | England 1-0 Argentina | The 1966 Battle",
+      "videoId": "GoaOgvzY-V4",
+      "channel": "FIFA",
       "publishedAt": "2026-07-12",
       "category": "Highlights",
       "team": [
-        "Spain",
-        "Belgium"
+        "Argentina",
+        "England"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fL0DSslHkbc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/GoaOgvzY-V4/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium",
-      "source": "match-search"
+      "fixtureTeams": "France vs Morocco"
     },
     {
       "title": "Team @IShowSpeed are your YouTube FIFA Creator Cup winners! 🏆👏",
@@ -210,23 +223,25 @@
       "fixtureTeams": "France vs Morocco"
     },
     {
-      "title": "Almost ready for the YouTube FIFA Creator Cup! 🙌🏆",
-      "videoId": "7QRV7DCpjmA",
-      "channel": "FIFA",
+      "title": "‘He’s UNSTOPPABLE!’ Can Jude Bellingham carry England to a World Cup win? 🏆 | ESPN FC",
+      "videoId": "KpSo3vK-M-c",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-12",
       "category": "Highlights",
-      "team": [],
+      "team": [
+        "England"
+      ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7QRV7DCpjmA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/KpSo3vK-M-c/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "France vs Morocco"
     },
     {
-      "title": "World Cup Rematch: | England 3-1 Argentina | A 1962 Classic",
-      "videoId": "Oj5-O7ktiFE",
-      "channel": "FIFA",
+      "title": "England vs. Argentina Preview: Jurgen Klinsmann says it’ll be a ‘nailbiter’ �� | ESPN FC",
+      "videoId": "z6dhbbmikNE",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-12",
       "category": "Highlights",
       "team": [
@@ -235,7 +250,23 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Oj5-O7ktiFE/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/z6dhbbmikNE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "Has Argentina been LUCKY during their 2026 World Cup run? 😳 | ESPN FC",
+      "videoId": "tJauHwwxeUo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-12",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tJauHwwxeUo/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "France vs Morocco"
@@ -427,56 +458,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/-gG0k2Ks0mk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco"
-    },
-    {
-      "title": "Jude Bellingham’s brace sends England to the 2026 World Cup semifinals 🔥 | ESPN FC",
-      "videoId": "TUNUwnGswPo",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-12",
-      "category": "Highlights",
-      "team": [
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/TUNUwnGswPo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco"
-    },
-    {
-      "title": "Steve Nicol QUESTIONS VAR decision in Norway vs. England | ESPN FC",
-      "videoId": "KaeFCNnWFVM",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-12",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/KaeFCNnWFVM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco"
-    },
-    {
-      "title": "Jude Bellingham BRACE! Norway vs. England [FULL LIVE REACTION] | ESPN FC",
-      "videoId": "QZeWQmJ0cJQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-12",
-      "category": "Viral",
-      "team": [
-        "England",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/QZeWQmJ0cJQ/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "France vs Morocco"
