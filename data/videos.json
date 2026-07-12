@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-12T16:27:41.863Z",
+  "lastUpdated": "2026-07-12T17:34:23.445Z",
   "featured": {
-    "match": "fL0DSslHkbc",
-    "highlight": "fL0DSslHkbc",
+    "match": "x3r3vkwHtYY",
+    "highlight": "x3r3vkwHtYY",
     "interview": "CVAnjbvD_So"
   },
   "videos": [
+    {
+      "title": "Spain vs. Belgium Full Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "x3r3vkwHtYY",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-12",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/x3r3vkwHtYY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium",
+      "source": "match-search"
+    },
+    {
+      "title": "Spain vs Belgium 2-1 || All Goals & Extended Highlights || FIFA World ...",
+      "videoId": "Ii5qeH6bPpQ",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-12",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Ii5qeH6bPpQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium",
+      "source": "match-search"
+    },
     {
       "title": "Match Highlights | FIFA World Cup 2026™ - YouTube",
       "videoId": "fL0DSslHkbc",
