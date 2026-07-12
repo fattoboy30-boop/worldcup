@@ -1,28 +1,27 @@
 {
-  "lastUpdated": "2026-07-12T15:18:49.295Z",
+  "lastUpdated": "2026-07-12T16:06:33.597Z",
   "featured": {
-    "match": "jqG_pZGkLcc",
-    "highlight": "jqG_pZGkLcc",
+    "match": "Ye5DJJsY5tk",
+    "highlight": "Ye5DJJsY5tk",
     "interview": "CVAnjbvD_So"
   },
   "videos": [
     {
-      "title": "Match Highlights | FIFA World Cup 2026™ - YouTube",
-      "videoId": "jqG_pZGkLcc",
-      "channel": "Web Search",
+      "title": "Alt Cast Highlights: Norway v England | FIFA World Cup 2026™",
+      "videoId": "Ye5DJJsY5tk",
+      "channel": "FIFA",
       "publishedAt": "2026-07-12",
       "category": "Highlights",
       "team": [
-        "Spain",
-        "Belgium"
+        "England",
+        "Norway"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/jqG_pZGkLcc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Ye5DJJsY5tk/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium",
-      "source": "match-search"
+      "fixtureTeams": "France vs Morocco"
     },
     {
       "title": "Alt Cast Highlights: Argentina v Switzerland | FIFA World Cup 2026™",
@@ -260,18 +259,15 @@
       "fixtureTeams": "France vs Morocco"
     },
     {
-      "title": "Mbappé Leads France Past Morocco | Ref’s POV | Powered by Lenovo",
-      "videoId": "mPh97cmDHVA",
-      "channel": "FIFA",
+      "title": "Curse? (via @IShowSpeed/TT)",
+      "videoId": "G-DagW6B-Y8",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-12",
       "category": "Highlights",
-      "team": [
-        "France",
-        "Morocco"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/mPh97cmDHVA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/G-DagW6B-Y8/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "France vs Morocco"
@@ -500,23 +496,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/vMOGYpHpGSQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco"
-    },
-    {
-      "title": "Questioning Norway's tactical approach in World Cup quarterfinal loss to England | ESPN FC",
-      "videoId": "DbvNi3AVmr8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-12",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/DbvNi3AVmr8/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "France vs Morocco"
