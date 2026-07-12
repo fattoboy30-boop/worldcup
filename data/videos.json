@@ -1,46 +1,41 @@
 {
-  "lastUpdated": "2026-07-12T08:54:18.161Z",
+  "lastUpdated": "2026-07-12T09:05:01.142Z",
   "featured": {
-    "match": "ezx7ZsVG8Kk",
-    "highlight": "ezx7ZsVG8Kk",
+    "match": "o3RPPjzciqo",
+    "highlight": "o3RPPjzciqo",
     "interview": "CVAnjbvD_So"
   },
   "videos": [
     {
-      "title": "Match Highlights | FIFA World Cup 2026™ - YouTube",
-      "videoId": "ezx7ZsVG8Kk",
-      "channel": "Web Search",
+      "title": "World Cup Rematch: Spain 1-3 France | 2006 Round of 16 Fightback",
+      "videoId": "o3RPPjzciqo",
+      "channel": "FIFA",
       "publishedAt": "2026-07-12",
       "category": "Highlights",
       "team": [
-        "Spain",
-        "Belgium"
+        "France",
+        "Spain"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ezx7ZsVG8Kk/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/o3RPPjzciqo/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium",
-      "source": "match-search"
+      "fixtureTeams": "France vs Morocco"
     },
     {
-      "title": "Spain vs Belgium Highlights 2026 FIFA World Cup ... - YouTube",
-      "videoId": "jqG_pZGkLcc",
-      "channel": "Web Search",
+      "title": "July 11 Matchday Recap | #FIFAWorldCup @aramco",
+      "videoId": "v-7QLJWI9_8",
+      "channel": "FIFA",
       "publishedAt": "2026-07-12",
       "category": "Highlights",
-      "team": [
-        "Spain",
-        "Belgium"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/jqG_pZGkLcc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/v-7QLJWI9_8/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium",
-      "source": "match-search"
+      "fixtureTeams": "France vs Morocco"
     },
     {
       "title": "Lautaro Martínez Goal | Argentina 3-1 Switzerland | FIFA World Cup 2026™",
@@ -259,40 +254,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/a-8t7BqvGjU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco"
-    },
-    {
-      "title": "Post-Match Press Conference: England's Thomas Tuchel On The 2-1 Win Over Norway",
-      "videoId": "YJw5YtnYIU0",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-12",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/YJw5YtnYIU0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco"
-    },
-    {
-      "title": "Post-Match Player Interviews | Norway 1-2 England",
-      "videoId": "0yFfPyyCt8A",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-12",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/0yFfPyyCt8A/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "France vs Morocco"
