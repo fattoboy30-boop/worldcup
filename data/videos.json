@@ -1,28 +1,61 @@
 {
-  "lastUpdated": "2026-07-12T10:27:10.257Z",
+  "lastUpdated": "2026-07-12T11:13:12.289Z",
   "featured": {
-    "match": "fL0DSslHkbc",
-    "highlight": "fL0DSslHkbc",
+    "match": "lM9VPYREkyw",
+    "highlight": "lM9VPYREkyw",
     "interview": "CVAnjbvD_So"
   },
   "videos": [
     {
-      "title": "Match Highlights | FIFA World Cup 2026™ - YouTube",
-      "videoId": "fL0DSslHkbc",
-      "channel": "Web Search",
+      "title": "Post-Match Press Conference: Switzerland's Murat Yakin On 1-3 Loss To Argentina",
+      "videoId": "lM9VPYREkyw",
+      "channel": "FIFA",
       "publishedAt": "2026-07-12",
       "category": "Highlights",
       "team": [
-        "Spain",
-        "Belgium"
+        "Argentina",
+        "Switzerland"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fL0DSslHkbc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/lM9VPYREkyw/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium",
-      "source": "match-search"
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "Post-Match Press Conference: Argentina's Lionel Scaloni On 3-1 Win Over Switzerland",
+      "videoId": "rI-X5-i1WAQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-12",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/rI-X5-i1WAQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "Post-Match Player Interviews: Argentina 3-1 Switzerland",
+      "videoId": "ijviGll27qk",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-12",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ijviGll27qk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
     },
     {
       "title": "World Cup Rematch: Spain 1-3 France | 2006 Round of 16 Fightback",
@@ -226,52 +259,15 @@
       "fixtureTeams": "France vs Morocco"
     },
     {
-      "title": "Bellingham scores the winner for England against Norway. #FIFAWorldCupOnYT",
-      "videoId": "eejGRquHy_Q",
-      "channel": "FIFA",
+      "title": "Stopping penalties from these legends 👀🧤",
+      "videoId": "ZjkLn6P3Px0",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-12",
       "category": "Highlights",
-      "team": [
-        "England",
-        "Norway"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/eejGRquHy_Q/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco"
-    },
-    {
-      "title": "Norway 🆚 England #FIFAWorldCupOnYT",
-      "videoId": "-DvUwKxKIFw",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-12",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-DvUwKxKIFw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco"
-    },
-    {
-      "title": "Post-Match Press Conference: Norway's Ståle Solbakken On The 2-1 Loss To England",
-      "videoId": "a-8t7BqvGjU",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-12",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/a-8t7BqvGjU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/ZjkLn6P3Px0/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "France vs Morocco"
@@ -313,7 +309,7 @@
       "fixtureTeams": "France vs Morocco"
     },
     {
-      "title": "‘IT’S RIDICULOUS!’ 😳 REACTION to VAR decision on England's first goal | ESPN FC",
+      "title": "��IT’S RIDICULOUS!’ 😳 REACTION to VAR decision on England's first goal | ESPN FC",
       "videoId": "meLiooKTJBc",
       "channel": "ESPN FC",
       "publishedAt": "2026-07-12",
@@ -505,20 +501,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/E4PJCXuVRoM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco"
-    },
-    {
-      "title": "Vozinha's return to Cape Verde 🤩⚽️ (via @vozinha1/IG)",
-      "videoId": "PBzAXLFNc7Y",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-11",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PBzAXLFNc7Y/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "France vs Morocco"
