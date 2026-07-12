@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-07-12T16:06:33.597Z",
+  "lastUpdated": "2026-07-12T16:27:41.863Z",
   "featured": {
-    "match": "Ye5DJJsY5tk",
-    "highlight": "Ye5DJJsY5tk",
+    "match": "fL0DSslHkbc",
+    "highlight": "fL0DSslHkbc",
     "interview": "CVAnjbvD_So"
   },
   "videos": [
+    {
+      "title": "Match Highlights | FIFA World Cup 2026™ - YouTube",
+      "videoId": "fL0DSslHkbc",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-12",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fL0DSslHkbc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium",
+      "source": "match-search"
+    },
     {
       "title": "Alt Cast Highlights: Norway v England | FIFA World Cup 2026™",
       "videoId": "Ye5DJJsY5tk",
