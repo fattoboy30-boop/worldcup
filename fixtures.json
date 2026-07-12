@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T00:12:55.395Z",
+  "lastUpdated": "2026-07-12T03:57:32.828Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2483,13 +2483,13 @@
       "utcDate": "2026-07-12T01:00Z",
       "homeTeam": "Argentina",
       "homeCode": "ar",
-      "homeScore": 0,
+      "homeScore": 3,
       "awayTeam": "Switzerland",
       "awayCode": "ch",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "GEHA Field at Arrowhead Stadium",
       "city": "Kansas City, Missouri",
-      "status": "timed",
+      "status": "finished",
       "group": "J",
       "stage": "QUARTERFINALS",
       "matchday": 0,
@@ -2534,8 +2534,8 @@
       "homeTeam": "England",
       "homeCode": "gb-eng",
       "homeScore": 0,
-      "awayTeam": "Quarterfinal 4 Winner",
-      "awayCode": "un",
+      "awayTeam": "Argentina",
+      "awayCode": "ar",
       "awayScore": 0,
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta, Georgia",
@@ -2549,7 +2549,7 @@
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/gb-eng.png",
-      "awayFlag": "https://flagcdn.com/w160/un.png"
+      "awayFlag": "https://flagcdn.com/w160/ar.png"
     },
     {
       "id": 760516,

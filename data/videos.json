@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-07-12T03:46:06.132Z",
+  "lastUpdated": "2026-07-12T03:57:45.768Z",
   "featured": {
-    "match": "m2YIgnjuEII",
-    "highlight": "m2YIgnjuEII",
+    "match": "cUAbLhCgAmk",
+    "highlight": "cUAbLhCgAmk",
     "interview": "QZeWQmJ0cJQ"
   },
   "videos": [
+    {
+      "title": "Spain 2-1 Belgium | Merino STUNNER! Full Match Highlights | FIFA World ...",
+      "videoId": "cUAbLhCgAmk",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-12",
+      "category": "Full Match",
+      "team": [
+        "Spain",
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cUAbLhCgAmk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium",
+      "source": "match-search"
+    },
     {
       "title": "Jude Bellingham Goal | Norway 1-2 England | FIFA World Cup 2026™",
       "videoId": "m2YIgnjuEII",

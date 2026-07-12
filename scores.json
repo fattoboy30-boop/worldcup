@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T00:12:55.393Z",
+  "lastUpdated": "2026-07-12T03:57:32.826Z",
   "liveMatches": [],
   "recentResults": [
     {
@@ -2278,9 +2278,7 @@
         null,
         null
       ]
-    }
-  ],
-  "upcomingMatches": [
+    },
     {
       "id": 760513,
       "date": "2026-07-12",
@@ -2288,13 +2286,13 @@
       "utcDate": "2026-07-12T01:00Z",
       "homeTeam": "Argentina",
       "homeCode": "ar",
-      "homeScore": 0,
+      "homeScore": 3,
       "awayTeam": "Switzerland",
       "awayCode": "ch",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "GEHA Field at Arrowhead Stadium",
       "city": "Kansas City, Missouri",
-      "status": "timed",
+      "status": "finished",
       "group": "J",
       "stage": "QUARTERFINALS",
       "matchday": 0,
@@ -2303,7 +2301,9 @@
         null,
         null
       ]
-    },
+    }
+  ],
+  "upcomingMatches": [
     {
       "id": 760514,
       "date": "2026-07-14",
@@ -2335,8 +2335,8 @@
       "homeTeam": "England",
       "homeCode": "gb-eng",
       "homeScore": 0,
-      "awayTeam": "Quarterfinal 4 Winner",
-      "awayCode": "un",
+      "awayTeam": "Argentina",
+      "awayCode": "ar",
       "awayScore": 0,
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta, Georgia",
