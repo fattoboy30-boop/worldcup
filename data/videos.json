@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-07-12T06:36:53.505Z",
+  "lastUpdated": "2026-07-12T06:39:00.385Z",
   "featured": {
-    "match": "QiKaHQJfUzk",
-    "highlight": "QiKaHQJfUzk",
+    "match": "jqG_pZGkLcc",
+    "highlight": "jqG_pZGkLcc",
     "interview": "CVAnjbvD_So"
   },
   "videos": [
+    {
+      "title": "Spain vs Belgium Highlights 2026 FIFA World Cup ... - YouTube",
+      "videoId": "jqG_pZGkLcc",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-12",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jqG_pZGkLcc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium",
+      "source": "match-search"
+    },
     {
       "title": "Lautaro Martínez Goal | Argentina 3-1 Switzerland | FIFA World Cup 2026™",
       "videoId": "QiKaHQJfUzk",
