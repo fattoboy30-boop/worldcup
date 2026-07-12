@@ -1,30 +1,6 @@
 {
-  "lastUpdated": "2026-07-11T23:14:43.673Z",
-  "liveMatches": [
-    {
-      "id": 760512,
-      "date": "2026-07-11",
-      "time": "21:00",
-      "utcDate": "2026-07-11T21:00Z",
-      "homeTeam": "Norway",
-      "homeCode": "no",
-      "homeScore": 1,
-      "awayTeam": "England",
-      "awayCode": "gb-eng",
-      "awayScore": 2,
-      "venue": "Hard Rock Stadium",
-      "city": "Miami Gardens, Florida",
-      "status": "in_play",
-      "group": "I",
-      "stage": "QUARTERFINALS",
-      "matchday": 0,
-      "minute": "97'",
-      "halfTime": [
-        null,
-        null
-      ]
-    }
-  ],
+  "lastUpdated": "2026-07-12T00:10:53.050Z",
+  "liveMatches": [],
   "recentResults": [
     {
       "id": 760415,
@@ -2279,6 +2255,29 @@
         null,
         null
       ]
+    },
+    {
+      "id": 760512,
+      "date": "2026-07-11",
+      "time": "21:00",
+      "utcDate": "2026-07-11T21:00Z",
+      "homeTeam": "Norway",
+      "homeCode": "no",
+      "homeScore": 1,
+      "awayTeam": "England",
+      "awayCode": "gb-eng",
+      "awayScore": 2,
+      "venue": "Hard Rock Stadium",
+      "city": "Miami Gardens, Florida",
+      "status": "finished",
+      "group": "I",
+      "stage": "QUARTERFINALS",
+      "matchday": 0,
+      "minute": null,
+      "halfTime": [
+        null,
+        null
+      ]
     }
   ],
   "upcomingMatches": [
@@ -2333,8 +2332,8 @@
       "date": "2026-07-15",
       "time": "19:00",
       "utcDate": "2026-07-15T19:00Z",
-      "homeTeam": "Quarterfinal 3 Winner",
-      "homeCode": "un",
+      "homeTeam": "England",
+      "homeCode": "gb-eng",
       "homeScore": 0,
       "awayTeam": "Quarterfinal 4 Winner",
       "awayCode": "un",
@@ -2342,7 +2341,7 @@
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta, Georgia",
       "status": "timed",
-      "group": null,
+      "group": "L",
       "stage": "SEMIFINALS",
       "matchday": 0,
       "minute": null,

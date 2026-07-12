@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T23:14:43.676Z",
+  "lastUpdated": "2026-07-12T00:10:53.053Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2464,11 +2464,11 @@
       "awayScore": 2,
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens, Florida",
-      "status": "in_play",
+      "status": "finished",
       "group": "I",
       "stage": "QUARTERFINALS",
       "matchday": 0,
-      "minute": "97'",
+      "minute": null,
       "halfTime": [
         null,
         null
@@ -2531,8 +2531,8 @@
       "date": "2026-07-15",
       "time": "19:00",
       "utcDate": "2026-07-15T19:00Z",
-      "homeTeam": "Quarterfinal 3 Winner",
-      "homeCode": "un",
+      "homeTeam": "England",
+      "homeCode": "gb-eng",
       "homeScore": 0,
       "awayTeam": "Quarterfinal 4 Winner",
       "awayCode": "un",
@@ -2540,7 +2540,7 @@
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta, Georgia",
       "status": "timed",
-      "group": null,
+      "group": "L",
       "stage": "SEMIFINALS",
       "matchday": 0,
       "minute": null,
@@ -2548,7 +2548,7 @@
         null,
         null
       ],
-      "homeFlag": "https://flagcdn.com/w160/un.png",
+      "homeFlag": "https://flagcdn.com/w160/gb-eng.png",
       "awayFlag": "https://flagcdn.com/w160/un.png"
     },
     {
