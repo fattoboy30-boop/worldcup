@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-07-12T11:13:12.289Z",
+  "lastUpdated": "2026-07-12T11:38:32.814Z",
   "featured": {
-    "match": "lM9VPYREkyw",
-    "highlight": "lM9VPYREkyw",
+    "match": "jqG_pZGkLcc",
+    "highlight": "jqG_pZGkLcc",
     "interview": "CVAnjbvD_So"
   },
   "videos": [
+    {
+      "title": "Match Highlights | FIFA World Cup 2026™ - YouTube",
+      "videoId": "jqG_pZGkLcc",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-12",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jqG_pZGkLcc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium",
+      "source": "match-search"
+    },
     {
       "title": "Post-Match Press Conference: Switzerland's Murat Yakin On 1-3 Loss To Argentina",
       "videoId": "lM9VPYREkyw",
