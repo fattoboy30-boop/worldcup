@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-07-12T22:54:44.423Z",
+  "lastUpdated": "2026-07-12T23:36:41.180Z",
   "featured": {
-    "match": "CgAh-JRv7r8",
-    "highlight": "CgAh-JRv7r8",
+    "match": "fL0DSslHkbc",
+    "highlight": "fL0DSslHkbc",
     "interview": "CVAnjbvD_So"
   },
   "videos": [
+    {
+      "title": "Match Highlights | FIFA World Cup 2026™ - YouTube",
+      "videoId": "fL0DSslHkbc",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-12",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fL0DSslHkbc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium",
+      "source": "match-search"
+    },
     {
       "title": "Team @IShowSpeed are your YouTube FIFA Creator Cup winners! 🏆👏",
       "videoId": "CgAh-JRv7r8",
