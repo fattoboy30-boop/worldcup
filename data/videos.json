@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-07-13T11:37:49.388Z",
+  "lastUpdated": "2026-07-13T16:32:25.462Z",
   "featured": {
-    "match": "35BRjni0tsQ",
-    "highlight": "35BRjni0tsQ",
+    "match": "EnwZSF5Y9Qs",
+    "highlight": "EnwZSF5Y9Qs",
     "interview": "CVAnjbvD_So"
   },
   "videos": [
+    {
+      "title": "Norway vs England Highlights | FIFA World Cup 2026 - YouTube",
+      "videoId": "EnwZSF5Y9Qs",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/EnwZSF5Y9Qs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Norway vs England",
+      "source": "match-search"
+    },
     {
       "title": "Norway vs England Highlights 2026 FIFA World Cup™ | Quarterfinals",
       "videoId": "35BRjni0tsQ",
