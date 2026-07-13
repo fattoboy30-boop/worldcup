@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-07-13T21:59:56.031Z",
+  "lastUpdated": "2026-07-13T22:09:14.327Z",
   "featured": {
-    "match": "D-e_fo1Bfu4",
-    "highlight": "D-e_fo1Bfu4",
-    "interview": "D-e_fo1Bfu4"
+    "match": "E7ddmmxXEak",
+    "highlight": "E7ddmmxXEak",
+    "interview": "E7ddmmxXEak"
   },
   "videos": [
+    {
+      "title": "FIFA World Cup 2026 | Norway Vs England Highlights - YouTube",
+      "videoId": "E7ddmmxXEak",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/E7ddmmxXEak/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Norway vs England",
+      "source": "match-search"
+    },
     {
       "title": "IShowSpeed Highlights | The YouTube FIFA Creator Cup",
       "videoId": "D-e_fo1Bfu4",
