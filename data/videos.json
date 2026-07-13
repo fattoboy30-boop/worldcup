@@ -1,28 +1,24 @@
 {
-  "lastUpdated": "2026-07-13T18:21:08.228Z",
+  "lastUpdated": "2026-07-13T18:45:28.253Z",
   "featured": {
-    "match": "nnKTC1Dnyeo",
-    "highlight": "nnKTC1Dnyeo",
-    "interview": "nnKTC1Dnyeo"
+    "match": "EKjxtxDG4hc",
+    "highlight": "EKjxtxDG4hc",
+    "interview": "EKjxtxDG4hc"
   },
   "videos": [
     {
-      "title": "England vs Norway 3-1 | All Goals & Highlights | FIFA World Cup 2026",
-      "videoId": "nnKTC1Dnyeo",
-      "channel": "Web Search",
+      "title": "ALL-TIME: Top Semi-Final Goals In World Cup History",
+      "videoId": "EKjxtxDG4hc",
+      "channel": "FIFA",
       "publishedAt": "2026-07-13",
       "category": "Highlights",
-      "team": [
-        "England",
-        "Norway"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/nnKTC1Dnyeo/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/EKjxtxDG4hc/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
-      "fixtureTeams": "Norway vs England",
-      "source": "match-search"
+      "fixtureTeams": "Spain vs Belgium"
     },
     {
       "title": "This @IShowSpeed touch needed it's own slow-mo moment 👏",
@@ -228,18 +224,50 @@
       "fixtureTeams": "Spain vs Belgium"
     },
     {
-      "title": "Highlights | Argentina 3-1 Switzerland | FIFA World Cup 2026™",
-      "videoId": "zZxxDbLxEi4",
-      "channel": "FIFA",
+      "title": "Maurice Edu had Rich Eisen at a loss for words 🤣",
+      "videoId": "Cb7g_Nkl1HY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Cb7g_Nkl1HY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "Jude Bellingham has ‘delivered in the most crucial ways’ for England - Maurice Edu | Rich Eisen Show",
+      "videoId": "ALsRzvVsqJE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ALsRzvVsqJE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "THE SEMIFINALS ARE SET ⚽ Previewing France vs. Spain and England vs. Argentina | First Take",
+      "videoId": "wgwlzaXXsCQ",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-13",
       "category": "Highlights",
       "team": [
         "Argentina",
-        "Switzerland"
+        "France",
+        "England",
+        "Spain"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/zZxxDbLxEi4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/wgwlzaXXsCQ/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Spain vs Belgium"
@@ -419,54 +447,6 @@
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Spain vs Belgium"
-    },
-    {
-      "title": "Does Jude Bellingham have a better international career than David Beckham? | ESPN FC Extra Time",
-      "videoId": "G9SsvMiC6KQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/G9SsvMiC6KQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium"
-    },
-    {
-      "title": "Tension brewing between Jude Bellingham and Thomas Tuchel? 👀 + England vs. Argentina | ESPN FC",
-      "videoId": "KpSo3vK-M-c",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-12",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/KpSo3vK-M-c/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco"
-    },
-    {
-      "title": "England vs. Argentina Preview: Jurgen Klinsmann says it’ll be a ‘nailbiter’ 👀 | ESPN FC",
-      "videoId": "z6dhbbmikNE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-12",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/z6dhbbmikNE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "France vs Morocco"
     }
   ]
 }
