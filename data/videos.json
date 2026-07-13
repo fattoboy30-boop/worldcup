@@ -1,28 +1,465 @@
 {
-  "lastUpdated": "2026-07-13T08:16:05.438Z",
+  "lastUpdated": "2026-07-13T10:33:40.835Z",
   "featured": {
-    "match": "nnKTC1Dnyeo",
-    "highlight": "nnKTC1Dnyeo",
-    "interview": "nnKTC1Dnyeo"
+    "match": "gcvXrStbjSU",
+    "highlight": "gcvXrStbjSU",
+    "interview": "CVAnjbvD_So"
   },
   "videos": [
     {
-      "title": "England vs Norway 3-1 | All Goals & Highlights | FIFA World Cup 2026",
-      "videoId": "nnKTC1Dnyeo",
-      "channel": "Web Search",
+      "title": "Team Feature: France | Mbappé Can Become The Greatest French Player Of All Time",
+      "videoId": "gcvXrStbjSU",
+      "channel": "FIFA",
       "publishedAt": "2026-07-13",
       "category": "Highlights",
       "team": [
-        "England",
-        "Norway"
+        "France"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/nnKTC1Dnyeo/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/gcvXrStbjSU/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
-      "fixtureTeams": "Norway vs England",
-      "source": "match-search"
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "Team Feature: Spain | Road To The FIFA World Cup 2026 Semi Finals",
+      "videoId": "T5d4jsPIDhY",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/T5d4jsPIDhY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "@CelineDept = Cool under pressure 🥶",
+      "videoId": "SKXRuvSW4wE",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/SKXRuvSW4wE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "Speed, to perfection. Team @IShowSpeed celebrated the YouTube FIFA Creator Cup in style! 🙌",
+      "videoId": "pM_RYDMxRW8",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/pM_RYDMxRW8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "The Best Of Jude Bellingham | FIFA World Cup 2026™",
+      "videoId": "wju0uROCODg",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/wju0uROCODg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "Team Speed 7-6 Team Celine | The YouTube FIFA Creator Cup Highlights",
+      "videoId": "JqW2dEOwCak",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JqW2dEOwCak/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "Highlights | Argentina 3-1 Switzerland | FIFA World Cup 2026™",
+      "videoId": "zZxxDbLxEi4",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/zZxxDbLxEi4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "ESPN FC breaks down the World Cup Semifinals 🍿 [FULL SHOW]",
+      "videoId": "enWXWuVIP8o",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/enWXWuVIP8o/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "Does Jude Bellingham have a better international career than David Beckham? | ESPN FC Extra Time",
+      "videoId": "G9SsvMiC6KQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/G9SsvMiC6KQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "Who is your favourite #FIFAWorldCup player? 👀",
+      "videoId": "g0rjuf0vTsQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/g0rjuf0vTsQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "World Cup Rematch | England 1-0 Argentina | The 1966 Battle",
+      "videoId": "GoaOgvzY-V4",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-12",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/GoaOgvzY-V4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "Team @IShowSpeed are your YouTube FIFA Creator Cup winners! 🏆👏",
+      "videoId": "CgAh-JRv7r8",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/CgAh-JRv7r8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "Semi-Finals set at FIFA World Cup 2026™",
+      "videoId": "PL7gu2eUsdI",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/PL7gu2eUsdI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "The YouTube FIFA Creator Cup | July 12 LIVE from Central Park",
+      "videoId": "aRHrS1wi8Zc",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/aRHrS1wi8Zc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "What is your football hot-take? 🥵",
+      "videoId": "lrrsiLUYK-0",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/lrrsiLUYK-0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "@IShowSpeed  gets on the scoresheet 💪",
+      "videoId": "OeVFSVDHlBU",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/OeVFSVDHlBU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "Showtime in Central Park! 🍿",
+      "videoId": "kJR8vHiJUS4",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/kJR8vHiJUS4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "Tension brewing between Jude Bellingham and Thomas Tuchel? 👀 + England vs. Argentina | ESPN FC",
+      "videoId": "KpSo3vK-M-c",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-12",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/KpSo3vK-M-c/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "England vs. Argentina Preview: Jurgen Klinsmann says it’ll be a ‘nailbiter’ 👀 | ESPN FC",
+      "videoId": "z6dhbbmikNE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-12",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/z6dhbbmikNE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "Has Argentina been LUCKY during their 2026 World Cup run? 😳 | ESPN FC",
+      "videoId": "tJauHwwxeUo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-12",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tJauHwwxeUo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "Why did Erling Haaland come off against England? 🤔",
+      "videoId": "y2A_m33Vu7k",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-12",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/y2A_m33Vu7k/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "Curse? (via @IShowSpeed/TT)",
+      "videoId": "G-DagW6B-Y8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/G-DagW6B-Y8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "World Cup Semifinals PREVIEWS 🌎 Juls Laurens says Lamine Yamal FEARS NO ONE! | SportsCenter",
+      "videoId": "_tZ3x2eQjMA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_tZ3x2eQjMA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "Lamine Yamal has NO FEAR 😮",
+      "videoId": "2zYvfMx9LzU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/2zYvfMx9LzU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "Stopping penalties from these legends 👀🧤",
+      "videoId": "ZjkLn6P3Px0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ZjkLn6P3Px0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "The 2026 World Cup Semifinals are set 🔥 France vs. Spain and England vs. Argentina | ESPN FC",
+      "videoId": "QehCQ3EVifI",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-12",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "France",
+        "England",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QehCQ3EVifI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "Reaction to Embolo's dive resulting in a red card for Switzerland vs. Argentina | ESPN FC Extra Time",
+      "videoId": "CVAnjbvD_So",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-12",
+      "category": "Viral",
+      "team": [
+        "Argentina",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/CVAnjbvD_So/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "‘IT’S RIDICULOUS!’ 😳 REACTION to VAR decision on England's first goal | ESPN FC",
+      "videoId": "meLiooKTJBc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-12",
+      "category": "Viral",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/meLiooKTJBc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "‘A BAD LOOK’ 😳 REACTION to Bellingham DISAGREEING with Tuchel’s criticism of England 🍿 | ESPN FC",
+      "videoId": "EOEH3TT5rg4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-12",
+      "category": "Viral",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/EOEH3TT5rg4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
+    },
+    {
+      "title": "Who had the best defensive performance of the Argentina vs. Switzerland quarterfinal?",
+      "videoId": "IobFaCSmNhI",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-12",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/IobFaCSmNhI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "France vs Morocco"
     }
   ]
 }
