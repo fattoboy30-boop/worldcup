@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-07-13T10:33:40.835Z",
+  "lastUpdated": "2026-07-13T11:37:49.388Z",
   "featured": {
-    "match": "gcvXrStbjSU",
-    "highlight": "gcvXrStbjSU",
+    "match": "35BRjni0tsQ",
+    "highlight": "35BRjni0tsQ",
     "interview": "CVAnjbvD_So"
   },
   "videos": [
+    {
+      "title": "Norway vs England Highlights 2026 FIFA World Cup™ | Quarterfinals",
+      "videoId": "35BRjni0tsQ",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/35BRjni0tsQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Norway vs England",
+      "source": "match-search"
+    },
     {
       "title": "Team Feature: France | Mbappé Can Become The Greatest French Player Of All Time",
       "videoId": "gcvXrStbjSU",
