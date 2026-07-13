@@ -1,15 +1,69 @@
 {
-  "lastUpdated": "2026-07-13T06:54:40.345Z",
-  "totalArticles": 19894,
+  "lastUpdated": "2026-07-13T11:13:59.395Z",
+  "totalArticles": 19911,
   "articles": [
     {
-      "title": "These are unprecedented times for England - enjoy them",
+      "title": "Most clinical? Least creative? Best in the air? Comparing the last four",
+      "source": "BBC Sport",
+      "date": "2026-07-13",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2k9qj2nyvo?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9070/live/35b6c750-7e3a-11f1-9abb-e3440c15eda8.jpg",
+      "description": "BBC Sport compares statistics for France, Spain, Argentina and England in the World Cup so far as the semi-finalists prepare to meet."
+    },
+    {
+      "title": "These are unprecedented times - England should enjoy them",
       "source": "BBC Sport",
       "date": "2026-07-13",
       "url": "https://www.bbc.co.uk/sport/football/articles/c932rqverkvo?at_medium=RSS&amp;at_campaign=rss",
       "category": "general",
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f13f/live/994b5c40-7e12-11f1-8e47-a72d6eeabcac.jpg",
       "description": "A record of four semi-finals in the past five international tournaments for England is outstanding. It is time to accept that this is where England belong."
+    },
+    {
+      "title": "Chris Sutton's World Cup semi-final predictions",
+      "source": "BBC Sport",
+      "date": "2026-07-13",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gynmr6vjro?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da24/live/94353bc0-641a-11f1-8546-8f19e4fe30f4.jpg",
+      "description": "BBC Sport's football expert Chris Sutton gives his predictions for the semi-final ties at the 2026 World Cup."
+    },
+    {
+      "title": "BBC experts pick their England World Cup semi-final XI - do you agree?",
+      "source": "BBC Sport",
+      "date": "2026-07-13",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz75x4jgddpo?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b999/live/ff26aa50-7d91-11f1-9b2d-630268077fd8.jpg",
+      "description": "England are through to the World Cup semi-finals, but who would you pick in your starting XI?"
+    },
+    {
+      "title": "Borrowed shoes, no Golden Boot - the story of the World Cup's greatest scorer",
+      "source": "BBC Sport",
+      "date": "2026-07-13",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c621xndyd7no?at_medium=RSS&amp;at_campaign=rss",
+      "category": "injuries",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3075/live/1e1b5410-7adb-11f1-9c5e-418249f4ce83.jpg",
+      "description": "Just Fontaine's record of 13 goals in a single World Cup has stood for decades, but he never played in the tournament again after injury ended his career at the age of 28."
+    },
+    {
+      "title": "England top air miles among semi-finalists - does it matter?",
+      "source": "BBC Sport",
+      "date": "2026-07-13",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj4g7v9e51jo?at_medium=RSS&amp;at_campaign=rss",
+      "category": "squad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ca7/live/8825fcb0-7d07-11f1-923a-a7d66f37fd92.jpg",
+      "description": "England have travelled far more than rivals France and Argentina as World Cup 2026 tests teams across North America."
+    },
+    {
+      "title": "Spain defender Leon joins London City Lionesses",
+      "source": "BBC Sport",
+      "date": "2026-07-13",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20ynnvyx4yo?at_medium=RSS&amp;at_campaign=rss",
+      "category": "transfers",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88e5/live/44899680-7ea4-11f1-b9b3-6f05d83bac80.png",
+      "description": "Spain defender Mapi Leon joins London City Lionesses on a three-year deal following her exit from Barcelona."
     },
     {
       "title": "Who am I? Guess World Cup star No 36",
@@ -21,6 +75,24 @@
       "description": "Will you get today's player in as few attempts as possible?"
     },
     {
+      "title": "Ted Lasso actor Fernandez makes professional debut",
+      "source": "BBC Sport",
+      "date": "2026-07-13",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg7me5kdk1o?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dcf/live/a4d6c270-7e99-11f1-ad45-adf0cd386d7a.jpg",
+      "description": "Ted Lasso actor Cristo Fernandez makes his professional football debut for American second-tier side El Paso Locomotive."
+    },
+    {
+      "title": "More than the Score",
+      "source": "BBC Sport",
+      "date": "2026-07-13",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nyh5jk?at_medium=RSS&amp;at_campaign=rss",
+      "category": "results",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0nyh5n3.jpg",
+      "description": "The stories of World Cup stars from refugee families"
+    },
+    {
       "title": "Bombs, blood, ambushes - football coaching with the army",
       "source": "BBC Sport",
       "date": "2026-07-13",
@@ -28,6 +100,105 @@
       "category": "general",
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d7d/live/da7f58f0-7e6d-11f1-bee8-53ce494e1abc.jpg",
       "description": "From kidnappings to invasions, military training takes football coaches out of their comfort zone as part of the Football Association of Wales' Uefa pro licence course."
+    },
+    {
+      "title": "Who has been eliminated from the World Cup?",
+      "source": "BBC Sport",
+      "date": "2026-07-13",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c74y970len4o?at_medium=RSS&amp;at_campaign=rss",
+      "category": "squad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3a3/live/85cc4cc0-7e9d-11f1-b976-0b9c15b0ccfc.jpg",
+      "description": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
+    },
+    {
+      "title": "Who has your Premiership club brought in & let go this summer?",
+      "source": "BBC Sport",
+      "date": "2026-07-13",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&amp;at_campaign=rss",
+      "category": "transfers",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d6d/live/0fb0f9e0-4a24-11f0-9471-e380f647874e.jpg",
+      "description": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the  2026 summer transfer window."
+    },
+    {
+      "title": "World Cup 2026: England’s James ready for semi-final, Infantino hints at 64-team expansion – live",
+      "source": "The Guardian",
+      "date": "2026-07-13",
+      "url": "https://www.theguardian.com/football/live/2026/jul/13/world-cup-2026-buildup-to-blockbuster-semi-finals-infantino-hints-at-64-team-expansion-live",
+      "category": "transfers",
+      "thumbnail": "",
+      "description": "<ul><li><p>Latest news as final week of World Cup gets under way</p></li><li><p><a href=\"https://www.theguardian.com/football/2026/jul/12/world-cup-2026-power-rankings-france-spain-england-argentina\">Power rankings</a> | <a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign"
+    },
+    {
+      "title": "Andy Burnham has body of work that speaks volumes about how he gets football | Rob Draper",
+      "source": "The Guardian",
+      "date": "2026-07-13",
+      "url": "https://www.theguardian.com/football/2026/jul/13/andy-burnham-body-of-work-football",
+      "category": "transfers",
+      "thumbnail": "",
+      "description": "<p>Prime-minister-in-waiting has been a key figure in overhauls behind the scenes of the game, as well helping to create the Hillsborough Independent Panel</p><p>Picking up the country when it is in a slump of self-doubt is perhaps within Andy Burnham’s reach. And football, close to Burnham’s heart,"
+    },
+    {
+      "title": "Aston Villa hijack Newcastle’s pursuit of £49m Johan Manzambi from Freiburg",
+      "source": "The Guardian",
+      "date": "2026-07-13",
+      "url": "https://www.theguardian.com/football/2026/jul/13/aston-villa-hijack-newcastle-pursuit-of-johan-manzambi-from-freiburg-transfer-window",
+      "category": "transfers",
+      "thumbnail": "",
+      "description": "<ul><li><p>Midfielder faced Villa in Europa League final in May</p></li><li><p>U-turn another summer transfer blow for Newcastle</p></li></ul><p>Aston Villa have hijacked Newcastle’s pursuit of Johan Manzambi, and are close to completing a £49m deal with Freiburg for the Switzerland midfielder.</p><"
+    },
+    {
+      "title": "World Cup quiz: how well do you remember USA 94?",
+      "source": "The Guardian",
+      "date": "2026-07-13",
+      "url": "https://www.theguardian.com/football/2026/jul/13/world-cup-quiz-usa-94-united-states",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<p>How much do you know about the first tournament played in the United States?</p> <a href=\"https://www.theguardian.com/football/2026/jul/13/world-cup-quiz-usa-94-united-states\">Continue reading...</a>"
+    },
+    {
+      "title": "Sky Sports pundits try to recreate Ghosh's incredible catch",
+      "source": "Sky Sports",
+      "date": "2026-07-13",
+      "url": "https://www.skysports.com/watch/video/13562971/england-vs-india-women-sky-sports-pundits-try-to-recreate-ghoshs-incredible-catch",
+      "category": "general",
+      "thumbnail": "https://e2.365dm.com/26/07/1920x1080/skysports-catch-ghos_7296421.jpg?20260713105947",
+      "description": "Sky Sports' pundits chatted with Richa Ghosh about her incredible catch against England and then try their best to recreate the moment."
+    },
+    {
+      "title": "Bellingham leads England's World Cup stats after knockout heroics",
+      "source": "Sky Sports",
+      "date": "2026-07-13",
+      "url": "https://www.skysports.com/football/news/12040/13562946/jude-bellingham-leads-world-cup-2026-england-stats-after-scoring-twice-against-norway-and-mexico-ahead-of-argentina-semi-final",
+      "category": "results",
+      "thumbnail": "https://e2.365dm.com/26/07/1920x1080/skysports-england-norway_7295605.jpg?20260712004044",
+      "description": "Jude Bellingham fever grips the nation after the Real Madrid midfielder scored two goals - for the second game running - in England's 2-1 win over Norway."
+    },
+    {
+      "title": "India need one wicket to beat England in Women's Test at Lord's LIVE!",
+      "source": "Sky Sports",
+      "date": "2026-07-13",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13562905/england-vs-india-womens-test-day-four-live-cricket-score-updates-video-and-analysis-from-game-at-lords",
+      "category": "general",
+      "thumbnail": "https://e2.365dm.com/26/07/1920x1080/skysports-amy-jones-england-womens-cricket_7295207.jpg?20260711125910",
+      "description": ""
+    },
+    {
+      "title": "Best of Iraola's first Liverpool presser: Style of play, transfer plans and 'magic'",
+      "source": "Sky Sports",
+      "date": "2026-07-13",
+      "url": "https://www.skysports.com/watch/video/13563000/andoni-iraola-best-of-liverpool-head-coachs-first-press-conference",
+      "category": "transfers",
+      "thumbnail": "https://e0.365dm.com/26/07/1920x1080/skysports-iraola-liverpool_7296486.jpg?20260713115535",
+      "description": "Take a look at the best bits from Andoni Iraola's first Liverpool press conference."
+    },
+    {
+      "title": "Kit colours revealed for England vs Argentina clash",
+      "source": "Sky Sports",
+      "date": "2026-07-13",
+      "url": "https://www.skysports.com/football/england-vs-argentina/live/549867",
+      "category": "general",
+      "thumbnail": "https://e2.365dm.com/26/07/1920x1080/skysports-world-cup-semi-final_7295761.jpg?20260712083024",
+      "description": ""
     },
     {
       "title": "Ratajski beats Wattimena to lift European Darts Open title",
@@ -48,6 +219,15 @@
       "description": "Passionate, driven, uncompromising. Those are terms that can be equally applied to both Thomas Tuchel and Jude Bellingham."
     },
     {
+      "title": "Wimbledon Day 14 wrap: Sinner successfully defends his title as he edges past Zverev",
+      "source": "Sky Sports",
+      "date": "2026-07-13",
+      "url": "https://www.skysports.com/watch/video/13562926/wimbledon-day-14-wrap-sinner-successfully-defends-his-title-as-he-edges-past-zverev",
+      "category": "general",
+      "thumbnail": "https://e1.365dm.com/26/07/1920x1080/skysports-sinner-zverev-wimbledon_7296311.jpg?20260713084140",
+      "description": "All the action from day 14 of Wimbledon as Jannik Sinner retains his title by seeing off Alexander Zverev in four sets in the final. Credit: AELTC."
+    },
+    {
       "title": "World Cup latest: 2030 tournament could have 64 teams, says Infantino",
       "source": "Sky Sports",
       "date": "2026-07-13",
@@ -57,7 +237,7 @@
       "description": ""
     },
     {
-      "title": "England latest: We're 'knocking on the door’ of World Cup glory, says Kane",
+      "title": "England latest: O'Reilly expected to be fit to play Argentina",
       "source": "Sky Sports",
       "date": "2026-07-13",
       "url": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
@@ -73,6 +253,1131 @@
       "category": "venues",
       "thumbnail": "https://e1.365dm.com/26/07/1920x1080/skysports-tammy-beaumont-england-women-cricket_7296015.jpg?20260712155844",
       "description": "England are hurtling towards a seemingly inevitable defeat to India in the historic Women's Test at Lord's after closing on 130-6 in a record chase of 457, with Heather Knight and Tammy Beaumont out cheaply in their final knocks before international retirement."
+    },
+    {
+      "title": "Infantino opens door to 64-team World Cup",
+      "source": "BBC Sport",
+      "date": "2026-07-12",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj9gm31jwg8o?at_medium=RSS&amp;at_campaign=rss",
+      "category": "squad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/451c/live/d63516a0-7e21-11f1-a1b8-3d436696a874.jpg",
+      "description": "Plans for a 64-team men's world cup are set to be picked up and assessed in detail after the 2026 tournament with Fifa boss Gianni Infantino saying football needs to be \"for the whole world\"."
+    },
+    {
+      "title": "'We have another level we can reach' - Kane defends frustrated Tuchel",
+      "source": "BBC Sport",
+      "date": "2026-07-12",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy04xjlg5p4o?at_medium=RSS&amp;at_campaign=rss",
+      "category": "results",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc69/live/bdd18370-7e1a-11f1-9b4a-473830aebee3.jpg",
+      "description": "Captain Harry Kane says England \"have another level we can reach\" as they bid to win the World Cup for the first time since 1966."
+    },
+    {
+      "title": "'Animals', Hand of God and Beckham - Argentina and England's World Cup rivalry",
+      "source": "BBC Sport",
+      "date": "2026-07-12",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c621y75w2x2o?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14c2/live/c0979910-7ced-11f1-b976-0b9c15b0ccfc.png",
+      "description": "As England and Argentina prepare to go head-to-head in Wednesday's World Cup semi-final, BBC Sport looks at their footballing rivalry."
+    },
+    {
+      "title": "Argentina v England 1998 - Owen, Beckham and penalty pain",
+      "source": "BBC Sport",
+      "date": "2026-07-12",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cz75405qe3wo?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2221/live/a75d6660-7e22-11f1-b976-0b9c15b0ccfc.jpg",
+      "description": "England meet Argentina in the last 16 of the 1998 World Cup."
+    },
+    {
+      "title": "'Written off as too old' - France beat up-and-coming Spain in 2006",
+      "source": "BBC Sport",
+      "date": "2026-07-12",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c3vyg507xd2o?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97ee/live/afe997c0-7e24-11f1-b976-0b9c15b0ccfc.jpg",
+      "description": "Spain meet France in the last 16 of the 2006 World Cup."
+    },
+    {
+      "title": "Argentina v England 2002 - Redemption for Beckham",
+      "source": "BBC Sport",
+      "date": "2026-07-12",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cy5vxevngndo?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c66/live/0e523620-7e23-11f1-b976-0b9c15b0ccfc.jpg",
+      "description": "England meet Argentina in the group stage of the 2002 World Cup."
+    },
+    {
+      "title": "How Maradona dominated England in 1986",
+      "source": "BBC Sport",
+      "date": "2026-07-12",
+      "url": "https://www.bbc.co.uk/sport/football/videos/clyxj3x99l9o?at_medium=RSS&amp;at_campaign=rss",
+      "category": "squad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e3b/live/977ad240-7e23-11f1-b976-0b9c15b0ccfc.jpg",
+      "description": "Diego Maradona leads his Argentina team to victory against England in the quarter-final of the World Cup in 1986."
+    },
+    {
+      "title": "Arsenal want Argentina's Alvarez - Monday's gossip",
+      "source": "BBC Sport",
+      "date": "2026-07-12",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1myd53vgvno?at_medium=RSS&amp;at_campaign=rss",
+      "category": "transfers",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74c8/live/d7f6d5c0-7e1f-11f1-926f-c90d1bcfbc84.png",
+      "description": "Arsenal want to sign Atletico Madrid's Julian Alvarez, Aston Villa hijack Newcastle's move for Johan Manzambi, plus more."
+    },
+    {
+      "title": "'We should all be excited' - Messi set for first England meeting",
+      "source": "BBC Sport",
+      "date": "2026-07-12",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgexz4qdlgo?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/522e/live/003c3b60-7dc6-11f1-bee8-53ce494e1abc.jpg",
+      "description": "Lionel Messi is set for his first match against England after Argentina beat Switzerland in the World Cup quarter-finals."
+    },
+    {
+      "title": "Tuchel unhappy with England display - so why do they keep winning?",
+      "source": "BBC Sport",
+      "date": "2026-07-12",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7vy25lqll6o?at_medium=RSS&amp;at_campaign=rss",
+      "category": "results",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5df9/live/b19562e0-7deb-11f1-a5de-97ad6e22e20a.jpg",
+      "description": "Football tactics correspondent Umir Irfan examines why England are still winning games despite Thomas Tuchel insisting performances are not good."
+    },
+    {
+      "title": "Top four ranked teams make semi-finals for first time",
+      "source": "BBC Sport",
+      "date": "2026-07-12",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2ey9l3yl4vo?at_medium=RSS&amp;at_campaign=rss",
+      "category": "squad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/730c/live/259b3630-7da9-11f1-b8b7-61bca8be7527.jpg",
+      "description": "For the first time since there have been Fifa rankings the top four ranked teams have made the semi-final of the World Cup."
+    },
+    {
+      "title": "Rice in bed for nearly three days before Norway game - Tuchel",
+      "source": "BBC Sport",
+      "date": "2026-07-12",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpd3wv3v1eeo?at_medium=RSS&amp;at_campaign=rss",
+      "category": "results",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5d2/live/1ef90aa0-7de0-11f1-91f9-abeb669686c2.jpg",
+      "description": "England boss Thomas Tuchel says Declan Rice was in bed for most of the three days prior to the World Cup quarter-final win against Norway because of a sickness bug."
+    },
+    {
+      "title": "Lamine Yamal? Mbappe? Kane? Pick your World Cup semi-final XI",
+      "source": "BBC Sport",
+      "date": "2026-07-12",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg4l37nm0do?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06d1/live/fffe9600-7cdc-11f1-bee8-53ce494e1abc.png",
+      "description": "As we look ahead to the World Cup semi-final, BBC Sport pick their last-four combined XI. Do you agree?"
+    },
+    {
+      "title": "Did ball hit spidercam before England goal? Snicko says not - Norway unsure",
+      "source": "BBC Sport",
+      "date": "2026-07-12",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd95335dp10o?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d256/live/cce243b0-7d8c-11f1-bc93-cb7def7b7e6e.jpg",
+      "description": "Norway's World Cup campaign ends in a quarter-final defeat by England, but they leave frustrated, arguing that Jude Bellingham's equaliser should not have counted."
+    },
+    {
+      "title": "Tuchel angry at 'lucky' England - but Bellingham defends players",
+      "source": "BBC Sport",
+      "date": "2026-07-12",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg474ekv58o?at_medium=RSS&amp;at_campaign=rss",
+      "category": "results",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e625/live/812ffc70-7d99-11f1-9750-97a471ba3018.jpg",
+      "description": "England head coach Thomas Tuchel is praised by former England players for saying his players \"got lucky\" in World Cup quarter-final win over Norway - but match-winner Jude Bellingham disagrees."
+    },
+    {
+      "title": "Big stars and old rivals - what to expect in semi-finals",
+      "source": "BBC Sport",
+      "date": "2026-07-12",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd6ed5x95ygo?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a6f/live/a6cb8cd0-7e05-11f1-afb0-9dae682daff3.png",
+      "description": "France face Spain and England take on Argentina in heavyweight World Cup semi-final meetings - here's what to expect from the last four."
+    },
+    {
+      "title": "Bellingham scores extra-time winner as England reach semi-finals",
+      "source": "BBC Sport",
+      "date": "2026-07-12",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cjrgww8vr98o?at_medium=RSS&amp;at_campaign=rss",
+      "category": "results",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d347/live/bc697920-7d84-11f1-b976-0b9c15b0ccfc.jpg",
+      "description": "Jude Bellingham scores twice, including an extra-time winner, as England come from behind to beat Norway 2-1 in Miami to reach the World Cup semi-finals."
+    },
+    {
+      "title": "Argentina set up England semi-final with extra-time victory over Switzerland",
+      "source": "BBC Sport",
+      "date": "2026-07-12",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c07y37p7gmko?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a713/live/56842520-7da6-11f1-926f-c90d1bcfbc84.jpg",
+      "description": "Argentina set up a World Cup semi-final with England after scoring twice in extra-time to beat 10-man Switzerland 3-1 in Kansas City."
+    },
+    {
+      "title": "Did spider cam impact England's opener?",
+      "source": "BBC Sport",
+      "date": "2026-07-12",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx2kwwdygr9o?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4047/live/6c588f80-7d8d-11f1-b976-0b9c15b0ccfc.jpg",
+      "description": "BBC Sport World Cup pundits Wayne Rooney, Ellen White and Micah Richards look at whether the spider cam had an impact in Jude Bellingham's first goal for England against Norway."
+    },
+    {
+      "title": "Alvarez's stunning strike gives Argentina lead against 10-man Switzerland",
+      "source": "BBC Sport",
+      "date": "2026-07-12",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cp8rg8yy6nvo?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef70/live/6e434680-7da3-11f1-926f-c90d1bcfbc84.jpg",
+      "description": "Argentina retake the lead in their quarter-final against Switzerland through a stunning strike from Julian Alvarez during extra-time in Kansas City."
+    },
+    {
+      "title": "England 'got lucky' with disallowed goal",
+      "source": "BBC Sport",
+      "date": "2026-07-12",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5yznny63pko?at_medium=RSS&amp;at_campaign=rss",
+      "category": "injuries",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/507a/live/36af2060-7d92-11f1-b976-0b9c15b0ccfc.jpg",
+      "description": "BBC Sport World Cup pundits Wayne Rooney and Ellen White believe England \"got lucky\" after Torbjorn Heggem's second-half goal was ruled out for a foul on Elliott Anderson by Erling Haaland."
+    },
+    {
+      "title": "Bellingham reaching heights of World Cup legends with Messi next",
+      "source": "BBC Sport",
+      "date": "2026-07-12",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy5v6544ypxo?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3aa/live/66ff3770-7d9f-11f1-a998-878927a5819d.jpg",
+      "description": "Jude Bellingham again dazzles England and the World Cup with his brilliance, matching some records of the all-time greats."
+    },
+    {
+      "title": "Embolo sent off as result of mistaken identity rule",
+      "source": "BBC Sport",
+      "date": "2026-07-12",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg0k5gdr79o?at_medium=RSS&amp;at_campaign=rss",
+      "category": "results",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ec5/live/7f45e610-7da1-11f1-a049-155ea2296701.jpg",
+      "description": "Switzerland's Breel Embolo becomes first player to be sent off as a result of a new law for mistaken identity at the World Cup."
+    },
+    {
+      "title": "Senegal sack manager Thiaw in wake of World Cup exit",
+      "source": "BBC Sport",
+      "date": "2026-07-12",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq81l29lj2zo?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3690/live/d4ecac00-7dbc-11f1-ad4b-13d0aac581db.jpg",
+      "description": "Senegal sack manager Pape Thiaw in the aftermath of the country's exit at the last-32 stage of the 2026 World Cup."
+    },
+    {
+      "title": "Footballers more likely to suffer depression and anxiety - study",
+      "source": "BBC Sport",
+      "date": "2026-07-12",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn59nnkyy2go?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5e2/live/8e91dd20-7afb-11f1-a13d-51cbdbc312b1.jpg",
+      "description": "A new study finds evidence of reduced brain volume in former elite footballers, who also report difficulties with thinking skills and decision-making."
+    },
+    {
+      "title": "What England must do to win the World Cup from here",
+      "source": "BBC Sport",
+      "date": "2026-07-12",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&amp;at_campaign=rss",
+      "category": "results",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ea1/live/95bd6a10-7d8f-11f1-926f-c90d1bcfbc84.png",
+      "description": "BBC Sport takes a look at what England will need to do to reach the World Cup final after progressing to the semi-finals."
+    },
+    {
+      "title": "Football Daily",
+      "source": "BBC Sport",
+      "date": "2026-07-12",
+      "url": "https://www.bbc.co.uk/sounds/play/p0ns8gfc?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0ntlbyx.jpg",
+      "description": "England are through. Lloyd reacts from Miami as Argentina await."
+    },
+    {
+      "title": "Podcast: Falkirk, Scottish football & the World Cup",
+      "source": "BBC Sport",
+      "date": "2026-07-12",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nyd6sc?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0gf9mfx.jpg",
+      "description": "All the Scottish football news including Falkirk's John McGlynn and the World Cup latest"
+    },
+    {
+      "title": "Tuchel and Bellingham need to cool tension with England so close to history | Jacob Steinberg",
+      "source": "The Guardian",
+      "date": "2026-07-12",
+      "url": "https://www.theguardian.com/football/2026/jul/12/thomas-tuchel-jude-bellingham-tension-england-argentina-norway-world-cup-2026",
+      "category": "transfers",
+      "thumbnail": "",
+      "description": "<p>The latest episode of Thomas versus Jude does not have to descend into a drama and team cannot afford to be distracted heading into the World Cup semi-final</p><p>Thomas Tuchel lobbed a grenade into the mix. Jude Bellingham picked it up and threw it back. There was an explosion of honesty in Miam"
+    },
+    {
+      "title": "Gianni Infantino hints at expansion to 64-team World Cup before 2030 event",
+      "source": "The Guardian",
+      "date": "2026-07-12",
+      "url": "https://www.theguardian.com/football/2026/jul/12/gianni-infantino-expansion-64-team-world-cup-2030-fifa",
+      "category": "results",
+      "thumbnail": "",
+      "description": "<ul><li><p>‘Definitely ​an issue that will be examined and discussed’</p></li><li><p>Fifa president calls 48-team tournament a ‘huge success’</p></li></ul><p>Fifa officials will look at the possibility of expanding the World Cup by another 16 teams before the ⁠2030 event, Gianni Infantino said in an"
+    },
+    {
+      "title": "World Cup 2026 power rankings: who leads the pack as semi-finals loom?",
+      "source": "The Guardian",
+      "date": "2026-07-12",
+      "url": "https://www.theguardian.com/football/2026/jul/12/world-cup-2026-power-rankings-france-spain-england-argentina",
+      "category": "results",
+      "thumbnail": "",
+      "description": "<p>We assess the teams who played in the last eight as the business end of the tournament approaches</p><p>Didier Deschamps has seen it all before and certainly does not fear even the lowest of blocks. It is clear everyone is afraid of Les Bleus, which is understandable, and they are using it to the"
+    },
+    {
+      "title": "England on collision course with Messi and Argentina in World Cup semi-final grudge match",
+      "source": "The Guardian",
+      "date": "2026-07-12",
+      "url": "https://www.theguardian.com/football/2026/jul/12/england-lionel-messi-argentina-world-cup-2026-semi-final-norway",
+      "category": "squad",
+      "thumbnail": "",
+      "description": "<ul><li><p>First competitive game between teams since 2002 World Cup</p></li><li><p>Georgia braced for potential flashpoints in Atlanta buildup</p></li></ul><p>It has been billed as one of the biggest grudge matches in the history of international football. After England’s players rode their luck ag"
+    },
+    {
+      "title": "Big game Bellingham steps up again with show-stopping World Cup run for England | Andrew Beasley",
+      "source": "The Guardian",
+      "date": "2026-07-12",
+      "url": "https://www.theguardian.com/football/2026/jul/12/jude-bellingham-england-world-cup-2026-international-goals-leading-scorers",
+      "category": "results",
+      "thumbnail": "",
+      "description": "<p>Real Madrid forward is thriving on the global stage as the first player to score twice in consecutive knockout matches at the tournament since Maradona in 1986</p><p>England’s World Cup journey has rapidly become the Jude Bellingham show. He scored twice to see off Norway on Saturday having also "
+    },
+    {
+      "title": "Argentina’s World Cup built on ‘suffering’ faces its biggest test in England | Pablo Iglesias Maurer",
+      "source": "The Guardian",
+      "date": "2026-07-12",
+      "url": "https://www.theguardian.com/football/2026/jul/12/argentina-switzerland-england-world-cup-semi-final",
+      "category": "results",
+      "thumbnail": "",
+      "description": "<p>The defending champions have taken two of their three knockout-round matches to extra-time. England awaits</p><ul><li><p><a href=\"https://www.theguardian.com/football/2026/jul/12/switzerland-argentina-world-cup-quarter-final-match-report\">Argentina topple Swiss with two goals in extra time</a></p"
+    },
+    {
+      "title": "Cablegate: should Jude Bellingham’s first goal against Norway have been disallowed?",
+      "source": "The Guardian",
+      "date": "2026-07-12",
+      "url": "https://www.theguardian.com/football/2026/jul/12/cablegate-should-jude-bellingham-first-goal-against-norway-have-been-disallowed-england-world-cup-2026",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<p>Midfielder got England back on level terms in fine fashion but pictures suggest illegal interference in the buildup</p><p>Norway’s goalkeeper, Ørjan Nyland, launches a goal-kick down the pitch two minutes into stoppage time at the end of the first half. The ball falls just inside England’s half, "
+    },
+    {
+      "title": "Jude Bellingham unimpressed after Tuchel criticises ‘lucky’ England’s performance",
+      "source": "The Guardian",
+      "date": "2026-07-12",
+      "url": "https://www.theguardian.com/football/2026/jul/12/jude-bellingham-thomas-tuchel-criticises-lucky-england-performance",
+      "category": "squad",
+      "thumbnail": "",
+      "description": "<ul><li><p>Head coach says team were ‘sloppy’ and ‘not fast enough’</p></li><li><p>Two-goal Bellingham responds: ‘Yeah, well, whatever’</p></li></ul><p>Jude Bellingham hit back at criticism of England’s performance from Thomas Tuchel after his two goals against Norway <a href=\"https://www.theguardia"
+    },
+    {
+      "title": "Ken Bates obituary",
+      "source": "The Guardian",
+      "date": "2026-07-12",
+      "url": "https://www.theguardian.com/football/2026/jul/12/ken-bates-obituary",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<p>Former owner and chairman of Chelsea FC who bought the club for a pound and helped restore it to the top rank of English football</p><p>For more than 20 years, Ken Bates, who has died aged 94, was synonymous with Chelsea Football Club, which he bought in 1982 from the Mears family, who had lost c"
+    },
+    {
+      "title": "Julián Álvarez’s extra-time stunner sinks 10-man Switzerland to send Argentina into semi-finals",
+      "source": "The Guardian",
+      "date": "2026-07-12",
+      "url": "https://www.theguardian.com/football/2026/jul/12/switzerland-argentina-world-cup-quarter-final-match-report",
+      "category": "results",
+      "thumbnail": "",
+      "description": "<p>Did anyone think they would do it the easy way? If Argentina are to win this World Cup they will only get there via rollercoaster. A seemingly straightforward night’s work against Switzerland became their tournament in microcosm, threatening to squander it all before finding salvation through a m"
+    },
+    {
+      "title": "Starmer is expected to use last week in power to push through Hillsborough law",
+      "source": "The Guardian",
+      "date": "2026-07-12",
+      "url": "https://www.theguardian.com/football/2026/jul/12/starmer-to-use-last-week-in-power-to-push-through-hillsborough-law",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<p>Stalled legislation aims to prevent cover-ups and help families seek justice after major disasters</p><p>Keir Starmer is expected to use his final week in office to push the Hillsborough law through its remaining stages in the Commons after months of delays.</p><p>This bill aims to strengthen sup"
+    },
+    {
+      "title": "Former Spanish PM accused of racism in remarks about French football team",
+      "source": "The Guardian",
+      "date": "2026-07-12",
+      "url": "https://www.theguardian.com/world/2026/jul/12/spain-mariano-rajoy-accused-of-racism-french-football-team-world-cup",
+      "category": "results",
+      "thumbnail": "",
+      "description": "<p>Political leaders in both countries rebuke Mariano Rajoy after he writes team ‘does not have any French players’</p><p>The former Spanish conservative prime minister Mariano Rajoy is facing growing accusations of racism after writing in a World Cup newspaper column that the French national team “"
+    },
+    {
+      "title": "Bellingham blunts Norway as England make the semis | World Cup Daily – video",
+      "source": "The Guardian",
+      "date": "2026-07-12",
+      "url": "https://www.theguardian.com/football/video/2026/jul/12/bellingham-blunts-norway-as-england-make-the-semis-world-cup-daily",
+      "category": "results",
+      "thumbnail": "https://i.guim.co.uk/img/media/2ed976d128454b281c8120db564be20e6b82b9c5/438_0_4366_3495/master/4366.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=408ac054ef6e90687c34cf7f2c82ac48",
+      "description": "<p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max Rushden</a> is joined by <a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\">Barry Glendenning</a>, John Brewin, Lars Sivertsen and Leander Schaerlaeckens as England beat Norway 2-1 in extra time to set up a semi-final "
+    },
+    {
+      "title": "All the goals from England's 2026 World Cup campaign so far",
+      "source": "BBC Sport",
+      "date": "2026-07-11",
+      "url": "https://www.bbc.co.uk/sport/videos/cewqex0vl85o?at_medium=RSS&amp;at_campaign=rss",
+      "category": "venues",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4542/live/e3e331f0-7c88-11f1-bee8-53ce494e1abc.jpg",
+      "description": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there."
+    },
+    {
+      "title": "BBC to show England's World Cup semi-final",
+      "source": "BBC Sport",
+      "date": "2026-07-11",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx268mlg3lgo?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46cf/live/9e53f650-7d7e-11f1-9493-592225228524.jpg",
+      "description": "England's World Cup semi-final against Argentina will be broadcast live on BBC One and BBC iPlayer."
+    },
+    {
+      "title": "When the World Cup finishes, the football continues on BBC Sport",
+      "source": "BBC Sport",
+      "date": "2026-07-11",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9w2zr9wzj1o?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d2d/live/7bc0e940-7c89-11f1-b976-0b9c15b0ccfc.png",
+      "description": "When the World Cup ends we'll still have loads of great content every day as we build up to the new football season."
+    },
+    {
+      "title": "Was VAR right to overturn England penalty?",
+      "source": "BBC Sport",
+      "date": "2026-07-11",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c3dyj7j48v9o?at_medium=RSS&amp;at_campaign=rss",
+      "category": "results",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a557/live/616a5dd0-7d81-11f1-b976-0b9c15b0ccfc.jpg",
+      "description": "England have a penalty overturned following a VAR review after Djed Spence was judged to have initiated the contact with Norway's Oscar Bobb during the first half of extra time in Miami."
+    },
+    {
+      "title": "'Man of all the moments' - Bellingham gives England the lead",
+      "source": "BBC Sport",
+      "date": "2026-07-11",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c20yrd39ge8o?at_medium=RSS&amp;at_campaign=rss",
+      "category": "results",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f1e/live/92661c00-7d7f-11f1-926f-c90d1bcfbc84.jpg",
+      "description": "Jude Bellingham scores his second goal of the game to give England a 2-1 lead over Norway during extra time of their 2026 World Cup quarter-final in Miami."
+    },
+    {
+      "title": "Klopp agrees to replace Nagelsmann as Germany coach",
+      "source": "BBC Sport",
+      "date": "2026-07-11",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ced44061g8qo?at_medium=RSS&amp;at_campaign=rss",
+      "category": "transfers",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddab/live/df173670-7860-11f1-ab53-3dbca6ef5ee1.jpg",
+      "description": "Jurgen Klopp agrees a deal in principle to become the new head coach of Germany's men's national team after the resignation of Julian Nagelsmann."
+    },
+    {
+      "title": "'He has dragged them through all tournament' - England player ratings",
+      "source": "BBC Sport",
+      "date": "2026-07-11",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg0qpjeeryo?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a71/live/4d950120-7d81-11f1-bee8-53ce494e1abc.jpg",
+      "description": "BBC Sport's England reporter Alex Howell rates the players after the Three Lions beat Norway to reach the World Cup semi-finals."
+    },
+    {
+      "title": "Colourful, controversial and significant - ex-Chelsea and Leeds owner Bates dies",
+      "source": "BBC Sport",
+      "date": "2026-07-11",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy1ve57d5o?at_medium=RSS&amp;at_campaign=rss",
+      "category": "transfers",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0079/live/e9a8b940-7d3a-11f1-8417-c9f35e2ce384.jpg",
+      "description": "Former Chelsea and Leeds owner Ken Bates, who has died aged 94, was a colourful and controversial figure - but also a significant one for English football, writes Phil McNulty."
+    },
+    {
+      "title": "Argentina midfield great Rattin dies aged 89",
+      "source": "BBC Sport",
+      "date": "2026-07-11",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwy09z3qlppo?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ccd/live/68cc4860-7d75-11f1-98dd-61279ae4cdce.jpg",
+      "description": "Argentina great Antonio Rattin, whose sending-off at the 1966 World Cup led to the introduction of red and yellow cards, dies aged 89."
+    },
+    {
+      "title": "South Africa World Cup midfielder Adams dies aged 25",
+      "source": "BBC Sport",
+      "date": "2026-07-11",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bee7/live/695fd8a0-7d2f-11f1-8f06-e145dd803033.jpg",
+      "description": "South Africa and Mamelodi Sundowns midfielder Jayden Adams dies at the age of 25, just weeks after featuring for his country at the World Cup."
+    },
+    {
+      "title": "Garnacho absent from Chelsea pre-season training",
+      "source": "BBC Sport",
+      "date": "2026-07-11",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr47ykwr7zgo?at_medium=RSS&amp;at_campaign=rss",
+      "category": "results",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a134/live/2313c310-7d1c-11f1-b61e-1b6852ddc42f.jpg",
+      "description": "Alejandro Garnacho has not yet joined up with Chelsea for pre-season as the club actively look to sell the winger."
+    },
+    {
+      "title": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
+      "source": "The Guardian",
+      "date": "2026-07-11",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
+      "category": "transfers",
+      "thumbnail": "",
+      "description": "<p>All the latest Premier League, La Liga, Bundesliga, Ligue 1 and Serie A deals and a club-by-club guide</p><ul><li><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues\">Women’s transfer window interacti"
+    },
+    {
+      "title": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
+      "source": "The Guardian",
+      "date": "2026-07-11",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
+      "category": "transfers",
+      "thumbnail": "",
+      "description": "<p>Every deal in the NWSL, WSL, Liga F, Frauen-Bundesliga, Première Ligue and Serie A Femminile as well as a club-by-club guide</p><ul><li><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues\">Men’s trans"
+    },
+    {
+      "title": "Bellingham’s extra-time winner sinks Norway and sends England into World Cup semi-finals",
+      "source": "The Guardian",
+      "date": "2026-07-11",
+      "url": "https://www.theguardian.com/football/2026/jul/12/norway-england-world-cup-quarter-final-match-report",
+      "category": "results",
+      "thumbnail": "",
+      "description": "<p>Thomas Tuchel’s message was that it was time for England to thrive at the business end of the World Cup; the most exciting part. His players had to release the handbrake and go for it. They must not have any regrets against a Norway team that most of England expected them to beat. English arrogan"
+    },
+    {
+      "title": "The ad machine: how David Beckham conquered America",
+      "source": "The Guardian",
+      "date": "2026-07-11",
+      "url": "https://www.theguardian.com/football/2026/jul/11/the-ad-machine-how-david-beckham-conquered-america",
+      "category": "results",
+      "thumbnail": "",
+      "description": "<p>The former England midfielder is everywhere at this World Cup, having reached a popularity in the US other Britons have rarely achieved</p><p>Watch US television for any length of time and the endless spume of adverts will eventually separate into three distinct types.</p><p>The first are adverts"
+    },
+    {
+      "title": "Football Daily | Belgium and the End Of The Golden Generation Klaxon",
+      "source": "The Guardian",
+      "date": "2026-07-11",
+      "url": "https://www.theguardian.com/football/2026/jul/11/belgium-golden-generation-football-daily-newsletter",
+      "category": "injuries",
+      "thumbnail": "",
+      "description": "<p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up now!</strong></a></p><p>Look at it up there on the hill, shining in the sunlight, an almost imperceptible aura of melancholia surrounding it like a halo. Look"
+    },
+    {
+      "title": "Spain into semi-finals at expense of Belgium after Merino's late winner",
+      "source": "BBC Sport",
+      "date": "2026-07-10",
+      "url": "https://www.bbc.co.uk/sport/videos/cd0m9e88g0vo?at_medium=RSS&amp;at_campaign=rss",
+      "category": "results",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/063e/live/a3453dd0-7ca8-11f1-b976-0b9c15b0ccfc.jpg",
+      "description": "Mikel Merino emerges as Spain's hero yet again as the substitute scores in the 88th minute to stun Belgium and set up a World Cup semi-final against France."
+    },
+    {
+      "title": "Merino the unlikely hero again - as Spain wait for Lamine Yamal show",
+      "source": "BBC Sport",
+      "date": "2026-07-10",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg50pvejzdo?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c4d/live/36c6f360-7cbc-11f1-b6c2-a71c5c448f77.jpg",
+      "description": "Mikel Merino came off the bench to send Spain into the World Cup semi-finals - but Lamine Yamal is still waiting for his moment to truly shine."
+    },
+    {
+      "title": "England defender Charles joins Man City from Chelsea",
+      "source": "BBC Sport",
+      "date": "2026-07-10",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyed2g8vro?at_medium=RSS&amp;at_campaign=rss",
+      "category": "transfers",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d93/live/2505f430-7c6e-11f1-98fd-6b03daaf8a77.png",
+      "description": "Manchester City have signed England international Niamh Charles for £500,000 from Women's Super League rivals Chelsea."
+    },
+    {
+      "title": "Arsenal sign Spain defender Batlle on free transfer",
+      "source": "BBC Sport",
+      "date": "2026-07-10",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx1v5d12gjo?at_medium=RSS&amp;at_campaign=rss",
+      "category": "transfers",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6496/live/f8579a20-7c4e-11f1-912a-c3e242c0bef0.jpg",
+      "description": "Arsenal sign Spain international Ona Batlle on a free transfer following her exit from Barcelona."
+    },
+    {
+      "title": "West Ham sign forward Salmon on two-year deal",
+      "source": "BBC Sport",
+      "date": "2026-07-10",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy04elxeyvqo?at_medium=RSS&amp;at_campaign=rss",
+      "category": "transfers",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38ae/live/03783990-7c73-11f1-926f-c90d1bcfbc84.jpg",
+      "description": "West Ham have signed England forward Ebony Salmon on a two-year deal following her exit from Aston Villa."
+    },
+    {
+      "title": "Merino puts Spain into World Cup semi-finals as Belgium rue costly Courtois injury",
+      "source": "The Guardian",
+      "date": "2026-07-10",
+      "url": "https://www.theguardian.com/football/2026/jul/10/spain-belgium-world-cup-2026-quarter-final-match-report",
+      "category": "injuries",
+      "thumbnail": "",
+      "description": "<p>Mikel Merino’s amazing moment arrived once more, an entire country circling the corner flag with him as football, which somehow always finds a way, provided another absurdly tall tale. The man who came on to score the late, late goals that took Spain into a European championship semi-final two ye"
+    },
+    {
+      "title": "Arsenal hail signing of ‘winner’ Ona Batlle after Barcelona summer exodus",
+      "source": "The Guardian",
+      "date": "2026-07-10",
+      "url": "https://www.theguardian.com/football/2026/jul/10/arsenal-sign-ona-batlle-spain-barcelona-defender",
+      "category": "transfers",
+      "thumbnail": "",
+      "description": "<ul><li><p>Batlle is fourth arrival after Stanway, Cerci and Reuteler</p></li><li><p>Manchester City sign Niamh Charles from Chelsea</p></li></ul><p>Arsenal have confirmed the signing of the Spain full-back Ona Batlle for free after her departure from Barcelona, continuing the London club’s busy sta"
+    },
+    {
+      "title": "Exit strategies: how and why 27% of World Cup coaches have left their jobs",
+      "source": "The Guardian",
+      "date": "2026-07-10",
+      "url": "https://www.theguardian.com/football/2026/jul/10/world-cup-coaches-left-their-jobs",
+      "category": "transfers",
+      "thumbnail": "",
+      "description": "<p>Thirteen coaches have been sacked or walked away from their national teams – here’s a full rundown</p><p><strong>Sabri Lamouchi</strong> Appointed on 14 January to succeed Sami Trabelsi after Tunisia <a href=\"https://www.theguardian.com/football/2026/jan/03/paranoia-and-mali-get-the-better-of-tim"
+    },
+    {
+      "title": "Kylian Mbappé embraces leadership role for France to urge team humility",
+      "source": "The Guardian",
+      "date": "2026-07-10",
+      "url": "https://www.theguardian.com/football/2026/jul/10/kylian-mbappe-france-world-cup-2026-semi-final",
+      "category": "results",
+      "thumbnail": "",
+      "description": "<p>Didier Deschamps’ decision to give the inspirational forward the captaincy has paid off with no complacency on their run to the semi-finals</p><p>The driving force behind France’s semi-final win over Morocco in 2022, Antoine Griezmann, was watching on from the stands this time as <em>Les Bleus</e"
+    },
+    {
+      "title": "‘Give me another medal!’: meet the hair stylist who has taken over the World Cup",
+      "source": "The Guardian",
+      "date": "2026-07-10",
+      "url": "https://www.theguardian.com/football/2026/jul/10/give-me-another-medal-hair-stylist-world-cup-jayema-lamine-yamal-raphinha",
+      "category": "venues",
+      "thumbnail": "",
+      "description": "<p>Jayèma on working with England stars, a new look for Raphinha and forging a friendship with Lamine Yamal’s family </p><p>Jayèma has had a World Cup like no other. Who else but the London hair stylist has worked with footballers from England, Brazil, the United States and Canada, and hung out with"
+    },
+    {
+      "title": "Sports quiz of the week: England v Norway, Wimbledon and Alexia Putellas",
+      "source": "The Guardian",
+      "date": "2026-07-10",
+      "url": "https://www.theguardian.com/sport/2026/jul/10/sports-quiz-week-england-norway-wimbledon-putellas-football-tennis-rugby-cricket-cycling",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<p>Have you followed the big stories in football, tennis, rugby union, cricket, cycling, rugby league and swimming?</p> <a href=\"https://www.theguardian.com/sport/2026/jul/10/sports-quiz-week-england-norway-wimbledon-putellas-football-tennis-rugby-cricket-cycling\">Continue reading...</a>"
+    },
+    {
+      "title": "France into semi-finals after comfortable win over Morocco",
+      "source": "BBC Sport",
+      "date": "2026-07-09",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crm0ry2nemmo?at_medium=RSS&amp;at_campaign=rss",
+      "category": "results",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3f8/live/f7c5b270-7be2-11f1-9510-1546718f668b.jpg",
+      "description": "Kylian Mbappe scores his eighth goal of this World Cup to make up for an earlier penalty miss with Ousmane Dembele adding a second as France prove too good for Morocco and move into the semi-finals."
+    },
+    {
+      "title": "Premier League pre-season - who are your club playing?",
+      "source": "BBC Sport",
+      "date": "2026-07-09",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn59deldv70o?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbff/live/0a23b660-7bac-11f1-b976-0b9c15b0ccfc.jpg",
+      "description": "The World Cup is still going on but Premier League clubs will soon begin their pre-season friendlies - who is your club taking on and when?"
+    },
+    {
+      "title": "Late goals, comebacks and upsets - is record-breaking World Cup best ever?",
+      "source": "BBC Sport",
+      "date": "2026-07-09",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2dzy11epeo?at_medium=RSS&amp;at_campaign=rss",
+      "category": "results",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/becd/live/c9bf1210-7b18-11f1-b976-0b9c15b0ccfc.png",
+      "description": "What a World Cup it has been with great goals, thrilling comebacks, late drama, shock results. But how will this tournament be remembered?"
+    },
+    {
+      "title": "What are the key dates for the 2026-27 football season?",
+      "source": "BBC Sport",
+      "date": "2026-07-09",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd0m840p7d1o?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2d3/live/7dfe1b00-7bb8-11f1-9510-1546718f668b.jpg",
+      "description": "BBC Sport's Ask Me Anything explains the full list of key dates for the 2026-27 men's football season"
+    },
+    {
+      "title": "Mbappé stunner ends Morocco resistance to send France into World Cup semi-finals",
+      "source": "The Guardian",
+      "date": "2026-07-09",
+      "url": "https://www.theguardian.com/football/2026/jul/09/morocco-france-world-cup-quarter-final-match-report",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<p>There is a relentlessness to this France that might make them irresistible. Morocco no doubt had the best of intentions, ideas of how they could hurt the side that had beaten them in the semi-final in Qatar, but France press so well that they soon accepted they had no option but to retreat and en"
+    },
+    {
+      "title": "Newcastle face sliding doors moment over Bruno Guimarães in summer of upheaval",
+      "source": "The Guardian",
+      "date": "2026-07-09",
+      "url": "https://www.theguardian.com/football/2026/jul/09/newcastle-face-sliding-doors-moment-over-bruno-guimaraes-in-summer-of-upheaval",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<p>With Saudi spending restricted and a glut of departures and arrivals, the stakes are high for Eddie Howe and his captain, amid uncertain times on Tyneside</p><p>Is it the end of the road for Bruno Guimarães and Newcastle or are they destined to share at least one more adventure?</p><p>With Arsena"
+    },
+    {
+      "title": "Manchester United insist new stadium ‘not vanity project’ despite prospect of more debt",
+      "source": "The Guardian",
+      "date": "2026-07-09",
+      "url": "https://www.theguardian.com/football/2026/jul/09/manchester-united-insist-new-stadium-not-vanity-project-despite-prospect-of-more-debt",
+      "category": "venues",
+      "thumbnail": "",
+      "description": "<ul><li><p>Plan unveiled for ground 350 metres from Old Trafford</p></li><li><p>Working cost of stadium previously stated as £2bn</p></li></ul><p>Manchester United have said their <a href=\"https://www.theguardian.com/football/2025/mar/11/manchester-united-new-stadium-next-to-old-trafford-norman-fost"
+    },
+    {
+      "title": "Going first in a penalty shootout gives teams an advantage … or does it?",
+      "source": "The Guardian",
+      "date": "2026-07-09",
+      "url": "https://www.theguardian.com/football/2026/jul/09/world-cup-first-penalty-shootout-advantage-second",
+      "category": "venues",
+      "thumbnail": "",
+      "description": "<p>Thirteen of the past 15 shootouts at World Cups have been won by the team that went second</p><p>By <a href=\"https://theanalyst.com/\">Opta Analyst</a></p><p>After watching 120 minutes of football, you might not find observing a coin toss the most exciting dessert. Fans in the stadium care, though"
+    },
+    {
+      "title": "‘Is he a nice guy? No. He’s a good guy’: how Harry Kane became an England great",
+      "source": "The Guardian",
+      "date": "2026-07-09",
+      "url": "https://www.theguardian.com/football/2026/jul/09/is-he-a-nice-guy-no-hes-a-good-guy-how-harry-kane-became-an-england-great",
+      "category": "results",
+      "thumbnail": "",
+      "description": "<p>Figures who worked with striker in his formative years recall a self-belief – even when his talent did not stand out</p><p>There is another version of reality in which Harry Kane is not England’s greatest goalscorer but a goalkeeper. On his first day at Ridgeway Rovers, his first club, the coach "
+    },
+    {
+      "title": "Team for now, not a squad for later – Spurs are spending big but what is it for? | Jonathan Liew",
+      "source": "The Guardian",
+      "date": "2026-07-09",
+      "url": "https://www.theguardian.com/football/2026/jul/09/team-for-now-not-a-squad-for-later-spurs-are-spending-big-but-what-is-it-for",
+      "category": "transfers",
+      "thumbnail": "",
+      "description": "<p>Tottenham’s strategies have changed over the years and this summer’s transfer splurge marks a sharp turn away from the Levy years</p><p>A couple of weeks ago, Sotheby’s in London concluded one of its biggest art auctions. In all, the sale of 25 modern and contemporary works raised almost £300m. S"
+    },
+    {
+      "title": "‘Best player England has developed’: Olise’s rise from Hayes to the World Cup",
+      "source": "The Guardian",
+      "date": "2026-07-09",
+      "url": "https://www.theguardian.com/football/2026/jul/09/best-player-england-developed-michael-olise-2026-world-cup-france",
+      "category": "results",
+      "thumbnail": "",
+      "description": "<p>One of the Bayern and France playmaker’s early coaches tells the story of how a move to Reading kickstarted a career</p><p>If <a href=\"https://www.theguardian.com/football/2026/jul/01/michael-olise-artist-hearts-france-love-world-cup-bayern-munich\">Michael Olise wins the World Cup</a>, there will"
+    },
+    {
+      "title": "The US delivered their best modern World Cup performance – and also let themselves down",
+      "source": "The Guardian",
+      "date": "2026-07-09",
+      "url": "https://www.theguardian.com/football/2026/jul/09/the-us-delivered-their-best-modern-world-cup-performance-and-also-let-themselves-down",
+      "category": "results",
+      "thumbnail": "",
+      "description": "<p>Mauricio Pochettino’s team delivered several thrilling performances on home soil. The way it ended was somewhat less exhilarating</p><p>So now what? How are we supposed to think about this supposedly golden generation of the United States men’s national team who have fallen short of expectations "
+    },
+    {
+      "title": "BBC expert Sutton's World Cup quarter-final predictions",
+      "source": "BBC Sport",
+      "date": "2026-07-08",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c15y1j32jxko?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da24/live/94353bc0-641a-11f1-8546-8f19e4fe30f4.jpg",
+      "description": "BBC Sport's football expert Chris Sutton gives his predictions for the quarter-final ties at the 2026 World Cup, including England against Norway."
+    },
+    {
+      "title": "A striker duel for the ages & Qatar revenge - what to expect in quarter-finals",
+      "source": "BBC Sport",
+      "date": "2026-07-08",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyyvn1yn7o?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94b9/live/d921c210-7aba-11f1-b976-0b9c15b0ccfc.png",
+      "description": "Setting the scene for each of the four intriguing World Cup quarter-finals that begin on Thursday."
+    },
+    {
+      "title": "Is there such a thing as ‘the perfect penalty’ in football? – video",
+      "source": "The Guardian",
+      "date": "2026-07-08",
+      "url": "https://www.theguardian.com/football/video/2026/jul/08/is-there-such-a-thing-as-the-perfect-penalty-in-football-video",
+      "category": "general",
+      "thumbnail": "https://i.guim.co.uk/img/media/b2979ca7d656099b6254b554e486821929ddc50a/0_487_1080_863/master/1080.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9f453aba20a77e548d332c1159cc581b",
+      "description": "<p>The pain of the penalty shootout is the cruellest fate in football. A single spot kick can easily decide the outcome of a game at a World Cup, making any advantage in taking a penalty crucial. </p><p>So what can we learn about the best strategy for penalty kicks from statistics and research? Guar"
+    },
+    {
+      "title": "A World Cup free agent XI: summer bargains and top targets among clubless players",
+      "source": "The Guardian",
+      "date": "2026-07-08",
+      "url": "https://www.theguardian.com/football/2026/jul/08/world-cup-free-agent-xi-vozinha-salah-clubless-players",
+      "category": "squad",
+      "thumbnail": "",
+      "description": "<p>A goalkeeper with 27.5m Instagram followers and a forward whose future is opaque make our team of players looking for new clubs</p><p>As late bloomers and cult heroes go, few have made an impact on a World Cup quite like the goalkeeper who first defied Spain’s attackers and, after Cape Verde’s qu"
+    },
+    {
+      "title": "What does Sam Kerr’s return to the NWSL mean for the league, Gotham FC and the player herself?",
+      "source": "The Guardian",
+      "date": "2026-07-08",
+      "url": "https://www.theguardian.com/football/2026/jul/08/what-does-sam-kerr-return-to-nwsl-mean-for-league-gotham-fc-player-moving-the-goalposts",
+      "category": "squad",
+      "thumbnail": "",
+      "description": "<p>Australia’s superstar striker returns to the US after a seven-year absence – and will find a vastly changed landscape</p><p>When Sam Kerr last played for the National Women’s Soccer League’s Big Apple-adjacent club, it was called Sky Blue and the playing conditions were abysmal. The Australia str"
+    },
+    {
+      "title": "Is Neymar the first to bookend his international career with goals at the same venue? | The Knowledge",
+      "source": "The Guardian",
+      "date": "2026-07-08",
+      "url": "https://www.theguardian.com/football/2026/jul/08/is-neymar-the-first-to-bookend-his-international-career-with-goals-at-the-same-venue",
+      "category": "venues",
+      "thumbnail": "",
+      "description": "<p>Plus: national team colours that are different from flags; Senegal’s goal difference record setters; and Scotland’s unbeaten 1974 tournament</p><ul><li><p><a href=\"mailto:knowledge@theguardian.com\"><strong>Mail us</strong></a><strong> with your all of your questions and answers</strong></p></li><"
+    },
+    {
+      "title": "All the presidents’ meddling: the Balogun scandal shows how Fifa can break football | Barney Ronay",
+      "source": "The Guardian",
+      "date": "2026-07-07",
+      "url": "https://www.theguardian.com/football/2026/jul/07/donald-trump-gianni-infantino-folarin-balogun-fifa-world-cup-2026",
+      "category": "results",
+      "thumbnail": "",
+      "description": "<p>The suspension of the USA striker’s red card after Trump’s intervention has shown what Gianni Infantino’s organisation is trying to turn the sport into: scripted entertainment</p><p>Frites 4 Cheats 1. Tintin 4 Tonto 1. Some good news here, perhaps. It seems Gianni Infantino was right after all. F"
+    },
+    {
+      "title": "David Squires on … England’s World Cup classic in Mexico and a Trump novelty",
+      "source": "The Guardian",
+      "date": "2026-07-07",
+      "url": "https://www.theguardian.com/football/picture/2026/jul/07/david-squires-on-england-world-cup-classic-mexico-donald-trump-fifa-usa-belgium",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<p>Our cartoonist looks at the big stories from the World Cup as England reach the last eight but the US slump out</p><ul><li><p><a href=\"https://guardianprintshop.com/collections/david-squires\">Buy David’s cartoons</a> | <a href=\"https://www.theguardian.com/football/2025/dec/04/david-squires-picks-"
+    },
+    {
+      "title": "Lionel Messi and football’s ageless wonders can excel into their 40s | Emma Hayes",
+      "source": "The Guardian",
+      "date": "2026-07-05",
+      "url": "https://www.theguardian.com/football/2026/jul/05/lionel-messi-ageless-wonders-world-cup",
+      "category": "results",
+      "thumbnail": "",
+      "description": "<p>Argentina’s captain leads the way for veteran strikers at World Cup. They have different styles, but all have shown their worth</p><p>I would be shocked if the record for the most goals scored by a player in a World Cup – Just Fontaine’s 13 in 1958 – is not broken this summer. That is how elite t"
+    },
+    {
+      "title": "A footballing deepfake: how Bruno Fernandes fell victim to an unlicensed betting operator",
+      "source": "The Guardian",
+      "date": "2026-07-05",
+      "url": "https://www.theguardian.com/football/2026/jul/05/a-footballing-deepfake-how-bruno-fernandes-fell-victim-to-an-unlicensed-betting-operator",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<p>Illegal online casinos are producing fake BBC stories and AI-generated videos in an attempt to deceive customers</p><p>Respect of copyright law has never ranked highly in the list of priorities for unlicensed sports betting operators. Crests of famous clubs and ­photographs of star players are ro"
+    },
+    {
+      "title": "Michael Olise: Origins",
+      "source": "BBC Sport",
+      "date": "2026-07-04",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002z090?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0nwxlr4.jpg",
+      "description": "The origin story of France's newest superstar begins closer to home than you might think."
+    },
+    {
+      "title": "In spotlight but shunning limelight - Olise's unique rise to top",
+      "source": "BBC Sport",
+      "date": "2026-07-04",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzr42943lo?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec37/live/30515480-77ad-11f1-b21a-9d51504ec77b.jpg",
+      "description": "A footballer who dislikes too much media attention, but Michael Olise might not have much choice if he carries on his World Cup heroics."
+    },
+    {
+      "title": "‘This is a hellhole’: Aramco makes its presence hurt in the shadow of the World Cup",
+      "source": "The Guardian",
+      "date": "2026-07-04",
+      "url": "https://www.theguardian.com/football/2026/jul/04/aramco-world-cup-fifa-port-arthur-texas-houston",
+      "category": "transfers",
+      "thumbnail": "",
+      "description": "<p>The oil giant’s sponsorship deal with Fifa has featured prominently at matches in Houston. But 100 miles away in another Texas city, residents say the firm’s refinery is exposing them to poisonous gases and long-term health problems</p><p>The street is wide, its grass verges thick and scruffy aft"
+    },
+    {
+      "title": "How hard is it to cycle to New Jersey's MetLife stadium? – video",
+      "source": "The Guardian",
+      "date": "2026-07-03",
+      "url": "https://www.theguardian.com/football/video/2026/jul/03/how-hard-is-it-to-cycle-to-metlife-stadium-video",
+      "category": "venues",
+      "thumbnail": "",
+      "description": "<p>After we recently answered the question “can you just walk to MetLife Stadium?”, many of our viewers on social media asked the same question: “what if you cycled there?” </p><p></p><p>So we accepted the challenge, and got our senior soccer editor, Alexander Abnos to jump on his bike to find out. "
+    },
+    {
+      "title": "Ange Postecoglou to manage Cristiano Ronaldo after landing Al-Nassr job",
+      "source": "The Guardian",
+      "date": "2026-07-03",
+      "url": "https://www.theguardian.com/football/2026/jul/03/ange-postecoglou-head-coach-al-nassr-cristiano-ronaldo",
+      "category": "transfers",
+      "thumbnail": "",
+      "description": "<ul><li><p>Former Tottenham manager signs two-year contract</p></li><li><p>Al-Nassr won the Saudi Pro League last season</p></li></ul><p>Ange Postecoglou has been appointed as the new head coach of the Saudi Pro League champions, ⁠Al-Nassr, on a two-year deal as the Australian attempts ⁠to revive hi"
+    },
+    {
+      "title": "‘Would you say it to someone’s face?’ Ellen White on going from player to pundit",
+      "source": "The Guardian",
+      "date": "2026-07-01",
+      "url": "https://www.theguardian.com/football/2026/jul/01/ellen-white-england-lionesses-player-to-pundit",
+      "category": "transfers",
+      "thumbnail": "",
+      "description": "<p>In this week’s newsletter we speak to the Lionesses’ record scorer, who has been inducted to the hall of fame at the National Football Museum</p><p>For a generation of England fans she was the talismanic striker the nation could always rely on to find the net at a major tournament, scoring a reco"
+    },
+    {
+      "title": "My World Cup memory: heartbreak in the exam hall for England v Brazil in 2002 – video",
+      "source": "The Guardian",
+      "date": "2026-06-30",
+      "url": "https://www.theguardian.com/football/video/2026/jun/30/my-world-cup-memory-heartbreak-in-the-exam-hall-for-england-v-brazil-in-2002-video",
+      "category": "results",
+      "thumbnail": "",
+      "description": "<p>Where were you when Ronaldinho lobbed David Seaman in England’s quarter-final game against Brazil at the 2002 World Cup? Our head of newsletters, Toby Moses, was sitting in an exam hall for his English A Level exam. It was heartbreak for England more than two decades ago, but perhaps they can go "
+    },
+    {
+      "title": "Plan to expand Africa Cup of Nations from 24 to 28 teams is rejected",
+      "source": "The Guardian",
+      "date": "2026-06-30",
+      "url": "https://www.theguardian.com/football/2026/jun/30/plan-to-expand-africa-cup-of-nations-afcon-from-24-to-28-teams-rejected",
+      "category": "squad",
+      "thumbnail": "",
+      "description": "<ul><li><p>Executive committee member says it was ‘very bad idea’</p></li><li><p>Caf says its aim is to make tournament world class</p></li></ul><p>A plan to expand the Africa Cup of Nations from 24 to 28 teams has been rejected, the Guardian has learned.</p><p>The proposal had been made by the Conf"
+    },
+    {
+      "title": "Robert Lewandowski makes MLS move to Chicago Fire on deal till 2028",
+      "source": "The Guardian",
+      "date": "2026-06-29",
+      "url": "https://www.theguardian.com/football/2026/jun/29/robert-lewandowski-mls-chicago-fire-2028",
+      "category": "transfers",
+      "thumbnail": "",
+      "description": "<ul><li><p>Former Barcelona striker joins for two and a half seasons</p></li><li><p>37-year-old’s 697 goals is third best total for current players</p></li></ul><p>The Chicago Fire on Monday officially announced their acquisition of Robert Lewandowski ⁠through to the 2027-28 season. Poland’s record "
+    },
+    {
+      "title": "NWSL all-time record goalscorer Sam Kerr confirms league return by joining Gotham",
+      "source": "The Guardian",
+      "date": "2026-06-29",
+      "url": "https://www.theguardian.com/football/2026/jun/29/nwsl-all-time-record-goalscorer-sam-kerr-confirms-league-return-by-joining-gotham",
+      "category": "transfers",
+      "thumbnail": "",
+      "description": "<ul><li><p>Australia captain back in league she left in 2019</p></li><li><p>Striker won 11 major trophies in spell at Chelsea</p></li></ul><p>Sam Kerr is joining Gotham FC in the National Women’s Soccer League (NWSL) after spending the past six and a half years with Chelsea.</p><p>Gotham announced o"
+    },
+    {
+      "title": "How are the TV picks decided for the World Cup's round of 32?",
+      "source": "BBC Sport",
+      "date": "2026-06-26",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzlw6gz8jo?at_medium=RSS&amp;at_campaign=rss",
+      "category": "squad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e5f/live/46664770-714b-11f1-8546-8f19e4fe30f4.jpg",
+      "description": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
+    },
+    {
+      "title": "What is the World Cup prize money?",
+      "source": "BBC Sport",
+      "date": "2026-06-26",
+      "url": "https://www.bbc.co.uk/sport/articles/c9821x9lpdjo?at_medium=RSS&amp;at_campaign=rss",
+      "category": "squad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cf4/live/c8dba200-6f06-11f1-b1db-af71d47507d6.png",
+      "description": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
+    },
+    {
+      "title": "Is five-match ban for Qatar's Madibo excessive?",
+      "source": "BBC Sport",
+      "date": "2026-06-25",
+      "url": "https://www.bbc.co.uk/sport/articles/c6210561g95o?at_medium=RSS&amp;at_campaign=rss",
+      "category": "squad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/793c/live/5fc5d1a0-70b4-11f1-b1db-af71d47507d6.png",
+      "description": "Our Ask Me Anything team look at whether Madibo's punishment for his challenge on Kone was proportionate."
+    },
+    {
+      "title": "Who is the African World Cup goalscorer older than Ronaldo and Messi?",
+      "source": "BBC Sport",
+      "date": "2026-06-24",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpwe19xldqqo?at_medium=RSS&amp;at_campaign=rss",
+      "category": "results",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cfe/live/a70c9bb0-7097-11f1-b718-796b91d99848.png",
+      "description": "While Cristiano Ronaldo and Lionel Messi appear to be in a personal battle to rewrite the World Cup record books, there is one landmark that appears beyond them."
+    },
+    {
+      "title": "David Squires on … the big names putting on a show at World Cup",
+      "source": "The Guardian",
+      "date": "2026-06-23",
+      "url": "https://www.theguardian.com/football/picture/2026/jun/23/david-squires-on-big-names-messi-mbappe-ronaldo-putting-on-a-show-at-world-cup",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<p>Our cartoonist on the heroes, villains and superstar performances in week two of the tournament</p><ul><li><p><a href=\"https://guardianprintshop.com/collections/david-squires/products/david-squires-on-the-big-names-putting-on-a-show-at-world-cup\"><strong>Buy this cartoon</strong></a><strong> | </"
+    },
+    {
+      "title": "The Hotspot | Aramco’s petrodollar backing of World Cup leaves stain of sportswashing",
+      "source": "The Guardian",
+      "date": "2026-06-22",
+      "url": "https://www.theguardian.com/sport/2026/jun/22/aramco-petrodollar-world-cup-football-sportswashing-the-hotspot",
+      "category": "transfers",
+      "thumbnail": "",
+      "description": "<p>How Saudi Arabia’s state-owned oil giant is embedding fossil fuels as a crucial part of the world’s biggest sport</p><p>If you have watched the World Cup, you may have seen the big signs announcing Aramco as the tournament’s “energy partner”. This <a href=\"https://www.theguardian.com/world/2025/n"
+    },
+    {
+      "title": "The Joy of Six: forgotten World Cup goals",
+      "source": "The Guardian",
+      "date": "2026-06-12",
+      "url": "https://www.theguardian.com/sport/2026/jun/12/the-joy-of-six-forgotten-world-cup-goals",
+      "category": "squad",
+      "thumbnail": "",
+      "description": "<p>From Ogris’s Florentine charge to Quagliarella’s Ellis Park chip, half a dozen World Cup classics that deserve to be better remembered</p><p>The first six or seven World Cups certainly are not without their charms, but they are noticeably light on the kind of viscerally spectacular goals that we "
+    },
+    {
+      "title": "How Cornish miners brought football to Mexico",
+      "source": "BBC Sport",
+      "date": "2026-06-02",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx21q453l4jo?at_medium=RSS&amp;at_campaign=rss",
+      "category": "venues",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e08d/live/51c98ee0-5aaa-11f1-b277-cd187c78657d.jpg",
+      "description": "As Mexico prepares to become the first country to host or co-host the World Cup three times, BBC Sport looks at its Cornish footballing roots."
+    },
+    {
+      "title": "How Toone is navigating grief through football",
+      "source": "BBC Sport",
+      "date": "2026-05-29",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3e2dg875x7o?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43ab/live/2f90d850-55fb-11f1-9773-43c89bcb1e91.jpg",
+      "description": "England and Manchester United midfielder Ella Toone opens up about grief, football and preparing for her wedding without her dad in a new BBC documentary."
+    },
+    {
+      "title": "Premier League 2025-26 review: our writers’ best and worst of the season",
+      "source": "The Guardian",
+      "date": "2026-05-26",
+      "url": "https://www.theguardian.com/football/2026/may/26/premier-league-2025-26-review-our-writers-best-and-worst-of-the-season",
+      "category": "results",
+      "thumbnail": "",
+      "description": "<p>The Premier League season is over, but what did Guardian football writers enjoy, dislike or marvel at over the last nine months? </p><p>Goalkeepers never usually get a mention for this award but <strong>David Raya</strong> played an integral role in Arsenal finally getting over the line, winning "
+    },
+    {
+      "title": "Premier League 2025-26 season review: our predictions v reality",
+      "source": "The Guardian",
+      "date": "2026-05-26",
+      "url": "https://www.theguardian.com/football/2026/may/26/premier-league-2025-26-season-review-predictions-reality-liverpool-chelsea-brentford-sunderland",
+      "category": "transfers",
+      "thumbnail": "",
+      "description": "<p>We picked Liverpool as champions, Chelsea as challengers and tipped Brentford and Sunderland to go down. Oh dear</p><p><strong>What we predicted: </strong>Mikel Arteta vowed this would be a “big summer” after finishing as runners-up in the Premier League for a third season in succession and the n"
+    },
+    {
+      "title": "The story of the Premier League 2025-26 season in 100 photos",
+      "source": "The Guardian",
+      "date": "2026-05-25",
+      "url": "https://www.theguardian.com/football/2026/may/25/story-of-2025-26-premier-league-season-in-100-photos",
+      "category": "venues",
+      "thumbnail": "",
+      "description": "<p>A century of our favourite images from the season including wild celebrations, protesting fans and goalmouth scrambles</p><p>Reigning champions Liverpool left it late to <a href=\"https://www.theguardian.com/football/2025/aug/15/liverpool-bournemouth-premier-league-match-report\">beat Bournemouth 4"
+    },
+    {
+      "title": "Premier League 2025-26 review: gripes of the season",
+      "source": "The Guardian",
+      "date": "2026-05-25",
+      "url": "https://www.theguardian.com/football/2026/may/25/premier-league-2025-26-review-gripes-of-the-season",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<p>The most infuriating things, including mayhem at set pieces, daft jerseys and a largely ignored video game</p><p>You will almost certainly be aware that there have been a load of set-piece goals this season, and an extraordinary proliferation of long throws. At times the self-styled greatest leag"
+    },
+    {
+      "title": "Why did England’s 2006 World Cup dream end in agony?",
+      "source": "BBC Sport",
+      "date": "2026-05-11",
+      "url": "http://www.bbc.co.uk/iplayer/episode/m002wbmg?at_mid=hBNq4xkQn6&amp;at_campaign=England_2006_The_Golden_Generation_TEST_CONTROL&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m002wbmg&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=England_2006_The_Golden_Generation_TEST_CONTROL&amp;at_bbc_team=BBC&amp;at_creation=Carousel_Test_Control",
+      "category": "squad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce77/live/44bad560-60b8-11f1-b682-cf91850925ea.jpg",
+      "description": "Why did the England football team not fulfil their potential at the 2006 World Cup?"
+    },
+    {
+      "title": "The summer a golden generation lost its shine",
+      "source": "BBC Sport",
+      "date": "2026-05-11",
+      "url": "https://www.bbc.co.uk/sport/extra/60s97qhdbf/the-golden-generation?at_medium=RSS&amp;at_campaign=rss",
+      "category": "squad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37ef/live/d6ebab20-4cfa-11f1-ac78-2112837ce2aa.jpg",
+      "description": "The summer of 2006 was meant to be England's moment. A world-class squad, celebrity partners and confident fans - the hype was huge and the fall was hard."
+    },
+    {
+      "title": "When football turned to penalties to end 'cruel' system",
+      "source": "BBC Sport",
+      "date": "2026-03-28",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr71enxvrd3o?at_medium=RSS&amp;at_campaign=rss",
+      "category": "general",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f4e/live/4dd6e3e0-2905-11f1-8d7b-c7ea0e92917e.jpg",
+      "description": "No-one knew what to expect at football's first official penalty shootout - and no-one wanted to go down in history as the first to miss."
+    },
+    {
+      "title": "Ousmane Dembélé quietly becomes the main man after long journey to the top",
+      "source": "The Guardian",
+      "date": "2025-12-20",
+      "url": "https://www.theguardian.com/football/2025/dec/20/ousmane-dembele-quietly-becomes-the-main-man-after-long-journey-to-the-top",
+      "category": "transfers",
+      "thumbnail": "",
+      "description": "<p>The Frenchman, who has been named the best male footballer in the world by the Guardian, has benefitted from PSG’s focus on the team rather than individuals</p><p>What makes a good player great, and a great player the best? This question has been occupying me since 2014, when the Guardian first a"
+    },
+    {
+      "title": "The 100 best male footballers in the world 2025",
+      "source": "The Guardian",
+      "date": "2025-12-19",
+      "url": "https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025",
+      "category": "results",
+      "thumbnail": "",
+      "description": "<p>Ousmane Dembélé becomes our seventh winner as he beats Lamine Yamal into second and Vitinha into third on our list of the best players on the planet</p><ul><li><p><a href=\"https://www.theguardian.com/football/2025/dec/19/the-premier-league-dominates-guardians-top-100-male-footballers-again-can-an"
+    },
+    {
+      "title": "Aitana Bonmatí makes Guardian top 100 history with third title in a row",
+      "source": "The Guardian",
+      "date": "2025-12-05",
+      "url": "https://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-title",
+      "category": "results",
+      "thumbnail": "",
+      "description": "<p>The margin may have got smaller but the brilliant Spanish midfielder makes it a hat-trick of No 1 finishes</p><p>They say the best things come in threes, and Aitana Bonmatí has written herself into <a href=\"https://www.theguardian.com/football/ng-interactive/2025/dec/01/the-100-best-female-footba"
+    },
+    {
+      "title": "The 100 best female footballers in the world 2025",
+      "source": "The Guardian",
+      "date": "2025-12-04",
+      "url": "https://www.theguardian.com/football/ng-interactive/2025/dec/01/the-100-best-female-footballers-in-the-world-2025",
+      "category": "transfers",
+      "thumbnail": "",
+      "description": "<p>Aitana Bonmatí has been voted the best female player on the planet by our panel of 127 experts ahead of Mariona Caldentey and Alessia Russo</p><ul><li><p><a href=\"https://www.theguardian.com/football/ng-interactive/2024/dec/03/the-100-best-female-footballers-in-the-world-2024\">2024 list</a> | <a "
+    },
+    {
+      "title": "Next Generation 2025: 60 of the best young talents in world football",
+      "source": "The Guardian",
+      "date": "2025-10-14",
+      "url": "https://www.theguardian.com/football/ng-interactive/2025/oct/14/next-generation-2025-60-of-the-best-young-talents-in-world-football",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<p>From PSG’s Ibrahim Mbaye to Brazil’s next hope, we select some of the most talented players born in 2008. Check the progress of our classes of <a href=\"https://www.theguardian.com/football/ng-interactive/2024/oct/15/next-generation-2024-60-of-the-best-young-talents-in-world-football\">2024</a> | <"
+    },
+    {
+      "title": "Next Generation 2025: 20 of the best talents at Premier League clubs",
+      "source": "The Guardian",
+      "date": "2025-10-13",
+      "url": "https://www.theguardian.com/football/ng-interactive/2025/oct/13/next-generation-2025-20-of-the-best-talents-at-premier-league-clubs",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<p>We pick the best youngsters at each club born between 1 September 2008 and 31 August 2009, an age band known as first-year scholars. Check the progress of our classes of <a href=\"https://www.theguardian.com/football/ng-interactive/2024/oct/14/next-generation-2024-20-of-the-best-talents-at-premier"
+    },
+    {
+      "title": "Sign up for the Football Daily newsletter: our free football email",
+      "source": "The Guardian",
+      "date": "2022-11-14",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "category": "transfers",
+      "thumbnail": "",
+      "description": "<p>Kick off your afternoon with the Guardian’s take on the world of football</p><p>Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing <a href=\"https:/"
+    },
+    {
+      "title": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+      "source": "The Guardian",
+      "date": "2022-03-22",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "category": "transfers",
+      "thumbnail": "",
+      "description": "<p>Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson</p><p>Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – whe"
+    },
+    {
+      "title": "Sign up for the Recap newsletter: our free sport highlights email",
+      "source": "The Guardian",
+      "date": "2017-05-15",
+      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "category": "transfers",
+      "thumbnail": "",
+      "description": "<p>The best of our sports journalism from the past seven days and a heads-up on the weekend’s action</p><p>Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, pl"
     },
     {
       "title": "European Darts Open: Wade and Aspinall into quarters",
@@ -588,366 +1893,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1sWkhUeWtKd0dUc1BkNWxFWmFBNm1FM3U4bWZabEdLR2F3SW5HX2ZHcTdRTExoNzNuRGx1M0Z5ME42SThHV0dfMkIxcGhBd2I5OEpSNTJPSW42MlU4SFpsd1ppTmhqdzliOEo5NEE4allxZ2xyVXZRVDJLaUU?oc=5\" target=\"_blank\">Where To Watch World Cup 2026 Matches In London</a>  <font c"
     },
     {
-      "title": "'We have another level we can reach' - Kane defends frustrated Tuchel",
-      "source": "BBC Sport",
-      "date": "2026-07-12",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy04xjlg5p4o?at_medium=RSS&amp;at_campaign=rss",
-      "category": "results",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc69/live/bdd18370-7e1a-11f1-9b4a-473830aebee3.jpg",
-      "description": "Captain Harry Kane says England \"have another level we can reach\" as they bid to win the World Cup for the first time since 1966."
-    },
-    {
-      "title": "Infantino opens door to 64-team World Cup",
-      "source": "BBC Sport",
-      "date": "2026-07-12",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj9gm31jwg8o?at_medium=RSS&amp;at_campaign=rss",
-      "category": "squad",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/451c/live/d63516a0-7e21-11f1-a1b8-3d436696a874.jpg",
-      "description": "Plans for a 64-team men's world cup are set to be picked up and assessed in detail after the 2026 tournament with Fifa boss Gianni Infantino saying football needs to be \"for the whole world\"."
-    },
-    {
-      "title": "Tuchel unhappy with England display - so why do they keep winning?",
-      "source": "BBC Sport",
-      "date": "2026-07-12",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7vy25lqll6o?at_medium=RSS&amp;at_campaign=rss",
-      "category": "results",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5df9/live/b19562e0-7deb-11f1-a5de-97ad6e22e20a.jpg",
-      "description": "Football tactics correspondent Umir Irfan examines why England are still winning games despite Thomas Tuchel insisting performances are not good."
-    },
-    {
-      "title": "'We should all be excited' - Messi set for first England meeting",
-      "source": "BBC Sport",
-      "date": "2026-07-12",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgexz4qdlgo?at_medium=RSS&amp;at_campaign=rss",
-      "category": "general",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/522e/live/003c3b60-7dc6-11f1-bee8-53ce494e1abc.jpg",
-      "description": "Lionel Messi is set for his first match against England after Argentina beat Switzerland in the World Cup quarter-finals."
-    },
-    {
-      "title": "'Animals', Hand of God and Beckham - Argentina and England's World Cup rivalry",
-      "source": "BBC Sport",
-      "date": "2026-07-12",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c621y75w2x2o?at_medium=RSS&amp;at_campaign=rss",
-      "category": "general",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14c2/live/c0979910-7ced-11f1-b976-0b9c15b0ccfc.png",
-      "description": "As England and Argentina prepare to go head-to-head in Wednesday's World Cup semi-final, BBC Sport looks at their footballing rivalry."
-    },
-    {
-      "title": "Rice in bed for nearly three days before Norway game - Tuchel",
-      "source": "BBC Sport",
-      "date": "2026-07-12",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpd3wv3v1eeo?at_medium=RSS&amp;at_campaign=rss",
-      "category": "results",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5d2/live/1ef90aa0-7de0-11f1-91f9-abeb669686c2.jpg",
-      "description": "England boss Thomas Tuchel says Declan Rice was in bed for most of the three days prior to the World Cup quarter-final win against Norway because of a sickness bug."
-    },
-    {
-      "title": "Top four ranked teams make semi-finals for first time",
-      "source": "BBC Sport",
-      "date": "2026-07-12",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2ey9l3yl4vo?at_medium=RSS&amp;at_campaign=rss",
-      "category": "squad",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/730c/live/259b3630-7da9-11f1-b8b7-61bca8be7527.jpg",
-      "description": "For the first time since there have been Fifa rankings the top four ranked teams have made the semi-final of the World Cup."
-    },
-    {
-      "title": "Arsenal want Argentina's Alvarez - Monday's gossip",
-      "source": "BBC Sport",
-      "date": "2026-07-12",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1myd53vgvno?at_medium=RSS&amp;at_campaign=rss",
-      "category": "transfers",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74c8/live/d7f6d5c0-7e1f-11f1-926f-c90d1bcfbc84.png",
-      "description": "Arsenal want to sign Atletico Madrid's Julian Alvarez, Aston Villa hijack Newcastle's move for Johan Manzambi, plus more."
-    },
-    {
-      "title": "Pick your England XI for World Cup semi-final",
-      "source": "BBC Sport",
-      "date": "2026-07-12",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz75x4jgddpo?at_medium=RSS&amp;at_campaign=rss",
-      "category": "general",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b999/live/ff26aa50-7d91-11f1-9b2d-630268077fd8.jpg",
-      "description": "England are through to the World Cup semi-finals, but who would you pick in your starting XI?"
-    },
-    {
-      "title": "Tuchel angry at 'lucky' England - but Bellingham defends players",
-      "source": "BBC Sport",
-      "date": "2026-07-12",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg474ekv58o?at_medium=RSS&amp;at_campaign=rss",
-      "category": "results",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e625/live/812ffc70-7d99-11f1-9750-97a471ba3018.jpg",
-      "description": "England head coach Thomas Tuchel is praised by former England players for saying his players \"got lucky\" in World Cup quarter-final win over Norway - but match-winner Jude Bellingham disagrees."
-    },
-    {
-      "title": "Argentina v England 1998 - Owen, Beckham and penalty pain",
-      "source": "BBC Sport",
-      "date": "2026-07-12",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cz75405qe3wo?at_medium=RSS&amp;at_campaign=rss",
-      "category": "general",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2221/live/a75d6660-7e22-11f1-b976-0b9c15b0ccfc.jpg",
-      "description": "England meet Argentina in the last 16 of the 1998 World Cup."
-    },
-    {
-      "title": "'Written off as too old' - France beat up-and-coming Spain in 2006",
-      "source": "BBC Sport",
-      "date": "2026-07-12",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c3vyg507xd2o?at_medium=RSS&amp;at_campaign=rss",
-      "category": "general",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97ee/live/afe997c0-7e24-11f1-b976-0b9c15b0ccfc.jpg",
-      "description": "Spain meet France in the last 16 of the 2006 World Cup."
-    },
-    {
-      "title": "Argentina v England 2002 - Redemption for Beckham",
-      "source": "BBC Sport",
-      "date": "2026-07-12",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cy5vxevngndo?at_medium=RSS&amp;at_campaign=rss",
-      "category": "general",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c66/live/0e523620-7e23-11f1-b976-0b9c15b0ccfc.jpg",
-      "description": "England meet Argentina in the group stage of the 2002 World Cup."
-    },
-    {
-      "title": "How Maradona dominated England in 1986",
-      "source": "BBC Sport",
-      "date": "2026-07-12",
-      "url": "https://www.bbc.co.uk/sport/football/videos/clyxj3x99l9o?at_medium=RSS&amp;at_campaign=rss",
-      "category": "squad",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e3b/live/977ad240-7e23-11f1-b976-0b9c15b0ccfc.jpg",
-      "description": "Diego Maradona leads his Argentina team to victory against England in the quarter-final of the World Cup in 1986."
-    },
-    {
-      "title": "Lamine Yamal? Mbappe? Kane? Pick your World Cup semi-final XI",
-      "source": "BBC Sport",
-      "date": "2026-07-12",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg4l37nm0do?at_medium=RSS&amp;at_campaign=rss",
-      "category": "general",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06d1/live/fffe9600-7cdc-11f1-bee8-53ce494e1abc.png",
-      "description": "As we look ahead to the World Cup semi-final, BBC Sport pick their last-four combined XI. Do you agree?"
-    },
-    {
-      "title": "Did ball hit spidercam before England goal? Snicko says not - Norway unsure",
-      "source": "BBC Sport",
-      "date": "2026-07-12",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd95335dp10o?at_medium=RSS&amp;at_campaign=rss",
-      "category": "general",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d256/live/cce243b0-7d8c-11f1-bc93-cb7def7b7e6e.jpg",
-      "description": "Norway's World Cup campaign ends in a quarter-final defeat by England, but they leave frustrated, arguing that Jude Bellingham's equaliser should not have counted."
-    },
-    {
-      "title": "Bellingham reaching heights of World Cup legends with Messi next",
-      "source": "BBC Sport",
-      "date": "2026-07-12",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy5v6544ypxo?at_medium=RSS&amp;at_campaign=rss",
-      "category": "general",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3aa/live/66ff3770-7d9f-11f1-a998-878927a5819d.jpg",
-      "description": "Jude Bellingham again dazzles England and the World Cup with his brilliance, matching some records of the all-time greats."
-    },
-    {
-      "title": "Big stars and old rivals - what to expect in semi-finals",
-      "source": "BBC Sport",
-      "date": "2026-07-12",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd6ed5x95ygo?at_medium=RSS&amp;at_campaign=rss",
-      "category": "general",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a6f/live/a6cb8cd0-7e05-11f1-afb0-9dae682daff3.png",
-      "description": "France face Spain and England take on Argentina in heavyweight World Cup semi-final meetings - here's what to expect from the last four."
-    },
-    {
-      "title": "Embolo sent off as result of mistaken identity rule",
-      "source": "BBC Sport",
-      "date": "2026-07-12",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg0k5gdr79o?at_medium=RSS&amp;at_campaign=rss",
-      "category": "results",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ec5/live/7f45e610-7da1-11f1-a049-155ea2296701.jpg",
-      "description": "Switzerland's Breel Embolo becomes first player to be sent off as a result of a new law for mistaken identity at the World Cup."
-    },
-    {
-      "title": "Senegal sack manager Thiaw in wake of World Cup exit",
-      "source": "BBC Sport",
-      "date": "2026-07-12",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq81l29lj2zo?at_medium=RSS&amp;at_campaign=rss",
-      "category": "general",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3690/live/d4ecac00-7dbc-11f1-ad4b-13d0aac581db.jpg",
-      "description": "Senegal sack manager Pape Thiaw in the aftermath of the country's exit at the last-32 stage of the 2026 World Cup."
-    },
-    {
-      "title": "Footballers more likely to suffer depression and anxiety - study",
-      "source": "BBC Sport",
-      "date": "2026-07-12",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn59nnkyy2go?at_medium=RSS&amp;at_campaign=rss",
-      "category": "general",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5e2/live/8e91dd20-7afb-11f1-a13d-51cbdbc312b1.jpg",
-      "description": "A new study finds evidence of reduced brain volume in former elite footballers, who also report difficulties with thinking skills and decision-making."
-    },
-    {
-      "title": "Football Daily",
-      "source": "BBC Sport",
-      "date": "2026-07-12",
-      "url": "https://www.bbc.co.uk/sounds/play/p0ns8gfc?at_medium=RSS&amp;at_campaign=rss",
-      "category": "general",
-      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0ntlbyx.jpg",
-      "description": "England are through. Lloyd reacts from Miami as Argentina await."
-    },
-    {
-      "title": "Bellingham scores extra-time winner as England reach semi-finals",
-      "source": "BBC Sport",
-      "date": "2026-07-12",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cjrgww8vr98o?at_medium=RSS&amp;at_campaign=rss",
-      "category": "results",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d347/live/bc697920-7d84-11f1-b976-0b9c15b0ccfc.jpg",
-      "description": "Jude Bellingham scores twice, including an extra-time winner, as England come from behind to beat Norway 2-1 in Miami to reach the World Cup semi-finals."
-    },
-    {
-      "title": "Argentina set up England semi-final with extra-time victory over Switzerland",
-      "source": "BBC Sport",
-      "date": "2026-07-12",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c07y37p7gmko?at_medium=RSS&amp;at_campaign=rss",
-      "category": "general",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a713/live/56842520-7da6-11f1-926f-c90d1bcfbc84.jpg",
-      "description": "Argentina set up a World Cup semi-final with England after scoring twice in extra-time to beat 10-man Switzerland 3-1 in Kansas City."
-    },
-    {
-      "title": "Did spider cam impact England's opener?",
-      "source": "BBC Sport",
-      "date": "2026-07-12",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cx2kwwdygr9o?at_medium=RSS&amp;at_campaign=rss",
-      "category": "general",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4047/live/6c588f80-7d8d-11f1-b976-0b9c15b0ccfc.jpg",
-      "description": "BBC Sport World Cup pundits Wayne Rooney, Ellen White and Micah Richards look at whether the spider cam had an impact in Jude Bellingham's first goal for England against Norway."
-    },
-    {
-      "title": "Alvarez's stunning strike gives Argentina lead against 10-man Switzerland",
-      "source": "BBC Sport",
-      "date": "2026-07-12",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cp8rg8yy6nvo?at_medium=RSS&amp;at_campaign=rss",
-      "category": "general",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef70/live/6e434680-7da3-11f1-926f-c90d1bcfbc84.jpg",
-      "description": "Argentina retake the lead in their quarter-final against Switzerland through a stunning strike from Julian Alvarez during extra-time in Kansas City."
-    },
-    {
-      "title": "England 'got lucky' with disallowed goal",
-      "source": "BBC Sport",
-      "date": "2026-07-12",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5yznny63pko?at_medium=RSS&amp;at_campaign=rss",
-      "category": "injuries",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/507a/live/36af2060-7d92-11f1-b976-0b9c15b0ccfc.jpg",
-      "description": "BBC Sport World Cup pundits Wayne Rooney and Ellen White believe England \"got lucky\" after Torbjorn Heggem's second-half goal was ruled out for a foul on Elliott Anderson by Erling Haaland."
-    },
-    {
-      "title": "What England must do to win the World Cup from here",
-      "source": "BBC Sport",
-      "date": "2026-07-12",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&amp;at_campaign=rss",
-      "category": "results",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ea1/live/95bd6a10-7d8f-11f1-926f-c90d1bcfbc84.png",
-      "description": "BBC Sport takes a look at what England will need to do to reach the World Cup final after progressing to the semi-finals."
-    },
-    {
-      "title": "Podcast: Falkirk, Scottish football & the World Cup",
-      "source": "BBC Sport",
-      "date": "2026-07-12",
-      "url": "https://www.bbc.co.uk/sounds/play/p0nyd6sc?at_medium=RSS&amp;at_campaign=rss",
-      "category": "general",
-      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0gf9mfx.jpg",
-      "description": "All the Scottish football news including Falkirk's John McGlynn and the World Cup latest"
-    },
-    {
-      "title": "Who has your Premiership club brought in & let go this summer?",
-      "source": "BBC Sport",
-      "date": "2026-07-12",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&amp;at_campaign=rss",
-      "category": "transfers",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d6d/live/0fb0f9e0-4a24-11f0-9471-e380f647874e.jpg",
-      "description": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the  2026 summer transfer window."
-    },
-    {
-      "title": "Tuchel and Bellingham need to cool tension with England so close to history | Jacob Steinberg",
-      "source": "The Guardian",
-      "date": "2026-07-12",
-      "url": "https://www.theguardian.com/football/2026/jul/12/thomas-tuchel-jude-bellingham-tension-england-argentina-norway-world-cup-2026",
-      "category": "transfers",
-      "thumbnail": "",
-      "description": "<p>The latest episode of Thomas versus Jude does not have to descend into a drama and team cannot afford to be distracted heading into the World Cup semi-final</p><p>Thomas Tuchel lobbed a grenade into the mix. Jude Bellingham picked it up and threw it back. There was an explosion of honesty in Miam"
-    },
-    {
-      "title": "England on collision course with Messi and Argentina in World Cup semi-final grudge match",
-      "source": "The Guardian",
-      "date": "2026-07-12",
-      "url": "https://www.theguardian.com/football/2026/jul/12/england-lionel-messi-argentina-world-cup-2026-semi-final-norway",
-      "category": "squad",
-      "thumbnail": "",
-      "description": "<ul><li><p>First competitive game between teams since 2002 World Cup</p></li><li><p>Georgia braced for potential flashpoints in Atlanta buildup</p></li></ul><p>It has been billed as one of the biggest grudge matches in the history of international football. After England’s players rode their luck ag"
-    },
-    {
-      "title": "World Cup 2026 power rankings: who leads the pack as semi-finals loom?",
-      "source": "The Guardian",
-      "date": "2026-07-12",
-      "url": "https://www.theguardian.com/football/2026/jul/12/world-cup-2026-power-rankings-france-spain-england-argentina",
-      "category": "results",
-      "thumbnail": "",
-      "description": "<p>We assess the teams who played in the last eight as the business end of the tournament approaches</p><p>Didier Deschamps has seen it all before and certainly does not fear even the lowest of blocks. It is clear everyone is afraid of Les Bleus, which is understandable, and they are using it to the"
-    },
-    {
-      "title": "Gianni Infantino hints at expansion to 64-team World Cup before 2030 event",
-      "source": "The Guardian",
-      "date": "2026-07-12",
-      "url": "https://www.theguardian.com/football/2026/jul/12/gianni-infantino-expansion-64-team-world-cup-2030-fifa",
-      "category": "results",
-      "thumbnail": "",
-      "description": "<ul><li><p>‘Definitely ​an issue that will be examined and discussed’</p></li><li><p>Fifa president calls 48-team tournament a ‘huge success’</p></li></ul><p>Fifa officials will look at the possibility of expanding the World Cup by another 16 teams before the ⁠2030 event, Gianni Infantino said in an"
-    },
-    {
-      "title": "Big game Bellingham steps up again with show-stopping World Cup run for England | Andrew Beasley",
-      "source": "The Guardian",
-      "date": "2026-07-12",
-      "url": "https://www.theguardian.com/football/2026/jul/12/jude-bellingham-england-world-cup-2026-international-goals-leading-scorers",
-      "category": "results",
-      "thumbnail": "",
-      "description": "<p>Real Madrid forward is thriving on the global stage as the first player to score twice in consecutive knockout matches at the tournament since Maradona in 1986</p><p>England’s World Cup journey has rapidly become the Jude Bellingham show. He scored twice to see off Norway on Saturday having also "
-    },
-    {
-      "title": "Cablegate: should Jude Bellingham’s first goal against Norway have been disallowed?",
-      "source": "The Guardian",
-      "date": "2026-07-12",
-      "url": "https://www.theguardian.com/football/2026/jul/12/cablegate-should-jude-bellingham-first-goal-against-norway-have-been-disallowed-england-world-cup-2026",
-      "category": "general",
-      "thumbnail": "",
-      "description": "<p>Midfielder got England back on level terms in fine fashion but pictures suggest illegal interference in the buildup</p><p>Norway’s goalkeeper, Ørjan Nyland, launches a goal-kick down the pitch two minutes into stoppage time at the end of the first half. The ball falls just inside England’s half, "
-    },
-    {
-      "title": "Starmer is expected to use last week in power to push through Hillsborough law",
-      "source": "The Guardian",
-      "date": "2026-07-12",
-      "url": "https://www.theguardian.com/football/2026/jul/12/starmer-to-use-last-week-in-power-to-push-through-hillsborough-law",
-      "category": "general",
-      "thumbnail": "",
-      "description": "<p>Stalled legislation aims to prevent cover-ups and help families seek justice after major disasters</p><p>Keir Starmer is expected to use his final week in office to push the Hillsborough law through its remaining stages in the Commons after months of delays.</p><p>This bill aims to strengthen sup"
-    },
-    {
-      "title": "Former Spanish PM accused of racism in remarks about French football team",
-      "source": "The Guardian",
-      "date": "2026-07-12",
-      "url": "https://www.theguardian.com/world/2026/jul/12/spain-mariano-rajoy-accused-of-racism-french-football-team-world-cup",
-      "category": "results",
-      "thumbnail": "",
-      "description": "<p>Political leaders in both countries rebuke Mariano Rajoy after he writes team ‘does not have any French players’</p><p>The former Spanish conservative prime minister Mariano Rajoy is facing growing accusations of racism after writing in a World Cup newspaper column that the French national team “"
-    },
-    {
-      "title": "Argentina’s World Cup built on ‘suffering’ faces its biggest test in England | Pablo Iglesias Maurer",
-      "source": "The Guardian",
-      "date": "2026-07-12",
-      "url": "https://www.theguardian.com/football/2026/jul/12/argentina-switzerland-england-world-cup-semi-final",
-      "category": "results",
-      "thumbnail": "",
-      "description": "<p>The defending champions have taken two of their three knockout-round matches to extra-time. England awaits</p><ul><li><p><a href=\"https://www.theguardian.com/football/2026/jul/12/switzerland-argentina-world-cup-quarter-final-match-report\">Argentina topple Swiss with two goals in extra time</a></p"
-    },
-    {
-      "title": "Jude Bellingham unimpressed after Tuchel criticises ‘lucky’ England’s performance",
-      "source": "The Guardian",
-      "date": "2026-07-12",
-      "url": "https://www.theguardian.com/football/2026/jul/12/jude-bellingham-thomas-tuchel-criticises-lucky-england-performance",
-      "category": "squad",
-      "thumbnail": "",
-      "description": "<ul><li><p>Head coach says team were ‘sloppy’ and ‘not fast enough’</p></li><li><p>Two-goal Bellingham responds: ‘Yeah, well, whatever’</p></li></ul><p>Jude Bellingham hit back at criticism of England’s performance from Thomas Tuchel after his two goals against Norway <a href=\"https://www.theguardia"
-    },
-    {
       "title": "Jude Bellingham excels in parallel World Cup but cannot win trophy alone | Barney Ronay",
       "source": "The Guardian",
       "date": "2026-07-12",
@@ -955,33 +1900,6 @@
       "category": "results",
       "thumbnail": "",
       "description": "<p>Up against Norway’s heart and skill and Florida’s heat, talisman got England through – but there is much to fix</p><p>Jude against the sun. For much of <a href=\"https://www.theguardian.com/football/2026/jul/12/norway-england-world-cup-quarter-final-match-report\">this game</a> there was a feeling "
-    },
-    {
-      "title": "Ken Bates obituary",
-      "source": "The Guardian",
-      "date": "2026-07-12",
-      "url": "https://www.theguardian.com/football/2026/jul/12/ken-bates-obituary",
-      "category": "general",
-      "thumbnail": "",
-      "description": "<p>Former owner and chairman of Chelsea FC who bought the club for a pound and helped restore it to the top rank of English football</p><p>For more than 20 years, Ken Bates, who has died aged 94, was synonymous with Chelsea Football Club, which he bought in 1982 from the Mears family, who had lost c"
-    },
-    {
-      "title": "Julián Álvarez’s extra-time stunner sinks 10-man Switzerland to send Argentina into semi-finals",
-      "source": "The Guardian",
-      "date": "2026-07-12",
-      "url": "https://www.theguardian.com/football/2026/jul/12/switzerland-argentina-world-cup-quarter-final-match-report",
-      "category": "results",
-      "thumbnail": "",
-      "description": "<p>Did anyone think they would do it the easy way? If Argentina are to win this World Cup they will only get there via rollercoaster. A seemingly straightforward night’s work against Switzerland became their tournament in microcosm, threatening to squander it all before finding salvation through a m"
-    },
-    {
-      "title": "Bellingham blunts Norway as England make the semis | World Cup Daily – video",
-      "source": "The Guardian",
-      "date": "2026-07-12",
-      "url": "https://www.theguardian.com/football/video/2026/jul/12/bellingham-blunts-norway-as-england-make-the-semis-world-cup-daily",
-      "category": "results",
-      "thumbnail": "https://i.guim.co.uk/img/media/2ed976d128454b281c8120db564be20e6b82b9c5/438_0_4366_3495/master/4366.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=408ac054ef6e90687c34cf7f2c82ac48",
-      "description": "<p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max Rushden</a> is joined by <a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\">Barry Glendenning</a>, John Brewin, Lars Sivertsen and Leander Schaerlaeckens as England beat Norway 2-1 in extra time to set up a semi-final "
     },
     {
       "title": "Do England or Argentina have enough to challenge in final? Re-ranking the World Cup teams with four games left",
@@ -2667,24 +3585,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPOWV5OVBMSXBWTGZuaDc2QkNMVkR5RXFiZk1ESjFtdkdYSDhVMk9rb3JwX0FxZTF4enk3NUNMb0JHTUZpOC00b2lBS05BYzJsRk45NmpDaDcyYXIzRm9oWHNVMnFpYUkya002T2pINUU5UFQyc0ZxLVdtLTFDLTJWSW94QmFYVDQ3bF8ycUIydFJFWENybXFuRk1oV0tPYWVSU1E?oc=5\" target=\"_blank\">World Cu"
     },
     {
-      "title": "All the goals from England's 2026 World Cup campaign so far",
-      "source": "BBC Sport",
-      "date": "2026-07-11",
-      "url": "https://www.bbc.co.uk/sport/videos/cewqex0vl85o?at_medium=RSS&amp;at_campaign=rss",
-      "category": "venues",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4542/live/e3e331f0-7c88-11f1-bee8-53ce494e1abc.jpg",
-      "description": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there."
-    },
-    {
-      "title": "BBC to show England's World Cup semi-final",
-      "source": "BBC Sport",
-      "date": "2026-07-11",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx268mlg3lgo?at_medium=RSS&amp;at_campaign=rss",
-      "category": "general",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46cf/live/9e53f650-7d7e-11f1-9493-592225228524.jpg",
-      "description": "England's World Cup semi-final against Argentina will be broadcast live on BBC One and BBC iPlayer."
-    },
-    {
       "title": "Fifa official refuses to answer BBC's Balogun ban questions",
       "source": "BBC Sport",
       "date": "2026-07-11",
@@ -2692,78 +3592,6 @@
       "category": "general",
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a994/live/4a0fa490-7d79-11f1-b86f-176a142dfd6c.jpg",
       "description": "The head of Fifa's disciplinary committee refuses to answer BBC questions about the decision-making process which led to United States striker Folarin Balogun avoiding a ban after being sent off."
-    },
-    {
-      "title": "'He has dragged them through all tournament' - England player ratings",
-      "source": "BBC Sport",
-      "date": "2026-07-11",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg0qpjeeryo?at_medium=RSS&amp;at_campaign=rss",
-      "category": "general",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a71/live/4d950120-7d81-11f1-bee8-53ce494e1abc.jpg",
-      "description": "BBC Sport's England reporter Alex Howell rates the players after the Three Lions beat Norway to reach the World Cup semi-finals."
-    },
-    {
-      "title": "Was VAR right to overturn England penalty?",
-      "source": "BBC Sport",
-      "date": "2026-07-11",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c3dyj7j48v9o?at_medium=RSS&amp;at_campaign=rss",
-      "category": "results",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a557/live/616a5dd0-7d81-11f1-b976-0b9c15b0ccfc.jpg",
-      "description": "England have a penalty overturned following a VAR review after Djed Spence was judged to have initiated the contact with Norway's Oscar Bobb during the first half of extra time in Miami."
-    },
-    {
-      "title": "'Man of all the moments' - Bellingham gives England the lead",
-      "source": "BBC Sport",
-      "date": "2026-07-11",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c20yrd39ge8o?at_medium=RSS&amp;at_campaign=rss",
-      "category": "results",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f1e/live/92661c00-7d7f-11f1-926f-c90d1bcfbc84.jpg",
-      "description": "Jude Bellingham scores his second goal of the game to give England a 2-1 lead over Norway during extra time of their 2026 World Cup quarter-final in Miami."
-    },
-    {
-      "title": "Klopp agrees to replace Nagelsmann as Germany coach",
-      "source": "BBC Sport",
-      "date": "2026-07-11",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ced44061g8qo?at_medium=RSS&amp;at_campaign=rss",
-      "category": "transfers",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddab/live/df173670-7860-11f1-ab53-3dbca6ef5ee1.jpg",
-      "description": "Jurgen Klopp agrees a deal in principle to become the new head coach of Germany's men's national team after the resignation of Julian Nagelsmann."
-    },
-    {
-      "title": "Argentina midfield great Rattin dies aged 89",
-      "source": "BBC Sport",
-      "date": "2026-07-11",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwy09z3qlppo?at_medium=RSS&amp;at_campaign=rss",
-      "category": "general",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ccd/live/68cc4860-7d75-11f1-98dd-61279ae4cdce.jpg",
-      "description": "Argentina great Antonio Rattin, whose sending-off at the 1966 World Cup led to the introduction of red and yellow cards, dies aged 89."
-    },
-    {
-      "title": "Colourful, controversial and significant - ex-Chelsea and Leeds owner Bates dies",
-      "source": "BBC Sport",
-      "date": "2026-07-11",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy1ve57d5o?at_medium=RSS&amp;at_campaign=rss",
-      "category": "transfers",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0079/live/e9a8b940-7d3a-11f1-8417-c9f35e2ce384.jpg",
-      "description": "Former Chelsea and Leeds owner Ken Bates, who has died aged 94, was a colourful and controversial figure - but also a significant one for English football, writes Phil McNulty."
-    },
-    {
-      "title": "South Africa World Cup midfielder Adams dies aged 25",
-      "source": "BBC Sport",
-      "date": "2026-07-11",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&amp;at_campaign=rss",
-      "category": "general",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bee7/live/695fd8a0-7d2f-11f1-8f06-e145dd803033.jpg",
-      "description": "South Africa and Mamelodi Sundowns midfielder Jayden Adams dies at the age of 25, just weeks after featuring for his country at the World Cup."
-    },
-    {
-      "title": "When the World Cup finishes, the football continues on BBC Sport",
-      "source": "BBC Sport",
-      "date": "2026-07-11",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9w2zr9wzj1o?at_medium=RSS&amp;at_campaign=rss",
-      "category": "general",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d2d/live/7bc0e940-7c89-11f1-b976-0b9c15b0ccfc.png",
-      "description": "When the World Cup ends we'll still have loads of great content every day as we build up to the new football season."
     },
     {
       "title": "Spain beat Germany to win U19 Euros in Wrexham",
@@ -2784,15 +3612,6 @@
       "description": "Manchester United's pre-season schedule begins before the World Cup final, and with so many senior players still missing, which youngsters could impress?"
     },
     {
-      "title": "Garnacho absent from Chelsea pre-season training",
-      "source": "BBC Sport",
-      "date": "2026-07-11",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr47ykwr7zgo?at_medium=RSS&amp;at_campaign=rss",
-      "category": "results",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a134/live/2313c310-7d1c-11f1-b61e-1b6852ddc42f.jpg",
-      "description": "Alejandro Garnacho has not yet joined up with Chelsea for pre-season as the club actively look to sell the winger."
-    },
-    {
       "title": "Football without faith is nothing so Infantino is playing with fire at World Cup | Jonathan Wilson",
       "source": "The Guardian",
       "date": "2026-07-11",
@@ -2800,51 +3619,6 @@
       "category": "results",
       "thumbnail": "",
       "description": "<p>Swirl around Fifa’s machinations and about big team and big name bias creates doubt – and that’s a dangerous game</p><p>About 25 years ago, I was in the office of a sports newspaper in Bucharest on a Saturday afternoon following the Premier League games with some local journalists. With about fiv"
-    },
-    {
-      "title": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
-      "source": "The Guardian",
-      "date": "2026-07-11",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
-      "category": "transfers",
-      "thumbnail": "",
-      "description": "<p>All the latest Premier League, La Liga, Bundesliga, Ligue 1 and Serie A deals and a club-by-club guide</p><ul><li><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues\">Women’s transfer window interacti"
-    },
-    {
-      "title": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
-      "source": "The Guardian",
-      "date": "2026-07-11",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
-      "category": "transfers",
-      "thumbnail": "",
-      "description": "<p>Every deal in the NWSL, WSL, Liga F, Frauen-Bundesliga, Première Ligue and Serie A Femminile as well as a club-by-club guide</p><ul><li><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues\">Men’s trans"
-    },
-    {
-      "title": "Bellingham’s extra-time winner sinks Norway and sends England into World Cup semi-finals",
-      "source": "The Guardian",
-      "date": "2026-07-11",
-      "url": "https://www.theguardian.com/football/2026/jul/12/norway-england-world-cup-quarter-final-match-report",
-      "category": "results",
-      "thumbnail": "",
-      "description": "<p>Thomas Tuchel’s message was that it was time for England to thrive at the business end of the World Cup; the most exciting part. His players had to release the handbrake and go for it. They must not have any regrets against a Norway team that most of England expected them to beat. English arrogan"
-    },
-    {
-      "title": "The ad machine: how David Beckham conquered America",
-      "source": "The Guardian",
-      "date": "2026-07-11",
-      "url": "https://www.theguardian.com/football/2026/jul/11/the-ad-machine-how-david-beckham-conquered-america",
-      "category": "results",
-      "thumbnail": "",
-      "description": "<p>The former England midfielder is everywhere at this World Cup, having reached a popularity in the US other Britons have rarely achieved</p><p>Watch US television for any length of time and the endless spume of adverts will eventually separate into three distinct types.</p><p>The first are adverts"
-    },
-    {
-      "title": "Football Daily | Belgium and the End Of The Golden Generation Klaxon",
-      "source": "The Guardian",
-      "date": "2026-07-11",
-      "url": "https://www.theguardian.com/football/2026/jul/11/belgium-golden-generation-football-daily-newsletter",
-      "category": "injuries",
-      "thumbnail": "",
-      "description": "<p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up now!</strong></a></p><p>Look at it up there on the hill, shining in the sunlight, an almost imperceptible aura of melancholia surrounding it like a halo. Look"
     },
     {
       "title": "How to Watch the Norway vs. England FIFA World Cup Quarterfinal Live for Free",
@@ -3342,15 +4116,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNejR1Y2ZLQnFqbG1xbHFHNXAtQVJEcDY3R1pYbDJ2UU5fVERRX1lPdjJqRWZXRkJFRUpIWU5mRHFoZEVvYjFVTDNyLU96MzU1TnFlektqWjd2ZmlkNFE4bXFEVDdRdWZQSFdVRUI1MXdwSnVkZk1TZ1NsSXNvNEZ1dU9KX2lHTlhXT1dkNHdHSmdiZk03cXlwOGFIcTZjOGdVcGwzcHF3T1MwUdIBrwFBVV95cUxNS2txMk"
     },
     {
-      "title": "Spain into semi-finals at expense of Belgium after Merino's late winner",
-      "source": "BBC Sport",
-      "date": "2026-07-10",
-      "url": "https://www.bbc.co.uk/sport/videos/cd0m9e88g0vo?at_medium=RSS&amp;at_campaign=rss",
-      "category": "results",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/063e/live/a3453dd0-7ca8-11f1-b976-0b9c15b0ccfc.jpg",
-      "description": "Mikel Merino emerges as Spain's hero yet again as the substitute scores in the 88th minute to stun Belgium and set up a World Cup semi-final against France."
-    },
-    {
       "title": "More than the Score",
       "source": "BBC Sport",
       "date": "2026-07-10",
@@ -3360,15 +4125,6 @@
       "description": "How does a breakout performance at the World Cup affect a player’s transfer value?"
     },
     {
-      "title": "Merino the unlikely hero again - as Spain wait for Lamine Yamal show",
-      "source": "BBC Sport",
-      "date": "2026-07-10",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg50pvejzdo?at_medium=RSS&amp;at_campaign=rss",
-      "category": "general",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c4d/live/36c6f360-7cbc-11f1-b6c2-a71c5c448f77.jpg",
-      "description": "Mikel Merino came off the bench to send Spain into the World Cup semi-finals - but Lamine Yamal is still waiting for his moment to truly shine."
-    },
-    {
       "title": "Lammens' error spells end for Belgium's golden generation",
       "source": "BBC Sport",
       "date": "2026-07-10",
@@ -3376,87 +4132,6 @@
       "category": "general",
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f93/live/b02ba7f0-7cb2-11f1-b976-0b9c15b0ccfc.jpg",
       "description": "Belgium's World Cup campaign ends after Senne Lammens' error against Spain - could it all be over for their golden generation too?"
-    },
-    {
-      "title": "England defender Charles joins Man City from Chelsea",
-      "source": "BBC Sport",
-      "date": "2026-07-10",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyed2g8vro?at_medium=RSS&amp;at_campaign=rss",
-      "category": "transfers",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d93/live/2505f430-7c6e-11f1-98fd-6b03daaf8a77.png",
-      "description": "Manchester City have signed England international Niamh Charles for £500,000 from Women's Super League rivals Chelsea."
-    },
-    {
-      "title": "Arsenal sign Spain defender Batlle on free transfer",
-      "source": "BBC Sport",
-      "date": "2026-07-10",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqx1v5d12gjo?at_medium=RSS&amp;at_campaign=rss",
-      "category": "transfers",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6496/live/f8579a20-7c4e-11f1-912a-c3e242c0bef0.jpg",
-      "description": "Arsenal sign Spain international Ona Batlle on a free transfer following her exit from Barcelona."
-    },
-    {
-      "title": "West Ham sign forward Salmon on two-year deal",
-      "source": "BBC Sport",
-      "date": "2026-07-10",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy04elxeyvqo?at_medium=RSS&amp;at_campaign=rss",
-      "category": "transfers",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38ae/live/03783990-7c73-11f1-926f-c90d1bcfbc84.jpg",
-      "description": "West Ham have signed England forward Ebony Salmon on a two-year deal following her exit from Aston Villa."
-    },
-    {
-      "title": "Merino puts Spain into World Cup semi-finals as Belgium rue costly Courtois injury",
-      "source": "The Guardian",
-      "date": "2026-07-10",
-      "url": "https://www.theguardian.com/football/2026/jul/10/spain-belgium-world-cup-2026-quarter-final-match-report",
-      "category": "injuries",
-      "thumbnail": "",
-      "description": "<p>Mikel Merino’s amazing moment arrived once more, an entire country circling the corner flag with him as football, which somehow always finds a way, provided another absurdly tall tale. The man who came on to score the late, late goals that took Spain into a European championship semi-final two ye"
-    },
-    {
-      "title": "Arsenal hail signing of ‘winner’ Ona Batlle after Barcelona summer exodus",
-      "source": "The Guardian",
-      "date": "2026-07-10",
-      "url": "https://www.theguardian.com/football/2026/jul/10/arsenal-sign-ona-batlle-spain-barcelona-defender",
-      "category": "transfers",
-      "thumbnail": "",
-      "description": "<ul><li><p>Batlle is fourth arrival after Stanway, Cerci and Reuteler</p></li><li><p>Manchester City sign Niamh Charles from Chelsea</p></li></ul><p>Arsenal have confirmed the signing of the Spain full-back Ona Batlle for free after her departure from Barcelona, continuing the London club’s busy sta"
-    },
-    {
-      "title": "Exit strategies: how and why 27% of World Cup coaches have left their jobs",
-      "source": "The Guardian",
-      "date": "2026-07-10",
-      "url": "https://www.theguardian.com/football/2026/jul/10/world-cup-coaches-left-their-jobs",
-      "category": "transfers",
-      "thumbnail": "",
-      "description": "<p>Thirteen coaches have been sacked or walked away from their national teams – here’s a full rundown</p><p><strong>Sabri Lamouchi</strong> Appointed on 14 January to succeed Sami Trabelsi after Tunisia <a href=\"https://www.theguardian.com/football/2026/jan/03/paranoia-and-mali-get-the-better-of-tim"
-    },
-    {
-      "title": "Kylian Mbappé embraces leadership role for France to urge team humility",
-      "source": "The Guardian",
-      "date": "2026-07-10",
-      "url": "https://www.theguardian.com/football/2026/jul/10/kylian-mbappe-france-world-cup-2026-semi-final",
-      "category": "results",
-      "thumbnail": "",
-      "description": "<p>Didier Deschamps’ decision to give the inspirational forward the captaincy has paid off with no complacency on their run to the semi-finals</p><p>The driving force behind France’s semi-final win over Morocco in 2022, Antoine Griezmann, was watching on from the stands this time as <em>Les Bleus</e"
-    },
-    {
-      "title": "‘Give me another medal!’: meet the hair stylist who has taken over the World Cup",
-      "source": "The Guardian",
-      "date": "2026-07-10",
-      "url": "https://www.theguardian.com/football/2026/jul/10/give-me-another-medal-hair-stylist-world-cup-jayema-lamine-yamal-raphinha",
-      "category": "venues",
-      "thumbnail": "",
-      "description": "<p>Jayèma on working with England stars, a new look for Raphinha and forging a friendship with Lamine Yamal’s family </p><p>Jayèma has had a World Cup like no other. Who else but the London hair stylist has worked with footballers from England, Brazil, the United States and Canada, and hung out with"
-    },
-    {
-      "title": "Sports quiz of the week: England v Norway, Wimbledon and Alexia Putellas",
-      "source": "The Guardian",
-      "date": "2026-07-10",
-      "url": "https://www.theguardian.com/sport/2026/jul/10/sports-quiz-week-england-norway-wimbledon-putellas-football-tennis-rugby-cricket-cycling",
-      "category": "general",
-      "thumbnail": "",
-      "description": "<p>Have you followed the big stories in football, tennis, rugby union, cricket, cycling, rugby league and swimming?</p> <a href=\"https://www.theguardian.com/sport/2026/jul/10/sports-quiz-week-england-norway-wimbledon-putellas-football-tennis-rugby-cricket-cycling\">Continue reading...</a>"
     },
     {
       "title": "FIFA World Cup schedule today: Games, kickoff times, livestream info for July 9",
@@ -3801,69 +4476,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOZkV5SnEwb2hINW4xVGZUbzljdTRqTDZlRGRtNkVJdXF3cG15RnNCSlBpajl3ekxoWEJGdUdaM19zVE95LWVJcnFLRHFES0ZjTWlVWkRxaTdsckpfX3Z5cFkyT0hKbnJrSVhpX3ZQQnlLMjk4c0xBb0ZnRDQ4TjRUVkY1bm1VWW9WbU5XY0YzYkpXakNvWGR2RFJlY9IBoAFBVV95cUxONWM4ajE4SEZwbU1mZW5wM2hZb3"
     },
     {
-      "title": "France into semi-finals after comfortable win over Morocco",
-      "source": "BBC Sport",
-      "date": "2026-07-09",
-      "url": "https://www.bbc.co.uk/sport/football/videos/crm0ry2nemmo?at_medium=RSS&amp;at_campaign=rss",
-      "category": "results",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3f8/live/f7c5b270-7be2-11f1-9510-1546718f668b.jpg",
-      "description": "Kylian Mbappe scores his eighth goal of this World Cup to make up for an earlier penalty miss with Ousmane Dembele adding a second as France prove too good for Morocco and move into the semi-finals."
-    },
-    {
-      "title": "Premier League pre-season - who are your club playing?",
-      "source": "BBC Sport",
-      "date": "2026-07-09",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn59deldv70o?at_medium=RSS&amp;at_campaign=rss",
-      "category": "general",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbff/live/0a23b660-7bac-11f1-b976-0b9c15b0ccfc.jpg",
-      "description": "The World Cup is still going on but Premier League clubs will soon begin their pre-season friendlies - who is your club taking on and when?"
-    },
-    {
-      "title": "Late goals, comebacks and upsets - is record-breaking World Cup best ever?",
-      "source": "BBC Sport",
-      "date": "2026-07-09",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2dzy11epeo?at_medium=RSS&amp;at_campaign=rss",
-      "category": "results",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/becd/live/c9bf1210-7b18-11f1-b976-0b9c15b0ccfc.png",
-      "description": "What a World Cup it has been with great goals, thrilling comebacks, late drama, shock results. But how will this tournament be remembered?"
-    },
-    {
-      "title": "What are the key dates for the 2026-27 football season?",
-      "source": "BBC Sport",
-      "date": "2026-07-09",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd0m840p7d1o?at_medium=RSS&amp;at_campaign=rss",
-      "category": "general",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2d3/live/7dfe1b00-7bb8-11f1-9510-1546718f668b.jpg",
-      "description": "BBC Sport's Ask Me Anything explains the full list of key dates for the 2026-27 men's football season"
-    },
-    {
-      "title": "Mbappé stunner ends Morocco resistance to send France into World Cup semi-finals",
-      "source": "The Guardian",
-      "date": "2026-07-09",
-      "url": "https://www.theguardian.com/football/2026/jul/09/morocco-france-world-cup-quarter-final-match-report",
-      "category": "general",
-      "thumbnail": "",
-      "description": "<p>There is a relentlessness to this France that might make them irresistible. Morocco no doubt had the best of intentions, ideas of how they could hurt the side that had beaten them in the semi-final in Qatar, but France press so well that they soon accepted they had no option but to retreat and en"
-    },
-    {
-      "title": "Newcastle face sliding doors moment over Bruno Guimarães in summer of upheaval",
-      "source": "The Guardian",
-      "date": "2026-07-09",
-      "url": "https://www.theguardian.com/football/2026/jul/09/newcastle-face-sliding-doors-moment-over-bruno-guimaraes-in-summer-of-upheaval",
-      "category": "general",
-      "thumbnail": "",
-      "description": "<p>With Saudi spending restricted and a glut of departures and arrivals, the stakes are high for Eddie Howe and his captain, amid uncertain times on Tyneside</p><p>Is it the end of the road for Bruno Guimarães and Newcastle or are they destined to share at least one more adventure?</p><p>With Arsena"
-    },
-    {
-      "title": "Manchester United insist new stadium ‘not vanity project’ despite prospect of more debt",
-      "source": "The Guardian",
-      "date": "2026-07-09",
-      "url": "https://www.theguardian.com/football/2026/jul/09/manchester-united-insist-new-stadium-not-vanity-project-despite-prospect-of-more-debt",
-      "category": "venues",
-      "thumbnail": "",
-      "description": "<ul><li><p>Plan unveiled for ground 350 metres from Old Trafford</p></li><li><p>Working cost of stadium previously stated as £2bn</p></li></ul><p>Manchester United have said their <a href=\"https://www.theguardian.com/football/2025/mar/11/manchester-united-new-stadium-next-to-old-trafford-norman-fost"
-    },
-    {
       "title": "Match-fixing has spread to chess and darts, Lords’ select committee told",
       "source": "The Guardian",
       "date": "2026-07-09",
@@ -3880,51 +4492,6 @@
       "category": "injuries",
       "thumbnail": "",
       "description": "<ul><li><p>Milan forward was subbed out in a 4-1 loss</p></li><li><p>Pulisic had been criticized for his lack of availability</p></li></ul><p>Christian Pulisic suffered a microfracture and bone bruise in his leg in the United States’ 4-1 loss to Belgium in the World Cup last 16 on Monday, US Soccer "
-    },
-    {
-      "title": "Going first in a penalty shootout gives teams an advantage … or does it?",
-      "source": "The Guardian",
-      "date": "2026-07-09",
-      "url": "https://www.theguardian.com/football/2026/jul/09/world-cup-first-penalty-shootout-advantage-second",
-      "category": "venues",
-      "thumbnail": "",
-      "description": "<p>Thirteen of the past 15 shootouts at World Cups have been won by the team that went second</p><p>By <a href=\"https://theanalyst.com/\">Opta Analyst</a></p><p>After watching 120 minutes of football, you might not find observing a coin toss the most exciting dessert. Fans in the stadium care, though"
-    },
-    {
-      "title": "‘Is he a nice guy? No. He’s a good guy’: how Harry Kane became an England great",
-      "source": "The Guardian",
-      "date": "2026-07-09",
-      "url": "https://www.theguardian.com/football/2026/jul/09/is-he-a-nice-guy-no-hes-a-good-guy-how-harry-kane-became-an-england-great",
-      "category": "results",
-      "thumbnail": "",
-      "description": "<p>Figures who worked with striker in his formative years recall a self-belief – even when his talent did not stand out</p><p>There is another version of reality in which Harry Kane is not England’s greatest goalscorer but a goalkeeper. On his first day at Ridgeway Rovers, his first club, the coach "
-    },
-    {
-      "title": "Team for now, not a squad for later – Spurs are spending big but what is it for? | Jonathan Liew",
-      "source": "The Guardian",
-      "date": "2026-07-09",
-      "url": "https://www.theguardian.com/football/2026/jul/09/team-for-now-not-a-squad-for-later-spurs-are-spending-big-but-what-is-it-for",
-      "category": "transfers",
-      "thumbnail": "",
-      "description": "<p>Tottenham’s strategies have changed over the years and this summer’s transfer splurge marks a sharp turn away from the Levy years</p><p>A couple of weeks ago, Sotheby’s in London concluded one of its biggest art auctions. In all, the sale of 25 modern and contemporary works raised almost £300m. S"
-    },
-    {
-      "title": "‘Best player England has developed’: Olise’s rise from Hayes to the World Cup",
-      "source": "The Guardian",
-      "date": "2026-07-09",
-      "url": "https://www.theguardian.com/football/2026/jul/09/best-player-england-developed-michael-olise-2026-world-cup-france",
-      "category": "results",
-      "thumbnail": "",
-      "description": "<p>One of the Bayern and France playmaker’s early coaches tells the story of how a move to Reading kickstarted a career</p><p>If <a href=\"https://www.theguardian.com/football/2026/jul/01/michael-olise-artist-hearts-france-love-world-cup-bayern-munich\">Michael Olise wins the World Cup</a>, there will"
-    },
-    {
-      "title": "The US delivered their best modern World Cup performance – and also let themselves down",
-      "source": "The Guardian",
-      "date": "2026-07-09",
-      "url": "https://www.theguardian.com/football/2026/jul/09/the-us-delivered-their-best-modern-world-cup-performance-and-also-let-themselves-down",
-      "category": "results",
-      "thumbnail": "",
-      "description": "<p>Mauricio Pochettino’s team delivered several thrilling performances on home soil. The way it ended was somewhat less exhilarating</p><p>So now what? How are we supposed to think about this supposedly golden generation of the United States men’s national team who have fallen short of expectations "
     },
     {
       "title": "Watch FIFA World Cup 2026™ Live & Free | SBS On Demand | Stream Free on SBS On Demand",
@@ -4080,69 +4647,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOampiWXI3dkp0MF9aQ1VtOWlCR0Q0YXhMY3lKdmFZRlB5bUFfMmlCV3pCUDNMYUFzdTk1YTg0LWNZQ21QZ3FXRFhLWUV3Yzd3bHloU1VicTFTOVozSnJZSHNOSlk2TXpYb21uNTlzbmJSQW9nbE1sa0REWTBKYWd1d1VFa2FrQzdRRXI1YkZJUDJuYjVHV2xha2Zwcm1oY3pSWVRXWlJBRHhxc3RzblFNN2pMQQ?oc=5\" t"
     },
     {
-      "title": "BBC expert Sutton's World Cup quarter-final predictions",
-      "source": "BBC Sport",
-      "date": "2026-07-08",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c15y1j32jxko?at_medium=RSS&amp;at_campaign=rss",
-      "category": "general",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da24/live/94353bc0-641a-11f1-8546-8f19e4fe30f4.jpg",
-      "description": "BBC Sport's football expert Chris Sutton gives his predictions for the quarter-final ties at the 2026 World Cup, including England against Norway."
-    },
-    {
-      "title": "A striker duel for the ages & Qatar revenge - what to expect in quarter-finals",
-      "source": "BBC Sport",
-      "date": "2026-07-08",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyyvn1yn7o?at_medium=RSS&amp;at_campaign=rss",
-      "category": "general",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94b9/live/d921c210-7aba-11f1-b976-0b9c15b0ccfc.png",
-      "description": "Setting the scene for each of the four intriguing World Cup quarter-finals that begin on Thursday."
-    },
-    {
-      "title": "Who has been eliminated from the World Cup?",
-      "source": "BBC Sport",
-      "date": "2026-07-08",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c74y970len4o?at_medium=RSS&amp;at_campaign=rss",
-      "category": "squad",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09c5/live/83c3fe00-79d9-11f1-9510-1546718f668b.jpg",
-      "description": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
-    },
-    {
-      "title": "Is there such a thing as ‘the perfect penalty’ in football? – video",
-      "source": "The Guardian",
-      "date": "2026-07-08",
-      "url": "https://www.theguardian.com/football/video/2026/jul/08/is-there-such-a-thing-as-the-perfect-penalty-in-football-video",
-      "category": "general",
-      "thumbnail": "https://i.guim.co.uk/img/media/b2979ca7d656099b6254b554e486821929ddc50a/0_487_1080_863/master/1080.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9f453aba20a77e548d332c1159cc581b",
-      "description": "<p>The pain of the penalty shootout is the cruellest fate in football. A single spot kick can easily decide the outcome of a game at a World Cup, making any advantage in taking a penalty crucial. </p><p>So what can we learn about the best strategy for penalty kicks from statistics and research? Guar"
-    },
-    {
-      "title": "A World Cup free agent XI: summer bargains and top targets among clubless players",
-      "source": "The Guardian",
-      "date": "2026-07-08",
-      "url": "https://www.theguardian.com/football/2026/jul/08/world-cup-free-agent-xi-vozinha-salah-clubless-players",
-      "category": "squad",
-      "thumbnail": "",
-      "description": "<p>A goalkeeper with 27.5m Instagram followers and a forward whose future is opaque make our team of players looking for new clubs</p><p>As late bloomers and cult heroes go, few have made an impact on a World Cup quite like the goalkeeper who first defied Spain’s attackers and, after Cape Verde’s qu"
-    },
-    {
-      "title": "What does Sam Kerr’s return to the NWSL mean for the league, Gotham FC and the player herself?",
-      "source": "The Guardian",
-      "date": "2026-07-08",
-      "url": "https://www.theguardian.com/football/2026/jul/08/what-does-sam-kerr-return-to-nwsl-mean-for-league-gotham-fc-player-moving-the-goalposts",
-      "category": "squad",
-      "thumbnail": "",
-      "description": "<p>Australia’s superstar striker returns to the US after a seven-year absence – and will find a vastly changed landscape</p><p>When Sam Kerr last played for the National Women’s Soccer League’s Big Apple-adjacent club, it was called Sky Blue and the playing conditions were abysmal. The Australia str"
-    },
-    {
-      "title": "Is Neymar the first to bookend his international career with goals at the same venue? | The Knowledge",
-      "source": "The Guardian",
-      "date": "2026-07-08",
-      "url": "https://www.theguardian.com/football/2026/jul/08/is-neymar-the-first-to-bookend-his-international-career-with-goals-at-the-same-venue",
-      "category": "venues",
-      "thumbnail": "",
-      "description": "<p>Plus: national team colours that are different from flags; Senegal’s goal difference record setters; and Scotland’s unbeaten 1974 tournament</p><ul><li><p><a href=\"mailto:knowledge@theguardian.com\"><strong>Mail us</strong></a><strong> with your all of your questions and answers</strong></p></li><"
-    },
-    {
       "title": "Jordan Henderson shares World Cup injury update ahead of England quarter-final",
       "source": " url=\"https://www.brentfordfc.com\">Brentford FC",
       "date": "2026-07-08",
@@ -4213,24 +4717,6 @@
       "category": "venues",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNR2Uwck5TcnlCZmtzdm83aWZOT0JRYmZsS2xrcVY0M09KdkxPYV9fSGk4Sms1bFROSV8ydFkwa2JzZEZjTk15aWwwRUphM3ZyUjNPUFZDakU4T192ek5DWF9oMTlrQXNOWlVKWGRZU2ZpOWhEVEw0Wmh1bldwR2tocF9uRnNYWkdyT2JDQjNLclFaRVpXR1BId3lLVGVpcmk1Y1F4aHFnclRIaDFvd2VCU1ZiY25GRDlmb0"
-    },
-    {
-      "title": "All the presidents’ meddling: the Balogun scandal shows how Fifa can break football | Barney Ronay",
-      "source": "The Guardian",
-      "date": "2026-07-07",
-      "url": "https://www.theguardian.com/football/2026/jul/07/donald-trump-gianni-infantino-folarin-balogun-fifa-world-cup-2026",
-      "category": "results",
-      "thumbnail": "",
-      "description": "<p>The suspension of the USA striker’s red card after Trump’s intervention has shown what Gianni Infantino’s organisation is trying to turn the sport into: scripted entertainment</p><p>Frites 4 Cheats 1. Tintin 4 Tonto 1. Some good news here, perhaps. It seems Gianni Infantino was right after all. F"
-    },
-    {
-      "title": "David Squires on … England’s World Cup classic in Mexico and a Trump novelty",
-      "source": "The Guardian",
-      "date": "2026-07-07",
-      "url": "https://www.theguardian.com/football/picture/2026/jul/07/david-squires-on-england-world-cup-classic-mexico-donald-trump-fifa-usa-belgium",
-      "category": "general",
-      "thumbnail": "",
-      "description": "<p>Our cartoonist looks at the big stories from the World Cup as England reach the last eight but the US slump out</p><ul><li><p><a href=\"https://guardianprintshop.com/collections/david-squires\">Buy David’s cartoons</a> | <a href=\"https://www.theguardian.com/football/2025/dec/04/david-squires-picks-"
     },
     {
       "title": "Netflix, Disney and YouTube interested in FIFA World Cup U.S. rights; package could reach $2 billion",
@@ -4503,24 +4989,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPck52VU1yaHdxRzZMY0VHei1JWURoWEJUVEk4N0NFZTdzME4xV0lpRzh6QU92OHBrVTBBa1dQWlp1NkU4YjFWSlg5YTNUNWQ3a2FPNjBLdkNYME15ZDVMeUxnTlJCTXB4ZDUyaUhFVnRMcDZjOEZlWG1hSTc2Sks2ZlVPeUZFOGdHMHFyWFpYZVlSVFczN1dNQUVUYXJQOFJCVGxB?oc=5\" target=\"_blank\">Five su"
     },
     {
-      "title": "Lionel Messi and football’s ageless wonders can excel into their 40s | Emma Hayes",
-      "source": "The Guardian",
-      "date": "2026-07-05",
-      "url": "https://www.theguardian.com/football/2026/jul/05/lionel-messi-ageless-wonders-world-cup",
-      "category": "results",
-      "thumbnail": "",
-      "description": "<p>Argentina’s captain leads the way for veteran strikers at World Cup. They have different styles, but all have shown their worth</p><p>I would be shocked if the record for the most goals scored by a player in a World Cup – Just Fontaine’s 13 in 1958 – is not broken this summer. That is how elite t"
-    },
-    {
-      "title": "A footballing deepfake: how Bruno Fernandes fell victim to an unlicensed betting operator",
-      "source": "The Guardian",
-      "date": "2026-07-05",
-      "url": "https://www.theguardian.com/football/2026/jul/05/a-footballing-deepfake-how-bruno-fernandes-fell-victim-to-an-unlicensed-betting-operator",
-      "category": "general",
-      "thumbnail": "",
-      "description": "<p>Illegal online casinos are producing fake BBC stories and AI-generated videos in an attempt to deceive customers</p><p>Respect of copyright law has never ranked highly in the list of priorities for unlicensed sports betting operators. Crests of famous clubs and ­photographs of star players are ro"
-    },
-    {
       "title": "FIFA World Cup 2026: How to watch Mexico vs England in the round of 16 – head-to-head, full schedule",
       "source": " url=\"https://www.olympics.com\">olympics.com",
       "date": "2026-07-05",
@@ -4537,33 +5005,6 @@
       "category": "general",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWkg2UkVSNVFIOVplZjlIMXI2WGQ5WkI4NkRrZjVFODEzQUJGaF9mRmVEUFdoYTJFejRoZ1NxTVFVQ08tZ1o3Y29mR0VkeEVnWjVMTUpIZ1lZUjdhM1dPdUwwNERrTU5GLWlNY3dOSVFMUElQTjVXRHUwb3hEWDFQd1lrSTgxWHFkcjhjNFl3NkExeU9HNjM5LWdnakJENWhIbHBrT0FhcDJkZXRrV3ZpSXRTLVNhMTAxeW"
-    },
-    {
-      "title": "Michael Olise: Origins",
-      "source": "BBC Sport",
-      "date": "2026-07-04",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002z090?at_medium=RSS&amp;at_campaign=rss",
-      "category": "general",
-      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0nwxlr4.jpg",
-      "description": "The origin story of France's newest superstar begins closer to home than you might think."
-    },
-    {
-      "title": "In spotlight but shunning limelight - Olise's unique rise to top",
-      "source": "BBC Sport",
-      "date": "2026-07-04",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzr42943lo?at_medium=RSS&amp;at_campaign=rss",
-      "category": "general",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec37/live/30515480-77ad-11f1-b21a-9d51504ec77b.jpg",
-      "description": "A footballer who dislikes too much media attention, but Michael Olise might not have much choice if he carries on his World Cup heroics."
-    },
-    {
-      "title": "‘This is a hellhole’: Aramco makes its presence hurt in the shadow of the World Cup",
-      "source": "The Guardian",
-      "date": "2026-07-04",
-      "url": "https://www.theguardian.com/football/2026/jul/04/aramco-world-cup-fifa-port-arthur-texas-houston",
-      "category": "transfers",
-      "thumbnail": "",
-      "description": "<p>The oil giant’s sponsorship deal with Fifa has featured prominently at matches in Houston. But 100 miles away in another Texas city, residents say the firm’s refinery is exposing them to poisonous gases and long-term health problems</p><p>The street is wide, its grass verges thick and scruffy aft"
     },
     {
       "title": "World Cup 2026 Power Rankings before round of 16: Who's No. 1?",
@@ -4591,24 +5032,6 @@
       "category": "squad",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbkdCSU1vTFh4TkpQaHRJNnlTTndsckVGMXBKNkNRVllfQTdKTGhmaDBITWRSS3FxXzdDZ3hrR2lYakFhbEVadjQzcGxDT3R2OHlRcnFnWmxSZWRwelB5RjIyM1NDaHBaQVFqZUR1U3EyWEx6RVlwdWxsU21xZnlCejd1RDZ0c1ZfYVVZVUJSbEowR1NuU0x6Wmk2QVFoRW9EN0pGYndEUDPSAa4BQVVfeXFMT3U2TWIzaG"
-    },
-    {
-      "title": "How hard is it to cycle to New Jersey's MetLife stadium? – video",
-      "source": "The Guardian",
-      "date": "2026-07-03",
-      "url": "https://www.theguardian.com/football/video/2026/jul/03/how-hard-is-it-to-cycle-to-metlife-stadium-video",
-      "category": "venues",
-      "thumbnail": "",
-      "description": "<p>After we recently answered the question “can you just walk to MetLife Stadium?”, many of our viewers on social media asked the same question: “what if you cycled there?” </p><p></p><p>So we accepted the challenge, and got our senior soccer editor, Alexander Abnos to jump on his bike to find out. "
-    },
-    {
-      "title": "Ange Postecoglou to manage Cristiano Ronaldo after landing Al-Nassr job",
-      "source": "The Guardian",
-      "date": "2026-07-03",
-      "url": "https://www.theguardian.com/football/2026/jul/03/ange-postecoglou-head-coach-al-nassr-cristiano-ronaldo",
-      "category": "transfers",
-      "thumbnail": "",
-      "description": "<ul><li><p>Former Tottenham manager signs two-year contract</p></li><li><p>Al-Nassr won the Saudi Pro League last season</p></li></ul><p>Ange Postecoglou has been appointed as the new head coach of the Saudi Pro League champions, ⁠Al-Nassr, on a two-year deal as the Australian attempts ⁠to revive hi"
     },
     {
       "title": "World Cup Buzz: Mohamed Salah Starting For Egypt After Knockout Round Injury",
@@ -4719,15 +5142,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQRXZyWGVYZFNheHNtTEtWaEU4Vmo3RUpZaXJZb1N6OU1ZUmFBbUZrWGhCRkFBSkVucHRvUTFmMzFteHprV0ktUTFLYndTLXNHS1pUa1RCaTdIYXUwNzZ6TkFjQXo1YmtpOGdiVTNRdFJ4Q2ktZFU5ZlpZV2sxSHZHWWs2aWRScEdxV3g5THVoekx4MUxFNGpFLWRWOGpZb3ZKSGkwZHUzN1N0UG9HSmZraHBDSUlELU5teU"
     },
     {
-      "title": "‘Would you say it to someone’s face?’ Ellen White on going from player to pundit",
-      "source": "The Guardian",
-      "date": "2026-07-01",
-      "url": "https://www.theguardian.com/football/2026/jul/01/ellen-white-england-lionesses-player-to-pundit",
-      "category": "transfers",
-      "thumbnail": "",
-      "description": "<p>In this week’s newsletter we speak to the Lionesses’ record scorer, who has been inducted to the hall of fame at the National Football Museum</p><p>For a generation of England fans she was the talismanic striker the nation could always rely on to find the net at a major tournament, scoring a reco"
-    },
-    {
       "title": "Sweden at the World Cup 2026: Squad, fixtures, group and history",
       "source": " url=\"https://www.uefa.com\">UEFA.com",
       "date": "2026-07-01",
@@ -4762,24 +5176,6 @@
       "category": "venues",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaVRIYkNhNUg2Y2YxWnd5QXdobG51NE9FVlhmQTlvNEdVVk43OVRoREFfMklRTl9HU1U5aDVrQXQtUzRaWGI1SGQ1bGVHTU5SWnkzZTZ0RUtnRUcwcEprc2ZlaXlIamRxTHp2MFh3elJHNkdKVGRfRThfNVFHNThuWEowVks2cUF6dU0wSHVMcUpHQ0lpQU1oRGVSd3dSSHQtWEoxQ1I0MkNhUQ?oc=5\" target=\"_blan"
-    },
-    {
-      "title": "My World Cup memory: heartbreak in the exam hall for England v Brazil in 2002 – video",
-      "source": "The Guardian",
-      "date": "2026-06-30",
-      "url": "https://www.theguardian.com/football/video/2026/jun/30/my-world-cup-memory-heartbreak-in-the-exam-hall-for-england-v-brazil-in-2002-video",
-      "category": "results",
-      "thumbnail": "",
-      "description": "<p>Where were you when Ronaldinho lobbed David Seaman in England’s quarter-final game against Brazil at the 2002 World Cup? Our head of newsletters, Toby Moses, was sitting in an exam hall for his English A Level exam. It was heartbreak for England more than two decades ago, but perhaps they can go "
-    },
-    {
-      "title": "Plan to expand Africa Cup of Nations from 24 to 28 teams is rejected",
-      "source": "The Guardian",
-      "date": "2026-06-30",
-      "url": "https://www.theguardian.com/football/2026/jun/30/plan-to-expand-africa-cup-of-nations-afcon-from-24-to-28-teams-rejected",
-      "category": "squad",
-      "thumbnail": "",
-      "description": "<ul><li><p>Executive committee member says it was ‘very bad idea’</p></li><li><p>Caf says its aim is to make tournament world class</p></li></ul><p>A plan to expand the Africa Cup of Nations from 24 to 28 teams has been rejected, the Guardian has learned.</p><p>The proposal had been made by the Conf"
     },
     {
       "title": "Brazil's Paqueta suffers muscle injury, doubtful for round of 16",
@@ -4870,24 +5266,6 @@
       "category": "results",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNdjg2WVo1MHZvdzVwUXFveXFXSDQyZWJFZ2E2cVNFcS1ZOUx5MDRJT3B0SG43QXM3RXVzaEJ3OE9aM3dia25JTDd6RW0wQUJFVFhRS2FfY1VtN2FxTGY3SUYzdnZlaU9QdzQ2c3ZjeF8xZkFhOFdJY1VmYktwSC1tUFpDYw?oc=5\" target=\"_blank\">FIFA World Cup 2026 – Every match result on Wedne"
-    },
-    {
-      "title": "Robert Lewandowski makes MLS move to Chicago Fire on deal till 2028",
-      "source": "The Guardian",
-      "date": "2026-06-29",
-      "url": "https://www.theguardian.com/football/2026/jun/29/robert-lewandowski-mls-chicago-fire-2028",
-      "category": "transfers",
-      "thumbnail": "",
-      "description": "<ul><li><p>Former Barcelona striker joins for two and a half seasons</p></li><li><p>37-year-old’s 697 goals is third best total for current players</p></li></ul><p>The Chicago Fire on Monday officially announced their acquisition of Robert Lewandowski ⁠through to the 2027-28 season. Poland’s record "
-    },
-    {
-      "title": "NWSL all-time record goalscorer Sam Kerr confirms league return by joining Gotham",
-      "source": "The Guardian",
-      "date": "2026-06-29",
-      "url": "https://www.theguardian.com/football/2026/jun/29/nwsl-all-time-record-goalscorer-sam-kerr-confirms-league-return-by-joining-gotham",
-      "category": "transfers",
-      "thumbnail": "",
-      "description": "<ul><li><p>Australia captain back in league she left in 2019</p></li><li><p>Striker won 11 major trophies in spell at Chelsea</p></li></ul><p>Sam Kerr is joining Gotham FC in the National Women’s Soccer League (NWSL) after spending the past six and a half years with Chelsea.</p><p>Gotham announced o"
     },
     {
       "title": "FIFA World Cup 2026: Full schedule, all results, scores and standings – complete list",
@@ -5088,24 +5466,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOdGhTSThzMi1BQW15bGV5X1N0ZDl2UTdmbGpWbHItOHIwRGRRd1B2WjlRTGZNY2gtVndPREdTRjdhbENGQWw5Tl9YVWVUVnlTc19MdE5JMEJVT1JVbUtraFVaTVE1WnduTEM0YTBKX2J0SElta2lxMW4zd3JqN0t4eUs1WWt4OVFwZFZfQ2xoMi16eVVXcUt3ME9mOG5XLXZqN0pEYlNFT0ltdUZIc2lhWlVZMGRhN0XSAb"
     },
     {
-      "title": "How are the TV picks decided for the World Cup's round of 32?",
-      "source": "BBC Sport",
-      "date": "2026-06-26",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzlw6gz8jo?at_medium=RSS&amp;at_campaign=rss",
-      "category": "squad",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e5f/live/46664770-714b-11f1-8546-8f19e4fe30f4.jpg",
-      "description": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
-    },
-    {
-      "title": "What is the World Cup prize money?",
-      "source": "BBC Sport",
-      "date": "2026-06-26",
-      "url": "https://www.bbc.co.uk/sport/articles/c9821x9lpdjo?at_medium=RSS&amp;at_campaign=rss",
-      "category": "squad",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cf4/live/c8dba200-6f06-11f1-b1db-af71d47507d6.png",
-      "description": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
-    },
-    {
       "title": "Christian Pulisic back in training with full team ahead of USMNT’s World Cup group finale - The Athletic",
       "source": " url=\"https://www.nytimes.com\">The New York Times",
       "date": "2026-06-26",
@@ -5160,15 +5520,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5ueGRpMG1Bc1lBeFhSd1VaLTFKenZTbWdSVVViOGZwNU5NRUpwWFZYSGVTb1FGTi1HcGVJSkZIMEgwRmQxOTluNS1QelZLU2hKYlNldHdMaUdSekZOakRXanRBZ1pVVTFoLVphN0pSQzY0b0lRRS1vSkVR?oc=5\" target=\"_blank\">2026 World Cup, Day 16: Final games in Groups G, H, I</a>  <fon"
     },
     {
-      "title": "Is five-match ban for Qatar's Madibo excessive?",
-      "source": "BBC Sport",
-      "date": "2026-06-25",
-      "url": "https://www.bbc.co.uk/sport/articles/c6210561g95o?at_medium=RSS&amp;at_campaign=rss",
-      "category": "squad",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/793c/live/5fc5d1a0-70b4-11f1-b1db-af71d47507d6.png",
-      "description": "Our Ask Me Anything team look at whether Madibo's punishment for his challenge on Kone was proportionate."
-    },
-    {
       "title": "World Cup 2026 today: Live updates, latest news as it happened - June 25",
       "source": " url=\"https://www.espn.com\">ESPN",
       "date": "2026-06-25",
@@ -5221,15 +5572,6 @@
       "category": "general",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM0FncEZTVTJwakZfU3dEaTNjSERITzFaTUw4TzdzcFlXdzlPTno2b3VkZkl2UVRiR3BPcTFPMy1TeUFyeWNTMTBvMDRYSGtnMGE3MHBqZXZSSHl5dlVCelVvT1Z1eHh1VXV1dzZkSTF4eDhCenhBV21PNG85eTBVNEJiNFdTZTVyeWhkeHZzVUd1Ym1KQnhicEdqdnl6LVVOWmNqNl9PR3g?oc=5\" target=\"_blank\">"
-    },
-    {
-      "title": "Who is the African World Cup goalscorer older than Ronaldo and Messi?",
-      "source": "BBC Sport",
-      "date": "2026-06-24",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpwe19xldqqo?at_medium=RSS&amp;at_campaign=rss",
-      "category": "results",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cfe/live/a70c9bb0-7097-11f1-b718-796b91d99848.png",
-      "description": "While Cristiano Ronaldo and Lionel Messi appear to be in a personal battle to rewrite the World Cup record books, there is one landmark that appears beyond them."
     },
     {
       "title": "Ismaël Koné’s World Cup is over. This is what Canada will miss – and how Jesse Marsch may move on - The Athletic",
@@ -5349,15 +5691,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQUjBHejlSRTFTSkR4dHlCNVJhME11Vk82UVBxZ21iTlQxbE1SQmpGOXJXX3ppclo1aEJmdXE0Ukc4NW9JUWNNWkVseU9YN0paWWY5LW55X2g1WTc2MUY0YXZQb0NhYVVNNGxDakNlYWxuZFN0U0xjRnVkOGZtX3N0QmkyZS1jZjRXSi11SGhMN2QzZTNURXhseEpSWURDdk5sZEFoa0hLWDdqVmha?oc=5\" target=\"_bl"
     },
     {
-      "title": "David Squires on … the big names putting on a show at World Cup",
-      "source": "The Guardian",
-      "date": "2026-06-23",
-      "url": "https://www.theguardian.com/football/picture/2026/jun/23/david-squires-on-big-names-messi-mbappe-ronaldo-putting-on-a-show-at-world-cup",
-      "category": "general",
-      "thumbnail": "",
-      "description": "<p>Our cartoonist on the heroes, villains and superstar performances in week two of the tournament</p><ul><li><p><a href=\"https://guardianprintshop.com/collections/david-squires/products/david-squires-on-the-big-names-putting-on-a-show-at-world-cup\"><strong>Buy this cartoon</strong></a><strong> | </"
-    },
-    {
       "title": "Marcus Rashford Injury Update: Is Rashford Playing Today vs. Ghana in World Cup?",
       "source": " url=\"https://www.prizepicks.com\">PrizePicks",
       "date": "2026-06-23",
@@ -5401,15 +5734,6 @@
       "category": "venues",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa21OdldDMnd5Y0NidER4RDhkRlN4TGJ3MWpBcVpnbTgyN0FHZUJGOHh6dGF5Z0dCX2tKdjFJdkIwelBJWkFNSWNvaHQ5bUcteTIwVFRaalc4c0ZPNU9KSC1UTDRYd0d2aVlXNjJRSWFZQ0d5S0FnTlFfMExhSXRrblpjQklNZnVFYmt6dXpiQXhWMDl1N3pUSG11Y3BGX1p4U3hzSUF2aHFWLW1ibjlYZUx4WnNvZlJUaF"
-    },
-    {
-      "title": "The Hotspot | Aramco’s petrodollar backing of World Cup leaves stain of sportswashing",
-      "source": "The Guardian",
-      "date": "2026-06-22",
-      "url": "https://www.theguardian.com/sport/2026/jun/22/aramco-petrodollar-world-cup-football-sportswashing-the-hotspot",
-      "category": "transfers",
-      "thumbnail": "",
-      "description": "<p>How Saudi Arabia’s state-owned oil giant is embedding fossil fuels as a crucial part of the world’s biggest sport</p><p>If you have watched the World Cup, you may have seen the big signs announcing Aramco as the tournament’s “energy partner”. This <a href=\"https://www.theguardian.com/world/2025/n"
     },
     {
       "title": "World Cup 2026 today: Live updates, latest news as it happened - June 22",
@@ -5869,15 +6193,6 @@
       "category": "venues",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPalVyVldMbWJyemFma3c1NEZQNTU0X0JJdWpIb2JSeWlYcDBIVHMzaHJsZE5Hb2R2T1NVSGx3eGl3ZTg2Y0dSd3gtTDZsT1NlbjV4d0Rka3lpMWkwRmNGV0JORG94VmxmSlFXME5aWUFkTExHOS1ZLThKU2loTG9ES1BwTWlUaVk?oc=5\" target=\"_blank\">Your guide to 2026 World Cup stadiums</a>  <"
-    },
-    {
-      "title": "The Joy of Six: forgotten World Cup goals",
-      "source": "The Guardian",
-      "date": "2026-06-12",
-      "url": "https://www.theguardian.com/sport/2026/jun/12/the-joy-of-six-forgotten-world-cup-goals",
-      "category": "squad",
-      "thumbnail": "",
-      "description": "<p>From Ogris’s Florentine charge to Quagliarella’s Ellis Park chip, half a dozen World Cup classics that deserve to be better remembered</p><p>The first six or seven World Cups certainly are not without their charms, but they are noticeably light on the kind of viscerally spectacular goals that we "
     },
     {
       "title": "Your cheat sheet to the 26 players on the U.S. World Cup team",
@@ -6375,15 +6690,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQUHI2V29XMktCRVJDTGlYeDhDbHBvRmlDaVh2WVB1WnNIRXFFZjYwR1p0cUppRmJtWVZ1bVphUE01Y2k0a0lkUHpQOUoyWGVEWHQxdVJ1VjdkRUxVdDJBRWtKZlJBMk1fd1gzV3A4WWE4RzFBRE5mdk1VN0VmNGFmenRXMUtCM044RmJKQi1xRDBESFI4cG5SXzh2MNIBoAFBVV95cUxQLXZmcENSTC1vblowdGI1MkI1Mj"
     },
     {
-      "title": "How Cornish miners brought football to Mexico",
-      "source": "BBC Sport",
-      "date": "2026-06-02",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx21q453l4jo?at_medium=RSS&amp;at_campaign=rss",
-      "category": "venues",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e08d/live/51c98ee0-5aaa-11f1-b277-cd187c78657d.jpg",
-      "description": "As Mexico prepares to become the first country to host or co-host the World Cup three times, BBC Sport looks at its Cornish footballing roots."
-    },
-    {
       "title": "What are the FIFA World Cup 2026 squads for all 48 teams?",
       "source": " url=\"https://www.aljazeera.com\">Al Jazeera",
       "date": "2026-06-02",
@@ -6411,15 +6717,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aRUJTR01jeUp5SmlJSFV4Qmg1NGp1ZVJYMmdkd1kwaWQ0X3hjUnRkRDZsWFhkOU1EZ2ZGaUVpcUZQWDBZLU1kQlBFRTNDdFN5WGhHZHJHdkdmMmpILTZFWXoxczUycEk?oc=5\" target=\"_blank\">World Cup 2026: Alphonso Davies in Canada squad despite recent injuries</a>  <font color"
     },
     {
-      "title": "How Toone is navigating grief through football",
-      "source": "BBC Sport",
-      "date": "2026-05-29",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3e2dg875x7o?at_medium=RSS&amp;at_campaign=rss",
-      "category": "general",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43ab/live/2f90d850-55fb-11f1-9773-43c89bcb1e91.jpg",
-      "description": "England and Manchester United midfielder Ella Toone opens up about grief, football and preparing for her wedding without her dad in a new BBC documentary."
-    },
-    {
       "title": "World Cup Host Cities Face Flop as Hotels Struggling, Tickets Unsold",
       "source": " url=\"https://www.newsweek.com\">Newsweek",
       "date": "2026-05-29",
@@ -6438,24 +6735,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNmFsRXdqTFpXZXFWaFpUbldZbS0tMzF6WWYxZU52ejlqUVYzMzdGdkUzR1NSZFQ0ZVUwRFotQ2Rvc1A1U3VRalg1ZnM0UGVnbGNtR2oxZmFnSTRQOU9SYmJRYWFlbkdzdExqa0VLZGVZSnE5d3dnNHlFMkFrR1lwWVlET2ppQ1NP?oc=5\" target=\"_blank\">Why 2026 World Cup Ticket Prices Are So Hig"
     },
     {
-      "title": "Premier League 2025-26 review: our writers’ best and worst of the season",
-      "source": "The Guardian",
-      "date": "2026-05-26",
-      "url": "https://www.theguardian.com/football/2026/may/26/premier-league-2025-26-review-our-writers-best-and-worst-of-the-season",
-      "category": "results",
-      "thumbnail": "",
-      "description": "<p>The Premier League season is over, but what did Guardian football writers enjoy, dislike or marvel at over the last nine months? </p><p>Goalkeepers never usually get a mention for this award but <strong>David Raya</strong> played an integral role in Arsenal finally getting over the line, winning "
-    },
-    {
-      "title": "Premier League 2025-26 season review: our predictions v reality",
-      "source": "The Guardian",
-      "date": "2026-05-26",
-      "url": "https://www.theguardian.com/football/2026/may/26/premier-league-2025-26-season-review-predictions-reality-liverpool-chelsea-brentford-sunderland",
-      "category": "transfers",
-      "thumbnail": "",
-      "description": "<p>We picked Liverpool as champions, Chelsea as challengers and tipped Brentford and Sunderland to go down. Oh dear</p><p><strong>What we predicted: </strong>Mikel Arteta vowed this would be a “big summer” after finishing as runners-up in the Premier League for a third season in succession and the n"
-    },
-    {
       "title": "Meet the Team: USMNT Roster For FIFA World Cup 2026",
       "source": " url=\"https://ussoccer.com\">US Soccer",
       "date": "2026-05-26",
@@ -6472,24 +6751,6 @@
       "category": "squad",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTGxfeFVrY3VlR2RNZVhSeUJaQzB2dC1FMDFDYjVuQWtXUGIweG96WlRZN1pNRmJMU2dTc0U5VHRMdGxvQUpqSkxzVzBCTE01d0JLRGZGdjlIaFFpVE9KUXExQ2s5aTZQNlZBVE51MVE1RVVyeUgxMzM1eXBnbXFCUXV1NmhUQzRTd2dXNktfVllTTGRON1BZRmlGb25BT0d1X3BudFcwWndYYTRwLXlqWHdoWHNpRnNERk"
-    },
-    {
-      "title": "The story of the Premier League 2025-26 season in 100 photos",
-      "source": "The Guardian",
-      "date": "2026-05-25",
-      "url": "https://www.theguardian.com/football/2026/may/25/story-of-2025-26-premier-league-season-in-100-photos",
-      "category": "venues",
-      "thumbnail": "",
-      "description": "<p>A century of our favourite images from the season including wild celebrations, protesting fans and goalmouth scrambles</p><p>Reigning champions Liverpool left it late to <a href=\"https://www.theguardian.com/football/2025/aug/15/liverpool-bournemouth-premier-league-match-report\">beat Bournemouth 4"
-    },
-    {
-      "title": "Premier League 2025-26 review: gripes of the season",
-      "source": "The Guardian",
-      "date": "2026-05-25",
-      "url": "https://www.theguardian.com/football/2026/may/25/premier-league-2025-26-review-gripes-of-the-season",
-      "category": "general",
-      "thumbnail": "",
-      "description": "<p>The most infuriating things, including mayhem at set pieces, daft jerseys and a largely ignored video game</p><p>You will almost certainly be aware that there have been a load of set-piece goals this season, and an extraordinary proliferation of long throws. At times the self-styled greatest leag"
     },
     {
       "title": "Spain World Cup 2026 squad confirmed: Lamine Yamal stars, no Real Madrid players",
@@ -6546,24 +6807,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPcXRWOE5pZnVER244X1daRzY2a3R4S3BTLTVHZFhpdzUxLUFWN3RxaWpGeE1PaVRnakpGYXAzeHNPSzFpUUQ1dWhEbWw4SGh3OE1ueFhHTFFfeHBuY08yeDU4UHRybG14T0dpbDBZQXBOVTJrYUc0NGptcUZPSC1UUHBoa1RmZHpIekd4TzFCeExBaGg0ZUpnUGI1a1VKekNuYUFpSVBmbGZVU3FLUGtDTA?oc=5\" targe"
     },
     {
-      "title": "Why did England’s 2006 World Cup dream end in agony?",
-      "source": "BBC Sport",
-      "date": "2026-05-11",
-      "url": "http://www.bbc.co.uk/iplayer/episode/m002wbmg?at_mid=hBNq4xkQn6&amp;at_campaign=England_2006_The_Golden_Generation_TEST_CONTROL&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m002wbmg&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=England_2006_The_Golden_Generation_TEST_CONTROL&amp;at_bbc_team=BBC&amp;at_creation=Carousel_Test_Control",
-      "category": "squad",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce77/live/44bad560-60b8-11f1-b682-cf91850925ea.jpg",
-      "description": "Why did the England football team not fulfil their potential at the 2006 World Cup?"
-    },
-    {
-      "title": "The summer a golden generation lost its shine",
-      "source": "BBC Sport",
-      "date": "2026-05-11",
-      "url": "https://www.bbc.co.uk/sport/extra/60s97qhdbf/the-golden-generation?at_medium=RSS&amp;at_campaign=rss",
-      "category": "squad",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37ef/live/d6ebab20-4cfa-11f1-ac78-2112837ce2aa.jpg",
-      "description": "The summer of 2006 was meant to be England's moment. A world-class squad, celebrity partners and confident fans - the hype was huge and the fall was hard."
-    },
-    {
       "title": "Governor Hochul Announces Registration for Free Tickets to 2026 World Cup Viewing Events on Long Island is Now Open",
       "source": " url=\"https://esd.ny.gov\">Empire State Development (ESD) (.gov)",
       "date": "2026-05-11",
@@ -6589,96 +6832,6 @@
       "category": "venues",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE05Z3JXVWJSTnFjaGRtdmFOdUpmRjMxaTBrZ3VNc0pWUFE3eTcwajZjU3lJRERIenV3aUZoelJoek9SUXlxVUs5ZXQwdmxVOEpyZEc3N1llX1piME9hVTFqTHd4UWE5bTRBRGpISzlsVkFjVm04MVRJadIBfkFVX3lxTE5PYjV0Z2xpVG5zMk1Qbk5pNEpmVlZfUm5yRk5kQlNIMG1yUzBnR25WWmp6V1RnRzVKQnJfclFnZn"
-    },
-    {
-      "title": "When football turned to penalties to end 'cruel' system",
-      "source": "BBC Sport",
-      "date": "2026-03-28",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr71enxvrd3o?at_medium=RSS&amp;at_campaign=rss",
-      "category": "general",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f4e/live/4dd6e3e0-2905-11f1-8d7b-c7ea0e92917e.jpg",
-      "description": "No-one knew what to expect at football's first official penalty shootout - and no-one wanted to go down in history as the first to miss."
-    },
-    {
-      "title": "Ousmane Dembélé quietly becomes the main man after long journey to the top",
-      "source": "The Guardian",
-      "date": "2025-12-20",
-      "url": "https://www.theguardian.com/football/2025/dec/20/ousmane-dembele-quietly-becomes-the-main-man-after-long-journey-to-the-top",
-      "category": "transfers",
-      "thumbnail": "",
-      "description": "<p>The Frenchman, who has been named the best male footballer in the world by the Guardian, has benefitted from PSG’s focus on the team rather than individuals</p><p>What makes a good player great, and a great player the best? This question has been occupying me since 2014, when the Guardian first a"
-    },
-    {
-      "title": "The 100 best male footballers in the world 2025",
-      "source": "The Guardian",
-      "date": "2025-12-19",
-      "url": "https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025",
-      "category": "results",
-      "thumbnail": "",
-      "description": "<p>Ousmane Dembélé becomes our seventh winner as he beats Lamine Yamal into second and Vitinha into third on our list of the best players on the planet</p><ul><li><p><a href=\"https://www.theguardian.com/football/2025/dec/19/the-premier-league-dominates-guardians-top-100-male-footballers-again-can-an"
-    },
-    {
-      "title": "Aitana Bonmatí makes Guardian top 100 history with third title in a row",
-      "source": "The Guardian",
-      "date": "2025-12-05",
-      "url": "https://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-title",
-      "category": "results",
-      "thumbnail": "",
-      "description": "<p>The margin may have got smaller but the brilliant Spanish midfielder makes it a hat-trick of No 1 finishes</p><p>They say the best things come in threes, and Aitana Bonmatí has written herself into <a href=\"https://www.theguardian.com/football/ng-interactive/2025/dec/01/the-100-best-female-footba"
-    },
-    {
-      "title": "The 100 best female footballers in the world 2025",
-      "source": "The Guardian",
-      "date": "2025-12-04",
-      "url": "https://www.theguardian.com/football/ng-interactive/2025/dec/01/the-100-best-female-footballers-in-the-world-2025",
-      "category": "transfers",
-      "thumbnail": "",
-      "description": "<p>Aitana Bonmatí has been voted the best female player on the planet by our panel of 127 experts ahead of Mariona Caldentey and Alessia Russo</p><ul><li><p><a href=\"https://www.theguardian.com/football/ng-interactive/2024/dec/03/the-100-best-female-footballers-in-the-world-2024\">2024 list</a> | <a "
-    },
-    {
-      "title": "Next Generation 2025: 60 of the best young talents in world football",
-      "source": "The Guardian",
-      "date": "2025-10-14",
-      "url": "https://www.theguardian.com/football/ng-interactive/2025/oct/14/next-generation-2025-60-of-the-best-young-talents-in-world-football",
-      "category": "general",
-      "thumbnail": "",
-      "description": "<p>From PSG’s Ibrahim Mbaye to Brazil’s next hope, we select some of the most talented players born in 2008. Check the progress of our classes of <a href=\"https://www.theguardian.com/football/ng-interactive/2024/oct/15/next-generation-2024-60-of-the-best-young-talents-in-world-football\">2024</a> | <"
-    },
-    {
-      "title": "Next Generation 2025: 20 of the best talents at Premier League clubs",
-      "source": "The Guardian",
-      "date": "2025-10-13",
-      "url": "https://www.theguardian.com/football/ng-interactive/2025/oct/13/next-generation-2025-20-of-the-best-talents-at-premier-league-clubs",
-      "category": "general",
-      "thumbnail": "",
-      "description": "<p>We pick the best youngsters at each club born between 1 September 2008 and 31 August 2009, an age band known as first-year scholars. Check the progress of our classes of <a href=\"https://www.theguardian.com/football/ng-interactive/2024/oct/14/next-generation-2024-20-of-the-best-talents-at-premier"
-    },
-    {
-      "title": "Sign up for the Football Daily newsletter: our free football email",
-      "source": "The Guardian",
-      "date": "2022-11-14",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "category": "transfers",
-      "thumbnail": "",
-      "description": "<p>Kick off your afternoon with the Guardian’s take on the world of football</p><p>Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing <a href=\"https:/"
-    },
-    {
-      "title": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-      "source": "The Guardian",
-      "date": "2022-03-22",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "category": "transfers",
-      "thumbnail": "",
-      "description": "<p>Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson</p><p>Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – whe"
-    },
-    {
-      "title": "Sign up for the Recap newsletter: our free sport highlights email",
-      "source": "The Guardian",
-      "date": "2017-05-15",
-      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "category": "transfers",
-      "thumbnail": "",
-      "description": "<p>The best of our sports journalism from the past seven days and a heads-up on the weekend’s action</p><p>Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, pl"
     },
     {
       "title": "'One of the greats' - How 'hardy' Knight will be remembered for England",
