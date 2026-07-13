@@ -1,28 +1,41 @@
 {
-  "lastUpdated": "2026-07-13T19:57:53.066Z",
+  "lastUpdated": "2026-07-13T20:18:13.783Z",
   "featured": {
-    "match": "PnFUiq8m9os",
-    "highlight": "PnFUiq8m9os",
-    "interview": "PnFUiq8m9os"
+    "match": "QVJjeOdGyp4",
+    "highlight": "QVJjeOdGyp4",
+    "interview": "QVJjeOdGyp4"
   },
   "videos": [
     {
-      "title": "Highlights | Norway 1-2 England | FIFA World Cup 2026™",
-      "videoId": "PnFUiq8m9os",
-      "channel": "Web Search",
+      "title": "Speed and Receba hit the SIUUUU! 😮‍💨",
+      "videoId": "QVJjeOdGyp4",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QVJjeOdGyp4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "Spain Train Before France | FIFA World Cup 2026™",
+      "videoId": "Y8fIOWmrixE",
+      "channel": "FIFA",
       "publishedAt": "2026-07-13",
       "category": "Highlights",
       "team": [
-        "England",
-        "Norway"
+        "France",
+        "Spain"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PnFUiq8m9os/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Y8fIOWmrixE/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
-      "fixtureTeams": "Norway vs England",
-      "source": "match-search"
+      "fixtureTeams": "Spain vs Belgium"
     },
     {
       "title": "ALL-TIME: Top Semi-Final Goals In World Cup History",
@@ -209,34 +222,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/pM_RYDMxRW8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium"
-    },
-    {
-      "title": "The Best Of Jude Bellingham | FIFA World Cup 2026™",
-      "videoId": "wju0uROCODg",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/wju0uROCODg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium"
-    },
-    {
-      "title": "Team Speed 7-6 Team Celine | The YouTube FIFA Creator Cup Highlights",
-      "videoId": "JqW2dEOwCak",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/JqW2dEOwCak/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Spain vs Belgium"
