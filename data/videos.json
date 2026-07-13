@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-07-13T18:45:28.253Z",
+  "lastUpdated": "2026-07-13T19:57:53.066Z",
   "featured": {
-    "match": "EKjxtxDG4hc",
-    "highlight": "EKjxtxDG4hc",
-    "interview": "EKjxtxDG4hc"
+    "match": "PnFUiq8m9os",
+    "highlight": "PnFUiq8m9os",
+    "interview": "PnFUiq8m9os"
   },
   "videos": [
+    {
+      "title": "Highlights | Norway 1-2 England | FIFA World Cup 2026™",
+      "videoId": "PnFUiq8m9os",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/PnFUiq8m9os/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Norway vs England",
+      "source": "match-search"
+    },
     {
       "title": "ALL-TIME: Top Semi-Final Goals In World Cup History",
       "videoId": "EKjxtxDG4hc",
