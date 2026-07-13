@@ -1,28 +1,27 @@
 {
-  "lastUpdated": "2026-07-13T22:09:14.327Z",
+  "lastUpdated": "2026-07-13T23:06:09.173Z",
   "featured": {
-    "match": "E7ddmmxXEak",
-    "highlight": "E7ddmmxXEak",
-    "interview": "E7ddmmxXEak"
+    "match": "ThxWqegwYmM",
+    "highlight": "ThxWqegwYmM",
+    "interview": "ThxWqegwYmM"
   },
   "videos": [
     {
-      "title": "FIFA World Cup 2026 | Norway Vs England Highlights - YouTube",
-      "videoId": "E7ddmmxXEak",
-      "channel": "Web Search",
+      "title": "France On Playing Spain | Didier Deschamps Takes Questions",
+      "videoId": "ThxWqegwYmM",
+      "channel": "FIFA",
       "publishedAt": "2026-07-13",
       "category": "Highlights",
       "team": [
-        "England",
-        "Norway"
+        "France",
+        "Spain"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/E7ddmmxXEak/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/ThxWqegwYmM/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
-      "fixtureTeams": "Norway vs England",
-      "source": "match-search"
+      "fixtureTeams": "Spain vs Belgium"
     },
     {
       "title": "IShowSpeed Highlights | The YouTube FIFA Creator Cup",
@@ -232,17 +231,34 @@
       "fixtureTeams": "Spain vs Belgium"
     },
     {
-      "title": "Team Feature: Spain | Road To The FIFA World Cup 2026 Semi Finals",
-      "videoId": "T5d4jsPIDhY",
-      "channel": "FIFA",
+      "title": "England will prove to be ‘too sharp’ for Argentina – Shaka Hislop | ESPN FC",
+      "videoId": "fnZwACNCrM0",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-13",
       "category": "Highlights",
       "team": [
-        "Spain"
+        "Argentina",
+        "England"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/T5d4jsPIDhY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/fnZwACNCrM0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "Alejandro Moreno feels Lamine Yamal's comments about France are 'too much!' 👀 | ESPN FC",
+      "videoId": "lxsyI5BTsBk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [
+        "France"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/lxsyI5BTsBk/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Spain vs Belgium"
@@ -440,34 +456,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/tCLa6WQnG5A/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium"
-    },
-    {
-      "title": "Erling Haaland tried to go undercover 😆 (via Erling Haaland/YouTube)",
-      "videoId": "2QtvWl5oD8s",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/2QtvWl5oD8s/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium"
-    },
-    {
-      "title": "ESPN FC breaks down the World Cup Semifinals 🍿 [FULL SHOW]",
-      "videoId": "enWXWuVIP8o",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/enWXWuVIP8o/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Spain vs Belgium"
