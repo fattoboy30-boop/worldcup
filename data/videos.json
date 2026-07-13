@@ -1,28 +1,41 @@
 {
-  "lastUpdated": "2026-07-13T21:02:29.101Z",
+  "lastUpdated": "2026-07-13T21:59:56.031Z",
   "featured": {
-    "match": "E7ddmmxXEak",
-    "highlight": "E7ddmmxXEak",
-    "interview": "E7ddmmxXEak"
+    "match": "D-e_fo1Bfu4",
+    "highlight": "D-e_fo1Bfu4",
+    "interview": "D-e_fo1Bfu4"
   },
   "videos": [
     {
-      "title": "FIFA World Cup 2026 | Norway Vs England Highlights - YouTube",
-      "videoId": "E7ddmmxXEak",
-      "channel": "Web Search",
+      "title": "IShowSpeed Highlights | The YouTube FIFA Creator Cup",
+      "videoId": "D-e_fo1Bfu4",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/D-e_fo1Bfu4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "France Train Before Spain | FIFA World Cup 2026™",
+      "videoId": "z7FTSwa6ayI",
+      "channel": "FIFA",
       "publishedAt": "2026-07-13",
       "category": "Highlights",
       "team": [
-        "England",
-        "Norway"
+        "France",
+        "Spain"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/E7ddmmxXEak/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/z7FTSwa6ayI/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
-      "fixtureTeams": "Norway vs England",
-      "source": "match-search"
+      "fixtureTeams": "Spain vs Belgium"
     },
     {
       "title": "Speed and Receba hit the SIUUUU! 😮‍💨",
@@ -212,34 +225,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/T5d4jsPIDhY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium"
-    },
-    {
-      "title": "@CelineDept = Cool under pressure 🥶",
-      "videoId": "SKXRuvSW4wE",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/SKXRuvSW4wE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium"
-    },
-    {
-      "title": "Speed, to perfection. Team @IShowSpeed celebrated the YouTube FIFA Creator Cup in style! 🙌",
-      "videoId": "pM_RYDMxRW8",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/pM_RYDMxRW8/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Spain vs Belgium"
