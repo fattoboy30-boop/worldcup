@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-07-13T20:18:13.783Z",
+  "lastUpdated": "2026-07-13T21:02:29.101Z",
   "featured": {
-    "match": "QVJjeOdGyp4",
-    "highlight": "QVJjeOdGyp4",
-    "interview": "QVJjeOdGyp4"
+    "match": "E7ddmmxXEak",
+    "highlight": "E7ddmmxXEak",
+    "interview": "E7ddmmxXEak"
   },
   "videos": [
+    {
+      "title": "FIFA World Cup 2026 | Norway Vs England Highlights - YouTube",
+      "videoId": "E7ddmmxXEak",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/E7ddmmxXEak/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Norway vs England",
+      "source": "match-search"
+    },
     {
       "title": "Speed and Receba hit the SIUUUU! 😮‍💨",
       "videoId": "QVJjeOdGyp4",
