@@ -1,46 +1,41 @@
 {
-  "lastUpdated": "2026-07-14T16:13:29.709Z",
+  "lastUpdated": "2026-07-14T16:19:25.704Z",
   "featured": {
-    "match": "86D92hjdMZM",
-    "highlight": "86D92hjdMZM",
-    "interview": "86D92hjdMZM"
+    "match": "RSCPIXj_lo0",
+    "highlight": "RSCPIXj_lo0",
+    "interview": "RSCPIXj_lo0"
   },
   "videos": [
     {
-      "title": "Argentina vs. Switzerland | Full Highlights | FIFA World Cup 2026",
-      "videoId": "86D92hjdMZM",
-      "channel": "Web Search",
+      "title": "Joe and Kiki: the Dallas duo’s extraordinary bond at FIFA World Cup 2026™",
+      "videoId": "RSCPIXj_lo0",
+      "channel": "FIFA",
       "publishedAt": "2026-07-14",
       "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Switzerland"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/86D92hjdMZM/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/RSCPIXj_lo0/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland",
-      "source": "match-search"
+      "fixtureTeams": "Norway vs England"
     },
     {
-      "title": "argentina vs switzerland 2026 highlights & goals | world cup quarter ...",
-      "videoId": "s2JSC3X2WiY",
-      "channel": "Web Search",
+      "title": "World Cup Rematch: Argentina 0-1 England | Beckham's Revenge (2002)",
+      "videoId": "BSo6tLIsJYA",
+      "channel": "FIFA",
       "publishedAt": "2026-07-14",
       "category": "Highlights",
       "team": [
         "Argentina",
-        "Switzerland"
+        "England"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/s2JSC3X2WiY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/BSo6tLIsJYA/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland",
-      "source": "match-search"
+      "fixtureTeams": "Norway vs England"
     },
     {
       "title": "Team Feature: Argentina Star Nico Paz On Following In His Father's Footsteps",
@@ -130,6 +125,76 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/2iBPqRlrYyo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Norway vs England"
+    },
+    {
+      "title": "Transfer Rumors: Man United’s NEW DUO + Chelsea departures! | ESPN FC",
+      "videoId": "TlQ73xgwO44",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-14",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/TlQ73xgwO44/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Norway vs England"
+    },
+    {
+      "title": "He's got skill (via @luuk.steen/IG)",
+      "videoId": "_ilOc8-cYkI",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-14",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_ilOc8-cYkI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Norway vs England"
+    },
+    {
+      "title": "Could be twins?! (via @e_ryan10/TT)",
+      "videoId": "5BsJJJ1RK2w",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-14",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/5BsJJJ1RK2w/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Norway vs England"
+    },
+    {
+      "title": "ESPN FC’s FULL World Cup semifinals DEEP DIVE 👀",
+      "videoId": "oNeRU_DN2xQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-14",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/oNeRU_DN2xQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Norway vs England"
+    },
+    {
+      "title": "CREATIVE TENSION?! ESPN FC dissects Jude Bellingham vs. Thomas Tuchel",
+      "videoId": "kW8DfiFYniw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-14",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/kW8DfiFYniw/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Norway vs England"
@@ -371,34 +436,6 @@
       "fixtureTeams": "Spain vs Belgium"
     },
     {
-      "title": "This @IShowSpeed touch needed it's own slow-mo moment 👏",
-      "videoId": "2pNH5Z_0TsE",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/2pNH5Z_0TsE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium"
-    },
-    {
-      "title": "@seanfreestyle with the assist 👏",
-      "videoId": "H-W5GEzSG_A",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/H-W5GEzSG_A/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium"
-    },
-    {
       "title": "World Cup Semifinal Preview: France vs. Spain & England vs. Argentina [FULL SHOW] | ESPN FC",
       "videoId": "I7HtaDPbwkw",
       "channel": "ESPN FC",
@@ -427,83 +464,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/ICqmcVrqf9I/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium"
-    },
-    {
-      "title": "Comedian and improv rapper Chris Turner freestyles and predicts the World Cup Semifinals | ESPN FC",
-      "videoId": "omcgGw2C45k",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/omcgGw2C45k/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium"
-    },
-    {
-      "title": "England will prove to be ‘too sharp’ for Argentina – Shaka Hislop | ESPN FC",
-      "videoId": "fnZwACNCrM0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-13",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fnZwACNCrM0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium"
-    },
-    {
-      "title": "Alejandro Moreno feels Lamine Yamal's comments about France are 'too much!' 👀 | ESPN FC",
-      "videoId": "lxsyI5BTsBk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-13",
-      "category": "Highlights",
-      "team": [
-        "France"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/lxsyI5BTsBk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium"
-    },
-    {
-      "title": "Maurice Edu had Rich Eisen at a loss for words 🤣",
-      "videoId": "Cb7g_Nkl1HY",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Cb7g_Nkl1HY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium"
-    },
-    {
-      "title": "Jude Bellingham has ‘delivered in the most crucial ways’ for England - Maurice Edu | Rich Eisen Show",
-      "videoId": "ALsRzvVsqJE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-13",
-      "category": "Highlights",
-      "team": [
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ALsRzvVsqJE/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Spain vs Belgium"
