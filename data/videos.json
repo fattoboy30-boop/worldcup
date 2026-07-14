@@ -1,47 +1,11 @@
 {
-  "lastUpdated": "2026-07-14T12:54:10.771Z",
+  "lastUpdated": "2026-07-14T14:55:34.112Z",
   "featured": {
-    "match": "mpYXFYf4tlk",
-    "highlight": "mpYXFYf4tlk",
-    "interview": "mpYXFYf4tlk"
+    "match": "OTi4qH-t2hM",
+    "highlight": "OTi4qH-t2hM",
+    "interview": "OTi4qH-t2hM"
   },
   "videos": [
-    {
-      "title": "Argentina vs Switzerland 3-1 Highlights & All Goals | FIFA World Cup 2026",
-      "videoId": "mpYXFYf4tlk",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-14",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Switzerland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/mpYXFYf4tlk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland",
-      "source": "match-search"
-    },
-    {
-      "title": "Argentina vs. Switzerland | Full Highlights | FIFA World Cup 2026",
-      "videoId": "86D92hjdMZM",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-14",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Switzerland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/86D92hjdMZM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland",
-      "source": "match-search"
-    },
     {
       "title": "Team Feature: Argentina Star Nico Paz On Following In His Father's Footsteps",
       "videoId": "OTi4qH-t2hM",
@@ -130,6 +94,132 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/2iBPqRlrYyo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Norway vs England"
+    },
+    {
+      "title": "Can Spain beat France? ⚽️",
+      "videoId": "t6RdGvSFr_k",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-14",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/t6RdGvSFr_k/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Norway vs England"
+    },
+    {
+      "title": "Ale Moreno's KEY to defeating France to advance to the World Cup Final 🔑 | ESPN FC",
+      "videoId": "LnKEYCnjifg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-14",
+      "category": "Highlights",
+      "team": [
+        "France"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/LnKEYCnjifg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Norway vs England"
+    },
+    {
+      "title": "FIFA changes the World Cup ball design ahead of the Semifinals?! 🤯 | Get Up",
+      "videoId": "d4PwEk0Rfm8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-14",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/d4PwEk0Rfm8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Norway vs England"
+    },
+    {
+      "title": "Ale Moreno & Nedum Onuoha go TO THE PITCH to preview France vs. Spain 🔥 | ESPN FC",
+      "videoId": "20zhVomegmM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-14",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/20zhVomegmM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Norway vs England"
+    },
+    {
+      "title": "Is France on UPSET ALERT vs. Spain?! 🚨 'The floodgates WILL OPEN!' - Herculez Gomez | Get Up",
+      "videoId": "tJpIZX7Dtfc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-14",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tJpIZX7Dtfc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Norway vs England"
+    },
+    {
+      "title": "NYC has embraced the World Cup ⚽️",
+      "videoId": "Ygube0UYw9c",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-14",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Ygube0UYw9c/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Norway vs England"
+    },
+    {
+      "title": "Xabi Alonso addresses Enzo Fernandez and Cole Palmer’s Chelsea futures 👀 | ESPN FC",
+      "videoId": "0x02iXPALig",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-14",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0x02iXPALig/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Norway vs England"
+    },
+    {
+      "title": "Ale Moreno's KEYS for Spain vs. France 🔑 'DISRUPT THEIR RHYTHM!' | SportsCenter",
+      "videoId": "EsPrXL17jpo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-14",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/EsPrXL17jpo/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Norway vs England"
@@ -378,128 +468,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/ALsRzvVsqJE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium"
-    },
-    {
-      "title": "THE SEMIFINALS ARE SET ⚽ Previewing France vs. Spain and England vs. Argentina | First Take",
-      "videoId": "wgwlzaXXsCQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-13",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "France",
-        "England",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/wgwlzaXXsCQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium"
-    },
-    {
-      "title": "Herc wants to set up the youth for success 💪",
-      "videoId": "ItspJvgdRqA",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ItspJvgdRqA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium"
-    },
-    {
-      "title": "Erling Haaland was subbed off in extra time in Norway's loss to England 👀",
-      "videoId": "SpunLQmenuQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-13",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/SpunLQmenuQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium"
-    },
-    {
-      "title": "Did Embolo deserve the second yellow card?",
-      "videoId": "gpBlRrSrUJY",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/gpBlRrSrUJY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium"
-    },
-    {
-      "title": "Could you do this? 😌 (via lilliannbrown/IG)",
-      "videoId": "NjkeUaS9OE8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/NjkeUaS9OE8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium"
-    },
-    {
-      "title": "The Most Famous Seven Notes in Sports | SC Featured",
-      "videoId": "0D8BvcTxrl8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/0D8BvcTxrl8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium"
-    },
-    {
-      "title": "Lamine Yamal’s dad is proud 🥹❤️ (via hustle_hard_304/IG)",
-      "videoId": "JPZJZkIuZws",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/JPZJZkIuZws/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium"
-    },
-    {
-      "title": "Argentina playing off 'VIBES & MAGIC!' ✨ - Roger Bennett on Lionel Messi at 'unc status' 😅 | Get Up",
-      "videoId": "2s_uYOi9si0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-13",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/2s_uYOi9si0/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Spain vs Belgium"
