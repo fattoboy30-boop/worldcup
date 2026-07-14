@@ -1,9 +1,46 @@
 {
-  "lastUpdated": "2026-07-14T05:34:40.657Z",
+  "lastUpdated": "2026-07-14T05:56:46.409Z",
   "featured": {
-    "match": "",
-    "highlight": "",
-    "interview": ""
+    "match": "mpYXFYf4tlk",
+    "highlight": "mpYXFYf4tlk",
+    "interview": "mpYXFYf4tlk"
   },
-  "videos": []
+  "videos": [
+    {
+      "title": "Argentina vs Switzerland 3-1 Highlights & All Goals | FIFA World Cup 2026",
+      "videoId": "mpYXFYf4tlk",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-14",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/mpYXFYf4tlk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland",
+      "source": "match-search"
+    },
+    {
+      "title": "Argentina vs Switzerland | Match Highlights | FIFA World Cup 2026™",
+      "videoId": "JZmfJSUROsg",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-14",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JZmfJSUROsg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland",
+      "source": "match-search"
+    }
+  ]
 }
