@@ -1,46 +1,41 @@
 {
-  "lastUpdated": "2026-07-14T17:35:21.837Z",
+  "lastUpdated": "2026-07-14T18:06:54.866Z",
   "featured": {
-    "match": "Yu0kXb_To7Y",
-    "highlight": "Yu0kXb_To7Y",
-    "interview": "Yu0kXb_To7Y"
+    "match": "oY9nyOqOOdU",
+    "highlight": "oY9nyOqOOdU",
+    "interview": "oY9nyOqOOdU"
   },
   "videos": [
     {
-      "title": "Argentina vs Switzerland | Full Highlights | Quarter Final | FIFA World ...",
-      "videoId": "Yu0kXb_To7Y",
-      "channel": "Web Search",
+      "title": "Don’t Just Watch it … Feel It! 🤩",
+      "videoId": "oY9nyOqOOdU",
+      "channel": "FIFA",
       "publishedAt": "2026-07-14",
       "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Switzerland"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Yu0kXb_To7Y/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/oY9nyOqOOdU/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland",
-      "source": "match-search"
+      "fixtureTeams": "Norway vs England"
     },
     {
-      "title": "Argentina vs. Switzerland | Full Highlights | FIFA World Cup 2026",
-      "videoId": "86D92hjdMZM",
-      "channel": "Web Search",
+      "title": "Statistical Preview | France v Spain | FIFA World Cup 2026™ Semi-finals",
+      "videoId": "woo1SM2GIjU",
+      "channel": "FIFA",
       "publishedAt": "2026-07-14",
       "category": "Highlights",
       "team": [
-        "Argentina",
-        "Switzerland"
+        "France",
+        "Spain"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/86D92hjdMZM/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/woo1SM2GIjU/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland",
-      "source": "match-search"
+      "fixtureTeams": "Norway vs England"
     },
     {
       "title": "Joe and Kiki: the Dallas duo’s extraordinary bond at FIFA World Cup 2026™",
@@ -161,6 +156,37 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/2iBPqRlrYyo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Norway vs England"
+    },
+    {
+      "title": "France vs. Spain AS GOOD AS IT GETS 🍿 Taylor Twellman previews WC Semifinals | The Rich Eisen Show",
+      "videoId": "dWyAzD3Ry4E",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-14",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/dWyAzD3Ry4E/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Norway vs England"
+    },
+    {
+      "title": "The ideal hangout (via @biah_azz/IG)",
+      "videoId": "-fCSXiLkSKw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-14",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-fCSXiLkSKw/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Norway vs England"
@@ -436,70 +462,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/QVJjeOdGyp4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium"
-    },
-    {
-      "title": "Spain Train Before France | FIFA World Cup 2026™",
-      "videoId": "Y8fIOWmrixE",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-13",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Y8fIOWmrixE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium"
-    },
-    {
-      "title": "ALL-TIME: Top Semi-Final Goals In World Cup History",
-      "videoId": "EKjxtxDG4hc",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/EKjxtxDG4hc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium"
-    },
-    {
-      "title": "World Cup Semifinal Preview: France vs. Spain & England vs. Argentina [FULL SHOW] | ESPN FC",
-      "videoId": "I7HtaDPbwkw",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-13",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "France",
-        "England",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/I7HtaDPbwkw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium"
-    },
-    {
-      "title": "Did Hansi Flick ruin Pedri’s creativity? | ESPN FC Extra Time",
-      "videoId": "ICqmcVrqf9I",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ICqmcVrqf9I/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Spain vs Belgium"
