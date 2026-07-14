@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T18:47:43.356Z",
+  "lastUpdated": "2026-07-14T19:53:57.912Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2511,14 +2511,14 @@
       "homeScore": 0,
       "awayTeam": "Spain",
       "awayCode": "es",
-      "awayScore": 0,
+      "awayScore": 1,
       "venue": "AT&T Stadium",
       "city": "Arlington, Texas",
-      "status": "timed",
+      "status": "in_play",
       "group": "I",
       "stage": "SEMIFINALS",
       "matchday": 0,
-      "minute": null,
+      "minute": "45'+6'",
       "halfTime": [
         null,
         null
