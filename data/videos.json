@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-14T14:55:34.112Z",
+  "lastUpdated": "2026-07-14T16:13:29.709Z",
   "featured": {
-    "match": "OTi4qH-t2hM",
-    "highlight": "OTi4qH-t2hM",
-    "interview": "OTi4qH-t2hM"
+    "match": "86D92hjdMZM",
+    "highlight": "86D92hjdMZM",
+    "interview": "86D92hjdMZM"
   },
   "videos": [
+    {
+      "title": "Argentina vs. Switzerland | Full Highlights | FIFA World Cup 2026",
+      "videoId": "86D92hjdMZM",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-14",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/86D92hjdMZM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland",
+      "source": "match-search"
+    },
+    {
+      "title": "argentina vs switzerland 2026 highlights & goals | world cup quarter ...",
+      "videoId": "s2JSC3X2WiY",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-14",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/s2JSC3X2WiY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland",
+      "source": "match-search"
+    },
     {
       "title": "Team Feature: Argentina Star Nico Paz On Following In His Father's Footsteps",
       "videoId": "OTi4qH-t2hM",
