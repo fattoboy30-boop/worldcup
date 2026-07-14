@@ -1,64 +1,467 @@
 {
-  "lastUpdated": "2026-07-14T08:10:46.867Z",
+  "lastUpdated": "2026-07-14T08:12:36.636Z",
   "featured": {
-    "match": "zZxxDbLxEi4",
-    "highlight": "zZxxDbLxEi4",
-    "interview": "zZxxDbLxEi4"
+    "match": "fW21hgNeTWI",
+    "highlight": "fW21hgNeTWI",
+    "interview": "fW21hgNeTWI"
   },
   "videos": [
     {
-      "title": "Highlights | Argentina 3-1 Switzerland | FIFA World Cup 2026™",
-      "videoId": "zZxxDbLxEi4",
-      "channel": "Web Search",
+      "title": "The Most EPIC Extra Time Goals In FIFA World Cup History",
+      "videoId": "fW21hgNeTWI",
+      "channel": "FIFA",
       "publishedAt": "2026-07-14",
       "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Switzerland"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/zZxxDbLxEi4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/fW21hgNeTWI/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland",
-      "source": "match-search"
+      "fixtureTeams": "Norway vs England"
     },
     {
-      "title": "Argentina vs Switzerland 3-1 Highlights & All Goals | FIFA World Cup 2026",
-      "videoId": "mpYXFYf4tlk",
-      "channel": "Web Search",
+      "title": "Best Saves I Quarter-Finals I FIFA World Cup 2026™",
+      "videoId": "LtWHRWI0rsE",
+      "channel": "FIFA",
       "publishedAt": "2026-07-14",
       "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Switzerland"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/mpYXFYf4tlk/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/LtWHRWI0rsE/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland",
-      "source": "match-search"
+      "fixtureTeams": "Norway vs England"
     },
     {
-      "title": "Argentina vs Switzerland | Match Highlights | FIFA World Cup 2026™",
-      "videoId": "JZmfJSUROsg",
-      "channel": "Web Search",
+      "title": "Behind The Scenes | The YouTube FIFA Creator Cup",
+      "videoId": "HbsDIVbiNMw",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-14",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/HbsDIVbiNMw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Norway vs England"
+    },
+    {
+      "title": "World Cup Rematch | Argentina 2-2 (4-3 Pens) England | A 1998 Epic",
+      "videoId": "2iBPqRlrYyo",
+      "channel": "FIFA",
       "publishedAt": "2026-07-14",
       "category": "Highlights",
       "team": [
         "Argentina",
-        "Switzerland"
+        "England"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/JZmfJSUROsg/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/2iBPqRlrYyo/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland",
-      "source": "match-search"
+      "fixtureTeams": "Norway vs England"
+    },
+    {
+      "title": "Spain On Playing France | Luis de la Fuente Takes Questions",
+      "videoId": "MB9sGII-hpM",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/MB9sGII-hpM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "France On Playing Spain | Didier Deschamps Takes Questions",
+      "videoId": "ThxWqegwYmM",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ThxWqegwYmM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "IShowSpeed Highlights | The YouTube FIFA Creator Cup",
+      "videoId": "D-e_fo1Bfu4",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/D-e_fo1Bfu4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "France Train Before Spain | FIFA World Cup 2026™",
+      "videoId": "z7FTSwa6ayI",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/z7FTSwa6ayI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "Speed and Receba hit the SIUUUU! 😮‍💨",
+      "videoId": "QVJjeOdGyp4",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QVJjeOdGyp4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "Spain Train Before France | FIFA World Cup 2026™",
+      "videoId": "Y8fIOWmrixE",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Y8fIOWmrixE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "ALL-TIME: Top Semi-Final Goals In World Cup History",
+      "videoId": "EKjxtxDG4hc",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/EKjxtxDG4hc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "This @IShowSpeed touch needed it's own slow-mo moment 👏",
+      "videoId": "2pNH5Z_0TsE",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/2pNH5Z_0TsE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "@seanfreestyle with the assist 👏",
+      "videoId": "H-W5GEzSG_A",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/H-W5GEzSG_A/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "UNSEEN HIGHLIGHTS: YouTube FIFA Creator Cup",
+      "videoId": "bO-xCeYQc5Q",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/bO-xCeYQc5Q/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "🤝⚽️",
+      "videoId": "MtZySindgow",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/MtZySindgow/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "World Cup Semifinal Preview: France vs. Spain & England vs. Argentina [FULL SHOW] | ESPN FC",
+      "videoId": "I7HtaDPbwkw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "France",
+        "England",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/I7HtaDPbwkw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "Did Hansi Flick ruin Pedri’s creativity? | ESPN FC Extra Time",
+      "videoId": "ICqmcVrqf9I",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ICqmcVrqf9I/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "Comedian and improv rapper Chris Turner freestyles and predicts the World Cup Semifinals | ESPN FC",
+      "videoId": "omcgGw2C45k",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/omcgGw2C45k/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "England will prove to be ‘too sharp’ for Argentina – Shaka Hislop | ESPN FC",
+      "videoId": "fnZwACNCrM0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fnZwACNCrM0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "Alejandro Moreno feels Lamine Yamal's comments about France are 'too much!' 👀 | ESPN FC",
+      "videoId": "lxsyI5BTsBk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [
+        "France"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/lxsyI5BTsBk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "Maurice Edu had Rich Eisen at a loss for words 🤣",
+      "videoId": "Cb7g_Nkl1HY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Cb7g_Nkl1HY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "Jude Bellingham has ‘delivered in the most crucial ways’ for England - Maurice Edu | Rich Eisen Show",
+      "videoId": "ALsRzvVsqJE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ALsRzvVsqJE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "THE SEMIFINALS ARE SET ⚽ Previewing France vs. Spain and England vs. Argentina | First Take",
+      "videoId": "wgwlzaXXsCQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "France",
+        "England",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/wgwlzaXXsCQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "Herc wants to set up the youth for success 💪",
+      "videoId": "ItspJvgdRqA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ItspJvgdRqA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "Erling Haaland was subbed off in extra time in Norway's loss to England 👀",
+      "videoId": "SpunLQmenuQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/SpunLQmenuQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "Did Embolo deserve the second yellow card?",
+      "videoId": "gpBlRrSrUJY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/gpBlRrSrUJY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "Could you do this? 😌 (via lilliannbrown/IG)",
+      "videoId": "NjkeUaS9OE8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/NjkeUaS9OE8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "The Most Famous Seven Notes in Sports | SC Featured",
+      "videoId": "0D8BvcTxrl8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0D8BvcTxrl8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "Lamine Yamal’s dad is proud 🥹❤️ (via hustle_hard_304/IG)",
+      "videoId": "JPZJZkIuZws",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JPZJZkIuZws/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
+    },
+    {
+      "title": "Argentina playing off 'VIBES & MAGIC!' ✨ - Roger Bennett on Lionel Messi at 'unc status' 😅 | Get Up",
+      "videoId": "2s_uYOi9si0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-13",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/2s_uYOi9si0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Spain vs Belgium"
     }
   ]
 }
