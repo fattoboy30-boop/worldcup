@@ -1,30 +1,6 @@
 {
-  "lastUpdated": "2026-07-14T20:52:45.248Z",
-  "liveMatches": [
-    {
-      "id": 760514,
-      "date": "2026-07-14",
-      "time": "19:00",
-      "utcDate": "2026-07-14T19:00Z",
-      "homeTeam": "France",
-      "homeCode": "fr",
-      "homeScore": 0,
-      "awayTeam": "Spain",
-      "awayCode": "es",
-      "awayScore": 2,
-      "venue": "AT&T Stadium",
-      "city": "Arlington, Texas",
-      "status": "in_play",
-      "group": "I",
-      "stage": "SEMIFINALS",
-      "matchday": 0,
-      "minute": "90'",
-      "halfTime": [
-        null,
-        null
-      ]
-    }
-  ],
+  "lastUpdated": "2026-07-14T21:15:02.788Z",
+  "liveMatches": [],
   "recentResults": [
     {
       "id": 760415,
@@ -2319,6 +2295,29 @@
       "status": "finished",
       "group": "J",
       "stage": "QUARTERFINALS",
+      "matchday": 0,
+      "minute": null,
+      "halfTime": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": 760514,
+      "date": "2026-07-14",
+      "time": "19:00",
+      "utcDate": "2026-07-14T19:00Z",
+      "homeTeam": "France",
+      "homeCode": "fr",
+      "homeScore": 0,
+      "awayTeam": "Spain",
+      "awayCode": "es",
+      "awayScore": 2,
+      "venue": "AT&T Stadium",
+      "city": "Arlington, Texas",
+      "status": "finished",
+      "group": "I",
+      "stage": "SEMIFINALS",
       "matchday": 0,
       "minute": null,
       "halfTime": [

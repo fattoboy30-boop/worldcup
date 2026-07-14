@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T20:52:45.250Z",
+  "lastUpdated": "2026-07-14T21:15:02.794Z",
   "groups": {
     "A": {
       "teams": [
@@ -688,13 +688,13 @@
         {
           "name": "France",
           "code": "fr",
-          "played": 5,
+          "played": 6,
           "won": 5,
           "drawn": 0,
-          "lost": 0,
+          "lost": 1,
           "gf": 15,
-          "ga": 2,
-          "gd": 13,
+          "ga": 4,
+          "gd": 11,
           "points": 15,
           "position": 1
         },
@@ -725,6 +725,19 @@
           "position": 3
         },
         {
+          "name": "Spain",
+          "code": "es",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 2,
+          "ga": 0,
+          "gd": 2,
+          "points": 3,
+          "position": 4
+        },
+        {
           "name": "England",
           "code": "gb-eng",
           "played": 1,
@@ -735,7 +748,7 @@
           "ga": 1,
           "gd": 1,
           "points": 3,
-          "position": 4
+          "position": 5
         },
         {
           "name": "Morocco",
@@ -748,7 +761,7 @@
           "ga": 2,
           "gd": -2,
           "points": 0,
-          "position": 5
+          "position": 6
         },
         {
           "name": "Sweden",
@@ -761,7 +774,7 @@
           "ga": 3,
           "gd": -3,
           "points": 0,
-          "position": 6
+          "position": 7
         },
         {
           "name": "Iraq",
@@ -774,7 +787,7 @@
           "ga": 12,
           "gd": -11,
           "points": 0,
-          "position": 7
+          "position": 8
         }
       ]
     },
