@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-14T10:50:12.736Z",
+  "lastUpdated": "2026-07-14T11:44:42.519Z",
   "featured": {
-    "match": "yMZoXvk6ah0",
-    "highlight": "yMZoXvk6ah0",
-    "interview": "yMZoXvk6ah0"
+    "match": "Yu0kXb_To7Y",
+    "highlight": "Yu0kXb_To7Y",
+    "interview": "Yu0kXb_To7Y"
   },
   "videos": [
+    {
+      "title": "Argentina vs Switzerland | Full Highlights | Quarter Final | FIFA World ...",
+      "videoId": "Yu0kXb_To7Y",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-14",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Yu0kXb_To7Y/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland",
+      "source": "match-search"
+    },
+    {
+      "title": "Argentina vs Switzerland 3-1 Highlights & All Goals | FIFA World Cup 2026",
+      "videoId": "mpYXFYf4tlk",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-14",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/mpYXFYf4tlk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland",
+      "source": "match-search"
+    },
     {
       "title": "Match Preview: England vs Argentina | FIFA World Cup 2026™",
       "videoId": "yMZoXvk6ah0",
