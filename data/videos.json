@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-14T16:19:25.704Z",
+  "lastUpdated": "2026-07-14T17:35:21.837Z",
   "featured": {
-    "match": "RSCPIXj_lo0",
-    "highlight": "RSCPIXj_lo0",
-    "interview": "RSCPIXj_lo0"
+    "match": "Yu0kXb_To7Y",
+    "highlight": "Yu0kXb_To7Y",
+    "interview": "Yu0kXb_To7Y"
   },
   "videos": [
+    {
+      "title": "Argentina vs Switzerland | Full Highlights | Quarter Final | FIFA World ...",
+      "videoId": "Yu0kXb_To7Y",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-14",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Yu0kXb_To7Y/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland",
+      "source": "match-search"
+    },
+    {
+      "title": "Argentina vs. Switzerland | Full Highlights | FIFA World Cup 2026",
+      "videoId": "86D92hjdMZM",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-14",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/86D92hjdMZM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland",
+      "source": "match-search"
+    },
     {
       "title": "Joe and Kiki: the Dallas duo’s extraordinary bond at FIFA World Cup 2026™",
       "videoId": "RSCPIXj_lo0",
