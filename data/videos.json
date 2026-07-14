@@ -1,46 +1,26 @@
 {
-  "lastUpdated": "2026-07-14T11:44:42.519Z",
+  "lastUpdated": "2026-07-14T12:17:10.682Z",
   "featured": {
-    "match": "Yu0kXb_To7Y",
-    "highlight": "Yu0kXb_To7Y",
-    "interview": "Yu0kXb_To7Y"
+    "match": "OTi4qH-t2hM",
+    "highlight": "OTi4qH-t2hM",
+    "interview": "OTi4qH-t2hM"
   },
   "videos": [
     {
-      "title": "Argentina vs Switzerland | Full Highlights | Quarter Final | FIFA World ...",
-      "videoId": "Yu0kXb_To7Y",
-      "channel": "Web Search",
+      "title": "Team Feature: Argentina Star Nico Paz On Following In His Father's Footsteps",
+      "videoId": "OTi4qH-t2hM",
+      "channel": "FIFA",
       "publishedAt": "2026-07-14",
       "category": "Highlights",
       "team": [
-        "Argentina",
-        "Switzerland"
+        "Argentina"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Yu0kXb_To7Y/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/OTi4qH-t2hM/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland",
-      "source": "match-search"
-    },
-    {
-      "title": "Argentina vs Switzerland 3-1 Highlights & All Goals | FIFA World Cup 2026",
-      "videoId": "mpYXFYf4tlk",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-14",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Switzerland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/mpYXFYf4tlk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland",
-      "source": "match-search"
+      "fixtureTeams": "Norway vs England"
     },
     {
       "title": "Match Preview: England vs Argentina | FIFA World Cup 2026™",
@@ -252,20 +232,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/H-W5GEzSG_A/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium"
-    },
-    {
-      "title": "UNSEEN HIGHLIGHTS: YouTube FIFA Creator Cup",
-      "videoId": "bO-xCeYQc5Q",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/bO-xCeYQc5Q/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Spain vs Belgium"
