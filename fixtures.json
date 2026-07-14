@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T21:15:02.791Z",
+  "lastUpdated": "2026-07-14T21:46:27.219Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2556,8 +2556,8 @@
       "date": "2026-07-18",
       "time": "21:00",
       "utcDate": "2026-07-18T21:00Z",
-      "homeTeam": "Semifinal 1 Loser",
-      "homeCode": "un",
+      "homeTeam": "France",
+      "homeCode": "fr",
       "homeScore": 0,
       "awayTeam": "Semifinal 2 Loser",
       "awayCode": "un",
@@ -2565,7 +2565,7 @@
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens, Florida",
       "status": "timed",
-      "group": null,
+      "group": "I",
       "stage": "3RD_PLACE_MATCH",
       "matchday": 0,
       "minute": null,
@@ -2573,7 +2573,7 @@
         null,
         null
       ],
-      "homeFlag": "https://flagcdn.com/w160/un.png",
+      "homeFlag": "https://flagcdn.com/w160/fr.png",
       "awayFlag": "https://flagcdn.com/w160/un.png"
     },
     {
@@ -2581,8 +2581,8 @@
       "date": "2026-07-19",
       "time": "19:00",
       "utcDate": "2026-07-19T19:00Z",
-      "homeTeam": "Semifinal 1 Winner",
-      "homeCode": "un",
+      "homeTeam": "Spain",
+      "homeCode": "es",
       "homeScore": 0,
       "awayTeam": "Semifinal 2 Winner",
       "awayCode": "un",
@@ -2590,7 +2590,7 @@
       "venue": "MetLife Stadium",
       "city": "East Rutherford, New Jersey",
       "status": "timed",
-      "group": null,
+      "group": "H",
       "stage": "FINAL",
       "matchday": 0,
       "minute": null,
@@ -2598,7 +2598,7 @@
         null,
         null
       ],
-      "homeFlag": "https://flagcdn.com/w160/un.png",
+      "homeFlag": "https://flagcdn.com/w160/es.png",
       "awayFlag": "https://flagcdn.com/w160/un.png"
     }
   ],
@@ -2612,7 +2612,7 @@
           "time": "19:00",
           "venue": "MetLife Stadium",
           "city": "East Rutherford, New Jersey",
-          "label": "Semifinal 1 Winner vs Semifinal 2 Winner"
+          "label": "Spain vs Semifinal 2 Winner"
         }
       ]
     }
