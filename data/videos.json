@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-14T22:01:11.332Z",
+  "lastUpdated": "2026-07-14T22:16:38.359Z",
   "featured": {
-    "match": "WPfcFnkMqUE",
-    "highlight": "WPfcFnkMqUE",
+    "match": "JZmfJSUROsg",
+    "highlight": "JZmfJSUROsg",
     "interview": "t6tr8eLppOA"
   },
   "videos": [
+    {
+      "title": "Argentina vs Switzerland | Match Highlights | FIFA World Cup 2026™",
+      "videoId": "JZmfJSUROsg",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-14",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JZmfJSUROsg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland",
+      "source": "match-search"
+    },
+    {
+      "title": "Argentina vs. Switzerland | Full Highlights | FIFA World Cup 2026",
+      "videoId": "86D92hjdMZM",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-14",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/86D92hjdMZM/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland",
+      "source": "match-search"
+    },
     {
       "title": "WATCH LIVE | France v Spain | Semi-finals | FIFA World Cup 2026™",
       "videoId": "WPfcFnkMqUE",
