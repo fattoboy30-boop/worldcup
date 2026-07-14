@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-14T18:06:54.866Z",
+  "lastUpdated": "2026-07-14T18:47:50.344Z",
   "featured": {
-    "match": "oY9nyOqOOdU",
-    "highlight": "oY9nyOqOOdU",
-    "interview": "oY9nyOqOOdU"
+    "match": "zZxxDbLxEi4",
+    "highlight": "zZxxDbLxEi4",
+    "interview": "zZxxDbLxEi4"
   },
   "videos": [
+    {
+      "title": "Highlights | Argentina 3-1 Switzerland | FIFA World Cup 2026™",
+      "videoId": "zZxxDbLxEi4",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-14",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/zZxxDbLxEi4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland",
+      "source": "match-search"
+    },
+    {
+      "title": "Argentina vs Switzerland 3-1 Highlights & All Goals | FIFA World Cup 2026",
+      "videoId": "mpYXFYf4tlk",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-14",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/mpYXFYf4tlk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland",
+      "source": "match-search"
+    },
     {
       "title": "Don’t Just Watch it … Feel It! 🤩",
       "videoId": "oY9nyOqOOdU",
