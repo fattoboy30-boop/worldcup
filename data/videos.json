@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-13T23:12:50.412Z",
+  "lastUpdated": "2026-07-14T00:08:31.672Z",
   "featured": {
-    "match": "PnFUiq8m9os",
-    "highlight": "PnFUiq8m9os",
-    "interview": "PnFUiq8m9os"
+    "match": "Yu0kXb_To7Y",
+    "highlight": "Yu0kXb_To7Y",
+    "interview": "Yu0kXb_To7Y"
   },
   "videos": [
+    {
+      "title": "Argentina vs Switzerland | Full Highlights | Quarter Final | FIFA World ...",
+      "videoId": "Yu0kXb_To7Y",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-14",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Yu0kXb_To7Y/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland",
+      "source": "match-search"
+    },
+    {
+      "title": "Highlights | Argentina vs Switzerland | FIFA World Cup 2026™",
+      "videoId": "Tn15xxl5JgY",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-14",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Tn15xxl5JgY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland",
+      "source": "match-search"
+    },
     {
       "title": "Highlights | Norway 1-2 England | FIFA World Cup 2026™",
       "videoId": "PnFUiq8m9os",
