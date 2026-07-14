@@ -1,46 +1,27 @@
 {
-  "lastUpdated": "2026-07-14T10:10:46.309Z",
+  "lastUpdated": "2026-07-14T10:50:12.736Z",
   "featured": {
-    "match": "zZxxDbLxEi4",
-    "highlight": "zZxxDbLxEi4",
-    "interview": "zZxxDbLxEi4"
+    "match": "yMZoXvk6ah0",
+    "highlight": "yMZoXvk6ah0",
+    "interview": "yMZoXvk6ah0"
   },
   "videos": [
     {
-      "title": "Highlights | Argentina 3-1 Switzerland | FIFA World Cup 2026™",
-      "videoId": "zZxxDbLxEi4",
-      "channel": "Web Search",
+      "title": "Match Preview: England vs Argentina | FIFA World Cup 2026™",
+      "videoId": "yMZoXvk6ah0",
+      "channel": "FIFA",
       "publishedAt": "2026-07-14",
       "category": "Highlights",
       "team": [
         "Argentina",
-        "Switzerland"
+        "England"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/zZxxDbLxEi4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/yMZoXvk6ah0/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland",
-      "source": "match-search"
-    },
-    {
-      "title": "argentina vs switzerland 2026 highlights & goals | world cup quarter ...",
-      "videoId": "s2JSC3X2WiY",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-14",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Switzerland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/s2JSC3X2WiY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland",
-      "source": "match-search"
+      "fixtureTeams": "Norway vs England"
     },
     {
       "title": "The Most EPIC Extra Time Goals In FIFA World Cup History",
@@ -249,20 +230,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/bO-xCeYQc5Q/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Spain vs Belgium"
-    },
-    {
-      "title": "🤝⚽️",
-      "videoId": "MtZySindgow",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/MtZySindgow/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Spain vs Belgium"
