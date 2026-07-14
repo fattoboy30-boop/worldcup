@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-14T08:12:36.636Z",
+  "lastUpdated": "2026-07-14T10:10:46.309Z",
   "featured": {
-    "match": "fW21hgNeTWI",
-    "highlight": "fW21hgNeTWI",
-    "interview": "fW21hgNeTWI"
+    "match": "zZxxDbLxEi4",
+    "highlight": "zZxxDbLxEi4",
+    "interview": "zZxxDbLxEi4"
   },
   "videos": [
+    {
+      "title": "Highlights | Argentina 3-1 Switzerland | FIFA World Cup 2026™",
+      "videoId": "zZxxDbLxEi4",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-14",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/zZxxDbLxEi4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland",
+      "source": "match-search"
+    },
+    {
+      "title": "argentina vs switzerland 2026 highlights & goals | world cup quarter ...",
+      "videoId": "s2JSC3X2WiY",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-14",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/s2JSC3X2WiY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland",
+      "source": "match-search"
+    },
     {
       "title": "The Most EPIC Extra Time Goals In FIFA World Cup History",
       "videoId": "fW21hgNeTWI",
