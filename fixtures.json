@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T21:40:22.832Z",
+  "lastUpdated": "2026-07-15T22:37:11.459Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2559,8 +2559,8 @@
       "homeTeam": "France",
       "homeCode": "fr",
       "homeScore": 0,
-      "awayTeam": "Semifinal 2 Loser",
-      "awayCode": "un",
+      "awayTeam": "England",
+      "awayCode": "gb-eng",
       "awayScore": 0,
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens, Florida",
@@ -2574,7 +2574,7 @@
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/fr.png",
-      "awayFlag": "https://flagcdn.com/w160/un.png"
+      "awayFlag": "https://flagcdn.com/w160/gb-eng.png"
     },
     {
       "id": 760517,
@@ -2584,8 +2584,8 @@
       "homeTeam": "Spain",
       "homeCode": "es",
       "homeScore": 0,
-      "awayTeam": "Semifinal 2 Winner",
-      "awayCode": "un",
+      "awayTeam": "Argentina",
+      "awayCode": "ar",
       "awayScore": 0,
       "venue": "MetLife Stadium",
       "city": "East Rutherford, New Jersey",
@@ -2599,7 +2599,7 @@
         null
       ],
       "homeFlag": "https://flagcdn.com/w160/es.png",
-      "awayFlag": "https://flagcdn.com/w160/un.png"
+      "awayFlag": "https://flagcdn.com/w160/ar.png"
     }
   ],
   "knockoutStage": {
@@ -2612,7 +2612,7 @@
           "time": "19:00",
           "venue": "MetLife Stadium",
           "city": "East Rutherford, New Jersey",
-          "label": "Spain vs Semifinal 2 Winner"
+          "label": "Spain vs Argentina"
         }
       ]
     }
