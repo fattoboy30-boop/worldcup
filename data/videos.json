@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-07-15T14:54:45.705Z",
+  "lastUpdated": "2026-07-15T15:27:29.940Z",
   "featured": {
-    "match": "-NfHRIlhQ4Y",
-    "highlight": "-NfHRIlhQ4Y",
+    "match": "7zOzKw-JuAg",
+    "highlight": "7zOzKw-JuAg",
     "interview": "i5HJeKD8a2o"
   },
   "videos": [
+    {
+      "title": "Match Highlights | FIFA World Cup 2026™ - YouTube",
+      "videoId": "7zOzKw-JuAg",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-15",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7zOzKw-JuAg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "France vs Spain",
+      "source": "match-search"
+    },
     {
       "title": "Empire of the Sun, Danny Ocean, FIFA Sound - Llego (FIFA World Cup 2026™)",
       "videoId": "-NfHRIlhQ4Y",
