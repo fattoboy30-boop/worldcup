@@ -1,46 +1,41 @@
 {
-  "lastUpdated": "2026-07-15T13:56:38.592Z",
+  "lastUpdated": "2026-07-15T14:54:45.705Z",
   "featured": {
-    "match": "zRMGAP66wz0",
-    "highlight": "zRMGAP66wz0",
-    "interview": "tgB0AhKPY8Q"
+    "match": "-NfHRIlhQ4Y",
+    "highlight": "-NfHRIlhQ4Y",
+    "interview": "i5HJeKD8a2o"
   },
   "videos": [
     {
-      "title": "Spain vs France 2-0 Highlights & All Goals | World Cup 2026 ... - YouTube",
-      "videoId": "zRMGAP66wz0",
-      "channel": "Web Search",
+      "title": "Empire of the Sun, Danny Ocean, FIFA Sound - Llego (FIFA World Cup 2026™)",
+      "videoId": "-NfHRIlhQ4Y",
+      "channel": "FIFA",
       "publishedAt": "2026-07-15",
       "category": "Highlights",
-      "team": [
-        "France",
-        "Spain"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/zRMGAP66wz0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/-NfHRIlhQ4Y/mqdefault.jpg",
       "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain",
-      "source": "match-search"
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
     },
     {
-      "title": "france vs spain 2026 highlights & goals | world cup group stage ...",
-      "videoId": "7zOzKw-JuAg",
-      "channel": "Web Search",
+      "title": "Statistical Preview | England v Argentina | FIFA World Cup 2026™ Semi-finals",
+      "videoId": "TBCwcQommak",
+      "channel": "FIFA",
       "publishedAt": "2026-07-15",
       "category": "Highlights",
       "team": [
-        "France",
-        "Spain"
+        "Argentina",
+        "England"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7zOzKw-JuAg/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/TBCwcQommak/mqdefault.jpg",
       "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain",
-      "source": "match-search"
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
     },
     {
       "title": "England v Argentina | Highlights From Every World Cup Meeting",
@@ -152,6 +147,146 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/CrH5UWiX1t0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
+    },
+    {
+      "title": "HAND OF GOD + Beckham’s RED CARD among England vs. Argentina RIVALRY | ESPN FC",
+      "videoId": "lRf2wI2XhEY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-15",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/lRf2wI2XhEY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
+    },
+    {
+      "title": "Folarin Balogun ADMITS ‘MORE PRESSURE’ after red card was overturned 👀| ESPN FC",
+      "videoId": "KcUHxVmc-78",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-15",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/KcUHxVmc-78/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
+    },
+    {
+      "title": "England vs. Argentina World Cup SEMIFINAL: Calculated pessimism?! | ESPN FC",
+      "videoId": "90y01JbG5a8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-15",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/90y01JbG5a8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
+    },
+    {
+      "title": "France vs. Spain FULL REACTION: ‘Nothing went right’ for France | ESPN FC",
+      "videoId": "i5HJeKD8a2o",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-15",
+      "category": "Viral",
+      "team": [
+        "France",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/i5HJeKD8a2o/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
+    },
+    {
+      "title": "Has Jude Bellingham made himself an international superstar? ⭐️",
+      "videoId": "UTbUwlreNgU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-15",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/UTbUwlreNgU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
+    },
+    {
+      "title": "What do you think of this lineup?",
+      "videoId": "6TiYb8fjS9Y",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-15",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6TiYb8fjS9Y/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
+    },
+    {
+      "title": "How should England slow down Lionel Messi?! ‘Cut off the supply chain!’ - Geoff Cameron 👀 | Get Up",
+      "videoId": "ys_7Rhfm6SU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-15",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ys_7Rhfm6SU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
+    },
+    {
+      "title": "Spain handled their business against France 💪",
+      "videoId": "s0hR7f8CfGk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-15",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/s0hR7f8CfGk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
+    },
+    {
+      "title": "Imagine seeing this flying overhead 🇦🇷 (via yojuanjunco/IG)",
+      "videoId": "VHBp8FmNotI",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-15",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/VHBp8FmNotI/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Argentina vs Switzerland"
@@ -304,40 +439,6 @@
       "fixtureTeams": "Norway vs England"
     },
     {
-      "title": "France 🆚 Spain #FIFAWorldCupOnYT",
-      "videoId": "aZyxCk8dsCM",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-14",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/aZyxCk8dsCM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Norway vs England"
-    },
-    {
-      "title": "WATCH LIVE | France v Spain | Semi-finals | FIFA World Cup 2026™",
-      "videoId": "WPfcFnkMqUE",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-14",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/WPfcFnkMqUE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Norway vs England"
-    },
-    {
       "title": "Craig Burley reacts to Spain shutting out France 2-0 👀",
       "videoId": "HiWYM8W6tVs",
       "channel": "ESPN FC",
@@ -382,153 +483,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/_Z8Dq8ewv4s/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Norway vs England"
-    },
-    {
-      "title": "David Bentley is HYPED for England's chances against Argentina 😂 | ESPN FC",
-      "videoId": "OUcxvtPf2s0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-14",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/OUcxvtPf2s0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Norway vs England"
-    },
-    {
-      "title": "Will Lamine Yamal show up for Spain in the World Cup Final? | ESPN FC Extra Time",
-      "videoId": "BGAU03YNnxE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-14",
-      "category": "Highlights",
-      "team": [
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/BGAU03YNnxE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Norway vs England"
-    },
-    {
-      "title": "Spain made it SO TOUGH on France and Rodri has been AMAZING! 👏 - Ilkay Gundogan reacts | ESPN FC",
-      "videoId": "tOtFD6NdjW0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-14",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/tOtFD6NdjW0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Norway vs England"
-    },
-    {
-      "title": "Frank Leboeuf sums up France's World Cup run and Didier Deschamps' tenure | ESPN FC",
-      "videoId": "FbbyWs2ObJA",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-14",
-      "category": "Highlights",
-      "team": [
-        "France"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FbbyWs2ObJA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Norway vs England"
-    },
-    {
-      "title": "France vs. Spain FULL REACTION 🔥 Spain were EXCELLENT & France were a FAILURE! - Leboeuf | ESPN FC",
-      "videoId": "tgB0AhKPY8Q",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-14",
-      "category": "Viral",
-      "team": [
-        "France",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/tgB0AhKPY8Q/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Norway vs England"
-    },
-    {
-      "title": "Heartbreak ending for France in the World Cup semifinals 💔",
-      "videoId": "W1MIWqVxo3w",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-14",
-      "category": "Highlights",
-      "team": [
-        "France"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/W1MIWqVxo3w/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Norway vs England"
-    },
-    {
-      "title": "Steve Nicol says Rodri was a ‘REAL LEADER’ for Spain vs. France | ESPN FC",
-      "videoId": "NduBMtv0FHI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-14",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/NduBMtv0FHI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Norway vs England"
-    },
-    {
-      "title": "SPAIN ARE WORLD CUP FINAL BOUND! France vs. Spain [FULL REACTION] | ESPN FC",
-      "videoId": "t6tr8eLppOA",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-14",
-      "category": "Viral",
-      "team": [
-        "France",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/t6tr8eLppOA/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Norway vs England"
-    },
-    {
-      "title": "Kylian Mbappe’s 2026 World Cup run will be one to remember 🔥",
-      "videoId": "Zt55YhhN6Mk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-14",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Zt55YhhN6Mk/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Norway vs England"
