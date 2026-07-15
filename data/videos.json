@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-15T22:04:37.434Z",
+  "lastUpdated": "2026-07-15T22:40:23.984Z",
   "featured": {
-    "match": "xyNJqCaMpdY",
-    "highlight": "xyNJqCaMpdY",
+    "match": "7zOzKw-JuAg",
+    "highlight": "YL49Zoju0vg",
     "interview": "MSsNR2i8wv0"
   },
   "videos": [
+    {
+      "title": "france vs spain 2026 highlights & goals | world cup group stage ...",
+      "videoId": "7zOzKw-JuAg",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-15",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7zOzKw-JuAg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "France vs Spain",
+      "source": "match-search"
+    },
+    {
+      "title": "France vs Spain | FIFA World Cup 2026 Semi Final | Full Match ... - YouTube",
+      "videoId": "YL49Zoju0vg",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-15",
+      "category": "Full Match",
+      "team": [
+        "France",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/YL49Zoju0vg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "France vs Spain",
+      "source": "match-search"
+    },
     {
       "title": "WATCH LIVE | England v Argentina | Semi-finals | FIFA World Cup 2026™",
       "videoId": "xyNJqCaMpdY",
