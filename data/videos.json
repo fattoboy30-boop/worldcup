@@ -1,29 +1,11 @@
 {
-  "lastUpdated": "2026-07-15T15:27:29.940Z",
+  "lastUpdated": "2026-07-15T16:25:39.495Z",
   "featured": {
-    "match": "7zOzKw-JuAg",
-    "highlight": "7zOzKw-JuAg",
+    "match": "-NfHRIlhQ4Y",
+    "highlight": "-NfHRIlhQ4Y",
     "interview": "i5HJeKD8a2o"
   },
   "videos": [
-    {
-      "title": "Match Highlights | FIFA World Cup 2026™ - YouTube",
-      "videoId": "7zOzKw-JuAg",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-15",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7zOzKw-JuAg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain",
-      "source": "match-search"
-    },
     {
       "title": "Empire of the Sun, Danny Ocean, FIFA Sound - Llego (FIFA World Cup 2026™)",
       "videoId": "-NfHRIlhQ4Y",
@@ -165,6 +147,82 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/CrH5UWiX1t0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
+    },
+    {
+      "title": "🇪🇸❤️ (via @pedroporro29_/IG, @mhurtado5/IG)",
+      "videoId": "ffT3PjsCfig",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-15",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ffT3PjsCfig/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
+    },
+    {
+      "title": "New and intense 🙌 (via @mushkuda1/IG)",
+      "videoId": "q8mRyLcCxXY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-15",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/q8mRyLcCxXY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
+    },
+    {
+      "title": "Herculez Gomez says it was 'another disappointing outing for Mbappe' 😬",
+      "videoId": "WqbTeCgZDqc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-15",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/WqbTeCgZDqc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
+    },
+    {
+      "title": "England vs. Argentina! 👀",
+      "videoId": "RbOFdMPoPZ4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-15",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RbOFdMPoPZ4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
+    },
+    {
+      "title": "How France's World Cup loss vs. Spain impacts Kylian Mbappe's legacy 🧐 | First Take",
+      "videoId": "7EJV79lXXz0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-15",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7EJV79lXXz0/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Argentina vs Switzerland"
@@ -326,39 +384,6 @@
       "fixtureTeams": "Argentina vs Switzerland"
     },
     {
-      "title": "Spain showed they are the ‘best team’ in win vs. France – Brek Shea | SportsCenter",
-      "videoId": "p3tpho8qn_o",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-15",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/p3tpho8qn_o/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland"
-    },
-    {
-      "title": "England fans before the semifinal 😂 (via dangordonn/TT)",
-      "videoId": "HOnxO4cU9yY",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-15",
-      "category": "Highlights",
-      "team": [
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/HOnxO4cU9yY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland"
-    },
-    {
       "title": "Pedro Porro Goal | France 0-2 Spain | FIFA World Cup 2026™ Semi-finals",
       "videoId": "sLeb_SHYAyI",
       "channel": "FIFA",
@@ -452,55 +477,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/Go_srdDtCRg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Norway vs England"
-    },
-    {
-      "title": "Craig Burley reacts to Spain shutting out France 2-0 👀",
-      "videoId": "HiWYM8W6tVs",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-14",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/HiWYM8W6tVs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Norway vs England"
-    },
-    {
-      "title": "SPAIN REACH WORLD CUP FINAL! 🔥 Biggest takeaways + Will they face England or Argentina? 🤔 | ESPN FC",
-      "videoId": "s9tMSgX2_Bk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-14",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "England",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/s9tMSgX2_Bk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Norway vs England"
-    },
-    {
-      "title": "Madness in Madrid 🫨",
-      "videoId": "_Z8Dq8ewv4s",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-14",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_Z8Dq8ewv4s/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Norway vs England"
