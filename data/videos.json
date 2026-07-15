@@ -1,46 +1,27 @@
 {
-  "lastUpdated": "2026-07-15T20:42:09.526Z",
+  "lastUpdated": "2026-07-15T22:04:37.434Z",
   "featured": {
-    "match": "7zOzKw-JuAg",
-    "highlight": "YL49Zoju0vg",
-    "interview": "i5HJeKD8a2o"
+    "match": "xyNJqCaMpdY",
+    "highlight": "xyNJqCaMpdY",
+    "interview": "MSsNR2i8wv0"
   },
   "videos": [
     {
-      "title": "france vs spain 2026 highlights & goals | world cup group stage ...",
-      "videoId": "7zOzKw-JuAg",
-      "channel": "Web Search",
+      "title": "WATCH LIVE | England v Argentina | Semi-finals | FIFA World Cup 2026™",
+      "videoId": "xyNJqCaMpdY",
+      "channel": "FIFA",
       "publishedAt": "2026-07-15",
       "category": "Highlights",
       "team": [
-        "France",
-        "Spain"
+        "Argentina",
+        "England"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7zOzKw-JuAg/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/xyNJqCaMpdY/mqdefault.jpg",
       "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain",
-      "source": "match-search"
-    },
-    {
-      "title": "France vs Spain | FIFA World Cup 2026 Semi Final | Full Match ... - YouTube",
-      "videoId": "YL49Zoju0vg",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-15",
-      "category": "Full Match",
-      "team": [
-        "France",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/YL49Zoju0vg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain",
-      "source": "match-search"
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
     },
     {
       "title": "England Battles Back to Beat Norway | Ref's POV | Powered by Lenovo",
@@ -222,6 +203,97 @@
       "fixtureTeams": "Argentina vs Switzerland"
     },
     {
+      "title": "Messi continues to prove greatness is timeless 😮‍💨",
+      "videoId": "iZ6ii4LhkAI",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-15",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/iZ6ii4LhkAI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
+    },
+    {
+      "title": "Tough ending for England in the World Cup semifinal",
+      "videoId": "PCGK7TZmPhU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-15",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/PCGK7TZmPhU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
+    },
+    {
+      "title": "Enzo Fernandez scoring ‘turned this game on its head’ – Steve Nicol | ESPN FC",
+      "videoId": "6F4efYezaA8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-15",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6F4efYezaA8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
+    },
+    {
+      "title": "Incredible scenes in Buenos Aires 🔥",
+      "videoId": "MSsNR2i8wv0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-15",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/MSsNR2i8wv0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
+    },
+    {
+      "title": "HEARTBREAK! Argentina vs. England FULL REACTION [World Cup Semis] | ESPN FC",
+      "videoId": "-9QQpDkKvmU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-15",
+      "category": "Viral",
+      "team": [
+        "Argentina",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-9QQpDkKvmU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
+    },
+    {
+      "title": "This is a masterclass 🤯 (via equipedefrance/TT)",
+      "videoId": "jF4P2CkE2h4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-15",
+      "category": "Highlights",
+      "team": [
+        "France"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jF4P2CkE2h4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
+    },
+    {
       "title": "Spain are one win away from Marc Cucurella getting the chance to sing another song 😂 (via @rfef/TT)",
       "videoId": "i6NKqojlzek",
       "channel": "ESPN FC",
@@ -361,99 +433,6 @@
       "fixtureTeams": "Argentina vs Switzerland"
     },
     {
-      "title": "HAND OF GOD + Beckham’s RED CARD among England vs. Argentina RIVALRY | ESPN FC",
-      "videoId": "lRf2wI2XhEY",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-15",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/lRf2wI2XhEY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland"
-    },
-    {
-      "title": "Folarin Balogun ADMITS ‘MORE PRESSURE’ after red card was overturned 👀| ESPN FC",
-      "videoId": "KcUHxVmc-78",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-15",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/KcUHxVmc-78/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland"
-    },
-    {
-      "title": "England vs. Argentina World Cup SEMIFINAL: Calculated pessimism?! | ESPN FC",
-      "videoId": "90y01JbG5a8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-15",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/90y01JbG5a8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland"
-    },
-    {
-      "title": "France vs. Spain FULL REACTION: ‘Nothing went right’ for France | ESPN FC",
-      "videoId": "i5HJeKD8a2o",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-15",
-      "category": "Viral",
-      "team": [
-        "France",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/i5HJeKD8a2o/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland"
-    },
-    {
-      "title": "Has Jude Bellingham made himself an international superstar? ⭐️",
-      "videoId": "UTbUwlreNgU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-15",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/UTbUwlreNgU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland"
-    },
-    {
-      "title": "What do you think of this lineup?",
-      "videoId": "6TiYb8fjS9Y",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-15",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/6TiYb8fjS9Y/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland"
-    },
-    {
       "title": "Pedro Porro Goal | France 0-2 Spain | FIFA World Cup 2026™ Semi-finals",
       "videoId": "sLeb_SHYAyI",
       "channel": "FIFA",
@@ -503,23 +482,6 @@
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Norway vs England"
-    },
-    {
-      "title": "WATCH LIVE | England v Argentina | Semi-finals | FIFA World Cup 2026™",
-      "videoId": "xyNJqCaMpdY",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-09",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xyNJqCaMpdY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "ROUND_OF_16",
-      "fixtureTeams": "Mexico vs England"
     }
   ]
 }
