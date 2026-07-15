@@ -1,15 +1,32 @@
 {
-  "lastUpdated": "2026-07-15T18:06:49.004Z",
+  "lastUpdated": "2026-07-15T18:11:14.366Z",
   "featured": {
-    "match": "7zOzKw-JuAg",
-    "highlight": "YL49Zoju0vg",
+    "match": "Vbctz1gfg5E",
+    "highlight": "Vbctz1gfg5E",
     "interview": "i5HJeKD8a2o"
   },
   "videos": [
     {
-      "title": "france vs spain 2026 highlights & goals | world cup group stage ...",
-      "videoId": "7zOzKw-JuAg",
-      "channel": "Web Search",
+      "title": "England Battles Back to Beat Norway | Ref's POV | Powered by Lenovo",
+      "videoId": "Vbctz1gfg5E",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-15",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Vbctz1gfg5E/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
+    },
+    {
+      "title": "Alt Cast Highlights: France v Spain | FIFA World Cup 2026™",
+      "videoId": "8eCO-Yyu25g",
+      "channel": "FIFA",
       "publishedAt": "2026-07-15",
       "category": "Highlights",
       "team": [
@@ -18,47 +35,10 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7zOzKw-JuAg/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/8eCO-Yyu25g/mqdefault.jpg",
       "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain",
-      "source": "match-search"
-    },
-    {
-      "title": "France vs Spain | FIFA World Cup 2026 Semi Final | Full Match ... - YouTube",
-      "videoId": "YL49Zoju0vg",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-15",
-      "category": "Full Match",
-      "team": [
-        "France",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/YL49Zoju0vg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain",
-      "source": "match-search"
-    },
-    {
-      "title": "Full Highlights: France vs Spain World Cup 2026 - YouTube",
-      "videoId": "6PrnzEd114M",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-15",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/6PrnzEd114M/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain",
-      "source": "match-search"
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
     },
     {
       "title": "Empire of the Sun, Danny Ocean, FIFA Sound - Llego (FIFA World Cup 2026™)",
@@ -201,6 +181,69 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/CrH5UWiX1t0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
+    },
+    {
+      "title": "Spain are one win away from Marc Cucurella getting the chance to sing another song 😂 (via @rfef/TT)",
+      "videoId": "i6NKqojlzek",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-15",
+      "category": "Highlights",
+      "team": [
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/i6NKqojlzek/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
+    },
+    {
+      "title": "Sitting down taking it all in. Messi knows it can end at any moment 💔",
+      "videoId": "56bUNiuTPWY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-15",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/56bUNiuTPWY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
+    },
+    {
+      "title": "England are pulling out all the stops (via dangordon/TT)",
+      "videoId": "8-XDiE1RRv8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-15",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/8-XDiE1RRv8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
+    },
+    {
+      "title": "THERE'S NO STOPPING MESSI ‼️ What should England's strategy be vs. Argentina? | First Take",
+      "videoId": "tenohmDnPqk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-15",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tenohmDnPqk/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Argentina vs Switzerland"
@@ -375,69 +418,6 @@
       "fixtureTeams": "Argentina vs Switzerland"
     },
     {
-      "title": "How should England slow down Lionel Messi?! ‘Cut off the supply chain!’ - Geoff Cameron 👀 | Get Up",
-      "videoId": "ys_7Rhfm6SU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-15",
-      "category": "Highlights",
-      "team": [
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ys_7Rhfm6SU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland"
-    },
-    {
-      "title": "Spain handled their business against France 💪",
-      "videoId": "s0hR7f8CfGk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-15",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/s0hR7f8CfGk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland"
-    },
-    {
-      "title": "Imagine seeing this flying overhead 🇦🇷 (via yojuanjunco/IG)",
-      "videoId": "VHBp8FmNotI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-15",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/VHBp8FmNotI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland"
-    },
-    {
-      "title": "Spain advances to the World Cup Final!",
-      "videoId": "dF9xz0FG_NE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-15",
-      "category": "Highlights",
-      "team": [
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/dF9xz0FG_NE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland"
-    },
-    {
       "title": "Pedro Porro Goal | France 0-2 Spain | FIFA World Cup 2026™ Semi-finals",
       "videoId": "sLeb_SHYAyI",
       "channel": "FIFA",
@@ -501,36 +481,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/2bijg8xUB14/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Norway vs England"
-    },
-    {
-      "title": "That Lamine Yamal & Dani Olmo connection! 😱 y#FIFAWorldCupOnYT",
-      "videoId": "6KDpizfUfhM",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-14",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/6KDpizfUfhM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Norway vs England"
-    },
-    {
-      "title": "A huge moment from Pedro Porro with Spain. 💪 🇪🇸 u#FIFAWorldCupOnYT",
-      "videoId": "Go_srdDtCRg",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-14",
-      "category": "Highlights",
-      "team": [
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Go_srdDtCRg/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Norway vs England"
