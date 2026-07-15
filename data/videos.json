@@ -1,46 +1,27 @@
 {
-  "lastUpdated": "2026-07-15T08:29:10.067Z",
+  "lastUpdated": "2026-07-15T10:53:44.609Z",
   "featured": {
-    "match": "7zOzKw-JuAg",
-    "highlight": "YL49Zoju0vg",
+    "match": "y-HZhx1eVE4",
+    "highlight": "y-HZhx1eVE4",
     "interview": "tgB0AhKPY8Q"
   },
   "videos": [
     {
-      "title": "France vs Spain | FIFA World Cup 2026 Semi Final | Full Match ... - YouTube",
-      "videoId": "YL49Zoju0vg",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-15",
-      "category": "Full Match",
-      "team": [
-        "France",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/YL49Zoju0vg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain",
-      "source": "match-search"
-    },
-    {
-      "title": "france vs spain 2026 highlights & goals | world cup group stage ...",
-      "videoId": "7zOzKw-JuAg",
-      "channel": "Web Search",
+      "title": "England v Argentina | Highlights From Every World Cup Meeting",
+      "videoId": "y-HZhx1eVE4",
+      "channel": "FIFA",
       "publishedAt": "2026-07-15",
       "category": "Highlights",
       "team": [
-        "France",
-        "Spain"
+        "Argentina",
+        "England"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7zOzKw-JuAg/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/y-HZhx1eVE4/mqdefault.jpg",
       "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain",
-      "source": "match-search"
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
     },
     {
       "title": "July 14 Matchday Recap | #FIFAWorldCup @aramco",
@@ -135,6 +116,22 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/CrH5UWiX1t0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
+    },
+    {
+      "title": "Spain advances to the World Cup Final!",
+      "videoId": "dF9xz0FG_NE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-15",
+      "category": "Highlights",
+      "team": [
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/dF9xz0FG_NE/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Argentina vs Switzerland"
@@ -300,23 +297,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/WPfcFnkMqUE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Norway vs England"
-    },
-    {
-      "title": "England Train Before Argentina | FIFA World Cup 2026™",
-      "videoId": "iiAe2wPXHio",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-14",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/iiAe2wPXHio/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Norway vs England"
@@ -513,23 +493,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/Zt55YhhN6Mk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Norway vs England"
-    },
-    {
-      "title": "France vs. Spain AS GOOD AS IT GETS 🍿 Taylor Twellman previews WC Semifinals | The Rich Eisen Show",
-      "videoId": "dWyAzD3Ry4E",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-14",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/dWyAzD3Ry4E/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Norway vs England"
