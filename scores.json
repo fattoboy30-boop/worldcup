@@ -1,30 +1,6 @@
 {
-  "lastUpdated": "2026-07-15T20:42:02.602Z",
-  "liveMatches": [
-    {
-      "id": 760515,
-      "date": "2026-07-15",
-      "time": "19:00",
-      "utcDate": "2026-07-15T19:00Z",
-      "homeTeam": "England",
-      "homeCode": "gb-eng",
-      "homeScore": 1,
-      "awayTeam": "Argentina",
-      "awayCode": "ar",
-      "awayScore": 0,
-      "venue": "Mercedes-Benz Stadium",
-      "city": "Atlanta, Georgia",
-      "status": "in_play",
-      "group": "L",
-      "stage": "SEMIFINALS",
-      "matchday": 0,
-      "minute": "80'",
-      "halfTime": [
-        null,
-        null
-      ]
-    }
-  ],
+  "lastUpdated": "2026-07-15T21:36:30.869Z",
+  "liveMatches": [],
   "recentResults": [
     {
       "id": 760415,
@@ -2348,6 +2324,29 @@
         null,
         null
       ]
+    },
+    {
+      "id": 760515,
+      "date": "2026-07-15",
+      "time": "19:00",
+      "utcDate": "2026-07-15T19:00Z",
+      "homeTeam": "England",
+      "homeCode": "gb-eng",
+      "homeScore": 1,
+      "awayTeam": "Argentina",
+      "awayCode": "ar",
+      "awayScore": 2,
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta, Georgia",
+      "status": "finished",
+      "group": "L",
+      "stage": "SEMIFINALS",
+      "matchday": 0,
+      "minute": null,
+      "halfTime": [
+        null,
+        null
+      ]
     }
   ],
   "upcomingMatches": [
@@ -2359,8 +2358,8 @@
       "homeTeam": "France",
       "homeCode": "fr",
       "homeScore": 0,
-      "awayTeam": "Semifinal 2 Loser",
-      "awayCode": "un",
+      "awayTeam": "England",
+      "awayCode": "gb-eng",
       "awayScore": 0,
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens, Florida",
@@ -2382,8 +2381,8 @@
       "homeTeam": "Spain",
       "homeCode": "es",
       "homeScore": 0,
-      "awayTeam": "Semifinal 2 Winner",
-      "awayCode": "un",
+      "awayTeam": "Argentina",
+      "awayCode": "ar",
       "awayScore": 0,
       "venue": "MetLife Stadium",
       "city": "East Rutherford, New Jersey",
