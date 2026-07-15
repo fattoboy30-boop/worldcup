@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-07-15T02:44:39.993Z",
+  "lastUpdated": "2026-07-15T03:38:20.160Z",
   "featured": {
-    "match": "TFF5pZILkTA",
-    "highlight": "TFF5pZILkTA",
-    "interview": "TFF5pZILkTA"
+    "match": "7zOzKw-JuAg",
+    "highlight": "7zOzKw-JuAg",
+    "interview": "7zOzKw-JuAg"
   },
   "videos": [
+    {
+      "title": "Match Highlights | FIFA World Cup 2026™ - YouTube",
+      "videoId": "7zOzKw-JuAg",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-15",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7zOzKw-JuAg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "France vs Spain",
+      "source": "match-search"
+    },
     {
       "title": "England On Playing Argentina | Thomas Tuchel Takes Questions",
       "videoId": "TFF5pZILkTA",
