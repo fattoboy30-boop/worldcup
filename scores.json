@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-07-15T18:06:42.096Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-07-15T19:32:41.092Z",
+  "liveMatches": [
+    {
+      "id": 760515,
+      "date": "2026-07-15",
+      "time": "19:00",
+      "utcDate": "2026-07-15T19:00Z",
+      "homeTeam": "England",
+      "homeCode": "gb-eng",
+      "homeScore": 0,
+      "awayTeam": "Argentina",
+      "awayCode": "ar",
+      "awayScore": 0,
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta, Georgia",
+      "status": "in_play",
+      "group": "L",
+      "stage": "SEMIFINALS",
+      "matchday": 0,
+      "minute": "32'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -2327,29 +2351,6 @@
     }
   ],
   "upcomingMatches": [
-    {
-      "id": 760515,
-      "date": "2026-07-15",
-      "time": "19:00",
-      "utcDate": "2026-07-15T19:00Z",
-      "homeTeam": "England",
-      "homeCode": "gb-eng",
-      "homeScore": 0,
-      "awayTeam": "Argentina",
-      "awayCode": "ar",
-      "awayScore": 0,
-      "venue": "Mercedes-Benz Stadium",
-      "city": "Atlanta, Georgia",
-      "status": "timed",
-      "group": "L",
-      "stage": "SEMIFINALS",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    },
     {
       "id": 760516,
       "date": "2026-07-18",
