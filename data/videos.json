@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-16T19:17:01.329Z",
+  "lastUpdated": "2026-07-16T20:11:49.976Z",
   "featured": {
-    "match": "vtTpwTKwe6U",
-    "highlight": "vtTpwTKwe6U",
-    "interview": "vtTpwTKwe6U"
+    "match": "_cV8QcKp3GU",
+    "highlight": "_cV8QcKp3GU",
+    "interview": "_cV8QcKp3GU"
   },
   "videos": [
+    {
+      "title": "Highlights | France 0-2 Spain | FIFA World Cup 2026™ Semi ... - YouTube",
+      "videoId": "_cV8QcKp3GU",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-16",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_cV8QcKp3GU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "France vs Spain",
+      "source": "match-search"
+    },
+    {
+      "title": "France vs Spain | Full Highlights | Semi Final | FIFA World Cup 2026 ...",
+      "videoId": "Ho_u5uaCH40",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-16",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Ho_u5uaCH40/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "France vs Spain",
+      "source": "match-search"
+    },
     {
       "title": "Argentina v Switzerland: Alvarez Extra-Time Strike | Ref's POV | Powered by Lenovo",
       "videoId": "vtTpwTKwe6U",
