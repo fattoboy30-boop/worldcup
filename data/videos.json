@@ -1,46 +1,128 @@
 {
-  "lastUpdated": "2026-07-15T22:40:23.984Z",
+  "lastUpdated": "2026-07-16T00:01:10.854Z",
   "featured": {
-    "match": "7zOzKw-JuAg",
-    "highlight": "YL49Zoju0vg",
-    "interview": "MSsNR2i8wv0"
+    "match": "k_4ESkBXDeg",
+    "highlight": "k_4ESkBXDeg",
+    "interview": "C-RQ_hdgF1U"
   },
   "videos": [
     {
-      "title": "france vs spain 2026 highlights & goals | world cup group stage ...",
-      "videoId": "7zOzKw-JuAg",
-      "channel": "Web Search",
+      "title": "Lautaro Martínez says what it meant to score the winner for Argentina. #FIFAWorldCupOnYT",
+      "videoId": "k_4ESkBXDeg",
+      "channel": "FIFA",
       "publishedAt": "2026-07-15",
       "category": "Highlights",
       "team": [
-        "France",
-        "Spain"
+        "Argentina"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7zOzKw-JuAg/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/k_4ESkBXDeg/mqdefault.jpg",
       "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain",
-      "source": "match-search"
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
     },
     {
-      "title": "France vs Spain | FIFA World Cup 2026 Semi Final | Full Match ... - YouTube",
-      "videoId": "YL49Zoju0vg",
-      "channel": "Web Search",
+      "title": "Enzo Fernandez Goal | England 1-2 Argentina | FIFA World Cup 2026™",
+      "videoId": "FX6U44FG1Ho",
+      "channel": "FIFA",
       "publishedAt": "2026-07-15",
-      "category": "Full Match",
+      "category": "Highlights",
       "team": [
-        "France",
-        "Spain"
+        "Argentina",
+        "England"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/YL49Zoju0vg/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/FX6U44FG1Ho/mqdefault.jpg",
       "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain",
-      "source": "match-search"
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
+    },
+    {
+      "title": "Enzo Fernández scores the equalizer for Argentina against England. #FIFAWorldCupOnYTA",
+      "videoId": "a1e8dqAWc3E",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-15",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/a1e8dqAWc3E/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
+    },
+    {
+      "title": "England 🆚 Argentina #FIFAWorldCupOnYT",
+      "videoId": "yCqQb0RHtBQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-15",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/yCqQb0RHtBQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
+    },
+    {
+      "title": "Post-Match Press Conference: England's Thomas Tuchel On The 2-1 Loss To Argentina",
+      "videoId": "U25F8ax3B2s",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-15",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/U25F8ax3B2s/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
+    },
+    {
+      "title": "Post-Match Press Conference: Argentina's Lionel Scaloni On The 2-1 Win Over England",
+      "videoId": "cqGFfip0bCI",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-15",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cqGFfip0bCI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
+    },
+    {
+      "title": "Post-Match Player Interviews: England 1-2 Argentina",
+      "videoId": "xGiY3yWdOgs",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-15",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xGiY3yWdOgs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
     },
     {
       "title": "WATCH LIVE | England v Argentina | Semi-finals | FIFA World Cup 2026™",
@@ -172,68 +254,84 @@
       "fixtureTeams": "Argentina vs Switzerland"
     },
     {
-      "title": "Argentina On Playing England | Lionel Scaloni Takes Questions",
-      "videoId": "jRovVLxsIjU",
-      "channel": "FIFA",
+      "title": "Is Thomas Tuchel to blame for England's World Cup semi-final loss? 🔍 | ESPN FC Extra Time",
+      "videoId": "6pK1LSojBQg",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-15",
       "category": "Highlights",
       "team": [
-        "Argentina",
         "England"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/jRovVLxsIjU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/6pK1LSojBQg/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Argentina vs Switzerland"
     },
     {
-      "title": "England On Playing Argentina | Thomas Tuchel Takes Questions",
-      "videoId": "TFF5pZILkTA",
-      "channel": "FIFA",
+      "title": "ARGENTINA ADVANCE BACK TO WORLD CUP FINAL 🏆 Takeaways, Final preview & more! | ESPN FC",
+      "videoId": "b9VMCBVm5vU",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-15",
       "category": "Highlights",
       "team": [
-        "Argentina",
-        "England"
+        "Argentina"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/TFF5pZILkTA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/b9VMCBVm5vU/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Argentina vs Switzerland"
     },
     {
-      "title": "Highlights | France 0-2 Spain | FIFA World Cup 2026™ Semi-Finals",
-      "videoId": "_cV8QcKp3GU",
-      "channel": "FIFA",
+      "title": "Are Argentina INEVITABLE⁉️ Predicting Spain's chances to win World Cup Final | ESPN FC",
+      "videoId": "h8MwYwld2OI",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-15",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/h8MwYwld2OI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "QUARTERFINALS",
+      "fixtureTeams": "Argentina vs Switzerland"
+    },
+    {
+      "title": "France vs. England lookahead for the third place play-off at the World Cup | ESPN FC",
+      "videoId": "cyYSH9PJVfg",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-15",
       "category": "Highlights",
       "team": [
         "France",
-        "Spain"
+        "England"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_cV8QcKp3GU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/cyYSH9PJVfg/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Argentina vs Switzerland"
     },
     {
-      "title": "Lamine Yamal x Dani Olmo | That Link-up Play From Spain Was Class",
-      "videoId": "CrH5UWiX1t0",
-      "channel": "FIFA",
+      "title": "England vs. Argentina Reaction: Lionel Messi was THE MASTER – Craig Burley | ESPN FC",
+      "videoId": "C-RQ_hdgF1U",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-15",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [
-        "Spain"
+        "Argentina",
+        "England"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/CrH5UWiX1t0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/C-RQ_hdgF1U/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Argentina vs Switzerland"
@@ -391,133 +489,6 @@
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Argentina vs Switzerland"
-    },
-    {
-      "title": "🇪🇸❤️ (via @pedroporro29_/IG, @mhurtado5/IG)",
-      "videoId": "ffT3PjsCfig",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-15",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ffT3PjsCfig/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland"
-    },
-    {
-      "title": "New and intense 🙌 (via @mushkuda1/IG)",
-      "videoId": "q8mRyLcCxXY",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-15",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/q8mRyLcCxXY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland"
-    },
-    {
-      "title": "Herculez Gomez says it was 'another disappointing outing for Mbappe' 😬",
-      "videoId": "WqbTeCgZDqc",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-15",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/WqbTeCgZDqc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland"
-    },
-    {
-      "title": "England vs. Argentina! 👀",
-      "videoId": "RbOFdMPoPZ4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-15",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/RbOFdMPoPZ4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland"
-    },
-    {
-      "title": "How France's World Cup loss vs. Spain impacts Kylian Mbappe's legacy 🧐 | First Take",
-      "videoId": "7EJV79lXXz0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-15",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7EJV79lXXz0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland"
-    },
-    {
-      "title": "Pedro Porro Goal | France 0-2 Spain | FIFA World Cup 2026™ Semi-finals",
-      "videoId": "sLeb_SHYAyI",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-14",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/sLeb_SHYAyI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Norway vs England"
-    },
-    {
-      "title": "Post-Match Press Conference: Spain's Luis de la Fuente On The 2-0 Win Over France",
-      "videoId": "RwXfRidaCoo",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-14",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/RwXfRidaCoo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Norway vs England"
-    },
-    {
-      "title": "Post-Match Press Conference: France's Didier Deschamps On The 2-0 Loss To Spain",
-      "videoId": "mOH69DcoUfo",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-14",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/mOH69DcoUfo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Norway vs England"
     }
   ]
 }
