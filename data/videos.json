@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-16T17:21:49.377Z",
+  "lastUpdated": "2026-07-16T17:51:59.062Z",
   "featured": {
-    "match": "oB2mK8eJli4",
-    "highlight": "oB2mK8eJli4",
+    "match": "_cV8QcKp3GU",
+    "highlight": "_cV8QcKp3GU",
     "interview": "SWSfRmZZXII"
   },
   "videos": [
+    {
+      "title": "Highlights | France 0-2 Spain | FIFA World Cup 2026™ Semi ... - YouTube",
+      "videoId": "_cV8QcKp3GU",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-16",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_cV8QcKp3GU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "France vs Spain",
+      "source": "match-search"
+    },
+    {
+      "title": "france vs spain 2026 highlights & goals | world cup group stage ...",
+      "videoId": "7zOzKw-JuAg",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-16",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7zOzKw-JuAg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "France vs Spain",
+      "source": "match-search"
+    },
     {
       "title": "Highlights | England 1-2 Argentina | FIFA World Cup 2026™ Semi-Final",
       "videoId": "oB2mK8eJli4",
