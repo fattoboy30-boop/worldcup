@@ -1,46 +1,24 @@
 {
-  "lastUpdated": "2026-07-16T11:12:48.523Z",
+  "lastUpdated": "2026-07-16T12:22:04.505Z",
   "featured": {
-    "match": "_cV8QcKp3GU",
-    "highlight": "_cV8QcKp3GU",
+    "match": "eUTghoVagRM",
+    "highlight": "eUTghoVagRM",
     "interview": "C-RQ_hdgF1U"
   },
   "videos": [
     {
-      "title": "Highlights | France 0-2 Spain | FIFA World Cup 2026™ Semi ... - YouTube",
-      "videoId": "_cV8QcKp3GU",
-      "channel": "Web Search",
+      "title": "Most ICONIC 3rd-Place Goals In World Cup History",
+      "videoId": "eUTghoVagRM",
+      "channel": "FIFA",
       "publishedAt": "2026-07-16",
       "category": "Highlights",
-      "team": [
-        "France",
-        "Spain"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_cV8QcKp3GU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/eUTghoVagRM/mqdefault.jpg",
       "matchday": 1,
       "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain",
-      "source": "match-search"
-    },
-    {
-      "title": "france vs spain 2026 highlights & goals | world cup group stage ...",
-      "videoId": "7zOzKw-JuAg",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-16",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7zOzKw-JuAg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain",
-      "source": "match-search"
+      "fixtureTeams": "France vs Spain"
     },
     {
       "title": "July 15 Matchday Recap | #FIFAWorldCup @aramco",
@@ -83,6 +61,22 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/sVtgwbNP-Lo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "France vs Spain"
+    },
+    {
+      "title": "Lionel Messi ‘GALVANIZED’ Argentina to World Cup Final berth! | SportsCenter",
+      "videoId": "lQwdPCg3Tto",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-16",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/lQwdPCg3Tto/mqdefault.jpg",
       "matchday": 1,
       "stage": "SEMIFINALS",
       "fixtureTeams": "France vs Spain"
@@ -266,23 +260,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/-NfHRIlhQ4Y/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland"
-    },
-    {
-      "title": "Statistical Preview | England v Argentina | FIFA World Cup 2026™ Semi-finals",
-      "videoId": "TBCwcQommak",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-15",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/TBCwcQommak/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Argentina vs Switzerland"
@@ -503,23 +480,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/8-XDiE1RRv8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland"
-    },
-    {
-      "title": "THERE'S NO STOPPING MESSI ‼️ What should England's strategy be vs. Argentina? | First Take",
-      "videoId": "tenohmDnPqk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-15",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/tenohmDnPqk/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Argentina vs Switzerland"
