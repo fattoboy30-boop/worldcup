@@ -1,46 +1,24 @@
 {
-  "lastUpdated": "2026-07-16T09:04:18.768Z",
+  "lastUpdated": "2026-07-16T10:12:10.754Z",
   "featured": {
-    "match": "7zOzKw-JuAg",
-    "highlight": "7zOzKw-JuAg",
+    "match": "uVdBMqBiFKg",
+    "highlight": "uVdBMqBiFKg",
     "interview": "C-RQ_hdgF1U"
   },
   "videos": [
     {
-      "title": "france vs spain 2026 highlights & goals | world cup group stage ...",
-      "videoId": "7zOzKw-JuAg",
-      "channel": "Web Search",
+      "title": "July 15 Matchday Recap | #FIFAWorldCup @aramco",
+      "videoId": "uVdBMqBiFKg",
+      "channel": "FIFA",
       "publishedAt": "2026-07-16",
       "category": "Highlights",
-      "team": [
-        "France",
-        "Spain"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7zOzKw-JuAg/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/uVdBMqBiFKg/mqdefault.jpg",
       "matchday": 1,
       "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain",
-      "source": "match-search"
-    },
-    {
-      "title": "Full Highlights: France vs Spain World Cup 2026 - YouTube",
-      "videoId": "6PrnzEd114M",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-16",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/6PrnzEd114M/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain",
-      "source": "match-search"
+      "fixtureTeams": "France vs Spain"
     },
     {
       "title": "FIFA World Cup 2026 Final | What To Know Before You Go",
@@ -269,23 +247,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/TBCwcQommak/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland"
-    },
-    {
-      "title": "England v Argentina | Highlights From Every World Cup Meeting",
-      "videoId": "y-HZhx1eVE4",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-15",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/y-HZhx1eVE4/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Argentina vs Switzerland"
