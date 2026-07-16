@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-07-16T21:16:59.556Z",
+  "lastUpdated": "2026-07-16T22:29:05.794Z",
   "featured": {
-    "match": "_cV8QcKp3GU",
-    "highlight": "_cV8QcKp3GU",
-    "interview": "_cV8QcKp3GU"
+    "match": "XEe6Bwvdalk",
+    "highlight": "XEe6Bwvdalk",
+    "interview": "XEe6Bwvdalk"
   },
   "videos": [
+    {
+      "title": "France vs Spain | Match Highlights | Semi Final | FIFA World Cup 2026™",
+      "videoId": "XEe6Bwvdalk",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-16",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/XEe6Bwvdalk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "France vs Spain",
+      "source": "match-search"
+    },
     {
       "title": "Highlights | France 0-2 Spain | FIFA World Cup 2026™ Semi ... - YouTube",
       "videoId": "_cV8QcKp3GU",
