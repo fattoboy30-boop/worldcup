@@ -1,28 +1,27 @@
 {
-  "lastUpdated": "2026-07-17T19:32:25.802Z",
+  "lastUpdated": "2026-07-17T20:08:13.962Z",
   "featured": {
-    "match": "PvNfy84BfG4",
-    "highlight": "PvNfy84BfG4",
+    "match": "8Bra6y9EULo",
+    "highlight": "8Bra6y9EULo",
     "interview": "J7dvhnJT-y4"
   },
   "videos": [
     {
-      "title": "ARGENTINA vs ENGLAND | 2026 FIFA World Cup Highlights | 47 Match",
-      "videoId": "PvNfy84BfG4",
-      "channel": "Web Search",
+      "title": "England Train Before France | FIFA World Cup 2026™",
+      "videoId": "8Bra6y9EULo",
+      "channel": "FIFA",
       "publishedAt": "2026-07-17",
       "category": "Highlights",
       "team": [
-        "Argentina",
+        "France",
         "England"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PvNfy84BfG4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/8Bra6y9EULo/mqdefault.jpg",
       "matchday": 1,
       "stage": "SEMIFINALS",
-      "fixtureTeams": "England vs Argentina",
-      "source": "match-search"
+      "fixtureTeams": "France vs Spain"
     },
     {
       "title": "France On Playing England | Didier Deschamps Takes Questions",
@@ -159,6 +158,34 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/PsnPlc2CBLU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "France vs Spain"
+    },
+    {
+      "title": "Gerard Pique's advice to Lamine Yamal ahead of World Cup Final 👏 | SportsCenter",
+      "videoId": "HhKZnYv8Cdg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/HhKZnYv8Cdg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "France vs Spain"
+    },
+    {
+      "title": "Lionel Messi vs. Lamine Yamal EXPECTATIONS ahead of World Cup Final ⚽ | The Pat McAfee Show",
+      "videoId": "9ag_zmiusWs",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/9ag_zmiusWs/mqdefault.jpg",
       "matchday": 1,
       "stage": "SEMIFINALS",
       "fixtureTeams": "France vs Spain"
@@ -409,20 +436,6 @@
       "fixtureTeams": "France vs Spain"
     },
     {
-      "title": "Most ICONIC Bronze Final Goals In World Cup History",
-      "videoId": "eUTghoVagRM",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-16",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/eUTghoVagRM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
       "title": "What's next for England after loss to Argentina? + Lionel Messi's incredible performance | ESPN FC",
       "videoId": "J7dvhnJT-y4",
       "channel": "ESPN FC",
@@ -449,36 +462,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/ByvHsE4eaac/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
-      "title": "Liverpool need help EVERYWHERE! - Steve Nicol doesn't hold back on Liverpool criticism | ESPN FC",
-      "videoId": "nBC12lVtp7M",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-16",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/nBC12lVtp7M/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
-      "title": "Should Lionel Messi win the Ballon d'Or if Argentina win the World Cup? 👀 | ESPN FC",
-      "videoId": "wDqygkgWwQ8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-16",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/wDqygkgWwQ8/mqdefault.jpg",
       "matchday": 1,
       "stage": "SEMIFINALS",
       "fixtureTeams": "France vs Spain"
