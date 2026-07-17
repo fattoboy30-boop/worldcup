@@ -1,47 +1,11 @@
 {
-  "lastUpdated": "2026-07-16T23:28:38.313Z",
+  "lastUpdated": "2026-07-17T00:08:02.774Z",
   "featured": {
-    "match": "_cV8QcKp3GU",
-    "highlight": "_cV8QcKp3GU",
-    "interview": "_cV8QcKp3GU"
+    "match": "vtTpwTKwe6U",
+    "highlight": "vtTpwTKwe6U",
+    "interview": "J7dvhnJT-y4"
   },
   "videos": [
-    {
-      "title": "Highlights | France 0-2 Spain | FIFA World Cup 2026™ Semi ... - YouTube",
-      "videoId": "_cV8QcKp3GU",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-16",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_cV8QcKp3GU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain",
-      "source": "match-search"
-    },
-    {
-      "title": "france vs spain 2026 highlights & goals | world cup group stage ...",
-      "videoId": "7zOzKw-JuAg",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-16",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7zOzKw-JuAg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain",
-      "source": "match-search"
-    },
     {
       "title": "Argentina v Switzerland: Alvarez Extra-Time Strike | Ref's POV | Powered by Lenovo",
       "videoId": "vtTpwTKwe6U",
@@ -179,6 +143,51 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/sVtgwbNP-Lo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "France vs Spain"
+    },
+    {
+      "title": "What's next for England after loss to Argentina? + Lionel Messi's incredible performance | ESPN FC",
+      "videoId": "J7dvhnJT-y4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-16",
+      "category": "Viral",
+      "team": [
+        "Argentina",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/J7dvhnJT-y4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "France vs Spain"
+    },
+    {
+      "title": "REACTION to Bellingham confronting Messi and slapping Barco after the game 🍿 | ESPN FC Extra Time",
+      "videoId": "ByvHsE4eaac",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-16",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ByvHsE4eaac/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "France vs Spain"
+    },
+    {
+      "title": "Liverpool need help EVERYWHERE! - Steve Nicol doesn't hold back on Liverpool criticism | ESPN FC",
+      "videoId": "nBC12lVtp7M",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-16",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/nBC12lVtp7M/mqdefault.jpg",
       "matchday": 1,
       "stage": "SEMIFINALS",
       "fixtureTeams": "France vs Spain"
@@ -366,56 +375,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/Rc_EQZ9VtF4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
-      "title": "Argentina in a late-game situation ✍️📈",
-      "videoId": "UpNMkfCX44A",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-16",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/UpNMkfCX44A/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
-      "title": "'Argentina didn't win, England lost!' 😧",
-      "videoId": "ZV5d-1gPy10",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-16",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ZV5d-1gPy10/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
-      "title": "Thomas Muller's analysis of England vs. Argentina 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇦🇷 (via @esmuellert/TT)",
-      "videoId": "kG3eeIKCN6Q",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-16",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/kG3eeIKCN6Q/mqdefault.jpg",
       "matchday": 1,
       "stage": "SEMIFINALS",
       "fixtureTeams": "France vs Spain"
