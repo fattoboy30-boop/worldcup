@@ -1,28 +1,44 @@
 {
-  "lastUpdated": "2026-07-17T22:31:49.716Z",
+  "lastUpdated": "2026-07-17T22:55:05.987Z",
   "featured": {
-    "match": "PvNfy84BfG4",
-    "highlight": "PvNfy84BfG4",
-    "interview": "J7dvhnJT-y4"
+    "match": "fawqas178Fk",
+    "highlight": "fawqas178Fk",
+    "interview": "fawqas178Fk"
   },
   "videos": [
     {
-      "title": "ARGENTINA vs ENGLAND | 2026 FIFA World Cup Highlights | 47 Match",
-      "videoId": "PvNfy84BfG4",
-      "channel": "Web Search",
+      "title": "France Train Before England | FIFA World Cup 2026™",
+      "videoId": "fawqas178Fk",
+      "channel": "FIFA",
       "publishedAt": "2026-07-17",
       "category": "Highlights",
       "team": [
-        "Argentina",
+        "France",
         "England"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PvNfy84BfG4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/fawqas178Fk/mqdefault.jpg",
       "matchday": 1,
       "stage": "SEMIFINALS",
-      "fixtureTeams": "England vs Argentina",
-      "source": "match-search"
+      "fixtureTeams": "France vs Spain"
+    },
+    {
+      "title": "Spain beats France to reach Final | Ref's POV | Powered by Lenovo",
+      "videoId": "SRDRq190M-Y",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-17",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/SRDRq190M-Y/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "France vs Spain"
     },
     {
       "title": "World Cup Rematch: Argentina 2-1 Spain | 1966 Classic",
@@ -198,6 +214,71 @@
       "fixtureTeams": "France vs Spain"
     },
     {
+      "title": "Michael Olise linked with Real Madrid 🚨 Will FC Bayern sell him? | ESPN FC",
+      "videoId": "Kzf8sLO0eKU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Kzf8sLO0eKU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "France vs Spain"
+    },
+    {
+      "title": "‘I don’t see the value!’ 😳 Shaka Hislop on France vs. England in the third-place playoff | ESPN FC",
+      "videoId": "pEM8zdqWVuQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-17",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/pEM8zdqWVuQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "France vs Spain"
+    },
+    {
+      "title": "World Cup final is Spain's TALENT vs. Argentina's PURE GRIT! - Shaka Hislop | ESPN FC",
+      "videoId": "v8CMz-u2rzk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-17",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/v8CMz-u2rzk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "France vs Spain"
+    },
+    {
+      "title": "ESPN FC reacts to Thomas Tuchel having ‘zero regrets’ after England’s loss to Argentina",
+      "videoId": "SGtq5tVVW8U",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-17",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/SGtq5tVVW8U/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "France vs Spain"
+    },
+    {
       "title": "Gerard Pique's advice to Lamine Yamal ahead of World Cup Final 👏 | SportsCenter",
       "videoId": "HhKZnYv8Cdg",
       "channel": "ESPN FC",
@@ -357,38 +438,6 @@
       "fixtureTeams": "France vs Spain"
     },
     {
-      "title": "Pep Guardiola IN for England?? 🔁",
-      "videoId": "MuJ1cgstXaQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-17",
-      "category": "Highlights",
-      "team": [
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/MuJ1cgstXaQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
-      "title": "Boston was France’s World Cup base camp ❤️ (via Equipe de France/TT)",
-      "videoId": "cOVA9ud2P4o",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-17",
-      "category": "Highlights",
-      "team": [
-        "France"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/cOVA9ud2P4o/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
       "title": "Argentina v Switzerland: Alvarez Extra-Time Strike | Ref's POV | Powered by Lenovo",
       "videoId": "vtTpwTKwe6U",
       "channel": "FIFA",
@@ -418,68 +467,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/oB2mK8eJli4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
-      "title": "Hyundai Goal of the Tournament | Best of the Quarter-finals and Semi-finals | FIFA World Cup 2026™",
-      "videoId": "WyN5h9ZtFOQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-16",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/WyN5h9ZtFOQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
-      "title": "Spain and Argentina are FIFA World Cup 2026™ finalists!",
-      "videoId": "rLJgiavsJxc",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-16",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/rLJgiavsJxc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
-      "title": "What's next for England after loss to Argentina? + Lionel Messi's incredible performance | ESPN FC",
-      "videoId": "J7dvhnJT-y4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-16",
-      "category": "Viral",
-      "team": [
-        "Argentina",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/J7dvhnJT-y4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
-      "title": "REACTION to Bellingham confronting Messi and slapping Barco after the game 🍿 | ESPN FC Extra Time",
-      "videoId": "ByvHsE4eaac",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-16",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ByvHsE4eaac/mqdefault.jpg",
       "matchday": 1,
       "stage": "SEMIFINALS",
       "fixtureTeams": "France vs Spain"
