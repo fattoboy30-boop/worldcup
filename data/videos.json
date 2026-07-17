@@ -1,46 +1,26 @@
 {
-  "lastUpdated": "2026-07-17T08:57:53.577Z",
+  "lastUpdated": "2026-07-17T10:01:23.858Z",
   "featured": {
-    "match": "k16sFVnuP8o",
-    "highlight": "k16sFVnuP8o",
+    "match": "Wah-wKHlUv8",
+    "highlight": "Wah-wKHlUv8",
     "interview": "J7dvhnJT-y4"
   },
   "videos": [
     {
-      "title": "Argentina vs England | 2026 FIFA World Cup Highlights | 17 Match",
-      "videoId": "k16sFVnuP8o",
-      "channel": "Web Search",
+      "title": "Team Feature: England | The Journey",
+      "videoId": "Wah-wKHlUv8",
+      "channel": "FIFA",
       "publishedAt": "2026-07-17",
       "category": "Highlights",
       "team": [
-        "Argentina",
         "England"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/k16sFVnuP8o/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Wah-wKHlUv8/mqdefault.jpg",
       "matchday": 1,
       "stage": "SEMIFINALS",
-      "fixtureTeams": "England vs Argentina",
-      "source": "match-search"
-    },
-    {
-      "title": "ARGENTINA vs ENGLAND | 2026 FIFA World Cup Highlights | 47 Match",
-      "videoId": "PvNfy84BfG4",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-17",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PvNfy84BfG4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "England vs Argentina",
-      "source": "match-search"
+      "fixtureTeams": "France vs Spain"
     },
     {
       "title": "ALL-TIME: Top FINAL Goals In World Cup History",
@@ -485,23 +465,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/k_4ESkBXDeg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "QUARTERFINALS",
-      "fixtureTeams": "Argentina vs Switzerland"
-    },
-    {
-      "title": "Enzo Fernandez Goal | England 1-2 Argentina | FIFA World Cup 2026™",
-      "videoId": "FX6U44FG1Ho",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-15",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FX6U44FG1Ho/mqdefault.jpg",
       "matchday": 1,
       "stage": "QUARTERFINALS",
       "fixtureTeams": "Argentina vs Switzerland"
