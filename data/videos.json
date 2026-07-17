@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-17T00:08:02.774Z",
+  "lastUpdated": "2026-07-17T01:04:58.066Z",
   "featured": {
-    "match": "vtTpwTKwe6U",
-    "highlight": "vtTpwTKwe6U",
+    "match": "YrYfctUrb2g",
+    "highlight": "YrYfctUrb2g",
     "interview": "J7dvhnJT-y4"
   },
   "videos": [
+    {
+      "title": "ENGLAND 1-2 ARGENTINA Highlights & All Goals | FIFA World Cup 2026 ...",
+      "videoId": "YrYfctUrb2g",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-17",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/YrYfctUrb2g/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "England vs Argentina",
+      "source": "match-search"
+    },
+    {
+      "title": "Argentina vs England | 2026 FIFA World Cup Highlights | 17 Match",
+      "videoId": "k16sFVnuP8o",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-17",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/k16sFVnuP8o/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "England vs Argentina",
+      "source": "match-search"
+    },
     {
       "title": "Argentina v Switzerland: Alvarez Extra-Time Strike | Ref's POV | Powered by Lenovo",
       "videoId": "vtTpwTKwe6U",
