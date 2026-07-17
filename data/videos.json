@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-07-17T20:08:13.962Z",
+  "lastUpdated": "2026-07-17T20:32:39.829Z",
   "featured": {
-    "match": "8Bra6y9EULo",
-    "highlight": "8Bra6y9EULo",
+    "match": "y-4saPWrPt0",
+    "highlight": "y-4saPWrPt0",
     "interview": "J7dvhnJT-y4"
   },
   "videos": [
+    {
+      "title": "England vs Argentina Highlights 2026 FIFA World Cup ... - YouTube",
+      "videoId": "y-4saPWrPt0",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-17",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/y-4saPWrPt0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "England vs Argentina",
+      "source": "match-search"
+    },
     {
       "title": "England Train Before France | FIFA World Cup 2026™",
       "videoId": "8Bra6y9EULo",
