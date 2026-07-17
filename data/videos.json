@@ -1,28 +1,27 @@
 {
-  "lastUpdated": "2026-07-17T15:39:20.076Z",
+  "lastUpdated": "2026-07-17T16:17:42.035Z",
   "featured": {
-    "match": "k16sFVnuP8o",
-    "highlight": "k16sFVnuP8o",
+    "match": "4k4E4VbCuk0",
+    "highlight": "4k4E4VbCuk0",
     "interview": "J7dvhnJT-y4"
   },
   "videos": [
     {
-      "title": "Argentina vs England | 2026 FIFA World Cup Highlights | 17 Match",
-      "videoId": "k16sFVnuP8o",
-      "channel": "Web Search",
+      "title": "World Cup Rematch: England 2-0 France | 1966 Triumph",
+      "videoId": "4k4E4VbCuk0",
+      "channel": "FIFA",
       "publishedAt": "2026-07-17",
       "category": "Highlights",
       "team": [
-        "Argentina",
+        "France",
         "England"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/k16sFVnuP8o/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/4k4E4VbCuk0/mqdefault.jpg",
       "matchday": 1,
       "stage": "SEMIFINALS",
-      "fixtureTeams": "England vs Argentina",
-      "source": "match-search"
+      "fixtureTeams": "France vs Spain"
     },
     {
       "title": "Team Feature: France | Flair And Skill",
@@ -111,6 +110,20 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/PsnPlc2CBLU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "France vs Spain"
+    },
+    {
+      "title": "Stephen A. Smith likens Lionel Messi to Michael Jordan 👀 | First Take",
+      "videoId": "quSsP634G3Q",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/quSsP634G3Q/mqdefault.jpg",
       "matchday": 1,
       "stage": "SEMIFINALS",
       "fixtureTeams": "France vs Spain"
@@ -361,23 +374,6 @@
       "fixtureTeams": "France vs Spain"
     },
     {
-      "title": "Lautaro Martinez Goal | England 1-2 Argentina",
-      "videoId": "sVtgwbNP-Lo",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-16",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/sVtgwbNP-Lo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
       "title": "What's next for England after loss to Argentina? + Lionel Messi's incredible performance | ESPN FC",
       "videoId": "J7dvhnJT-y4",
       "channel": "ESPN FC",
@@ -468,20 +464,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/3dzW55wXpgE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
-      "title": "Messi's BRILLIANCE and Jordan Pickford's water bottle with Taylor Twellman! ⚽ | The Rich Eisen Show",
-      "videoId": "1Z0rJkVR-9A",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-16",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/1Z0rJkVR-9A/mqdefault.jpg",
       "matchday": 1,
       "stage": "SEMIFINALS",
       "fixtureTeams": "France vs Spain"
