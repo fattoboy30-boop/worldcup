@@ -1,28 +1,41 @@
 {
-  "lastUpdated": "2026-07-17T16:46:58.166Z",
+  "lastUpdated": "2026-07-17T18:08:18.560Z",
   "featured": {
-    "match": "k16sFVnuP8o",
-    "highlight": "k16sFVnuP8o",
+    "match": "686_bAx_BP4",
+    "highlight": "686_bAx_BP4",
     "interview": "J7dvhnJT-y4"
   },
   "videos": [
     {
-      "title": "Argentina vs England | 2026 FIFA World Cup Highlights | 17 Match",
-      "videoId": "k16sFVnuP8o",
-      "channel": "Web Search",
+      "title": "France On Playing England | Didier Deschamps Takes Questions",
+      "videoId": "686_bAx_BP4",
+      "channel": "FIFA",
       "publishedAt": "2026-07-17",
       "category": "Highlights",
       "team": [
-        "Argentina",
+        "France",
         "England"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/k16sFVnuP8o/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/686_bAx_BP4/mqdefault.jpg",
       "matchday": 1,
       "stage": "SEMIFINALS",
-      "fixtureTeams": "England vs Argentina",
-      "source": "match-search"
+      "fixtureTeams": "France vs Spain"
+    },
+    {
+      "title": "Danny Ocean, FIFA Sound - Partidazo (FIFA World Cup 2026™) [Official Music Video]",
+      "videoId": "Y3yPNc92TUQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Y3yPNc92TUQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "France vs Spain"
     },
     {
       "title": "World Cup Rematch: England 2-0 France | 1966 Triumph",
@@ -128,6 +141,34 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/PsnPlc2CBLU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "France vs Spain"
+    },
+    {
+      "title": "Messi and Yamal have Speed speaking Spanish (via IShowSpeed/YT)",
+      "videoId": "XL8sAfhyCvU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/XL8sAfhyCvU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "France vs Spain"
+    },
+    {
+      "title": "Lionel Messi very relaxed 😌 🐐 (via scespn/IG)",
+      "videoId": "JitREyen6xQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JitREyen6xQ/mqdefault.jpg",
       "matchday": 1,
       "stage": "SEMIFINALS",
       "fixtureTeams": "France vs Spain"
@@ -364,34 +405,6 @@
       "fixtureTeams": "France vs Spain"
     },
     {
-      "title": "July 15 Matchday Recap | #FIFAWorldCup @aramco",
-      "videoId": "uVdBMqBiFKg",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-16",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/uVdBMqBiFKg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
-      "title": "FIFA World Cup 2026 Final | What To Know Before You Go",
-      "videoId": "nU2DLhkp_ig",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-16",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/nU2DLhkp_ig/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
       "title": "What's next for England after loss to Argentina? + Lionel Messi's incredible performance | ESPN FC",
       "videoId": "J7dvhnJT-y4",
       "channel": "ESPN FC",
@@ -448,40 +461,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/wDqygkgWwQ8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
-      "title": "Thomas Tuchel ‘FAILED’ England vs. Argentina 😳 Should England sack him? | ESPN FC",
-      "videoId": "mzf30s6KS90",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-16",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/mzf30s6KS90/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
-      "title": "Tim Ream assesses the USMNT's World Cup and previews Spain 🆚 Argentina final | The Pat McAfee Show",
-      "videoId": "3dzW55wXpgE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-16",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/3dzW55wXpgE/mqdefault.jpg",
       "matchday": 1,
       "stage": "SEMIFINALS",
       "fixtureTeams": "France vs Spain"
