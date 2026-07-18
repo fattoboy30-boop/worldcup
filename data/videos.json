@@ -1,48 +1,11 @@
 {
-  "lastUpdated": "2026-07-18T15:56:08.839Z",
+  "lastUpdated": "2026-07-18T16:02:42.609Z",
   "featured": {
-    "match": "p7Rk1DF5Hwc",
-    "highlight": "p7Rk1DF5Hwc",
-    "interview": "p7Rk1DF5Hwc"
+    "match": "081QeieYSoE",
+    "highlight": "081QeieYSoE",
+    "interview": "081QeieYSoE"
   },
   "videos": [
-    {
-      "title": "WATCH FIFA SEMI FINAL | France vs England | FIFA World Cup 2026 Third ...",
-      "videoId": "p7Rk1DF5Hwc",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-18",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/p7Rk1DF5Hwc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England",
-      "source": "match-search"
-    },
-    {
-      "title": "2026 FIFA World Cup Semi-Finals Preview | England vs Argentina, France ...",
-      "videoId": "WAzXGXAClk0",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-18",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "France",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/WAzXGXAClk0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England",
-      "source": "match-search"
-    },
     {
       "title": "Statistical Preview | France v England | FIFA World Cup 2026™ Bronze Final",
       "videoId": "081QeieYSoE",
@@ -181,6 +144,38 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/aU8EnxPaLxE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "England vs Argentina"
+    },
+    {
+      "title": "🚨 Didier Deschamps to step down as France manager after 14 years 🚨 | ESPN FC",
+      "videoId": "rckE2KT9fP0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-18",
+      "category": "Highlights",
+      "team": [
+        "France"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/rckE2KT9fP0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "England vs Argentina"
+    },
+    {
+      "title": "‘A scary proposition!’ - Nedum Onuoha on Argentina’s underdog status in World Cup Final | ESPN FC",
+      "videoId": "nV2DuCXk-ys",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-18",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/nV2DuCXk-ys/mqdefault.jpg",
       "matchday": 1,
       "stage": "SEMIFINALS",
       "fixtureTeams": "England vs Argentina"
@@ -481,34 +476,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/JitREyen6xQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
-      "title": "Stephen A. Smith likens Lionel Messi to Michael Jordan 👀 | First Take",
-      "videoId": "quSsP634G3Q",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-17",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/quSsP634G3Q/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
-      "title": "The 2026 World Cup winner is... @michelobultra",
-      "videoId": "h1LnP6W5LAs",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-17",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/h1LnP6W5LAs/mqdefault.jpg",
       "matchday": 1,
       "stage": "SEMIFINALS",
       "fixtureTeams": "France vs Spain"
