@@ -1,47 +1,27 @@
 {
-  "lastUpdated": "2026-07-18T18:00:26.270Z",
+  "lastUpdated": "2026-07-18T19:16:24.001Z",
   "featured": {
-    "match": "p7Rk1DF5Hwc",
-    "highlight": "p7Rk1DF5Hwc",
+    "match": "vodzpBJQs-c",
+    "highlight": "vodzpBJQs-c",
     "interview": "MOFi1DXkyog"
   },
   "videos": [
     {
-      "title": "WATCH FIFA SEMI FINAL | France vs England | FIFA World Cup 2026 Third ...",
-      "videoId": "p7Rk1DF5Hwc",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-18",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/p7Rk1DF5Hwc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England",
-      "source": "match-search"
-    },
-    {
-      "title": "2026 FIFA World Cup Semi-Finals Preview | England vs Argentina, France ...",
-      "videoId": "WAzXGXAClk0",
-      "channel": "Web Search",
+      "title": "Argentina Train Before Spain | FIFA World Cup 2026™",
+      "videoId": "vodzpBJQs-c",
+      "channel": "FIFA",
       "publishedAt": "2026-07-18",
       "category": "Highlights",
       "team": [
         "Argentina",
-        "France",
-        "England"
+        "Spain"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/WAzXGXAClk0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/vodzpBJQs-c/mqdefault.jpg",
       "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England",
-      "source": "match-search"
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "England vs Argentina"
     },
     {
       "title": "Julián Alvarez is your Quarter-finals & Semi-finals Goal of the Tournament winner! 🚀⚽",
@@ -416,23 +396,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/-6P2I1dCYNc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
-      "title": "England Train Before France | FIFA World Cup 2026™",
-      "videoId": "8Bra6y9EULo",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-17",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/8Bra6y9EULo/mqdefault.jpg",
       "matchday": 1,
       "stage": "SEMIFINALS",
       "fixtureTeams": "France vs Spain"
