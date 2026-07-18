@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-07-18T22:53:34.958Z",
+  "lastUpdated": "2026-07-18T23:25:46.560Z",
   "featured": {
-    "match": "AHtGjubzJbM",
-    "highlight": "AHtGjubzJbM",
+    "match": "M5htwKBRuZ8",
+    "highlight": "M5htwKBRuZ8",
     "interview": "MOFi1DXkyog"
   },
   "videos": [
+    {
+      "title": "Match Highlights | FIFA World Cup 2026™ - YouTube",
+      "videoId": "M5htwKBRuZ8",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-18",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/M5htwKBRuZ8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England",
+      "source": "match-search"
+    },
     {
       "title": "From eight down to two! 😮 | FIFA Fan Festival | Best of Week 5",
       "videoId": "AHtGjubzJbM",

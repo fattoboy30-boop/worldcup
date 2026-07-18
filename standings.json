@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T23:01:54.668Z",
+  "lastUpdated": "2026-07-18T23:25:41.737Z",
   "groups": {
     "A": {
       "teams": [
@@ -688,15 +688,28 @@
         {
           "name": "France",
           "code": "fr",
-          "played": 6,
+          "played": 7,
           "won": 5,
           "drawn": 0,
-          "lost": 1,
-          "gf": 15,
-          "ga": 4,
-          "gd": 11,
+          "lost": 2,
+          "gf": 19,
+          "ga": 10,
+          "gd": 9,
           "points": 15,
           "position": 1
+        },
+        {
+          "name": "England",
+          "code": "gb-eng",
+          "played": 2,
+          "won": 2,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 8,
+          "ga": 5,
+          "gd": 3,
+          "points": 6,
+          "position": 2
         },
         {
           "name": "Norway",
@@ -709,7 +722,7 @@
           "ga": 9,
           "gd": 0,
           "points": 6,
-          "position": 2
+          "position": 3
         },
         {
           "name": "Senegal",
@@ -722,7 +735,7 @@
           "ga": 6,
           "gd": 2,
           "points": 3,
-          "position": 3
+          "position": 4
         },
         {
           "name": "Spain",
@@ -734,19 +747,6 @@
           "gf": 2,
           "ga": 0,
           "gd": 2,
-          "points": 3,
-          "position": 4
-        },
-        {
-          "name": "England",
-          "code": "gb-eng",
-          "played": 1,
-          "won": 1,
-          "drawn": 0,
-          "lost": 0,
-          "gf": 2,
-          "ga": 1,
-          "gd": 1,
           "points": 3,
           "position": 5
         },

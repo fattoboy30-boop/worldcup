@@ -1,30 +1,6 @@
 {
-  "lastUpdated": "2026-07-18T23:01:54.662Z",
-  "liveMatches": [
-    {
-      "id": 760516,
-      "date": "2026-07-18",
-      "time": "21:00",
-      "utcDate": "2026-07-18T21:00Z",
-      "homeTeam": "France",
-      "homeCode": "fr",
-      "homeScore": 4,
-      "awayTeam": "England",
-      "awayCode": "gb-eng",
-      "awayScore": 6,
-      "venue": "Hard Rock Stadium",
-      "city": "Miami Gardens, Florida",
-      "status": "in_play",
-      "group": "I",
-      "stage": "3RD_PLACE_MATCH",
-      "matchday": 0,
-      "minute": "90'+9'",
-      "halfTime": [
-        null,
-        null
-      ]
-    }
-  ],
+  "lastUpdated": "2026-07-18T23:25:41.733Z",
+  "liveMatches": [],
   "recentResults": [
     {
       "id": 760415,
@@ -2365,6 +2341,29 @@
       "status": "finished",
       "group": "L",
       "stage": "SEMIFINALS",
+      "matchday": 0,
+      "minute": null,
+      "halfTime": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": 760516,
+      "date": "2026-07-18",
+      "time": "21:00",
+      "utcDate": "2026-07-18T21:00Z",
+      "homeTeam": "France",
+      "homeCode": "fr",
+      "homeScore": 4,
+      "awayTeam": "England",
+      "awayCode": "gb-eng",
+      "awayScore": 6,
+      "venue": "Hard Rock Stadium",
+      "city": "Miami Gardens, Florida",
+      "status": "finished",
+      "group": "I",
+      "stage": "3RD_PLACE_MATCH",
       "matchday": 0,
       "minute": null,
       "halfTime": [

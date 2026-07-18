@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T23:01:54.665Z",
+  "lastUpdated": "2026-07-18T23:25:41.735Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2564,11 +2564,11 @@
       "awayScore": 6,
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens, Florida",
-      "status": "in_play",
+      "status": "finished",
       "group": "I",
       "stage": "3RD_PLACE_MATCH",
       "matchday": 0,
-      "minute": "90'+9'",
+      "minute": null,
       "halfTime": [
         null,
         null
