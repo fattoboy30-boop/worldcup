@@ -1,11 +1,73 @@
 {
-  "lastUpdated": "2026-07-17T23:55:37.711Z",
+  "lastUpdated": "2026-07-18T02:50:31.774Z",
   "featured": {
-    "match": "PAer7GKJ_ks",
-    "highlight": "PAer7GKJ_ks",
-    "interview": "PAer7GKJ_ks"
+    "match": "j4U6KdB4cI0",
+    "highlight": "j4U6KdB4cI0",
+    "interview": "j4U6KdB4cI0"
   },
   "videos": [
+    {
+      "title": "England On Playing France | Thomas Tuchel & John Stones Take Questions",
+      "videoId": "j4U6KdB4cI0",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-18",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/j4U6KdB4cI0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "England vs Argentina"
+    },
+    {
+      "title": "The Final is on the horizon! New York New Jersey is ready. 🏆🇪🇸🇦🇷 #novaskystories",
+      "videoId": "UDTR-jxaPPg",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-18",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/UDTR-jxaPPg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "England vs Argentina"
+    },
+    {
+      "title": "Argentina On Playing Spain | Lionel Scaloni Takes Questions",
+      "videoId": "DV_N80QxPDY",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-18",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/DV_N80QxPDY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "England vs Argentina"
+    },
+    {
+      "title": "Kaka’s favourite FIFA World Cup 2026™ moments and Vieri’s dream team",
+      "videoId": "aU8EnxPaLxE",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-18",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/aU8EnxPaLxE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "England vs Argentina"
+    },
     {
       "title": "Spain On Playing Argentina | Luis De La Fuente Takes Questions",
       "videoId": "PAer7GKJ_ks",
@@ -186,52 +248,26 @@
       "fixtureTeams": "France vs Spain"
     },
     {
-      "title": "Best Ever Bronze Final Goals In FIFA World Cup History",
-      "videoId": "KDzpyZT_HLk",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-17",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/KDzpyZT_HLk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
-      "title": "The legacy of FIFA World Cup 2026™ | MLS Commissioner D. Garber & Concacaf President V. Montagliani",
-      "videoId": "oCtrWaUKRmM",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-17",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/oCtrWaUKRmM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
-      "title": "World Cup Rematch: England 1-2 France | 2022 Drama",
-      "videoId": "PsnPlc2CBLU",
-      "channel": "FIFA",
+      "title": "Previewing World Cup Final Weekend 👀 Spain vs. Argentina & France vs. England | ESPN FC",
+      "videoId": "fMmCE2SO8ZI",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-17",
       "category": "Highlights",
       "team": [
+        "Argentina",
         "France",
-        "England"
+        "England",
+        "Spain"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PsnPlc2CBLU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/fMmCE2SO8ZI/mqdefault.jpg",
       "matchday": 1,
       "stage": "SEMIFINALS",
       "fixtureTeams": "France vs Spain"
     },
     {
-      "title": "Lionel Messi loved it 🤝",
+      "title": "Lionel Messi loved it ����",
       "videoId": "rfrUBG9gCaM",
       "channel": "ESPN FC",
       "publishedAt": "2026-07-17",
@@ -433,40 +469,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/QffL66QjRM8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
-      "title": "Who will win the World Cup, Argentina or Spain? 👀",
-      "videoId": "ptzyTke1kWU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-17",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ptzyTke1kWU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
-      "title": "Argentina v Switzerland: Alvarez Extra-Time Strike | Ref's POV | Powered by Lenovo",
-      "videoId": "vtTpwTKwe6U",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-16",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Switzerland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vtTpwTKwe6U/mqdefault.jpg",
       "matchday": 1,
       "stage": "SEMIFINALS",
       "fixtureTeams": "France vs Spain"
