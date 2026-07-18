@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-07-18T07:56:57.339Z",
+  "lastUpdated": "2026-07-18T09:40:57.152Z",
   "featured": {
-    "match": "BLTshrPaesE",
-    "highlight": "BLTshrPaesE",
-    "interview": "BLTshrPaesE"
+    "match": "VGXwL9pX2cA",
+    "highlight": "VGXwL9pX2cA",
+    "interview": "VGXwL9pX2cA"
   },
   "videos": [
+    {
+      "title": "Team Feature: Argentina | Resilience & Brilliance of La Albiceleste",
+      "videoId": "VGXwL9pX2cA",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-18",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/VGXwL9pX2cA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "England vs Argentina"
+    },
     {
       "title": "World Cup Rematch: England 3-1 France | 1982 Robson Show",
       "videoId": "BLTshrPaesE",
@@ -230,22 +246,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/vg50jOFb5vs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
-      "title": "Team Feature: England | The Journey",
-      "videoId": "Wah-wKHlUv8",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-17",
-      "category": "Highlights",
-      "team": [
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Wah-wKHlUv8/mqdefault.jpg",
       "matchday": 1,
       "stage": "SEMIFINALS",
       "fixtureTeams": "France vs Spain"
