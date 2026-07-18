@@ -1,47 +1,24 @@
 {
-  "lastUpdated": "2026-07-18T16:58:28.888Z",
+  "lastUpdated": "2026-07-18T17:57:36.415Z",
   "featured": {
-    "match": "p7Rk1DF5Hwc",
-    "highlight": "p7Rk1DF5Hwc",
-    "interview": "p7Rk1DF5Hwc"
+    "match": "hJhcBk0wGR0",
+    "highlight": "hJhcBk0wGR0",
+    "interview": "MOFi1DXkyog"
   },
   "videos": [
     {
-      "title": "WATCH FIFA SEMI FINAL | France vs England | FIFA World Cup 2026 Third ...",
-      "videoId": "p7Rk1DF5Hwc",
-      "channel": "Web Search",
+      "title": "Julián Alvarez is your Quarter-finals & Semi-finals Goal of the Tournament winner! 🚀⚽",
+      "videoId": "hJhcBk0wGR0",
+      "channel": "FIFA",
       "publishedAt": "2026-07-18",
       "category": "Highlights",
-      "team": [
-        "France",
-        "England"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/p7Rk1DF5Hwc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/hJhcBk0wGR0/mqdefault.jpg",
       "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England",
-      "source": "match-search"
-    },
-    {
-      "title": "2026 FIFA World Cup Semi-Finals Preview | England vs Argentina, France ...",
-      "videoId": "WAzXGXAClk0",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-18",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "France",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/WAzXGXAClk0/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England",
-      "source": "match-search"
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "England vs Argentina"
     },
     {
       "title": "Statistical Preview | France v England | FIFA World Cup 2026™ Bronze Final",
@@ -181,6 +158,97 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/aU8EnxPaLxE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "England vs Argentina"
+    },
+    {
+      "title": "BOLD PREDICTIONS for Argentina vs. Spain!? 👀 + England vs. France & Tuchel's controversy | ESPN FC",
+      "videoId": "9-UAc-Aaua8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-18",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "France",
+        "England",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/9-UAc-Aaua8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "England vs Argentina"
+    },
+    {
+      "title": "Good luck stopping Lamine Yamal 🔥",
+      "videoId": "xewq1jKAeqo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-18",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xewq1jKAeqo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "England vs Argentina"
+    },
+    {
+      "title": "Reflecting on the best moments of the 2026 FIFA World Cup ⚽ | ESPN FC",
+      "videoId": "MOFi1DXkyog",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-18",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/MOFi1DXkyog/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "England vs Argentina"
+    },
+    {
+      "title": "World Cup Final Predictions: Animal Edition 🐶⚽🐢",
+      "videoId": "iBiEIoHgiy8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-18",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/iBiEIoHgiy8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "England vs Argentina"
+    },
+    {
+      "title": "Will Mauricio Pochettino return to USMNT? 🤔 He's weighing his options elsewhere - Moreno | ESPN FC",
+      "videoId": "Bwz3fPQKa8o",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-18",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Bwz3fPQKa8o/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "England vs Argentina"
+    },
+    {
+      "title": "Julien Laurens calls for England to SACK Thomas Tuchel 🚨| ESPN FC",
+      "videoId": "abInVH3NJSM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-18",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/abInVH3NJSM/mqdefault.jpg",
       "matchday": 1,
       "stage": "SEMIFINALS",
       "fixtureTeams": "England vs Argentina"
@@ -333,23 +401,6 @@
       "fixtureTeams": "France vs Spain"
     },
     {
-      "title": "France On Playing England | Didier Deschamps Takes Questions",
-      "videoId": "686_bAx_BP4",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-17",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/686_bAx_BP4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
       "title": "Previewing World Cup Final Weekend 👀 Spain vs. Argentina & France vs. England | ESPN FC",
       "videoId": "fMmCE2SO8ZI",
       "channel": "ESPN FC",
@@ -423,96 +474,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/pEM8zdqWVuQ/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
-      "title": "World Cup final is Spain's TALENT vs. Argentina's PURE GRIT! - Shaka Hislop | ESPN FC",
-      "videoId": "v8CMz-u2rzk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-17",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/v8CMz-u2rzk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
-      "title": "ESPN FC reacts to Thomas Tuchel having ‘zero regrets’ after England’s loss to Argentina",
-      "videoId": "SGtq5tVVW8U",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-17",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/SGtq5tVVW8U/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
-      "title": "Gerard Pique's advice to Lamine Yamal ahead of World Cup Final 👏 | SportsCenter",
-      "videoId": "HhKZnYv8Cdg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-17",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/HhKZnYv8Cdg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
-      "title": "Lionel Messi vs. Lamine Yamal EXPECTATIONS ahead of World Cup Final ⚽ | The Pat McAfee Show",
-      "videoId": "9ag_zmiusWs",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-17",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/9ag_zmiusWs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
-      "title": "Messi and Yamal have Speed speaking Spanish (via IShowSpeed/YT)",
-      "videoId": "XL8sAfhyCvU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-17",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/XL8sAfhyCvU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
-      "title": "Lionel Messi very relaxed 😌 🐐 (via scespn/IG)",
-      "videoId": "JitREyen6xQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-17",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/JitREyen6xQ/mqdefault.jpg",
       "matchday": 1,
       "stage": "SEMIFINALS",
       "fixtureTeams": "France vs Spain"
