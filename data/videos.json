@@ -1,11 +1,30 @@
 {
-  "lastUpdated": "2026-07-18T09:56:00.768Z",
+  "lastUpdated": "2026-07-18T11:04:20.512Z",
   "featured": {
-    "match": "lG7sPdguzyg",
-    "highlight": "lG7sPdguzyg",
-    "interview": "lG7sPdguzyg"
+    "match": "WAzXGXAClk0",
+    "highlight": "WAzXGXAClk0",
+    "interview": "WAzXGXAClk0"
   },
   "videos": [
+    {
+      "title": "2026 FIFA World Cup Semi-Finals Preview | England vs Argentina, France ...",
+      "videoId": "WAzXGXAClk0",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-18",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "France",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/WAzXGXAClk0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England",
+      "source": "match-search"
+    },
     {
       "title": "France vs England Third Place Match Preview: Predictions - YouTube",
       "videoId": "lG7sPdguzyg",
