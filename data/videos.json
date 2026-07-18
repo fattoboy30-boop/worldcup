@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-18T21:54:28.449Z",
+  "lastUpdated": "2026-07-18T22:23:12.960Z",
   "featured": {
-    "match": "AHtGjubzJbM",
-    "highlight": "AHtGjubzJbM",
+    "match": "HV6fuWqK75k",
+    "highlight": "HV6fuWqK75k",
     "interview": "MOFi1DXkyog"
   },
   "videos": [
+    {
+      "title": "Watch the 2026 World Cup Live - Start Your Free Trial",
+      "videoId": "HV6fuWqK75k",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-18",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/HV6fuWqK75k/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England",
+      "source": "match-search"
+    },
+    {
+      "title": "LIVE: FRANCE VS ENGLAND | FIFA WORLD CUP ... - YouTube",
+      "videoId": "OJlwIdoFz9A",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-18",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/OJlwIdoFz9A/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England",
+      "source": "match-search"
+    },
     {
       "title": "From eight down to two! 😮 | FIFA Fan Festival | Best of Week 5",
       "videoId": "AHtGjubzJbM",

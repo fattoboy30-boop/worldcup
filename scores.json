@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T22:02:02.678Z",
+  "lastUpdated": "2026-07-18T22:23:10.006Z",
   "liveMatches": [
     {
       "id": 760516,
@@ -8,7 +8,7 @@
       "utcDate": "2026-07-18T21:00Z",
       "homeTeam": "France",
       "homeCode": "fr",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayTeam": "England",
       "awayCode": "gb-eng",
       "awayScore": 4,
@@ -18,7 +18,7 @@
       "group": "I",
       "stage": "3RD_PLACE_MATCH",
       "matchday": 0,
-      "minute": "45'+5'",
+      "minute": "59'",
       "halfTime": [
         null,
         null
