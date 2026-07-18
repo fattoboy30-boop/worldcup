@@ -1,46 +1,24 @@
 {
-  "lastUpdated": "2026-07-18T21:26:04.693Z",
+  "lastUpdated": "2026-07-18T21:54:28.449Z",
   "featured": {
-    "match": "jH3gROP9dy0",
-    "highlight": "jH3gROP9dy0",
+    "match": "AHtGjubzJbM",
+    "highlight": "AHtGjubzJbM",
     "interview": "MOFi1DXkyog"
   },
   "videos": [
     {
-      "title": "LIVE: France vs England | 2026 World Cup Third-Place Playoff",
-      "videoId": "jH3gROP9dy0",
-      "channel": "Web Search",
+      "title": "From eight down to two! 😮 | FIFA Fan Festival | Best of Week 5",
+      "videoId": "AHtGjubzJbM",
+      "channel": "FIFA",
       "publishedAt": "2026-07-18",
       "category": "Highlights",
-      "team": [
-        "France",
-        "England"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/jH3gROP9dy0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/AHtGjubzJbM/mqdefault.jpg",
       "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England",
-      "source": "match-search"
-    },
-    {
-      "title": "LIVE: FRANCE VS ENGLAND | FIFA WORLD CUP ... - YouTube",
-      "videoId": "HV6fuWqK75k",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-18",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/HV6fuWqK75k/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England",
-      "source": "match-search"
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "England vs Argentina"
     },
     {
       "title": "Music & Matches ... Experience It All! 🙌",
@@ -367,6 +345,23 @@
       "fixtureTeams": "England vs Argentina"
     },
     {
+      "title": "LIVE World Cup Final Watchalong: Spain vs Argentina | ESPN FC",
+      "videoId": "5_9jCutO04I",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-18",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/5_9jCutO04I/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "England vs Argentina"
+    },
+    {
       "title": "Herculez Gomez’s biggest priorities for Argentina in the World Cup Final ⚽ | SportsCenter",
       "videoId": "c-Yflegeczk",
       "channel": "ESPN FC",
@@ -409,40 +404,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/PAer7GKJ_ks/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
-      "title": "France Train Before England | FIFA World Cup 2026™",
-      "videoId": "fawqas178Fk",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-17",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fawqas178Fk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
-      "title": "Spain beats France to reach Final | Ref's POV | Powered by Lenovo",
-      "videoId": "SRDRq190M-Y",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-17",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/SRDRq190M-Y/mqdefault.jpg",
       "matchday": 1,
       "stage": "SEMIFINALS",
       "fixtureTeams": "France vs Spain"
@@ -495,18 +456,21 @@
       "fixtureTeams": "France vs Spain"
     },
     {
-      "title": "Michael Olise linked with Real Madrid 🚨 Will FC Bayern sell him? | ESPN FC",
-      "videoId": "Kzf8sLO0eKU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-17",
+      "title": "WATCH LIVE | France v England | 3rd Place | FIFA World Cup 2026™",
+      "videoId": "GtyrRnOCBBU",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-09",
       "category": "Highlights",
-      "team": [],
+      "team": [
+        "France",
+        "England"
+      ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Kzf8sLO0eKU/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/GtyrRnOCBBU/mqdefault.jpg",
       "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
+      "stage": "ROUND_OF_16",
+      "fixtureTeams": "Mexico vs England"
     }
   ]
 }
