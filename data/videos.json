@@ -1,11 +1,48 @@
 {
-  "lastUpdated": "2026-07-18T16:02:42.609Z",
+  "lastUpdated": "2026-07-18T16:58:28.888Z",
   "featured": {
-    "match": "081QeieYSoE",
-    "highlight": "081QeieYSoE",
-    "interview": "081QeieYSoE"
+    "match": "p7Rk1DF5Hwc",
+    "highlight": "p7Rk1DF5Hwc",
+    "interview": "p7Rk1DF5Hwc"
   },
   "videos": [
+    {
+      "title": "WATCH FIFA SEMI FINAL | France vs England | FIFA World Cup 2026 Third ...",
+      "videoId": "p7Rk1DF5Hwc",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-18",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/p7Rk1DF5Hwc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England",
+      "source": "match-search"
+    },
+    {
+      "title": "2026 FIFA World Cup Semi-Finals Preview | England vs Argentina, France ...",
+      "videoId": "WAzXGXAClk0",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-18",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "France",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/WAzXGXAClk0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England",
+      "source": "match-search"
+    },
     {
       "title": "Statistical Preview | France v England | FIFA World Cup 2026™ Bronze Final",
       "videoId": "081QeieYSoE",
