@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-18T13:22:42.976Z",
+  "lastUpdated": "2026-07-18T13:48:45.897Z",
   "featured": {
-    "match": "5fWjpIxY5Ms",
-    "highlight": "5fWjpIxY5Ms",
-    "interview": "5fWjpIxY5Ms"
+    "match": "WAzXGXAClk0",
+    "highlight": "WAzXGXAClk0",
+    "interview": "WAzXGXAClk0"
   },
   "videos": [
+    {
+      "title": "2026 FIFA World Cup Semi-Finals Preview | England vs Argentina, France ...",
+      "videoId": "WAzXGXAClk0",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-18",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "France",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/WAzXGXAClk0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England",
+      "source": "match-search"
+    },
+    {
+      "title": "ENGLAND lose SEMIFINAL | World Cup 2026 3rd Place MATCH PREVIEW",
+      "videoId": "JCtLpW_YBr8",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-18",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JCtLpW_YBr8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England",
+      "source": "match-search"
+    },
     {
       "title": "Every walk onto the pitch becomes a lifelong memory ⚽✨",
       "videoId": "5fWjpIxY5Ms",
