@@ -1,11 +1,28 @@
 {
-  "lastUpdated": "2026-07-18T02:50:31.774Z",
+  "lastUpdated": "2026-07-18T05:30:15.496Z",
   "featured": {
-    "match": "j4U6KdB4cI0",
-    "highlight": "j4U6KdB4cI0",
-    "interview": "j4U6KdB4cI0"
+    "match": "BLTshrPaesE",
+    "highlight": "BLTshrPaesE",
+    "interview": "BLTshrPaesE"
   },
   "videos": [
+    {
+      "title": "World Cup Rematch: England 3-1 France | 1982 Robson Show",
+      "videoId": "BLTshrPaesE",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-18",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/BLTshrPaesE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "England vs Argentina"
+    },
     {
       "title": "England On Playing France | Thomas Tuchel & John Stones Take Questions",
       "videoId": "j4U6KdB4cI0",
@@ -234,20 +251,6 @@
       "fixtureTeams": "France vs Spain"
     },
     {
-      "title": "ALL-TIME: Top FINAL Goals In World Cup History",
-      "videoId": "dj-ed8fJ2uM",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-17",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/dj-ed8fJ2uM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
       "title": "Previewing World Cup Final Weekend 👀 Spain vs. Argentina & France vs. England | ESPN FC",
       "videoId": "fMmCE2SO8ZI",
       "channel": "ESPN FC",
@@ -267,7 +270,7 @@
       "fixtureTeams": "France vs Spain"
     },
     {
-      "title": "Lionel Messi loved it ����",
+      "title": "Lionel Messi loved it 🤝",
       "videoId": "rfrUBG9gCaM",
       "channel": "ESPN FC",
       "publishedAt": "2026-07-17",
