@@ -1,29 +1,24 @@
 {
-  "lastUpdated": "2026-07-18T20:27:43.650Z",
+  "lastUpdated": "2026-07-18T20:53:59.512Z",
   "featured": {
-    "match": "WAzXGXAClk0",
-    "highlight": "WAzXGXAClk0",
+    "match": "jXpoYpbr1pU",
+    "highlight": "jXpoYpbr1pU",
     "interview": "MOFi1DXkyog"
   },
   "videos": [
     {
-      "title": "2026 FIFA World Cup Semi-Finals Preview | England vs Argentina, France ...",
-      "videoId": "WAzXGXAClk0",
-      "channel": "Web Search",
+      "title": "Music & Matches ... Experience It All! 🙌",
+      "videoId": "jXpoYpbr1pU",
+      "channel": "FIFA",
       "publishedAt": "2026-07-18",
       "category": "Highlights",
-      "team": [
-        "Argentina",
-        "France",
-        "England"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/WAzXGXAClk0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/jXpoYpbr1pU/mqdefault.jpg",
       "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England",
-      "source": "match-search"
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "England vs Argentina"
     },
     {
       "title": "Argentina Train Before Spain | FIFA World Cup 2026™",
@@ -194,6 +189,20 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/aU8EnxPaLxE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "SEMIFINALS",
+      "fixtureTeams": "England vs Argentina"
+    },
+    {
+      "title": "Ronaldo is inevitable 🥶",
+      "videoId": "amM7IBrzk5w",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-18",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/amM7IBrzk5w/mqdefault.jpg",
       "matchday": 1,
       "stage": "SEMIFINALS",
       "fixtureTeams": "England vs Argentina"
@@ -403,23 +412,6 @@
       "fixtureTeams": "France vs Spain"
     },
     {
-      "title": "World Cup Rematch: Argentina 2-1 Spain | 1966 Classic",
-      "videoId": "-6P2I1dCYNc",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-17",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-6P2I1dCYNc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
       "title": "Previewing World Cup Final Weekend 👀 Spain vs. Argentina & France vs. England | ESPN FC",
       "videoId": "fMmCE2SO8ZI",
       "channel": "ESPN FC",
@@ -476,23 +468,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/Kzf8sLO0eKU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "France vs Spain"
-    },
-    {
-      "title": "‘I don’t see the value!’ 😳 Shaka Hislop on France vs. England in the third-place playoff | ESPN FC",
-      "videoId": "pEM8zdqWVuQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-17",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/pEM8zdqWVuQ/mqdefault.jpg",
       "matchday": 1,
       "stage": "SEMIFINALS",
       "fixtureTeams": "France vs Spain"
