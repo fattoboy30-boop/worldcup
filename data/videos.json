@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-18T20:53:59.512Z",
+  "lastUpdated": "2026-07-18T21:26:04.693Z",
   "featured": {
-    "match": "jXpoYpbr1pU",
-    "highlight": "jXpoYpbr1pU",
+    "match": "jH3gROP9dy0",
+    "highlight": "jH3gROP9dy0",
     "interview": "MOFi1DXkyog"
   },
   "videos": [
+    {
+      "title": "LIVE: France vs England | 2026 World Cup Third-Place Playoff",
+      "videoId": "jH3gROP9dy0",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-18",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jH3gROP9dy0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England",
+      "source": "match-search"
+    },
+    {
+      "title": "LIVE: FRANCE VS ENGLAND | FIFA WORLD CUP ... - YouTube",
+      "videoId": "HV6fuWqK75k",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-18",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/HV6fuWqK75k/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England",
+      "source": "match-search"
+    },
     {
       "title": "Music & Matches ... Experience It All! 🙌",
       "videoId": "jXpoYpbr1pU",

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T21:05:00.523Z",
+  "lastUpdated": "2026-07-18T21:26:01.838Z",
   "fixtures": [
     {
       "id": 760415,
@@ -2561,14 +2561,14 @@
       "homeScore": 0,
       "awayTeam": "England",
       "awayCode": "gb-eng",
-      "awayScore": 1,
+      "awayScore": 2,
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens, Florida",
       "status": "in_play",
       "group": "I",
       "stage": "3RD_PLACE_MATCH",
       "matchday": 0,
-      "minute": "4'",
+      "minute": "26'",
       "halfTime": [
         null,
         null
