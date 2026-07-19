@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-19T16:03:51.337Z",
+  "lastUpdated": "2026-07-19T16:35:41.681Z",
   "featured": {
-    "match": "_-BHiYq0GGE",
-    "highlight": "_-BHiYq0GGE",
+    "match": "OLtR8v7zLTk",
+    "highlight": "OLtR8v7zLTk",
     "interview": "fPgVlLkceDc"
   },
   "videos": [
+    {
+      "title": "England vs France 6-4 - Highlights - Saka Hattrick ... - YouTube",
+      "videoId": "OLtR8v7zLTk",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-19",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/OLtR8v7zLTk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England",
+      "source": "match-search"
+    },
+    {
+      "title": "France vs England Highlights Today | Mbappé & Dembélé Shine | World Cup ...",
+      "videoId": "M5htwKBRuZ8",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-19",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/M5htwKBRuZ8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England",
+      "source": "match-search"
+    },
     {
       "title": "Alt Cast Highlights: France v England | Bronze Final | FIFA World Cup 2026™",
       "videoId": "_-BHiYq0GGE",
