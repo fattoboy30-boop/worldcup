@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-07-18T23:56:49.128Z",
+  "lastUpdated": "2026-07-19T01:01:53.524Z",
   "featured": {
-    "match": "GtyrRnOCBBU",
-    "highlight": "GtyrRnOCBBU",
+    "match": "M5htwKBRuZ8",
+    "highlight": "M5htwKBRuZ8",
     "interview": "fPgVlLkceDc"
   },
   "videos": [
+    {
+      "title": "Match Highlights | FIFA World Cup 2026™ - YouTube",
+      "videoId": "M5htwKBRuZ8",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-19",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/M5htwKBRuZ8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England",
+      "source": "match-search"
+    },
     {
       "title": "WATCH LIVE | France v England | Bronze Final | FIFA World Cup 2026™",
       "videoId": "GtyrRnOCBBU",
