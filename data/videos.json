@@ -1,46 +1,24 @@
 {
-  "lastUpdated": "2026-07-19T22:35:01.219Z",
+  "lastUpdated": "2026-07-19T22:59:41.196Z",
   "featured": {
-    "match": "L1SLA0ixeWo",
-    "highlight": "L1SLA0ixeWo",
-    "interview": "fPgVlLkceDc"
+    "match": "B7hIiaXBpco",
+    "highlight": "B7hIiaXBpco",
+    "interview": "fWfyY1aC1vI"
   },
   "videos": [
     {
-      "title": "France vs England Highlights 2026 FIFA World Cup ... - YouTube",
-      "videoId": "L1SLA0ixeWo",
-      "channel": "Web Search",
+      "title": "The FIFA World Cup Final 2026™ Topps Halftime Show",
+      "videoId": "B7hIiaXBpco",
+      "channel": "FIFA",
       "publishedAt": "2026-07-19",
       "category": "Highlights",
-      "team": [
-        "France",
-        "England"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/L1SLA0ixeWo/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/B7hIiaXBpco/mqdefault.jpg",
       "matchday": 1,
       "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England",
-      "source": "match-search"
-    },
-    {
-      "title": "France vs England Highlights Today | Mbappé & Dembélé Shine | World Cup ...",
-      "videoId": "M5htwKBRuZ8",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-19",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/M5htwKBRuZ8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England",
-      "source": "match-search"
+      "fixtureTeams": "France vs England"
     },
     {
       "title": "Tom Cruise I FIFA World Cup 2026™ Closing Ceremony I Full Performance",
@@ -242,18 +220,99 @@
       "fixtureTeams": "France vs England"
     },
     {
-      "title": "France 🆚 England #FIFAWorldCupOnYT",
-      "videoId": "wID01vlPsXw",
-      "channel": "FIFA",
+      "title": "LAMINE YAMAL WINS HIS FIRST WORLD CUP 🏆 Spain vs. Argentina REACTION | ESPN FC",
+      "videoId": "fWfyY1aC1vI",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-19",
-      "category": "Highlights",
+      "category": "Viral",
       "team": [
-        "France",
-        "England"
+        "Argentina",
+        "Spain"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/wID01vlPsXw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/fWfyY1aC1vI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "FERRAN TORRES IS THE HERO FOR SPAIN 🇪🇸 Winning goal in extra time of the World Cup Final | ESPN FC",
+      "videoId": "EBcWDot40lc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-19",
+      "category": "Highlights",
+      "team": [
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/EBcWDot40lc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "Argentina vs. Spain FULL World Cup Final REACTION: SPAIN ARE CHAMPIONS! | ESPN FC",
+      "videoId": "JYtI5QqtcjI",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-19",
+      "category": "Viral",
+      "team": [
+        "Argentina",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JYtI5QqtcjI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "‘It’s a really bad image for them’ 🗣️ REACTION to Argentina’s style of play vs. Spain | ESPN FC",
+      "videoId": "Gp3Ilms1Dx8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-19",
+      "category": "Viral",
+      "team": [
+        "Argentina",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Gp3Ilms1Dx8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "Spain vs. Argentina fan's reactions to Ferran Torres' goal 😅",
+      "videoId": "M32YRNXcets",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-19",
+      "category": "Viral",
+      "team": [
+        "Argentina",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/M32YRNXcets/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "Who was the BEST Defense in the World Cup?!",
+      "videoId": "yiX9yMceFA8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-19",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/yiX9yMceFA8/mqdefault.jpg",
       "matchday": 1,
       "stage": "3RD_PLACE_MATCH",
       "fixtureTeams": "France vs England"
@@ -380,67 +439,6 @@
       "fixtureTeams": "France vs England"
     },
     {
-      "title": "Saka & Mbappe highlight high-scoring World Cup 3rd-place match 🍿 + WC final PREVIEW | ESPN FC",
-      "videoId": "fhw8U9df7VI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-19",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fhw8U9df7VI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England"
-    },
-    {
-      "title": "How will France set up under Zinedine Zidane? 🤔 + World Cup final predictions | ESPN FC",
-      "videoId": "INyQIDe2K4k",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-19",
-      "category": "Highlights",
-      "team": [
-        "France"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/INyQIDe2K4k/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England"
-    },
-    {
-      "title": "Argentina's determination fueling World Cup run 🙌 PREVIEW of WC final vs. Spain | ESPN FC",
-      "videoId": "RYDVPc8MoXk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-19",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/RYDVPc8MoXk/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England"
-    },
-    {
-      "title": "Will Mauricio Pochettino STEP DOWN from coaching USMNT? 😳 | ESPN FC",
-      "videoId": "MN4DweLG25I",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-19",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/MN4DweLG25I/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England"
-    },
-    {
       "title": "LIVE World Cup Final Watchalong: Spain vs Argentina | ESPN FC",
       "videoId": "5_9jCutO04I",
       "channel": "ESPN FC",
@@ -453,40 +451,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/5_9jCutO04I/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "England vs Argentina"
-    },
-    {
-      "title": "Bukayo Saka scores hat-trick in England’s win over France in World Cup Third Place Playoff | ESPN FC",
-      "videoId": "fPgVlLkceDc",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-18",
-      "category": "Viral",
-      "team": [
-        "France",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fPgVlLkceDc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "England vs Argentina"
-    },
-    {
-      "title": "‘A FANTASTIC GAME!’ 🔥 FULL REACTION to England defeating France in Third Place Playoff | ESPN FC",
-      "videoId": "68dBCIlFblw",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-18",
-      "category": "Viral",
-      "team": [
-        "France",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/68dBCIlFblw/mqdefault.jpg",
       "matchday": 1,
       "stage": "SEMIFINALS",
       "fixtureTeams": "England vs Argentina"
