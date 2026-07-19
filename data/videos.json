@@ -1,29 +1,11 @@
 {
-  "lastUpdated": "2026-07-19T15:38:10.465Z",
+  "lastUpdated": "2026-07-19T16:03:51.337Z",
   "featured": {
-    "match": "M5htwKBRuZ8",
-    "highlight": "M5htwKBRuZ8",
+    "match": "_-BHiYq0GGE",
+    "highlight": "_-BHiYq0GGE",
     "interview": "fPgVlLkceDc"
   },
   "videos": [
-    {
-      "title": "France vs England Highlights Today | Mbappé & Dembélé Shine | World Cup ...",
-      "videoId": "M5htwKBRuZ8",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-19",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/M5htwKBRuZ8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England",
-      "source": "match-search"
-    },
     {
       "title": "Alt Cast Highlights: France v England | Bronze Final | FIFA World Cup 2026™",
       "videoId": "_-BHiYq0GGE",
@@ -217,6 +199,36 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/kP20HwD2hxY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "Haaland always repping Norway 😂👏 (via @erling/TT)",
+      "videoId": "5vmybFCI4zk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-19",
+      "category": "Highlights",
+      "team": [
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/5vmybFCI4zk/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "Will Messi go back-to-back? 🏆👀",
+      "videoId": "le0mtZg06cA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-19",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/le0mtZg06cA/mqdefault.jpg",
       "matchday": 1,
       "stage": "3RD_PLACE_MATCH",
       "fixtureTeams": "France vs England"
@@ -470,34 +482,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/xewq1jKAeqo/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "England vs Argentina"
-    },
-    {
-      "title": "Reflecting on the best moments of the 2026 FIFA World Cup ⚽ | ESPN FC",
-      "videoId": "MOFi1DXkyog",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-18",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/MOFi1DXkyog/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "England vs Argentina"
-    },
-    {
-      "title": "World Cup Final Predictions: Animal Edition 🐶⚽🐢",
-      "videoId": "iBiEIoHgiy8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-18",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/iBiEIoHgiy8/mqdefault.jpg",
       "matchday": 1,
       "stage": "SEMIFINALS",
       "fixtureTeams": "England vs Argentina"
