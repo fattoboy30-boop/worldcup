@@ -1,9 +1,28 @@
 {
-  "lastUpdated": "2026-07-19T06:32:50.527Z",
+  "lastUpdated": "2026-07-19T07:15:12.221Z",
   "featured": {
-    "match": "",
-    "highlight": "",
-    "interview": ""
+    "match": "M5htwKBRuZ8",
+    "highlight": "M5htwKBRuZ8",
+    "interview": "M5htwKBRuZ8"
   },
-  "videos": []
+  "videos": [
+    {
+      "title": "France vs England Highlights Today | Mbappé & Dembélé Shine | World Cup ...",
+      "videoId": "M5htwKBRuZ8",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-19",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/M5htwKBRuZ8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England",
+      "source": "match-search"
+    }
+  ]
 }
