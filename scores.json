@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-07-19T18:39:12.015Z",
-  "liveMatches": [],
+  "lastUpdated": "2026-07-19T19:30:31.550Z",
+  "liveMatches": [
+    {
+      "id": 760517,
+      "date": "2026-07-19",
+      "time": "19:00",
+      "utcDate": "2026-07-19T19:00Z",
+      "homeTeam": "Spain",
+      "homeCode": "es",
+      "homeScore": 0,
+      "awayTeam": "Argentina",
+      "awayCode": "ar",
+      "awayScore": 0,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford, New Jersey",
+      "status": "in_play",
+      "group": "H",
+      "stage": "FINAL",
+      "matchday": 0,
+      "minute": "24'",
+      "halfTime": [
+        null,
+        null
+      ]
+    }
+  ],
   "recentResults": [
     {
       "id": 760415,
@@ -2372,29 +2396,5 @@
       ]
     }
   ],
-  "upcomingMatches": [
-    {
-      "id": 760517,
-      "date": "2026-07-19",
-      "time": "19:00",
-      "utcDate": "2026-07-19T19:00Z",
-      "homeTeam": "Spain",
-      "homeCode": "es",
-      "homeScore": 0,
-      "awayTeam": "Argentina",
-      "awayCode": "ar",
-      "awayScore": 0,
-      "venue": "MetLife Stadium",
-      "city": "East Rutherford, New Jersey",
-      "status": "timed",
-      "group": "H",
-      "stage": "FINAL",
-      "matchday": 0,
-      "minute": null,
-      "halfTime": [
-        null,
-        null
-      ]
-    }
-  ]
+  "upcomingMatches": []
 }
