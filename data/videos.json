@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-07-19T14:38:18.849Z",
+  "lastUpdated": "2026-07-19T14:59:28.493Z",
   "featured": {
-    "match": "M5htwKBRuZ8",
-    "highlight": "M5htwKBRuZ8",
+    "match": "_-BHiYq0GGE",
+    "highlight": "_-BHiYq0GGE",
     "interview": "fPgVlLkceDc"
   },
   "videos": [
     {
-      "title": "France vs England Highlights Today | Mbappé & Dembélé Shine | World Cup ...",
-      "videoId": "M5htwKBRuZ8",
-      "channel": "Web Search",
+      "title": "Alt Cast Highlights: France v England | Bronze Final | FIFA World Cup 2026™",
+      "videoId": "_-BHiYq0GGE",
+      "channel": "FIFA",
       "publishedAt": "2026-07-19",
       "category": "Highlights",
       "team": [
@@ -18,11 +18,10 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/M5htwKBRuZ8/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/_-BHiYq0GGE/mqdefault.jpg",
       "matchday": 1,
       "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England",
-      "source": "match-search"
+      "fixtureTeams": "France vs England"
     },
     {
       "title": "Statistical Preview | Spain v Argentina | FIFA World Cup 2026™ FINAL",
@@ -205,6 +204,38 @@
       "fixtureTeams": "France vs England"
     },
     {
+      "title": "Argentina needs Messi magic in World Cup Final 🪄",
+      "videoId": "TwPc6rHibDg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-19",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/TwPc6rHibDg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "Argentina fans have arrived in force for the World Cup final 🇦🇷 (via @lluisbou7/IG)",
+      "videoId": "yn7LglBwcRA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-19",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/yn7LglBwcRA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
       "title": "Unreal 🔥",
       "videoId": "sILQ8uF03Jk",
       "channel": "ESPN FC",
@@ -323,20 +354,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/AHtGjubzJbM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "England vs Argentina"
-    },
-    {
-      "title": "Music & Matches ... Experience It All! 🙌",
-      "videoId": "jXpoYpbr1pU",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-18",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/jXpoYpbr1pU/mqdefault.jpg",
       "matchday": 1,
       "stage": "SEMIFINALS",
       "fixtureTeams": "England vs Argentina"
@@ -463,36 +480,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/iBiEIoHgiy8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "England vs Argentina"
-    },
-    {
-      "title": "Will Mauricio Pochettino return to USMNT? 🤔 He's weighing his options elsewhere - Moreno | ESPN FC",
-      "videoId": "Bwz3fPQKa8o",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-18",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Bwz3fPQKa8o/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "England vs Argentina"
-    },
-    {
-      "title": "Julien Laurens calls for England to SACK Thomas Tuchel 🚨| ESPN FC",
-      "videoId": "abInVH3NJSM",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-18",
-      "category": "Highlights",
-      "team": [
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/abInVH3NJSM/mqdefault.jpg",
       "matchday": 1,
       "stage": "SEMIFINALS",
       "fixtureTeams": "England vs Argentina"
