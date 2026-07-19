@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-19T21:36:48.014Z",
+  "lastUpdated": "2026-07-19T22:13:06.384Z",
   "groups": {
     "A": {
       "teams": [
@@ -537,14 +537,14 @@
         {
           "name": "Spain",
           "code": "es",
-          "played": 5,
-          "won": 4,
+          "played": 6,
+          "won": 5,
           "drawn": 1,
           "lost": 0,
-          "gf": 10,
+          "gf": 11,
           "ga": 1,
-          "gd": 9,
-          "points": 13,
+          "gd": 10,
+          "points": 16,
           "position": 1
         },
         {
@@ -600,6 +600,19 @@
           "position": 5
         },
         {
+          "name": "Argentina",
+          "code": "ar",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 0,
+          "ga": 1,
+          "gd": -1,
+          "points": 0,
+          "position": 6
+        },
+        {
           "name": "Austria",
           "code": "at",
           "played": 1,
@@ -610,7 +623,7 @@
           "ga": 3,
           "gd": -3,
           "points": 0,
-          "position": 6
+          "position": 7
         }
       ]
     },
