@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-19T19:19:52.298Z",
+  "lastUpdated": "2026-07-19T19:53:47.672Z",
   "featured": {
-    "match": "RjqmMpwfuvI",
-    "highlight": "RjqmMpwfuvI",
+    "match": "HsNp02m4aqs",
+    "highlight": "HsNp02m4aqs",
     "interview": "fPgVlLkceDc"
   },
   "videos": [
+    {
+      "title": "England vs France 6-4 - Highlights - YouTube",
+      "videoId": "HsNp02m4aqs",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-19",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/HsNp02m4aqs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England",
+      "source": "match-search"
+    },
+    {
+      "title": "France vs England Highlights Today | Mbappé & Dembélé Shine | World Cup ...",
+      "videoId": "M5htwKBRuZ8",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-19",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/M5htwKBRuZ8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England",
+      "source": "match-search"
+    },
     {
       "title": "Countdown to Kick-Off … at the FIFA Fan Festival ⌛️ | FIFA World Cup 2026",
       "videoId": "RjqmMpwfuvI",
