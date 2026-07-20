@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-07-20T02:54:49.242Z",
+  "lastUpdated": "2026-07-20T04:37:37.645Z",
   "featured": {
-    "match": "dYM7zIbfTws",
-    "highlight": "dYM7zIbfTws",
+    "match": "ulg6ui0LxQw",
+    "highlight": "ulg6ui0LxQw",
     "interview": "C1LcjBlesLg"
   },
   "videos": [
+    {
+      "title": "Music met football on the world's biggest stage 🎶🏟️",
+      "videoId": "ulg6ui0LxQw",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ulg6ui0LxQw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
     {
       "title": "A little touch from Cucurella. 🇪🇸👌 #FIFAWorldCup #Kia #InspirationConnectsUsAll",
       "videoId": "dYM7zIbfTws",
@@ -222,15 +236,18 @@
       "fixtureTeams": "France vs England"
     },
     {
-      "title": "Madonna ⭐️ What a way to start the Topps Halftime Show! 🤩🎤 #FIFAWorldCup",
-      "videoId": "J6VjNR_6jLI",
-      "channel": "FIFA",
+      "title": "Spain 'never let Argentina into this game' - Herculez Gomez 🗣️ + Messi's future 👀 | SportsCenter",
+      "videoId": "p6BdzSgm2No",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-20",
       "category": "Highlights",
-      "team": [],
+      "team": [
+        "Argentina",
+        "Spain"
+      ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/J6VjNR_6jLI/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/p6BdzSgm2No/mqdefault.jpg",
       "matchday": 1,
       "stage": "3RD_PLACE_MATCH",
       "fixtureTeams": "France vs England"
@@ -438,20 +455,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/t__qanCKeLU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England"
-    },
-    {
-      "title": "Julien Laurens isn't a fan of FIFA's World Cup final halftime show 😅",
-      "videoId": "LXeKbKSm5l8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-19",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/LXeKbKSm5l8/mqdefault.jpg",
       "matchday": 1,
       "stage": "3RD_PLACE_MATCH",
       "fixtureTeams": "France vs England"
