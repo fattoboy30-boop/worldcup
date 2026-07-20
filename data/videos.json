@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-20T04:37:37.645Z",
+  "lastUpdated": "2026-07-20T07:57:52.997Z",
   "featured": {
-    "match": "ulg6ui0LxQw",
-    "highlight": "ulg6ui0LxQw",
+    "match": "4SDvow2ioDw",
+    "highlight": "4SDvow2ioDw",
     "interview": "C1LcjBlesLg"
   },
   "videos": [
+    {
+      "title": "Highlights | France 4-6 England | FIFA World Cup 2026™ Bronze Final",
+      "videoId": "4SDvow2ioDw",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-20",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4SDvow2ioDw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England",
+      "source": "match-search"
+    },
+    {
+      "title": "France vs England Highlights Today | Mbappé & Dembélé Shine | World Cup ...",
+      "videoId": "M5htwKBRuZ8",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-20",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/M5htwKBRuZ8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England",
+      "source": "match-search"
+    },
     {
       "title": "Music met football on the world's biggest stage 🎶🏟️",
       "videoId": "ulg6ui0LxQw",
