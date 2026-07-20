@@ -1,46 +1,24 @@
 {
-  "lastUpdated": "2026-07-20T11:07:03.409Z",
+  "lastUpdated": "2026-07-20T11:48:15.077Z",
   "featured": {
-    "match": "4SDvow2ioDw",
-    "highlight": "4SDvow2ioDw",
-    "interview": "C1LcjBlesLg"
+    "match": "hzqkmrJ2ziE",
+    "highlight": "hzqkmrJ2ziE",
+    "interview": "VcOlQq4UX1w"
   },
   "videos": [
     {
-      "title": "Highlights | France 4-6 England | FIFA World Cup 2026™ Bronze Final",
-      "videoId": "4SDvow2ioDw",
-      "channel": "Web Search",
+      "title": "Matchday Recap: Finals Weekend | #FIFAWorldCup @aramco",
+      "videoId": "hzqkmrJ2ziE",
+      "channel": "FIFA",
       "publishedAt": "2026-07-20",
       "category": "Highlights",
-      "team": [
-        "France",
-        "England"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/4SDvow2ioDw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/hzqkmrJ2ziE/mqdefault.jpg",
       "matchday": 1,
       "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England",
-      "source": "match-search"
-    },
-    {
-      "title": "France vs England Highlights Today | Mbappé & Dembélé Shine | World Cup ...",
-      "videoId": "M5htwKBRuZ8",
-      "channel": "Web Search",
-      "publishedAt": "2026-07-20",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/M5htwKBRuZ8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England",
-      "source": "match-search"
+      "fixtureTeams": "France vs England"
     },
     {
       "title": "Marc Cucurella Skill | Spain 1-0 Argentina | FIFA World Cup 2026™ FINAL",
@@ -252,9 +230,9 @@
       "fixtureTeams": "France vs England"
     },
     {
-      "title": "Ferran Torres Goal | Spain 1-0 Argentina | FIFA World Cup 2026™ FINAL",
-      "videoId": "e6a6lppWZkQ",
-      "channel": "FIFA",
+      "title": "LIVE World Cup Final Watchalong: Spain vs Argentina | ESPN FC",
+      "videoId": "5_9jCutO04I",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-20",
       "category": "Highlights",
       "team": [
@@ -263,7 +241,24 @@
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/e6a6lppWZkQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/5_9jCutO04I/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "‘Spain didn’t allow Argentina to RATTLE them’ 🙂‍↔️ WC final FULL reaction | ESPN FC",
+      "videoId": "VcOlQq4UX1w",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-20",
+      "category": "Viral",
+      "team": [
+        "Argentina",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/VcOlQq4UX1w/mqdefault.jpg",
       "matchday": 1,
       "stage": "3RD_PLACE_MATCH",
       "fixtureTeams": "France vs England"
@@ -477,37 +472,6 @@
       "matchday": 1,
       "stage": "3RD_PLACE_MATCH",
       "fixtureTeams": "France vs England"
-    },
-    {
-      "title": "Frank Leboeuf reflects on playing in the 1998 World Cup Final ⚽ | ESPN FC",
-      "videoId": "t__qanCKeLU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-19",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/t__qanCKeLU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England"
-    },
-    {
-      "title": "LIVE World Cup Final Watchalong: Spain vs Argentina | ESPN FC",
-      "videoId": "5_9jCutO04I",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-18",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/5_9jCutO04I/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "SEMIFINALS",
-      "fixtureTeams": "England vs Argentina"
     }
   ]
 }
