@@ -1,46 +1,41 @@
 {
-  "lastUpdated": "2026-07-20T16:59:07.573Z",
+  "lastUpdated": "2026-07-20T18:55:05.444Z",
   "featured": {
-    "match": "4SDvow2ioDw",
-    "highlight": "4SDvow2ioDw",
+    "match": "exHUilcJdUs",
+    "highlight": "exHUilcJdUs",
     "interview": "VcOlQq4UX1w"
   },
   "videos": [
     {
-      "title": "Highlights | France 4-6 England | FIFA World Cup 2026™ Bronze Final",
-      "videoId": "4SDvow2ioDw",
-      "channel": "Web Search",
+      "title": "Coldplay and the world’s biggest stars closed the FIFA World Cup 2026 Topps Halftime Show in style!",
+      "videoId": "exHUilcJdUs",
+      "channel": "FIFA",
       "publishedAt": "2026-07-20",
       "category": "Highlights",
-      "team": [
-        "France",
-        "England"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/4SDvow2ioDw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/exHUilcJdUs/mqdefault.jpg",
       "matchday": 1,
       "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England",
-      "source": "match-search"
+      "fixtureTeams": "France vs England"
     },
     {
-      "title": "France 4-6 England Highlights:England Win Epic Third Place ... - YouTube",
-      "videoId": "jFiq0JpLQMI",
-      "channel": "Web Search",
+      "title": "Alt Cast Highlights: Spain v Argentina | FIFA World Cup 2026™ Final",
+      "videoId": "d7rRAQPWz6Y",
+      "channel": "FIFA",
       "publishedAt": "2026-07-20",
       "category": "Highlights",
       "team": [
-        "France",
-        "England"
+        "Argentina",
+        "Spain"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/jFiq0JpLQMI/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/d7rRAQPWz6Y/mqdefault.jpg",
       "matchday": 1,
       "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England",
-      "source": "match-search"
+      "fixtureTeams": "France vs England"
     },
     {
       "title": "Goals From Substitutes | FIFA World Cup Finals",
@@ -232,32 +227,61 @@
       "fixtureTeams": "France vs England"
     },
     {
-      "title": "Justin Bieber I FIFA World Cup 2026™ Final Halftime Show Performance",
-      "videoId": "l9sxlaYDae8",
-      "channel": "FIFA",
+      "title": "HYDRATION BREAK! 🫗 Taylor Twellman caps off the World Cup in GRAND FASHION 🤣 | The Rich Eisen Show",
+      "videoId": "djeWfgT5L1M",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-20",
       "category": "Highlights",
       "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/l9sxlaYDae8/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/djeWfgT5L1M/mqdefault.jpg",
       "matchday": 1,
       "stage": "3RD_PLACE_MATCH",
       "fixtureTeams": "France vs England"
     },
     {
-      "title": "Post-Match Player Interviews: Spain 1-0 Argentina",
-      "videoId": "jqk-oRItO3c",
-      "channel": "FIFA",
+      "title": "Mike Grella explains how Spain PICKED TEAMS APART in the World Cup 🧠 | The Pat McAfee Show",
+      "videoId": "jBECRdVh0fA",
+      "channel": "ESPN FC",
       "publishedAt": "2026-07-20",
       "category": "Highlights",
       "team": [
-        "Argentina",
         "Spain"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/jqk-oRItO3c/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/jBECRdVh0fA/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "Taking Rodri over ANYONE 🔥",
+      "videoId": "TbaDr38rG84",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/TbaDr38rG84/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "The World Cup's impact after Spain's victory ⚽ | The Pat McAfee Show",
+      "videoId": "f2j7uPEewgY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-20",
+      "category": "Highlights",
+      "team": [
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/f2j7uPEewgY/mqdefault.jpg",
       "matchday": 1,
       "stage": "3RD_PLACE_MATCH",
       "fixtureTeams": "France vs England"
@@ -431,71 +455,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/p6BdzSgm2No/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England"
-    },
-    {
-      "title": "Craig Burley reacts to Argentina's performance vs. Spain in the World Cup final ✍️",
-      "videoId": "XVUFT-ykdmY",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-20",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/XVUFT-ykdmY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England"
-    },
-    {
-      "title": "SPAIN BACK ON TOP 🏆 FULL REACTION to their World Cup Final win over Argentina 🍿 | ESPN FC",
-      "videoId": "C1LcjBlesLg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-19",
-      "category": "Viral",
-      "team": [
-        "Argentina",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/C1LcjBlesLg/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England"
-    },
-    {
-      "title": "'That's not football' 🗣️ Reaction to Argentina's game plan vs. Spain | ESPN FC Extra TIme",
-      "videoId": "0bXEXjWaUiE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-19",
-      "category": "Viral",
-      "team": [
-        "Argentina",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/0bXEXjWaUiE/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England"
-    },
-    {
-      "title": "‘THE BEST TEAM WON!’ 🇪🇸 Recapping the 2026 FIFA World Cup | ESPN FC",
-      "videoId": "Q-9C4mN4OEU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-19",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Q-9C4mN4OEU/mqdefault.jpg",
       "matchday": 1,
       "stage": "3RD_PLACE_MATCH",
       "fixtureTeams": "France vs England"
