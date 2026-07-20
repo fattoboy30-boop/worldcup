@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-20T20:23:42.211Z",
+  "lastUpdated": "2026-07-20T21:44:11.994Z",
   "featured": {
-    "match": "exHUilcJdUs",
-    "highlight": "exHUilcJdUs",
+    "match": "4SDvow2ioDw",
+    "highlight": "4SDvow2ioDw",
     "interview": "VcOlQq4UX1w"
   },
   "videos": [
+    {
+      "title": "Highlights | France 4-6 England | FIFA World Cup 2026™ Bronze Final",
+      "videoId": "4SDvow2ioDw",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-20",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4SDvow2ioDw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England",
+      "source": "match-search"
+    },
+    {
+      "title": "LIVE: France vs England Highlights | FIFA World Cup 2026 ... - YouTube",
+      "videoId": "dTGW5m2LoyE",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-20",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/dTGW5m2LoyE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England",
+      "source": "match-search"
+    },
     {
       "title": "Coldplay and the world’s biggest stars closed the FIFA World Cup 2026 Topps Halftime Show in style!",
       "videoId": "exHUilcJdUs",
