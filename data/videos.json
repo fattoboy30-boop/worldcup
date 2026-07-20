@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-20T16:26:15.118Z",
+  "lastUpdated": "2026-07-20T16:59:07.573Z",
   "featured": {
-    "match": "DfwR3rN38Ho",
-    "highlight": "DfwR3rN38Ho",
+    "match": "4SDvow2ioDw",
+    "highlight": "4SDvow2ioDw",
     "interview": "VcOlQq4UX1w"
   },
   "videos": [
+    {
+      "title": "Highlights | France 4-6 England | FIFA World Cup 2026™ Bronze Final",
+      "videoId": "4SDvow2ioDw",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-20",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4SDvow2ioDw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England",
+      "source": "match-search"
+    },
+    {
+      "title": "France 4-6 England Highlights:England Win Epic Third Place ... - YouTube",
+      "videoId": "jFiq0JpLQMI",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-20",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jFiq0JpLQMI/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England",
+      "source": "match-search"
+    },
     {
       "title": "Goals From Substitutes | FIFA World Cup Finals",
       "videoId": "DfwR3rN38Ho",
