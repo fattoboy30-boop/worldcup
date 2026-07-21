@@ -1,28 +1,26 @@
 {
-  "lastUpdated": "2026-07-21T12:00:08.546Z",
+  "lastUpdated": "2026-07-21T14:00:07.853Z",
   "featured": {
-    "match": "vXE25iTPCpE",
-    "highlight": "vXE25iTPCpE",
+    "match": "k1nLEr8br5Y",
+    "highlight": "k1nLEr8br5Y",
     "interview": "YVYKO_CUbkY"
   },
   "videos": [
     {
-      "title": "Match Highlights | FIFA World Cup 2026™ - YouTube",
-      "videoId": "vXE25iTPCpE",
-      "channel": "Web Search",
+      "title": "Every Harry Kane Goal For England | FIFA World Cup 2026™",
+      "videoId": "k1nLEr8br5Y",
+      "channel": "FIFA",
       "publishedAt": "2026-07-21",
       "category": "Highlights",
       "team": [
-        "Spain",
-        "Argentina"
+        "England"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vXE25iTPCpE/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/k1nLEr8br5Y/mqdefault.jpg",
       "matchday": 1,
-      "stage": "FINAL",
-      "fixtureTeams": "Spain vs Argentina",
-      "source": "match-search"
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
     },
     {
       "title": "Every Erling Haaland Goal For Norway | FIFA World Cup 2026™",
@@ -68,6 +66,37 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/6F8DxJPWvTw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "Argentina fans in tears following their World Cup defeat to Spain 💔",
+      "videoId": "0V-viEOz1c4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-21",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0V-viEOz1c4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "'Real Madrid what?' 😤",
+      "videoId": "pnLvFJH55g4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-21",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/pnLvFJH55g4/mqdefault.jpg",
       "matchday": 1,
       "stage": "3RD_PLACE_MATCH",
       "fixtureTeams": "France vs England"
@@ -251,20 +280,6 @@
       "fixtureTeams": "France vs England"
     },
     {
-      "title": "Music met football on the world's biggest stage 🎶🏟️",
-      "videoId": "ulg6ui0LxQw",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ulg6ui0LxQw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England"
-    },
-    {
       "title": "Should Argentina be PUNISHED for their actions after World Cup Final vs. Spain? 😳 | ESPN FC",
       "videoId": "dncHBCYPrXE",
       "channel": "ESPN FC",
@@ -443,38 +458,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/J--nD3I5Yy4/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England"
-    },
-    {
-      "title": "Roger Bennett reacts to Spain’s World Cup win 🏆",
-      "videoId": "ipIYsbemxAM",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-20",
-      "category": "Highlights",
-      "team": [
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ipIYsbemxAM/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England"
-    },
-    {
-      "title": "Stephen A. on Spain’s World Cup performance: ‘Shut down the greatest of the greats!’ 👀 | First Take",
-      "videoId": "pFLZgRxhlcY",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-20",
-      "category": "Highlights",
-      "team": [
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/pFLZgRxhlcY/mqdefault.jpg",
       "matchday": 1,
       "stage": "3RD_PLACE_MATCH",
       "fixtureTeams": "France vs England"
