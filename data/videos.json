@@ -1,28 +1,24 @@
 {
-  "lastUpdated": "2026-07-21T18:49:04.155Z",
+  "lastUpdated": "2026-07-21T19:36:15.480Z",
   "featured": {
-    "match": "LJhccWToNbg",
-    "highlight": "LJhccWToNbg",
+    "match": "qUzSrkIuP0U",
+    "highlight": "qUzSrkIuP0U",
     "interview": "YVYKO_CUbkY"
   },
   "videos": [
     {
-      "title": "Match Highlights | FIFA World Cup 2026™ - YouTube",
-      "videoId": "LJhccWToNbg",
-      "channel": "Web Search",
+      "title": "BTS perform at the FIFA World Cup 2026 Topps Halftime Show!",
+      "videoId": "qUzSrkIuP0U",
+      "channel": "FIFA",
       "publishedAt": "2026-07-21",
       "category": "Highlights",
-      "team": [
-        "Spain",
-        "Argentina"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/LJhccWToNbg/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/qUzSrkIuP0U/mqdefault.jpg",
       "matchday": 1,
-      "stage": "FINAL",
-      "fixtureTeams": "Spain vs Argentina",
-      "source": "match-search"
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
     },
     {
       "title": "Post Malone - FIFA World Cup 2026 Closing Ceremony Performance",
@@ -114,6 +110,20 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/6F8DxJPWvTw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "This is beautiful 🥹 (via @edgenyc/TT)",
+      "videoId": "j8bvlrJ8Clo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-21",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/j8bvlrJ8Clo/mqdefault.jpg",
       "matchday": 1,
       "stage": "3RD_PLACE_MATCH",
       "fixtureTeams": "France vs England"
@@ -300,20 +310,6 @@
       "fixtureTeams": "France vs England"
     },
     {
-      "title": "2010. 🏆2026. 🏆#FIFAWorldCup",
-      "videoId": "gDn_xv9iOJ8",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/gDn_xv9iOJ8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England"
-    },
-    {
       "title": "Should Argentina be PUNISHED for their actions after World Cup Final vs. Spain? 😳 | ESPN FC",
       "videoId": "dncHBCYPrXE",
       "channel": "ESPN FC",
@@ -462,22 +458,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/f2j7uPEewgY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England"
-    },
-    {
-      "title": "Messi was HUMBLED and NEUTRALIZED by Spain ‼️ Stephen A. weighs in on World Cup Final | First Take",
-      "videoId": "DW1jtOVwldE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-20",
-      "category": "Highlights",
-      "team": [
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/DW1jtOVwldE/mqdefault.jpg",
       "matchday": 1,
       "stage": "3RD_PLACE_MATCH",
       "fixtureTeams": "France vs England"
