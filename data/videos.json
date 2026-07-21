@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-07-21T19:36:15.480Z",
+  "lastUpdated": "2026-07-21T20:18:01.222Z",
   "featured": {
-    "match": "qUzSrkIuP0U",
-    "highlight": "qUzSrkIuP0U",
+    "match": "qFtLfKinfXU",
+    "highlight": "qFtLfKinfXU",
     "interview": "YVYKO_CUbkY"
   },
   "videos": [
+    {
+      "title": "Spain vs Argentina 2026 Final Highlights - YouTube",
+      "videoId": "qFtLfKinfXU",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-21",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/qFtLfKinfXU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "FINAL",
+      "fixtureTeams": "Spain vs Argentina",
+      "source": "match-search"
+    },
+    {
+      "title": "Spain vs. Argentina Full Highlights | FIFA World Cup Final 2026",
+      "videoId": "ITo2g56oehw",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-21",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ITo2g56oehw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "FINAL",
+      "fixtureTeams": "Spain vs Argentina",
+      "source": "match-search"
+    },
     {
       "title": "BTS perform at the FIFA World Cup 2026 Topps Halftime Show!",
       "videoId": "qUzSrkIuP0U",
