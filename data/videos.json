@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-07-21T17:24:38.888Z",
+  "lastUpdated": "2026-07-21T18:49:04.155Z",
   "featured": {
-    "match": "tQZ9BKbfhYc",
-    "highlight": "tQZ9BKbfhYc",
+    "match": "LJhccWToNbg",
+    "highlight": "LJhccWToNbg",
     "interview": "YVYKO_CUbkY"
   },
   "videos": [
+    {
+      "title": "Match Highlights | FIFA World Cup 2026™ - YouTube",
+      "videoId": "LJhccWToNbg",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-21",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/LJhccWToNbg/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "FINAL",
+      "fixtureTeams": "Spain vs Argentina",
+      "source": "match-search"
+    },
     {
       "title": "Post Malone - FIFA World Cup 2026 Closing Ceremony Performance",
       "videoId": "tQZ9BKbfhYc",
