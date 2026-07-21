@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-07-20T23:59:07.797Z",
+  "lastUpdated": "2026-07-21T01:09:40.957Z",
   "featured": {
-    "match": "cs_uiRDE0WY",
-    "highlight": "cs_uiRDE0WY",
+    "match": "vXE25iTPCpE",
+    "highlight": "vXE25iTPCpE",
     "interview": "kEtHjG74X9E"
   },
   "videos": [
+    {
+      "title": "Match Highlights | FIFA World Cup 2026™ - YouTube",
+      "videoId": "vXE25iTPCpE",
+      "channel": "Web Search",
+      "publishedAt": "2026-07-21",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vXE25iTPCpE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "FINAL",
+      "fixtureTeams": "Spain vs Argentina",
+      "source": "match-search"
+    },
     {
       "title": "Every Direct Free-Kick Goal Scored At The 2026 FIFA World Cup!",
       "videoId": "cs_uiRDE0WY",
