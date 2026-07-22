@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-07-22T08:33:49.638Z",
+  "lastUpdated": "2026-07-22T11:11:47.648Z",
   "featured": {
-    "match": "yRoWV1Ik-o0",
-    "highlight": "yRoWV1Ik-o0",
+    "match": "GdK4411IiUY",
+    "highlight": "GdK4411IiUY",
     "interview": "YVYKO_CUbkY"
   },
   "videos": [
+    {
+      "title": "Every Jude Bellingham Goal for England | FIFA World Cup 2026™",
+      "videoId": "GdK4411IiUY",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-22",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/GdK4411IiUY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "FINAL",
+      "fixtureTeams": "Spain vs Argentina"
+    },
     {
       "title": "All Penalties In Regular Time | FIFA World Cup 2026™",
       "videoId": "yRoWV1Ik-o0",
@@ -435,20 +451,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/DfwR3rN38Ho/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England"
-    },
-    {
-      "title": "Matchday Recap: Finals Weekend | #FIFAWorldCup @aramco",
-      "videoId": "hzqkmrJ2ziE",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/hzqkmrJ2ziE/mqdefault.jpg",
       "matchday": 1,
       "stage": "3RD_PLACE_MATCH",
       "fixtureTeams": "France vs England"
