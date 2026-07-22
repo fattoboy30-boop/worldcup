@@ -1,9 +1,457 @@
 {
-  "lastUpdated": "2026-07-22T05:53:27.523Z",
+  "lastUpdated": "2026-07-22T08:33:49.638Z",
   "featured": {
-    "match": "",
-    "highlight": "",
-    "interview": ""
+    "match": "yRoWV1Ik-o0",
+    "highlight": "yRoWV1Ik-o0",
+    "interview": "YVYKO_CUbkY"
   },
-  "videos": []
+  "videos": [
+    {
+      "title": "All Penalties In Regular Time | FIFA World Cup 2026™",
+      "videoId": "yRoWV1Ik-o0",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-22",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/yRoWV1Ik-o0/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "FINAL",
+      "fixtureTeams": "Spain vs Argentina"
+    },
+    {
+      "title": "BTS perform at the FIFA World Cup 2026 Topps Halftime Show!",
+      "videoId": "qUzSrkIuP0U",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-21",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/qUzSrkIuP0U/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "Post Malone - FIFA World Cup 2026 Closing Ceremony Performance",
+      "videoId": "tQZ9BKbfhYc",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-21",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tQZ9BKbfhYc/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "Every Kylian Mbappe Goal For France | FIFA World Cup 2026™",
+      "videoId": "0U6od_ryVrs",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-21",
+      "category": "Highlights",
+      "team": [
+        "France"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0U6od_ryVrs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "Every Harry Kane Goal For England | FIFA World Cup 2026™",
+      "videoId": "k1nLEr8br5Y",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-21",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/k1nLEr8br5Y/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "Every Erling Haaland Goal For Norway | FIFA World Cup 2026™",
+      "videoId": "cWS32T5AGuo",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-21",
+      "category": "Highlights",
+      "team": [
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cWS32T5AGuo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "Cucurela shows some skills against Argentina. #FIFAWorldCupOnYT",
+      "videoId": "YVYKO_CUbkY",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-21",
+      "category": "Viral",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/YVYKO_CUbkY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "Every Ousmane Dembélé Goal For France | FIFA World Cup 2026™",
+      "videoId": "6F8DxJPWvTw",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-21",
+      "category": "Highlights",
+      "team": [
+        "France"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6F8DxJPWvTw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "Fallout from Argentina's World Cup final loss + Should Gianni Infantino RESIGN!? | ESPN FC",
+      "videoId": "x_ukuwsNTzY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-21",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/x_ukuwsNTzY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "😭😭😭 (via iratiaugusto11/IG)",
+      "videoId": "bKij_IEfgG8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-21",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/bKij_IEfgG8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "🔥🔥🔥 (via hassanayari10/TT)",
+      "videoId": "8yM8IwmkyvQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-21",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/8yM8IwmkyvQ/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "The moves Newcastle should make to SURVIVE the upcoming Premier League season 🔍 | ESPN FC",
+      "videoId": "ZRQE9WGezc8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-21",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ZRQE9WGezc8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "BEST MOMENTS of ESPN FC's coverage of the 2026 FIFA World Cup 🏆",
+      "videoId": "WDBMfphIznw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-21",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/WDBMfphIznw/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "Could Italy appoint Pep Guardiola as manager?! 😯 | ESPN FC",
+      "videoId": "1PNZoyacU8I",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-21",
+      "category": "Highlights",
+      "team": [
+        "Italy"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/1PNZoyacU8I/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "ESPN FC remembers the life & legacy of Kevin Keegan after passing at age 75",
+      "videoId": "d-aWx-ugp_I",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-21",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/d-aWx-ugp_I/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "Chelsea make 'ENORMOUS INVESTMENT' as Morgan Rogers transfers from Aston Villa ➡️ | ESPN FC",
+      "videoId": "g5MOU9DlR78",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-21",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/g5MOU9DlR78/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "Was Argentina's behavior EMBARRASSING after a poor showing vs. Spain? | ESPN FC",
+      "videoId": "RDIXiU3uBWU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-21",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RDIXiU3uBWU/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "Javier Tebas SOUNDED OFF on World Cup expansion, Infantino's future & hydration breaks 🗣️ | ESPN FC",
+      "videoId": "tv9VJrQPe6w",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-21",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tv9VJrQPe6w/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "This is beautiful 🥹 (via @edgenyc/TT)",
+      "videoId": "j8bvlrJ8Clo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-21",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/j8bvlrJ8Clo/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "World Cup winners Spain arrive home 🏆 | ESPN FC",
+      "videoId": "kJgtbKvmUCY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-21",
+      "category": "Highlights",
+      "team": [
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/kJgtbKvmUCY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "Argentina fans in tears following their World Cup defeat to Spain 💔",
+      "videoId": "0V-viEOz1c4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-21",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0V-viEOz1c4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "'Real Madrid what?' 😤",
+      "videoId": "pnLvFJH55g4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-21",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/pnLvFJH55g4/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "A Spanish pilot trolled Argentina fans into thinking they won. 😂 (via williermina/TT)",
+      "videoId": "qCpJS8ULQhY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-21",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/qCpJS8ULQhY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "Watch the stage come to life ✨The Topps Halftime Show in timelapse.",
+      "videoId": "y9gtFxvH9t8",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/y9gtFxvH9t8/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "Every Direct Free-Kick Goal Scored At The 2026 FIFA World Cup!",
+      "videoId": "cs_uiRDE0WY",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cs_uiRDE0WY/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "Hyundai Goal of the Tournament | Best Goals of the FIFA World Cup 2026™",
+      "videoId": "--aLJLGrFts",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/--aLJLGrFts/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "Coldplay and the world’s biggest stars closed the FIFA World Cup 2026 Topps Halftime Show in style!",
+      "videoId": "exHUilcJdUs",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/exHUilcJdUs/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "Alt Cast Highlights: Spain v Argentina | FIFA World Cup 2026™ Final",
+      "videoId": "d7rRAQPWz6Y",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-20",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/d7rRAQPWz6Y/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "Goals From Substitutes | FIFA World Cup Finals",
+      "videoId": "DfwR3rN38Ho",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/DfwR3rN38Ho/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    },
+    {
+      "title": "Matchday Recap: Finals Weekend | #FIFAWorldCup @aramco",
+      "videoId": "hzqkmrJ2ziE",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/hzqkmrJ2ziE/mqdefault.jpg",
+      "matchday": 1,
+      "stage": "3RD_PLACE_MATCH",
+      "fixtureTeams": "France vs England"
+    }
+  ]
 }
