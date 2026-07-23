@@ -1,11 +1,55 @@
 {
-  "lastUpdated": "2026-07-23T15:10:57.818Z",
+  "lastUpdated": "2026-07-23T17:25:20.196Z",
   "featured": {
-    "match": "3i2jPMFRjjA",
-    "highlight": "3i2jPMFRjjA",
+    "match": "HBZbjcxf0L4",
+    "highlight": "HBZbjcxf0L4",
     "interview": "YVYKO_CUbkY"
   },
   "videos": [
+    {
+      "title": "Spain’s 2026 World Cup Journey: Stargazing on historic dominance | ESPN FC",
+      "videoId": "HBZbjcxf0L4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-23",
+      "category": "Highlights",
+      "team": [
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/HBZbjcxf0L4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "GAME’S GONE?! Crysencio Summerville to Al Hilal a ’SIGNAL’ | ESPN FC",
+      "videoId": "_wERo6cCwvk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_wERo6cCwvk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Casemiro joins Messi at Inter Miami  👀 (via @InterMiamiCF/TT)",
+      "videoId": "TWwB9wVoDNc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/TWwB9wVoDNc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Is Alejandro Garnacho the NEW Jadon Sancho? | ESPN FC",
       "videoId": "3i2jPMFRjjA",
@@ -224,50 +268,6 @@
       "fixtureTeams": "Spain vs Argentina"
     },
     {
-      "title": "Who was the biggest DOBBER of the World Cup? 👀 | ESPN FC Extra Time",
-      "videoId": "sBt5AT4MXfw",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-22",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/sBt5AT4MXfw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "FINAL",
-      "fixtureTeams": "Spain vs Argentina"
-    },
-    {
-      "title": "Who is OVERPRICED among notable Premier League transfers?! ✍️ | ESPN FC",
-      "videoId": "c2drZfT5JUI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-22",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/c2drZfT5JUI/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "FINAL",
-      "fixtureTeams": "Spain vs Argentina"
-    },
-    {
-      "title": "'Argentina must be PUNISHED!' 🗣️Steve Nicol calls for Roberto Ayala to be SACKED‼️ | ESPN FC",
-      "videoId": "09UgDhFJjsU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-22",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/09UgDhFJjsU/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "FINAL",
-      "fixtureTeams": "Spain vs Argentina"
-    },
-    {
       "title": "BTS perform at the FIFA World Cup 2026 Topps Halftime Show!",
       "videoId": "qUzSrkIuP0U",
       "channel": "FIFA",
@@ -328,14 +328,12 @@
       "fixtureTeams": "France vs England"
     },
     {
-      "title": "Every Erling Haaland Goal For Norway | FIFA World Cup 2026™",
+      "title": "Erling Haaland | All Goals | FIFA World Cup 2026™",
       "videoId": "cWS32T5AGuo",
       "channel": "FIFA",
       "publishedAt": "2026-07-21",
       "category": "Highlights",
-      "team": [
-        "Norway"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/cWS32T5AGuo/mqdefault.jpg",
