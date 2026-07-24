@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-07-24T18:21:01.445Z",
+  "lastUpdated": "2026-07-24T20:22:36.186Z",
   "featured": {
-    "match": "H1K6miSmjVg",
-    "highlight": "H1K6miSmjVg",
+    "match": "cfps-CkMm60",
+    "highlight": "cfps-CkMm60",
     "interview": "8BZTRl3kIGk"
   },
   "videos": [
+    {
+      "title": "Yamal lived up to the hype (via sefutbol/TT)",
+      "videoId": "cfps-CkMm60",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cfps-CkMm60/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "The story behind Lionel Messi and Lamine Yamal’s FIRST meeting | ESPN FC",
       "videoId": "H1K6miSmjVg",
@@ -198,20 +212,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/U_p_uWYIE6I/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Welcome home to a World Cup champion (Via realsociedad/TT)",
-      "videoId": "dIIaz3XUogI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-23",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/dIIaz3XUogI/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -423,7 +423,7 @@
       "fixtureTeams": "France vs England"
     },
     {
-      "title": "Alt Cast Highlights: Spain v Argentina | FIFA World Cup 2026�� Final",
+      "title": "Alt Cast Highlights: Spain v Argentina | FIFA World Cup 2026™ Final",
       "videoId": "d7rRAQPWz6Y",
       "channel": "FIFA",
       "publishedAt": "2026-07-20",
