@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-07-24T16:50:01.870Z",
+  "lastUpdated": "2026-07-24T18:21:01.445Z",
   "featured": {
-    "match": "GuLzEKLWi4I",
-    "highlight": "GuLzEKLWi4I",
+    "match": "H1K6miSmjVg",
+    "highlight": "H1K6miSmjVg",
     "interview": "8BZTRl3kIGk"
   },
   "videos": [
+    {
+      "title": "The story behind Lionel Messi and Lamine Yamal’s FIRST meeting | ESPN FC",
+      "videoId": "H1K6miSmjVg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/H1K6miSmjVg/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "🎶🗽🇪🇸🏆🇪🇸🌟🌟 (Via @pablogavi/IG)",
       "videoId": "GuLzEKLWi4I",
@@ -203,28 +217,12 @@
       "fixtureTeams": null
     },
     {
-      "title": "Alejandro Garnacho’s time at Chelsea can be ‘DISCOUNTED’ | ESPN FC",
-      "videoId": "MJ03QpYpWpw",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-23",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/MJ03QpYpWpw/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Every Lionel Messi Goal For Argentina | FIFA World Cup 2026™",
+      "title": "Lionel Messi | All Goals | FIFA World Cup 2026™",
       "videoId": "yPeEQitu_-o",
       "channel": "FIFA",
       "publishedAt": "2026-07-22",
       "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
+      "team": [],
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/yPeEQitu_-o/mqdefault.jpg",
@@ -425,7 +423,7 @@
       "fixtureTeams": "France vs England"
     },
     {
-      "title": "Alt Cast Highlights: Spain v Argentina | FIFA World Cup 2026™ Final",
+      "title": "Alt Cast Highlights: Spain v Argentina | FIFA World Cup 2026�� Final",
       "videoId": "d7rRAQPWz6Y",
       "channel": "FIFA",
       "publishedAt": "2026-07-20",
