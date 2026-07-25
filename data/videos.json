@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-07-25T20:56:12.289Z",
+  "lastUpdated": "2026-07-25T22:00:11.459Z",
   "featured": {
-    "match": "el0k3AEHq_o",
-    "highlight": "6wiqer-V6QE",
+    "match": "QBIim4veNJg",
+    "highlight": "QBIim4veNJg",
     "interview": "el0k3AEHq_o"
   },
   "videos": [
+    {
+      "title": "Algeria | ALL GOALS | FIFA World Cup 2026™",
+      "videoId": "QBIim4veNJg",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-25",
+      "category": "Highlights",
+      "team": [
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QBIim4veNJg/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "ICONIC Celebrations | FIFA World Cup 2026™",
       "videoId": "el0k3AEHq_o",
@@ -418,20 +434,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/cs_uiRDE0WY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England"
-    },
-    {
-      "title": "Hyundai Goal of the Tournament | Best Goals of the FIFA World Cup 2026™",
-      "videoId": "--aLJLGrFts",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/--aLJLGrFts/mqdefault.jpg",
       "matchday": 1,
       "stage": "3RD_PLACE_MATCH",
       "fixtureTeams": "France vs England"
