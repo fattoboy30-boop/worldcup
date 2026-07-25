@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-07-25T09:51:51.464Z",
+  "lastUpdated": "2026-07-25T11:13:44.205Z",
   "featured": {
-    "match": "pD0-Ama2vW8",
-    "highlight": "pD0-Ama2vW8",
+    "match": "6wiqer-V6QE",
+    "highlight": "6wiqer-V6QE",
     "interview": "8BZTRl3kIGk"
   },
   "videos": [
+    {
+      "title": "Every Goal Scored From Outside The Box | FIFA World Cup 2026™",
+      "videoId": "6wiqer-V6QE",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-25",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6wiqer-V6QE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Gianni Infantino has got NO SHAME - Craig Burley | ESPN FC",
       "videoId": "pD0-Ama2vW8",
@@ -418,23 +432,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/exHUilcJdUs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England"
-    },
-    {
-      "title": "Alt Cast Highlights: Spain v Argentina | FIFA World Cup 2026�� Final",
-      "videoId": "d7rRAQPWz6Y",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-20",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/d7rRAQPWz6Y/mqdefault.jpg",
       "matchday": 1,
       "stage": "3RD_PLACE_MATCH",
       "fixtureTeams": "France vs England"
