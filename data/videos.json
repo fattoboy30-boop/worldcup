@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-07-25T15:05:58.989Z",
+  "lastUpdated": "2026-07-25T17:02:07.824Z",
   "featured": {
-    "match": "6wiqer-V6QE",
+    "match": "el0k3AEHq_o",
     "highlight": "6wiqer-V6QE",
-    "interview": "8BZTRl3kIGk"
+    "interview": "el0k3AEHq_o"
   },
   "videos": [
+    {
+      "title": "PURE JOY! Best 2026 FIFA World Cup Celebrations",
+      "videoId": "el0k3AEHq_o",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-25",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/el0k3AEHq_o/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Every Goal Scored From Outside The Box | FIFA World Cup 2026™",
       "videoId": "6wiqer-V6QE",
@@ -418,20 +432,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/--aLJLGrFts/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England"
-    },
-    {
-      "title": "Coldplay and the world’s biggest stars closed the FIFA World Cup 2026 Topps Halftime Show in style!",
-      "videoId": "exHUilcJdUs",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/exHUilcJdUs/mqdefault.jpg",
       "matchday": 1,
       "stage": "3RD_PLACE_MATCH",
       "fixtureTeams": "France vs England"
