@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-07-26T03:19:56.308Z",
+  "lastUpdated": "2026-07-26T06:39:54.024Z",
   "featured": {
-    "match": "YgX2VzFQWIw",
-    "highlight": "YgX2VzFQWIw",
+    "match": "zPdHk4Iq7DQ",
+    "highlight": "zPdHk4Iq7DQ",
     "interview": "el0k3AEHq_o"
   },
   "videos": [
+    {
+      "title": "Best Goals | FIFA World Cup 2026™ | Lopes Cabral, Julian Alvarez & More",
+      "videoId": "zPdHk4Iq7DQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/zPdHk4Iq7DQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Luis Suarez 🥶🥶🥶",
       "videoId": "YgX2VzFQWIw",
@@ -422,20 +436,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/y9gtFxvH9t8/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England"
-    },
-    {
-      "title": "Every Direct Free-Kick Goal Scored At The 2026 FIFA World Cup!",
-      "videoId": "cs_uiRDE0WY",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/cs_uiRDE0WY/mqdefault.jpg",
       "matchday": 1,
       "stage": "3RD_PLACE_MATCH",
       "fixtureTeams": "France vs England"
