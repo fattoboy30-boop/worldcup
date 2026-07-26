@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-07-26T06:39:54.024Z",
+  "lastUpdated": "2026-07-26T09:16:34.409Z",
   "featured": {
-    "match": "zPdHk4Iq7DQ",
-    "highlight": "zPdHk4Iq7DQ",
+    "match": "cG5O6HC7j8A",
+    "highlight": "cG5O6HC7j8A",
     "interview": "el0k3AEHq_o"
   },
   "videos": [
+    {
+      "title": "Unai Simon | adidas Golden Glove Award Winner | FIFA World Cup 2026™",
+      "videoId": "cG5O6HC7j8A",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cG5O6HC7j8A/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Best Goals | FIFA World Cup 2026™ | Lopes Cabral, Julian Alvarez & More",
       "videoId": "zPdHk4Iq7DQ",
@@ -422,20 +436,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/6F8DxJPWvTw/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England"
-    },
-    {
-      "title": "Watch the stage come to life ✨The Topps Halftime Show in timelapse.",
-      "videoId": "y9gtFxvH9t8",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/y9gtFxvH9t8/mqdefault.jpg",
       "matchday": 1,
       "stage": "3RD_PLACE_MATCH",
       "fixtureTeams": "France vs England"
