@@ -1,11 +1,41 @@
 {
-  "lastUpdated": "2026-07-27T03:29:41.033Z",
+  "lastUpdated": "2026-07-27T07:36:25.343Z",
   "featured": {
-    "match": "PoeZBzyrwz8",
-    "highlight": "PoeZBzyrwz8",
+    "match": "h8yGszTrPMA",
+    "highlight": "h8yGszTrPMA",
     "interview": "3bgtib1yrrI"
   },
   "videos": [
+    {
+      "title": "Austria | ALL GOALS | FIFA World Cup 2026™",
+      "videoId": "h8yGszTrPMA",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-27",
+      "category": "Highlights",
+      "team": [
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/h8yGszTrPMA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Best Assists | FIFA World Cup 2026™ | Olise, Ziko & More",
+      "videoId": "QBVVygK-ruA",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-27",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QBVVygK-ruA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Angel City FC vs. Racing Louisville FC | NWSL Highlights | ESPN FC",
       "videoId": "PoeZBzyrwz8",
@@ -406,38 +436,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/tQZ9BKbfhYc/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England"
-    },
-    {
-      "title": "Every Kylian Mbappe Goal For France | FIFA World Cup 2026™",
-      "videoId": "0U6od_ryVrs",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-21",
-      "category": "Highlights",
-      "team": [
-        "France"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/0U6od_ryVrs/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "3RD_PLACE_MATCH",
-      "fixtureTeams": "France vs England"
-    },
-    {
-      "title": "Every Harry Kane Goal For England | FIFA World Cup 2026™",
-      "videoId": "k1nLEr8br5Y",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-21",
-      "category": "Highlights",
-      "team": [
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/k1nLEr8br5Y/mqdefault.jpg",
       "matchday": 1,
       "stage": "3RD_PLACE_MATCH",
       "fixtureTeams": "France vs England"
