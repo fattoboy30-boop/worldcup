@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-07-26T23:01:45.989Z",
+  "lastUpdated": "2026-07-27T03:29:41.033Z",
   "featured": {
-    "match": "YJoG9UZ76xM",
-    "highlight": "YJoG9UZ76xM",
+    "match": "PoeZBzyrwz8",
+    "highlight": "PoeZBzyrwz8",
     "interview": "3bgtib1yrrI"
   },
   "videos": [
+    {
+      "title": "Angel City FC vs. Racing Louisville FC | NWSL Highlights | ESPN FC",
+      "videoId": "PoeZBzyrwz8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-27",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/PoeZBzyrwz8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Australia | ALL GOALS | FIFA World Cup 2026™",
       "videoId": "YJoG9UZ76xM",
@@ -276,20 +290,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/HVKMH0yan6w/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Szoboszlai preseason golazo 🔥",
-      "videoId": "9A5mOEgzSqg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-26",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/9A5mOEgzSqg/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
