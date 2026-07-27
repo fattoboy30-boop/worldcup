@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-07-27T14:43:11.713Z",
+  "lastUpdated": "2026-07-27T17:00:43.295Z",
   "featured": {
-    "match": "s-oUyDKygDo",
+    "match": "VKR7R8FgVVc",
     "highlight": "s-oUyDKygDo",
-    "interview": "3bgtib1yrrI"
+    "interview": "VKR7R8FgVVc"
   },
   "videos": [
+    {
+      "title": "The Ultimate Skills Compilation | FIFA World Cup 2026™",
+      "videoId": "VKR7R8FgVVc",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-27",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/VKR7R8FgVVc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "BEST GOALS | 2026 FIFA World Cup",
       "videoId": "s-oUyDKygDo",
@@ -60,6 +74,20 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/QBVVygK-ruA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Cold 🥶",
+      "videoId": "z2zt32buD6g",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-27",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/z2zt32buD6g/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -337,20 +365,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Leeds vs. Wrexham | Club Friendly Highlights | ESPN FC",
-      "videoId": "rGdqLD9aZOY",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-26",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/rGdqLD9aZOY/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "Algeria | ALL GOALS | FIFA World Cup 2026™",
       "videoId": "QBIim4veNJg",
       "channel": "FIFA",
@@ -420,20 +434,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/GdK4411IiUY/mqdefault.jpg",
-      "matchday": 1,
-      "stage": "FINAL",
-      "fixtureTeams": "Spain vs Argentina"
-    },
-    {
-      "title": "All Penalties In Regular Time | FIFA World Cup 2026™",
-      "videoId": "yRoWV1Ik-o0",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-22",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/yRoWV1Ik-o0/mqdefault.jpg",
       "matchday": 1,
       "stage": "FINAL",
       "fixtureTeams": "Spain vs Argentina"
