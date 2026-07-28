@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-07-28T08:39:08.738Z",
+  "lastUpdated": "2026-07-28T11:20:56.600Z",
   "featured": {
-    "match": "dK-m64roJpU",
-    "highlight": "dK-m64roJpU",
+    "match": "zccriUspLpM",
+    "highlight": "zccriUspLpM",
     "interview": "VKR7R8FgVVc"
   },
   "videos": [
+    {
+      "title": "Lionel Messi | adidas Silver Boot Winner | FIFA World Cup 2026™",
+      "videoId": "zccriUspLpM",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-28",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/zccriUspLpM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "BEST SAVES | FIFA World Cup 2026™",
       "videoId": "dK-m64roJpU",
@@ -420,20 +434,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/eRRO4q4dWCU/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Unai Simon | adidas Golden Glove Award Winner | FIFA World Cup 2026™",
-      "videoId": "cG5O6HC7j8A",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-26",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/cG5O6HC7j8A/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
