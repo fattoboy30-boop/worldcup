@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-07-28T11:20:56.600Z",
+  "lastUpdated": "2026-07-28T14:15:10.497Z",
   "featured": {
-    "match": "zccriUspLpM",
-    "highlight": "zccriUspLpM",
-    "interview": "VKR7R8FgVVc"
+    "match": "BVsKJz-_B4k",
+    "highlight": "BVsKJz-_B4k",
+    "interview": "d5bGyJA_s7w"
   },
   "videos": [
+    {
+      "title": "Best Assists at the 2026 FIFA World Cup",
+      "videoId": "BVsKJz-_B4k",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-28",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/BVsKJz-_B4k/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Lionel Messi | adidas Silver Boot Winner | FIFA World Cup 2026™",
       "videoId": "zccriUspLpM",
@@ -58,6 +72,48 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/R6a86vVei8A/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Steve Nicol is SKEPTICAL over Liverpool’s Bradley Barcola transfer rumors | ESPN FC",
+      "videoId": "a0ZmgR2N928",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-28",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/a0ZmgR2N928/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Danny Welbeck is the ‘PERFECT GUY’ for Chelsea - Steve Nicol | ESPN FC",
+      "videoId": "oQQyPpbVy8w",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-28",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/oQQyPpbVy8w/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Victor Wembanyama playing soccer in Houston 👽⚽️ (via @afm.trainingg/IG)",
+      "videoId": "d5bGyJA_s7w",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-28",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/d5bGyJA_s7w/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -349,50 +405,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Argentina ‘cheap shots’ + Ballon d’Or favorites REVEALED | ESPN FC",
-      "videoId": "odHfyCgA3L4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-27",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/odHfyCgA3L4/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Young center back baller 🔥",
-      "videoId": "RZC8g-3Xb9k",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-27",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/RZC8g-3Xb9k/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Messi just chillin' 🐐🐐🐐 (via @caunion.oficial/IG)",
-      "videoId": "iLQ_O48DwQI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-27",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/iLQ_O48DwQI/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "Australia | ALL GOALS | FIFA World Cup 2026™",
       "videoId": "YJoG9UZ76xM",
       "channel": "FIFA",
@@ -418,22 +430,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/3bgtib1yrrI/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Argentina | ALL GOALS | FIFA World Cup 2026™",
-      "videoId": "eRRO4q4dWCU",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-26",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/eRRO4q4dWCU/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
