@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-07-29T17:17:55.356Z",
+  "lastUpdated": "2026-07-29T19:21:24.211Z",
   "featured": {
-    "match": "MsUg1PtrI4w",
-    "highlight": "MsUg1PtrI4w",
-    "interview": "MsUg1PtrI4w"
+    "match": "DgNMnbsyiz4",
+    "highlight": "DgNMnbsyiz4",
+    "interview": "DgNMnbsyiz4"
   },
   "videos": [
+    {
+      "title": "Every USA FIFA World Cup Goal (2010-2026)",
+      "videoId": "DgNMnbsyiz4",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-29",
+      "category": "Highlights",
+      "team": [
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/DgNMnbsyiz4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "BEST SAVES 🧤 | FIFA World Cup 2026™",
       "videoId": "MsUg1PtrI4w",
@@ -257,7 +273,7 @@
       "fixtureTeams": null
     },
     {
-      "title": "Kylian Mbappe | adidas Golden Boot Award Winner | FIFA World Cup 2026��",
+      "title": "Kylian Mbappe | adidas Golden Boot Award Winner | FIFA World Cup 2026™",
       "videoId": "R6a86vVei8A",
       "channel": "FIFA",
       "publishedAt": "2026-07-28",
@@ -422,22 +438,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/a0ZmgR2N928/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Belgium | ALL GOALS | FIFA World Cup 2026™",
-      "videoId": "MHQ9gzUBSlc",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-27",
-      "category": "Highlights",
-      "team": [
-        "Belgium"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/MHQ9gzUBSlc/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
