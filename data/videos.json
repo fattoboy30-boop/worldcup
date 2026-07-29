@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-07-28T22:07:09.221Z",
+  "lastUpdated": "2026-07-29T00:00:07.188Z",
   "featured": {
-    "match": "TbAUkUvoD_w",
-    "highlight": "TbAUkUvoD_w",
+    "match": "6GF9FCrGO6E",
+    "highlight": "6GF9FCrGO6E",
     "interview": "d5bGyJA_s7w"
   },
   "videos": [
+    {
+      "title": "Bosnia and Herzegovina | ALL GOALS | FIFA World Cup 2026™",
+      "videoId": "6GF9FCrGO6E",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-28",
+      "category": "Highlights",
+      "team": [
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6GF9FCrGO6E/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Jude Bellingham | adidas Bronze Boot Winner | FIFA World Cup 2026™",
       "videoId": "TbAUkUvoD_w",
@@ -118,6 +134,20 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/R6a86vVei8A/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Zidane mixing padel and footy 🔥 (via @z5official)",
+      "videoId": "6JfWCQZNH8M",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-28",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6JfWCQZNH8M/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -321,20 +351,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Son is hilarious 🤣",
-      "videoId": "_7R-EqjaIuQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-28",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_7R-EqjaIuQ/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "Belgium | ALL GOALS | FIFA World Cup 2026™",
       "videoId": "MHQ9gzUBSlc",
       "channel": "FIFA",
@@ -416,22 +432,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/N0k5pz5GziI/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Austria | ALL GOALS | FIFA World Cup 2026™",
-      "videoId": "h8yGszTrPMA",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-27",
-      "category": "Highlights",
-      "team": [
-        "Austria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/h8yGszTrPMA/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
