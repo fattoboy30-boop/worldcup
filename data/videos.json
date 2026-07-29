@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-07-29T09:40:00.618Z",
+  "lastUpdated": "2026-07-29T12:03:32.801Z",
   "featured": {
-    "match": "KyyuE7ClNI0",
-    "highlight": "KyyuE7ClNI0",
+    "match": "z5e3PC59QJg",
+    "highlight": "z5e3PC59QJg",
     "interview": "d5bGyJA_s7w"
   },
   "videos": [
+    {
+      "title": "Cabo Verde | ALL GOALS | FIFA World Cup 2026™",
+      "videoId": "z5e3PC59QJg",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-29",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/z5e3PC59QJg/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Cristiano Ronaldo | All 11 World Cup Goals For Portugal",
       "videoId": "KyyuE7ClNI0",
@@ -422,20 +436,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/9I5PeFWJ41U/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Hyundai Goal of the Tournament | FINAL WINNER | FIFA World Cup 2026™",
-      "videoId": "ihVQ60ftXMQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-27",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ihVQ60ftXMQ/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
