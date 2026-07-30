@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-07-30T07:36:03.944Z",
+  "lastUpdated": "2026-07-30T10:27:49.061Z",
   "featured": {
-    "match": "OlPnrpfmkgI",
-    "highlight": "OlPnrpfmkgI",
+    "match": "NzpwhKuuwwo",
+    "highlight": "NzpwhKuuwwo",
     "interview": "UGjuac8XoP4"
   },
   "videos": [
+    {
+      "title": "Côte d'Ivoire | ALL GOALS | FIFA World Cup 2026™",
+      "videoId": "NzpwhKuuwwo",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-30",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/NzpwhKuuwwo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Every Harry Kane goal at the 2026 FIFA World Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ⚽",
       "videoId": "OlPnrpfmkgI",
@@ -422,20 +436,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/BVsKJz-_B4k/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Lionel Messi | adidas Silver Boot Winner | FIFA World Cup 2026™",
-      "videoId": "zccriUspLpM",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-28",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/zccriUspLpM/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
