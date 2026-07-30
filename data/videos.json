@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-07-30T19:37:46.599Z",
+  "lastUpdated": "2026-07-30T21:14:21.761Z",
   "featured": {
-    "match": "mrreCzzffZw",
-    "highlight": "mrreCzzffZw",
+    "match": "Fee75GjHZlQ",
+    "highlight": "Fee75GjHZlQ",
     "interview": "8v-oBDE3H0w"
   },
   "videos": [
+    {
+      "title": "Croatia | ALL GOALS | FIFA World Cup 2026™",
+      "videoId": "Fee75GjHZlQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-30",
+      "category": "Highlights",
+      "team": [
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Fee75GjHZlQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "EVERY Lukaku Goal At The World Cup",
       "videoId": "mrreCzzffZw",
@@ -88,6 +104,22 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/7yy4dSm2ySU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "A sense of DENIAL following Argentina’s World Cup Final defeat? | ESPN FC",
+      "videoId": "8tPs6lpZ_Vg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-07-30",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/8tPs6lpZ_Vg/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -289,20 +321,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Liverpool vs. Wrexham | Club Friendly Highlights | ESPN FC",
-      "videoId": "8vBRkCXTGss",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-30",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/8vBRkCXTGss/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "Colombia | ALL GOALS | FIFA World Cup 2026™",
       "videoId": "q7HvRa7R-0o",
       "channel": "FIFA",
@@ -420,20 +438,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/6GF9FCrGO6E/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Jude Bellingham | adidas Bronze Boot Winner | FIFA World Cup 2026™",
-      "videoId": "TbAUkUvoD_w",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-28",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/TbAUkUvoD_w/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
