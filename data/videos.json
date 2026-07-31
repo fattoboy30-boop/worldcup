@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-07-31T21:08:56.435Z",
+  "lastUpdated": "2026-07-31T23:04:26.006Z",
   "featured": {
-    "match": "wzduPJwDjeM",
-    "highlight": "wzduPJwDjeM",
+    "match": "1NZ1J3xQC-4",
+    "highlight": "1NZ1J3xQC-4",
     "interview": "8v-oBDE3H0w"
   },
   "videos": [
+    {
+      "title": "Mexico | ALL GOALS | FIFA World Cup 2026™",
+      "videoId": "1NZ1J3xQC-4",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-31",
+      "category": "Highlights",
+      "team": [
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/1NZ1J3xQC-4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Unai Simon wins adidas Golden Glove Award at the #FIFAWorldCup 🧤",
       "videoId": "wzduPJwDjeM",
@@ -422,22 +438,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/q7HvRa7R-0o/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Every USA FIFA World Cup Goal (2010-2026)",
-      "videoId": "DgNMnbsyiz4",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-29",
-      "category": "Highlights",
-      "team": [
-        "USA"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/DgNMnbsyiz4/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
