@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-07-31T12:02:51.662Z",
+  "lastUpdated": "2026-07-31T15:22:17.012Z",
   "featured": {
-    "match": "0TGwdwPTlrU",
-    "highlight": "0TGwdwPTlrU",
+    "match": "BTAVGYp0DUg",
+    "highlight": "BTAVGYp0DUg",
     "interview": "8v-oBDE3H0w"
   },
   "videos": [
+    {
+      "title": "Vinicius Jr | ALL GOALS | FIFA World Cup",
+      "videoId": "BTAVGYp0DUg",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-31",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/BTAVGYp0DUg/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "England | ALL GOALS | FIFA World Cup 2026™",
       "videoId": "0TGwdwPTlrU",
@@ -424,20 +438,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/MsUg1PtrI4w/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Cabo Verde | ALL GOALS | FIFA World Cup 2026™",
-      "videoId": "z5e3PC59QJg",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-29",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/z5e3PC59QJg/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
