@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-07-31T09:47:23.097Z",
+  "lastUpdated": "2026-07-31T12:02:51.662Z",
   "featured": {
-    "match": "XmGrBm_iQV8",
-    "highlight": "XmGrBm_iQV8",
+    "match": "0TGwdwPTlrU",
+    "highlight": "0TGwdwPTlrU",
     "interview": "8v-oBDE3H0w"
   },
   "videos": [
+    {
+      "title": "England | ALL GOALS | FIFA World Cup 2026™",
+      "videoId": "0TGwdwPTlrU",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-31",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0TGwdwPTlrU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "All Ousmane Dembele goals at the 2026 FIFA World Cup 🇫🇷 ⚽",
       "videoId": "XmGrBm_iQV8",
@@ -422,22 +438,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/z5e3PC59QJg/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Cristiano Ronaldo | All 11 World Cup Goals For Portugal",
-      "videoId": "KyyuE7ClNI0",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-29",
-      "category": "Highlights",
-      "team": [
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/KyyuE7ClNI0/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
