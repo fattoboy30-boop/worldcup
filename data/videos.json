@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-07-31T17:41:53.758Z",
+  "lastUpdated": "2026-07-31T19:38:45.480Z",
   "featured": {
-    "match": "BTAVGYp0DUg",
-    "highlight": "BTAVGYp0DUg",
+    "match": "wzduPJwDjeM",
+    "highlight": "wzduPJwDjeM",
     "interview": "8v-oBDE3H0w"
   },
   "videos": [
+    {
+      "title": "Unai Simon wins adidas Golden Glove Award at the #FIFAWorldCup 🧤",
+      "videoId": "wzduPJwDjeM",
+      "channel": "FIFA",
+      "publishedAt": "2026-07-31",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/wzduPJwDjeM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Vinicius Jr | ALL GOALS | FIFA World Cup",
       "videoId": "BTAVGYp0DUg",
@@ -424,20 +438,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/DgNMnbsyiz4/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "BEST SAVES 🧤 | FIFA World Cup 2026™",
-      "videoId": "MsUg1PtrI4w",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-29",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/MsUg1PtrI4w/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
