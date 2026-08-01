@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-01T06:32:11.060Z",
+  "lastUpdated": "2026-08-01T09:07:53.849Z",
   "featured": {
-    "match": "fSNtwKZ5rnQ",
-    "highlight": "fSNtwKZ5rnQ",
+    "match": "YjLN9r9eF6A",
+    "highlight": "YjLN9r9eF6A",
     "interview": "8v-oBDE3H0w"
   },
   "videos": [
+    {
+      "title": "Ghana | ALL GOALS | FIFA World Cup 2026™",
+      "videoId": "YjLN9r9eF6A",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-01",
+      "category": "Highlights",
+      "team": [
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/YjLN9r9eF6A/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Pau Cubarsi wins the FIFA Young Player Award, presented by Aramco 🇪🇸",
       "videoId": "fSNtwKZ5rnQ",
@@ -268,20 +284,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/NzpwhKuuwwo/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Every Harry Kane goal at the 2026 FIFA World Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ⚽",
-      "videoId": "OlPnrpfmkgI",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-30",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/OlPnrpfmkgI/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
