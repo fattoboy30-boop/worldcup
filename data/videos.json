@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-08-01T03:18:04.107Z",
+  "lastUpdated": "2026-08-01T06:32:11.060Z",
   "featured": {
-    "match": "c_eu53Np8gM",
-    "highlight": "c_eu53Np8gM",
+    "match": "fSNtwKZ5rnQ",
+    "highlight": "fSNtwKZ5rnQ",
     "interview": "8v-oBDE3H0w"
   },
   "videos": [
+    {
+      "title": "Pau Cubarsi wins the FIFA Young Player Award, presented by Aramco 🇪🇸",
+      "videoId": "fSNtwKZ5rnQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-01",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fSNtwKZ5rnQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Japan | ALL GOALS | FIFA World Cup 2026™",
       "videoId": "c_eu53Np8gM",
@@ -268,20 +282,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/OlPnrpfmkgI/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Congo DR | ALL GOALS | FIFA World Cup 2026™",
-      "videoId": "7yy4dSm2ySU",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-30",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7yy4dSm2ySU/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
