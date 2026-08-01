@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-01T17:03:12.896Z",
+  "lastUpdated": "2026-08-01T19:13:06.141Z",
   "featured": {
-    "match": "P5dwxjm9tAw",
-    "highlight": "P5dwxjm9tAw",
-    "interview": "8v-oBDE3H0w"
+    "match": "rTxaA9ltSt8",
+    "highlight": "rTxaA9ltSt8",
+    "interview": "rTxaA9ltSt8"
   },
   "videos": [
+    {
+      "title": "ALL Australia goals from the 2026 FIFA World Cup",
+      "videoId": "rTxaA9ltSt8",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-01",
+      "category": "Highlights",
+      "team": [
+        "Australia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/rTxaA9ltSt8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Morocco | ALL GOALS | FIFA World Cup 2026™",
       "videoId": "P5dwxjm9tAw",
@@ -78,6 +94,34 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/c_eu53Np8gM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "🏀🏀🏀 (via @liverpoolfc/TT)",
+      "videoId": "gxLa7UHVpuk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-01",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/gxLa7UHVpuk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "James Tyler and Mark Ogden explain what's next for Gianni Infantino after the World Cup plan failed.",
+      "videoId": "5otCSenbLGQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-01",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/5otCSenbLGQ/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -317,20 +361,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "When defenders became overpowered 💪",
-      "videoId": "Bl0KcpyRVQk",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-30",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Bl0KcpyRVQk/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "Lamine Yamal was trying to hide in the corner 😂 (via msk_sampath/TT)",
       "videoId": "_pb0WP9llRA",
       "channel": "ESPN FC",
@@ -412,34 +442,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/Lgxw8rXxM8M/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Harvey Elliot after Liverpool’s preseason win at Yankee Stadium",
-      "videoId": "dPTsJpX00Ww",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-30",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/dPTsJpX00Ww/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "When Messi hit the SpiderMan celebration 🕷️ 🔥 (via @Major League Soccer on AppleTV)",
-      "videoId": "8v-oBDE3H0w",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-30",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/8v-oBDE3H0w/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
