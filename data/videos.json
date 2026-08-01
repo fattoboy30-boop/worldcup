@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-01T20:57:05.952Z",
+  "lastUpdated": "2026-08-01T22:02:25.473Z",
   "featured": {
-    "match": "rTxaA9ltSt8",
-    "highlight": "rTxaA9ltSt8",
-    "interview": "rTxaA9ltSt8"
+    "match": "EJu07C2lrj8",
+    "highlight": "EJu07C2lrj8",
+    "interview": "EJu07C2lrj8"
   },
   "videos": [
+    {
+      "title": "Ecuador | All World Cup Goals In History",
+      "videoId": "EJu07C2lrj8",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-01",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/EJu07C2lrj8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "ALL Australia goals from the 2026 FIFA World Cup",
       "videoId": "rTxaA9ltSt8",
@@ -356,20 +372,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/Fee75GjHZlQ/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "EVERY Lukaku Goal At The World Cup",
-      "videoId": "mrreCzzffZw",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-30",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/mrreCzzffZw/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
