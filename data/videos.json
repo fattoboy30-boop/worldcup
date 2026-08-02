@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-08-02T06:36:03.612Z",
+  "lastUpdated": "2026-08-02T09:11:07.686Z",
   "featured": {
-    "match": "JNDxDp1RI5Y",
-    "highlight": "JNDxDp1RI5Y",
-    "interview": "JNDxDp1RI5Y"
+    "match": "to9xUwJlGUs",
+    "highlight": "to9xUwJlGUs",
+    "interview": "to9xUwJlGUs"
   },
   "videos": [
+    {
+      "title": "Jude Bellingham wins the adidas Bronze Boot at the 2026 FIFA World Cup.",
+      "videoId": "to9xUwJlGUs",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-02",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/to9xUwJlGUs/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Norway | ALL GOALS | FIFA World Cup 2026™",
       "videoId": "JNDxDp1RI5Y",
@@ -396,22 +410,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/XmGrBm_iQV8/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "All Spain World Cup Goals | 2014-2026 | Villa, Torres & More",
-      "videoId": "37MsFGrbawk",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-31",
-      "category": "Highlights",
-      "team": [
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/37MsFGrbawk/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
