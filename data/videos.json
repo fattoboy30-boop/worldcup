@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-02T13:34:55.024Z",
+  "lastUpdated": "2026-08-02T15:05:00.665Z",
   "featured": {
-    "match": "kVl6cXUJZX0",
-    "highlight": "kVl6cXUJZX0",
-    "interview": "kVl6cXUJZX0"
+    "match": "na8iRA2XL-8",
+    "highlight": "na8iRA2XL-8",
+    "interview": "na8iRA2XL-8"
   },
   "videos": [
+    {
+      "title": "All Germany FIFA World Cup Goals | 2014-2026",
+      "videoId": "na8iRA2XL-8",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-02",
+      "category": "Highlights",
+      "team": [
+        "Germany"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/na8iRA2XL-8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Senegal | ALL GOALS | FIFA World Cup 2026™",
       "videoId": "kVl6cXUJZX0",
@@ -410,22 +426,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/BTAVGYp0DUg/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "England | ALL GOALS | FIFA World Cup 2026™",
-      "videoId": "0TGwdwPTlrU",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-31",
-      "category": "Highlights",
-      "team": [
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/0TGwdwPTlrU/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
