@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-02T11:18:34.545Z",
+  "lastUpdated": "2026-08-02T13:34:55.024Z",
   "featured": {
-    "match": "to9xUwJlGUs",
-    "highlight": "to9xUwJlGUs",
-    "interview": "to9xUwJlGUs"
+    "match": "kVl6cXUJZX0",
+    "highlight": "kVl6cXUJZX0",
+    "interview": "kVl6cXUJZX0"
   },
   "videos": [
+    {
+      "title": "Senegal | ALL GOALS | FIFA World Cup 2026™",
+      "videoId": "kVl6cXUJZX0",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-02",
+      "category": "Highlights",
+      "team": [
+        "Senegal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/kVl6cXUJZX0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Jude Bellingham wins the adidas Bronze Boot at the 2026 FIFA World Cup.",
       "videoId": "to9xUwJlGUs",
@@ -46,6 +62,20 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/hZRXi1bPH8g/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Looks familiar 😓 (via @mosduckrell/TT)",
+      "videoId": "vdwwR7F6j14",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-02",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vdwwR7F6j14/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -401,20 +431,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "All Ousmane Dembele goals at the 2026 FIFA World Cup 🇫🇷 ⚽",
-      "videoId": "XmGrBm_iQV8",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-31",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/XmGrBm_iQV8/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "World Cup 64 teams and HEAD-TO-HEAD concerns? | ESPN FC",
       "videoId": "Iz0cktnO-_U",
       "channel": "ESPN FC",
@@ -424,20 +440,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/Iz0cktnO-_U/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Kylian Mbappe and Achraf Hakimi enjoying some time off 🇫🇷 (via sattel87/IG)",
-      "videoId": "HcxAYVS3G2M",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-07-31",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/HcxAYVS3G2M/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
