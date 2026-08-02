@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-02T03:43:49.505Z",
+  "lastUpdated": "2026-08-02T06:36:03.612Z",
   "featured": {
-    "match": "hZRXi1bPH8g",
-    "highlight": "hZRXi1bPH8g",
-    "interview": "hZRXi1bPH8g"
+    "match": "JNDxDp1RI5Y",
+    "highlight": "JNDxDp1RI5Y",
+    "interview": "JNDxDp1RI5Y"
   },
   "videos": [
+    {
+      "title": "Norway | ALL GOALS | FIFA World Cup 2026™",
+      "videoId": "JNDxDp1RI5Y",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-02",
+      "category": "Highlights",
+      "team": [
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JNDxDp1RI5Y/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "EVERY Cody Gakpo Goal At The FIFA World Cup",
       "videoId": "hZRXi1bPH8g",
@@ -396,22 +412,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/37MsFGrbawk/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Egypt | ALL GOALS | FIFA World Cup 2026™",
-      "videoId": "sc0uU_em30Y",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-31",
-      "category": "Highlights",
-      "team": [
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/sc0uU_em30Y/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
