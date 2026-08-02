@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-02T17:03:31.869Z",
+  "lastUpdated": "2026-08-02T19:15:19.611Z",
   "featured": {
-    "match": "na8iRA2XL-8",
-    "highlight": "na8iRA2XL-8",
-    "interview": "na8iRA2XL-8"
+    "match": "7i9M1UmLvjM",
+    "highlight": "7i9M1UmLvjM",
+    "interview": "7i9M1UmLvjM"
   },
   "videos": [
+    {
+      "title": "Paraguay | ALL GOALS | FIFA World Cup 2026™",
+      "videoId": "7i9M1UmLvjM",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-02",
+      "category": "Highlights",
+      "team": [
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7i9M1UmLvjM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "All Germany FIFA World Cup Goals | 2014-2026",
       "videoId": "na8iRA2XL-8",
@@ -78,6 +94,34 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/hZRXi1bPH8g/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Sunderland vs. Wrexham | Club Friendly Highlights | ESPN FC",
+      "videoId": "f0dODicv878",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-02",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/f0dODicv878/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Robert Lewandowski bags a brace in his MLS home debut for Chicago Fire 🤩 | MLS Highlights | ESPN FC",
+      "videoId": "Fzb7fmdtUEc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-02",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Fzb7fmdtUEc/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -373,34 +417,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "This will make you as good as Berbatov ⚽️ (via berbo9/IG)",
-      "videoId": "qkrni28n9AE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-01",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/qkrni28n9AE/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "'Our keeper' (via @sportinglagos/IG)",
-      "videoId": "zui_7ChnjJU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-01",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/zui_7ChnjJU/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "Mexico | ALL GOALS | FIFA World Cup 2026™",
       "videoId": "1NZ1J3xQC-4",
       "channel": "FIFA",
@@ -426,20 +442,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/wzduPJwDjeM/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Vinicius Jr | ALL GOALS | FIFA World Cup",
-      "videoId": "BTAVGYp0DUg",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-31",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/BTAVGYp0DUg/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
