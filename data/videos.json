@@ -1,11 +1,43 @@
 {
-  "lastUpdated": "2026-08-03T08:31:32.529Z",
+  "lastUpdated": "2026-08-03T12:27:49.414Z",
   "featured": {
-    "match": "EAiofAydrtc",
-    "highlight": "EAiofAydrtc",
-    "interview": "EAiofAydrtc"
+    "match": "7PluV61PNlU",
+    "highlight": "7PluV61PNlU",
+    "interview": "7PluV61PNlU"
   },
   "videos": [
+    {
+      "title": "Portugal | ALL GOALS | FIFA World Cup 2026™",
+      "videoId": "7PluV61PNlU",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-03",
+      "category": "Highlights",
+      "team": [
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7PluV61PNlU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Turkey | All FIFA World Cup Goals In History",
+      "videoId": "O11BQ1yMx-w",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-03",
+      "category": "Highlights",
+      "team": [
+        "Turkey"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/O11BQ1yMx-w/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Lionel Messi wins the adidas Silver Boot Award at the 2026 FIFA World Cup 🇦🇷",
       "videoId": "EAiofAydrtc",
@@ -410,36 +442,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/YjLN9r9eF6A/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Pau Cubarsi wins the FIFA Young Player Award, presented by Aramco 🇪🇸",
-      "videoId": "fSNtwKZ5rnQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-01",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fSNtwKZ5rnQ/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Japan | ALL GOALS | FIFA World Cup 2026™",
-      "videoId": "c_eu53Np8gM",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-01",
-      "category": "Highlights",
-      "team": [
-        "Japan"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/c_eu53Np8gM/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
