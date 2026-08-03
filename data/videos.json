@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-03T00:00:50.583Z",
+  "lastUpdated": "2026-08-03T04:32:28.408Z",
   "featured": {
-    "match": "kfk3TU2ZUVU",
-    "highlight": "kfk3TU2ZUVU",
-    "interview": "kfk3TU2ZUVU"
+    "match": "SRnF2S94MPg",
+    "highlight": "SRnF2S94MPg",
+    "interview": "SRnF2S94MPg"
   },
   "videos": [
+    {
+      "title": "Netherlands | ALL GOALS | FIFA World Cup 2026™",
+      "videoId": "SRnF2S94MPg",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-03",
+      "category": "Highlights",
+      "team": [
+        "Netherlands"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/SRnF2S94MPg/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "ALL Alegria goals from the 2026 FIFA World Cup 🇩🇿",
       "videoId": "kfk3TU2ZUVU",
@@ -426,22 +442,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/c_eu53Np8gM/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Mexico | ALL GOALS | FIFA World Cup 2026™",
-      "videoId": "1NZ1J3xQC-4",
-      "channel": "FIFA",
-      "publishedAt": "2026-07-31",
-      "category": "Highlights",
-      "team": [
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/1NZ1J3xQC-4/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
