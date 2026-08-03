@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-08-03T15:45:08.832Z",
+  "lastUpdated": "2026-08-03T17:53:47.948Z",
   "featured": {
-    "match": "7PluV61PNlU",
-    "highlight": "7PluV61PNlU",
-    "interview": "7PluV61PNlU"
+    "match": "tTbJwwEAb3I",
+    "highlight": "tTbJwwEAb3I",
+    "interview": "LceZG60vkIE"
   },
   "videos": [
+    {
+      "title": "2026 Race For The Golden Boot | Mbappe, Messi, Haaland, Bellingham",
+      "videoId": "tTbJwwEAb3I",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-03",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tTbJwwEAb3I/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Portugal | ALL GOALS | FIFA World Cup 2026™",
       "videoId": "7PluV61PNlU",
@@ -48,6 +62,20 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/EAiofAydrtc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Grealish has got the skills 👀 (via @jackgrealish/TT)",
+      "videoId": "LceZG60vkIE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-03",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/LceZG60vkIE/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -357,21 +385,7 @@
       "fixtureTeams": null
     },
     {
-      "title": "MESSI RETURNS ⭐ Inter Miami vs. Columbus Crew | MLS Highlights | ESPN FC",
-      "videoId": "eJrP7AkIqik",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-02",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/eJrP7AkIqik/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Ecuador | All World Cup Goals In History",
+      "title": "Ecuador | ALL GOALS In FIFA World Cup History",
       "videoId": "EJu07C2lrj8",
       "channel": "FIFA",
       "publishedAt": "2026-08-01",
@@ -428,22 +442,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/x_D7k2-_Svw/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Ghana | ALL GOALS | FIFA World Cup 2026™",
-      "videoId": "YjLN9r9eF6A",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-01",
-      "category": "Highlights",
-      "team": [
-        "Ghana"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/YjLN9r9eF6A/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
