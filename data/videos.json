@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-04T16:54:30.926Z",
+  "lastUpdated": "2026-08-04T18:40:18.216Z",
   "featured": {
-    "match": "jLpDLDHIPv0",
-    "highlight": "jLpDLDHIPv0",
+    "match": "6_Q8bV-_9hs",
+    "highlight": "6_Q8bV-_9hs",
     "interview": "LceZG60vkIE"
   },
   "videos": [
+    {
+      "title": "Netherlands | ALL GOALS | FIFA World Cup 2026™",
+      "videoId": "6_Q8bV-_9hs",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-04",
+      "category": "Highlights",
+      "team": [
+        "Netherlands"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6_Q8bV-_9hs/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "EVERY Argentina World Cup Goal (2022-2026)",
       "videoId": "jLpDLDHIPv0",
@@ -431,22 +447,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/na8iRA2XL-8/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Senegal | ALL GOALS | FIFA World Cup 2026™",
-      "videoId": "kVl6cXUJZX0",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-02",
-      "category": "Highlights",
-      "team": [
-        "Senegal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/kVl6cXUJZX0/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
