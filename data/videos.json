@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-04T14:23:11.186Z",
+  "lastUpdated": "2026-08-04T16:54:30.926Z",
   "featured": {
-    "match": "AFcKQ7ayUlI",
-    "highlight": "AFcKQ7ayUlI",
+    "match": "jLpDLDHIPv0",
+    "highlight": "jLpDLDHIPv0",
     "interview": "LceZG60vkIE"
   },
   "videos": [
+    {
+      "title": "EVERY Argentina World Cup Goal (2022-2026)",
+      "videoId": "jLpDLDHIPv0",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-04",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jLpDLDHIPv0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Switzerland | ALL GOALS | FIFA World Cup 2026™",
       "videoId": "AFcKQ7ayUlI",
@@ -65,6 +81,34 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/7naWq5xHR6I/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "He went WILD 😭 (via @juventus/TT)",
+      "videoId": "gBu6HFrLMzM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-04",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/gBu6HFrLMzM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Running into Messi as he’s leaving a store 😂 (via @robertocampoo/TT)",
+      "videoId": "PExFY_cEFF4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-04",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/PExFY_cEFF4/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -346,20 +390,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "They were hyped to see Bradley Barcola in the Urus 🏎️ (via @bulletfr0magun/X)",
-      "videoId": "XDqvaGyfNco",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-03",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/XDqvaGyfNco/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "ALL Alegria goals from the 2026 FIFA World Cup 🇩🇿",
       "videoId": "kfk3TU2ZUVU",
       "channel": "FIFA",
@@ -417,34 +447,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/kVl6cXUJZX0/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Jude Bellingham wins the adidas Bronze Boot at the 2026 FIFA World Cup.",
-      "videoId": "to9xUwJlGUs",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-02",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/to9xUwJlGUs/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Liverpool vs. Leeds United | Club Friendly Highlights | ESPN FC",
-      "videoId": "-CqheFbfRCY",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-02",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-CqheFbfRCY/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
