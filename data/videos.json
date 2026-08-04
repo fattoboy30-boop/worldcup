@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-08-03T23:04:30.611Z",
+  "lastUpdated": "2026-08-04T02:49:27.493Z",
   "featured": {
-    "match": "g7YoreU_sd0",
-    "highlight": "g7YoreU_sd0",
+    "match": "7naWq5xHR6I",
+    "highlight": "7naWq5xHR6I",
     "interview": "LceZG60vkIE"
   },
   "videos": [
+    {
+      "title": "Kylian Mbappe wins the adidas Golden Boot Award at the 2026 FIFA World Cup 🇫🇷",
+      "videoId": "7naWq5xHR6I",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-04",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7naWq5xHR6I/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "South Africa | ALL GOALS | FIFA World Cup 2026™",
       "videoId": "g7YoreU_sd0",
@@ -428,22 +442,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/EJu07C2lrj8/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "ALL Australia goals from the 2026 FIFA World Cup",
-      "videoId": "rTxaA9ltSt8",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-01",
-      "category": "Highlights",
-      "team": [
-        "Australia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/rTxaA9ltSt8/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
