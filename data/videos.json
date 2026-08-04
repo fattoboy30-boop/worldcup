@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-04T20:26:55.274Z",
+  "lastUpdated": "2026-08-04T22:15:41.732Z",
   "featured": {
-    "match": "6_Q8bV-_9hs",
-    "highlight": "6_Q8bV-_9hs",
-    "interview": "LceZG60vkIE"
+    "match": "7Ogcz2nRuwQ",
+    "highlight": "7Ogcz2nRuwQ",
+    "interview": "7Ogcz2nRuwQ"
   },
   "videos": [
+    {
+      "title": "All Austria goals at the 2026 FIFA World Cup 🇦🇹",
+      "videoId": "7Ogcz2nRuwQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-04",
+      "category": "Highlights",
+      "team": [
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7Ogcz2nRuwQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Netherlands | ALL GOALS | FIFA World Cup 2026™",
       "videoId": "6_Q8bV-_9hs",
@@ -97,6 +113,20 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/7naWq5xHR6I/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Vinicius Jr. is back amid Arsenal rumors (via realmadridcf/TT)",
+      "videoId": "B2cwsmsPuq0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-04",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/B2cwsmsPuq0/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -390,20 +420,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Grealish has got the skills 👀 (via @jackgrealish/TT)",
-      "videoId": "LceZG60vkIE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-03",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/LceZG60vkIE/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "ALL Alegria goals from the 2026 FIFA World Cup 🇩🇿",
       "videoId": "kfk3TU2ZUVU",
       "channel": "FIFA",
@@ -429,22 +445,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/7i9M1UmLvjM/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "All Germany FIFA World Cup Goals | 2014-2026",
-      "videoId": "na8iRA2XL-8",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-02",
-      "category": "Highlights",
-      "team": [
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/na8iRA2XL-8/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
