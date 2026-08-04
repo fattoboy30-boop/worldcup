@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-04T11:26:45.160Z",
+  "lastUpdated": "2026-08-04T14:23:11.186Z",
   "featured": {
-    "match": "GIsWPF1y2dE",
-    "highlight": "GIsWPF1y2dE",
+    "match": "AFcKQ7ayUlI",
+    "highlight": "AFcKQ7ayUlI",
     "interview": "LceZG60vkIE"
   },
   "videos": [
+    {
+      "title": "Switzerland | ALL GOALS | FIFA World Cup 2026™",
+      "videoId": "AFcKQ7ayUlI",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-04",
+      "category": "Highlights",
+      "team": [
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/AFcKQ7ayUlI/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "The USA's 1994 Showdown With Brazil",
       "videoId": "GIsWPF1y2dE",
@@ -49,6 +65,20 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/7naWq5xHR6I/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Carlo Ancelotti admits the tactical changes he made… 😮‍💨🇧🇷",
+      "videoId": "4sC9eA9k4tQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-04",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4sC9eA9k4tQ/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -406,22 +436,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Norway | ALL GOALS | FIFA World Cup 2026™",
-      "videoId": "JNDxDp1RI5Y",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-02",
-      "category": "Highlights",
-      "team": [
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/JNDxDp1RI5Y/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "Liverpool vs. Leeds United | Club Friendly Highlights | ESPN FC",
       "videoId": "-CqheFbfRCY",
       "channel": "ESPN FC",
@@ -431,20 +445,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/-CqheFbfRCY/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "LEEDS SCORE THREE-STRAIGHT GOALS ON LIVERPOOL TO ERASE A 2-0 DEFICIT IN CHICAGO 😱",
-      "videoId": "XlfiR5ejMyg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-02",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/XlfiR5ejMyg/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
