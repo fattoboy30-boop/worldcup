@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-05T10:39:15.132Z",
+  "lastUpdated": "2026-08-05T12:56:06.993Z",
   "featured": {
-    "match": "fqr0JGdAhiE",
-    "highlight": "fqr0JGdAhiE",
-    "interview": "fqr0JGdAhiE"
+    "match": "dVZ8wRk6h6g",
+    "highlight": "dVZ8wRk6h6g",
+    "interview": "dVZ8wRk6h6g"
   },
   "videos": [
+    {
+      "title": "Brazil | EVERY World Cup Goal (2018-2026)",
+      "videoId": "dVZ8wRk6h6g",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-05",
+      "category": "Highlights",
+      "team": [
+        "Brazil"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/dVZ8wRk6h6g/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "All Bosnia and Herezgovina goals at the 2026 FIFA World Cup 🇧🇦",
       "videoId": "fqr0JGdAhiE",
@@ -435,20 +451,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/O11BQ1yMx-w/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Lionel Messi wins the adidas Silver Boot Award at the 2026 FIFA World Cup 🇦🇷",
-      "videoId": "EAiofAydrtc",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-03",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/EAiofAydrtc/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
