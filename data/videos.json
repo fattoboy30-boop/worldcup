@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-05T15:19:01.386Z",
+  "lastUpdated": "2026-08-05T17:42:37.663Z",
   "featured": {
-    "match": "vL2dZt_5wDA",
-    "highlight": "vL2dZt_5wDA",
-    "interview": "vL2dZt_5wDA"
+    "match": "C6Q2iRBcBZ0",
+    "highlight": "C6Q2iRBcBZ0",
+    "interview": "C6Q2iRBcBZ0"
   },
   "videos": [
+    {
+      "title": "USA | ALL GOALS | FIFA World Cup 2026™",
+      "videoId": "C6Q2iRBcBZ0",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-05",
+      "category": "Highlights",
+      "team": [
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/C6Q2iRBcBZ0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "All Cabo Verde goals at the 2026 FIFA World Cup 🇨🇻",
       "videoId": "vL2dZt_5wDA",
@@ -433,22 +449,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/tTbJwwEAb3I/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Portugal | ALL GOALS | FIFA World Cup 2026™",
-      "videoId": "7PluV61PNlU",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-03",
-      "category": "Highlights",
-      "team": [
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7PluV61PNlU/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
