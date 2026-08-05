@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-05T07:42:07.768Z",
+  "lastUpdated": "2026-08-05T10:39:15.132Z",
   "featured": {
-    "match": "aZ2WL4O84M4",
-    "highlight": "aZ2WL4O84M4",
-    "interview": "aZ2WL4O84M4"
+    "match": "fqr0JGdAhiE",
+    "highlight": "fqr0JGdAhiE",
+    "interview": "fqr0JGdAhiE"
   },
   "videos": [
+    {
+      "title": "All Bosnia and Herezgovina goals at the 2026 FIFA World Cup 🇧🇦",
+      "videoId": "fqr0JGdAhiE",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-05",
+      "category": "Highlights",
+      "team": [
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fqr0JGdAhiE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "England Hit Panama For 6 In 2018 | Extended FIFA World Cup Highlights",
       "videoId": "aZ2WL4O84M4",
@@ -433,20 +449,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/EAiofAydrtc/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "ALL Alegria goals from the 2026 FIFA World Cup 🇩🇿",
-      "videoId": "kfk3TU2ZUVU",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-02",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/kfk3TU2ZUVU/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
