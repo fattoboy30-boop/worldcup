@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-08-06T08:41:49.368Z",
+  "lastUpdated": "2026-08-06T11:26:00.268Z",
   "featured": {
-    "match": "U_PTIva-WAQ",
-    "highlight": "U_PTIva-WAQ",
+    "match": "wEUJ0TzCRIc",
+    "highlight": "wEUJ0TzCRIc",
     "interview": "it9_PhUlD-E"
   },
   "videos": [
+    {
+      "title": "When Things Went Wrong! | BIZARRE GOALS | FIFA World Cup 2026™",
+      "videoId": "wEUJ0TzCRIc",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-06",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/wEUJ0TzCRIc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "All Congo DR goals at the 2026 FIFA World Cup 🇨🇩",
       "videoId": "U_PTIva-WAQ",
@@ -431,22 +445,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/7naWq5xHR6I/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "South Africa | ALL GOALS | FIFA World Cup 2026™",
-      "videoId": "g7YoreU_sd0",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-03",
-      "category": "Highlights",
-      "team": [
-        "South Africa"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/g7YoreU_sd0/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
