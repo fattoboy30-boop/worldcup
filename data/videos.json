@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-07T09:02:45.772Z",
+  "lastUpdated": "2026-08-07T10:55:39.228Z",
   "featured": {
-    "match": "CQhmFM0B0zs",
-    "highlight": "CQhmFM0B0zs",
+    "match": "AQTBoj155b0",
+    "highlight": "AQTBoj155b0",
     "interview": "RW-LBaRKPPs"
   },
   "videos": [
+    {
+      "title": "England | EVERY World Cup Goal (2022-2026)",
+      "videoId": "AQTBoj155b0",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-07",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/AQTBoj155b0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "All Croatia goals at the 2026 FIFA World Cup 🇭🇷",
       "videoId": "CQhmFM0B0zs",
@@ -428,22 +444,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/7Ogcz2nRuwQ/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Netherlands | ALL GOALS | FIFA World Cup 2026™",
-      "videoId": "6_Q8bV-_9hs",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-04",
-      "category": "Highlights",
-      "team": [
-        "Netherlands"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/6_Q8bV-_9hs/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
