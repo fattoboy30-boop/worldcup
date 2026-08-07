@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-08-07T19:01:33.138Z",
+  "lastUpdated": "2026-08-07T20:44:29.761Z",
   "featured": {
-    "match": "kNhEYLk3cgM",
-    "highlight": "kNhEYLk3cgM",
+    "match": "rgO0PeV39xk",
+    "highlight": "rgO0PeV39xk",
     "interview": "RW-LBaRKPPs"
   },
   "videos": [
+    {
+      "title": "All Côte d'Ivoire goals at the 2026 FIFA World Cup 🇨🇮",
+      "videoId": "rgO0PeV39xk",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-07",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/rgO0PeV39xk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "EVERY GOAL Scored By A Real Madrid Player | FIFA World Cup 2026™",
       "videoId": "kNhEYLk3cgM",
@@ -426,22 +440,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/dVZ8wRk6h6g/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "All Bosnia and Herezgovina goals at the 2026 FIFA World Cup 🇧🇦",
-      "videoId": "fqr0JGdAhiE",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-05",
-      "category": "Highlights",
-      "team": [
-        "Bosnia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fqr0JGdAhiE/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
