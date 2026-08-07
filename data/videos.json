@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-07T07:20:36.647Z",
+  "lastUpdated": "2026-08-07T09:02:45.772Z",
   "featured": {
-    "match": "6BzkJU0YxlE",
-    "highlight": "6BzkJU0YxlE",
+    "match": "CQhmFM0B0zs",
+    "highlight": "CQhmFM0B0zs",
     "interview": "RW-LBaRKPPs"
   },
   "videos": [
+    {
+      "title": "All Croatia goals at the 2026 FIFA World Cup 🇭🇷",
+      "videoId": "CQhmFM0B0zs",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-07",
+      "category": "Highlights",
+      "team": [
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/CQhmFM0B0zs/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "France | ALL GOALS | FIFA World Cup 2026™",
       "videoId": "6BzkJU0YxlE",
@@ -428,22 +444,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/6_Q8bV-_9hs/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "EVERY Argentina World Cup Goal (2022-2026)",
-      "videoId": "jLpDLDHIPv0",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-04",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/jLpDLDHIPv0/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
