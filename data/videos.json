@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-08-07T15:59:42.627Z",
+  "lastUpdated": "2026-08-07T17:02:02.185Z",
   "featured": {
-    "match": "AVZUj1wDdqs",
-    "highlight": "AVZUj1wDdqs",
+    "match": "kNhEYLk3cgM",
+    "highlight": "kNhEYLk3cgM",
     "interview": "RW-LBaRKPPs"
   },
   "videos": [
+    {
+      "title": "EVERY GOAL Scored By A Real Madrid Player | FIFA World Cup 2026™",
+      "videoId": "kNhEYLk3cgM",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-07",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/kNhEYLk3cgM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Lionel Messi | ALL GOALS In FIFA World Cup History",
       "videoId": "AVZUj1wDdqs",
@@ -64,6 +78,36 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/6BzkJU0YxlE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Lamine Yamal vibing with artist Ryan Castro in Medellín, Colombia 🕺 (via @mohamedel_ab/IG)",
+      "videoId": "vTcbdBAC34g",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-07",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vTcbdBAC34g/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Franco Mastantuono got a warm welcome from Fiorentina supporters 😎 (via @flavio_ogniss/IG)",
+      "videoId": "tQh3cl7mIos",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-07",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tQh3cl7mIos/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -341,34 +385,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Still confused about this 💀 (via @laliga/IG)",
-      "videoId": "Z96rwZ5YNAc",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-06",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Z96rwZ5YNAc/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Antoine Griezmann in front of the home fans 🇫🇷🇺🇸🔥",
-      "videoId": "VfBq3OKOzbk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-06",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/VfBq3OKOzbk/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "USA | ALL GOALS | FIFA World Cup 2026™",
       "videoId": "C6Q2iRBcBZ0",
       "channel": "FIFA",
@@ -426,22 +442,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/fqr0JGdAhiE/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "England Hit Panama For 6 In 2018 | Extended FIFA World Cup Highlights",
-      "videoId": "aZ2WL4O84M4",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-05",
-      "category": "Highlights",
-      "team": [
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/aZ2WL4O84M4/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
