@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-08-08T11:31:20.774Z",
+  "lastUpdated": "2026-08-08T12:54:34.803Z",
   "featured": {
-    "match": "AM-PtC38T8s",
-    "highlight": "AM-PtC38T8s",
-    "interview": "AM-PtC38T8s"
+    "match": "eRE5kbng8DA",
+    "highlight": "eRE5kbng8DA",
+    "interview": "eRE5kbng8DA"
   },
   "videos": [
+    {
+      "title": "ALL GOALS Scored By PSG Players | FIFA World Cup 2026™",
+      "videoId": "eRE5kbng8DA",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-08",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/eRE5kbng8DA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "All Egypt goals at the 2026 FIFA World Cup 🇪🇬",
       "videoId": "AM-PtC38T8s",
@@ -426,22 +440,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/kEKyus11m1Q/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "USA | ALL GOALS | FIFA World Cup 2026™",
-      "videoId": "C6Q2iRBcBZ0",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-05",
-      "category": "Highlights",
-      "team": [
-        "USA"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/C6Q2iRBcBZ0/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
