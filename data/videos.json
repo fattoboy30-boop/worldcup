@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-08T08:45:51.082Z",
+  "lastUpdated": "2026-08-08T09:40:52.957Z",
   "featured": {
-    "match": "5qMWY5pmglI",
-    "highlight": "5qMWY5pmglI",
-    "interview": "5qMWY5pmglI"
+    "match": "AM-PtC38T8s",
+    "highlight": "AM-PtC38T8s",
+    "interview": "AM-PtC38T8s"
   },
   "videos": [
+    {
+      "title": "All Egypt goals at the 2026 FIFA World Cup 🇪🇬",
+      "videoId": "AM-PtC38T8s",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-08",
+      "category": "Highlights",
+      "team": [
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/AM-PtC38T8s/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Famous Bafana Win Over France | 2010 World Cup Short Highlights",
       "videoId": "5qMWY5pmglI",
@@ -426,20 +442,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/C6Q2iRBcBZ0/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "All Cabo Verde goals at the 2026 FIFA World Cup 🇨🇻",
-      "videoId": "vL2dZt_5wDA",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-05",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vL2dZt_5wDA/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
