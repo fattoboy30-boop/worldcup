@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-09T07:00:58.600Z",
+  "lastUpdated": "2026-08-09T08:47:11.366Z",
   "featured": {
-    "match": "cxINT1ptc14",
-    "highlight": "cxINT1ptc14",
-    "interview": "cxINT1ptc14"
+    "match": "5JFfj1WgApM",
+    "highlight": "5JFfj1WgApM",
+    "interview": "5JFfj1WgApM"
   },
   "videos": [
+    {
+      "title": "ALL Ghana goals at the 2026 FIFA World Cup 🇬🇭",
+      "videoId": "5JFfj1WgApM",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-09",
+      "category": "Highlights",
+      "team": [
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/5JFfj1WgApM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Japan | ALL World Cup Goals (2014–2026)",
       "videoId": "cxINT1ptc14",
@@ -83,7 +99,7 @@
       "fixtureTeams": null
     },
     {
-      "title": "ALL GOALS Scored By PSG Players | FIFA World Cup 2026���",
+      "title": "ALL GOALS Scored By PSG Players | FIFA World Cup 2026™",
       "videoId": "eRE5kbng8DA",
       "channel": "FIFA",
       "publishedAt": "2026-08-08",
@@ -430,20 +446,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/dcuJXkDXtvI/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Kylian Mbappe | ALL World Cup Goals | Record Scorer",
-      "videoId": "5MMAlGK7fCM",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-06",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/5MMAlGK7fCM/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
