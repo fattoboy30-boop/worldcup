@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-09T19:35:34.136Z",
+  "lastUpdated": "2026-08-09T20:36:12.616Z",
   "featured": {
-    "match": "7ibf1-njkuo",
-    "highlight": "7ibf1-njkuo",
-    "interview": "7ibf1-njkuo"
+    "match": "KF03G7UFPlI",
+    "highlight": "KF03G7UFPlI",
+    "interview": "KF03G7UFPlI"
   },
   "videos": [
+    {
+      "title": "Ecuador | ALL GOALS | FIFA World Cup 2026™",
+      "videoId": "KF03G7UFPlI",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-09",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/KF03G7UFPlI/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "ALL Norway goals at the 2026 FIFA World Cup 🇳🇴",
       "videoId": "7ibf1-njkuo",
@@ -429,22 +445,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/AQTBoj155b0/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "All Croatia goals at the 2026 FIFA World Cup 🇭🇷",
-      "videoId": "CQhmFM0B0zs",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-07",
-      "category": "Highlights",
-      "team": [
-        "Croatia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/CQhmFM0B0zs/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
