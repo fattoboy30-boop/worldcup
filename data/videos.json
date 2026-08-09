@@ -1,11 +1,28 @@
 {
-  "lastUpdated": "2026-08-09T10:37:37.417Z",
+  "lastUpdated": "2026-08-09T11:32:06.428Z",
   "featured": {
-    "match": "5JFfj1WgApM",
-    "highlight": "5JFfj1WgApM",
-    "interview": "5JFfj1WgApM"
+    "match": "A-hBeJH1hbw",
+    "highlight": "A-hBeJH1hbw",
+    "interview": "A-hBeJH1hbw"
   },
   "videos": [
+    {
+      "title": "1-Minute Match: Belgium 0-2 Morocco | 2022 World Cup",
+      "videoId": "A-hBeJH1hbw",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-09",
+      "category": "Highlights",
+      "team": [
+        "Belgium",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/A-hBeJH1hbw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "ALL Ghana goals at the 2026 FIFA World Cup 🇬🇭",
       "videoId": "5JFfj1WgApM",
@@ -430,22 +447,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/j9b5GJ_p1RU/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Canada | ALL GOALS | FIFA World Cup 2026™",
-      "videoId": "dcuJXkDXtvI",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-06",
-      "category": "Highlights",
-      "team": [
-        "Canada"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/dcuJXkDXtvI/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
