@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-09T16:38:46.489Z",
+  "lastUpdated": "2026-08-09T17:34:03.927Z",
   "featured": {
-    "match": "rn8PMIRUkAA",
-    "highlight": "rn8PMIRUkAA",
-    "interview": "rn8PMIRUkAA"
+    "match": "7ibf1-njkuo",
+    "highlight": "7ibf1-njkuo",
+    "interview": "7ibf1-njkuo"
   },
   "videos": [
+    {
+      "title": "ALL Norway goals at the 2026 FIFA World Cup 🇳🇴",
+      "videoId": "7ibf1-njkuo",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-09",
+      "category": "Highlights",
+      "team": [
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7ibf1-njkuo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "ALL GOALS Scored By Bayern Munich Players | FIFA World Cup 2026™",
       "videoId": "rn8PMIRUkAA",
@@ -429,22 +445,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/CQhmFM0B0zs/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "France | ALL GOALS | FIFA World Cup 2026™",
-      "videoId": "6BzkJU0YxlE",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-07",
-      "category": "Highlights",
-      "team": [
-        "France"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/6BzkJU0YxlE/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
