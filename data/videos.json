@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-09T03:49:16.843Z",
+  "lastUpdated": "2026-08-09T05:08:52.784Z",
   "featured": {
-    "match": "kw7Itj4CxLo",
-    "highlight": "kw7Itj4CxLo",
-    "interview": "kw7Itj4CxLo"
+    "match": "cxINT1ptc14",
+    "highlight": "cxINT1ptc14",
+    "interview": "cxINT1ptc14"
   },
   "videos": [
+    {
+      "title": "Japan | ALL World Cup Goals (2014–2026)",
+      "videoId": "cxINT1ptc14",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-09",
+      "category": "Highlights",
+      "team": [
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cxINT1ptc14/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Inter Miami vs. C.F. Monterrey | Leagues Cup Highlights | ESPN FC",
       "videoId": "kw7Itj4CxLo",
@@ -428,20 +444,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/5MMAlGK7fCM/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "When Things Went Wrong! | BIZARRE GOALS | FIFA World Cup 2026™",
-      "videoId": "wEUJ0TzCRIc",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-06",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/wEUJ0TzCRIc/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
