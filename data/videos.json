@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-10T10:19:24.120Z",
+  "lastUpdated": "2026-08-10T11:49:56.403Z",
   "featured": {
-    "match": "xo43ttGt1q0",
-    "highlight": "xo43ttGt1q0",
+    "match": "g_7XK-09mXE",
+    "highlight": "g_7XK-09mXE",
     "interview": "FMa7e4nxsRQ"
   },
   "videos": [
+    {
+      "title": "ALL Germany goals at the 2026 FIFA World Cup 🇩🇪",
+      "videoId": "g_7XK-09mXE",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-10",
+      "category": "Highlights",
+      "team": [
+        "Germany"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/g_7XK-09mXE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "The Best of the FIFA Fan Festival! 🌟⚽️🙌 FIFA World Cup 2026",
       "videoId": "xo43ttGt1q0",
@@ -429,20 +445,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/rgO0PeV39xk/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "EVERY GOAL Scored By A Real Madrid Player | FIFA World Cup 2026™",
-      "videoId": "kNhEYLk3cgM",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-07",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/kNhEYLk3cgM/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
