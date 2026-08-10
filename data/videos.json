@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-10T04:40:18.563Z",
+  "lastUpdated": "2026-08-10T06:12:01.030Z",
   "featured": {
-    "match": "QY70nnwtNmg",
-    "highlight": "QY70nnwtNmg",
+    "match": "C3FfqL4KagM",
+    "highlight": "C3FfqL4KagM",
     "interview": "FMa7e4nxsRQ"
   },
   "videos": [
+    {
+      "title": "Netherlands EVERY World Cup Goal (2014–2026)",
+      "videoId": "C3FfqL4KagM",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-10",
+      "category": "Highlights",
+      "team": [
+        "Netherlands"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/C3FfqL4KagM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Seattle Reign vs. Angel City FC | NWSL Highlights | ESPN FC",
       "videoId": "QY70nnwtNmg",
@@ -427,22 +443,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/AVZUj1wDdqs/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "England | EVERY World Cup Goal (2022-2026)",
-      "videoId": "AQTBoj155b0",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-07",
-      "category": "Highlights",
-      "team": [
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/AQTBoj155b0/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
