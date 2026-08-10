@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-10T19:01:11.652Z",
+  "lastUpdated": "2026-08-10T20:46:14.094Z",
   "featured": {
-    "match": "NBADeEycyeM",
-    "highlight": "NBADeEycyeM",
+    "match": "K3kZb7f3NZg",
+    "highlight": "K3kZb7f3NZg",
     "interview": "FMa7e4nxsRQ"
   },
   "videos": [
+    {
+      "title": "10-Minute Match: USA Roar Back in 2010 World Cup",
+      "videoId": "K3kZb7f3NZg",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-10",
+      "category": "Highlights",
+      "team": [
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/K3kZb7f3NZg/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "ALL Portugal goals at the 2026 FIFA World Cup 🇵🇹",
       "videoId": "NBADeEycyeM",
@@ -433,22 +449,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/eRE5kbng8DA/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "All Egypt goals at the 2026 FIFA World Cup 🇪🇬",
-      "videoId": "AM-PtC38T8s",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-08",
-      "category": "Highlights",
-      "team": [
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/AM-PtC38T8s/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
