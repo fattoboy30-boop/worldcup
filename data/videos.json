@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-10T13:15:23.649Z",
+  "lastUpdated": "2026-08-10T15:01:19.660Z",
   "featured": {
-    "match": "g_7XK-09mXE",
-    "highlight": "g_7XK-09mXE",
+    "match": "DVT7E1FH7OI",
+    "highlight": "DVT7E1FH7OI",
     "interview": "FMa7e4nxsRQ"
   },
   "videos": [
+    {
+      "title": "England's Kane | All 14 World Cup Goals",
+      "videoId": "DVT7E1FH7OI",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-10",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/DVT7E1FH7OI/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "ALL Germany goals at the 2026 FIFA World Cup 🇩🇪",
       "videoId": "g_7XK-09mXE",
@@ -48,6 +64,22 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/C3FfqL4KagM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Imagine seeing this (via equipedefrance/TT)",
+      "videoId": "w7BlEXoBiO8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-10",
+      "category": "Highlights",
+      "team": [
+        "France"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/w7BlEXoBiO8/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -344,20 +376,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Zlatan cooking it up on holiday 🌭 (via @zlatanibrahimovic/TT)",
-      "videoId": "MQztbe2S2eI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-09",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/MQztbe2S2eI/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "Paraguay ALL‑TIME World Cup Goals (1986–2026)",
       "videoId": "FYc9S_6FGRc",
       "channel": "FIFA",
@@ -431,20 +449,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/5qMWY5pmglI/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "All Côte d'Ivoire goals at the 2026 FIFA World Cup 🇨🇮",
-      "videoId": "rgO0PeV39xk",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-07",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/rgO0PeV39xk/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
