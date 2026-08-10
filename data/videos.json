@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-10T15:01:19.660Z",
+  "lastUpdated": "2026-08-10T16:56:19.588Z",
   "featured": {
-    "match": "DVT7E1FH7OI",
-    "highlight": "DVT7E1FH7OI",
+    "match": "NBADeEycyeM",
+    "highlight": "NBADeEycyeM",
     "interview": "FMa7e4nxsRQ"
   },
   "videos": [
+    {
+      "title": "ALL Portugal goals at the 2026 FIFA World Cup 🇵🇹",
+      "videoId": "NBADeEycyeM",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-10",
+      "category": "Highlights",
+      "team": [
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/NBADeEycyeM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "England's Kane | All 14 World Cup Goals",
       "videoId": "DVT7E1FH7OI",
@@ -433,22 +449,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/AM-PtC38T8s/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Famous Bafana Win Over France | 2010 World Cup Short Highlights",
-      "videoId": "5qMWY5pmglI",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-08",
-      "category": "Highlights",
-      "team": [
-        "France"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/5qMWY5pmglI/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
