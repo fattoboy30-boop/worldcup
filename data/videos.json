@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-08-11T07:12:33.909Z",
+  "lastUpdated": "2026-08-11T09:01:18.795Z",
   "featured": {
     "match": "yNFNgS8I6_s",
-    "highlight": "FTPr0ifhkvE",
-    "interview": "FTPr0ifhkvE"
+    "highlight": "tn0uFzgokI0",
+    "interview": "tn0uFzgokI0"
   },
   "videos": [
+    {
+      "title": "All Jude Bellingham goals at the 2026 FIFA World Cup",
+      "videoId": "tn0uFzgokI0",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-11",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tn0uFzgokI0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Messi Leads In 5-Goal Thriller | 2014 FIFA World Cup Short Highlights",
       "videoId": "FTPr0ifhkvE",
@@ -433,22 +447,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/FYc9S_6FGRc/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "ALL Brazil goals at the 2026 FIFA World Cup ����🇷",
-      "videoId": "fmu4uYVfRPU",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-08",
-      "category": "Highlights",
-      "team": [
-        "Brazil"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fmu4uYVfRPU/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
