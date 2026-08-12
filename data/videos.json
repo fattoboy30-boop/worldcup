@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-08-12T10:09:40.956Z",
+  "lastUpdated": "2026-08-12T11:49:45.173Z",
   "featured": {
-    "match": "sNPF2lXAoWs",
-    "highlight": "sNPF2lXAoWs",
+    "match": "V0fIiKtkzHo",
+    "highlight": "V0fIiKtkzHo",
     "interview": "DMJ4lZpZYVc"
   },
   "videos": [
+    {
+      "title": "ALL GOALS By Arsenal Players | FIFA World Cup 2026™",
+      "videoId": "V0fIiKtkzHo",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/V0fIiKtkzHo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "ALL Netherlands goals at the 2026 FIFA World Cup 🇳🇱",
       "videoId": "sNPF2lXAoWs",
@@ -430,22 +444,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/C3FfqL4KagM/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Ecuador | ALL GOALS | FIFA World Cup 2026™",
-      "videoId": "KF03G7UFPlI",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-09",
-      "category": "Highlights",
-      "team": [
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/KF03G7UFPlI/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
