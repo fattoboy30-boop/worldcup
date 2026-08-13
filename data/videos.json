@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-13T08:23:14.072Z",
+  "lastUpdated": "2026-08-13T10:10:30.699Z",
   "featured": {
-    "match": "x68nIhX8dQk",
-    "highlight": "x68nIhX8dQk",
+    "match": "IWfmNlgl4tA",
+    "highlight": "IWfmNlgl4tA",
     "interview": "nh-7B4qyFCc"
   },
   "videos": [
+    {
+      "title": "ALL Japan goals at the 2026 FIFA World Cup 🇯🇵",
+      "videoId": "IWfmNlgl4tA",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-13",
+      "category": "Highlights",
+      "team": [
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/IWfmNlgl4tA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Maradona, Argentina Outlast Italian Hosts | 1990 World Cup Semi-Final",
       "videoId": "x68nIhX8dQk",
@@ -426,22 +442,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/K3kZb7f3NZg/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "ALL Portugal goals at the 2026 FIFA World Cup 🇵🇹",
-      "videoId": "NBADeEycyeM",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-10",
-      "category": "Highlights",
-      "team": [
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/NBADeEycyeM/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
