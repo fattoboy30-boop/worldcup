@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-13T11:50:23.860Z",
+  "lastUpdated": "2026-08-13T13:18:24.538Z",
   "featured": {
-    "match": "IWfmNlgl4tA",
-    "highlight": "IWfmNlgl4tA",
-    "interview": "nh-7B4qyFCc"
+    "match": "lYhUG2OqXP0",
+    "highlight": "lYhUG2OqXP0",
+    "interview": "QpA0HcJFM18"
   },
   "videos": [
+    {
+      "title": "Messi, Argentina Start 2022 With Shock Loss",
+      "videoId": "lYhUG2OqXP0",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-13",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/lYhUG2OqXP0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "ALL Japan goals at the 2026 FIFA World Cup 🇯🇵",
       "videoId": "IWfmNlgl4tA",
@@ -34,6 +50,48 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/x68nIhX8dQk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Marcus Rashford training with Manchester United 💪 (via @Manutd/TT)",
+      "videoId": "QpA0HcJFM18",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-13",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QpA0HcJFM18/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Jude Bellingham season loading ⏳(via @RealMadrid/TT)",
+      "videoId": "ScFfrwyGNUc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ScFfrwyGNUc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Lamine Yamal is back training with Barcelona ☀️ (via @fcbarcelona/TT)",
+      "videoId": "y5scUOmS3Vo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-13",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/y5scUOmS3Vo/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -298,48 +356,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "If these two ever played in the same midfield 🤯 (via @bghayward/IG)",
-      "videoId": "7CtYzuhRd20",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-12",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7CtYzuhRd20/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Columbus Crew SC vs. Pumas UNAM [FULL PENALTY SHOOTOUT] | ESPN FC",
-      "videoId": "gdnBvXZX0HM",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-12",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/gdnBvXZX0HM/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "LALIGA transfer updates 👀 Will Rodri join Barelona? Will Endrick remain at Real Madrid? | ESPN FC",
-      "videoId": "zP5EaRg2EJQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-12",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/zP5EaRg2EJQ/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "ALL Mexico goals at the 2026 FIFA World Cup 🇲🇽",
       "videoId": "SF2vwQxJsjw",
       "channel": "FIFA",
@@ -426,22 +442,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/FTPr0ifhkvE/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "10-Minute Match: USA Roar Back in 2010 World Cup",
-      "videoId": "K3kZb7f3NZg",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-10",
-      "category": "Highlights",
-      "team": [
-        "USA"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/K3kZb7f3NZg/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
