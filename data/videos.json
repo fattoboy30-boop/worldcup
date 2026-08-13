@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-08-12T23:45:26.637Z",
+  "lastUpdated": "2026-08-13T02:12:54.267Z",
   "featured": {
-    "match": "3UqKM_gdNys",
-    "highlight": "3UqKM_gdNys",
+    "match": "EZoqxGvzptU",
+    "highlight": "EZoqxGvzptU",
     "interview": "nh-7B4qyFCc"
   },
   "videos": [
+    {
+      "title": "Inter Miami vs. Club Leon | Leagues Cup Highlights | ESPN FC",
+      "videoId": "EZoqxGvzptU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/EZoqxGvzptU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Germany | ALL GOALS | FIFA World Cup 2026™",
       "videoId": "3UqKM_gdNys",
@@ -380,20 +394,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/bZgn5cPd-_k/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Bend it like Beckham 😮‍💨⚽️💥 (via @tsg.fredersdorf.b.jugend/IG)",
-      "videoId": "AhvmwJUqlQI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-11",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/AhvmwJUqlQI/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
