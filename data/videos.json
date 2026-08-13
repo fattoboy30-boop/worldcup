@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-13T19:55:52.447Z",
+  "lastUpdated": "2026-08-13T20:49:40.070Z",
   "featured": {
-    "match": "2PMiwNaMBUA",
-    "highlight": "2PMiwNaMBUA",
+    "match": "6yH5NG23IMw",
+    "highlight": "6yH5NG23IMw",
     "interview": "UFBj02MYs3Y"
   },
   "videos": [
+    {
+      "title": "EVERY Mexico World Cup Goal (2014-2026)",
+      "videoId": "6yH5NG23IMw",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-13",
+      "category": "Highlights",
+      "team": [
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6yH5NG23IMw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "ALL Morocco goals at the 2026 FIFA World Cup 🇲🇦",
       "videoId": "2PMiwNaMBUA",
@@ -431,22 +447,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/mr5bE6DvQoo/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Belgium EVERY World Cup Goal (2018–2026)",
-      "videoId": "Hxp9Vz9Om7g",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-11",
-      "category": "Highlights",
-      "team": [
-        "Belgium"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Hxp9Vz9Om7g/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
