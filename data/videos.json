@@ -1,11 +1,28 @@
 {
-  "lastUpdated": "2026-08-14T15:54:55.274Z",
+  "lastUpdated": "2026-08-14T16:57:00.731Z",
   "featured": {
-    "match": "tFy8Q-qpEwE",
-    "highlight": "tFy8Q-qpEwE",
-    "interview": "tFy8Q-qpEwE"
+    "match": "GePZYyaFkWc",
+    "highlight": "GePZYyaFkWc",
+    "interview": "GePZYyaFkWc"
   },
   "videos": [
+    {
+      "title": "Brazil Stunned By Caniggia, Argentina | 1990 World Cup Round of 16",
+      "videoId": "GePZYyaFkWc",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-14",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/GePZYyaFkWc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "EVERY Portugal World Cup Goal (2018-2026)",
       "videoId": "tFy8Q-qpEwE",
@@ -431,22 +448,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/V0fIiKtkzHo/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "ALL Netherlands goals at the 2026 FIFA World Cup 🇳🇱",
-      "videoId": "sNPF2lXAoWs",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-12",
-      "category": "Highlights",
-      "team": [
-        "Netherlands"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/sNPF2lXAoWs/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
