@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-14T10:05:57.194Z",
+  "lastUpdated": "2026-08-14T11:46:38.393Z",
   "featured": {
-    "match": "VFjzqwYNsbY",
-    "highlight": "VFjzqwYNsbY",
+    "match": "GLAsbXIO3gg",
+    "highlight": "GLAsbXIO3gg",
     "interview": "UFBj02MYs3Y"
   },
   "videos": [
+    {
+      "title": "Sweden | ALL GOALS | FIFA World Cup 2026™",
+      "videoId": "GLAsbXIO3gg",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-14",
+      "category": "Highlights",
+      "team": [
+        "Sweden"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/GLAsbXIO3gg/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "ALL Senegal goals at the 2026 FIFA World Cup 🇸🇳",
       "videoId": "VFjzqwYNsbY",
@@ -432,22 +448,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/A9VGAFVOCIc/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "ALL Mexico goals at the 2026 FIFA World Cup 🇲🇽",
-      "videoId": "SF2vwQxJsjw",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-11",
-      "category": "Highlights",
-      "team": [
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/SF2vwQxJsjw/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
