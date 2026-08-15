@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-15T19:23:28.161Z",
+  "lastUpdated": "2026-08-15T20:25:24.624Z",
   "featured": {
-    "match": "qZW-VwxQB10",
-    "highlight": "qZW-VwxQB10",
+    "match": "vEI0Intz_gA",
+    "highlight": "vEI0Intz_gA",
     "interview": "crtmJGhyXOo"
   },
   "videos": [
+    {
+      "title": "All Canada goals at the 2026 FIFA World Cup 🇨🇦",
+      "videoId": "vEI0Intz_gA",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-15",
+      "category": "Highlights",
+      "team": [
+        "Canada"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vEI0Intz_gA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Argentina 3-0 Croatia | 2022 Semi-Final Extended Highlights",
       "videoId": "qZW-VwxQB10",
@@ -68,6 +84,34 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/5gtPVnozi9k/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Only took 3 minutes for Rayo Vallecano to score their first goal of the new LALIGA season 😅",
+      "videoId": "McCw81ezGHQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-15",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/McCw81ezGHQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "LALIGA SEASON OPENER 🚨 Getafe vs. Alaves | LALIGA Highlights | ESPN FC",
+      "videoId": "RAkAo4ArZiU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-15",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RAkAo4ArZiU/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -354,34 +398,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Enzo Fernandez remains at Chelsea despite Man City rumors | ESPN FC",
-      "videoId": "Mvzj_bJJAJw",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-14",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Mvzj_bJJAJw/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Even his practice clips are tuff 😭🔥 (via fcbarcelona/TT)",
-      "videoId": "WOw7QB2Foas",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-14",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/WOw7QB2Foas/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "EVERY Mexico World Cup Goal (2014-2026)",
       "videoId": "6yH5NG23IMw",
       "channel": "FIFA",
@@ -442,22 +458,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/lYhUG2OqXP0/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "ALL Japan goals at the 2026 FIFA World Cup 🇯🇵",
-      "videoId": "IWfmNlgl4tA",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-13",
-      "category": "Highlights",
-      "team": [
-        "Japan"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/IWfmNlgl4tA/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
