@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-15T08:32:37.247Z",
+  "lastUpdated": "2026-08-15T09:28:35.835Z",
   "featured": {
-    "match": "5gtPVnozi9k",
-    "highlight": "5gtPVnozi9k",
-    "interview": "5gtPVnozi9k"
+    "match": "O3sCPqEI0O8",
+    "highlight": "O3sCPqEI0O8",
+    "interview": "O3sCPqEI0O8"
   },
   "videos": [
+    {
+      "title": "ALL Switzerland goals at the 2026 FIFA World Cup 🇨🇭",
+      "videoId": "O3sCPqEI0O8",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-15",
+      "category": "Highlights",
+      "team": [
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/O3sCPqEI0O8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "ALL Australia World Cup Goals In History",
       "videoId": "5gtPVnozi9k",
@@ -438,20 +454,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/3UqKM_gdNys/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "The BEST of Lionel Messi Through The Years At The World Cup 🇦🇷",
-      "videoId": "FM-WyL5zA2Q",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-12",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FM-WyL5zA2Q/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
