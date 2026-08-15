@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-15T17:22:56.932Z",
+  "lastUpdated": "2026-08-15T18:33:28.279Z",
   "featured": {
     "match": "qZW-VwxQB10",
     "highlight": "qZW-VwxQB10",
-    "interview": "qZW-VwxQB10"
+    "interview": "crtmJGhyXOo"
   },
   "videos": [
     {
@@ -68,6 +68,34 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/5gtPVnozi9k/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Diomandé pulling out moves during Real Madrid training sessions 👀 (via realmadrid/TT)",
+      "videoId": "crtmJGhyXOo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-15",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/crtmJGhyXOo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "PSG's newly crowned World Cup champions training alongside each other 🏆 🤝 (via @psg/TT)",
+      "videoId": "si5tQgq3KME",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-15",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/si5tQgq3KME/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -352,34 +380,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Too clean (via arthurzinnv/IG)",
-      "videoId": "xH6m4B26B4I",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-14",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xH6m4B26B4I/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "REPORT: Folarin Balogun gives GREEN LIGHT to join Tottenham | Futbol Americas",
-      "videoId": "hUNxavy6gzw",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-14",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/hUNxavy6gzw/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "EVERY Mexico World Cup Goal (2014-2026)",
       "videoId": "6yH5NG23IMw",
       "channel": "FIFA",
@@ -396,7 +396,7 @@
       "fixtureTeams": null
     },
     {
-      "title": "ALL Morocco goals at the 2026 FIFA World Cup 🇲����",
+      "title": "ALL Morocco goals at the 2026 FIFA World Cup ���🇦",
       "videoId": "2PMiwNaMBUA",
       "channel": "FIFA",
       "publishedAt": "2026-08-13",
