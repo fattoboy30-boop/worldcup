@@ -1,11 +1,28 @@
 {
-  "lastUpdated": "2026-08-15T12:42:12.023Z",
+  "lastUpdated": "2026-08-15T13:32:28.372Z",
   "featured": {
-    "match": "O3sCPqEI0O8",
-    "highlight": "O3sCPqEI0O8",
-    "interview": "O3sCPqEI0O8"
+    "match": "cE6QbihoeAE",
+    "highlight": "cE6QbihoeAE",
+    "interview": "cE6QbihoeAE"
   },
   "videos": [
+    {
+      "title": "1-Minute Match: Brazil 1-0 USA | 1994 Round of 16",
+      "videoId": "cE6QbihoeAE",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-15",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cE6QbihoeAE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "ALL Switzerland goals at the 2026 FIFA World Cup 🇨🇭",
       "videoId": "O3sCPqEI0O8",
@@ -438,22 +455,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/x68nIhX8dQk/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Germany | ALL GOALS | FIFA World Cup 2026™",
-      "videoId": "3UqKM_gdNys",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-12",
-      "category": "Highlights",
-      "team": [
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/3UqKM_gdNys/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
