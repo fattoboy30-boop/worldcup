@@ -1,11 +1,28 @@
 {
-  "lastUpdated": "2026-08-15T15:23:47.269Z",
+  "lastUpdated": "2026-08-15T16:27:51.550Z",
   "featured": {
-    "match": "cE6QbihoeAE",
-    "highlight": "cE6QbihoeAE",
-    "interview": "cE6QbihoeAE"
+    "match": "qZW-VwxQB10",
+    "highlight": "qZW-VwxQB10",
+    "interview": "qZW-VwxQB10"
   },
   "videos": [
+    {
+      "title": "Argentina 3-0 Croatia | 2022 Semi-Final Extended Highlights",
+      "videoId": "qZW-VwxQB10",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-15",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/qZW-VwxQB10/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "1-Minute Match: Brazil 1-0 USA | 1994 Round of 16",
       "videoId": "cE6QbihoeAE",
@@ -51,6 +68,20 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/5gtPVnozi9k/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Kylian Mbappe said Real Madrid are going for titles this year  🙌 (via @RealMadrid/TT)",
+      "videoId": "fy11Cq7SP_s",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-15",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fy11Cq7SP_s/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -349,20 +380,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Michael Carrick addresses Marcus Rashford’s Manchester United return | ESPN FC",
-      "videoId": "l8wkpC-iX4I",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-14",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/l8wkpC-iX4I/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "EVERY Mexico World Cup Goal (2014-2026)",
       "videoId": "6yH5NG23IMw",
       "channel": "FIFA",
@@ -439,22 +456,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/IWfmNlgl4tA/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Maradona, Argentina Outlast Italian Hosts | 1990 World Cup Semi-Final",
-      "videoId": "x68nIhX8dQk",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-13",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/x68nIhX8dQk/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
