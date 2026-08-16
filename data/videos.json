@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-16T19:22:33.865Z",
+  "lastUpdated": "2026-08-16T20:25:46.879Z",
   "featured": {
-    "match": "Z5YjbEm-80U",
-    "highlight": "Z5YjbEm-80U",
+    "match": "xugnGtfsTb8",
+    "highlight": "xugnGtfsTb8",
     "interview": "jy-5zdKaBPQ"
   },
   "videos": [
+    {
+      "title": "ALL Ecuador goals at the 2026 FIFA World Cup 🇪🇨",
+      "videoId": "xugnGtfsTb8",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-16",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xugnGtfsTb8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Ronaldo, Portugal Hold Off Morocco | 2018 Extended Highlights",
       "videoId": "Z5YjbEm-80U",
@@ -440,22 +456,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/VFjzqwYNsbY/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Messi's 1st Goal For Rampant Argentina | 2006 World Cup",
-      "videoId": "DAkp2LiYne8",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-14",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/DAkp2LiYne8/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
