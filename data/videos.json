@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-16T11:22:30.319Z",
+  "lastUpdated": "2026-08-16T12:44:38.982Z",
   "featured": {
-    "match": "RmgH2Av0GSQ",
-    "highlight": "RmgH2Av0GSQ",
+    "match": "CmJQbWropZU",
+    "highlight": "CmJQbWropZU",
     "interview": "KOTkujryfxU"
   },
   "videos": [
+    {
+      "title": "ALL Egypt World Cup Goals In History",
+      "videoId": "CmJQbWropZU",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-16",
+      "category": "Highlights",
+      "team": [
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/CmJQbWropZU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "ALL South Africa goals at the 2026 FIFA World Cup",
       "videoId": "RmgH2Av0GSQ",
@@ -441,22 +457,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/6yH5NG23IMw/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "ALL Morocco goals at the 2026 FIFA World Cup 🇲🇦",
-      "videoId": "2PMiwNaMBUA",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-13",
-      "category": "Highlights",
-      "team": [
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/2PMiwNaMBUA/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
