@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-16T05:31:15.830Z",
+  "lastUpdated": "2026-08-16T06:43:31.738Z",
   "featured": {
-    "match": "HifZ0JJUXSo",
-    "highlight": "HifZ0JJUXSo",
+    "match": "4lNr5zSYKRg",
+    "highlight": "4lNr5zSYKRg",
     "interview": "KOTkujryfxU"
   },
   "videos": [
+    {
+      "title": "Short Highlights | England 6-1 Panama | 2018 FIFA World Cup",
+      "videoId": "4lNr5zSYKRg",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-16",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4lNr5zSYKRg/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Nashville SC vs. Inter Miami | MLS Highlights | ESPN FC",
       "videoId": "HifZ0JJUXSo",
@@ -442,22 +458,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/UZPMrfpr7C0/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Messi, Argentina Start 2022 With Shock Loss",
-      "videoId": "lYhUG2OqXP0",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-13",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/lYhUG2OqXP0/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
