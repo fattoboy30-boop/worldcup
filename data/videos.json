@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-17T15:27:32.886Z",
+  "lastUpdated": "2026-08-17T16:31:12.021Z",
   "featured": {
-    "match": "lCODv4iK3-Q",
-    "highlight": "lCODv4iK3-Q",
+    "match": "fVV0pVsAKeQ",
+    "highlight": "fVV0pVsAKeQ",
     "interview": "wU00w_iqjFk"
   },
   "videos": [
+    {
+      "title": "Ronaldo Rescues Portugal | 2014 World Cup",
+      "videoId": "fVV0pVsAKeQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-17",
+      "category": "Highlights",
+      "team": [
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fVV0pVsAKeQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "EVERY Switzerland World Cup Goal (2018-2026)",
       "videoId": "lCODv4iK3-Q",
@@ -51,6 +67,76 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/Q1ie2-rUHws/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Jose Mourinho deep down is ‘really happy’ with Real Madrid | ESPN FC",
+      "videoId": "0MQrmoExq7U",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0MQrmoExq7U/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Thomas Muller makes this look TOO EASY | MLS Highlights | ESPN FC",
+      "videoId": "-8UV-iQqPBY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-8UV-iQqPBY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "‘Odegaard is READY TO GO’ 😤 How Arsenal defeated Man City in Community Shield win | ESPN FC",
+      "videoId": "ddlZ_L66UZs",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ddlZ_L66UZs/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Too easy for Thomas Muller 😎 (via @Major League Soccer on Apple TV)",
+      "videoId": "FYrN5KmOVo0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/FYrN5KmOVo0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Florian Wirtz SOPHOMORE SEASON: ‘He’s the creative force’ | ESPN FC",
+      "videoId": "ubIt-4Gq2zA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ubIt-4Gq2zA/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -277,76 +363,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "First piece of silverware for the season!",
-      "videoId": "Syytwjq0yWU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-16",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Syytwjq0yWU/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "👏",
-      "videoId": "a7Y4uaU1Yr4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-16",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/a7Y4uaU1Yr4/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Vibes 😭",
-      "videoId": "uMw1cHdVito",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-16",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/uMw1cHdVito/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "😔😔😔",
-      "videoId": "cZYPFk0BaRw",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-16",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/cZYPFk0BaRw/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "🤝",
-      "videoId": "BE91Qm4hXUA",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-16",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/BE91Qm4hXUA/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "All Canada goals at the 2026 FIFA World Cup 🇨🇦",
       "videoId": "vEI0Intz_gA",
       "channel": "FIFA",
@@ -397,7 +413,7 @@
       "fixtureTeams": null
     },
     {
-      "title": "ALL Switzerland goals at the 2026 FIFA World Cup 🇨🇭",
+      "title": "ALL Switzerland goals at the 2026 FIFA World Cup 🇨���",
       "videoId": "O3sCPqEI0O8",
       "channel": "FIFA",
       "publishedAt": "2026-08-15",
@@ -440,23 +456,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/idYTKyC8VGg/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Brazil Stunned By Caniggia, Argentina | 1990 World Cup Round of 16",
-      "videoId": "GePZYyaFkWc",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-14",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/GePZYyaFkWc/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
