@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-17T11:28:54.788Z",
+  "lastUpdated": "2026-08-17T12:49:53.469Z",
   "featured": {
-    "match": "uR3b9E9Vgoo",
-    "highlight": "uR3b9E9Vgoo",
+    "match": "lCODv4iK3-Q",
+    "highlight": "lCODv4iK3-Q",
     "interview": "wU00w_iqjFk"
   },
   "videos": [
+    {
+      "title": "EVERY Switzerland World Cup Goal (2018-2026)",
+      "videoId": "lCODv4iK3-Q",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-17",
+      "category": "Highlights",
+      "team": [
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/lCODv4iK3-Q/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "ALL France goals at the 2026 FIFA World Cup 🇫🇷",
       "videoId": "uR3b9E9Vgoo",
@@ -441,22 +457,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/GePZYyaFkWc/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "EVERY Portugal World Cup Goal (2018-2026)",
-      "videoId": "tFy8Q-qpEwE",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-14",
-      "category": "Highlights",
-      "team": [
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/tFy8Q-qpEwE/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
