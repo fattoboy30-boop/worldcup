@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-17T19:30:17.289Z",
+  "lastUpdated": "2026-08-17T20:30:00.833Z",
   "featured": {
-    "match": "fVV0pVsAKeQ",
-    "highlight": "fVV0pVsAKeQ",
-    "interview": "wU00w_iqjFk"
+    "match": "53_nWVnrQ5o",
+    "highlight": "53_nWVnrQ5o",
+    "interview": "53_nWVnrQ5o"
   },
   "videos": [
+    {
+      "title": "ALL Paraguay goals at the 2026 FIFA World Cup 🇵🇾",
+      "videoId": "53_nWVnrQ5o",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-17",
+      "category": "Highlights",
+      "team": [
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/53_nWVnrQ5o/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Ronaldo Rescues Portugal | 2014 World Cup",
       "videoId": "fVV0pVsAKeQ",
@@ -67,6 +83,20 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/Q1ie2-rUHws/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "This feint from Diomande 😮‍💨⚽️🔥 (via @realmadrid/IG)",
+      "videoId": "4KEKo1AVVDg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4KEKo1AVVDg/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -268,20 +298,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Elite goal and elite celebration from Trinity Rodman 🔥",
-      "videoId": "wU00w_iqjFk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-17",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/wU00w_iqjFk/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "ALL Ecuador goals at the 2026 FIFA World Cup 🇪🇨",
       "videoId": "xugnGtfsTb8",
       "channel": "FIFA",
@@ -413,7 +429,7 @@
       "fixtureTeams": null
     },
     {
-      "title": "ALL Switzerland goals at the 2026 FIFA World Cup ��🇭",
+      "title": "ALL Switzerland goals at the 2026 FIFA World Cup 🇨🇭",
       "videoId": "O3sCPqEI0O8",
       "channel": "FIFA",
       "publishedAt": "2026-08-15",
@@ -440,22 +456,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/5gtPVnozi9k/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "ALL USA goals at the 2026 FIFA World Cup 🇺🇸",
-      "videoId": "idYTKyC8VGg",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-14",
-      "category": "Highlights",
-      "team": [
-        "USA"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/idYTKyC8VGg/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
