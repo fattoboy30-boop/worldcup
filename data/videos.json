@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T16:31:12.021Z",
+  "lastUpdated": "2026-08-17T17:29:07.445Z",
   "featured": {
     "match": "fVV0pVsAKeQ",
     "highlight": "fVV0pVsAKeQ",
@@ -67,6 +67,20 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/Q1ie2-rUHws/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Arsenal vs. Manchester City [Community Shield FIRST 27 MINUTES] | ESPN FC",
+      "videoId": "KwaiZVEPmRk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/KwaiZVEPmRk/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -349,20 +363,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "The shield accidentally hit Declan Rice in the face 😂",
-      "videoId": "QDQ6fypYODs",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-16",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/QDQ6fypYODs/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "All Canada goals at the 2026 FIFA World Cup 🇨🇦",
       "videoId": "vEI0Intz_gA",
       "channel": "FIFA",
@@ -413,7 +413,7 @@
       "fixtureTeams": null
     },
     {
-      "title": "ALL Switzerland goals at the 2026 FIFA World Cup 🇨���",
+      "title": "ALL Switzerland goals at the 2026 FIFA World Cup 🇨🇭",
       "videoId": "O3sCPqEI0O8",
       "channel": "FIFA",
       "publishedAt": "2026-08-15",
