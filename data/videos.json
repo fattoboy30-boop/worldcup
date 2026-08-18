@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-08-18T17:29:32.699Z",
+  "lastUpdated": "2026-08-18T18:41:40.833Z",
   "featured": {
-    "match": "WKOn-ChUMYY",
-    "highlight": "WKOn-ChUMYY",
-    "interview": "WKOn-ChUMYY"
+    "match": "BEyLKLAnbtc",
+    "highlight": "BEyLKLAnbtc",
+    "interview": "BEyLKLAnbtc"
   },
   "videos": [
+    {
+      "title": "Rodri - The centre of attention. #FIFAWorldCup",
+      "videoId": "BEyLKLAnbtc",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-18",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/BEyLKLAnbtc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "ALL Spain goals at the 2026 FIFA World Cup 🇪🇸",
       "videoId": "WKOn-ChUMYY",
@@ -23,7 +37,7 @@
       "fixtureTeams": null
     },
     {
-      "title": "Brazil 4-1 Korea Republic | 2022 Round of 16",
+      "title": "Vinicius Jr & Neymar Jr Score | Brazil 4-1 Korea Republic | 2022 FIFA World Cup Round of 16",
       "videoId": "gO5I2p_EVsA",
       "channel": "FIFA",
       "publishedAt": "2026-08-18",
@@ -438,22 +452,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/4lNr5zSYKRg/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "All Canada goals at the 2026 FIFA World Cup 🇨🇦",
-      "videoId": "vEI0Intz_gA",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-15",
-      "category": "Highlights",
-      "team": [
-        "Canada"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vEI0Intz_gA/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
