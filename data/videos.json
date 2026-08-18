@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-18T11:28:04.678Z",
+  "lastUpdated": "2026-08-18T12:52:12.131Z",
   "featured": {
-    "match": "KogFJG-88GM",
-    "highlight": "KogFJG-88GM",
-    "interview": "KogFJG-88GM"
+    "match": "gO5I2p_EVsA",
+    "highlight": "gO5I2p_EVsA",
+    "interview": "gO5I2p_EVsA"
   },
   "videos": [
+    {
+      "title": "Brazil 4-1 Korea Republic | 2022 Round of 16",
+      "videoId": "gO5I2p_EVsA",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-18",
+      "category": "Highlights",
+      "team": [
+        "Brazil"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/gO5I2p_EVsA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "ALL Sweden goals at the 2026 FIFA World Cup 🇸🇪",
       "videoId": "KogFJG-88GM",
@@ -34,6 +50,34 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/tGhQeQIGh-Q/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Too clean (via soccersamurai/IG)",
+      "videoId": "nNrBlJGIJ28",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-18",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/nNrBlJGIJ28/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Cristiano Ronaldo and Georgina Rodríguez’s wedding 💍🤩 (Via @voguemagazine/ @vogueweddings/IG)",
+      "videoId": "c3UEEKQwg_A",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-18",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/c3UEEKQwg_A/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -302,34 +346,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Too easy for Thomas Muller 😎 (via @Major League Soccer on Apple TV)",
-      "videoId": "FYrN5KmOVo0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-17",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FYrN5KmOVo0/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Florian Wirtz SOPHOMORE SEASON: ‘He’s the creative force’ | ESPN FC",
-      "videoId": "ubIt-4Gq2zA",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-17",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ubIt-4Gq2zA/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "ALL Ecuador goals at the 2026 FIFA World Cup 🇪🇨",
       "videoId": "xugnGtfsTb8",
       "channel": "FIFA",
@@ -439,23 +455,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/qZW-VwxQB10/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "1-Minute Match: Brazil 1-0 USA | 1994 Round of 16",
-      "videoId": "cE6QbihoeAE",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-15",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "USA"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/cE6QbihoeAE/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
