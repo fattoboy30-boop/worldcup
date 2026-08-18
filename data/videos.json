@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-18T08:40:27.718Z",
+  "lastUpdated": "2026-08-18T09:36:43.960Z",
   "featured": {
-    "match": "tGhQeQIGh-Q",
-    "highlight": "tGhQeQIGh-Q",
-    "interview": "tGhQeQIGh-Q"
+    "match": "KogFJG-88GM",
+    "highlight": "KogFJG-88GM",
+    "interview": "KogFJG-88GM"
   },
   "videos": [
+    {
+      "title": "ALL Sweden goals at the 2026 FIFA World Cup 🇸🇪",
+      "videoId": "KogFJG-88GM",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-18",
+      "category": "Highlights",
+      "team": [
+        "Sweden"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/KogFJG-88GM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Moroccan Late Show Shocks Belgium | 2022 World Cup Extended Highlights",
       "videoId": "tGhQeQIGh-Q",
@@ -440,22 +456,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/cE6QbihoeAE/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "ALL Switzerland goals at the 2026 FIFA World Cup 🇨🇭",
-      "videoId": "O3sCPqEI0O8",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-15",
-      "category": "Highlights",
-      "team": [
-        "Switzerland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/O3sCPqEI0O8/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
