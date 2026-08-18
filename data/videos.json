@@ -1,9 +1,464 @@
 {
-  "lastUpdated": "2026-08-18T06:48:35.743Z",
+  "lastUpdated": "2026-08-18T07:40:04.155Z",
   "featured": {
-    "match": "",
-    "highlight": "",
-    "interview": ""
+    "match": "tGhQeQIGh-Q",
+    "highlight": "tGhQeQIGh-Q",
+    "interview": "tGhQeQIGh-Q"
   },
-  "videos": []
+  "videos": [
+    {
+      "title": "Moroccan Late Show Shocks Belgium | 2022 World Cup Extended Highlights",
+      "videoId": "tGhQeQIGh-Q",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-18",
+      "category": "Highlights",
+      "team": [
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tGhQeQIGh-Q/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "ALL Paraguay goals at the 2026 FIFA World Cup 🇵🇾",
+      "videoId": "53_nWVnrQ5o",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-17",
+      "category": "Highlights",
+      "team": [
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/53_nWVnrQ5o/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Ronaldo Rescues Portugal | 2014 World Cup",
+      "videoId": "fVV0pVsAKeQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-17",
+      "category": "Highlights",
+      "team": [
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fVV0pVsAKeQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "EVERY Switzerland World Cup Goal (2018-2026)",
+      "videoId": "lCODv4iK3-Q",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-17",
+      "category": "Highlights",
+      "team": [
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/lCODv4iK3-Q/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "ALL France goals at the 2026 FIFA World Cup 🇫🇷",
+      "videoId": "uR3b9E9Vgoo",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-17",
+      "category": "Highlights",
+      "team": [
+        "France"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/uR3b9E9Vgoo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "South Africa Shock France | 2010 Extended Highlights",
+      "videoId": "Q1ie2-rUHws",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-17",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Q1ie2-rUHws/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Recapping Arsenal’s big win vs. Manchester City in FA Community Shield | ESPN FC",
+      "videoId": "ciVsqNFPkGE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ciVsqNFPkGE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Can Lens challenge PSG in Ligue 1 after beating them in the Super Cup? 👀 | ESPN FC Extra Time",
+      "videoId": "ymCYcssv2og",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ymCYcssv2og/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "How will Rodri joining Barcelona impact their attack? | ESPN FC",
+      "videoId": "kXCGS4iz_B4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/kXCGS4iz_B4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Premier League PREDICTIONS 🍿 Can Chelsea challenge Arsenal for the title? | ESPN FC",
+      "videoId": "Kimtl_rMOfA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Kimtl_rMOfA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "This is how you save a penalty 😤 (Via @guialvesofc__/IG)",
+      "videoId": "kH9udac-_TU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/kH9udac-_TU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "The reality is that Arsenal is BETTER than everyone else in the Premier League – Moreno | ESPN FC",
+      "videoId": "SgeqSiFdZeY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/SgeqSiFdZeY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "This feint from Diomande 😮‍💨⚽���🔥 (via @realmadrid/IG)",
+      "videoId": "4KEKo1AVVDg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4KEKo1AVVDg/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "There goes the hat 🧢 (via fcbarcelona/TT)",
+      "videoId": "SkGrigf9Q80",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/SkGrigf9Q80/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Not a good day at the office for Erling Haaland 💔",
+      "videoId": "9x5yPZ-2Hac",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/9x5yPZ-2Hac/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Arsenal vs. Manchester City [Community Shield FIRST 27 MINUTES] | ESPN FC",
+      "videoId": "KwaiZVEPmRk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/KwaiZVEPmRk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Jose Mourinho deep down is ‘really happy’ with Real Madrid | ESPN FC",
+      "videoId": "0MQrmoExq7U",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0MQrmoExq7U/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Thomas Muller makes this look TOO EASY | MLS Highlights | ESPN FC",
+      "videoId": "-8UV-iQqPBY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-8UV-iQqPBY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "‘Odegaard is READY TO GO’ 😤 How Arsenal defeated Man City in Community Shield win | ESPN FC",
+      "videoId": "ddlZ_L66UZs",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ddlZ_L66UZs/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Too easy for Thomas Muller 😎 (via @Major League Soccer on Apple TV)",
+      "videoId": "FYrN5KmOVo0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/FYrN5KmOVo0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Florian Wirtz SOPHOMORE SEASON: ‘He’s the creative force’ | ESPN FC",
+      "videoId": "ubIt-4Gq2zA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-17",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ubIt-4Gq2zA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "ALL Ecuador goals at the 2026 FIFA World Cup 🇪🇨",
+      "videoId": "xugnGtfsTb8",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-16",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xugnGtfsTb8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Ronaldo, Portugal Hold Off Morocco | 2018 Extended Highlights",
+      "videoId": "Z5YjbEm-80U",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-16",
+      "category": "Highlights",
+      "team": [
+        "Portugal",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Z5YjbEm-80U/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "ALL Egypt World Cup Goals In History",
+      "videoId": "CmJQbWropZU",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-16",
+      "category": "Highlights",
+      "team": [
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/CmJQbWropZU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "ALL South Africa goals at the 2026 FIFA World Cup",
+      "videoId": "RmgH2Av0GSQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-16",
+      "category": "Highlights",
+      "team": [
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RmgH2Av0GSQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Short Highlights | England 6-1 Panama | 2018 FIFA World Cup",
+      "videoId": "4lNr5zSYKRg",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-16",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4lNr5zSYKRg/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "All Canada goals at the 2026 FIFA World Cup 🇨🇦",
+      "videoId": "vEI0Intz_gA",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-15",
+      "category": "Highlights",
+      "team": [
+        "Canada"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vEI0Intz_gA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Argentina 3-0 Croatia | 2022 Semi-Final Extended Highlights",
+      "videoId": "qZW-VwxQB10",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-15",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/qZW-VwxQB10/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "1-Minute Match: Brazil 1-0 USA | 1994 Round of 16",
+      "videoId": "cE6QbihoeAE",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-15",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cE6QbihoeAE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "ALL Switzerland goals at the 2026 FIFA World Cup 🇨🇭",
+      "videoId": "O3sCPqEI0O8",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-15",
+      "category": "Highlights",
+      "team": [
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/O3sCPqEI0O8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    }
+  ]
 }
