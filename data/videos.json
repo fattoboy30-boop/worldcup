@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-19T17:29:25.368Z",
+  "lastUpdated": "2026-08-19T18:39:05.613Z",
   "featured": {
-    "match": "ToCSs4X0kvg",
-    "highlight": "ToCSs4X0kvg",
-    "interview": "ToCSs4X0kvg"
+    "match": "iNQLO7NiT7Q",
+    "highlight": "iNQLO7NiT7Q",
+    "interview": "iNQLO7NiT7Q"
   },
   "videos": [
+    {
+      "title": "ALL Colombia World Cup Goals (2014-2026)",
+      "videoId": "iNQLO7NiT7Q",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-19",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/iNQLO7NiT7Q/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "England 1-2 Italy | 2014 Extended Highlights",
       "videoId": "ToCSs4X0kvg",
@@ -36,6 +52,23 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/SUp9nhhz22o/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "France vs. Brazil Full Highlights [ESPN FC CLASSIC: March 26, 2026] | ESPN FC",
+      "videoId": "v7GcCVT3Wlo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-19",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "France"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/v7GcCVT3Wlo/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -412,20 +445,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Can Lens challenge PSG in Ligue 1 after beating them in the Super Cup? 👀 | ESPN FC Extra Time",
-      "videoId": "ymCYcssv2og",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-17",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ymCYcssv2og/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "ALL Ecuador goals at the 2026 FIFA World Cup 🇪🇨",
       "videoId": "xugnGtfsTb8",
       "channel": "FIFA",
@@ -437,23 +456,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/xugnGtfsTb8/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Ronaldo, Portugal Hold Off Morocco | 2018 Extended Highlights",
-      "videoId": "Z5YjbEm-80U",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-16",
-      "category": "Highlights",
-      "team": [
-        "Portugal",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Z5YjbEm-80U/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
