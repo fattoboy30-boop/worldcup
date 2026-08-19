@@ -1,11 +1,28 @@
 {
-  "lastUpdated": "2026-08-19T11:27:35.998Z",
+  "lastUpdated": "2026-08-19T12:52:51.347Z",
   "featured": {
-    "match": "SUp9nhhz22o",
-    "highlight": "SUp9nhhz22o",
-    "interview": "SUp9nhhz22o"
+    "match": "ToCSs4X0kvg",
+    "highlight": "ToCSs4X0kvg",
+    "interview": "ToCSs4X0kvg"
   },
   "videos": [
+    {
+      "title": "England 1-2 Italy | 2014 Extended Highlights",
+      "videoId": "ToCSs4X0kvg",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-19",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Italy"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ToCSs4X0kvg/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Short Highlights | Argentina 0-3 Croatia | 2018 FIFA World Cup",
       "videoId": "SUp9nhhz22o",
@@ -437,22 +454,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/Z5YjbEm-80U/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "ALL Egypt World Cup Goals In History",
-      "videoId": "CmJQbWropZU",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-16",
-      "category": "Highlights",
-      "team": [
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/CmJQbWropZU/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
