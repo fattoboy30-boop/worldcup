@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-08-20T14:39:29.301Z",
+  "lastUpdated": "2026-08-20T15:36:09.355Z",
   "featured": {
-    "match": "wErA7VLEjR4",
-    "highlight": "wErA7VLEjR4",
-    "interview": "wErA7VLEjR4"
+    "match": "-vQax6Zglz0",
+    "highlight": "-vQax6Zglz0",
+    "interview": "-vQax6Zglz0"
   },
   "videos": [
+    {
+      "title": "The FULL FIFA Women's World Cup Brasil 2027 Schedule",
+      "videoId": "-vQax6Zglz0",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-vQax6Zglz0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Austria | ALL World Cup Goals (1978-2026)",
       "videoId": "wErA7VLEjR4",
@@ -435,22 +449,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/fVV0pVsAKeQ/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "EVERY Switzerland World Cup Goal (2018-2026)",
-      "videoId": "lCODv4iK3-Q",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-17",
-      "category": "Highlights",
-      "team": [
-        "Switzerland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/lCODv4iK3-Q/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
