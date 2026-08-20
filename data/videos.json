@@ -1,11 +1,28 @@
 {
-  "lastUpdated": "2026-08-20T17:32:05.383Z",
+  "lastUpdated": "2026-08-20T18:43:26.536Z",
   "featured": {
-    "match": "-vQax6Zglz0",
-    "highlight": "-vQax6Zglz0",
-    "interview": "-vQax6Zglz0"
+    "match": "1hBjK6dSFm8",
+    "highlight": "1hBjK6dSFm8",
+    "interview": "1hBjK6dSFm8"
   },
   "videos": [
+    {
+      "title": "EXTENDED HIGHLIGHTS | Argentina 3-2 Nigeria | 2014 World Cup",
+      "videoId": "1hBjK6dSFm8",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-20",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Nigeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/1hBjK6dSFm8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "The FULL FIFA Women's World Cup Brasil 2027 Schedule",
       "videoId": "-vQax6Zglz0",
@@ -433,22 +450,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/53_nWVnrQ5o/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Ronaldo Rescues Portugal | 2014 World Cup",
-      "videoId": "fVV0pVsAKeQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-17",
-      "category": "Highlights",
-      "team": [
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/fVV0pVsAKeQ/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
