@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-08-21T12:53:44.874Z",
+  "lastUpdated": "2026-08-21T13:48:34.430Z",
   "featured": {
-    "match": "UpCZvfZyEW4",
-    "highlight": "UpCZvfZyEW4",
-    "interview": "UpCZvfZyEW4"
+    "match": "qDBb0R83G2g",
+    "highlight": "qDBb0R83G2g",
+    "interview": "qDBb0R83G2g"
   },
   "videos": [
+    {
+      "title": "David Beckham's 2006 Free Kick Beauty",
+      "videoId": "qDBb0R83G2g",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-21",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/qDBb0R83G2g/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "EXTENDED HIGHLIGHTS | Spain 2-2 Morocco | 2018 FIFA World Cup",
       "videoId": "UpCZvfZyEW4",
@@ -435,22 +449,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/gO5I2p_EVsA/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "ALL Sweden goals at the 2026 FIFA World Cup 🇸🇪",
-      "videoId": "KogFJG-88GM",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-18",
-      "category": "Highlights",
-      "team": [
-        "Sweden"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/KogFJG-88GM/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
