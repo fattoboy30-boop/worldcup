@@ -1,9 +1,458 @@
 {
-  "lastUpdated": "2026-08-21T06:52:05.524Z",
+  "lastUpdated": "2026-08-21T07:45:36.907Z",
   "featured": {
-    "match": "",
-    "highlight": "",
-    "interview": ""
+    "match": "3uoU3jsmsPc",
+    "highlight": "3uoU3jsmsPc",
+    "interview": "3uoU3jsmsPc"
   },
-  "videos": []
+  "videos": [
+    {
+      "title": "EVERY Senegal World Cup Goal",
+      "videoId": "3uoU3jsmsPc",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-21",
+      "category": "Highlights",
+      "team": [
+        "Senegal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/3uoU3jsmsPc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "EXTENDED HIGHLIGHTS | Argentina 3-2 Nigeria | 2014 World Cup",
+      "videoId": "1hBjK6dSFm8",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-20",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Nigeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/1hBjK6dSFm8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "The FULL FIFA Women's World Cup Brasil 2027 Schedule",
+      "videoId": "-vQax6Zglz0",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-vQax6Zglz0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Austria | ALL World Cup Goals (1978-2026)",
+      "videoId": "wErA7VLEjR4",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-20",
+      "category": "Highlights",
+      "team": [
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/wErA7VLEjR4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Preliminary Phase Draw for the FIFA Women’s World Cup 2027™ Play-Off Tournament",
+      "videoId": "PLyLeFwDLCs",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/PLyLeFwDLCs/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "1-Minute Fireworks | Serbia 2-3 Switzerland | 2022 World Cup",
+      "videoId": "VwGuto10oIo",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-20",
+      "category": "Highlights",
+      "team": [
+        "Switzerland",
+        "Serbia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/VwGuto10oIo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Who is the biggest threat to Arsenal in the Premier League? 🤔 | ESPN FC",
+      "videoId": "VZT_zFUFBdo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/VZT_zFUFBdo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Rodri’s leadership will have an ‘INSTANT IMPACT’ at Barcelona | ESPN FC Extra Time",
+      "videoId": "xs3MWmO26xY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xs3MWmO26xY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "THE GAME IS EATING ITSELF!' 👀 Craig Burley hits out at VAR 're-refereeing' honest mistakes | ESPN FC",
+      "videoId": "2vZn9vIEZJk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/2vZn9vIEZJk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "ERA OF DOMINANCE!? 🏆 Can anyone challenge Arsenal for the Premier League title? | ESPN FC",
+      "videoId": "hvUkRdmcjsM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/hvUkRdmcjsM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Shaka Hislop's EPL predictions 👀 Can Bukayo Saka win Premier League POTY? | ESPN FC",
+      "videoId": "cfGYIwXdewE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cfGYIwXdewE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Jose Mourinho at Real Madrid could be a ‘SPECTACULAR DISASTER’ - Ale Moreno 😳 | ESPN FC",
+      "videoId": "HWwgSgKoBEA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/HWwgSgKoBEA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "‘THE GAME IS GONE!’ Craig Burley on Spurs potentially spending £150m on Savinho & Marmoush | ESPN FC",
+      "videoId": "sVvZt_jzJvA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/sVvZt_jzJvA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "What a goal from Lamine 😮‍💨 (via fcbarcelona/TT)",
+      "videoId": "CQp3YdwH3rI",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/CQp3YdwH3rI/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Ashley Cole addresses his time at Arsenal and Chelsea | Unsportsmanlike",
+      "videoId": "RstBx6aWMFQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RstBx6aWMFQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "'Arsenal are UNSTOPPABLE!' 😤 Premier League PREDICTIONS & Transfer UPDATES 💰 FULL SHOW | ESPN FC",
+      "videoId": "HI3pSHmf0D4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/HI3pSHmf0D4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Messi showing no signs of slowing down 🔥 (via MLS on Apple TV)",
+      "videoId": "5XeH7Uz74aM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/5XeH7Uz74aM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "DEFENSIVE SHOWDOWN ⚔️ LAFC vs. Colorado Rapids | MLS Highlights | ESPN FC",
+      "videoId": "BjDjNIrv1No",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/BjDjNIrv1No/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Griezmann vs. Lewandowski 👀 Orlando City SC vs. Chicago Fire FC | MLS Highlights | ESPN FC",
+      "videoId": "6iNtAhfdsrU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6iNtAhfdsrU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "This goal from Messi 🔥",
+      "videoId": "tAOtFZj7GS4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tAOtFZj7GS4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Cavan Sullivan and Yannick Bright were both sent off with reds at the end of the draw.",
+      "videoId": "6wOiD5qzNcU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-20",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6wOiD5qzNcU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "ALL Colombia World Cup Goals (2014-2026)",
+      "videoId": "iNQLO7NiT7Q",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-19",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/iNQLO7NiT7Q/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "England 1-2 Italy | 2014 Extended Highlights",
+      "videoId": "ToCSs4X0kvg",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-19",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Italy"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ToCSs4X0kvg/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Short Highlights | Argentina 0-3 Croatia | 2018 FIFA World Cup",
+      "videoId": "SUp9nhhz22o",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-19",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/SUp9nhhz22o/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Saudi Arabia | ALL World Cup Goals In History",
+      "videoId": "GGSEXp3b_8s",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-18",
+      "category": "Highlights",
+      "team": [
+        "Saudi Arabia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/GGSEXp3b_8s/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Rodri - The centre of attention. #FIFAWorldCup",
+      "videoId": "BEyLKLAnbtc",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-18",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/BEyLKLAnbtc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "ALL Spain goals at the 2026 FIFA World Cup 🇪🇸",
+      "videoId": "WKOn-ChUMYY",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-18",
+      "category": "Highlights",
+      "team": [
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/WKOn-ChUMYY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Vinicius Jr & Neymar Jr Score | Brazil 4-1 Korea Republic | 2022 FIFA World Cup Round of 16",
+      "videoId": "gO5I2p_EVsA",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-18",
+      "category": "Highlights",
+      "team": [
+        "Brazil"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/gO5I2p_EVsA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "ALL Sweden goals at the 2026 FIFA World Cup 🇸🇪",
+      "videoId": "KogFJG-88GM",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-18",
+      "category": "Highlights",
+      "team": [
+        "Sweden"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/KogFJG-88GM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Moroccan Late Show Shocks Belgium | 2022 World Cup Extended Highlights",
+      "videoId": "tGhQeQIGh-Q",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-18",
+      "category": "Highlights",
+      "team": [
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tGhQeQIGh-Q/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    }
+  ]
 }
