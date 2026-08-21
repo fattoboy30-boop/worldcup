@@ -1,11 +1,28 @@
 {
-  "lastUpdated": "2026-08-21T08:44:01.260Z",
+  "lastUpdated": "2026-08-21T09:39:43.173Z",
   "featured": {
-    "match": "3uoU3jsmsPc",
-    "highlight": "3uoU3jsmsPc",
-    "interview": "3uoU3jsmsPc"
+    "match": "UpCZvfZyEW4",
+    "highlight": "UpCZvfZyEW4",
+    "interview": "UpCZvfZyEW4"
   },
   "videos": [
+    {
+      "title": "EXTENDED HIGHLIGHTS | Spain 2-2 Morocco | 2018 FIFA World Cup",
+      "videoId": "UpCZvfZyEW4",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-21",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/UpCZvfZyEW4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "EVERY Senegal World Cup Goal",
       "videoId": "3uoU3jsmsPc",
@@ -434,22 +451,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/KogFJG-88GM/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Moroccan Late Show Shocks Belgium | 2022 World Cup Extended Highlights",
-      "videoId": "tGhQeQIGh-Q",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-18",
-      "category": "Highlights",
-      "team": [
-        "Belgium"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/tGhQeQIGh-Q/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
