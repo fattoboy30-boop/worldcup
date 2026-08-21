@@ -1,11 +1,28 @@
 {
-  "lastUpdated": "2026-08-21T16:37:53.625Z",
+  "lastUpdated": "2026-08-21T17:31:43.661Z",
   "featured": {
-    "match": "qDBb0R83G2g",
-    "highlight": "qDBb0R83G2g",
-    "interview": "qDBb0R83G2g"
+    "match": "168Ch3zcTIw",
+    "highlight": "168Ch3zcTIw",
+    "interview": "168Ch3zcTIw"
   },
   "videos": [
+    {
+      "title": "Germany 2-2 Ghana | A 2014 Classic",
+      "videoId": "168Ch3zcTIw",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-21",
+      "category": "Highlights",
+      "team": [
+        "Germany",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/168Ch3zcTIw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "David Beckham's 2006 Free Kick Beauty",
       "videoId": "qDBb0R83G2g",
@@ -433,22 +450,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/WKOn-ChUMYY/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Vinicius Jr & Neymar Jr Score | Brazil 4-1 Korea Republic | 2022 FIFA World Cup Round of 16",
-      "videoId": "gO5I2p_EVsA",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-18",
-      "category": "Highlights",
-      "team": [
-        "Brazil"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/gO5I2p_EVsA/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
