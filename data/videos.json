@@ -1,11 +1,28 @@
 {
-  "lastUpdated": "2026-08-22T17:23:39.895Z",
+  "lastUpdated": "2026-08-22T18:34:30.940Z",
   "featured": {
-    "match": "WEvsh46UD1k",
-    "highlight": "WEvsh46UD1k",
+    "match": "UnNn6kccMTc",
+    "highlight": "UnNn6kccMTc",
     "interview": "alxjognkARU"
   },
   "videos": [
+    {
+      "title": "1-Minute Classic: Maradona, Argentina Top Brazil | 1990 World Cup Round of 16",
+      "videoId": "UnNn6kccMTc",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-22",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/UnNn6kccMTc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Salas Stuns Italy In 1998 World Cup Thriller 🇨🇱",
       "videoId": "WEvsh46UD1k",
@@ -51,6 +68,20 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/xDH3unfS3H4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Athletic Club vs. Sevilla | LALIGA Highlights | ESPN FC",
+      "videoId": "Q-kKpIvXp0k",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-22",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Q-kKpIvXp0k/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -384,20 +415,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Who is the biggest threat to Arsenal in the Premier League? 🤔 | ESPN FC",
-      "videoId": "VZT_zFUFBdo",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/VZT_zFUFBdo/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "ALL Colombia World Cup Goals (2014-2026)",
       "videoId": "iNQLO7NiT7Q",
       "channel": "FIFA",
@@ -426,23 +443,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/ToCSs4X0kvg/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Short Highlights | Argentina 0-3 Croatia | 2018 FIFA World Cup",
-      "videoId": "SUp9nhhz22o",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-19",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Croatia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/SUp9nhhz22o/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
