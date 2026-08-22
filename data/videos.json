@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-21T23:26:28.738Z",
+  "lastUpdated": "2026-08-22T01:22:53.644Z",
   "featured": {
-    "match": "168Ch3zcTIw",
-    "highlight": "168Ch3zcTIw",
+    "match": "M7w-APIhutA",
+    "highlight": "M7w-APIhutA",
     "interview": "alxjognkARU"
   },
   "videos": [
+    {
+      "title": "Arsenal's title defense BEGINS 👀 Updates in EPL, LALIGA + Argentina's FIFA bans announced | ESPN FC",
+      "videoId": "M7w-APIhutA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-22",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/M7w-APIhutA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Germany 2-2 Ghana | A 2014 Classic",
       "videoId": "168Ch3zcTIw",
@@ -66,6 +82,22 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/3uoU3jsmsPc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "WORLD CUP BANS ANNOUNCED 🚨 Were Argentina penalized enough? | ESPN FC",
+      "videoId": "YcyS-7EVz4U",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-21",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/YcyS-7EVz4U/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -326,34 +358,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/HWwgSgKoBEA/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "‘THE GAME IS GONE!’ Craig Burley on Spurs potentially spending £150m on Savinho & Marmoush | ESPN FC",
-      "videoId": "sVvZt_jzJvA",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/sVvZt_jzJvA/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "What a goal from Lamine 😮‍💨 (via fcbarcelona/TT)",
-      "videoId": "CQp3YdwH3rI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/CQp3YdwH3rI/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
