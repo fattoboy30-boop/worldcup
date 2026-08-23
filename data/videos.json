@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-23T11:22:52.625Z",
+  "lastUpdated": "2026-08-23T12:45:31.946Z",
   "featured": {
-    "match": "8REIe2Bulys",
-    "highlight": "8REIe2Bulys",
+    "match": "upfZco_6uAw",
+    "highlight": "upfZco_6uAw",
     "interview": "tUuHdXxt0OI"
   },
   "videos": [
+    {
+      "title": "1-Minute Highlights | Januzaj Stuns England | 2018 FIFA World Cup",
+      "videoId": "upfZco_6uAw",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-23",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/upfZco_6uAw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Classy Casemiro: Trivela or Deflection?",
       "videoId": "8REIe2Bulys",
@@ -434,23 +450,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/PLyLeFwDLCs/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "1-Minute Fireworks | Serbia 2-3 Switzerland | 2022 World Cup",
-      "videoId": "VwGuto10oIo",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-20",
-      "category": "Highlights",
-      "team": [
-        "Switzerland",
-        "Serbia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/VwGuto10oIo/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
