@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-23T20:26:40.295Z",
+  "lastUpdated": "2026-08-23T21:24:28.518Z",
   "featured": {
-    "match": "CY3Z9ErGG6c",
-    "highlight": "CY3Z9ErGG6c",
-    "interview": "tUuHdXxt0OI"
+    "match": "LQ4grB2StKE",
+    "highlight": "LQ4grB2StKE",
+    "interview": "LQ4grB2StKE"
   },
   "videos": [
+    {
+      "title": "EVERY Morocco World Cup Goal Since 2018!",
+      "videoId": "LQ4grB2StKE",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-23",
+      "category": "Highlights",
+      "team": [
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/LQ4grB2StKE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Banger Free Kicks | 2022 FIFA World Cup",
       "videoId": "CY3Z9ErGG6c",
@@ -63,6 +79,34 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/OnmzRJiP5YY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Gavi was subbed off in the first half",
+      "videoId": "3NNEUm4Ez6I",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/3NNEUm4Ez6I/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "What a move 👀",
+      "videoId": "bYVdSzpUdbo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/bYVdSzpUdbo/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -316,34 +360,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "‘THEY WERE SLOW’ 👀 Reaction to Man United’s loss to Hull City | ESPN FC",
-      "videoId": "tUuHdXxt0OI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-22",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/tUuHdXxt0OI/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "REACTION to Real Madrid’s DRAMATIC late win over Espanyol 🍿 Can they win LALIGA? | ESPN FC",
-      "videoId": "epZef95gT0A",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-22",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/epZef95gT0A/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "Germany 2-2 Ghana | A 2014 Classic",
       "videoId": "168Ch3zcTIw",
       "channel": "FIFA",
@@ -434,22 +450,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/-vQax6Zglz0/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Austria | ALL World Cup Goals (1978-2026)",
-      "videoId": "wErA7VLEjR4",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-20",
-      "category": "Highlights",
-      "team": [
-        "Austria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/wErA7VLEjR4/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
