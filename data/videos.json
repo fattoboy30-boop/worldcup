@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-08-23T16:29:34.813Z",
+  "lastUpdated": "2026-08-23T17:22:55.827Z",
   "featured": {
-    "match": "upfZco_6uAw",
-    "highlight": "upfZco_6uAw",
+    "match": "CY3Z9ErGG6c",
+    "highlight": "CY3Z9ErGG6c",
     "interview": "tUuHdXxt0OI"
   },
   "videos": [
+    {
+      "title": "Banger Free Kicks | 2022 FIFA World Cup",
+      "videoId": "CY3Z9ErGG6c",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/CY3Z9ErGG6c/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "1-Minute Highlights | Januzaj Stuns England | 2018 FIFA World Cup",
       "videoId": "upfZco_6uAw",
@@ -49,6 +63,20 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/OnmzRJiP5YY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Atletico Madrid vs. Villarreal [FIRST 15 MINUTES LIVE] | LALIGA Highlights | ESPN FC",
+      "videoId": "0hnpIFga6_Q",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0hnpIFga6_Q/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -260,7 +288,7 @@
       "fixtureTeams": null
     },
     {
-      "title": "Jude scores Real Madrid's first goal of the season 😮‍💨",
+      "title": "Jude scores Real Madrid's first goal of the season ����‍💨",
       "videoId": "36BnTvBF_Us",
       "channel": "ESPN FC",
       "publishedAt": "2026-08-22",
@@ -422,34 +450,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/wErA7VLEjR4/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Preliminary Phase Draw for the FIFA Women’s World Cup 2027™ Play-Off Tournament",
-      "videoId": "PLyLeFwDLCs",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PLyLeFwDLCs/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Atletico Madrid vs. Villarreal [FIRST 15 MINUTES LIVE] | LALIGA Highlights | ESPN FC",
-      "videoId": "0hnpIFga6_Q",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-19",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/0hnpIFga6_Q/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
