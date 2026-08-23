@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-08-23T08:33:26.490Z",
+  "lastUpdated": "2026-08-23T09:30:33.316Z",
   "featured": {
-    "match": "OnmzRJiP5YY",
-    "highlight": "OnmzRJiP5YY",
+    "match": "8REIe2Bulys",
+    "highlight": "8REIe2Bulys",
     "interview": "tUuHdXxt0OI"
   },
   "videos": [
+    {
+      "title": "Classy Casemiro: Trivela or Deflection?",
+      "videoId": "8REIe2Bulys",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/8REIe2Bulys/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "EXTENDED HIGHLIGHTS: Ronaldo, Portugal Top Gyan, Ghana | 2014 World Cup",
       "videoId": "OnmzRJiP5YY",
@@ -437,22 +451,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/VwGuto10oIo/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "ALL Colombia World Cup Goals (2014-2026)",
-      "videoId": "iNQLO7NiT7Q",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-19",
-      "category": "Highlights",
-      "team": [
-        "Colombia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/iNQLO7NiT7Q/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
