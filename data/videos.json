@@ -1,11 +1,42 @@
 {
-  "lastUpdated": "2026-08-23T03:05:03.922Z",
+  "lastUpdated": "2026-08-23T04:39:59.783Z",
   "featured": {
-    "match": "G5pJ4nqkYLc",
-    "highlight": "G5pJ4nqkYLc",
+    "match": "OnmzRJiP5YY",
+    "highlight": "OnmzRJiP5YY",
     "interview": "tUuHdXxt0OI"
   },
   "videos": [
+    {
+      "title": "EXTENDED HIGHLIGHTS: Ronaldo, Portugal Top Gyan, Ghana | 2014 World Cup",
+      "videoId": "OnmzRJiP5YY",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-23",
+      "category": "Highlights",
+      "team": [
+        "Portugal",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/OnmzRJiP5YY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Athletic Club vs. Sevilla [FIRST 15 MINUTES LIVE] | LALIGA Highlights | ESPN FC",
+      "videoId": "vQnPZAJQbRM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vQnPZAJQbRM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "GRIEZMANN BRACE 😮‍💨 Orlando City SC vs. Real Salt Lake | MLS Highlights | ESPN FC",
       "videoId": "G5pJ4nqkYLc",
@@ -157,7 +188,7 @@
       "fixtureTeams": null
     },
     {
-      "title": "‘THEY WERE SLOW’ ���� Reaction to Man United’s loss to Hull City | ESPN FC",
+      "title": "‘THEY WERE SLOW’ 👀 Reaction to Man United’s loss to Hull City | ESPN FC",
       "videoId": "tUuHdXxt0OI",
       "channel": "ESPN FC",
       "publishedAt": "2026-08-22",
@@ -264,20 +295,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/CJkGfSlL7YU/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Simón, Williams and Laporte got a standing ovation with the WC by their side 🏆 👏",
-      "videoId": "DZjevjPBJpA",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-22",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/DZjevjPBJpA/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -436,23 +453,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/iNQLO7NiT7Q/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "England 1-2 Italy | 2014 Extended Highlights",
-      "videoId": "ToCSs4X0kvg",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-19",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Italy"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ToCSs4X0kvg/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
