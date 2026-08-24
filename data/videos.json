@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-08-24T16:41:13.413Z",
+  "lastUpdated": "2026-08-24T17:33:13.333Z",
   "featured": {
-    "match": "98o_hGTucAg",
-    "highlight": "98o_hGTucAg",
+    "match": "6QSLf8Th58g",
+    "highlight": "6QSLf8Th58g",
     "interview": "6jxzsAMeYI4"
   },
   "videos": [
+    {
+      "title": "When Neymar Lit Up The 2022 FIFA World Cup 🔥",
+      "videoId": "6QSLf8Th58g",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6QSLf8Th58g/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "1-Minute Quarter-Final: Germany Eliminate France | 2014 World Cup",
       "videoId": "98o_hGTucAg",
@@ -433,23 +447,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/qDBb0R83G2g/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "EXTENDED HIGHLIGHTS | Spain 2-2 Morocco | 2018 FIFA World Cup",
-      "videoId": "UpCZvfZyEW4",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-21",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/UpCZvfZyEW4/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
