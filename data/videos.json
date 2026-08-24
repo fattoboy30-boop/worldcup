@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-08-24T07:03:54.941Z",
+  "lastUpdated": "2026-08-24T08:51:39.265Z",
   "featured": {
-    "match": "X2-GvOJkL-Y",
-    "highlight": "X2-GvOJkL-Y",
+    "match": "gPTED2YUjnY",
+    "highlight": "gPTED2YUjnY",
     "interview": "6jxzsAMeYI4"
   },
   "videos": [
+    {
+      "title": "Luis Suarez' Best Goals At The FIFA World Cup 🇺🇾",
+      "videoId": "gPTED2YUjnY",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/gPTED2YUjnY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "EXTENDED HIGHLIGHTS | Brazilian Stars Shine | 2022 FIFA World Cup",
       "videoId": "X2-GvOJkL-Y",
@@ -435,23 +449,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/3uoU3jsmsPc/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "EXTENDED HIGHLIGHTS | Argentina 3-2 Nigeria | 2014 World Cup",
-      "videoId": "1hBjK6dSFm8",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-20",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Nigeria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/1hBjK6dSFm8/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
