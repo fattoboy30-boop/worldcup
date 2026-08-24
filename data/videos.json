@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-24T03:06:14.000Z",
+  "lastUpdated": "2026-08-24T04:49:15.048Z",
   "featured": {
-    "match": "LQ4grB2StKE",
-    "highlight": "LQ4grB2StKE",
+    "match": "X2-GvOJkL-Y",
+    "highlight": "X2-GvOJkL-Y",
     "interview": "6jxzsAMeYI4"
   },
   "videos": [
+    {
+      "title": "EXTENDED HIGHLIGHTS | Brazilian Stars Shine | 2022 FIFA World Cup",
+      "videoId": "X2-GvOJkL-Y",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-24",
+      "category": "Highlights",
+      "team": [
+        "Brazil"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/X2-GvOJkL-Y/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "EVERY Morocco World Cup Goal Since 2018!",
       "videoId": "LQ4grB2StKE",
@@ -436,20 +452,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/1hBjK6dSFm8/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "The FULL FIFA Women's World Cup Brasil 2027 Schedule",
-      "videoId": "-vQax6Zglz0",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-vQax6Zglz0/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
