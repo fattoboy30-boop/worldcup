@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-24T20:33:34.249Z",
+  "lastUpdated": "2026-08-24T21:32:17.986Z",
   "featured": {
-    "match": "6QSLf8Th58g",
-    "highlight": "6QSLf8Th58g",
+    "match": "cHEiFz75xmQ",
+    "highlight": "cHEiFz75xmQ",
     "interview": "6jxzsAMeYI4"
   },
   "videos": [
+    {
+      "title": "Croatia | EVERY World Cup Goal Since 2018!",
+      "videoId": "cHEiFz75xmQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-24",
+      "category": "Highlights",
+      "team": [
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cHEiFz75xmQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "When Neymar Lit Up The 2022 FIFA World Cup 🔥",
       "videoId": "6QSLf8Th58g",
@@ -433,20 +449,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/168Ch3zcTIw/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "David Beckham's 2006 Free Kick Beauty",
-      "videoId": "qDBb0R83G2g",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-21",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/qDBb0R83G2g/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
