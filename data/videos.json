@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-25T15:45:28.831Z",
+  "lastUpdated": "2026-08-25T16:40:22.553Z",
   "featured": {
-    "match": "QjeowjOUW0k",
-    "highlight": "QjeowjOUW0k",
+    "match": "xkZ7qP3Gseg",
+    "highlight": "xkZ7qP3Gseg",
     "interview": "qc1hR-I-Dtc"
   },
   "videos": [
+    {
+      "title": "Super-Fast Super-Sub Scores For France ✨",
+      "videoId": "xkZ7qP3Gseg",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-25",
+      "category": "Highlights",
+      "team": [
+        "France"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xkZ7qP3Gseg/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Norway | EVERY World Cup Goal",
       "videoId": "QjeowjOUW0k",
@@ -432,22 +448,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/UnNn6kccMTc/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Salas Stuns Italy In 1998 World Cup Thriller 🇨🇱",
-      "videoId": "WEvsh46UD1k",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-22",
-      "category": "Highlights",
-      "team": [
-        "Italy"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/WEvsh46UD1k/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
