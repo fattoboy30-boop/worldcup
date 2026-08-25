@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-25T07:46:56.844Z",
+  "lastUpdated": "2026-08-25T08:46:33.685Z",
   "featured": {
-    "match": "EKEl-idecQ8",
-    "highlight": "EKEl-idecQ8",
+    "match": "JMdfou9z_Bc",
+    "highlight": "JMdfou9z_Bc",
     "interview": "qc1hR-I-Dtc"
   },
   "videos": [
+    {
+      "title": "Is This Tunisia's Greatest Ever World Cup Goal? 🇹🇳",
+      "videoId": "JMdfou9z_Bc",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-25",
+      "category": "Highlights",
+      "team": [
+        "Tunisia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JMdfou9z_Bc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "10-Minute Match | Croatia 2-1 Morocco | 2022 Third-Place",
       "videoId": "EKEl-idecQ8",
@@ -432,23 +448,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/vXy6mrsz_8Y/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "EXTENDED HIGHLIGHTS: Messi's First World Cup Goal | Argentina 6-0 Serbia and Montenegro",
-      "videoId": "xDH3unfS3H4",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-22",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Serbia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xDH3unfS3H4/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
