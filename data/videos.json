@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-25T11:31:01.355Z",
+  "lastUpdated": "2026-08-25T12:52:32.630Z",
   "featured": {
-    "match": "JMdfou9z_Bc",
-    "highlight": "JMdfou9z_Bc",
+    "match": "QjeowjOUW0k",
+    "highlight": "QjeowjOUW0k",
     "interview": "qc1hR-I-Dtc"
   },
   "videos": [
+    {
+      "title": "Norway | EVERY World Cup Goal",
+      "videoId": "QjeowjOUW0k",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-25",
+      "category": "Highlights",
+      "team": [
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QjeowjOUW0k/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Is This Tunisia's Greatest Ever World Cup Goal? 🇹🇳",
       "videoId": "JMdfou9z_Bc",
@@ -432,22 +448,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/WEvsh46UD1k/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Tunisia | EVERY World Cup Goal In History",
-      "videoId": "vXy6mrsz_8Y",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-22",
-      "category": "Highlights",
-      "team": [
-        "Tunisia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vXy6mrsz_8Y/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
