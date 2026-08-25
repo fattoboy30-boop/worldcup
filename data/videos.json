@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-25T19:34:19.270Z",
+  "lastUpdated": "2026-08-25T20:32:33.334Z",
   "featured": {
-    "match": "xkZ7qP3Gseg",
-    "highlight": "xkZ7qP3Gseg",
+    "match": "3ZTLLZmv0Js",
+    "highlight": "3ZTLLZmv0Js",
     "interview": "qc1hR-I-Dtc"
   },
   "videos": [
+    {
+      "title": "1-Minute Classic | Slovenia 2-2 USA | 2010 FIFA World Cup",
+      "videoId": "3ZTLLZmv0Js",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-25",
+      "category": "Highlights",
+      "team": [
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/3ZTLLZmv0Js/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Super-Fast Super-Sub Scores For France ✨",
       "videoId": "xkZ7qP3Gseg",
@@ -431,23 +447,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/6jxzsAMeYI4/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "1-Minute Classic: Maradona, Argentina Top Brazil | 1990 World Cup Round of 16",
-      "videoId": "UnNn6kccMTc",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-22",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/UnNn6kccMTc/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
