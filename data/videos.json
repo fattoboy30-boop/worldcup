@@ -1,9 +1,457 @@
 {
-  "lastUpdated": "2026-08-25T06:53:15.304Z",
+  "lastUpdated": "2026-08-25T07:46:56.844Z",
   "featured": {
-    "match": "",
-    "highlight": "",
-    "interview": ""
+    "match": "EKEl-idecQ8",
+    "highlight": "EKEl-idecQ8",
+    "interview": "qc1hR-I-Dtc"
   },
-  "videos": []
+  "videos": [
+    {
+      "title": "10-Minute Match | Croatia 2-1 Morocco | 2022 Third-Place",
+      "videoId": "EKEl-idecQ8",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-25",
+      "category": "Highlights",
+      "team": [
+        "Croatia",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/EKEl-idecQ8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Croatia | EVERY World Cup Goal Since 2018!",
+      "videoId": "cHEiFz75xmQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-24",
+      "category": "Highlights",
+      "team": [
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cHEiFz75xmQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "When Neymar Lit Up The 2022 FIFA World Cup 🔥",
+      "videoId": "6QSLf8Th58g",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6QSLf8Th58g/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "1-Minute Quarter-Final: Germany Eliminate France | 2014 World Cup",
+      "videoId": "98o_hGTucAg",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-24",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Germany"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/98o_hGTucAg/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Luis Suarez' Best Goals At The FIFA World Cup 🇺🇾",
+      "videoId": "gPTED2YUjnY",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/gPTED2YUjnY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "EXTENDED HIGHLIGHTS | Brazilian Stars Shine | 2022 FIFA World Cup",
+      "videoId": "X2-GvOJkL-Y",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-24",
+      "category": "Highlights",
+      "team": [
+        "Brazil"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/X2-GvOJkL-Y/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Which Premier League team was the most impressive so far? + Julian Alvarez situation | ESPN FC",
+      "videoId": "Omvt8KZ8t-E",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Omvt8KZ8t-E/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Is Enzo Fernandez or Julian Alvarez in a worse situation with their supporters? | ESPN FC Extra Time",
+      "videoId": "8GmPxRHZnlU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/8GmPxRHZnlU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "How good can Barcelona’s attack be without a true striker? | ESPN FC",
+      "videoId": "D2cBm3-pS6U",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/D2cBm3-pS6U/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "🚨 Julian Alvarez linked with move to Arsenal + Premier League title odds | ESPN FC",
+      "videoId": "VCAUL5_p-Pk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/VCAUL5_p-Pk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "‘Cole Palmer was MAGNIFICENT!’ ⭐️  REACTION to Chelsea’s 3-2 win over Fulham | ESPN FC",
+      "videoId": "qc1hR-I-Dtc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-24",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/qc1hR-I-Dtc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "'He's scared for players to run in behind him now' 🫣",
+      "videoId": "w5QjvHd2C6A",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/w5QjvHd2C6A/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "‘NOT GOOD ENOUGH!’ Transfers needed for Liverpool after opening draw vs. Newcastle? | ESPN FC",
+      "videoId": "UPkqVR2eF5s",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/UPkqVR2eF5s/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "What did Haaland do?! 😮",
+      "videoId": "BzivTJgui2g",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/BzivTJgui2g/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Hit the SIUUU like CR7 was watching 🤖🐐😭",
+      "videoId": "VgbuLRT92Vk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/VgbuLRT92Vk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Haaland rocking the buzz cut 🫨 (via @erling/TT)",
+      "videoId": "qDEOVCCr_9o",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/qDEOVCCr_9o/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "🚨 MO SALAH BRACE 🚨Trabzonspor vs. İstanbul Basaksehir | Turkish Super Lig Highlights | ESPN FC",
+      "videoId": "gtaj_Q8UBOg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/gtaj_Q8UBOg/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Haaland called Pep, Jack Grealish and Zlatan to show off his new trim 💈🤣 (via @Erling/TT)",
+      "videoId": "QC4DhHPBXDc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QC4DhHPBXDc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Steve Nicol didn't hold back against Spurs on their opening day loss 🫣",
+      "videoId": "xHsORhtNo58",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xHsORhtNo58/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "EVERY Morocco World Cup Goal Since 2018!",
+      "videoId": "LQ4grB2StKE",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-23",
+      "category": "Highlights",
+      "team": [
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/LQ4grB2StKE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Banger Free Kicks | 2022 FIFA World Cup",
+      "videoId": "CY3Z9ErGG6c",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/CY3Z9ErGG6c/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "1-Minute Highlights | Januzaj Stuns England | 2018 FIFA World Cup",
+      "videoId": "upfZco_6uAw",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-23",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/upfZco_6uAw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Classy Casemiro: Trivela or Deflection?",
+      "videoId": "8REIe2Bulys",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/8REIe2Bulys/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "EXTENDED HIGHLIGHTS: Ronaldo, Portugal Top Gyan, Ghana | 2014 World Cup",
+      "videoId": "OnmzRJiP5YY",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-23",
+      "category": "Highlights",
+      "team": [
+        "Portugal",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/OnmzRJiP5YY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Season Opener Reaction 👀 Are Barcelona the class of LALIGA? | ESPN FC",
+      "videoId": "6jxzsAMeYI4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-23",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6jxzsAMeYI4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Do Barcelona really need a Number 9? | ESPN FC Extra Time",
+      "videoId": "l4LGFpFWbXg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/l4LGFpFWbXg/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "1-Minute Classic: Maradona, Argentina Top Brazil | 1990 World Cup Round of 16",
+      "videoId": "UnNn6kccMTc",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-22",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/UnNn6kccMTc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Salas Stuns Italy In 1998 World Cup Thriller 🇨🇱",
+      "videoId": "WEvsh46UD1k",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-22",
+      "category": "Highlights",
+      "team": [
+        "Italy"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/WEvsh46UD1k/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Tunisia | EVERY World Cup Goal In History",
+      "videoId": "vXy6mrsz_8Y",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-22",
+      "category": "Highlights",
+      "team": [
+        "Tunisia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vXy6mrsz_8Y/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "EXTENDED HIGHLIGHTS: Messi's First World Cup Goal | Argentina 6-0 Serbia and Montenegro",
+      "videoId": "xDH3unfS3H4",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-22",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Serbia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xDH3unfS3H4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    }
+  ]
 }
