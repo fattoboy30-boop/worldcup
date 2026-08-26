@@ -1,9 +1,454 @@
 {
-  "lastUpdated": "2026-08-26T06:54:37.706Z",
+  "lastUpdated": "2026-08-26T07:49:46.752Z",
   "featured": {
-    "match": "",
-    "highlight": "",
-    "interview": ""
+    "match": "31jQkNFOBKk",
+    "highlight": "31jQkNFOBKk",
+    "interview": "RsLBBIJ4VqM"
   },
-  "videos": []
+  "videos": [
+    {
+      "title": "EVERY Uruguay World Cup Goal (2014-2026)",
+      "videoId": "31jQkNFOBKk",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-26",
+      "category": "Highlights",
+      "team": [
+        "Uruguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/31jQkNFOBKk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "1-Minute Classic | Slovenia 2-2 USA | 2010 FIFA World Cup",
+      "videoId": "3ZTLLZmv0Js",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-25",
+      "category": "Highlights",
+      "team": [
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/3ZTLLZmv0Js/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Super-Fast Super-Sub Scores For France ✨",
+      "videoId": "xkZ7qP3Gseg",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-25",
+      "category": "Highlights",
+      "team": [
+        "France"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xkZ7qP3Gseg/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Norway | EVERY World Cup Goal",
+      "videoId": "QjeowjOUW0k",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-25",
+      "category": "Highlights",
+      "team": [
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QjeowjOUW0k/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Is This Tunisia's Greatest Ever World Cup Goal? 🇹🇳",
+      "videoId": "JMdfou9z_Bc",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-25",
+      "category": "Highlights",
+      "team": [
+        "Tunisia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JMdfou9z_Bc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "10-Minute Match | Croatia 2-1 Morocco | 2022 Third-Place",
+      "videoId": "EKEl-idecQ8",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-25",
+      "category": "Highlights",
+      "team": [
+        "Croatia",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/EKEl-idecQ8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "PFA Awards Reaction 👑 + Premier League transfer news | ESPN FC",
+      "videoId": "RsLBBIJ4VqM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-25",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RsLBBIJ4VqM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Incredible analysis from Craig Burley 🦈",
+      "videoId": "gtajhDTsBYM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-25",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/gtajhDTsBYM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Can Chelsea finish in the Premier League top four? | ESPN FC Extra Time",
+      "videoId": "ablXtYK7l50",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-25",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ablXtYK7l50/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "How do Carlos Baleba, Nico Gonzalez and Liam Delap fit with their new EPL squads? 👀 | ESPN FC",
+      "videoId": "_qHWPwt1Rv0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-25",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_qHWPwt1Rv0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Reaction to Bruno Fernandes winning PFL Player of the Year | ESPN FC",
+      "videoId": "zkVxxx9I1Zc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-25",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/zkVxxx9I1Zc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Steve Nicol calls Savio transfer a ‘GAMBLE’ for Spurs | ESPN FC",
+      "videoId": "Ih6rlLLEIS8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-25",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Ih6rlLLEIS8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Valencia vs. Real Betis | LALIGA Highlights | ESPN FC",
+      "videoId": "qcxVr9sggWw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-25",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/qcxVr9sggWw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Diomande 🤝 Espi (via @realmadrid/IG)",
+      "videoId": "IZKfEz0ddF4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-25",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/IZKfEz0ddF4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Croatia | EVERY World Cup Goal Since 2018!",
+      "videoId": "cHEiFz75xmQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-24",
+      "category": "Highlights",
+      "team": [
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cHEiFz75xmQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "When Neymar Lit Up The 2022 FIFA World Cup 🔥",
+      "videoId": "6QSLf8Th58g",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6QSLf8Th58g/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "1-Minute Quarter-Final: Germany Eliminate France | 2014 World Cup",
+      "videoId": "98o_hGTucAg",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-24",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Germany"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/98o_hGTucAg/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Luis Suarez' Best Goals At The FIFA World Cup 🇺🇾",
+      "videoId": "gPTED2YUjnY",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/gPTED2YUjnY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "EXTENDED HIGHLIGHTS | Brazilian Stars Shine | 2022 FIFA World Cup",
+      "videoId": "X2-GvOJkL-Y",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-24",
+      "category": "Highlights",
+      "team": [
+        "Brazil"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/X2-GvOJkL-Y/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Which Premier League team was the most impressive so far? + Julian Alvarez situation | ESPN FC",
+      "videoId": "Omvt8KZ8t-E",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Omvt8KZ8t-E/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Is Enzo Fernandez or Julian Alvarez in a worse situation with their supporters? | ESPN FC Extra Time",
+      "videoId": "8GmPxRHZnlU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/8GmPxRHZnlU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "How good can Barcelona’s attack be without a true striker? | ESPN FC",
+      "videoId": "D2cBm3-pS6U",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/D2cBm3-pS6U/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "🚨 Julian Alvarez linked with move to Arsenal + Premier League title odds | ESPN FC",
+      "videoId": "VCAUL5_p-Pk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/VCAUL5_p-Pk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "‘Cole Palmer was MAGNIFICENT!’ ��️  REACTION to Chelsea’s 3-2 win over Fulham | ESPN FC",
+      "videoId": "qc1hR-I-Dtc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-24",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/qc1hR-I-Dtc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "'He's scared for players to run in behind him now' 🫣",
+      "videoId": "w5QjvHd2C6A",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/w5QjvHd2C6A/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "‘NOT GOOD ENOUGH!’ Transfers needed for Liverpool after opening draw vs. Newcastle? | ESPN FC",
+      "videoId": "UPkqVR2eF5s",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/UPkqVR2eF5s/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "EVERY Morocco World Cup Goal Since 2018!",
+      "videoId": "LQ4grB2StKE",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-23",
+      "category": "Highlights",
+      "team": [
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/LQ4grB2StKE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Banger Free Kicks | 2022 FIFA World Cup",
+      "videoId": "CY3Z9ErGG6c",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/CY3Z9ErGG6c/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "1-Minute Highlights | Januzaj Stuns England | 2018 FIFA World Cup",
+      "videoId": "upfZco_6uAw",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-23",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/upfZco_6uAw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Classy Casemiro: Trivela or Deflection?",
+      "videoId": "8REIe2Bulys",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/8REIe2Bulys/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    }
+  ]
 }
