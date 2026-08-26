@@ -1,11 +1,28 @@
 {
-  "lastUpdated": "2026-08-26T11:32:47.393Z",
+  "lastUpdated": "2026-08-26T12:57:51.477Z",
   "featured": {
-    "match": "EL1MljwN_xg",
-    "highlight": "EL1MljwN_xg",
+    "match": "wfb8--YDPr8",
+    "highlight": "wfb8--YDPr8",
     "interview": "RsLBBIJ4VqM"
   },
   "videos": [
+    {
+      "title": "1-Minute Semi-Final: Argentina 3-0 Croatia | 2022 World Cup",
+      "videoId": "wfb8--YDPr8",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-26",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/wfb8--YDPr8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Great Gemmill Goal | 1978 FIFA World Cup",
       "videoId": "EL1MljwN_xg",
@@ -32,6 +49,20 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/31jQkNFOBKk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Steve Nicol '100% would have swapped Rayan Cherki for Morgan Rogers' on the PFA Team of the Year 👀",
+      "videoId": "FVLfhfj1sQY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/FVLfhfj1sQY/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -391,20 +422,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "‘NOT GOOD ENOUGH!’ Transfers needed for Liverpool after opening draw vs. Newcastle? | ESPN FC",
-      "videoId": "UPkqVR2eF5s",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-24",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/UPkqVR2eF5s/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "EVERY Morocco World Cup Goal Since 2018!",
       "videoId": "LQ4grB2StKE",
       "channel": "FIFA",
@@ -430,22 +447,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/CY3Z9ErGG6c/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "1-Minute Highlights | Januzaj Stuns England | 2018 FIFA World Cup",
-      "videoId": "upfZco_6uAw",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-23",
-      "category": "Highlights",
-      "team": [
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/upfZco_6uAw/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
