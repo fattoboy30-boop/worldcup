@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-26T16:20:09.812Z",
+  "lastUpdated": "2026-08-26T19:06:10.442Z",
   "featured": {
-    "match": "wfb8--YDPr8",
-    "highlight": "wfb8--YDPr8",
+    "match": "vVeOwR3LQxI",
+    "highlight": "vVeOwR3LQxI",
     "interview": "RsLBBIJ4VqM"
   },
   "videos": [
+    {
+      "title": "Ghana's Gyan: Glorious World Cup Goals 🇬🇭",
+      "videoId": "vVeOwR3LQxI",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-26",
+      "category": "Highlights",
+      "team": [
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vVeOwR3LQxI/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "1-Minute Semi-Final: Argentina 3-0 Croatia | 2022 World Cup",
       "videoId": "wfb8--YDPr8",
@@ -433,20 +449,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/LQ4grB2StKE/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Banger Free Kicks | 2022 FIFA World Cup",
-      "videoId": "CY3Z9ErGG6c",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-23",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/CY3Z9ErGG6c/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
