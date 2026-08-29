@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-08-29T17:34:31.371Z",
+  "lastUpdated": "2026-08-29T20:40:06.060Z",
   "featured": {
-    "match": "xXikQPnJRI8",
-    "highlight": "xXikQPnJRI8",
+    "match": "MgtdvqnUDWA",
+    "highlight": "MgtdvqnUDWA",
     "interview": "RU77yTmz-I8"
   },
   "videos": [
+    {
+      "title": "10-Minute Match | Costa Rica 2-4 Germany | 2022 World Cup",
+      "videoId": "MgtdvqnUDWA",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-29",
+      "category": "Highlights",
+      "team": [
+        "Germany"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/MgtdvqnUDWA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "When De Ketelaere Towered High | Two Great 2026 Headers 🇧🇪",
       "videoId": "xXikQPnJRI8",
@@ -97,6 +113,34 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/QrFr0G4s7yI/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Real Sociedad vs. Espanyol | LALIGA Highlights | ESPN FC",
+      "videoId": "tgYYdJCBFY4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-29",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tgYYdJCBFY4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Levante vs. Real Betis | LALIGA Highlights | ESPN FC",
+      "videoId": "JIaT0ZrCXV8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-29",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JIaT0ZrCXV8/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -400,23 +444,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "A 2018 Classic: France 2-0 Uruguay | Quarter-Final",
-      "videoId": "5WibozYUlLc",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-27",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Uruguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/5WibozYUlLc/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "What impact will Bradley Barcola have at Liverpool? 👀 + Barcelona's new-look XI | ESPN FC",
       "videoId": "nWJORpGUZ00",
       "channel": "ESPN FC",
@@ -426,34 +453,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/nWJORpGUZ00/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Is Lamine Yamal too PASSIVE during LALIGA games? 🤔 | ESPN FC Extra Time",
-      "videoId": "cTOcrboCKoo",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-27",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/cTOcrboCKoo/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Barcelona vs. Athletic Club REACTION 🍿 + Lamine Yamal's recent performances | ESPN FC",
-      "videoId": "ZpfgpqVFmLs",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-27",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ZpfgpqVFmLs/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
