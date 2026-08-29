@@ -1,9 +1,462 @@
 {
-  "lastUpdated": "2026-08-29T06:25:19.464Z",
+  "lastUpdated": "2026-08-29T13:02:45.268Z",
   "featured": {
-    "match": "",
-    "highlight": "",
-    "interview": ""
+    "match": "kFZ79XHbfhE",
+    "highlight": "kFZ79XHbfhE",
+    "interview": "RU77yTmz-I8"
   },
-  "videos": []
+  "videos": [
+    {
+      "title": "Ghana | EVERY World Cup Goal",
+      "videoId": "kFZ79XHbfhE",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-29",
+      "category": "Highlights",
+      "team": [
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/kFZ79XHbfhE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "1-Minute Match: Croatia Top Morocco For Bronze | 2022 World Cup",
+      "videoId": "RkXyCsqgPU0",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-29",
+      "category": "Highlights",
+      "team": [
+        "Croatia",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RkXyCsqgPU0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Leckie Turns Defender Inside-Out | 2022 FIFA World Cup",
+      "videoId": "mULgAslQhcY",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-29",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/mULgAslQhcY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "2002 Drama | Sweden 1-2 Senegal | Extended Round of 16 Highlights",
+      "videoId": "QrFr0G4s7yI",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-29",
+      "category": "Highlights",
+      "team": [
+        "Senegal",
+        "Sweden"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QrFr0G4s7yI/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Algeria | EVERY World Cup Goal",
+      "videoId": "H2buWEECVHA",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-28",
+      "category": "Highlights",
+      "team": [
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/H2buWEECVHA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Ronaldo Diving Header Puts Portugal Past Morocco | 2018 FIFA World Cup",
+      "videoId": "383UxuKO-wk",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-28",
+      "category": "Highlights",
+      "team": [
+        "Portugal",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/383UxuKO-wk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "OVER 10 Minutes of Headed Goals | 2026 World Cup",
+      "videoId": "cqIx144zQSU",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-28",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cqIx144zQSU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "2014 Thriller: Germany 2-2 Ghana | Klose, Gyan, Ayew, Gotze",
+      "videoId": "oYcfYa8nd7s",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-28",
+      "category": "Highlights",
+      "team": [
+        "Germany",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/oYcfYa8nd7s/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "10-Minute Highlights | Serbia 2-3 Switzerland | 2022 World Cup",
+      "videoId": "el6Cc1uLQGk",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-28",
+      "category": "Highlights",
+      "team": [
+        "Switzerland",
+        "Serbia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/el6Cc1uLQGk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "World Cup Classic: Argentina Edge Italy | 1990 Semi-Final",
+      "videoId": "teHU1sKwALA",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-28",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Italy"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/teHU1sKwALA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Are Man City ready to challenge Arsenal⁉️ Ale Moreno says they're short in the midfield 🗣️ | ESPN FC",
+      "videoId": "WEvDmuEho8Q",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-28",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/WEvDmuEho8Q/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Will FC Bayern break their own goals record? + Are goalkeepers peculiar people? | ESPN FC Extra Time",
+      "videoId": "siIz5_czPcs",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-28",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/siIz5_czPcs/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Should Luis Enrique be CONCERNED with PSG’s slow start to the season? 🤔 | ESPN FC",
+      "videoId": "nTQHaI6b_Ok",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-28",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/nTQHaI6b_Ok/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Crystal Palace vs. Manchester City REACTION 🍿 Can Rayan Cherki stay consistent? 👀 | ESPN FC",
+      "videoId": "RU77yTmz-I8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-28",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RU77yTmz-I8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Close Clash 😤 Alaves vs. Villarreal | LALIGA Highlights | ESPN FC",
+      "videoId": "Z48lJUXIG20",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-28",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Z48lJUXIG20/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "‘AN INCREDIBLE UPGRADE!’ Shaka Hislop on Chelsea signing Emi Martinez + Enzo to Man City? | ESPN FC",
+      "videoId": "_uP_tRW0Q_0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-28",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_uP_tRW0Q_0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "🔥🔥🔥 (via alisher.kelgenbay/IG)",
+      "videoId": "8KXy5Yjl54I",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-28",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/8KXy5Yjl54I/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Luis Figo on Real Madrid and the dynamic between Mbappe and Vini Jr. 🏆",
+      "videoId": "oxovsM_1wng",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-28",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/oxovsM_1wng/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Joao Cancelo 🤝 Barcelona (via @fcbarcelona/TT)",
+      "videoId": "WRE1gAeSJbY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-28",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/WRE1gAeSJbY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Gordon has landed in Barcelona 🇪🇸",
+      "videoId": "LcMXrE0MC2I",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-28",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/LcMXrE0MC2I/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Real Madrid fans stay silent until they hear a better manager than Jose Mourinho 🤫",
+      "videoId": "mZgx015CAJY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-28",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/mZgx015CAJY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "South Africa | EVERY World Cup Goal",
+      "videoId": "GjS_PTLScTE",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-27",
+      "category": "Highlights",
+      "team": [
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/GjS_PTLScTE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Kane's Header Show Lifts England | 2026 World Cup",
+      "videoId": "IsIFXkcNtlY",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-27",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/IsIFXkcNtlY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "A 2018 Classic: France 2-0 Uruguay | Quarter-Final",
+      "videoId": "5WibozYUlLc",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-27",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Uruguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/5WibozYUlLc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Puyol & Spain Script History! | Germany 0-1 Spain | 2010 FIFA World Cup Semi-Final",
+      "videoId": "11pUvKAytGQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-27",
+      "category": "Highlights",
+      "team": [
+        "Germany",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/11pUvKAytGQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights | Al Ahli FC v Auckland FC | African-Asian-Pacific Play-Off 2026",
+      "videoId": "yWu180j6ebM",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-27",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/yWu180j6ebM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "What impact will Bradley Barcola have at Liverpool? 👀 + Barcelona's new-look XI | ESPN FC",
+      "videoId": "nWJORpGUZ00",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-27",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/nWJORpGUZ00/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Is Lamine Yamal too PASSIVE during LALIGA games? 🤔 | ESPN FC Extra Time",
+      "videoId": "cTOcrboCKoo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-27",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cTOcrboCKoo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Barcelona vs. Athletic Club REACTION 🍿 + Lamine Yamal's recent performances | ESPN FC",
+      "videoId": "ZpfgpqVFmLs",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-27",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ZpfgpqVFmLs/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Jose Mourinho is trying his hardest to keep Real Madrid players happy! - Craig Burley | ESPN FC",
+      "videoId": "K8uVesDC7Lg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-27",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/K8uVesDC7Lg/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    }
+  ]
 }
