@@ -1,11 +1,75 @@
 {
-  "lastUpdated": "2026-08-31T08:21:18.362Z",
+  "lastUpdated": "2026-08-31T16:52:11.483Z",
   "featured": {
-    "match": "JJPBhD-2kPQ",
-    "highlight": "JJPBhD-2kPQ",
+    "match": "TKukcjvUOVM",
+    "highlight": "TKukcjvUOVM",
     "interview": "ky0vMhS5xec"
   },
   "videos": [
+    {
+      "title": "2026's Top Headers: Kane & De Ketelaere",
+      "videoId": "TKukcjvUOVM",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-31",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/TKukcjvUOVM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Spain Shock Germany In Semi-Final | 2010 World Cup",
+      "videoId": "uoWbFgpHogw",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-31",
+      "category": "Highlights",
+      "team": [
+        "Germany",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/uoWbFgpHogw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "10-Minute Quarter-Final: France 2-0 Uruguay | 2018 World Cup",
+      "videoId": "dV8mtVdHS-s",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-31",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Uruguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/dV8mtVdHS-s/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Marchisio's Long-Range Rocket vs England | 2014 World Cup",
+      "videoId": "Q6nBBtB-wP0",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-31",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Q6nBBtB-wP0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "10-Minute Match: France 0-1 Germany | 2014 Quarter-Final",
       "videoId": "JJPBhD-2kPQ",
@@ -56,7 +120,7 @@
       "fixtureTeams": null
     },
     {
-      "title": "Senegal Storm Back To Beat Sweden | 2002 Quarter-Finals",
+      "title": "Senegal Storm Back To Beat Sweden | 2002 Round Of 16",
       "videoId": "KNpYvRcMdjY",
       "channel": "FIFA",
       "publishedAt": "2026-08-31",
@@ -68,6 +132,34 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/KNpYvRcMdjY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "What a run 🇦🇷🐐",
+      "videoId": "jcpMjaV3RWI",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-31",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jcpMjaV3RWI/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "What a signing for Deportivo 🔥",
+      "videoId": "F63nY-tears",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-31",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/F63nY-tears/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -181,39 +273,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/OXk2nBhsaMU/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Super Senegalese Double From 2002 🇸🇳",
-      "videoId": "N-XnqcXqruY",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-30",
-      "category": "Highlights",
-      "team": [
-        "Senegal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/N-XnqcXqruY/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "EXTENDED HIGHLIGHTS: Ghana 0-2 Uruguay | 2022 World Cup",
-      "videoId": "7za5W1rul-o",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-30",
-      "category": "Highlights",
-      "team": [
-        "Uruguay",
-        "Ghana"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7za5W1rul-o/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -396,67 +455,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/KdU6LfNjdnA/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "🚨 Gabriel Jesus is set to join Barcelona on a two-year contract 🚨 | ESPN FC",
-      "videoId": "NLOmzlgiTLA",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-30",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/NLOmzlgiTLA/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "😮‍💨⚽️🔥 (via @futebolraiz.2025/IG)",
-      "videoId": "7qOffowaBMI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-30",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7qOffowaBMI/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "10-Minute Match: Ghana 1-2 USA | 2014 World Cup",
-      "videoId": "Ibaiwc8OS14",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-29",
-      "category": "Highlights",
-      "team": [
-        "USA",
-        "Ghana"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Ibaiwc8OS14/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "10-Minute Match | Costa Rica 2-4 Germany | 2022 World Cup",
-      "videoId": "MgtdvqnUDWA",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-29",
-      "category": "Highlights",
-      "team": [
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/MgtdvqnUDWA/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
