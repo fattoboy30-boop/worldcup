@@ -1,11 +1,28 @@
 {
-  "lastUpdated": "2026-09-01T01:05:24.931Z",
+  "lastUpdated": "2026-09-01T07:29:35.860Z",
   "featured": {
-    "match": "bTzjGxB4iWU",
-    "highlight": "bTzjGxB4iWU",
+    "match": "ShKW7O4ysbQ",
+    "highlight": "ShKW7O4ysbQ",
     "interview": "Adrgcw4CFfk"
   },
   "videos": [
+    {
+      "title": "Marvellous Musa Leads Nigeria Past Iceland | 2018 World Cup",
+      "videoId": "ShKW7O4ysbQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-01",
+      "category": "Highlights",
+      "team": [
+        "USA",
+        "Nigeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ShKW7O4ysbQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Lamine 💎",
       "videoId": "bTzjGxB4iWU",
@@ -444,22 +461,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/HSsebPDtYQQ/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "De Arrascaeta Double Finishes Ghana | 2022 FIFA World Cup",
-      "videoId": "HMs-IQrSJI0",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-30",
-      "category": "Highlights",
-      "team": [
-        "Ghana"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/HMs-IQrSJI0/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
