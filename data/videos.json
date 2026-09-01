@@ -1,11 +1,28 @@
 {
-  "lastUpdated": "2026-09-01T17:42:18.328Z",
+  "lastUpdated": "2026-09-01T20:46:12.488Z",
   "featured": {
-    "match": "kyK8ylCNy6M",
-    "highlight": "kyK8ylCNy6M",
+    "match": "Gd_bIfDOuwY",
+    "highlight": "Gd_bIfDOuwY",
     "interview": "Adrgcw4CFfk"
   },
   "videos": [
+    {
+      "title": "Famous Algerian Upset Of Germany | 1982 World Cup EXTENDED HIGHLIGHTS",
+      "videoId": "Gd_bIfDOuwY",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-01",
+      "category": "Highlights",
+      "team": [
+        "Germany",
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Gd_bIfDOuwY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Host Germans Hold Off Argentina | 2006 Quarter-Final EXTENDED HIGHLIGHTS",
       "videoId": "kyK8ylCNy6M",
@@ -446,22 +463,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/kvFksek-VC4/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Chile | ALL World Cup Goals (1974-2014)",
-      "videoId": "MwFjdC5Otow",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-30",
-      "category": "Highlights",
-      "team": [
-        "Chile"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/MwFjdC5Otow/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
