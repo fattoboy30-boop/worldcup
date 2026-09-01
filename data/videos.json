@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-09-01T07:29:35.860Z",
+  "lastUpdated": "2026-09-01T13:16:16.672Z",
   "featured": {
-    "match": "ShKW7O4ysbQ",
-    "highlight": "ShKW7O4ysbQ",
+    "match": "kyK8ylCNy6M",
+    "highlight": "kyK8ylCNy6M",
     "interview": "Adrgcw4CFfk"
   },
   "videos": [
+    {
+      "title": "Host Germans Hold Off Argentina | 2006 Quarter-Final EXTENDED HIGHLIGHTS",
+      "videoId": "kyK8ylCNy6M",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-01",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/kyK8ylCNy6M/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Marvellous Musa Leads Nigeria Past Iceland | 2018 World Cup",
       "videoId": "ShKW7O4ysbQ",
@@ -19,6 +35,20 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/ShKW7O4ysbQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Hansi Flick is fully fluent in Spanish now 🧠",
+      "videoId": "G536OuJKe5E",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-01",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/G536OuJKe5E/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -419,20 +449,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Look what it meant to him 🥶",
-      "videoId": "4TPe1bm0M5M",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-08-31",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/4TPe1bm0M5M/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "Chile | ALL World Cup Goals (1974-2014)",
       "videoId": "MwFjdC5Otow",
       "channel": "FIFA",
@@ -444,23 +460,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/MwFjdC5Otow/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Dynamite Brazil Double Drops Mexico | 2018 World Cup",
-      "videoId": "HSsebPDtYQQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-30",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/HSsebPDtYQQ/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
