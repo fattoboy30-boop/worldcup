@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-09-02T17:43:41.974Z",
+  "lastUpdated": "2026-09-02T20:45:52.338Z",
   "featured": {
-    "match": "O_AeMivn_eA",
-    "highlight": "O_AeMivn_eA",
+    "match": "lqxCFJno32Q",
+    "highlight": "lqxCFJno32Q",
     "interview": "VAgqXttsI-Y"
   },
   "videos": [
+    {
+      "title": "Croatia's Biggest Ever World Cup Win 🇭🇷",
+      "videoId": "lqxCFJno32Q",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-02",
+      "category": "Highlights",
+      "team": [
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/lqxCFJno32Q/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "1-Minute Highlights | Côte d'Ivoire 2-1 Japan  | 2014 FIFA World Cup",
       "videoId": "O_AeMivn_eA",
@@ -386,22 +402,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/JJPBhD-2kPQ/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Scotland | ALL World Cup Goals (1974-2026)",
-      "videoId": "m1yGe542ME8",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-31",
-      "category": "Highlights",
-      "team": [
-        "Scotland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/m1yGe542ME8/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
