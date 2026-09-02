@@ -1,9 +1,470 @@
 {
-  "lastUpdated": "2026-09-02T03:39:51.650Z",
+  "lastUpdated": "2026-09-02T08:35:07.605Z",
   "featured": {
-    "match": "",
-    "highlight": "",
-    "interview": ""
+    "match": "BzdP0qlVwVc",
+    "highlight": "BzdP0qlVwVc",
+    "interview": "VAgqXttsI-Y"
   },
-  "videos": []
+  "videos": [
+    {
+      "title": "10-Minute Highlights | Mandzukic Shines v Cameroon | 2014 FIFA World Cup",
+      "videoId": "BzdP0qlVwVc",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-02",
+      "category": "Highlights",
+      "team": [
+        "Cameroon"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/BzdP0qlVwVc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Famous Algerian Upset Of Germany | 1982 World Cup EXTENDED HIGHLIGHTS",
+      "videoId": "Gd_bIfDOuwY",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-01",
+      "category": "Highlights",
+      "team": [
+        "Germany",
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Gd_bIfDOuwY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Host Germans Hold Off Argentina | 2006 Quarter-Final EXTENDED HIGHLIGHTS",
+      "videoId": "kyK8ylCNy6M",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-01",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/kyK8ylCNy6M/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Marvellous Musa Leads Nigeria Past Iceland | 2018 World Cup",
+      "videoId": "ShKW7O4ysbQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-01",
+      "category": "Highlights",
+      "team": [
+        "USA",
+        "Nigeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ShKW7O4ysbQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "TRANSFER WINDOW REACTION 🗣️ What were the best signings in the Premier League & LALIGA? 🤔 | ESPN FC",
+      "videoId": "VAgqXttsI-Y",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-01",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/VAgqXttsI-Y/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "How does Julian Alvarez return to Atletico Madrid and perform? | ESPN FC Extra Time",
+      "videoId": "c7Y8s1iYFfY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-01",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/c7Y8s1iYFfY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Julian Alvarez STAYING at Atleti 😦 Will reintegrating be a challenge? + LALIGA signings | ESPN FC",
+      "videoId": "8kONSZnJkKQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-01",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/8kONSZnJkKQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Premier League Transfers ⚽Reacting to moves from United, Liverpool, Arsenal & Spurs | ESPN FC",
+      "videoId": "BzgpHGwruKk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-01",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/BzgpHGwruKk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "REACTION to Chelsea's transfer window 👀 'There's a lot of unknowns' - James Olley | ESPN FC",
+      "videoId": "Q3Wgm5dsCTE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-01",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Q3Wgm5dsCTE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "WISH GRANTED 🪄 Does Enzo Fernandez to Man City make the Cityzens title contenders? | ESPN FC",
+      "videoId": "D6zVkkSErO8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-01",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/D6zVkkSErO8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Defining Lionel Messi's GREATNESS with Argentina | Futbol Americas",
+      "videoId": "T9X9RJxgOcE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-01",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/T9X9RJxgOcE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "SALAH SCORES AGAIN! Trabzonspor vs. Amed SK | | Turkish Super Lig Highlights | ESPN FC",
+      "videoId": "BLrJycJyu98",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-01",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/BLrJycJyu98/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Hansi Flick is fully fluent in Spanish now 🧠",
+      "videoId": "G536OuJKe5E",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-01",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/G536OuJKe5E/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Lamine 💎",
+      "videoId": "bTzjGxB4iWU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-01",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/bTzjGxB4iWU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Colombia Top Group, Eliminate Senegal | 2018 World Cup",
+      "videoId": "lx86YQfgpyU",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-31",
+      "category": "Highlights",
+      "team": [
+        "Colombia",
+        "Senegal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/lx86YQfgpyU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Twenty years. One legend. Lionel Andrés Messi. #FIFAWorldCup",
+      "videoId": "r-DKySuYVWg",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-31",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/r-DKySuYVWg/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "USA Rebound For Win Over Ghana | 2014 World Cup",
+      "videoId": "esViWQf2Ziw",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-31",
+      "category": "Highlights",
+      "team": [
+        "USA",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/esViWQf2Ziw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Zidane, France 1-0 Ronaldo, Portugal | 2006 EXTENDED HIGHLIGHTS",
+      "videoId": "J40o-XpO5Rk",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-31",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/J40o-XpO5Rk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "2026's Top Headers: Kane & De Ketelaere",
+      "videoId": "TKukcjvUOVM",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-31",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/TKukcjvUOVM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Spain Shock Germany In Semi-Final | 2010 World Cup",
+      "videoId": "uoWbFgpHogw",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-31",
+      "category": "Highlights",
+      "team": [
+        "Germany",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/uoWbFgpHogw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "10-Minute Quarter-Final: France 2-0 Uruguay | 2018 World Cup",
+      "videoId": "dV8mtVdHS-s",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-31",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Uruguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/dV8mtVdHS-s/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Marchisio's Long-Range Rocket vs England | 2014 World Cup",
+      "videoId": "Q6nBBtB-wP0",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-31",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Q6nBBtB-wP0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "10-Minute Match: France 0-1 Germany | 2014 Quarter-Final",
+      "videoId": "JJPBhD-2kPQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-31",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Germany"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JJPBhD-2kPQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Scotland | ALL World Cup Goals (1974-2026)",
+      "videoId": "m1yGe542ME8",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-31",
+      "category": "Highlights",
+      "team": [
+        "Scotland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/m1yGe542ME8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "1-Minute Match: Costa Rica 2-4 Germany | 2022 World Cup",
+      "videoId": "KN1AQEY0OWw",
+      "channel": "FIFA",
+      "publishedAt": "2026-08-31",
+      "category": "Highlights",
+      "team": [
+        "Germany"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/KN1AQEY0OWw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "LALIGA Reaction + Lionel Messi retires from Argentina | ESPN FC Full Show",
+      "videoId": "Adrgcw4CFfk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-31",
+      "category": "Viral",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Adrgcw4CFfk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Should Liverpool have hired Alonso over Iraola? | ESPN FC Extra Time",
+      "videoId": "WWPjLnXCoKQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-31",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/WWPjLnXCoKQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Messi retires from international play 😔 What is his legacy with Argentina? 🇦🇷 | ESPN FC",
+      "videoId": "gADdcggXuP0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-31",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/gADdcggXuP0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Lamine Yamal ❤️💙",
+      "videoId": "dDpDb-3el_A",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-31",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/dDpDb-3el_A/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Lamine Yamal is a STAR 💥",
+      "videoId": "Kgfi9GBiySc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-08-31",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Kgfi9GBiySc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    }
+  ]
 }
