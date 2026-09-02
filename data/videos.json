@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-09-02T08:35:07.605Z",
+  "lastUpdated": "2026-09-02T13:24:29.990Z",
   "featured": {
-    "match": "BzdP0qlVwVc",
-    "highlight": "BzdP0qlVwVc",
+    "match": "O_AeMivn_eA",
+    "highlight": "O_AeMivn_eA",
     "interview": "VAgqXttsI-Y"
   },
   "videos": [
+    {
+      "title": "1-Minute Highlights | Côte d'Ivoire 2-1 Japan  | 2014 FIFA World Cup",
+      "videoId": "O_AeMivn_eA",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-02",
+      "category": "Highlights",
+      "team": [
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/O_AeMivn_eA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "10-Minute Highlights | Mandzukic Shines v Cameroon | 2014 FIFA World Cup",
       "videoId": "BzdP0qlVwVc",
@@ -372,22 +388,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/m1yGe542ME8/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "1-Minute Match: Costa Rica 2-4 Germany | 2022 World Cup",
-      "videoId": "KN1AQEY0OWw",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-31",
-      "category": "Highlights",
-      "team": [
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/KN1AQEY0OWw/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
