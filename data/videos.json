@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-09-03T17:39:19.976Z",
+  "lastUpdated": "2026-09-03T20:43:32.510Z",
   "featured": {
-    "match": "Z10mmFUO1l0",
-    "highlight": "Z10mmFUO1l0",
+    "match": "gbqfitjZPR4",
+    "highlight": "gbqfitjZPR4",
     "interview": "w7GcawZ2F9c"
   },
   "videos": [
+    {
+      "title": "10-Minute Highlights | Korea Republic 2-4 Algeria | 2014 World Cup",
+      "videoId": "gbqfitjZPR4",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-03",
+      "category": "Highlights",
+      "team": [
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/gbqfitjZPR4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Argentina LOVE headers! | 2026 FIFA World Cup",
       "videoId": "Z10mmFUO1l0",
@@ -440,23 +456,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/r-DKySuYVWg/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "USA Rebound For Win Over Ghana | 2014 World Cup",
-      "videoId": "esViWQf2Ziw",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-31",
-      "category": "Highlights",
-      "team": [
-        "USA",
-        "Ghana"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/esViWQf2Ziw/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
