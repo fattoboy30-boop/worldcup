@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-09-03T08:43:23.159Z",
+  "lastUpdated": "2026-09-03T13:22:55.743Z",
   "featured": {
-    "match": "41kX2n6wbJc",
-    "highlight": "41kX2n6wbJc",
+    "match": "U4VL7szSzpU",
+    "highlight": "U4VL7szSzpU",
     "interview": "w7GcawZ2F9c"
   },
   "videos": [
+    {
+      "title": "Artists in the air! Egypt headed GOALS | 2026 FIFA World Cup",
+      "videoId": "U4VL7szSzpU",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-03",
+      "category": "Highlights",
+      "team": [
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/U4VL7szSzpU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Iconic Shootout After Epic Netherlands v Costa Rica Clash | 2014 Quarter-Final",
       "videoId": "41kX2n6wbJc",
@@ -225,7 +241,7 @@
       "fixtureTeams": null
     },
     {
-      "title": "TRANSFER WINDOW REACTION 🗣️ What were the best signings in the Premier League & LALIGA? 🤔 | ESPN FC",
+      "title": "TRANSFER WINDOW REACTION ����️ What were the best signings in the Premier League & LALIGA? 🤔 | ESPN FC",
       "videoId": "VAgqXttsI-Y",
       "channel": "ESPN FC",
       "publishedAt": "2026-09-01",
@@ -441,23 +457,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/TKukcjvUOVM/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Spain Shock Germany In Semi-Final | 2010 World Cup",
-      "videoId": "uoWbFgpHogw",
-      "channel": "FIFA",
-      "publishedAt": "2026-08-31",
-      "category": "Highlights",
-      "team": [
-        "Germany",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/uoWbFgpHogw/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
