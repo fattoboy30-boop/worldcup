@@ -1,13 +1,45 @@
 {
-  "lastUpdated": "2026-09-04T13:17:18.743Z",
+  "lastUpdated": "2026-09-04T17:27:43.061Z",
   "featured": {
-    "match": "On3n7mZv6vA",
-    "highlight": "On3n7mZv6vA",
+    "match": "3ILm-AMGKYE",
+    "highlight": "3ILm-AMGKYE",
     "interview": "w7GcawZ2F9c"
   },
   "videos": [
     {
-      "title": "10-Minute Match | Beckham fires England past Ecuador | 2006 World Cup",
+      "title": "Best Belgium header? Take your pick | 2026 FIFA World Cup",
+      "videoId": "3ILm-AMGKYE",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-04",
+      "category": "Highlights",
+      "team": [
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/3ILm-AMGKYE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "BLANKA, FIFA Sound - YEYEYO - the Official Song of the FIFA U-20 Women's World Cup Poland 2026™",
+      "videoId": "t_T0knqv3Ms",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-04",
+      "category": "Highlights",
+      "team": [
+        "Poland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/t_T0knqv3Ms/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "David Beckham's Stunning Free Kick Steers England Past Ecuador | 2006 FIFA World Cup",
       "videoId": "On3n7mZv6vA",
       "channel": "FIFA",
       "publishedAt": "2026-09-04",
@@ -362,39 +394,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/x3iUgxSr5_g/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Famous Algerian Upset Of Germany | 1982 World Cup EXTENDED HIGHLIGHTS",
-      "videoId": "Gd_bIfDOuwY",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-01",
-      "category": "Highlights",
-      "team": [
-        "Germany",
-        "Algeria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Gd_bIfDOuwY/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Host Germans Hold Off Argentina | 2006 Quarter-Final EXTENDED HIGHLIGHTS",
-      "videoId": "kyK8ylCNy6M",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-01",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/kyK8ylCNy6M/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
