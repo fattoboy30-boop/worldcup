@@ -1,11 +1,44 @@
 {
-  "lastUpdated": "2026-09-05T20:59:58.265Z",
+  "lastUpdated": "2026-09-05T22:49:30.912Z",
   "featured": {
-    "match": "vav9JzlUa8k",
-    "highlight": "vav9JzlUa8k",
+    "match": "7AbB9JBh3nU",
+    "highlight": "7AbB9JBh3nU",
     "interview": "rfIjGYitiBE"
   },
   "videos": [
+    {
+      "title": "Highlights: Canada vs. England #U20WWC #FIFAWWC",
+      "videoId": "7AbB9JBh3nU",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-05",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Canada"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7AbB9JBh3nU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: Mexico vs. Benin #U20WWC #FIFAWWC",
+      "videoId": "ZioB9xOA4dI",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-05",
+      "category": "Highlights",
+      "team": [
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ZioB9xOA4dI/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Highlights: Brazil vs. Tanzania #U20WWC #FIFAWWC",
       "videoId": "vav9JzlUa8k",
@@ -337,39 +370,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/3ILm-AMGKYE/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "BLANKA, FIFA Sound - YEYEYO - the Official Song of the FIFA U-20 Women's World Cup Poland 2026™",
-      "videoId": "t_T0knqv3Ms",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-04",
-      "category": "Highlights",
-      "team": [
-        "Poland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/t_T0knqv3Ms/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "David Beckham's Stunning Free Kick Steers England Past Ecuador | 2006 FIFA World Cup",
-      "videoId": "On3n7mZv6vA",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-04",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/On3n7mZv6vA/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
