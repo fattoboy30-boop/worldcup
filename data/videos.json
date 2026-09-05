@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-09-05T13:45:12.737Z",
+  "lastUpdated": "2026-09-05T16:38:39.454Z",
   "featured": {
-    "match": "Ifgs3H8oTz0",
-    "highlight": "Ifgs3H8oTz0",
+    "match": "nLsIREQADsA",
+    "highlight": "nLsIREQADsA",
     "interview": "rfIjGYitiBE"
   },
   "videos": [
+    {
+      "title": "The Perfect One-Two | Give, Go, GOAL for Brahimi",
+      "videoId": "nLsIREQADsA",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-05",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/nLsIREQADsA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Maradona, Batistuta & Messi | Argentina Icons Through The Ages",
       "videoId": "Ifgs3H8oTz0",
@@ -347,23 +361,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/41kX2n6wbJc/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Ice cold keeper! Germany's Lehmann stops Argentina in 2006 Quarter-Final shootout",
-      "videoId": "rlZVC-aeC-M",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-03",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/rlZVC-aeC-M/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
