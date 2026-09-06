@@ -1,11 +1,77 @@
 {
-  "lastUpdated": "2026-09-06T17:32:57.142Z",
+  "lastUpdated": "2026-09-06T20:10:53.852Z",
   "featured": {
-    "match": "qfAS55ubiw0",
-    "highlight": "qfAS55ubiw0",
+    "match": "GOX6Lvscfuk",
+    "highlight": "GOX6Lvscfuk",
     "interview": "dZ30m_HRq10"
   },
   "videos": [
+    {
+      "title": "EXTENDED HIGHLIGHTS | Côte d'Ivoire comeback v Japan | 2014 FIFA World Cup",
+      "videoId": "GOX6Lvscfuk",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-06",
+      "category": "Highlights",
+      "team": [
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/GOX6Lvscfuk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Ecuador vs Ghana Highlights | FIFA U-20 Women's World Cup 2026™",
+      "videoId": "w72C041mg7U",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-06",
+      "category": "Highlights",
+      "team": [
+        "Ecuador",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/w72C041mg7U/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights | USA 1-2 Italy | FIFA U-20 Women's World Cup 2026™",
+      "videoId": "RYHcHsgCTGk",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-06",
+      "category": "Highlights",
+      "team": [
+        "Italy",
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RYHcHsgCTGk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: Japan vs. New Zealand #U20WWC #FIFAWWC",
+      "videoId": "IrNVAc5CnvU",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-06",
+      "category": "Highlights",
+      "team": [
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/IrNVAc5CnvU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Highlights: France vs. Korea Republic #U20WWC #FIFAWWC",
       "videoId": "qfAS55ubiw0",
@@ -55,7 +121,7 @@
       "fixtureTeams": null
     },
     {
-      "title": "Highlights | France 1-1 Korea Republic | FIFA U-20 Women's World Cup 2026™",
+      "title": "France vs Korea Republic Highlights | FIFA U-20 Women's World Cup 2026™",
       "videoId": "URJ8QIQ4LwY",
       "channel": "FIFA",
       "publishedAt": "2026-09-06",
@@ -129,6 +195,76 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/7VujwrYmVbs/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Sunday Match Reaction ⚽ Arsenal vs. Chelsea + Everton vs. Man United | ESPN FC",
+      "videoId": "2tEfdg3he4c",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-06",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/2tEfdg3he4c/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Can anyone compete with Arsenal in the Premier League? 🤔  | ESPN FC Extra Time",
+      "videoId": "Z6DZ7r6UuEk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-06",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Z6DZ7r6UuEk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Frank LeBoeuf is 'DISAPPOINTED' in Man United for THIS 😳 | ESPN FC",
+      "videoId": "44EoagzWvco",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-06",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/44EoagzWvco/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Valencia was 'NOT EVEN A CHALLENGE' for Lamine Yamal and Barcelona 😧 - Craig Burley | ESPN FC",
+      "videoId": "o2P3BE-ksCY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-06",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/o2P3BE-ksCY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Arsenal looked 'super strong!' - Craig Burley's takeaway from 2-1 win over Chelsea | ESPN FC",
+      "videoId": "14VWJictYaw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-06",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/14VWJictYaw/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -274,76 +410,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "A CLINICAL FINISH FROM LAMINE YAMAL! 😮",
-      "videoId": "w1zUWDQi3wc",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-06",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/w1zUWDQi3wc/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Rodri gets his first start for Barcelona 🙌",
-      "videoId": "jAd9jkhi830",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-06",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/jAd9jkhi830/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Messi nearly won it in stoppage time 😮",
-      "videoId": "0tcGBsNQp4A",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-06",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/0tcGBsNQp4A/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Clinical from Lewandowski 🔥",
-      "videoId": "-1PlwOrok4g",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-06",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/-1PlwOrok4g/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Griezmann can’t stop scoring for Orlando City 💥",
-      "videoId": "i__D40iAs_s",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-06",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/i__D40iAs_s/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "Highlights: Canada vs. England #U20WWC #FIFAWWC",
       "videoId": "7AbB9JBh3nU",
       "channel": "FIFA",
@@ -388,73 +454,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/vav9JzlUa8k/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Highlights: Poland vs. Argentina #U20WWC #FIFAWWC",
-      "videoId": "7OClt3yXLyA",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-05",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Poland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7OClt3yXLyA/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Highlights | Mexico 2-2 Benin | FIFA U-20 Women's World Cup 2026™",
-      "videoId": "8RvgPc8kn2A",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-05",
-      "category": "Highlights",
-      "team": [
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/8RvgPc8kn2A/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "James Rodriguez wonder goal | Colombia 2-0 Uruguay | 2014 EXTENDED HIGHLIGHTS",
-      "videoId": "2S8LU5z8hdI",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-05",
-      "category": "Highlights",
-      "team": [
-        "Uruguay",
-        "Colombia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/2S8LU5z8hdI/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Canada vs England Highlights | FIFA U-20 Women's World Cup 2026™",
-      "videoId": "pjaS7IGPTO0",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-05",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Canada"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/pjaS7IGPTO0/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
