@@ -1,11 +1,45 @@
 {
-  "lastUpdated": "2026-09-06T20:10:53.852Z",
+  "lastUpdated": "2026-09-06T22:47:21.260Z",
   "featured": {
-    "match": "GOX6Lvscfuk",
-    "highlight": "GOX6Lvscfuk",
+    "match": "wjtk_0AlV84",
+    "highlight": "wjtk_0AlV84",
     "interview": "dZ30m_HRq10"
   },
   "videos": [
+    {
+      "title": "Highlights: USA vs. Italy #U20WWC #FIFAWWC",
+      "videoId": "wjtk_0AlV84",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-06",
+      "category": "Highlights",
+      "team": [
+        "Italy",
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/wjtk_0AlV84/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: Ecuador vs. Ghana #U20WWC #FIFAWWC",
+      "videoId": "0Xq7r5b6M-c",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-06",
+      "category": "Highlights",
+      "team": [
+        "Ecuador",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0Xq7r5b6M-c/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "EXTENDED HIGHLIGHTS | Côte d'Ivoire comeback v Japan | 2014 FIFA World Cup",
       "videoId": "GOX6Lvscfuk",
@@ -200,6 +234,34 @@
       "fixtureTeams": null
     },
     {
+      "title": "It’s hot out there ☀️",
+      "videoId": "ZtLAqYKRi8k",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-06",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ZtLAqYKRi8k/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Espanyol vs. Sevilla | LALIGA Highlights | ESPN FC",
+      "videoId": "Rvz6erOp-k0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-06",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Rvz6erOp-k0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
       "title": "Sunday Match Reaction ⚽ Arsenal vs. Chelsea + Everton vs. Man United | ESPN FC",
       "videoId": "2tEfdg3he4c",
       "channel": "ESPN FC",
@@ -382,34 +444,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "This PK 😆 (via MLS on Apple TV)",
-      "videoId": "uC-hQpiB4To",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-06",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/uC-hQpiB4To/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "BARCA’S YOUNGSTERS ARE CRUISING YET AGAIN ‼️",
-      "videoId": "xdq4fl-7hKs",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-06",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xdq4fl-7hKs/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "Highlights: Canada vs. England #U20WWC #FIFAWWC",
       "videoId": "7AbB9JBh3nU",
       "channel": "FIFA",
@@ -422,38 +456,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/7AbB9JBh3nU/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Highlights: Mexico vs. Benin #U20WWC #FIFAWWC",
-      "videoId": "ZioB9xOA4dI",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-05",
-      "category": "Highlights",
-      "team": [
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ZioB9xOA4dI/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Highlights: Brazil vs. Tanzania #U20WWC #FIFAWWC",
-      "videoId": "vav9JzlUa8k",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-05",
-      "category": "Highlights",
-      "team": [
-        "Brazil"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vav9JzlUa8k/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
