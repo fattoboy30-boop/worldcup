@@ -1,13 +1,109 @@
 {
-  "lastUpdated": "2026-09-07T17:42:19.877Z",
+  "lastUpdated": "2026-09-07T21:19:01.399Z",
   "featured": {
-    "match": "FCZ1IoXhVfM",
-    "highlight": "FCZ1IoXhVfM",
-    "interview": "dZ30m_HRq10"
+    "match": "IY5_C5CMbfo",
+    "highlight": "IY5_C5CMbfo",
+    "interview": "2tEfdg3he4c"
   },
   "videos": [
     {
-      "title": "Highlights | DPR Korea 2-0 Portugal | FIFA U-20 Women's World Cup 2026™",
+      "title": "Highlights: Costa Rica vs. Colombia #U20WWC #FIFAWWC",
+      "videoId": "IY5_C5CMbfo",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-07",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/IY5_C5CMbfo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: Spain vs. Nigeria #U20WWC #FIFAWWC",
+      "videoId": "NVHSSZTMnpE",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-07",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Nigeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/NVHSSZTMnpE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Costa Rica vs Colombia Highlights | FIFA U-20 Women's World Cup 2026™",
+      "videoId": "agoPnEqRUBU",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-07",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/agoPnEqRUBU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: New Caledonia vs. China PR #U20WWC #FIFAWWC",
+      "videoId": "NTaoA6anGpE",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-07",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/NTaoA6anGpE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Spain vs Nigeria Highlights | FIFA U-20 Women's World Cup 2026™",
+      "videoId": "EOQhA7wffSM",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-07",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Nigeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/EOQhA7wffSM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: DPR Korea vs. Portugal #U20WWC #FIFAWWC",
+      "videoId": "eeWLiNcyXkY",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-07",
+      "category": "Highlights",
+      "team": [
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/eeWLiNcyXkY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "DPR Korea vs Portugal Highlights | FIFA U-20 Women's World Cup 2026™",
       "videoId": "FCZ1IoXhVfM",
       "channel": "FIFA",
       "publishedAt": "2026-09-07",
@@ -23,7 +119,7 @@
       "fixtureTeams": null
     },
     {
-      "title": "Highlights | New Caledonia 0-5 China PR | FIFA U-20 Women's World Cup 2026™",
+      "title": "New Caledonia vs China PR Highlights | FIFA U-20 Women's World Cup 2026™",
       "videoId": "oSx-9vMStg4",
       "channel": "FIFA",
       "publishedAt": "2026-09-07",
@@ -132,7 +228,7 @@
       "fixtureTeams": null
     },
     {
-      "title": "Highlights | USA 1-2 Italy | FIFA U-20 Women's World Cup 2026™",
+      "title": "USA vs Italy Highlights | FIFA U-20 Women's World Cup 2026™",
       "videoId": "RYHcHsgCTGk",
       "channel": "FIFA",
       "publishedAt": "2026-09-06",
@@ -160,102 +256,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/IrNVAc5CnvU/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Highlights: France vs. Korea Republic #U20WWC #FIFAWWC",
-      "videoId": "qfAS55ubiw0",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-06",
-      "category": "Highlights",
-      "team": [
-        "France"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/qfAS55ubiw0/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Maradona, Batistuta or Messi? Which Is The Most Iconic Argentina Moment?",
-      "videoId": "ARR5xtExZMc",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-06",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ARR5xtExZMc/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Highlights | Japan 2-1 New Zealand | FIFA U-20 Women's World Cup 2026™",
-      "videoId": "SWkWEW1PORg",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-06",
-      "category": "Highlights",
-      "team": [
-        "Japan"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/SWkWEW1PORg/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "France vs Korea Republic Highlights | FIFA U-20 Women's World Cup 2026™",
-      "videoId": "URJ8QIQ4LwY",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-06",
-      "category": "Highlights",
-      "team": [
-        "France"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/URJ8QIQ4LwY/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Higuain hat-trick! Argentina 4-1 Korea Republic | 2010 World Cup",
-      "videoId": "dZ30m_HRq10",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-06",
-      "category": "Viral",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/dZ30m_HRq10/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "10-Minute Match | Nigeria 2-0 Iceland | 2018 World Cup",
-      "videoId": "xqG64zjkw7M",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-06",
-      "category": "Highlights",
-      "team": [
-        "Nigeria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xqG64zjkw7M/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
