@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-09-07T00:46:57.479Z",
+  "lastUpdated": "2026-09-07T05:50:25.659Z",
   "featured": {
-    "match": "wjtk_0AlV84",
-    "highlight": "wjtk_0AlV84",
+    "match": "l5ZQ-rYHuCs",
+    "highlight": "l5ZQ-rYHuCs",
     "interview": "dZ30m_HRq10"
   },
   "videos": [
+    {
+      "title": "Seattle Reign vs. San Diego Wave | NWSL Highlights | ESPN FC",
+      "videoId": "l5ZQ-rYHuCs",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-07",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/l5ZQ-rYHuCs/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Highlights: USA vs. Italy #U20WWC #FIFAWWC",
       "videoId": "wjtk_0AlV84",
@@ -425,20 +439,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/H5_62MQ91Ss/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Gabriel Jesus warming up on the sidelines for Barcelona 🔥",
-      "videoId": "xPioa2oTKPU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-06",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xPioa2oTKPU/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
