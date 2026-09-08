@@ -1,11 +1,61 @@
 {
-  "lastUpdated": "2026-09-08T18:32:42.828Z",
+  "lastUpdated": "2026-09-08T21:41:41.259Z",
   "featured": {
-    "match": "BDENqaK1I6o",
-    "highlight": "BDENqaK1I6o",
+    "match": "r-wnqTGys1Q",
+    "highlight": "r-wnqTGys1Q",
     "interview": "0RQyrVrwv_Q"
   },
   "videos": [
+    {
+      "title": "10-Minute Highlights | Senegal Start Strong Against Poland | 2018 World Cup",
+      "videoId": "r-wnqTGys1Q",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-08",
+      "category": "Highlights",
+      "team": [
+        "Senegal",
+        "Poland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/r-wnqTGys1Q/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: Poland vs. Mexico #U20WWC #FIFAWWC",
+      "videoId": "RmTiA1uLv8o",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-08",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Poland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RmTiA1uLv8o/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: England vs. Tanzania #U20WWC #FIFAWWC",
+      "videoId": "e5evK4ZRH0w",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-08",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/e5evK4ZRH0w/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Highlights: Benin vs. Argentina #U20WWC #FIFAWWC",
       "videoId": "BDENqaK1I6o",
@@ -23,7 +73,7 @@
       "fixtureTeams": null
     },
     {
-      "title": "Highlights | England 5-1 Tanzania | FIFA U-20 Women's World Cup 2026™",
+      "title": "England vs Tanzania Highlights | FIFA U-20 Women's World Cup 2026™",
       "videoId": "PMo7SwPL6hY",
       "channel": "FIFA",
       "publishedAt": "2026-09-08",
@@ -39,7 +89,7 @@
       "fixtureTeams": null
     },
     {
-      "title": "Highlights | Poland 2-1 Mexico | FIFA U-20 Women's World Cup 2026™",
+      "title": "Poland vs Mexico Highlights | FIFA U-20 Women's World Cup 2026™",
       "videoId": "uHNwf-PTnFc",
       "channel": "FIFA",
       "publishedAt": "2026-09-08",
@@ -267,55 +317,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/NTaoA6anGpE/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Spain vs Nigeria Highlights | FIFA U-20 Women's World Cup 2026™",
-      "videoId": "EOQhA7wffSM",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-07",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Nigeria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/EOQhA7wffSM/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Highlights: DPR Korea vs. Portugal #U20WWC #FIFAWWC",
-      "videoId": "eeWLiNcyXkY",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-07",
-      "category": "Highlights",
-      "team": [
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/eeWLiNcyXkY/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "DPR Korea vs Portugal Highlights | FIFA U-20 Women's World Cup 2026™",
-      "videoId": "FCZ1IoXhVfM",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-07",
-      "category": "Highlights",
-      "team": [
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FCZ1IoXhVfM/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
