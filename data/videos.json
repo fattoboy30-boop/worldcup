@@ -1,13 +1,97 @@
 {
-  "lastUpdated": "2026-09-09T18:23:01.017Z",
+  "lastUpdated": "2026-09-09T21:32:41.318Z",
   "featured": {
-    "match": "ZxFYWwE_LxM",
-    "highlight": "ZxFYWwE_LxM",
+    "match": "ewVotfVf4vI",
+    "highlight": "ewVotfVf4vI",
     "interview": "K4uDTN2ZMSU"
   },
   "videos": [
     {
-      "title": "Highlights | Japan 2-2 USA | FIFA U-20 Women's World Cup 2026™",
+      "title": "Denmark 1-3 Japan | 2010 World Cup EXTENDED HIGHLIGHTS",
+      "videoId": "ewVotfVf4vI",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-09",
+      "category": "Highlights",
+      "team": [
+        "Japan",
+        "Denmark"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ewVotfVf4vI/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: Japan vs. USA #U20WWC #FIFAWWC",
+      "videoId": "ldclXi8e0c0",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-09",
+      "category": "Highlights",
+      "team": [
+        "Japan",
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ldclXi8e0c0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: France vs. Ecuador #U20WWC #FIFAWWC",
+      "videoId": "vxdIUIxB1TY",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-09",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vxdIUIxB1TY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: Ghana vs. Korea Republic #U20WWC #FIFAWWC",
+      "videoId": "xC7dHnAcOAI",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-09",
+      "category": "Highlights",
+      "team": [
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xC7dHnAcOAI/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "France vs Ecuador Highlights | FIFA U-20 Women's World Cup 2026™",
+      "videoId": "ud1lGSD3Lls",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-09",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ud1lGSD3Lls/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Japan vs USA Republic Highlights | FIFA U-20 Women's World Cup 2026™",
       "videoId": "ZxFYWwE_LxM",
       "channel": "FIFA",
       "publishedAt": "2026-09-09",
@@ -193,88 +277,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/e5evK4ZRH0w/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Highlights: Benin vs. Argentina #U20WWC #FIFAWWC",
-      "videoId": "BDENqaK1I6o",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-08",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/BDENqaK1I6o/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "England vs Tanzania Highlights | FIFA U-20 Women's World Cup 2026™",
-      "videoId": "PMo7SwPL6hY",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-08",
-      "category": "Highlights",
-      "team": [
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PMo7SwPL6hY/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Poland vs Mexico Highlights | FIFA U-20 Women's World Cup 2026™",
-      "videoId": "uHNwf-PTnFc",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-08",
-      "category": "Highlights",
-      "team": [
-        "Mexico",
-        "Poland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/uHNwf-PTnFc/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Highlights: Brazil vs. Canada #U20WWC #FIFAWWC",
-      "videoId": "ogOr3HWg3-M",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-08",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Canada"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ogOr3HWg3-M/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Benin vs Argentina Highlights | FIFA U-20 Women's World Cup 2026™",
-      "videoId": "hpA2ENRHOl0",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-08",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/hpA2ENRHOl0/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
