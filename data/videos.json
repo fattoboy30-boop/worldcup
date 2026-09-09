@@ -1,9 +1,465 @@
 {
-  "lastUpdated": "2026-09-09T04:15:01.203Z",
+  "lastUpdated": "2026-09-09T09:27:20.712Z",
   "featured": {
-    "match": "",
-    "highlight": "",
-    "interview": ""
+    "match": "K4uDTN2ZMSU",
+    "highlight": "DMhHgCH5cd4",
+    "interview": "K4uDTN2ZMSU"
   },
-  "videos": []
+  "videos": [
+    {
+      "title": "Champions League Reaction 🍿 Real Madrid and Man City victorious | ESPN FC",
+      "videoId": "K4uDTN2ZMSU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-09",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/K4uDTN2ZMSU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Liverpool vs. Atletico Madrid Preview ⚽ Can they regain their intensity? | ESPN FC",
+      "videoId": "DMhHgCH5cd4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-09",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/DMhHgCH5cd4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "10-Minute Highlights | Senegal Start Strong Against Poland | 2018 World Cup",
+      "videoId": "r-wnqTGys1Q",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-08",
+      "category": "Highlights",
+      "team": [
+        "Senegal",
+        "Poland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/r-wnqTGys1Q/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: Poland vs. Mexico #U20WWC #FIFAWWC",
+      "videoId": "RmTiA1uLv8o",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-08",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Poland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RmTiA1uLv8o/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: England vs. Tanzania #U20WWC #FIFAWWC",
+      "videoId": "e5evK4ZRH0w",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-08",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/e5evK4ZRH0w/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: Benin vs. Argentina #U20WWC #FIFAWWC",
+      "videoId": "BDENqaK1I6o",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-08",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/BDENqaK1I6o/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "England vs Tanzania Highlights | FIFA U-20 Women's World Cup 2026™",
+      "videoId": "PMo7SwPL6hY",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-08",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/PMo7SwPL6hY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Poland vs Mexico Highlights | FIFA U-20 Women's World Cup 2026™",
+      "videoId": "uHNwf-PTnFc",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-08",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Poland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/uHNwf-PTnFc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: Brazil vs. Canada #U20WWC #FIFAWWC",
+      "videoId": "ogOr3HWg3-M",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-08",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Canada"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ogOr3HWg3-M/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Benin vs Argentina Highlights | FIFA U-20 Women's World Cup 2026™",
+      "videoId": "hpA2ENRHOl0",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-08",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/hpA2ENRHOl0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights | Brazil 3-0 Canada | FIFA U-20 Women's World Cup 2026™",
+      "videoId": "47lBRWLiM_w",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-08",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Canada"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/47lBRWLiM_w/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "EXTENDED HIGHLIGHTS | Nigeria 2-2 Korea Republic | 2010 World Cup",
+      "videoId": "89QmPfqsIoA",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-08",
+      "category": "Highlights",
+      "team": [
+        "Nigeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/89QmPfqsIoA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Thoughts on Jose Mourinho's tactics during Real Madrid's 2-1 UCL win over Inter | ESPN FC Extra Time",
+      "videoId": "SsngAxNNVj8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-08",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/SsngAxNNVj8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "2026 Ballon d'Or shortlist revealed 🚨 + REACTION to Lamine Yamal's comments on the award 👀 | ESPN FC",
+      "videoId": "9n4RNs80VHQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-08",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/9n4RNs80VHQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "EVALUATING Man City's 'scappy' second-half win vs. Porto + Erling Haaland's UCL goals | ESPN FC",
+      "videoId": "2qOtQdv9L5k",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-08",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/2qOtQdv9L5k/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "'It felt Inter were the better side' - Craig Burley after Real Madrid's UCL victory | ESPN FC",
+      "videoId": "Rtbbz751xJc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-08",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Rtbbz751xJc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Could Carlos Espi COST Vinicius Jr. minutes?! Futbol Americas DEBATES",
+      "videoId": "r3iyGncWGCQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-08",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/r3iyGncWGCQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Raphinha’s work rate is ‘CONTAGIOUS!’ - Herculez Gomez | Futbol Americas",
+      "videoId": "LxQyZX9fFd8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-08",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/LxQyZX9fFd8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Erling Haaland loves Antoine Semenyo 😂❤️",
+      "videoId": "x4xmiShpYZs",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-08",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/x4xmiShpYZs/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Viní Jr. and the ref at fulltime of Real Madrid’s loss to Betis 👀",
+      "videoId": "czuYmv1ccdE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-08",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/czuYmv1ccdE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "So many stars 🤩 (via @erling)",
+      "videoId": "vCIM4TMEXCo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-08",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vCIM4TMEXCo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "10-Minute Highlights | Chile 3-1 Australia | 2014 FIFA World Cup",
+      "videoId": "JI4iloX34yE",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-07",
+      "category": "Highlights",
+      "team": [
+        "Australia",
+        "Chile"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JI4iloX34yE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: Costa Rica vs. Colombia #U20WWC #FIFAWWC",
+      "videoId": "IY5_C5CMbfo",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-07",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/IY5_C5CMbfo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: Spain vs. Nigeria #U20WWC #FIFAWWC",
+      "videoId": "NVHSSZTMnpE",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-07",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Nigeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/NVHSSZTMnpE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Costa Rica vs Colombia Highlights | FIFA U-20 Women's World Cup 2026™",
+      "videoId": "agoPnEqRUBU",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-07",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/agoPnEqRUBU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: New Caledonia vs. China PR #U20WWC #FIFAWWC",
+      "videoId": "NTaoA6anGpE",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-07",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/NTaoA6anGpE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Champions League PREDICTIONS 🍿 + Premier League and Serie A storylines | ESPN FC",
+      "videoId": "Wd7cA2cKW9M",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-07",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Wd7cA2cKW9M/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Which €100m signing will be the BEST? 👀 Barcola, Rogers, Anderson or Fernandez? | ESPN FC Extra Time",
+      "videoId": "9r7UyuUzewU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-07",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/9r7UyuUzewU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Serie A Weekend Reaction: Can Roma challenge Inter for the title? | ESPN FC",
+      "videoId": "0RQyrVrwv_Q",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-07",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0RQyrVrwv_Q/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Champions League Favorites 👀 The panel makes their predictions for who will win | ESPN FC",
+      "videoId": "EXBahVblu-A",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-07",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/EXBahVblu-A/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    }
+  ]
 }
