@@ -1,11 +1,77 @@
 {
-  "lastUpdated": "2026-09-10T17:33:47.421Z",
+  "lastUpdated": "2026-09-10T20:36:32.627Z",
   "featured": {
-    "match": "b-FsoOGCsmI",
-    "highlight": "b-FsoOGCsmI",
+    "match": "Y9e8oBPVDJA",
+    "highlight": "Y9e8oBPVDJA",
     "interview": "krONaw4qvsE"
   },
   "videos": [
+    {
+      "title": "Highlights: China PR vs. Nigeria #U20WWC #FIFAWWC",
+      "videoId": "Y9e8oBPVDJA",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-10",
+      "category": "Highlights",
+      "team": [
+        "Nigeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Y9e8oBPVDJA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: Colombia vs. Portugal #U20WWC #FIFAWWC",
+      "videoId": "LYXjJ0-kvk0",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-10",
+      "category": "Highlights",
+      "team": [
+        "Portugal",
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/LYXjJ0-kvk0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "China PR vs Nigeria | FIFA U-20 Women's World Cup 2026™",
+      "videoId": "BRqZgNrE4js",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-10",
+      "category": "Highlights",
+      "team": [
+        "Nigeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/BRqZgNrE4js/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Colombia vs Portugal Highlights | FIFA U-20 Women's World Cup 2026™",
+      "videoId": "3ZJAhtYq0x4",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-10",
+      "category": "Highlights",
+      "team": [
+        "Portugal",
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/3ZJAhtYq0x4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Highlights: DPR Korea vs. Costa Rica #U20WWC #FIFAWWC",
       "videoId": "b-FsoOGCsmI",
@@ -37,7 +103,7 @@
       "fixtureTeams": null
     },
     {
-      "title": "Highlights | DPR Korea 4-0 Costa Rica | FIFA U-20 Women's World Cup 2026™",
+      "title": "DPR Korea vs Costa Rica Highlights | FIFA U-20 Women's World Cup 2026™",
       "videoId": "M10xy9lmhh0",
       "channel": "FIFA",
       "publishedAt": "2026-09-10",
@@ -90,6 +156,20 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/9D7METO8Cm4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Robert Lewandowski's performance against Inter Miami (via @mls/TT)",
+      "videoId": "YwMc8nHvq2c",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-10",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/YwMc8nHvq2c/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -263,71 +343,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Japan vs USA Republic Highlights | FIFA U-20 Women's World Cup 2026™",
-      "videoId": "ZxFYWwE_LxM",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-09",
-      "category": "Highlights",
-      "team": [
-        "Japan",
-        "USA"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ZxFYWwE_LxM/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Highlights: Italy vs. New Zealand #U20WWC #FIFAWWC",
-      "videoId": "tAz9Hk6T3AY",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-09",
-      "category": "Highlights",
-      "team": [
-        "Italy"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/tAz9Hk6T3AY/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Ghana vs Korea Republic Highlights | FIFA U-20 Women's World Cup 2026™",
-      "videoId": "31FaRWBI-CE",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-09",
-      "category": "Highlights",
-      "team": [
-        "Ghana"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/31FaRWBI-CE/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Italy vs New Zealand Highlights | FIFA U-20 Women's World Cup 2026™",
-      "videoId": "AQtadJIxvJg",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-09",
-      "category": "Highlights",
-      "team": [
-        "Italy"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/AQtadJIxvJg/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "REACTION to Barcelona vs. Feyenoord 🤩 RED-HOT BARCA LOOK 'UNSTOPPABLE!'- Stewart Robson | ESPN FC",
       "videoId": "krONaw4qvsE",
       "channel": "ESPN FC",
@@ -435,20 +450,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/2qOtQdv9L5k/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "'It felt Inter were the better side' - Craig Burley after Real Madrid's UCL victory | ESPN FC",
-      "videoId": "Rtbbz751xJc",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-08",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Rtbbz751xJc/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
