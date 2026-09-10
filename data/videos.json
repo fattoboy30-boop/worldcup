@@ -1,9 +1,462 @@
 {
-  "lastUpdated": "2026-09-10T03:50:10.713Z",
+  "lastUpdated": "2026-09-10T08:47:53.104Z",
   "featured": {
-    "match": "",
-    "highlight": "",
-    "interview": ""
+    "match": "fnx6AAvrLHc",
+    "highlight": "fnx6AAvrLHc",
+    "interview": "krONaw4qvsE"
   },
-  "videos": []
+  "videos": [
+    {
+      "title": "The FIFA ASEAN Cup™ 2026 is set",
+      "videoId": "fnx6AAvrLHc",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-10",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fnx6AAvrLHc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "1998 World Cup FREE KICKS | Is Beckham's The Best?",
+      "videoId": "9D7METO8Cm4",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-10",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/9D7METO8Cm4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "LEWANDOWSKI VS. MESSI 🍿 Chicago Fire vs. Inter Miami | MLS Highlights | ESPN FC",
+      "videoId": "yCqIxGhkWtM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-10",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/yCqIxGhkWtM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "What a goal from Robert Lewandowski 😮‍💨 (via MLS on Apple TV)",
+      "videoId": "LUmYCk5ArNc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-10",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/LUmYCk5ArNc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "ANTOINE GRIEZMANN BRACE 🤩 Atlanta United vs. Orlando City | MLS Highlights | ESPN FC",
+      "videoId": "Zv-G8lvQqIo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-10",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Zv-G8lvQqIo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Two greats 🤩 (via MLS on Apple TV)",
+      "videoId": "pmFsLHhuddw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-10",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/pmFsLHhuddw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Thoughts on Raphinha not being on the Ballon d’Or short list? | ESPN FC Extra Time",
+      "videoId": "RN5bFxT-aic",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-10",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RN5bFxT-aic/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "TAKEAWAYS from the Champions League ⚽️ Barcelona dominate & improvement from Liverpool | ESPN FC",
+      "videoId": "XzwUUTWBlvg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-10",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/XzwUUTWBlvg/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Denmark 1-3 Japan | 2010 World Cup EXTENDED HIGHLIGHTS",
+      "videoId": "ewVotfVf4vI",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-09",
+      "category": "Highlights",
+      "team": [
+        "Japan",
+        "Denmark"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ewVotfVf4vI/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: Japan vs. USA #U20WWC #FIFAWWC",
+      "videoId": "ldclXi8e0c0",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-09",
+      "category": "Highlights",
+      "team": [
+        "Japan",
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ldclXi8e0c0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: France vs. Ecuador #U20WWC #FIFAWWC",
+      "videoId": "vxdIUIxB1TY",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-09",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vxdIUIxB1TY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: Ghana vs. Korea Republic #U20WWC #FIFAWWC",
+      "videoId": "xC7dHnAcOAI",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-09",
+      "category": "Highlights",
+      "team": [
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xC7dHnAcOAI/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "France vs Ecuador Highlights | FIFA U-20 Women's World Cup 2026™",
+      "videoId": "ud1lGSD3Lls",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-09",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ud1lGSD3Lls/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Japan vs USA Republic Highlights | FIFA U-20 Women's World Cup 2026™",
+      "videoId": "ZxFYWwE_LxM",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-09",
+      "category": "Highlights",
+      "team": [
+        "Japan",
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ZxFYWwE_LxM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: Italy vs. New Zealand #U20WWC #FIFAWWC",
+      "videoId": "tAz9Hk6T3AY",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-09",
+      "category": "Highlights",
+      "team": [
+        "Italy"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tAz9Hk6T3AY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Ghana vs Korea Republic Highlights | FIFA U-20 Women's World Cup 2026™",
+      "videoId": "31FaRWBI-CE",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-09",
+      "category": "Highlights",
+      "team": [
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/31FaRWBI-CE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Italy vs New Zealand Highlights | FIFA U-20 Women's World Cup 2026™",
+      "videoId": "AQtadJIxvJg",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-09",
+      "category": "Highlights",
+      "team": [
+        "Italy"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/AQtadJIxvJg/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Ronaldo, Kroos or Trippier? 2018 World Cup ALL FREE KICK GOALS",
+      "videoId": "rd3wCUVJ4Dk",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-09",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/rd3wCUVJ4Dk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "1-Minute Quarter Final | Germany v Argentina | 2006 FIFA World Cup",
+      "videoId": "YhMV5Jhl8ts",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-09",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Germany"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/YhMV5Jhl8ts/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "1-Minute Highlights | Cameroon 0-4 Croatia | 2014 World Cup",
+      "videoId": "Im4RTEa36zw",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-09",
+      "category": "Highlights",
+      "team": [
+        "Croatia",
+        "Cameroon"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Im4RTEa36zw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "REACTION to Barcelona vs. Feyenoord 🤩 RED-HOT BARCA LOOK 'UNSTOPPABLE!'- Stewart Robson | ESPN FC",
+      "videoId": "krONaw4qvsE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-09",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/krONaw4qvsE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Arsenal’s win vs. Napoli ‘looked like a training game’ – Craig Burley | ESPN FC",
+      "videoId": "8J41qAXLcX0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-09",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/8J41qAXLcX0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Steve Nicol says Liverpool played better 'than what we've seen' in the EPL in UCL win | ESPN FC",
+      "videoId": "8Ga_ed_e0UU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-09",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/8Ga_ed_e0UU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Champions League Reaction 🍿 Real Madrid and Man City victorious | ESPN FC",
+      "videoId": "K4uDTN2ZMSU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-09",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/K4uDTN2ZMSU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Liverpool vs. Atletico Madrid Preview ⚽ Can they regain their intensity? | ESPN FC",
+      "videoId": "DMhHgCH5cd4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-09",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/DMhHgCH5cd4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "10-Minute Highlights | Senegal Start Strong Against Poland | 2018 World Cup",
+      "videoId": "r-wnqTGys1Q",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-08",
+      "category": "Highlights",
+      "team": [
+        "Senegal",
+        "Poland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/r-wnqTGys1Q/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Thoughts on Jose Mourinho's tactics during Real Madrid's 2-1 UCL win over Inter | ESPN FC Extra Time",
+      "videoId": "SsngAxNNVj8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-08",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/SsngAxNNVj8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "2026 Ballon d'Or shortlist revealed 🚨 + REACTION to Lamine Yamal's comments on the award 👀 | ESPN FC",
+      "videoId": "9n4RNs80VHQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-08",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/9n4RNs80VHQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "EVALUATING Man City's 'scappy' second-half win vs. Porto + Erling Haaland's UCL goals | ESPN FC",
+      "videoId": "2qOtQdv9L5k",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-08",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/2qOtQdv9L5k/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "'It felt Inter were the better side' - Craig Burley after Real Madrid's UCL victory | ESPN FC",
+      "videoId": "Rtbbz751xJc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-08",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Rtbbz751xJc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    }
+  ]
 }
