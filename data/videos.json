@@ -1,11 +1,42 @@
 {
-  "lastUpdated": "2026-09-11T23:58:26.137Z",
+  "lastUpdated": "2026-09-12T09:05:52.520Z",
   "featured": {
-    "match": "EH4MsjoYjEM",
-    "highlight": "EH4MsjoYjEM",
+    "match": "t6174uz3zb4",
+    "highlight": "t6174uz3zb4",
     "interview": "oDJTSFwrrRo"
   },
   "videos": [
+    {
+      "title": "1-Minute Match | Saudi Arabia 2-1 Egypt | 2018 FIFA World Cup",
+      "videoId": "t6174uz3zb4",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-12",
+      "category": "Highlights",
+      "team": [
+        "Saudi Arabia",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/t6174uz3zb4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Jose Mourinho’s comments on Kylian Mbappe’s effort + Barcelona’s unstoppable attack | ESPN FC",
+      "videoId": "vWdcCPb7QVU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vWdcCPb7QVU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Honda or Endo? Two iconic Japan free kicks in one match!",
       "videoId": "EH4MsjoYjEM",
@@ -388,23 +419,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Highlights: Colombia vs. Portugal #U20WWC #FIFAWWC",
-      "videoId": "LYXjJ0-kvk0",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-10",
-      "category": "Highlights",
-      "team": [
-        "Portugal",
-        "Colombia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/LYXjJ0-kvk0/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "Biggest takeaways from Champions League matchday 1 🍿 + Who will win the Ballon d'Or? | ESPN FC",
       "videoId": "ddupoBDlwT0",
       "channel": "ESPN FC",
@@ -442,22 +456,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/Jd4SvKcHdIg/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Is Cesc Fabregas changing the football culture in Italy? 👀 Como vs. RB Leipzig reaction | ESPN FC",
-      "videoId": "_NxcATMXphs",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-10",
-      "category": "Viral",
-      "team": [
-        "Italy"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_NxcATMXphs/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
