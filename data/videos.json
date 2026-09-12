@@ -1,13 +1,79 @@
 {
-  "lastUpdated": "2026-09-12T16:50:44.679Z",
+  "lastUpdated": "2026-09-12T19:02:19.176Z",
   "featured": {
-    "match": "GuLG9NeI_is",
-    "highlight": "GuLG9NeI_is",
+    "match": "48MXC_a4w3w",
+    "highlight": "48MXC_a4w3w",
     "interview": "oDJTSFwrrRo"
   },
   "videos": [
     {
-      "title": "Highlights | Italy 1-1 Japan | FIFA U-20 Women's World Cup 2026™",
+      "title": "Highlights | Korea Republic 3-2 Ecuador | FIFA U-20 Women's World Cup 2026™",
+      "videoId": "48MXC_a4w3w",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-12",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/48MXC_a4w3w/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights | Ghana 0-4 France | FIFA U-20 Women's World Cup 2026™",
+      "videoId": "iF54fzJWS4s",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-12",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/iF54fzJWS4s/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: New Zealand vs. USA #U20WWC #FIFAWWC",
+      "videoId": "59Lb0nJ3bwc",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-12",
+      "category": "Highlights",
+      "team": [
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/59Lb0nJ3bwc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: Italy vs. Japan #U20WWC #FIFAWWC",
+      "videoId": "-POpje1Nvu0",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-12",
+      "category": "Highlights",
+      "team": [
+        "Italy",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-POpje1Nvu0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Italy vs Japan | FIFA U-20 Women's World Cup 2026™",
       "videoId": "GuLG9NeI_is",
       "channel": "FIFA",
       "publishedAt": "2026-09-12",
@@ -198,69 +264,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/2McnHaOOxoU/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Tanzania vs Canada | FIFA U-20 Women's World Cup 2026™",
-      "videoId": "37k_UCPFSxg",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-11",
-      "category": "Highlights",
-      "team": [
-        "Canada"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/37k_UCPFSxg/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "England vs Brazil | FIFA U-20 Women's World Cup 2026™",
-      "videoId": "Z3Svf45q_4c",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-11",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Z3Svf45q_4c/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Roberto Carlos v Ronaldinho | 2002 WORLD CUP ALL FREE KICK GOALS",
-      "videoId": "niZ2RPN50v4",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-11",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/niZ2RPN50v4/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "FIVE-GOAL FEST | Côte d'Ivoire 3-2 Serbia and Montenegro | 2006 EXTENDED HIGHLIGHTS",
-      "videoId": "bk4Hm4CK284",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-11",
-      "category": "Highlights",
-      "team": [
-        "Serbia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/bk4Hm4CK284/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
