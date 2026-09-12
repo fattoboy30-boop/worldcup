@@ -1,11 +1,44 @@
 {
-  "lastUpdated": "2026-09-12T19:02:19.176Z",
+  "lastUpdated": "2026-09-12T22:01:09.613Z",
   "featured": {
-    "match": "48MXC_a4w3w",
-    "highlight": "48MXC_a4w3w",
+    "match": "_pza0yCoIyE",
+    "highlight": "_pza0yCoIyE",
     "interview": "oDJTSFwrrRo"
   },
   "videos": [
+    {
+      "title": "Highlights: Ghana vs. France #U20WWC #FIFAWWC",
+      "videoId": "_pza0yCoIyE",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-12",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_pza0yCoIyE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: Korea Republic vs. Ecuador #U20WWC #FIFAWWC",
+      "videoId": "amn7keoK_r8",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-12",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/amn7keoK_r8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Highlights | Korea Republic 3-2 Ecuador | FIFA U-20 Women's World Cup 2026™",
       "videoId": "48MXC_a4w3w",
@@ -23,7 +56,7 @@
       "fixtureTeams": null
     },
     {
-      "title": "Highlights | Ghana 0-4 France | FIFA U-20 Women's World Cup 2026™",
+      "title": "Ghana vs France | FIFA U-20 Women's World Cup 2026™",
       "videoId": "iF54fzJWS4s",
       "channel": "FIFA",
       "publishedAt": "2026-09-12",
@@ -140,6 +173,34 @@
       "fixtureTeams": null
     },
     {
+      "title": "Real Madrid vs. Rayo Vallecano | LALIGA Highlights | ESPN FC",
+      "videoId": "GtscnZUGLe4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/GtscnZUGLe4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Fierce Finish 😦 Athletic Club vs. Elche | LALIGA Highlights | ESPN FC",
+      "videoId": "6FyomrQosP8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6FyomrQosP8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
       "title": "Jose Mourinho’s comments on Kylian Mbappe’s effort + Barcelona’s unstoppable attack | ESPN FC",
       "videoId": "vWdcCPb7QVU",
       "channel": "ESPN FC",
@@ -231,39 +292,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/aWSkGYrhyCk/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Argentina vs Mexico | FIFA U-20 Women's World Cup 2026™",
-      "videoId": "YZJUq1ACPtU",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-11",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/YZJUq1ACPtU/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Highlights: Tanzania vs. Canada #U20WWC #FIFAWWC",
-      "videoId": "2McnHaOOxoU",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-11",
-      "category": "Highlights",
-      "team": [
-        "Canada"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/2McnHaOOxoU/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -432,34 +460,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/ddupoBDlwT0/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Can Hansi Flick lead Barcelona to Champions League glory? 🏆 | ESPN FC Extra Time",
-      "videoId": "3QCs3pUBdg8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-10",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/3QCs3pUBdg8/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "'Continuation of distasteful stuff’ - REACTION to De Paul confronting Lewandowski | ESPN FC",
-      "videoId": "Jd4SvKcHdIg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-10",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Jd4SvKcHdIg/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
