@@ -1,11 +1,28 @@
 {
-  "lastUpdated": "2026-09-12T09:05:52.520Z",
+  "lastUpdated": "2026-09-12T13:26:05.477Z",
   "featured": {
-    "match": "t6174uz3zb4",
-    "highlight": "t6174uz3zb4",
+    "match": "wOn8WWXDec0",
+    "highlight": "wOn8WWXDec0",
     "interview": "oDJTSFwrrRo"
   },
   "videos": [
+    {
+      "title": "EXTENDED HIGHLIGHTS | Italy 2-0 Ghana | 2006 FIFA World Cup",
+      "videoId": "wOn8WWXDec0",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-12",
+      "category": "Highlights",
+      "team": [
+        "Italy",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/wOn8WWXDec0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "1-Minute Match | Saudi Arabia 2-1 Egypt | 2018 FIFA World Cup",
       "videoId": "t6174uz3zb4",
@@ -398,22 +415,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/RHGkeHCbppo/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Highlights: China PR vs. Nigeria #U20WWC #FIFAWWC",
-      "videoId": "Y9e8oBPVDJA",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-10",
-      "category": "Highlights",
-      "team": [
-        "Nigeria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Y9e8oBPVDJA/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
