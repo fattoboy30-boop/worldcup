@@ -1,11 +1,43 @@
 {
-  "lastUpdated": "2026-09-13T18:37:28.252Z",
+  "lastUpdated": "2026-09-13T21:16:43.781Z",
   "featured": {
-    "match": "vA3e50JozGA",
-    "highlight": "vA3e50JozGA",
+    "match": "vUgLTT8Ggeo",
+    "highlight": "vUgLTT8Ggeo",
     "interview": "Ap6qvM0vQeY"
   },
   "videos": [
+    {
+      "title": "Highlights: Portugal vs. Costa Rica #U20WWC #FIFAWWC",
+      "videoId": "vUgLTT8Ggeo",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-13",
+      "category": "Highlights",
+      "team": [
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vUgLTT8Ggeo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: Colombia vs. New Caledonia #U20WWC #FIFAWWC",
+      "videoId": "CBPHfJBZPjs",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-13",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/CBPHfJBZPjs/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Highlights | Colombia 0-3 DPR Korea | FIFA U-20 Women's World Cup 2026™",
       "videoId": "vA3e50JozGA",
@@ -23,7 +55,7 @@
       "fixtureTeams": null
     },
     {
-      "title": "Highlights | Portugal 3-0 Costa Rica | FIFA U-20 Women's World Cup 2026™",
+      "title": "Portugal vs Costa Rica | FIFA U-20 Women's World Cup 2026™",
       "videoId": "rKi1-LxOAzo",
       "channel": "FIFA",
       "publishedAt": "2026-09-13",
@@ -112,6 +144,20 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/jjNhGblN5M0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Washington Spirit vs. Boston Legacy | NWSL Highlights | ESPN FC",
+      "videoId": "A-JtLQDwCMc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/A-JtLQDwCMc/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -370,39 +416,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Italy vs Japan | FIFA U-20 Women's World Cup 2026™",
-      "videoId": "GuLG9NeI_is",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-12",
-      "category": "Highlights",
-      "team": [
-        "Italy",
-        "Japan"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/GuLG9NeI_is/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "New Zealand vs USA | FIFA U-20 Women's World Cup 2026™",
-      "videoId": "PKvrgJMz4mE",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-12",
-      "category": "Highlights",
-      "team": [
-        "USA"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/PKvrgJMz4mE/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "Roberto De Zerbi 'is in a world of trouble' 🗣️ Don Hutchison after Spurs' draw vs. Everton | ESPN FC",
       "videoId": "mQHpKMNjTYw",
       "channel": "ESPN FC",
@@ -440,20 +453,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/Ap6qvM0vQeY/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Steve Nicol says Arsenal will ABSOLUTELY win the EPL because they have EVERYTHING 🗣️ | ESPN FC",
-      "videoId": "3osSMDOLlyg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-12",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/3osSMDOLlyg/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
