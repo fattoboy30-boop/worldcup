@@ -1,9 +1,466 @@
 {
-  "lastUpdated": "2026-09-13T05:45:38.710Z",
+  "lastUpdated": "2026-09-13T11:21:13.284Z",
   "featured": {
-    "match": "",
-    "highlight": "",
-    "interview": ""
+    "match": "jjNhGblN5M0",
+    "highlight": "jjNhGblN5M0",
+    "interview": "Ap6qvM0vQeY"
   },
-  "videos": []
+  "videos": [
+    {
+      "title": "BEST FREE KICK GOALS | 1994 World Cup",
+      "videoId": "jjNhGblN5M0",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jjNhGblN5M0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Inter Miami vs. Nashville SC | MLS Highlights | ESPN FC",
+      "videoId": "h7y5KqAHt4I",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/h7y5KqAHt4I/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Arsenal continuing to dominate, Spurs' consistently struggling & Real Madrid's standard | ESPN FC",
+      "videoId": "BpTPs00NIUE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/BpTPs00NIUE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Should Liverpool regret signing Florian Writz? 🤔 | ESPN FC Extra Time",
+      "videoId": "MCRbWMwI_es",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/MCRbWMwI_es/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "'Lot of room to improve' - Luis Garcia on Real Madrid's win over Rayo Vallecano | ESPN FC",
+      "videoId": "BETB15tOUtU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/BETB15tOUtU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: Ghana vs. France #U20WWC #FIFAWWC",
+      "videoId": "_pza0yCoIyE",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-12",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_pza0yCoIyE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: Korea Republic vs. Ecuador #U20WWC #FIFAWWC",
+      "videoId": "amn7keoK_r8",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-12",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/amn7keoK_r8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights | Korea Republic 3-2 Ecuador | FIFA U-20 Women's World Cup 2026™",
+      "videoId": "48MXC_a4w3w",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-12",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/48MXC_a4w3w/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Ghana vs France | FIFA U-20 Women's World Cup 2026™",
+      "videoId": "iF54fzJWS4s",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-12",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/iF54fzJWS4s/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: New Zealand vs. USA #U20WWC #FIFAWWC",
+      "videoId": "59Lb0nJ3bwc",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-12",
+      "category": "Highlights",
+      "team": [
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/59Lb0nJ3bwc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: Italy vs. Japan #U20WWC #FIFAWWC",
+      "videoId": "-POpje1Nvu0",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-12",
+      "category": "Highlights",
+      "team": [
+        "Italy",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-POpje1Nvu0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Italy vs Japan | FIFA U-20 Women's World Cup 2026™",
+      "videoId": "GuLG9NeI_is",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-12",
+      "category": "Highlights",
+      "team": [
+        "Italy",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/GuLG9NeI_is/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "New Zealand vs USA | FIFA U-20 Women's World Cup 2026™",
+      "videoId": "PKvrgJMz4mE",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-12",
+      "category": "Highlights",
+      "team": [
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/PKvrgJMz4mE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "EXTENDED HIGHLIGHTS | Italy 2-0 Ghana | 2006 FIFA World Cup",
+      "videoId": "wOn8WWXDec0",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-12",
+      "category": "Highlights",
+      "team": [
+        "Italy",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/wOn8WWXDec0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "1-Minute Match | Saudi Arabia 2-1 Egypt | 2018 FIFA World Cup",
+      "videoId": "t6174uz3zb4",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-12",
+      "category": "Highlights",
+      "team": [
+        "Saudi Arabia",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/t6174uz3zb4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Roberto De Zerbi 'is in a world of trouble' 🗣️ Don Hutchison after Spurs' draw vs. Everton | ESPN FC",
+      "videoId": "mQHpKMNjTYw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/mQHpKMNjTYw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Should Liverpool bench Florian Wirtz? 'Gotta do what's best for the team' - Steve Nicol | ESPN FC",
+      "videoId": "_5kk9dYJFjU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_5kk9dYJFjU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Do Chelsea have a personnel problem? 🤔 REACTION to draw vs. Hull City | ESPN FC",
+      "videoId": "Ap6qvM0vQeY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-12",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Ap6qvM0vQeY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Steve Nicol says Arsenal will ABSOLUTELY win the EPL because they have EVERYTHING 🗣️ | ESPN FC",
+      "videoId": "3osSMDOLlyg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/3osSMDOLlyg/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Real Madrid vs. Rayo Vallecano | LALIGA Highlights | ESPN FC",
+      "videoId": "GtscnZUGLe4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/GtscnZUGLe4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Fierce Finish 😦 Athletic Club vs. Elche | LALIGA Highlights | ESPN FC",
+      "videoId": "6FyomrQosP8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6FyomrQosP8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Jose Mourinho’s comments on Kylian Mbappe’s effort + Barcelona’s unstoppable attack | ESPN FC",
+      "videoId": "vWdcCPb7QVU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vWdcCPb7QVU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Honda or Endo? Two iconic Japan free kicks in one match!",
+      "videoId": "EH4MsjoYjEM",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-11",
+      "category": "Highlights",
+      "team": [
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/EH4MsjoYjEM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: Benin vs. Poland #U20WWC #FIFAWWC",
+      "videoId": "ezH4M4r8IqU",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-11",
+      "category": "Highlights",
+      "team": [
+        "Poland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ezH4M4r8IqU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: Argentina vs. Mexico #U20WWC #FIFAWWC",
+      "videoId": "3zvNK0-q4oY",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-11",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/3zvNK0-q4oY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: England vs. Brazil #U20WWC #FIFAWWC",
+      "videoId": "dB4WBK6oO-k",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-11",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/dB4WBK6oO-k/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Who needs to win the Manchester derby more: Man United or Man City? 👀 | ESPN FC Extra Time",
+      "videoId": "uZSfTbEq9T8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-11",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/uZSfTbEq9T8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "‘I learned my lesson!’ 😳 Shaka, Frank and Jan's ‘welcome to the Premier League’ moments | ESPN FC",
+      "videoId": "y6dXtkNZYHs",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-11",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/y6dXtkNZYHs/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "'I've never seen anything like it' 😅 Fenerbahce blocks manager's resignation | ESPN FC",
+      "videoId": "ho0EDHczU9w",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-11",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ho0EDHczU9w/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Can Arsenal win the Premier League and the Champions League this season? 👀 | ESPN FC",
+      "videoId": "iJj5SEGgktA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-11",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/iJj5SEGgktA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    }
+  ]
 }
