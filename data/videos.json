@@ -1,9 +1,462 @@
 {
-  "lastUpdated": "2026-09-14T04:41:30.213Z",
+  "lastUpdated": "2026-09-14T10:24:02.304Z",
   "featured": {
-    "match": "",
-    "highlight": "",
-    "interview": ""
+    "match": "_8WxoEbGz_Q",
+    "highlight": "_8WxoEbGz_Q",
+    "interview": "e_4Z5kANDO8"
   },
-  "videos": []
+  "videos": [
+    {
+      "title": "10-Minute Match | Portugal 2-1 Mexico | 2006 World Cup",
+      "videoId": "_8WxoEbGz_Q",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-14",
+      "category": "Highlights",
+      "team": [
+        "Portugal",
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_8WxoEbGz_Q/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Ronaldo 0-1 Zidane | 1-Minute Semi-Final: Portugal v France | 2006 World Cup",
+      "videoId": "ahOf2wrD0Rk",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-14",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ahOf2wrD0Rk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "1-Minute Match: Japan 1-4 Colombia | 2014 World Cup",
+      "videoId": "AOisjls8Q4k",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-13",
+      "category": "Highlights",
+      "team": [
+        "Japan",
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/AOisjls8Q4k/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: Portugal vs. Costa Rica #U20WWC #FIFAWWC",
+      "videoId": "vUgLTT8Ggeo",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-13",
+      "category": "Highlights",
+      "team": [
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vUgLTT8Ggeo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: Colombia vs. New Caledonia #U20WWC #FIFAWWC",
+      "videoId": "CBPHfJBZPjs",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-13",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/CBPHfJBZPjs/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Colombia vs DPR Korea | FIFA U-20 Women's World Cup 2026™",
+      "videoId": "vA3e50JozGA",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-13",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vA3e50JozGA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Portugal vs Costa Rica | FIFA U-20 Women's World Cup 2026™",
+      "videoId": "rKi1-LxOAzo",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-13",
+      "category": "Highlights",
+      "team": [
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/rKi1-LxOAzo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: Nigeria vs. New Caledonia #U20WWC #FIFAWWC",
+      "videoId": "jDrJp6GrR7g",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-13",
+      "category": "Highlights",
+      "team": [
+        "Nigeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jDrJp6GrR7g/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: China PR vs. Spain #U20WWC #FIFAWWC",
+      "videoId": "jRr9fGnjxsE",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-13",
+      "category": "Highlights",
+      "team": [
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jRr9fGnjxsE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights | Nigeria 10-1 New Caledonia | FIFA U-20 Women's World Cup 2026™",
+      "videoId": "9xbsrWcEB8s",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-13",
+      "category": "Highlights",
+      "team": [
+        "Nigeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/9xbsrWcEB8s/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "China PR vs Spain | FIFA U-20 Women's World Cup 2026™",
+      "videoId": "35MuIdzOcfE",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-13",
+      "category": "Highlights",
+      "team": [
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/35MuIdzOcfE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "BEST FREE KICK GOALS | 1994 World Cup",
+      "videoId": "jjNhGblN5M0",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jjNhGblN5M0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Man United vs. Man City FULL REACTION 🍿 Did VAR get it wrong? | ESPN FC",
+      "videoId": "e_4Z5kANDO8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-13",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/e_4Z5kANDO8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Should the VAR referee be SANCTIONED for incorrect call in Manchester derby? 😳 | ESPN FC Extra Time",
+      "videoId": "hRzXk6sA7-8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/hRzXk6sA7-8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "The most chaotic Barcelona performance of the season! - Craig Burley on win over Levante | ESPN FC",
+      "videoId": "XKhkqnih-FQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/XKhkqnih-FQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "‘VAR’S BIGGEST MISTAKE EVER!’ 😳 Man United vs. Man City FULL REACTION | ESPN FC",
+      "videoId": "5RD_NQ_7iio",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-13",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/5RD_NQ_7iio/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Real Sociedad vs. Atletico Madrid | LALIGA Highlights | ESPN FC",
+      "videoId": "7Rb78W9GlM4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7Rb78W9GlM4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Washington Spirit vs. Boston Legacy | NWSL Highlights | ESPN FC",
+      "videoId": "A-JtLQDwCMc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/A-JtLQDwCMc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Karim Adeyemi puts the game to sleep with this goal 🥶",
+      "videoId": "Twgu-NQ6dA4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Twgu-NQ6dA4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "LAMINE. YAMAL. ⭐",
+      "videoId": "ienen8xpBpk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ienen8xpBpk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Hansi Flick didn't like his water 😅",
+      "videoId": "i3UfphaQrDk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/i3UfphaQrDk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "It's an easy finish for Lamine Yamal 💥",
+      "videoId": "SgP9pJEZFIo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/SgP9pJEZFIo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "XAVI ESPART!",
+      "videoId": "-ntfT7rKSxw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-ntfT7rKSxw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Levante recognized Barcelona's World Cup winners ahead of their match 🏆👏",
+      "videoId": "wMksfnvomt8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/wMksfnvomt8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "2 GOALS FOR LAMINE YAMAL ⚽⚽ Levante vs. Barcelona | LALIGA Highlights | ESPN FC",
+      "videoId": "bSeIHtsdJyo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/bSeIHtsdJyo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Inter Miami vs. Nashville SC | MLS Highlights | ESPN FC",
+      "videoId": "h7y5KqAHt4I",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/h7y5KqAHt4I/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Arsenal continuing to dominate, Spurs' consistently struggling & Real Madrid's standard | ESPN FC",
+      "videoId": "BpTPs00NIUE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/BpTPs00NIUE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: Ghana vs. France #U20WWC #FIFAWWC",
+      "videoId": "_pza0yCoIyE",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-12",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_pza0yCoIyE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: Korea Republic vs. Ecuador #U20WWC #FIFAWWC",
+      "videoId": "amn7keoK_r8",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-12",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/amn7keoK_r8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights | Korea Republic 3-2 Ecuador | FIFA U-20 Women's World Cup 2026™",
+      "videoId": "48MXC_a4w3w",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-12",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/48MXC_a4w3w/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    }
+  ]
 }
