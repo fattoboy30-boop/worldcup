@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-09-15T18:46:04.679Z",
+  "lastUpdated": "2026-09-15T21:58:38.390Z",
   "featured": {
-    "match": "j6aELaI-Txg",
-    "highlight": "kFPi7DHEMWY",
+    "match": "4zxO5P2yQgE",
+    "highlight": "4zxO5P2yQgE",
     "interview": "j6aELaI-Txg"
   },
   "videos": [
+    {
+      "title": "Ecuador Crise Past Costa Rica | 2006 World Cup EXTENDED HIGHLIGHTS",
+      "videoId": "4zxO5P2yQgE",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-15",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4zxO5P2yQgE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Hat-trick for Higuain with help from Messi!",
       "videoId": "j6aELaI-Txg",
@@ -30,6 +46,62 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/kFPi7DHEMWY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "CONTROVERSY AT THE FINISH 😦 Alaves vs. Valencia | LALIGA Highlights | ESPN FC",
+      "videoId": "MxVq5adjkVU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-15",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/MxVq5adjkVU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Mbappe remained in the match after taking a hit while scoring.",
+      "videoId": "zexmvQ4BiCk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-15",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/zexmvQ4BiCk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "ARDA GÜLER FREE KICK GOLAZO 💥",
+      "videoId": "2O4kdteUZdY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-15",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/2O4kdteUZdY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Marc Cucurella honored ahead Elche vs. Real Madrid 🏆",
+      "videoId": "oGt9o_jQW7w",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-15",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/oGt9o_jQW7w/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -378,78 +450,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/9xbsrWcEB8s/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "China PR vs Spain | FIFA U-20 Women's World Cup 2026™",
-      "videoId": "35MuIdzOcfE",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-13",
-      "category": "Highlights",
-      "team": [
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/35MuIdzOcfE/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Man United vs. Man City FULL REACTION 🍿 Did VAR get it wrong? | ESPN FC",
-      "videoId": "e_4Z5kANDO8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-13",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/e_4Z5kANDO8/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Should the VAR referee be SANCTIONED for incorrect call in Manchester derby? 😳 | ESPN FC Extra Time",
-      "videoId": "hRzXk6sA7-8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/hRzXk6sA7-8/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "The most chaotic Barcelona performance of the season! - Craig Burley on win over Levante | ESPN FC",
-      "videoId": "XKhkqnih-FQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-13",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/XKhkqnih-FQ/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "‘VAR’S BIGGEST MISTAKE EVER!’ 😳 Man United vs. Man City FULL REACTION | ESPN FC",
-      "videoId": "5RD_NQ_7iio",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-13",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/5RD_NQ_7iio/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
