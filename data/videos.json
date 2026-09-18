@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-09-18T14:49:52.803Z",
+  "lastUpdated": "2026-09-18T18:09:36.751Z",
   "featured": {
     "match": "A8QFJB0U8gk",
-    "highlight": "ZU_d6Hj-tHs",
-    "interview": "ZU_d6Hj-tHs"
+    "highlight": "CCtFUjL-L_o",
+    "interview": "CCtFUjL-L_o"
   },
   "videos": [
+    {
+      "title": "Goals From Outside The Box But They Keep Getting Better! | 2014 World Cup",
+      "videoId": "CCtFUjL-L_o",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-18",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/CCtFUjL-L_o/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "60-Second Highlights: Senegal Shine Against Poland | 2018 FIFA World Cup",
       "videoId": "ZU_d6Hj-tHs",
@@ -256,23 +270,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/K_SE2N_Cfh4/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "France 0-2 Mexico | World Cup 2010 EXTENDED HIGHLIGHTS",
-      "videoId": "crnGu5Lo9N4",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-17",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/crnGu5Lo9N4/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
