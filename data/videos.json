@@ -1,11 +1,42 @@
 {
-  "lastUpdated": "2026-09-19T20:16:24.860Z",
+  "lastUpdated": "2026-09-19T22:45:07.653Z",
   "featured": {
-    "match": "4yxbCa2YKLo",
-    "highlight": "4yxbCa2YKLo",
-    "interview": "4yxbCa2YKLo"
+    "match": "HsQhNB5FwoI",
+    "highlight": "HsQhNB5FwoI",
+    "interview": "Ar_fOTrB4Aw"
   },
   "videos": [
+    {
+      "title": "Highlights | Mamelodi Sundowns FC v Al Ahli FC | African-Asian-Pacific Cup 2026",
+      "videoId": "HsQhNB5FwoI",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-19",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/HsQhNB5FwoI/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "EXTENDED HIGHLIGHTS | Chile Eliminate Spain | 2014 FIFA World Cup",
+      "videoId": "ARRTF1QCL3Y",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-19",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Chile"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ARRTF1QCL3Y/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Brazil vs Spain Highlights | FIFA U-20 Women's World Cup 2026™ Quarter-Finals",
       "videoId": "4yxbCa2YKLo",
@@ -101,6 +132,76 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/HsN23r__CVY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "How many goals will Raphinha score this season in LALIGA? | ESPN FC Extra Time",
+      "videoId": "oO7shy202Tc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-19",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/oO7shy202Tc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "‘The PRESSURE is on Jose Mourinho!’ 😳 Atletico Madrid vs. Real Madrid preview | ESPN FC",
+      "videoId": "4nUHPv8Jw30",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-19",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4nUHPv8Jw30/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Could Spurs face RELEGATION again? 😳 REACTION to 3-2 defeat against Aston Villa | ESPN FC",
+      "videoId": "Ar_fOTrB4Aw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-19",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Ar_fOTrB4Aw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Complacency from Arsenal or is Brighton this good? | ESPN FC",
+      "videoId": "TnSGb32yj7w",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-19",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/TnSGb32yj7w/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Sevilla vs. Barcelona | LALIGA Highlights | ESPN FC",
+      "videoId": "ujkBRg-upZY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-19",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ujkBRg-upZY/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -321,20 +422,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Yan Diomande’s unexpected breakthrough that put his name on the map | ESPN FC",
-      "videoId": "38JRxBtbD4w",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-18",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/38JRxBtbD4w/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "Highlights: Poland vs. Colombia #U20WWC #FIFAWWC",
       "videoId": "_kBizIwD2vs",
       "channel": "FIFA",
@@ -363,95 +450,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/uVg5H_pj5KQ/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Poland vs Colombia Highlights | FIFA U-20 Women's World Cup 2026™",
-      "videoId": "iHtyWGGsHcg",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-17",
-      "category": "Highlights",
-      "team": [
-        "Colombia",
-        "Poland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/iHtyWGGsHcg/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "DPR Korea vs Japan Highlights | FIFA U-20 Women's World Cup 2026™",
-      "videoId": "OvV251Jl0YQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-17",
-      "category": "Highlights",
-      "team": [
-        "Japan"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/OvV251Jl0YQ/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "The effect of Manchester United's recruitment + Questions for the Madrid Derby | ESPN FC",
-      "videoId": "kwQ-aOWA6Gs",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-17",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/kwQ-aOWA6Gs/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Is Raphinha a better goal scorer than Erling Haaland? 👀 + Ballon d’Or race | ESPN FC Extra Time",
-      "videoId": "iLLZCCm9lv0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-17",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/iLLZCCm9lv0/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Will Julian Alvarez return? Vini Jr. step up⁉️ BIGGEST QUESTIONS ahead of Madrid derby | ESPN FC",
-      "videoId": "BvZtRVolwtg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-17",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/BvZtRVolwtg/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "What's the key for Barcelona to win the Champions League and retain LALIGA title? | ESPN FC",
-      "videoId": "iZBZTz8jG00",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-17",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/iZBZTz8jG00/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
