@@ -1,11 +1,28 @@
 {
-  "lastUpdated": "2026-09-19T17:04:04.561Z",
+  "lastUpdated": "2026-09-19T20:16:24.860Z",
   "featured": {
-    "match": "h5VSfuYi-BY",
-    "highlight": "h5VSfuYi-BY",
-    "interview": "h5VSfuYi-BY"
+    "match": "4yxbCa2YKLo",
+    "highlight": "4yxbCa2YKLo",
+    "interview": "4yxbCa2YKLo"
   },
   "videos": [
+    {
+      "title": "Brazil vs Spain Highlights | FIFA U-20 Women's World Cup 2026™ Quarter-Finals",
+      "videoId": "4yxbCa2YKLo",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-19",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4yxbCa2YKLo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Highlights: Korea Republic vs. Italy #U20WWC #FIFAWWC",
       "videoId": "h5VSfuYi-BY",
@@ -379,23 +396,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/OvV251Jl0YQ/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Highlights: England vs. Nigeria #U20WWC #FIFAWWC",
-      "videoId": "N0hAx5etMmE",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-17",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Nigeria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/N0hAx5etMmE/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
