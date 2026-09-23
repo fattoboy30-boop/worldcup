@@ -1,11 +1,61 @@
 {
-  "lastUpdated": "2026-09-23T16:25:51.955Z",
+  "lastUpdated": "2026-09-23T20:01:12.064Z",
   "featured": {
-    "match": "NTa69rNc7uE",
-    "highlight": "NTa69rNc7uE",
-    "interview": "NTa69rNc7uE"
+    "match": "eWAc0lnSg-8",
+    "highlight": "eWAc0lnSg-8",
+    "interview": "eWAc0lnSg-8"
   },
   "videos": [
+    {
+      "title": "DPR Korea vs Colombia Highlights | FIFA U-20 Women's World Cup 2026™ Semi-Finals",
+      "videoId": "eWAc0lnSg-8",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-23",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/eWAc0lnSg-8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Italy vs Spain Highlights | FIFA U-20 Women's World Cup 2026™ Semi-Finals",
+      "videoId": "M54m86OzsN4",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-23",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Italy"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/M54m86OzsN4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: Italy vs. Spain #U20WWC #FIFAWWC",
+      "videoId": "4X5Xh_DNQ1o",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-23",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Italy"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4X5Xh_DNQ1o/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "60-Second Highlights: Portugal Survive Mexico Scare | 2006 FIFA World Cup",
       "videoId": "NTa69rNc7uE",
@@ -172,7 +222,7 @@
       "fixtureTeams": null
     },
     {
-      "title": "NEXT LEVEL DRAMA? 👀 Javier Tebas dismisses Real Madrid’s ��conspiracy claims’ | ESPN FC",
+      "title": "NEXT LEVEL DRAMA? 👀 Javier Tebas dismisses Real Madrid’s ‘conspiracy claims’ | ESPN FC",
       "videoId": "jb8sbfBWRYo",
       "channel": "ESPN FC",
       "publishedAt": "2026-09-22",
@@ -397,57 +447,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/WITGD4UPib0/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Highlights: Nigeria vs. Colombia #U20WWC #FIFAWWC",
-      "videoId": "LDDz5qPJDKA",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-20",
-      "category": "Highlights",
-      "team": [
-        "Colombia",
-        "Nigeria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/LDDz5qPJDKA/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Nigeria vs Colombia Highlights | FIFA U-20 Women's World Cup 2026™ Quarter-Finals",
-      "videoId": "RJgCbZSXZ2M",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-20",
-      "category": "Highlights",
-      "team": [
-        "Colombia",
-        "Nigeria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/RJgCbZSXZ2M/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Highlights: Brazil vs. Spain #U20WWC #FIFAWWC",
-      "videoId": "M-0P2JD-35g",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-20",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/M-0P2JD-35g/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
