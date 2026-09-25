@@ -1,11 +1,69 @@
 {
-  "lastUpdated": "2026-09-25T13:24:34.253Z",
+  "lastUpdated": "2026-09-25T18:19:59.800Z",
   "featured": {
-    "match": "S2G3o_-AdPM",
-    "highlight": "S2G3o_-AdPM",
+    "match": "HYYAo69BJZ4",
+    "highlight": "HYYAo69BJZ4",
     "interview": "Yv-m9JcBtVc"
   },
   "videos": [
+    {
+      "title": "Choose your Croatia header: Perisic or Gvardiol?",
+      "videoId": "HYYAo69BJZ4",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-25",
+      "category": "Highlights",
+      "team": [
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/HYYAo69BJZ4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "HIGHLIGHTS| Indonesia vs Singapore | FIFA ASEAN Cup 2026™",
+      "videoId": "LDYeGNR2o1c",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-25",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/LDYeGNR2o1c/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Bangladesh 🆚 Malaysia #FIFAASEANCup",
+      "videoId": "cdHCW_WHeO8",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-25",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cdHCW_WHeO8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "HIGHLIGHTS | Bangladesh vs Malaysia | FIFA ASEAN Cup 2026™",
+      "videoId": "FjNwz1V7xYA",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-25",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/FjNwz1V7xYA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "1-Minute Mayhem! Chile Eliminate Spain | 2014 World Cup",
       "videoId": "S2G3o_-AdPM",
@@ -36,6 +94,20 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/kviAdviPx48/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "WAIT for Zlatan’s answer",
+      "videoId": "gDNB4iNyxZc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-25",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/gDNB4iNyxZc/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -334,72 +406,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Highlights: DPR Korea vs. Colombia #U20WWC #FIFAWWC",
-      "videoId": "WGF6j0Lbq7g",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-23",
-      "category": "Highlights",
-      "team": [
-        "Colombia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/WGF6j0Lbq7g/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "DPR Korea vs Colombia Highlights | FIFA U-20 Women's World Cup 2026™ Semi-Finals",
-      "videoId": "eWAc0lnSg-8",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-23",
-      "category": "Highlights",
-      "team": [
-        "Colombia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/eWAc0lnSg-8/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Italy vs Spain Highlights | FIFA U-20 Women's World Cup 2026™ Semi-Finals",
-      "videoId": "M54m86OzsN4",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-23",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Italy"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/M54m86OzsN4/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Highlights: Italy vs. Spain #U20WWC #FIFAWWC",
-      "videoId": "4X5Xh_DNQ1o",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-23",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Italy"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/4X5Xh_DNQ1o/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "Raphinha's relationship with Hansi Flick + What do Liverpool & Man United need to change? | ESPN FC",
       "videoId": "8ro42QhgAfA",
       "channel": "ESPN FC",
@@ -437,20 +443,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/UOZcwvKPo70/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Raphinha is a FUTURE Ballon d'Or contender! 🗣️ Ian Darke & Steve Nicol praise Barca star | ESPN FC",
-      "videoId": "TsgB45cOzF0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-23",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/TsgB45cOzF0/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
