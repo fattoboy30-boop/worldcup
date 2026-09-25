@@ -1,11 +1,28 @@
 {
-  "lastUpdated": "2026-09-25T07:20:44.164Z",
+  "lastUpdated": "2026-09-25T13:24:34.253Z",
   "featured": {
-    "match": "kviAdviPx48",
-    "highlight": "kviAdviPx48",
+    "match": "S2G3o_-AdPM",
+    "highlight": "S2G3o_-AdPM",
     "interview": "Yv-m9JcBtVc"
   },
   "videos": [
+    {
+      "title": "1-Minute Mayhem! Chile Eliminate Spain | 2014 World Cup",
+      "videoId": "S2G3o_-AdPM",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-25",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Chile"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/S2G3o_-AdPM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "60-Second Highlights: Serbia 1-2 Switzerland | 2018 World Cup",
       "videoId": "kviAdviPx48",
@@ -19,6 +36,36 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/kviAdviPx48/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "How should Carlo Ancelotti build Brazil's attack? | Futbol Americas",
+      "videoId": "hlvRt1zJgTY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-25",
+      "category": "Highlights",
+      "team": [
+        "Brazil"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/hlvRt1zJgTY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "‘LET’S MAKE IT A GRAND OCCASION!’ 🇦🇷 - Alejandro Moreno on Messi’s farewell | Futbol Americas",
+      "videoId": "u-plDFhEeEc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-25",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/u-plDFhEeEc/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -353,23 +400,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "60-Second Highlights: Portugal Survive Mexico Scare | 2006 FIFA World Cup",
-      "videoId": "NTa69rNc7uE",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-23",
-      "category": "Highlights",
-      "team": [
-        "Portugal",
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/NTa69rNc7uE/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "Raphinha's relationship with Hansi Flick + What do Liverpool & Man United need to change? | ESPN FC",
       "videoId": "8ro42QhgAfA",
       "channel": "ESPN FC",
@@ -421,36 +451,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/TsgB45cOzF0/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Burley: If this team wasn’t called Man United, we would’ve stopped talking about them | ESPN FC",
-      "videoId": "6Kq3fOhov5A",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-23",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/6Kq3fOhov5A/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "REACTION to Cole Palmer withdrawing from England squad due to load management 🚨 | ESPN FC",
-      "videoId": "9CaT-OB5rdQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-23",
-      "category": "Viral",
-      "team": [
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/9CaT-OB5rdQ/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
