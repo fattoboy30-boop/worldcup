@@ -1,11 +1,39 @@
 {
-  "lastUpdated": "2026-09-26T01:17:41.070Z",
+  "lastUpdated": "2026-09-26T07:16:31.701Z",
   "featured": {
-    "match": "HYYAo69BJZ4",
-    "highlight": "HYYAo69BJZ4",
+    "match": "Jy2xWSSREk0",
+    "highlight": "Jy2xWSSREk0",
     "interview": "885cNFUcCgU"
   },
   "videos": [
+    {
+      "title": "60-Second Highlights: Samaras Saves Greece, Sends Côte d'Ivoire Home | 2014 World Cup",
+      "videoId": "Jy2xWSSREk0",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Jy2xWSSREk0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Pure precision from Luis Suarez | 2018 World Cup",
+      "videoId": "fr_VF8BObUw",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fr_VF8BObUw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Choose your Croatia header: Perisic or Gvardiol?",
       "videoId": "HYYAo69BJZ4",
@@ -355,37 +383,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/EDXOKb9W6Ew/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Choose Your 2010 Goal From Distance!",
-      "videoId": "xno23EEflFA",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-24",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xno23EEflFA/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "90+3' WINNER! Switzerland's Dramatic Win Over Ecuador | 2014 World Cup",
-      "videoId": "HylbH_kuP50",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-24",
-      "category": "Highlights",
-      "team": [
-        "Switzerland",
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/HylbH_kuP50/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
