@@ -1,11 +1,60 @@
 {
-  "lastUpdated": "2026-09-27T18:08:10.475Z",
+  "lastUpdated": "2026-09-27T21:54:46.042Z",
   "featured": {
-    "match": "lQevPbK0aOA",
-    "highlight": "lQevPbK0aOA",
+    "match": "BX_fqrgrNcs",
+    "highlight": "biP5F8R0704",
     "interview": "RQVnsB7HgOg"
   },
   "videos": [
+    {
+      "title": "Full Match Short: Italy v Brazil | 1982 FIFA World Cup Thriller",
+      "videoId": "BX_fqrgrNcs",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-27",
+      "category": "Full Match",
+      "team": [
+        "Brazil",
+        "Italy"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/BX_fqrgrNcs/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Highlights: Spain vs. DPR Korea #U20WWC #FIFAWWC",
+      "videoId": "biP5F8R0704",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-27",
+      "category": "Highlights",
+      "team": [
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/biP5F8R0704/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Spain vs DPR Korea Highlights | FIFA U-20 Women's World Cup 2026™ Final",
+      "videoId": "aIPWT5LN1qU",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-27",
+      "category": "Highlights",
+      "team": [
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/aIPWT5LN1qU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Cambodia 🆚 Myanmar #FIFAASEANCup",
       "videoId": "lQevPbK0aOA",
@@ -223,48 +272,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/G5ZM7Svdxbg/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Indonesia 🆚 Singapore #FIFAASEANCup",
-      "videoId": "yD4H5b10QW8",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-26",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/yD4H5b10QW8/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Did Marcus Rashford score the best free kick of the 2022 FIFA World Cup?",
-      "videoId": "rZGg6AkVSjA",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-26",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/rZGg6AkVSjA/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "60-Second Highlights: Samaras Saves Greece, Sends Côte d'Ivoire Home | 2014 World Cup",
-      "videoId": "Jy2xWSSREk0",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-26",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Jy2xWSSREk0/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
