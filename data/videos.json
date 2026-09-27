@@ -1,11 +1,42 @@
 {
-  "lastUpdated": "2026-09-26T22:31:25.426Z",
+  "lastUpdated": "2026-09-27T01:11:22.081Z",
   "featured": {
-    "match": "N0LQQXPFzt4",
-    "highlight": "N0LQQXPFzt4",
-    "interview": "885cNFUcCgU"
+    "match": "cpNTBDzIc9I",
+    "highlight": "cpNTBDzIc9I",
+    "interview": "y0WjE0mtSm8"
   },
   "videos": [
+    {
+      "title": "'It puts an ASTERISK ON EVERYTHING!’ 😳 What will Man City’s punishment be for 114 charges? | ESPN FC",
+      "videoId": "cpNTBDzIc9I",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-27",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cpNTBDzIc9I/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "1-Minute Match | Sweden Stun Mexico To Top Group | 2018 World Cup",
+      "videoId": "FGlmVPEOt-Q",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-26",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Sweden"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/FGlmVPEOt-Q/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Highlights: Italy vs. Colombia #U20WWC #FIFAWWC",
       "videoId": "N0LQQXPFzt4",
@@ -92,6 +123,39 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/fr_VF8BObUw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "'Spain felt like the more composed side' 👀 REACTION to Spain's 3-2 close win vs. England | ESPN FC",
+      "videoId": "y0WjE0mtSm8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-26",
+      "category": "Viral",
+      "team": [
+        "England",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/y0WjE0mtSm8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "‘A positive performance’ 👏 REACTION to USMNT’s 4-1 win vs. Peru + Pochettino’s comments | ESPN FC",
+      "videoId": "EWuNO82BNgk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-26",
+      "category": "Viral",
+      "team": [
+        "Peru"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/EWuNO82BNgk/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -377,20 +441,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Laos 🆚 Brunei Darussalam #FIFAASEANCup",
-      "videoId": "YdiLto4FrOk",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-24",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/YdiLto4FrOk/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "UEFA Nations League REACTIONS + Craig Burley's Birthday Spectacular! 🎂 | ESPN FC",
       "videoId": "Yv-m9JcBtVc",
       "channel": "ESPN FC",
@@ -400,50 +450,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/Yv-m9JcBtVc/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Should Phil Foden look to leave Man City? 👀 | ESPN FC Extra Time",
-      "videoId": "eyR4G0nK7Js",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-24",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/eyR4G0nK7Js/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "RIDICULOUS! 🗣️ Craig voices frustration with Cristiano Ronaldo vowing a Portugal return | ESPN FC",
-      "videoId": "GIYNmGyplD4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-24",
-      "category": "Highlights",
-      "team": [
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/GIYNmGyplD4/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Shaka’s Power Rankings 👀 Who is No. 1? + Happy birthday Craig! | ESPN FC",
-      "videoId": "ZiHqgd2WoGQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-24",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ZiHqgd2WoGQ/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
