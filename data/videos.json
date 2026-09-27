@@ -1,11 +1,111 @@
 {
-  "lastUpdated": "2026-09-27T01:11:22.081Z",
+  "lastUpdated": "2026-09-27T07:48:18.930Z",
   "featured": {
-    "match": "cpNTBDzIc9I",
-    "highlight": "cpNTBDzIc9I",
-    "interview": "y0WjE0mtSm8"
+    "match": "VDKTPhP2hRA",
+    "highlight": "VDKTPhP2hRA",
+    "interview": "RQVnsB7HgOg"
   },
   "videos": [
+    {
+      "title": "Vietnam 🆚 Philippines #FIFAASEANCup",
+      "videoId": "VDKTPhP2hRA",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-27",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/VDKTPhP2hRA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "The Good Luck Kiss That Won The Trophy!",
+      "videoId": "SxdO_3yUYso",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-27",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/SxdO_3yUYso/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "HIGHLIGHTS | Vietnam vs Philippines | FIFA ASEAN Cup 2026™",
+      "videoId": "8BCUpwziXt0",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-27",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/8BCUpwziXt0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Pakistan 🆚 Thailand #FIFAASEANCup",
+      "videoId": "k-pOPlluhtw",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-27",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/k-pOPlluhtw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "HIGHLIGHTS | Pakistan vs Thailand | FIFA ASEAN Cup 2026™",
+      "videoId": "wH1mDhVglhs",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-27",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/wH1mDhVglhs/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "International friendly Reaction 👀 How important is USMNT’s victory? | ESPN FC",
+      "videoId": "RQVnsB7HgOg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-27",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RQVnsB7HgOg/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "What did today’s game tell you about England? | ESPN FC Extra Time",
+      "videoId": "zue7VG7o3uY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-27",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/zue7VG7o3uY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "'It puts an ASTERISK ON EVERYTHING!’ 😳 What will Man City’s punishment be for 114 charges? | ESPN FC",
       "videoId": "cpNTBDzIc9I",
@@ -205,54 +305,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "HIGHLIGHTS | Bangladesh vs Malaysia | FIFA ASEAN Cup 2026™",
-      "videoId": "FjNwz1V7xYA",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-25",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FjNwz1V7xYA/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "1-Minute Mayhem! Chile Eliminate Spain | 2014 World Cup",
-      "videoId": "S2G3o_-AdPM",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-25",
-      "category": "Highlights",
-      "team": [
-        "Spain",
-        "Chile"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/S2G3o_-AdPM/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "60-Second Highlights: Serbia 1-2 Switzerland | 2018 World Cup",
-      "videoId": "kviAdviPx48",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-25",
-      "category": "Highlights",
-      "team": [
-        "Switzerland",
-        "Serbia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/kviAdviPx48/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "What should Man City’s punishment be? 🤔 Breaking down the 114 charges | ESPN FC",
       "videoId": "Dc6BfnHX4l4",
       "channel": "ESPN FC",
@@ -394,62 +446,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/u-plDFhEeEc/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Wait for the last one 😯 (via @fcastorianachwuchs/IG)",
-      "videoId": "In3CH6uBiOA",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-25",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/In3CH6uBiOA/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Myanmar 🆚 Timor-Leste #FIFAASEANCup",
-      "videoId": "L9tqYjvIT_4",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-24",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/L9tqYjvIT_4/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "HIGHLIGHTS | Myanmar vs Timor-Leste | FIFA ASEAN Cup 2026™",
-      "videoId": "N1Ylx3t1G_U",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-24",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/N1Ylx3t1G_U/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "UEFA Nations League REACTIONS + Craig Burley's Birthday Spectacular! 🎂 | ESPN FC",
-      "videoId": "Yv-m9JcBtVc",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-24",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Yv-m9JcBtVc/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
