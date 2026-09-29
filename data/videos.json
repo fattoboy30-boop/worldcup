@@ -1,11 +1,74 @@
 {
-  "lastUpdated": "2026-09-29T15:30:28.876Z",
+  "lastUpdated": "2026-09-29T20:32:05.913Z",
   "featured": {
     "match": "BX_fqrgrNcs",
-    "highlight": "nFKT24SM9xg",
+    "highlight": "Q7Rbf5K968E",
     "interview": "d0zp-iW2bbE"
   },
   "videos": [
+    {
+      "title": "LIVE NOW | USA v Netherlands | Final | FIFA Women's World Cup France 2019™",
+      "videoId": "Q7Rbf5K968E",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-29",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Netherlands",
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Q7Rbf5K968E/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "The MOMENT Morocco stunned Portugal | 2022 World Cup Quarter-final",
+      "videoId": "AViyAZnNZYI",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-29",
+      "category": "Highlights",
+      "team": [
+        "Portugal",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/AViyAZnNZYI/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "HIGHLIGHTS | Thailand vs Vietnam | FIFA ASEAN Cup 2026™",
+      "videoId": "RsT5JfzYzGw",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-29",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RsT5JfzYzGw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Thailand 🆚 Vietnam #FIFAASEANCup",
+      "videoId": "uLRPFTFxoUA",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-29",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/uLRPFTFxoUA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Philippines 🆚 Pakistan #FIFAASEANCup",
       "videoId": "nFKT24SM9xg",
@@ -277,66 +340,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/BX_fqrgrNcs/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Highlights: Spain vs. DPR Korea #U20WWC #FIFAWWC",
-      "videoId": "biP5F8R0704",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-27",
-      "category": "Highlights",
-      "team": [
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/biP5F8R0704/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Spain vs DPR Korea Highlights | FIFA U-20 Women's World Cup 2026™ Final",
-      "videoId": "aIPWT5LN1qU",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-27",
-      "category": "Highlights",
-      "team": [
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/aIPWT5LN1qU/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Cambodia 🆚 Myanmar #FIFAASEANCup",
-      "videoId": "lQevPbK0aOA",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-27",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/lQevPbK0aOA/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "HIGHLIGHTS | Cambodia vs Myanmar | FIFA ASEAN Cup 2026™",
-      "videoId": "AWr2W7C_0D0",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-27",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/AWr2W7C_0D0/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
