@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-09-29T20:32:05.913Z",
+  "lastUpdated": "2026-09-30T00:09:08.804Z",
   "featured": {
-    "match": "BX_fqrgrNcs",
-    "highlight": "Q7Rbf5K968E",
-    "interview": "d0zp-iW2bbE"
+    "match": "vWluMCY5L7U",
+    "highlight": "vWluMCY5L7U",
+    "interview": "s8g5OdkWuUE"
   },
   "videos": [
+    {
+      "title": "EXTENDED HIGHLIGHTS | Honduras v Ecuador | 2014 FIFA World Cup",
+      "videoId": "vWluMCY5L7U",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-29",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vWluMCY5L7U/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "LIVE NOW | USA v Netherlands | Final | FIFA Women's World Cup France 2019™",
       "videoId": "Q7Rbf5K968E",
@@ -121,6 +137,79 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/P5ykPg3gXQk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "What’s next for Manchester City following their charges? + UEFA Nations League reaction | ESPN FC",
+      "videoId": "s8g5OdkWuUE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-29",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/s8g5OdkWuUE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Was the international break & City's charges the perfect distraction for Spurs? | ESPN FC Extra Time",
+      "videoId": "KXXRXeYrXd8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-29",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/KXXRXeYrXd8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Theo Walcott reflects on dealing with fame as Vozinha speaks out after World Cup | ESPN FC",
+      "videoId": "HKtbcmuhKGE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-29",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/HKtbcmuhKGE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Czechia vs. England Reaction + Tuchel speaks about Cole Palmer | ESPN FC",
+      "videoId": "TabOrwv6KXw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-29",
+      "category": "Viral",
+      "team": [
+        "England",
+        "Czechia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/TabOrwv6KXw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "‘I feel like they’re gonna have to be kicked out’ - Theo Walcott after Man City's charges | ESPN FC",
+      "videoId": "ucOi-7VrkFI",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-09-29",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ucOi-7VrkFI/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -328,23 +417,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Full Match Short: Italy v Brazil | 1982 FIFA World Cup Thriller",
-      "videoId": "BX_fqrgrNcs",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-27",
-      "category": "Full Match",
-      "team": [
-        "Brazil",
-        "Italy"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/BX_fqrgrNcs/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "Fallout from Man City’s guilty charges + How long should CR7 play for Portugal? | ESPN FC",
       "videoId": "nqFQZ4ajiH0",
       "channel": "ESPN FC",
@@ -370,81 +442,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/ZufSx_dUvCM/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Should Real Madrid rebuild around Jude Bellingham and not Mbappe or Vini Jr.? | ESPN FC Extra Time",
-      "videoId": "8pgTXnlLrws",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-27",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/8pgTXnlLrws/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "'Haaland should've had a hat trick!' 😯 - Steve Nicol on Norway's loss against Portugal | ESPN FC",
-      "videoId": "d0zp-iW2bbE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-27",
-      "category": "Viral",
-      "team": [
-        "Portugal",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/d0zp-iW2bbE/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Is Germany no longer a top team in UEFA? 🤔 REACTION from Greece's 1-0 win | ESPN FC",
-      "videoId": "DFVtSmVbZGM",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-27",
-      "category": "Viral",
-      "team": [
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/DFVtSmVbZGM/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "'It's a mess!' - Craig Burley on Man City being found guilty on 114 of 115 charges | ESPN FC",
-      "videoId": "CgK-0fP0UF0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-27",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/CgK-0fP0UF0/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "International friendly Reaction 👀 How important is USMNT’s victory? | ESPN FC",
-      "videoId": "RQVnsB7HgOg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-27",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/RQVnsB7HgOg/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
