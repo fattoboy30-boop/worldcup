@@ -1,11 +1,84 @@
 {
-  "lastUpdated": "2026-10-01T16:08:41.616Z",
+  "lastUpdated": "2026-10-01T21:39:36.339Z",
   "featured": {
     "match": "2r4eMGmG_XY",
-    "highlight": "YxGZKGudh3Y",
+    "highlight": "JTmeVrP_cf4",
     "interview": "s8g5OdkWuUE"
   },
   "videos": [
+    {
+      "title": "2-Minute Highlights | France 0-2 Mexico | 2010 FIFA World Cup",
+      "videoId": "JTmeVrP_cf4",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-01",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JTmeVrP_cf4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Malaysia 🆚 Singapore #FIFAASEANCup",
+      "videoId": "ySCCt5kHCKE",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-01",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ySCCt5kHCKE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "HIGHLIGHTS | Malaysia vs Singapore | FIFA ASEAN Cup 2026™",
+      "videoId": "xqgKmXWmzSc",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-01",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xqgKmXWmzSc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Indonesia 🆚 Bangladesh #FIFAASEANCup",
+      "videoId": "sBiJYIMTjCw",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-01",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/sBiJYIMTjCw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "HIGHLIGHTS | Indonesia vs Bangladesh | FIFA ASEAN Cup 2026™",
+      "videoId": "I_KDgVKGu6o",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-01",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/I_KDgVKGu6o/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "FULL MATCH | France v Korea Republic | Group Stage | FIFA Women's World Cup France 2019™",
       "videoId": "2r4eMGmG_XY",
@@ -149,36 +222,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "When Germany Hacked Headers at FIFA World Cup 2002",
-      "videoId": "_7w8TiHp63E",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-30",
-      "category": "Highlights",
-      "team": [
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_7w8TiHp63E/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Robin van Persie Rocket! FIFA World Cup 2006",
-      "videoId": "kGBjsWeiiwk",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-30",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/kGBjsWeiiwk/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "What did we learn about the USMNT after beating Chile? | ESPN FC",
       "videoId": "TpECyf3EYD0",
       "channel": "ESPN FC",
@@ -290,57 +333,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/Xq5BTGkFvuM/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "EXTENDED HIGHLIGHTS | Honduras v Ecuador | 2014 FIFA World Cup",
-      "videoId": "vWluMCY5L7U",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-29",
-      "category": "Highlights",
-      "team": [
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vWluMCY5L7U/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "FULL MATCH | USA v Netherlands | Final | FIFA Women's World Cup France 2019™",
-      "videoId": "Q7Rbf5K968E",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-29",
-      "category": "Full Match",
-      "team": [
-        "France",
-        "Netherlands",
-        "USA"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Q7Rbf5K968E/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "The MOMENT Morocco stunned Portugal | 2022 World Cup Quarter-final",
-      "videoId": "AViyAZnNZYI",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-29",
-      "category": "Highlights",
-      "team": [
-        "Portugal",
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/AViyAZnNZYI/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
