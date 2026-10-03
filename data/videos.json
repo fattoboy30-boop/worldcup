@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-10-02T20:29:11.945Z",
+  "lastUpdated": "2026-10-03T00:15:39.804Z",
   "featured": {
-    "match": "PjCXpu28at8",
-    "highlight": "PjCXpu28at8",
+    "match": "U93mJ9x59gY",
+    "highlight": "U93mJ9x59gY",
     "interview": "OhiVL7f7QUE"
   },
   "videos": [
+    {
+      "title": "60-Second Highlights: When Australia Advanced For The First Time Ever! 2006 World Cup",
+      "videoId": "U93mJ9x59gY",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-02",
+      "category": "Highlights",
+      "team": [
+        "Australia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/U93mJ9x59gY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "When Harry Kane Equalled Wayne Rooney!",
       "videoId": "PjCXpu28at8",
@@ -149,6 +165,96 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/Hkphb8DmmK4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Craig Burley has STRONG WORDS for Crisitano Ronaldo's Portugal exit + Worst EPL transfers | ESPN FC",
+      "videoId": "K-r1EmtjAmw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-02",
+      "category": "Highlights",
+      "team": [
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/K-r1EmtjAmw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "More underrated manager: Unai Emery or Gasperini? 🔍 | ESPN FC Extra Time",
+      "videoId": "UaOgpn266fQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-02",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/UaOgpn266fQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Man City release statement maintaining INNOCENCE in EPL financial breaches case | ESPN FC",
+      "videoId": "38WH9YLNr9M",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-02",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/38WH9YLNr9M/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "‘ARROGANT AND SAD’ 😳 Don Hutchison on Cristiano Ronaldo’s dispute with Portugal | ESPN FC",
+      "videoId": "uyX1WG-En5E",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-02",
+      "category": "Highlights",
+      "team": [
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/uyX1WG-En5E/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Is Sandro Tonali to Spurs the WORST TRANSFER of the summer? | ESPN FC",
+      "videoId": "6FimEf1E1cU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-02",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6FimEf1E1cU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "'He can do everything!' - Frank Leboeuf after Michael Olise's performance vs. Italy | ESPN FC",
+      "videoId": "i5zS7fCa6EU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-02",
+      "category": "Highlights",
+      "team": [
+        "Italy"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/i5zS7fCa6EU/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -299,20 +405,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Indonesia 🆚 Bangladesh #FIFAASEANCup",
-      "videoId": "sBiJYIMTjCw",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-01",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/sBiJYIMTjCw/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "FULL REACTION to Ronaldo leaving Portugal's camp + Man City's punishment looming | ESPN FC",
       "videoId": "OhiVL7f7QUE",
       "channel": "ESPN FC",
@@ -355,95 +447,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/Ur81U5wOr0s/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "How will the Premier League find a solution for Manchester City's punishment? 🤔 | ESPN FC",
-      "videoId": "Exj1BeZA8nM",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-01",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Exj1BeZA8nM/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "‘Clear red card’ - Jan Age Fjortoft on Bernardo Silva’s challenge on Martin Odegaard | ESPN FC",
-      "videoId": "1P-uGgPe6gg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-01",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/1P-uGgPe6gg/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Will Ronaldo play for Portugal again after leaving camp? 🤔 + Reaction to win vs. Denmark | ESPN FC",
-      "videoId": "eQrSkahzKLA",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-01",
-      "category": "Viral",
-      "team": [
-        "Portugal",
-        "Denmark"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/eQrSkahzKLA/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "What did we learn about the USMNT after beating Chile? | ESPN FC",
-      "videoId": "TpECyf3EYD0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-30",
-      "category": "Highlights",
-      "team": [
-        "Chile"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/TpECyf3EYD0/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Which club can challenge Inter at the top of Serie A? | ESPN FC Extra Time",
-      "videoId": "T7DUwOeFMnY",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-30",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/T7DUwOeFMnY/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Could Manchester City players start pushing to leave the club? | ESPN FC",
-      "videoId": "f7pO0uwDKMk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-09-30",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/f7pO0uwDKMk/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
