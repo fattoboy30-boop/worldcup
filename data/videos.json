@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-10-03T17:04:54.470Z",
+  "lastUpdated": "2026-10-03T20:46:44.753Z",
   "featured": {
-    "match": "dTPUyffzIM8",
-    "highlight": "dTPUyffzIM8",
+    "match": "54jKskaLLPs",
+    "highlight": "54jKskaLLPs",
     "interview": "OhiVL7f7QUE"
   },
   "videos": [
+    {
+      "title": "Roberto Carlos and Ronaldinho Were Free Kick Cheat Codes",
+      "videoId": "54jKskaLLPs",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-03",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/54jKskaLLPs/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "18 Minutes Of Headed Goals From The 2014 FIFA World Cup!",
       "videoId": "dTPUyffzIM8",
@@ -236,23 +250,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/HLcp7ri-XrU/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "1-Minute Highlights | Switzerland Leave It Late Against Ecuador! | 2014 World Cup",
-      "videoId": "aBIomcyNrsk",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-02",
-      "category": "Highlights",
-      "team": [
-        "Switzerland",
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/aBIomcyNrsk/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
