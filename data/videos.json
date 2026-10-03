@@ -1,11 +1,53 @@
 {
-  "lastUpdated": "2026-10-03T12:20:52.741Z",
+  "lastUpdated": "2026-10-03T17:04:54.470Z",
   "featured": {
-    "match": "jZWLHQI7A-w",
-    "highlight": "jZWLHQI7A-w",
+    "match": "dTPUyffzIM8",
+    "highlight": "dTPUyffzIM8",
     "interview": "OhiVL7f7QUE"
   },
   "videos": [
+    {
+      "title": "18 Minutes Of Headed Goals From The 2014 FIFA World Cup!",
+      "videoId": "dTPUyffzIM8",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-03",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/dTPUyffzIM8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Hong Kong, China 🆚 Cambodia #FIFAASEANCup",
+      "videoId": "bszw5zMGv6o",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-03",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/bszw5zMGv6o/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "HIGHLIGHTS | Hong Kong, China vs Cambodia | FIFA ASEAN Cup 2026™",
+      "videoId": "5XWJokNAlIw",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-03",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/5XWJokNAlIw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Perfect Group Stage Complete | Netherlands 2-0 Chile | 2014 World Cup EXTENDED HIGHLIGHTS",
       "videoId": "jZWLHQI7A-w",
@@ -40,17 +82,32 @@
       "fixtureTeams": null
     },
     {
-      "title": "Neymar Double Defeats Cameroon | 2014 EXTENDED HIGHLIGHTS",
+      "title": "10-Min Highlights | Cameroon 1-4 Brazil | 2014 FIFA World Cup",
       "videoId": "aBls45aOzTY",
       "channel": "FIFA",
       "publishedAt": "2026-10-03",
       "category": "Highlights",
       "team": [
+        "Brazil",
         "Cameroon"
       ],
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/aBls45aOzTY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Ronaldo deserves a tribute like Messi 🗣️",
+      "videoId": "Qoel7IzJJ4I",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-03",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Qoel7IzJJ4I/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -196,38 +253,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/aBIomcyNrsk/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Two HUGE Headers In One Match | Cho Gue-sung v Ghana",
-      "videoId": "lhpicYErzjk",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-02",
-      "category": "Highlights",
-      "team": [
-        "Ghana"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/lhpicYErzjk/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "EXTENDED HIGHLIGHTS | Uruguay 1-3 Costa Rica | 2014 FIFA World Cup",
-      "videoId": "Hkphb8DmmK4",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-02",
-      "category": "Highlights",
-      "team": [
-        "Uruguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Hkphb8DmmK4/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -408,22 +433,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Tim Cahill Completes Crazy Comeback! Australia's First Win | 2006 World Cup",
-      "videoId": "2G9mj_YxRyg",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-01",
-      "category": "Highlights",
-      "team": [
-        "Australia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/2G9mj_YxRyg/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "FULL REACTION to Ronaldo leaving Portugal's camp + Man City's punishment looming | ESPN FC",
       "videoId": "OhiVL7f7QUE",
       "channel": "ESPN FC",
@@ -435,20 +444,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/OhiVL7f7QUE/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Which current European club has the best front three? 🤔 | ESPN FC Extra Time",
-      "videoId": "Go-ngjNofh0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-01",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Go-ngjNofh0/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
