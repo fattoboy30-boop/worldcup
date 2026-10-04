@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-10-04T16:48:34.564Z",
+  "lastUpdated": "2026-10-04T19:56:45.967Z",
   "featured": {
-    "match": "BVV_8mdNh10",
-    "highlight": "BVV_8mdNh10",
+    "match": "3jHAQD1PVYE",
+    "highlight": "3jHAQD1PVYE",
     "interview": "ee87n9B_Ar8"
   },
   "videos": [
+    {
+      "title": "Denilson Outruns A Five-Man Turkey Chase Epic Run",
+      "videoId": "3jHAQD1PVYE",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-04",
+      "category": "Highlights",
+      "team": [
+        "Turkey"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/3jHAQD1PVYE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "60-Second Semi-Final | England v Portugal | 1966 World Cup",
       "videoId": "BVV_8mdNh10",
@@ -33,6 +49,34 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/6IojQsXHsB0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Gotham FC vs. Angel City FC | NWSL Highlights | ESPN FC",
+      "videoId": "VopMA49e2KA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-04",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/VopMA49e2KA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Real Betis are LALIGAFC FUTURES champs 💚👏",
+      "videoId": "_xhgiFBgAWc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-04",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_xhgiFBgAWc/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -357,20 +401,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "HIGHLIGHTS | Thailand vs Philippines | FIFA ASEAN Cup 2026™",
-      "videoId": "X1PPYKfWAIk",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-02",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/X1PPYKfWAIk/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "Craig Burley has STRONG WORDS for Crisitano Ronaldo's Portugal exit + Worst EPL transfers | ESPN FC",
       "videoId": "K-r1EmtjAmw",
       "channel": "ESPN FC",
@@ -426,37 +456,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/uyX1WG-En5E/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Is Sandro Tonali to Spurs the WORST TRANSFER of the summer? | ESPN FC",
-      "videoId": "6FimEf1E1cU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-02",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/6FimEf1E1cU/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Don Hutchison says Italy's performance vs. France was the best he's seen 'in a long time’ | ESPN FC",
-      "videoId": "i5zS7fCa6EU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-02",
-      "category": "Highlights",
-      "team": [
-        "France",
-        "Italy"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/i5zS7fCa6EU/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
