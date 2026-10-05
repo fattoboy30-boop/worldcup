@@ -1,9 +1,470 @@
 {
-  "lastUpdated": "2026-10-05T01:49:50.326Z",
+  "lastUpdated": "2026-10-05T08:39:03.676Z",
   "featured": {
-    "match": "",
-    "highlight": "",
-    "interview": ""
+    "match": "KYAUGrL9i7I",
+    "highlight": "KYAUGrL9i7I",
+    "interview": "TebpqqruBAs"
   },
-  "videos": []
+  "videos": [
+    {
+      "title": "Spain Without Tiki Taka! 2002 World Cup Headers",
+      "videoId": "KYAUGrL9i7I",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-05",
+      "category": "Highlights",
+      "team": [
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/KYAUGrL9i7I/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "1994 Nostalgia: Volleys & Half Volleys To Savour",
+      "videoId": "WiBKgOpdvkE",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-05",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/WiBKgOpdvkE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Denilson Outruns A Five-Man Turkey Chase Epic Run",
+      "videoId": "3jHAQD1PVYE",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-04",
+      "category": "Highlights",
+      "team": [
+        "Turkey"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/3jHAQD1PVYE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "60-Second Semi-Final | England v Portugal | 1966 World Cup",
+      "videoId": "BVV_8mdNh10",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-04",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/BVV_8mdNh10/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Every Goal From Outside The Box | 2002 World Cup",
+      "videoId": "6IojQsXHsB0",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-04",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6IojQsXHsB0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Breaking down USMNT vs. Mexico & the latest on Cristiano Ronaldo leaving Portugal | ESPN FC",
+      "videoId": "T0bdIXxdwC0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-04",
+      "category": "Highlights",
+      "team": [
+        "Portugal",
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/T0bdIXxdwC0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Has Vini Jr. been the most disappointing player this season? | ESPN FC Extra Time",
+      "videoId": "QrSbWRKSQ5M",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-04",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QrSbWRKSQ5M/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Reaction to Jesse Marsch's comments regarding the Balogun red card controversy | ESPN FC",
+      "videoId": "TebpqqruBAs",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-04",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/TebpqqruBAs/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Portugal vs. Norway Reaction + Jorge Jesus addresses Cristiano Ronaldo’s future | ESPN FC",
+      "videoId": "-GBf57IYORc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-04",
+      "category": "Viral",
+      "team": [
+        "Portugal",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-GBf57IYORc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "‘Pochettino was BRILLIANT!’ 🔥 USMNT vs. Mexico FULL REACTION 🍿 | ESPN FC",
+      "videoId": "YVhqVX44mRw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-04",
+      "category": "Viral",
+      "team": [
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/YVhqVX44mRw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Gotham FC vs. Angel City FC | NWSL Highlights | ESPN FC",
+      "videoId": "VopMA49e2KA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-04",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/VopMA49e2KA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Real Betis are LALIGAFC FUTURES champs 💚👏",
+      "videoId": "_xhgiFBgAWc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-04",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_xhgiFBgAWc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Imagine if Vini pulled this out in a game 🥶 (via @realmadrid/IG)",
+      "videoId": "DfbQZtEKrig",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-04",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/DfbQZtEKrig/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Even GOATs struggle to close a window from time to time 😂 (via @espnargentina/IG)",
+      "videoId": "KXE9lnqlkxA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-04",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/KXE9lnqlkxA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "1-Minute Match: Australia v Spain For The First Time Ever | 2014 World Cup",
+      "videoId": "kCj8QHAdI2w",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-03",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Australia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/kCj8QHAdI2w/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Roberto Carlos and Ronaldinho Were Free Kick Cheat Codes",
+      "videoId": "54jKskaLLPs",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-03",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/54jKskaLLPs/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "18 Minutes Of Headed Goals From The 2014 FIFA World Cup!",
+      "videoId": "dTPUyffzIM8",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-03",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/dTPUyffzIM8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Hong Kong, China 🆚 Cambodia #FIFAASEANCup",
+      "videoId": "bszw5zMGv6o",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-03",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/bszw5zMGv6o/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "HIGHLIGHTS | Hong Kong, China vs Cambodia | FIFA ASEAN Cup 2026��",
+      "videoId": "5XWJokNAlIw",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-03",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/5XWJokNAlIw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Perfect Group Stage Complete | Netherlands 2-0 Chile | 2014 World Cup EXTENDED HIGHLIGHTS",
+      "videoId": "jZWLHQI7A-w",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-03",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Chile"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jZWLHQI7A-w/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Ridiculous Rebrov Screamer For Ukraine! Best 2006 World Cup Goal?",
+      "videoId": "FGRp5FEb1hg",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-03",
+      "category": "Highlights",
+      "team": [
+        "Ukraine"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/FGRp5FEb1hg/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "10-Min Highlights | Cameroon 1-4 Brazil | 2014 FIFA World Cup",
+      "videoId": "aBls45aOzTY",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-03",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Cameroon"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/aBls45aOzTY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Does England's dominant victory mean anything? + Spain still cruising after World Cup 💪 | ESPN FC",
+      "videoId": "-GXRhcQ3RNQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-03",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-GXRhcQ3RNQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Has Thomas Tuchel found his strongest 11 for England? | ESPN FC Extra Time",
+      "videoId": "yZkDDH3WlR8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-03",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/yZkDDH3WlR8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Spain vs. Czechia Reaction 👀 Burley says the World Cup champs didn’t leave 1st gear | ESPN FC",
+      "videoId": "ee87n9B_Ar8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-03",
+      "category": "Viral",
+      "team": [
+        "Spain",
+        "Czechia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ee87n9B_Ar8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Craig Burley says he wants to see big performances from England ‘when it really matters’ | ESPN FC",
+      "videoId": "HdUQ4FK33yM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-03",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/HdUQ4FK33yM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Can Real Madrid close the gap with Barcelona in LALIGA? 🤔 + Kylian Mbappe's injury | ESPN FC",
+      "videoId": "znxyZ4h0E2Y",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-03",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/znxyZ4h0E2Y/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Ronaldo deserves a tribute like Messi 🗣️",
+      "videoId": "Qoel7IzJJ4I",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-03",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Qoel7IzJJ4I/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "60-Second Highlights: When Australia Advanced For The First Time Ever! 2006 World Cup",
+      "videoId": "U93mJ9x59gY",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-02",
+      "category": "Highlights",
+      "team": [
+        "Australia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/U93mJ9x59gY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "When Harry Kane Equalled Wayne Rooney!",
+      "videoId": "PjCXpu28at8",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-02",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/PjCXpu28at8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    }
+  ]
 }
