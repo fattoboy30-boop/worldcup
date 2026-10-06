@@ -1,11 +1,41 @@
 {
-  "lastUpdated": "2026-10-06T00:40:34.878Z",
+  "lastUpdated": "2026-10-06T07:20:38.824Z",
   "featured": {
-    "match": "_zHu2IvvAwE",
-    "highlight": "_zHu2IvvAwE",
+    "match": "xZtr3f8GzpI",
+    "highlight": "xZtr3f8GzpI",
     "interview": "UdBJgaoXG6o"
   },
   "videos": [
+    {
+      "title": "Gakpo v Weghorst: Best Netherlands Header? 2022 World Cup",
+      "videoId": "xZtr3f8GzpI",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-06",
+      "category": "Highlights",
+      "team": [
+        "Netherlands"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xZtr3f8GzpI/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "1986 World Cup Goals Compilation | BEST HEADERS",
+      "videoId": "8eHyYKFRh6k",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-06",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/8eHyYKFRh6k/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "HIGHLIGHTS | Indonesia vs Thailand | FIFA ASEAN Cup 2026™",
       "videoId": "_zHu2IvvAwE",
@@ -424,34 +454,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/dTPUyffzIM8/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Hong Kong, China 🆚 Cambodia #FIFAASEANCup",
-      "videoId": "bszw5zMGv6o",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-03",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/bszw5zMGv6o/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "HIGHLIGHTS | Hong Kong, China vs Cambodia | FIFA ASEAN Cup 2026™",
-      "videoId": "5XWJokNAlIw",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-03",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/5XWJokNAlIw/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
