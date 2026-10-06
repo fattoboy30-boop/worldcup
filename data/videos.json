@@ -1,11 +1,75 @@
 {
-  "lastUpdated": "2026-10-06T14:53:30.257Z",
+  "lastUpdated": "2026-10-06T20:04:30.462Z",
   "featured": {
-    "match": "9dX1HXGiTPM",
-    "highlight": "9dX1HXGiTPM",
-    "interview": "UdBJgaoXG6o"
+    "match": "K-Ldz_7ddhw",
+    "highlight": "i4BSWosv6CU",
+    "interview": "lHEVBIT2Vp4"
   },
   "videos": [
+    {
+      "title": "Switzerland Survive Costa Rica Chaos | 2018 World Cup 60-Second Highlights",
+      "videoId": "i4BSWosv6CU",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-06",
+      "category": "Highlights",
+      "team": [
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/i4BSWosv6CU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Lionel Messi's FIFA World Cup Journey",
+      "videoId": "iZBOhOLawaY",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-06",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/iZBOhOLawaY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "FULL MATCH | England v USA | Semi-Finals | FIFA Women's World Cup France 2019™",
+      "videoId": "K-Ldz_7ddhw",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-06",
+      "category": "Full Match",
+      "team": [
+        "France",
+        "England",
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/K-Ldz_7ddhw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Best Brazil header? Vini Jr or Casemiro | 2026 World Cup",
+      "videoId": "ztJ7JPPQOnw",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-06",
+      "category": "Highlights",
+      "team": [
+        "Brazil"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ztJ7JPPQOnw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Best Volley From FIFA World Cup 2014? It Has To Be James!",
       "videoId": "9dX1HXGiTPM",
@@ -76,6 +140,34 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/8eHyYKFRh6k/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Hansi Flick man marking in training ⚔️ (via @fcbarcelona/TT)",
+      "videoId": "lHEVBIT2Vp4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-06",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/lHEVBIT2Vp4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "To cap off Messi’s career (via emi_martinez26/IG)",
+      "videoId": "mKBp8_419_4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-06",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/mKBp8_419_4/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -199,20 +291,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "1994 Nostalgia: Volleys & Half Volleys To Savour",
-      "videoId": "WiBKgOpdvkE",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-05",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/WiBKgOpdvkE/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "France vs. Belgium FULL REACTION + Latest on Ronaldo and Portugal | ESPN FC",
       "videoId": "UdBJgaoXG6o",
       "channel": "ESPN FC",
@@ -320,53 +398,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Denilson Outruns A Five-Man Turkey Chase Epic Run",
-      "videoId": "3jHAQD1PVYE",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-04",
-      "category": "Highlights",
-      "team": [
-        "Turkey"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/3jHAQD1PVYE/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "60-Second Semi-Final | England v Portugal | 1966 World Cup",
-      "videoId": "BVV_8mdNh10",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-04",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/BVV_8mdNh10/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Every Goal From Outside The Box | 2002 World Cup",
-      "videoId": "6IojQsXHsB0",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-04",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/6IojQsXHsB0/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "Breaking down USMNT vs. Mexico & the latest on Cristiano Ronaldo leaving Portugal | ESPN FC",
       "videoId": "T0bdIXxdwC0",
       "channel": "ESPN FC",
@@ -424,36 +455,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/-GBf57IYORc/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "‘Pochettino was BRILLIANT!’ 🔥 USMNT vs. Mexico FULL REACTION 🍿 | ESPN FC",
-      "videoId": "YVhqVX44mRw",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-04",
-      "category": "Viral",
-      "team": [
-        "Mexico"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/YVhqVX44mRw/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Gotham FC vs. Angel City FC | NWSL Highlights | ESPN FC",
-      "videoId": "VopMA49e2KA",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-04",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/VopMA49e2KA/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
