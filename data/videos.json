@@ -1,9 +1,467 @@
 {
-  "lastUpdated": "2026-10-07T06:59:29.445Z",
+  "lastUpdated": "2026-10-07T14:25:41.466Z",
   "featured": {
-    "match": "",
-    "highlight": "",
-    "interview": ""
+    "match": "K-Ldz_7ddhw",
+    "highlight": "GiMboWfodBo",
+    "interview": "h9NHlu78voQ"
   },
-  "videos": []
+  "videos": [
+    {
+      "title": "Edin 'Diamond' Dzeko Helps Bosnia And Herzegovina To First Win | 2014 World Cup",
+      "videoId": "GiMboWfodBo",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-07",
+      "category": "Highlights",
+      "team": [
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/GiMboWfodBo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Every Volley And Half-Volley From FIFA World Cup 1998!",
+      "videoId": "DKF1CyDHaOw",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-07",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/DKF1CyDHaOw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Three Headers At One Tournament For Sweden's Dahlin | 1994 World Cup",
+      "videoId": "4W55V4g5yCw",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-07",
+      "category": "Highlights",
+      "team": [
+        "Sweden"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4W55V4g5yCw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Larin Rescues Point For Hosts | Canada v Bosnia and Herzegovina | 2026 World Cup",
+      "videoId": "Jb5DIrcG3no",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-07",
+      "category": "Highlights",
+      "team": [
+        "Canada",
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Jb5DIrcG3no/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Cristiano Ronaldo CORE",
+      "videoId": "nUvuU26RDa4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-07",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/nUvuU26RDa4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Lionel Messi and his family leaving following his final game for Argentina",
+      "videoId": "EL8NFMvACkI",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-07",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/EL8NFMvACkI/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Honduras Hero Carlo Costly Scores Historic Goal | 2014 World Cup",
+      "videoId": "tY9h0Tk0blw",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-06",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tY9h0Tk0blw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Switzerland Survive Costa Rica Chaos | 2018 World Cup 60-Second Highlights",
+      "videoId": "i4BSWosv6CU",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-06",
+      "category": "Highlights",
+      "team": [
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/i4BSWosv6CU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Lionel Messi's FIFA World Cup Journey",
+      "videoId": "iZBOhOLawaY",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-06",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/iZBOhOLawaY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "FULL MATCH | England v USA | Semi-Finals | FIFA Women's World Cup France 2019™",
+      "videoId": "K-Ldz_7ddhw",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-06",
+      "category": "Full Match",
+      "team": [
+        "France",
+        "England",
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/K-Ldz_7ddhw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Best Brazil header? Vini Jr or Casemiro | 2026 World Cup",
+      "videoId": "ztJ7JPPQOnw",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-06",
+      "category": "Highlights",
+      "team": [
+        "Brazil"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ztJ7JPPQOnw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Best Volley From FIFA World Cup 2014? It Has To Be James!",
+      "videoId": "9dX1HXGiTPM",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-06",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/9dX1HXGiTPM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Indonesia 🆚 Thailand #FIFAASEANCup",
+      "videoId": "bC-YW5XZ1Zg",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-06",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/bC-YW5XZ1Zg/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "60-Second Highlights | Korea Republic v Czechia | 2026 FIFA World Cup",
+      "videoId": "yAQ0ZNaSrUw",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-06",
+      "category": "Highlights",
+      "team": [
+        "Czechia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/yAQ0ZNaSrUw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Gakpo v Weghorst: Best Netherlands Header? 2022 World Cup",
+      "videoId": "xZtr3f8GzpI",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-06",
+      "category": "Highlights",
+      "team": [
+        "Netherlands"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xZtr3f8GzpI/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "1986 World Cup Goals Compilation | BEST HEADERS",
+      "videoId": "8eHyYKFRh6k",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-06",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/8eHyYKFRh6k/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Ronaldo releases statement after leaving Portugal camp + Messi’s finale with Argentina | ESPN FC",
+      "videoId": "2BYO5suBn-A",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-06",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/2BYO5suBn-A/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Would Ronaldo's 'benching' reaction have been different with Sir Alex Ferguson? | ESPN FC Extra Time",
+      "videoId": "h9NHlu78voQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-06",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/h9NHlu78voQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Robbo says England looks like a ‘GOOD SIDE’ after win vs. Czechia | ESPN FC",
+      "videoId": "1FacIySHWvU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-06",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Czechia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/1FacIySHWvU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "He gave Messi a rosary and thanked him on behalf of millions of Argentines 🩵🇦🇷 (via @jpregio/IG)",
+      "videoId": "6Vbj76WP5Cs",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-06",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6Vbj76WP5Cs/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Emi Martinez got Messi’s logo design for Leo’s farewell match 🥺🇦🇷 (via @dany_ale_32/IG)",
+      "videoId": "iHIvt5OnlFk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-06",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/iHIvt5OnlFk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Extended international break review + Lionel Messi to play in final match for Argentina 🥹 | ESPN FC",
+      "videoId": "AiGuLkTZubQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-06",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/AiGuLkTZubQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Spain didn’t deserve to win, but they did anyway! – Steve Nicol | ESPN FC",
+      "videoId": "jUTw373vLNo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-06",
+      "category": "Highlights",
+      "team": [
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jUTw373vLNo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Cristiano Ronaldo says Jorge Jesus broke his word 👀 REACTION to his statement | ESPN FC",
+      "videoId": "gd-xcxXCQO8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-06",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/gd-xcxXCQO8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Hansi Flick man marking in training ⚔️ (via @fcbarcelona/TT)",
+      "videoId": "lHEVBIT2Vp4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-06",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/lHEVBIT2Vp4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "To cap off Messi’s career (via emi_martinez26/IG)",
+      "videoId": "mKBp8_419_4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-06",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/mKBp8_419_4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "This is too good from Spain 😂 (via sefutbol/TT)",
+      "videoId": "SN6Gb5d2RXA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-06",
+      "category": "Highlights",
+      "team": [
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/SN6Gb5d2RXA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Antonio Conte to Manchester United? 🤔",
+      "videoId": "0p1vxNHLwkw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-06",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0p1vxNHLwkw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "HIGHLIGHTS | Indonesia vs Thailand | FIFA ASEAN Cup 2026™",
+      "videoId": "_zHu2IvvAwE",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-05",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_zHu2IvvAwE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "France vs. Belgium FULL REACTION + Latest on Ronaldo and Portugal | ESPN FC",
+      "videoId": "UdBJgaoXG6o",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-05",
+      "category": "Viral",
+      "team": [
+        "France",
+        "Portugal",
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/UdBJgaoXG6o/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    }
+  ]
 }
