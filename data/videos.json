@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-10-08T21:09:24.043Z",
+  "lastUpdated": "2026-10-09T01:50:00.648Z",
   "featured": {
     "match": "GBgRVQSiBDk",
-    "highlight": "ODe8fi6XyjU",
+    "highlight": "xuYlJvQftN8",
     "interview": "5b7dI0FRmFQ"
   },
   "videos": [
+    {
+      "title": "Non-Stop Goals! ALL HEADERS | 1998 World Cup",
+      "videoId": "xuYlJvQftN8",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-08",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xuYlJvQftN8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "A vintage Paul Scholes SCREAMER from 1998!",
       "videoId": "ODe8fi6XyjU",
@@ -109,6 +123,80 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/htK2SK6HdP0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "CLUB ACTION RETURNS! Issues Real Madrid need to address? + Managers on the hot seat 👀 | ESPN FC",
+      "videoId": "5M8sd7CLn_0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-08",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/5M8sd7CLn_0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Is Lionel Messi retiring from the Argentina national team too early? ⏳ | ESPN FC Extra Time",
+      "videoId": "mmlJaHhMu7o",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-08",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/mmlJaHhMu7o/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "‘They don’t have any rules in the dressing room’ - Steve Nicol on issues at Real Madrid | ESPN FC",
+      "videoId": "PhAllJbV9xk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-08",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/PhAllJbV9xk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "YOU CAN'T DO THAT! 🗣️ Ale Moreno's warning to Cristiano Ronaldo amid Portugal ultimatum | ESPN FC",
+      "videoId": "2A9KqkUZjpY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-08",
+      "category": "Highlights",
+      "team": [
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/2A9KqkUZjpY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Ale Moreno: ‘It’s a must not lose’ game for Carrick & De Zerbi in Man United-Spurs matchup | ESPN FC",
+      "videoId": "6hkeYQSc92Y",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-08",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6hkeYQSc92Y/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -368,98 +456,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/nUvuU26RDa4/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Lionel Messi and his family leaving following his final game for Argentina",
-      "videoId": "EL8NFMvACkI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-07",
-      "category": "Highlights",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/EL8NFMvACkI/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Honduras Hero Carlo Costly Scores Historic Goal | 2014 World Cup",
-      "videoId": "tY9h0Tk0blw",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-06",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/tY9h0Tk0blw/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Ronaldo releases statement after leaving Portugal camp + Messi’s finale with Argentina | ESPN FC",
-      "videoId": "2BYO5suBn-A",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-06",
-      "category": "Highlights",
-      "team": [
-        "Argentina",
-        "Portugal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/2BYO5suBn-A/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Would Ronaldo's 'benching' reaction have been different with Sir Alex Ferguson? | ESPN FC Extra Time",
-      "videoId": "h9NHlu78voQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-06",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/h9NHlu78voQ/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Robbo says England looks like a ‘GOOD SIDE’ after win vs. Czechia | ESPN FC",
-      "videoId": "1FacIySHWvU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-06",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Czechia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/1FacIySHWvU/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "He gave Messi a rosary and thanked him on behalf of millions of Argentines 🩵🇦🇷 (via @jpregio/IG)",
-      "videoId": "6Vbj76WP5Cs",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-06",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/6Vbj76WP5Cs/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
