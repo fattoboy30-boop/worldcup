@@ -1,11 +1,28 @@
 {
-  "lastUpdated": "2026-10-16T20:41:52.549Z",
+  "lastUpdated": "2026-10-16T23:19:46.931Z",
   "featured": {
     "match": "zPwCiRYRtNo",
-    "highlight": "OM2iXShnzVo",
-    "interview": "vGMwH8pEbUw"
+    "highlight": "5HpCoOKwVZ4",
+    "interview": "GHzwSwE996Q"
   },
   "videos": [
+    {
+      "title": "Extended Highlights | Unstoppable USA Power Past Paraguay | 2026 World Cup",
+      "videoId": "5HpCoOKwVZ4",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-16",
+      "category": "Highlights",
+      "team": [
+        "USA",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/5HpCoOKwVZ4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Best Rabona: Di Maria or Rojo?",
       "videoId": "OM2iXShnzVo",
@@ -89,6 +106,76 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/M8pp3OMem7Q/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "How would you react to Mourinho's post-match comments? | ESPN FC Extra Time",
+      "videoId": "zCiykWBdLlc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-16",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/zCiykWBdLlc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "REACTION to FIFA changing the rules that led to Florian Balogun’s red card reversal | ESPN FC",
+      "videoId": "GHzwSwE996Q",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-16",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/GHzwSwE996Q/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Michael Carrick denies any problems at Man United after Lisandro Martinez's comments | ESPN FC",
+      "videoId": "smcxch46FCA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-16",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/smcxch46FCA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "🚨 Raphinha set to return from hamstring injury 🚨 + Managing Lamine Yamal's minutes | ESPN FC",
+      "videoId": "1v0g75kZ7DM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-16",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/1v0g75kZ7DM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Real Madrid vs. Sevilla preview 🍿 Who will Jose Mourinho start in Vini Jr.’s absence? | ESPN FC",
+      "videoId": "M6XFhRz1O9g",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-16",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/M6XFhRz1O9g/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -316,7 +403,7 @@
       "fixtureTeams": null
     },
     {
-      "title": "Rapid fire questions with La Masia’s Hugo Galdeano 🌟",
+      "title": "Rapid fire questions with La Masia���s Hugo Galdeano 🌟",
       "videoId": "65dXMDUfuAc",
       "channel": "ESPN FC",
       "publishedAt": "2026-10-15",
@@ -344,34 +431,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Toronto FC vs. Orlando City SC | MLS Highlights | ESPN FC",
-      "videoId": "R0-AAHFtkC0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-15",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/R0-AAHFtkC0/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Inter Miami vs. NYCFC | MLS Highlights | ESPN FC",
-      "videoId": "GoDS5z5rrNQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-15",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/GoDS5z5rrNQ/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "Where It All Began... | Mexico v South Africa | 2026 World Cup EXTENDED HIGHLIGHTS",
       "videoId": "M4j14JSxXEc",
       "channel": "FIFA",
@@ -384,62 +443,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/M4j14JSxXEc/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Vinícius Jr doing Vinícius Jr things 🪄 🇧🇷",
-      "videoId": "SgTMfVmwDy8",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-14",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/SgTMfVmwDy8/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Reaction to Vinicius Junior's ban, Real Madrid's comeback win & PSG's quest for a 3-peat | ESPN FC",
-      "videoId": "GdqC9lGPX98",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-14",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/GdqC9lGPX98/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Craig Burley reacts to Vinicius Junior's 4-game ban",
-      "videoId": "8-JGCMElAgU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-14",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/8-JGCMElAgU/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "What's stopping José Mourinho from fielding a competitive 11 for Madrid? | ESPN FC Extra Time",
-      "videoId": "kFSLtOtD3M4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-14",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/kFSLtOtD3M4/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
