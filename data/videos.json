@@ -1,11 +1,75 @@
 {
-  "lastUpdated": "2026-10-19T19:08:24.112Z",
+  "lastUpdated": "2026-10-19T23:26:51.502Z",
   "featured": {
     "match": "gOgm7KgKQaY",
-    "highlight": "EuxHfatmFVE",
-    "interview": "x4slD8a-CcU"
+    "highlight": "_gzn9x06stA",
+    "interview": "s-WXoWxAEnk"
   },
   "videos": [
+    {
+      "title": "USA vs Samoa Highlights | FIFA U-17 Women's World Cup 2026™",
+      "videoId": "_gzn9x06stA",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-19",
+      "category": "Highlights",
+      "team": [
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_gzn9x06stA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Australia vs Chile Highlights | FIFA U-17 Women's World Cup 2026™",
+      "videoId": "QdvV64oUSzk",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-19",
+      "category": "Highlights",
+      "team": [
+        "Australia",
+        "Chile"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QdvV64oUSzk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "What A Way To Score Your First International Goal",
+      "videoId": "jM5dxBUvwV4",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-19",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jM5dxBUvwV4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Spain vs Mexico Highlights | FIFA U-17 Women's World Cup 2026™",
+      "videoId": "1n0k5c6YvLw",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-19",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/1n0k5c6YvLw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Kenya vs China PR Highlights | FIFA U-17 Women's World Cup 2026™",
       "videoId": "EuxHfatmFVE",
@@ -21,7 +85,7 @@
       "fixtureTeams": null
     },
     {
-      "title": "Mokoena Saves Bafana Bafana | Czechia v South Africa | 2026 World Cup EXTENDED HIGHLIGHTS",
+      "title": "Late Drama For Bafana Bafana! | Czechia v South Africa | 2026 FIFA World Cup EXTENDED HIGHLIGHTS",
       "videoId": "T1tNr1D8URw",
       "channel": "FIFA",
       "publishedAt": "2026-10-19",
@@ -133,6 +197,76 @@
       "fixtureTeams": null
     },
     {
+      "title": "How much does Trent Alexander-Arnold regret leaving Liverpool? | ESPN FC Extra Time",
+      "videoId": "PYwwpnn6Yac",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-19",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/PYwwpnn6Yac/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Most entertaining player since Ronaldinho? 👀 Derek Rae on Lamine Yamal’s stellar season ⭐️ | ESPN FC",
+      "videoId": "Ww714MDRVHM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-19",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Ww714MDRVHM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Steve Nicol says the recruiters at Man United are ‘MAKING A MESS’ | ESPN FC",
+      "videoId": "XVPnkYMsPSU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-19",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/XVPnkYMsPSU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Spurs get their FIRST WIN of the season 🔥 Tottenham vs. Coventry City REACTION | ESPN FC",
+      "videoId": "s-WXoWxAEnk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-19",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/s-WXoWxAEnk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Yannick Bolasie casually having lunch with Neymar and Coutinho (via YannickBolasie/X)",
+      "videoId": "UAGUGUdqJZs",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-19",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/UAGUGUdqJZs/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
       "title": "Norway vs Ghana Highlights | FIFA U-17 Women's World Cup 2026™",
       "videoId": "35Z0E1maQic",
       "channel": "FIFA",
@@ -175,72 +309,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/Z_myRgBWl8A/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Canada vs Brazil Highlights | FIFA U-17 Women's World Cup 2026™",
-      "videoId": "RfoXDPocteo",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-18",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Canada"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/RfoXDPocteo/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Japan vs Zambia Highlights | FIFA U-17 Women's World Cup 2026™",
-      "videoId": "tLDwWhGIj1Q",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-18",
-      "category": "Highlights",
-      "team": [
-        "Japan"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/tLDwWhGIj1Q/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Host Hero Larin Steps Up For Canada v Bosnia And Herzegovina | 2026 World Cup EXTENDED HIGHLIGHTS",
-      "videoId": "d0mwXH7LkYQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-18",
-      "category": "Highlights",
-      "team": [
-        "Canada",
-        "Bosnia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/d0mwXH7LkYQ/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "First-Ever World Cup Goal For Bosnia And Herzegovina!",
-      "videoId": "TUhm9hpP9Ec",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-18",
-      "category": "Highlights",
-      "team": [
-        "Bosnia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/TUhm9hpP9Ec/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -381,76 +449,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/VlxlibexSa4/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "A closer look at this moment between Arda Guler and Peque Fernández.",
-      "videoId": "9SIsnOWKXik",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-18",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/9SIsnOWKXik/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "The footwork from Mbappe 😮‍💨",
-      "videoId": "ve7oVxDzcSI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-18",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ve7oVxDzcSI/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "ABSOLUTE GOLAZO!",
-      "videoId": "XFagZuZpcvc",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-18",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/XFagZuZpcvc/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "WHAT A GOAL 🤯 Kylian Mbappe dazzles to extend Real Madrid’s lead | ESPN FC",
-      "videoId": "N1Z_hJpInqk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-18",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/N1Z_hJpInqk/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Malaga vs. Real Sociedad | LALIGA Highlights | ESPN FC",
-      "videoId": "ZWJo0GQfhx8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-18",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ZWJo0GQfhx8/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
