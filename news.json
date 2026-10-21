@@ -1,7 +1,70 @@
 {
-  "lastUpdated": "2026-10-20T22:58:32.564Z",
-  "totalArticles": 38040,
+  "lastUpdated": "2026-10-21T03:42:25.755Z",
+  "totalArticles": 38051,
   "articles": [
+    {
+      "title": "'Appalling' batting and 'wickets in clumps' leave England with ODI setback",
+      "source": "Sky Sports",
+      "date": "2026-10-21",
+      "url": "https://www.skysports.com/cricket/news/12040/13601367/england-captain-harry-brook-laments-wickets-in-clumps-in-odi-batting-collapse-as-arafat-minhas-stars-for-pakistan",
+      "category": "general",
+      "thumbnail": "https://e2.365dm.com/26/10/1920x1080/skysports-gus-atkinson-sonny-baker_7382035.jpg?20261020183532",
+      "description": "England captain Harry Brook admits his side were 'too careful' against Pakistan&#8217;s spinners after collapsing to a disappointing 87-run defeat in their ODI tri-series opener."
+    },
+    {
+      "title": "FIA expect Qatar and Abu Dhabi GPs to go ahead",
+      "source": "Sky Sports",
+      "date": "2026-10-21",
+      "url": "https://www.skysports.com/f1/live-blog/12040/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
+      "category": "general",
+      "thumbnail": "https://e0.365dm.com/26/09/1920x1080/skysports-abu-dhabi-gp-yas-marina-circuit_7360552.jpg?20260924182855",
+      "description": ""
+    },
+    {
+      "title": "Papers: Man Utd target two left-backs as Martinez faces axe in planned overhaul",
+      "source": "Sky Sports",
+      "date": "2026-10-21",
+      "url": "https://www.skysports.com/football/news/12040/13601643/man-utd-eye-moves-for-lewis-hall-and-adrien-truffert-while-lisandro-martinez-faces-axe-in-summer-defensive-overhaul-paper-talk",
+      "category": "transfers",
+      "thumbnail": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "description": "The top stories and transfer rumours from Wednesday's newspapers..."
+    },
+    {
+      "title": "England crumble to defeat versus Pakistan in ODI tri-series opener",
+      "source": "Sky Sports",
+      "date": "2026-10-21",
+      "url": "https://www.skysports.com/cricket/news/12040/13601229/england-slump-to-defeat-against-pakistan-in-odi-tri-series-after-faltering-chasing-303-in-rawalpindi",
+      "category": "general",
+      "thumbnail": "https://e1.365dm.com/26/10/1920x1080/skysports-joe-root-england-mens-odi-cricket_7381869.jpg?20261020160349",
+      "description": "England crumbled to an 87-run defeat in their ODI tri-series opener against Pakistan in Rawalpindi as the batting severely malfunctioned after an excellent start."
+    },
+    {
+      "title": "Stembridge appointed new England netball head coach",
+      "source": "Sky Sports",
+      "date": "2026-10-21",
+      "url": "https://www.skysports.com/netball/news/12040/13601402/england-netball-anna-stembridge-named-new-vitality-roses-head-coach",
+      "category": "general",
+      "thumbnail": "https://e0.365dm.com/22/06/1920x1080/skysports-team-bath-netball_5793892.jpg?20261020160048",
+      "description": "Anna Stembridge has been appointed the new head coach of England through to the 2027 Netball World Cup in Sydney."
+    },
+    {
+      "title": "Lamar Hunt’s Living Legacy: Clark, Dan Discuss Father’s Indelible Impact on American Soccer",
+      "source": " url=\"https://www.ussoccer.com\">US Soccer",
+      "date": "2026-10-21",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZVdabUVra2o1dmdMYnBxVDNIeFpUWUZUUUt1cGJTekIyUFBaQzlYVHdlazV0RGU5dzZ0cUx4S1Y3TE9pTjV2WjNlLVpBcFlBZjY5cE5ua01OZEU2bUN5UGZOYWtWOHdzb1ZHek5vM3UtNGQ0YmtWWHVtMzRCOGhYTkVUclZrRllOZ19udkUzVUdwbFFEMlBYTjBEUmw5OC1ReU1oaTRTVzAySEw2ODY5QUFhLWJsQjZaaHdWY21xOFZNaHI3UTVUbQ?oc=5",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZVdabUVra2o1dmdMYnBxVDNIeFpUWUZUUUt1cGJTekIyUFBaQzlYVHdlazV0RGU5dzZ0cUx4S1Y3TE9pTjV2WjNlLVpBcFlBZjY5cE5ua01OZEU2bUN5UGZOYWtWOHdzb1ZHek5vM3UtNGQ0YmtWWHVtMzRCOGhYTkVUclZrRllOZ19udkUzVUdwbFFEMlBYTjBEUmw5OC1ReU1oaTRTVzAySEw2ODY5QUFhLWJsQjZaaH"
+    },
+    {
+      "title": "Spain increases lead over US atop FIFA World Rankings",
+      "source": " url=\"https://fieldlevelmedia.com\">Field Level Media",
+      "date": "2026-10-21",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeV93TmE5Sm9udnBoa2ZHWXhZaFZILUtIVW5xZUhkalN3eTdPU2g0M2VZb09HOExCWUVmbUV0d1RCMEFnMzhNeUtvOFdkNzdMWHNRWGtPUjM3U0tPREpuQUlrMGl5WWtqNEFldVo2dUlBU09nUHVIRWlpWWs4Q0hkTlBSVnJ1VUVmRFktRWtmeHU?oc=5",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNeV93TmE5Sm9udnBoa2ZHWXhZaFZILUtIVW5xZUhkalN3eTdPU2g0M2VZb09HOExCWUVmbUV0d1RCMEFnMzhNeUtvOFdkNzdMWHNRWGtPUjM3U0tPREpuQUlrMGl5WWtqNEFldVo2dUlBU09nUHVIRWlpWWs4Q0hkTlBSVnJ1VUVmRFktRWtmeHU?oc=5\" target=\"_blank\">Spain increases lead over US ato"
+    },
     {
       "title": "Ronaldo let Manchester United down - Ten Hag",
       "source": "BBC Sport",
@@ -66,22 +129,13 @@
       "description": "<p>Andoni Iraola and Iñigo Pérez parked a long and close friendship in the buildup to their first competitive confrontation as coaches. The old Athletic Bilbao teammates will have a humdinger of a Champions League contest to dissect once communications are restored. Liverpool, ignited by Rio Ngumoha"
     },
     {
-      "title": "Foden hat-trick helps Manchester City cut through noise and crush AEK Athens",
+      "title": "Football regulator has ‘absolute power’ to force Manchester City sale if verdict upheld",
       "source": "The Guardian",
       "date": "2026-10-20",
-      "url": "https://www.theguardian.com/football/2026/oct/20/manchester-city-aek-athens-champions-league-match-report",
+      "url": "https://www.theguardian.com/football/2026/oct/21/manchester-city-david-kogan-independent-football-regulator",
       "category": "venues",
       "thumbnail": "",
-      "description": "<p>Phil Foden shouted the loudest on a quiet night at the Etihad Stadium, announcing his personal return to form with an instinctive hat-trick as Manchester City dispatched AEK Athens with little fuss. Enzo Maresca had called for City to make their own noise amid the cacophony around the club but a "
-    },
-    {
-      "title": "Champions League roundup: McTominay double leads Napoli past Bodø/Glimt",
-      "source": "The Guardian",
-      "date": "2026-10-20",
-      "url": "https://www.theguardian.com/football/2026/oct/20/champions-league-roundup-mctominay-scores-twice-on-return-from-heart-surgery",
-      "category": "results",
-      "thumbnail": "",
-      "description": "<ul><li><p>Midfielder scores for first time since heart surgery</p></li><li><p>Ten-man Atlético hang on for draw against Stuttgart</p></li></ul><p>Scott McTominay scored his first two goals of the season to help <strong>Napoli</strong> beat <strong>Bodø/Glimt</strong> 4-3 and relieve pressure on the"
+      "description": "<ul><li><p>IFR chair David Kogan insists regulator has power to act</p></li><li><p>City have appealed against Premier League’s charges</p></li></ul><p>The Independent Football Regulator (IFR) will have “absolute power” to force Manchester City’s owners to sell if they are ultimately found to have ru"
     },
     {
       "title": "Carrick insists Manchester United board back him after Ten Hag points to ‘toxic culture’",
@@ -93,6 +147,15 @@
       "description": "<ul><li><p>Manager acknowledges he needs to start winning games</p></li><li><p>Ten Hag accuses Cristiano Ronaldo of letting club down</p></li></ul><p>Michael Carrick believes Manchester United’s board continue to back him, although the manager admits he must start winning matches to keep his job. Ca"
     },
     {
+      "title": "Champions League roundup: McTominay double leads Napoli past Bodø/Glimt",
+      "source": "The Guardian",
+      "date": "2026-10-20",
+      "url": "https://www.theguardian.com/football/2026/oct/20/champions-league-roundup-mctominay-scores-twice-on-return-from-heart-surgery",
+      "category": "results",
+      "thumbnail": "",
+      "description": "<ul><li><p>Midfielder scores for first time since heart surgery</p></li><li><p>Ten-man Atlético hang on for draw against Stuttgart</p></li></ul><p>Scott McTominay scored his first two goals of the season to help <strong>Napoli</strong> beat <strong>Bodø/Glimt</strong> 4-3 and relieve pressure on the"
+    },
+    {
       "title": "Arsenal’s David Raya hits back at ‘boring’ label as Arteta defends side’s style of play",
       "source": "The Guardian",
       "date": "2026-10-20",
@@ -100,6 +163,15 @@
       "category": "results",
       "thumbnail": "",
       "description": "<ul><li><p>Goalkeeper brushes off criticism before Bayern clash</p></li><li><p>Kompany could miss game with virus affecting his legs</p></li></ul><p>David Raya says he does not care if rival supporters call Arsenal “boring” as his manager, Mikel Arteta, insisted that critics of the team’s style were"
+    },
+    {
+      "title": "Football Daily | Kulusevski and Maddison return to form but are Tottenham also back?",
+      "source": "The Guardian",
+      "date": "2026-10-20",
+      "url": "https://www.theguardian.com/football/2026/oct/20/tottenham-hotspur-win-football-daily-newsletter",
+      "category": "transfers",
+      "thumbnail": "",
+      "description": "<p>As Tottenham <a href=\"https://www.theguardian.com/football/2026/oct/19/tottenham-coventry-premier-league-match-report\">edged to victory over Coventry</a>, a familiar face among the post-match salutations. Could that be Dejan Kulusevski? For it was he, playing 526 days since his last Spurs appeara"
     },
     {
       "title": "How Brazil’s election result could shape women’s football in the country",
@@ -120,15 +192,6 @@
       "description": "<ul><li><p>Peta calls on club to never again use a live animal mascot</p></li><li><p>‘There’s no reason to drag a wild animal into a stadium’</p></li></ul><p>A leading animal rights group has urged Crystal Palace to retire their American bald eagle mascot because, it says, the matchday experience ca"
     },
     {
-      "title": "Football Daily | Kulusevski and Maddison return to form but are Tottenham also back?",
-      "source": "The Guardian",
-      "date": "2026-10-20",
-      "url": "https://www.theguardian.com/football/2026/oct/20/tottenham-hotspur-win-football-daily-newsletter",
-      "category": "transfers",
-      "thumbnail": "",
-      "description": "<p>As Tottenham <a href=\"https://www.theguardian.com/football/2026/oct/19/tottenham-coventry-premier-league-match-report\">edged to victory over Coventry</a>, a familiar face among the post-match salutations. Could that be Dejan Kulusevski? For it was he, playing 526 days since his last Spurs appeara"
-    },
-    {
       "title": "David Squires on … Manchester City sailing into unknown Premier League waters",
       "source": "The Guardian",
       "date": "2026-10-20",
@@ -145,6 +208,15 @@
       "category": "general",
       "thumbnail": "",
       "description": "<p>Ghana may soon come calling for Trinidad and Tobago’s former captain and manager, who is proud of his CV since his days as a Premier League striker</p><p>Dwight Yorke wants you to stop calling him a former player. “I’m not a kid trying to get into management for the first time,” he says from his "
+    },
+    {
+      "title": "Foden hat-trick helps Manchester City cut through noise and crush AEK Athens",
+      "source": "The Guardian",
+      "date": "2026-10-20",
+      "url": "https://www.theguardian.com/football/2026/oct/20/manchester-city-aek-athens-champions-league-match-report",
+      "category": "venues",
+      "thumbnail": "",
+      "description": "<p>Phil Foden shouted the loudest on a quiet night at the Etihad Stadium, announcing his personal return to form with an instinctive hat-trick as Manchester City dispatched AEK Athens with little fuss. Enzo Maresca had called for City to make their own noise amid the cacophony around the club but a "
     },
     {
       "title": "US under-17 women beat Samoa 17-0 for biggest win in World Cup history",
@@ -172,51 +244,6 @@
       "category": "transfers",
       "thumbnail": "",
       "description": "<p><a href=\"https://bsky.app/profile/fayecarruthers.bsky.social\">Faye Carruthers</a> is joined by <a href=\"https://bsky.app/profile/suzywrack.bsky.social\">Suzanne Wrack</a>, <a href=\"https://www.theguardian.com/profile/sophie-downey\">Sophie Downey</a> and <a href=\"https://www.theguardian.com/profile"
-    },
-    {
-      "title": "'Appalling' batting and 'wickets in clumps' leave England with ODI setback",
-      "source": "Sky Sports",
-      "date": "2026-10-20",
-      "url": "https://www.skysports.com/cricket/news/12040/13601367/england-captain-harry-brook-laments-wickets-in-clumps-in-odi-batting-collapse-as-arafat-minhas-stars-for-pakistan",
-      "category": "general",
-      "thumbnail": "https://e2.365dm.com/26/10/1920x1080/skysports-gus-atkinson-sonny-baker_7382035.jpg?20261020183532",
-      "description": "England captain Harry Brook admits his side were 'too careful' against Pakistan&#8217;s spinners after collapsing to a disappointing 87-run defeat in their ODI tri-series opener."
-    },
-    {
-      "title": "FIA expect Qatar and Abu Dhabi GPs to go ahead",
-      "source": "Sky Sports",
-      "date": "2026-10-20",
-      "url": "https://www.skysports.com/f1/live-blog/12040/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
-      "category": "general",
-      "thumbnail": "https://e0.365dm.com/26/09/1920x1080/skysports-abu-dhabi-gp-yas-marina-circuit_7360552.jpg?20260924182855",
-      "description": ""
-    },
-    {
-      "title": "Papers: Man Utd target two left-backs as Martinez faces axe in planned overhaul",
-      "source": "Sky Sports",
-      "date": "2026-10-20",
-      "url": "https://www.skysports.com/football/news/12040/13601643/man-utd-eye-moves-for-lewis-hall-and-adrien-truffert-while-lisandro-martinez-faces-axe-in-summer-defensive-overhaul-paper-talk",
-      "category": "transfers",
-      "thumbnail": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "description": "The top stories and transfer rumours from Wednesday's newspapers..."
-    },
-    {
-      "title": "England crumble to defeat versus Pakistan in ODI tri-series opener",
-      "source": "Sky Sports",
-      "date": "2026-10-20",
-      "url": "https://www.skysports.com/cricket/news/12040/13601229/england-slump-to-defeat-against-pakistan-in-odi-tri-series-after-faltering-chasing-303-in-rawalpindi",
-      "category": "general",
-      "thumbnail": "https://e1.365dm.com/26/10/1920x1080/skysports-joe-root-england-mens-odi-cricket_7381869.jpg?20261020160349",
-      "description": "England crumbled to an 87-run defeat in their ODI tri-series opener against Pakistan in Rawalpindi as the batting severely malfunctioned after an excellent start."
-    },
-    {
-      "title": "Stembridge appointed new England netball head coach",
-      "source": "Sky Sports",
-      "date": "2026-10-20",
-      "url": "https://www.skysports.com/netball/news/12040/13601402/england-netball-anna-stembridge-named-new-vitality-roses-head-coach",
-      "category": "general",
-      "thumbnail": "https://e0.365dm.com/22/06/1920x1080/skysports-team-bath-netball_5793892.jpg?20261020160048",
-      "description": "Anna Stembridge has been appointed the new head coach of England through to the 2027 Netball World Cup in Sydney."
     },
     {
       "title": "How to get FIFA Under-17 World Cup 2026 tickets: Dates, schedule, ticket prices, Qatar venue information and more",
@@ -255,24 +282,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVUFUdzFta2ZMR01UUkRhMnVBX3ZPa2pybFBnakNBeXNsODc1MDhYbHdLeGJKWGJFSTJjVWZIX0ZQcmpfeS1IMHRKS3NaSGlXSXJ3dExCendlbTNYUEZSdEtqUTFSVy1ySzhHOV9YVVZxbWNnWEtLTVJGNXFvX05VTXlXYXNyRk1sVWRQU1BZNGFqX0cxbGlWT25aS2FCa2kyWVItZ0pSWGlSQQ?oc=5\" target=\"_blan"
     },
     {
-      "title": "U.S. U-17 Women’s National Team opens World Cup with 17-0 rout of Samoa",
-      "source": " url=\"https://www.soccerwire.com\">SoccerWire",
-      "date": "2026-10-20",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONG5IOGZhZnZ4ek5YOW40YXBqeDN6eHdTWm9TY2RKN2dzdjY0ZUFUNkUzRGZDV05fV1FubEpCU3BaZWJRZnl5d3RQV3dYM00zMmRGVHNIMl9xLXZhVmFyalFNdnJ4ejlGMGZLdTQ1N3ZLM1NET3NrTTNCdGJ3dWwwekRObldTRzVlbXRkZTdJWmUxNmxwMmJFSk9uaXZoTTh2VFRsUw?oc=5",
-      "category": "squad",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxONG5IOGZhZnZ4ek5YOW40YXBqeDN6eHdTWm9TY2RKN2dzdjY0ZUFUNkUzRGZDV05fV1FubEpCU3BaZWJRZnl5d3RQV3dYM00zMmRGVHNIMl9xLXZhVmFyalFNdnJ4ejlGMGZLdTQ1N3ZLM1NET3NrTTNCdGJ3dWwwekRObldTRzVlbXRkZTdJWmUxNmxwMmJFSk9uaXZoTTh2VFRsUw?oc=5\" target=\"_blank\">U.S. "
-    },
-    {
-      "title": "USWNT Under-17 sets World Cup record with 17-0 win over Samoa",
-      "source": " url=\"https://www.espn.com\">ESPN",
-      "date": "2026-10-20",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZG43SGpidzMxOUtsVVBHTVhRVURzNE1hdVJyaEJWejJDbDVyTl9HZ3NIQUV5OXdFNzVqSkRHVVByWXRCb2JXVlluWHEzdGcwZnpkYjVySVFBZy1Za3hPcUtnamdISlM0WkVsNnc1NlFFWFFZbXptcld4eFBUXzhZY3FNV1kzR0ZkbnNqTWgtVEI5cS1XaHRkX0h6dV9hVEI4ZEFj?oc=5",
-      "category": "results",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPZG43SGpidzMxOUtsVVBHTVhRVURzNE1hdVJyaEJWejJDbDVyTl9HZ3NIQUV5OXdFNzVqSkRHVVByWXRCb2JXVlluWHEzdGcwZnpkYjVySVFBZy1Za3hPcUtnamdISlM0WkVsNnc1NlFFWFFZbXptcld4eFBUXzhZY3FNV1kzR0ZkbnNqTWgtVEI5cS1XaHRkX0h6dV9hVEI4ZEFj?oc=5\" target=\"_blank\">USWNT U"
-    },
-    {
       "title": "US under-17 women beat Samoa 17-0 for biggest win in World Cup history",
       "source": " url=\"https://www.theguardian.com\">The Guardian",
       "date": "2026-10-20",
@@ -282,8 +291,17 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQRm5XS2lQOWlFaTFqZm12RXR0QnhGOGxtNlQ1YWQ0bVRUcTJvYW4wNmtDVlBCdm5sMF9wUUM4NldyWTBrNmZmeXktUWJTZUxOWmF0bERsNk9Ec0U5UjNudE9BOHpBY0lNbU80VENmXzM2YU10Ung4dmJ1ODBrcmVlTw?oc=5\" target=\"_blank\">US under-17 women beat Samoa 17-0 for biggest win in "
     },
     {
+      "title": "U.S. U-17 Women’s National Team opens World Cup with 17-0 rout of Samoa",
+      "source": " url=\"https://www.soccerwire.com\">SoccerWire",
+      "date": "2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONG5IOGZhZnZ4ek5YOW40YXBqeDN6eHdTWm9TY2RKN2dzdjY0ZUFUNkUzRGZDV05fV1FubEpCU3BaZWJRZnl5d3RQV3dYM00zMmRGVHNIMl9xLXZhVmFyalFNdnJ4ejlGMGZLdTQ1N3ZLM1NET3NrTTNCdGJ3dWwwekRObldTRzVlbXRkZTdJWmUxNmxwMmJFSk9uaXZoTTh2VFRsUw?oc=5",
+      "category": "squad",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxONG5IOGZhZnZ4ek5YOW40YXBqeDN6eHdTWm9TY2RKN2dzdjY0ZUFUNkUzRGZDV05fV1FubEpCU3BaZWJRZnl5d3RQV3dYM00zMmRGVHNIMl9xLXZhVmFyalFNdnJ4ejlGMGZLdTQ1N3ZLM1NET3NrTTNCdGJ3dWwwekRObldTRzVlbXRkZTdJWmUxNmxwMmJFSk9uaXZoTTh2VFRsUw?oc=5\" target=\"_blank\">U.S. "
+    },
+    {
       "title": "Morocco awaits as Papua New Guinea’s FIFA Women’s World Cup play-off schedule confirmed",
-      "source": " url=\"https://www.oceaniafootball.com\">www.oceaniafootball.com",
+      "source": " url=\"https://www.oceaniafootball.com\">Oceania Football Confederation",
       "date": "2026-10-20",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOWJRRm96YVB1Z3JvYVF1TWZsRndjTlB1X0FrRS16RHNSM1phWU9jRWFublRDQzBjX1NBa0NVYXF5bnZVMGxZNnlLUXd6NW5DVnE4Sm1KQjVfQVdJMWhlQ2VqQ3JnRlZtbTNITUNXMk5EakdzQ2V3Z2Y2OFZackRidnNkb3VYa3lzN2RVa1hkUXJjVzNBQmN3RnF0cHgwNFJMYUFhMk5pdUI4MU4wOUdMZ1Q3Sk5GMTg0Q0E?oc=5",
       "category": "breaking",
@@ -300,6 +318,24 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPMzBFNGROU2ZUNV9NZUdubExiZmJxS0xFczVtUkE0QUlhcWNZVnJsOGpoVHI0c2lSV290OC03OHdwckd2dzJzc29DTEFtZ0ZQemlQVTNUT2czd2NIUjN4Ynl6MU9tblgzX0JMUk8xTk1ZSW1EdWpheWhLbW40Tm1kYVkxVDZIRmtIYnVMWUU5ek5zblRtVjk2Y2wyWHd3dm9US2dWX1JfR3VHRDREaHNOTWlEM29HYzRuLU"
     },
     {
+      "title": "USWNT Under-17 sets World Cup record with 17-0 win over Samoa",
+      "source": " url=\"https://www.espn.com\">ESPN",
+      "date": "2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZG43SGpidzMxOUtsVVBHTVhRVURzNE1hdVJyaEJWejJDbDVyTl9HZ3NIQUV5OXdFNzVqSkRHVVByWXRCb2JXVlluWHEzdGcwZnpkYjVySVFBZy1Za3hPcUtnamdISlM0WkVsNnc1NlFFWFFZbXptcld4eFBUXzhZY3FNV1kzR0ZkbnNqTWgtVEI5cS1XaHRkX0h6dV9hVEI4ZEFj?oc=5",
+      "category": "results",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPZG43SGpidzMxOUtsVVBHTVhRVURzNE1hdVJyaEJWejJDbDVyTl9HZ3NIQUV5OXdFNzVqSkRHVVByWXRCb2JXVlluWHEzdGcwZnpkYjVySVFBZy1Za3hPcUtnamdISlM0WkVsNnc1NlFFWFFZbXptcld4eFBUXzhZY3FNV1kzR0ZkbnNqTWgtVEI5cS1XaHRkX0h6dV9hVEI4ZEFj?oc=5\" target=\"_blank\">USWNT U"
+    },
+    {
+      "title": "FIFA Bans Egypt Coach Hossam Hassan for Three Matches Over Conduct at 2026 World Cup",
+      "source": " url=\"https://www.telesurenglish.net\">teleSUR English",
+      "date": "2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5ME9XeE1TbUF5SnNRQmg0eEF5aTN5X1JmaTNCZHlSLWxoLUJ2S3FSdVFiQVoxcDZIa01KQ1VJc3pyZ0Z6Mkh1MS1rV0pRY3paTTY4SHhDR3ZvbTFUX2hPa3ZNc2l6aXhSdmtVRFlCMXZseGZBemVrTWNERQ?oc=5",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFB5ME9XeE1TbUF5SnNRQmg0eEF5aTN5X1JmaTNCZHlSLWxoLUJ2S3FSdVFiQVoxcDZIa01KQ1VJc3pyZ0Z6Mkh1MS1rV0pRY3paTTY4SHhDR3ZvbTFUX2hPa3ZNc2l6aXhSdmtVRFlCMXZseGZBemVrTWNERQ?oc=5\" target=\"_blank\">FIFA Bans Egypt Coach Hossam Hassan for Three Matches Over Co"
+    },
+    {
       "title": "UEFA demands FIFA release key documents on World Cup sell-off plan",
       "source": " url=\"https://www.aljazeera.com\">Al Jazeera",
       "date": "2026-10-20",
@@ -309,13 +345,22 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPa1RFeVd1UFA2REFQOEZpZ2k3d2EzbUNFMk5odFpYR3FWbW9yV2N1cXNGcHNCNHZwYktsS1RWd2tYRjZoc0NERmVGOHpUMXZ2U2xlV1lsanJ5VndHcVI0cDZOMU5QRlVDUWZ0NUpwTFJBLVhsS29TQ2UtcGR6RjNKNE9PZG9VRWtjOVkzUjJzTVNOeTdCaGdUUHRlV3BLbFREVU8xejFTT09XV0lYamU00gG0AUFVX3lxTE"
     },
     {
-      "title": "UEFA gives FIFA two-week deadline to release Infantino documents",
-      "source": " url=\"https://sports.yahoo.com\">Yahoo Sports",
+      "title": "Diz double leaves New Zealand facing uphill battle at FIFA U-17 Women’s World Cup",
+      "source": " url=\"https://www.oceaniafootball.com\">Oceania Football Confederation",
       "date": "2026-10-20",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXN1JndndSbGpSeGFrdjJyT0h1UHgtMktWV182eHFWR0ZQNWtuVkY3aDM3UlhJZlRmZ0xrakR2ZTFUcHNXZ29wSGpzZWhOd1ljbXMxRGp1ZnNGN3NPeXY0ZUFBbmxSbTFDZ1UxUWQ0Zk9uYk9IbkQ0YWRtZkpZQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdzNCZGU5N1BVam41WXgtLUJfeFBpZjlpWGVEYUxGUkZTVGVqTnE0eFBNcWxxanI2czkzWWoxSVA3WEIxZ1JlOERNVmVoUGdWUkZ5MUh0azN5V1VpXzdCR0hCcjJIRDBYNWk1UXMxZGg0aF9lM052bEVGenRCYkVVSGJkbkViQzZKTFJXUmVlR09kOXdCTDdjYzRKNklmOGZfQXhPUXM3M2tFdmRBU1RSVGFpTQ?oc=5",
       "category": "general",
       "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBXN1JndndSbGpSeGFrdjJyT0h1UHgtMktWV182eHFWR0ZQNWtuVkY3aDM3UlhJZlRmZ0xrakR2ZTFUcHNXZ29wSGpzZWhOd1ljbXMxRGp1ZnNGN3NPeXY0ZUFBbmxSbTFDZ1UxUWQ0Zk9uYk9IbkQ0YWRtZkpZQQ?oc=5\" target=\"_blank\">UEFA gives FIFA two-week deadline to release Infantino do"
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQdzNCZGU5N1BVam41WXgtLUJfeFBpZjlpWGVEYUxGUkZTVGVqTnE0eFBNcWxxanI2czkzWWoxSVA3WEIxZ1JlOERNVmVoUGdWUkZ5MUh0azN5V1VpXzdCR0hCcjJIRDBYNWk1UXMxZGg0aF9lM052bEVGenRCYkVVSGJkbkViQzZKTFJXUmVlR09kOXdCTDdjYzRKNklmOGZfQXhPUXM3M2tFdmRBU1RSVGFpTQ?oc=5\" t"
+    },
+    {
+      "title": "Infantino set to take his FIFA reelection campaign to Japan to court Asian soccer federations",
+      "source": " url=\"https://www.wbtw.com\">WBTW",
+      "date": "2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRTBtbHl4UHVNMjVteEwwTE56SXVMTXVub0FDb3RiN2tZbTRReTRqRGNpZ0pKc0Y4a3BicDd3c2NRaUpRbHd4REl5ZVJtUVBWTDBHS3VielJkdzdNU042eXJfYWYzR0pWdUNXTlktei1QbXZmd3cyTmNsZGNvT1NXelpRdUQ0dDIxXzFydDJxdFg0aGdOQmo2ZnpZdmNCVWJRQmVlNnd4YWdpdi1PYUgtS25DeDQ3QnNqN1BndkRqMVJDYzI30gHKAUFVX3lxTE1RNS1CaXNOLXFVVm5ZaGpPMDl1aE9za2pFWEZtOGVrdGttczZSc0U0a19kQWxLUnMzeXVPQUtLb0J4UjZyOFhjeEZqZGFsbVNrcVBDS3hqWU05bUwxZHVaTjFXcnRHTEFWVy1ma2pBQ1loUmxJaDdLNkpKV3JudjU5UjFILW04YldpYVdWSFBBbDBzUnhEYVVNa0ZWNkNFcjhGVzQxVkF6RS1SYVhJNl9WQURaVkFmUzN3VGt1Rlh6Q2FDUHBncFBaMFE?oc=5",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNRTBtbHl4UHVNMjVteEwwTE56SXVMTXVub0FDb3RiN2tZbTRReTRqRGNpZ0pKc0Y4a3BicDd3c2NRaUpRbHd4REl5ZVJtUVBWTDBHS3VielJkdzdNU042eXJfYWYzR0pWdUNXTlktei1QbXZmd3cyTmNsZGNvT1NXelpRdUQ0dDIxXzFydDJxdFg0aGdOQmo2ZnpZdmNCVWJRQmVlNnd4YWdpdi1PYUgtS25DeDQ3QnNqN1"
     },
     {
       "title": "UEFA demands answers from FIFA over Infantino presidency",
@@ -345,31 +390,31 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPRDJQMTZvbElPMHA0UWlDUmN0dVFZQUtqV1J0REZ0N2NMbUtfM3VkWVRYTlYyUURpNWRMTWxEUGRZMUFiRjNXUnBGM1ZiNGVUR0NHZW5KSDlOZWx5LXRjeG5CT25uWklmSHdJRGJOSkhJaEZhX0lMd1k2MkFncjNxaGxCNjQ5VEZCOGFQOXhaUE5qXzl4Nmh4YW5sdll1dWwzN3NFSTM5eGZWY0JQ?oc=5\" target=\"_bl"
     },
     {
-      "title": "2026 FIFA U-17 Women's World Cup: Argentina vs. New Zealand",
+      "title": "2026 FIFA U-17 Women's World Cup: Nigeria vs. Puerto Rico",
       "source": " url=\"https://www.tsn.ca\">TSN",
       "date": "2026-10-20",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdjFyZkp5dU1MOE1wSURhcF9XRXVCOFE0SlhPM3lOX0tQWWRTVERmUnNwSzgxM012R3FadkYzTld5VVhPXzBpVlltY2NsUnJadW9sb3hGLXVWZG9nQWQxRzFiUmpaN3hIY0VYVTlUeFVyVFBWUmZUV1p5Q2E2TmljaFNrS2V3LV9tanpFSF9xamQxLUFBTTFfbDM2UnZET282Nnc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUVhwS2xJZXdvVnd6cUtyQm9aT2FyT0NncWRPM3VXT3RKaktiRlVLbThoYV9JY2daT1c2cU95U2NWT2R0S3p2UC1fc0kxN2tNWnBHTUF2bE9OWFJPeXhMcVFlUjBwd010VHczX3RxVTJ0aG84UFR6cExXc2FXV3F1enBvajRLMkp0QjdCSWlqZDhvZ19NbXJrc25KeFlwMUk?oc=5",
       "category": "general",
       "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNdjFyZkp5dU1MOE1wSURhcF9XRXVCOFE0SlhPM3lOX0tQWWRTVERmUnNwSzgxM012R3FadkYzTld5VVhPXzBpVlltY2NsUnJadW9sb3hGLXVWZG9nQWQxRzFiUmpaN3hIY0VYVTlUeFVyVFBWUmZUV1p5Q2E2TmljaFNrS2V3LV9tanpFSF9xamQxLUFBTTFfbDM2UnZET282Nnc?oc=5\" target=\"_blank\">2026 FIF"
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOUVhwS2xJZXdvVnd6cUtyQm9aT2FyT0NncWRPM3VXT3RKaktiRlVLbThoYV9JY2daT1c2cU95U2NWT2R0S3p2UC1fc0kxN2tNWnBHTUF2bE9OWFJPeXhMcVFlUjBwd010VHczX3RxVTJ0aG84UFR6cExXc2FXV3F1enBvajRLMkp0QjdCSWlqZDhvZ19NbXJrc25KeFlwMUk?oc=5\" target=\"_blank\">2026 FIFA U-"
     },
     {
-      "title": "2026 FIFA U-17 Women's World Cup: DPR Korea vs. Poland",
-      "source": " url=\"https://www.tsn.ca\">TSN",
+      "title": "FIFA suspends Egypt coach Hossam Hassan for 3 matches after criticizing World Cup refereeing",
+      "source": " url=\"https://www.aa.com.tr\">Anadolu Ajansı",
       "date": "2026-10-20",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMWV3U3JCNlMwVFJiV0VEWHlBSi1nZEEtczdMcjJkVDVlRlRjNU1YSUlmWFRNZ1VhN2NwN3BEWFl5aWQ2MlhPSzZMZS1aQW5KX3JkckVnbHoxQ0RNeE03S1NZMzNsV3VtMnIzZlhzeEdJVEMzUWhEaTZxckd5MEI1MjZFbkRXeGFNMzUwMVg5OUV5Q1B3bkcydURXOA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS0pXSFRkVWQtd2FYN1pOZkEtMUVvcXRBRXlMbjlVRTZRMHpCc1RPSklFa3hCanQtd2dmeVpsbnBXSHI5ZVRyd3VtRVRGVEgzc2NJNGY1MG9TYjR2WHdLVUxpS0wtTnN4RjFJZXRZQ1ZGQ0h5N1lGZTM2cDNJYlYwaEl2U0paSzhjcDNrWVNDcnoxYm8xM29jMDV4Zi0zbjk2UjlVN0tPTVA4ZTVPVGNKTm1wd2JIX0NQNkwzbUl0czZFaEZoLUFfRmZDMDU?oc=5",
       "category": "general",
       "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQMWV3U3JCNlMwVFJiV0VEWHlBSi1nZEEtczdMcjJkVDVlRlRjNU1YSUlmWFRNZ1VhN2NwN3BEWFl5aWQ2MlhPSzZMZS1aQW5KX3JkckVnbHoxQ0RNeE03S1NZMzNsV3VtMnIzZlhzeEdJVEMzUWhEaTZxckd5MEI1MjZFbkRXeGFNMzUwMVg5OUV5Q1B3bkcydURXOA?oc=5\" target=\"_blank\">2026 FIFA U-17 Wo"
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPS0pXSFRkVWQtd2FYN1pOZkEtMUVvcXRBRXlMbjlVRTZRMHpCc1RPSklFa3hCanQtd2dmeVpsbnBXSHI5ZVRyd3VtRVRGVEgzc2NJNGY1MG9TYjR2WHdLVUxpS0wtTnN4RjFJZXRZQ1ZGQ0h5N1lGZTM2cDNJYlYwaEl2U0paSzhjcDNrWVNDcnoxYm8xM29jMDV4Zi0zbjk2UjlVN0tPTVA4ZTVPVGNKTm1wd2JIX0NQNk"
     },
     {
-      "title": "Infantino set to take his FIFA re-election campaign to Japan to court Asian soccer federations",
-      "source": " url=\"https://www.wtnh.com\">WTNH.com",
+      "title": "FIFA’s $150M Prediction-Market Partner Faces Questions Over $108M in Trades",
+      "source": " url=\"https://www.casino.org\">Casino.org",
       "date": "2026-10-20",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaDM0WFZrZmQwTVVHRUFqakQ1V1J2My1tUDY3SFVuajdrVXJkUDhKOEhpQzdqVmgxZ1c3RWY5bGNraElsZmZhbkVKSEtoWHZwd0c2QXRteGJqTnY5Nmp3b3E3eHEwYW5zNEpMQ2xBRFJmQmpaZS0ySTMyU0c2ZElZcjltWVpTQWNfdmg1S1RvYktNcU9ZaDR3VUY2SFJiTlFYM1VzeFI4NzB6MUNRbnNDdG41am1LQ2xfZEd3U1JJQ0JvX0Ix0gHKAUFVX3lxTE9HOFFqbVJfOHQ4Rk1MNDZrTWNFVGhxZ3lRY2pwckRKaXpiclZSbnZPSUdCZGkxdkxXbEIySld2U1I3LS1CVFB4bUpiaW9GOHNfTUlnOGs5SWZaVWFCZTNfUnJfLS05bmVYdS1jRS1lVnJDZW5hdWNlOHlJMHYtVUZDZjdLMjJIQ0VUc0VGQzlCbmVLT3BiYlFXM3h1YW0zVTBkeWQzS2dLLXpqYU04NGZLamFfQnhuVF9vbXEwTXRvUVdaNVVsUjlfN2c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTzNmWDNCUmtDS3JyODh6WDhQSGNPZ3hKb0VyN3ExYUpoQ1BTNTFsb0k2TDB3bm5xU29lZFo5dW9YSGFndzM4Q1pkUVhEQmNBaWNRRVVDamJlRWhlMVEwNnhqVERYNF9DdUcxOUxZYW1UM3AxQ3Znc2h0d25sMUd3VUF4am04VExyNWpZYWxBdElEaS1BSmhKQzh3MlFRUmtRaGNV?oc=5",
       "category": "general",
       "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNaDM0WFZrZmQwTVVHRUFqakQ1V1J2My1tUDY3SFVuajdrVXJkUDhKOEhpQzdqVmgxZ1c3RWY5bGNraElsZmZhbkVKSEtoWHZwd0c2QXRteGJqTnY5Nmp3b3E3eHEwYW5zNEpMQ2xBRFJmQmpaZS0ySTMyU0c2ZElZcjltWVpTQWNfdmg1S1RvYktNcU9ZaDR3VUY2SFJiTlFYM1VzeFI4NzB6MUNRbnNDdG41am1LQ2xfZE"
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNTzNmWDNCUmtDS3JyODh6WDhQSGNPZ3hKb0VyN3ExYUpoQ1BTNTFsb0k2TDB3bm5xU29lZFo5dW9YSGFndzM4Q1pkUVhEQmNBaWNRRVVDamJlRWhlMVEwNnhqVERYNF9DdUcxOUxZYW1UM3AxQ3Znc2h0d25sMUd3VUF4am04VExyNWpZYWxBdElEaS1BSmhKQzh3MlFRUmtRaGNV?oc=5\" target=\"_blank\">FIFA’s "
     },
     {
       "title": "Morocco Plans 60,000 New Hotel Beds Ahead of 2030 FIFA World Cup",
@@ -390,13 +435,13 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMW91Z2ZyMDVzLThFUUVxcm05aC0wUi1JRGZhSUJCc08tYnBvbElMOFVpenB0STBidlZsdzFFLWwwZ19BY2Y0cUkzRExRVjZfeFJzdFljTXNWMTdJREZ4S2RFemk2YTFmb09paHc5TG96RlM2ZUlHVUpJYTNBSXV0LVlKZFREZTktdWNr?oc=5\" target=\"_blank\">World Cup 2026 : FIFA hits Egypt with h"
     },
     {
-      "title": "FIFA’s $150M Prediction-Market Partner Faces Questions Over $108M in Trades",
-      "source": " url=\"https://www.casino.org\">Casino.org",
+      "title": "Hossam Hassan responds to Fifa's suspension with a striking statement",
+      "source": " url=\"https://www.goal.com\">Goal.com",
       "date": "2026-10-20",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTzNmWDNCUmtDS3JyODh6WDhQSGNPZ3hKb0VyN3ExYUpoQ1BTNTFsb0k2TDB3bm5xU29lZFo5dW9YSGFndzM4Q1pkUVhEQmNBaWNRRVVDamJlRWhlMVEwNnhqVERYNF9DdUcxOUxZYW1UM3AxQ3Znc2h0d25sMUd3VUF4am04VExyNWpZYWxBdElEaS1BSmhKQzh3MlFRUmtRaGNV?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUjY0bHhZNnNkc2J4Rk5jY1F4eDBDVm5RaGtQbmg3VmhlcnRrSFgtZEt6U3ZZZmtRYkFkVUhhbzBmWmllYzZ5ZW96VHcwUEhoaHpHU21YSDhtalFwYmJtUmRKLUVGVGFIXzBjRERDc28wek1ac1lpT0tLVTh6WW9IZHBmbnVZaW9iTEJTd0dOSVdBbk1hbWFFSjBwQ0kwdVROTk5qTXJCaEF5QmRLSjlqYTZaeUFCOEc3OThFOGhCQ1B3MmhxaDl6dGl3?oc=5",
       "category": "general",
       "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNTzNmWDNCUmtDS3JyODh6WDhQSGNPZ3hKb0VyN3ExYUpoQ1BTNTFsb0k2TDB3bm5xU29lZFo5dW9YSGFndzM4Q1pkUVhEQmNBaWNRRVVDamJlRWhlMVEwNnhqVERYNF9DdUcxOUxZYW1UM3AxQ3Znc2h0d25sMUd3VUF4am04VExyNWpZYWxBdElEaS1BSmhKQzh3MlFRUmtRaGNV?oc=5\" target=\"_blank\">FIFA’s "
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPUjY0bHhZNnNkc2J4Rk5jY1F4eDBDVm5RaGtQbmg3VmhlcnRrSFgtZEt6U3ZZZmtRYkFkVUhhbzBmWmllYzZ5ZW96VHcwUEhoaHpHU21YSDhtalFwYmJtUmRKLUVGVGFIXzBjRERDc28wek1ac1lpT0tLVTh6WW9IZHBmbnVZaW9iTEJTd0dOSVdBbk1hbWFFSjBwQ0kwdVROTk5qTXJCaEF5QmRLSjlqYTZaeUFCOEc3OT"
     },
     {
       "title": "Argentina striker’s double leaves New Zealand facing early World Cup exit",
@@ -435,15 +480,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOY3pzcy0xeEpsTXFEZ2tvaEtWQXJLQlg3NGprVm1vY1dDTXgtNWYyYmVYdldiZkxTbE9HNmZvT2N5N3R2bjZQeVJ4VWVYNjhyTzBaR2R1LW56LXY2SzEyV3NRNTlyUlIzaGR3RGwzQVRubExSVHlUU0dydy1MUkhEU185cWdtT0tJT0pQMDBoVHdCX2ZyZ05JLVFJeThsRlMwUGd0UTF5NUFSSjFoOUVTcno5ZzY0SnJVaT"
     },
     {
-      "title": "Nigeria vs Puerto Rico Preview: Flamingos target first win at 2026 FIFA U-17 Women’s World Cup",
-      "source": " url=\"https://www.premiumtimesng.com\">Premium Times Nigeria",
-      "date": "2026-10-20",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNR3FBU3RIaEEtMkxKSmg5Ym9BdWl0dU9QS2JENk8tb0d0VEwzd1JEY2h4cjVrNFI2REthUEctWlpEMHc1ZTYxd1JYQy04Z3ZlMXV5VDlZa09xTlNhNk5MOGwyTFhLQ1hENUN1cDh4T0pqVlVnNTZrOHo3UHdLN05yNHNWZlEyZ0pxWVNoTzc0Z2NfZXVJRVV6S28xUzhzcTFyWnZHTm9XUnpuNlJsX3ltSGZhNDJWeE9uYkNoNW9rdEpwUnBibkRLR2NGY2lHbmRTTm5aUFVxN25reEg0Z2RPS3Vvaw?oc=5",
-      "category": "results",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNR3FBU3RIaEEtMkxKSmg5Ym9BdWl0dU9QS2JENk8tb0d0VEwzd1JEY2h4cjVrNFI2REthUEctWlpEMHc1ZTYxd1JYQy04Z3ZlMXV5VDlZa09xTlNhNk5MOGwyTFhLQ1hENUN1cDh4T0pqVlVnNTZrOHo3UHdLN05yNHNWZlEyZ0pxWVNoTzc0Z2NfZXVJRVV6S28xUzhzcTFyWnZHTm9XUnpuNlJsX3ltSGZhNDJWeE9uYk"
-    },
-    {
       "title": "Snowboard Alpine teams gear up for 2026/27 World Cup season",
       "source": " url=\"https://www.fis-ski.com\">International Ski and Snowboard Federation (FIS)",
       "date": "2026-10-20",
@@ -460,6 +496,15 @@
       "category": "general",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNb29XclU0NDI2SE8zNGEwUWFaNHc0TWljdDBlZ2ZYQ3FxaUNCUDQ4cWMwM19FbFdIOGI4dHJmLUNwRVNObzZEX1h3NnV0d2RESUpfVW9HMVNGYmgzNnlPMEJ2ZXJHUWxSS2VPc2hCTkN6Z1NNX2YxQ0c1b0VRQndQSk5n?oc=5\" target=\"_blank\">Athlete reactions from the 2026 Beijing World Cup</"
+    },
+    {
+      "title": "Lesotho vs Mozambique | Match Highlights | | ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+      "source": " url=\"https://www.icc-cricket.com\">ICC",
+      "date": "2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObDFuRFo4NlFtZDdKMzR6ajJQczBiNUJOb3BLdjktdFhiVlpwY3ZoYkZZN0lYZW51U2hYTFFOUk4yRXJaRnRQNk9URVFON3dvQXJLRnFmWVQ2RkZlbGFSUFBCbTRuSDNscV9ZRXl4cy02UUlRUkctanJPMF9tY0RtMnVZLXNmNlF0cmNlMzR4T3plNENBOTMtZXQteks1Wk9hOHllQWF0Ynh0aHc5bUxUX04zcnBZdkd6bVdKYldIVHNfZ3l6Rm5WRWZCRTVqUjQ?oc=5",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxObDFuRFo4NlFtZDdKMzR6ajJQczBiNUJOb3BLdjktdFhiVlpwY3ZoYkZZN0lYZW51U2hYTFFOUk4yRXJaRnRQNk9URVFON3dvQXJLRnFmWVQ2RkZlbGFSUFBCbTRuSDNscV9ZRXl4cy02UUlRUkctanJPMF9tY0RtMnVZLXNmNlF0cmNlMzR4T3plNENBOTMtZXQteks1Wk9hOHllQWF0Ynh0aHc5bUxUX04zcnBZdkd6bV"
     },
     {
       "title": "Argentina and Sweden lead the favourites at the Nacra Cup València 2026 - Sail-World.com",
@@ -489,15 +534,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5RcnRiVUVodmRyUGhQYVZJSURza0gwc0Q0MDJQSkI4V0FndDFGU3VrbzYyTVBWU3NLZTkwSTZxNjI4V1VWNjFfMGxaN1hEdC14VUhrcWtzYmtSc2syYVB3ZkxRNW9WVkxqalJTcWlTaGpvV0xXT3BiWnlB?oc=5\" target=\"_blank\">World Cup Team Lists: Men's Round 2</a>  <font color=\"#6f6f6f\">"
     },
     {
-      "title": "Tonga treating every game like a grand final so Izzy soldiers on",
-      "source": " url=\"https://www.nrl.com\">NRL.com",
-      "date": "2026-10-20",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZGVCUUlPLWJDdDVCbXh4Z214TDZsRmYzdkw0Z211SmdBRHZTSWtqRnR0WXVJMk5zdDBER1ptb3JGaFR6a0VtcTgtTi1PZ1JvVi1aQUxtWmhiNGFFX2NZRklXY1ZrZEdYSUNBODEwb2RqN2x2TWFnejBlUm1iMW9IQTFtQlNDajd2RnI1bDlLUUp3UjFjNU5jNHJGSkt3ems0QWs4?oc=5",
-      "category": "general",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNZGVCUUlPLWJDdDVCbXh4Z214TDZsRmYzdkw0Z211SmdBRHZTSWtqRnR0WXVJMk5zdDBER1ptb3JGaFR6a0VtcTgtTi1PZ1JvVi1aQUxtWmhiNGFFX2NZRklXY1ZrZEdYSUNBODEwb2RqN2x2TWFnejBlUm1iMW9IQTFtQlNDajd2RnI1bDlLUUp3UjFjNU5jNHJGSkt3ems0QWs4?oc=5\" target=\"_blank\">Tonga t"
-    },
-    {
       "title": "FIFA U-17 Women's World Cup: Which teams caught the eye in opening group games?",
       "source": " url=\"https://www.dazn.com\">DAZN",
       "date": "2026-10-20",
@@ -505,15 +541,6 @@
       "category": "squad",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOE1iOWxLVnNwdU9kcDZQbzM3eHpraXlQalZmYjlJbW44eGNaWXQxU1VnOEU1NFo0MnNFd0pVcE1TUlRnd0YtaWFobEVtRmlpQkFyNmNEMGNzbU8xbEZXTmtDbFpxZDYzSVpoVHVxSzU1eFh2NnJqaGRWdHJSSks1eE9nMGlCV1Y3aklrX0FRcmFnY29FT0lHaXNZakI1aHViMTdrSlBuYlBPX05LMU9aYUZrdFQ0ZGtHQT"
-    },
-    {
-      "title": "Diz double leaves New Zealand facing uphill battle at FIFA U-17 Women’s World Cup",
-      "source": " url=\"https://www.oceaniafootball.com\">Oceania Football Confederation",
-      "date": "2026-10-20",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdzNCZGU5N1BVam41WXgtLUJfeFBpZjlpWGVEYUxGUkZTVGVqTnE0eFBNcWxxanI2czkzWWoxSVA3WEIxZ1JlOERNVmVoUGdWUkZ5MUh0azN5V1VpXzdCR0hCcjJIRDBYNWk1UXMxZGg0aF9lM052bEVGenRCYkVVSGJkbkViQzZKTFJXUmVlR09kOXdCTDdjYzRKNklmOGZfQXhPUXM3M2tFdmRBU1RSVGFpTQ?oc=5",
-      "category": "general",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQdzNCZGU5N1BVam41WXgtLUJfeFBpZjlpWGVEYUxGUkZTVGVqTnE0eFBNcWxxanI2czkzWWoxSVA3WEIxZ1JlOERNVmVoUGdWUkZ5MUh0azN5V1VpXzdCR0hCcjJIRDBYNWk1UXMxZGg0aF9lM052bEVGenRCYkVVSGJkbkViQzZKTFJXUmVlR09kOXdCTDdjYzRKNklmOGZfQXhPUXM3M2tFdmRBU1RSVGFpTQ?oc=5\" t"
     },
     {
       "title": "How Tough Fall Matches Impacted USWNT’s FIFA World Ranking",
@@ -525,22 +552,13 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNbWFTNlF4Qkg4enZPNVl2SXNXNWF4MzNVdXVfT0ZzamxtUnI5WG5obHRseng3dGJLVnJXZUtWRlBHZzFYaVItdWRKRnpYUUlaakpWSXlZQzNLLThuRVcwTVBNTGRmUkw5YklJQ0UxdXhlOEo5ZWJwYmtNcjRFMjhaNmlUdGtyYVMzVnc?oc=5\" target=\"_blank\">How Tough Fall Matches Impacted USWNT’s "
     },
     {
-      "title": "Infantino set to take his FIFA reelection campaign to Japan to court Asian soccer federations",
-      "source": " url=\"https://www.wbtw.com\">WBTW",
+      "title": "Egypt’s Hassan and Zico suspended over FIFA World Cup refereeing criticism",
+      "source": " url=\"https://www.newagebd.net\">New Age BD",
       "date": "2026-10-20",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRTBtbHl4UHVNMjVteEwwTE56SXVMTXVub0FDb3RiN2tZbTRReTRqRGNpZ0pKc0Y4a3BicDd3c2NRaUpRbHd4REl5ZVJtUVBWTDBHS3VielJkdzdNU042eXJfYWYzR0pWdUNXTlktei1QbXZmd3cyTmNsZGNvT1NXelpRdUQ0dDIxXzFydDJxdFg0aGdOQmo2ZnpZdmNCVWJRQmVlNnd4YWdpdi1PYUgtS25DeDQ3QnNqN1BndkRqMVJDYzI30gHKAUFVX3lxTE1RNS1CaXNOLXFVVm5ZaGpPMDl1aE9za2pFWEZtOGVrdGttczZSc0U0a19kQWxLUnMzeXVPQUtLb0J4UjZyOFhjeEZqZGFsbVNrcVBDS3hqWU05bUwxZHVaTjFXcnRHTEFWVy1ma2pBQ1loUmxJaDdLNkpKV3JudjU5UjFILW04YldpYVdWSFBBbDBzUnhEYVVNa0ZWNkNFcjhGVzQxVkF6RS1SYVhJNl9WQURaVkFmUzN3VGt1Rlh6Q2FDUHBncFBaMFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ084NW40eXM1Z3FNbmZBUlNzU3dIOWh5X1lHQVRSeUk0VDZ0TFdrUUlZVV85cGN5clRabzFtRE9QVU1qZEVVcHR0Z2hLbTNaaWUtY0R5bEFMdlpETVZWQV9PRE53MGR3V1NGNldCcWM2UGxpb2J4aU1NbTI3dmJJOEJNWlFTR25jeFU4TTZDejBPT2RmTDhGZjdHaHFyN0VlWG9IZnc0aERRVE5pajlkeW1ReWthLUw1YUtV?oc=5",
       "category": "general",
       "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNRTBtbHl4UHVNMjVteEwwTE56SXVMTXVub0FDb3RiN2tZbTRReTRqRGNpZ0pKc0Y4a3BicDd3c2NRaUpRbHd4REl5ZVJtUVBWTDBHS3VielJkdzdNU042eXJfYWYzR0pWdUNXTlktei1QbXZmd3cyTmNsZGNvT1NXelpRdUQ0dDIxXzFydDJxdFg0aGdOQmo2ZnpZdmNCVWJRQmVlNnd4YWdpdi1PYUgtS25DeDQ3QnNqN1"
-    },
-    {
-      "title": "Spain consolidate top spot in the FIFA Women's World Ranking while Malawi achieve a historic 49-place climb",
-      "source": " url=\"https://www.goal.com\">Goal.com",
-      "date": "2026-10-20",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS3VJZ085X1U5U1Q5d1RsNmJ5LUcwbTIyeldOaDVheEFkeUc4NDN4VmhWY081dDFjWlNOSERQZkVmaFpETjVfc181Z3hHUVlFRTFNUHVUTDBhVVM5ekxCUVNQOW1uRWFFWFcxSU00WU5Wc3prZnk5U3VtSHEwVnNmTTI2SWhScjJyTHR3SGpXdVlHeDhKYWYxU2JERGlmVmlRaUFwWEhLQndEWldLYnMxYzliclZ5NmU5T3B6T0REc2ZqVnNkaDJDZ19jeG1tMXpKY3VJemtZeFZOMFE?oc=5",
-      "category": "general",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS3VJZ085X1U5U1Q5d1RsNmJ5LUcwbTIyeldOaDVheEFkeUc4NDN4VmhWY081dDFjWlNOSERQZkVmaFpETjVfc181Z3hHUVlFRTFNUHVUTDBhVVM5ekxCUVNQOW1uRWFFWFcxSU00WU5Wc3prZnk5U3VtSHEwVnNmTTI2SWhScjJyTHR3SGpXdVlHeDhKYWYxU2JERGlmVmlRaUFwWEhLQndEWldLYnMxYzliclZ5NmU5T3"
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ084NW40eXM1Z3FNbmZBUlNzU3dIOWh5X1lHQVRSeUk0VDZ0TFdrUUlZVV85cGN5clRabzFtRE9QVU1qZEVVcHR0Z2hLbTNaaWUtY0R5bEFMdlpETVZWQV9PRE53MGR3V1NGNldCcWM2UGxpb2J4aU1NbTI3dmJJOEJNWlFTR25jeFU4TTZDejBPT2RmTDhGZjdHaHFyN0VlWG9IZnc0aERRVE5pajlkeW1ReWthLUw1YU"
     },
     {
       "title": "Canada remains 9th in FIFA women's rankings despite loss, draw with Denmark",
@@ -552,15 +570,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNRUdGNE5KclZ6OHBVMGxlSWJBSTdELU9tQ3F6cWlKTVdTQUhZSEVHd3pGbmNmQnlSWG4yT01SOG5pcC13ZkE4REdKZUszZThjZXJrdmtfTDVWOFdnc0tLZkNvbVdNbFhhM2k3Q0g4cVlnUFhtNGs1Q2Y3bmlGSExiZGdWUXJPeEtockE?oc=5\" target=\"_blank\">Canada remains 9th in FIFA women's ranki"
     },
     {
-      "title": "Egypt’s Hassan and Zico suspended over FIFA World Cup refereeing criticism",
-      "source": " url=\"https://www.newagebd.net\">New Age BD",
-      "date": "2026-10-20",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ084NW40eXM1Z3FNbmZBUlNzU3dIOWh5X1lHQVRSeUk0VDZ0TFdrUUlZVV85cGN5clRabzFtRE9QVU1qZEVVcHR0Z2hLbTNaaWUtY0R5bEFMdlpETVZWQV9PRE53MGR3V1NGNldCcWM2UGxpb2J4aU1NbTI3dmJJOEJNWlFTR25jeFU4TTZDejBPT2RmTDhGZjdHaHFyN0VlWG9IZnc0aERRVE5pajlkeW1ReWthLUw1YUtV?oc=5",
-      "category": "general",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ084NW40eXM1Z3FNbmZBUlNzU3dIOWh5X1lHQVRSeUk0VDZ0TFdrUUlZVV85cGN5clRabzFtRE9QVU1qZEVVcHR0Z2hLbTNaaWUtY0R5bEFMdlpETVZWQV9PRE53MGR3V1NGNldCcWM2UGxpb2J4aU1NbTI3dmJJOEJNWlFTR25jeFU4TTZDejBPT2RmTDhGZjdHaHFyN0VlWG9IZnc0aERRVE5pajlkeW1ReWthLUw1YU"
-    },
-    {
       "title": "Morocco Targets 60,000 New Hotel Beds Ahead Of 2030 FIFA World Cup",
       "source": " url=\"https://www.arise.tv\">Arise News",
       "date": "2026-10-20",
@@ -570,15 +579,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQaTFvTUJTeDZUS1Qta2dsU2toOUhFUUl5ZkJxcGJ2SHVDUFZNbC1QYTltbl9SV28zdVViWWdLUlE0N2VVbmhNX29LYmZtaW1peUg1a1g3QXdMdlBNYkNRZUg2VVFjazJ5ekNNU2tOamRZNmVCNW1tVWg3R29uQVRsMG14ekNtQVctdjlORmV0Z3g?oc=5\" target=\"_blank\">Morocco Targets 60,000 New Hotel"
     },
     {
-      "title": "How to watch New Zealand play Argentina at FIFA U-17 Women’s World Cup",
-      "source": " url=\"https://www.friendsoffootballnz.com\">Friends of Football",
-      "date": "2026-10-20",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaF82SUotZmFBdDJESVg0UDBTNjZXOVJEdngtckFIbFB2UHR6dTRzS3ZENmd3NkNMc3NDTEFDM3RpbTFpMDMzZWEwZEQtRXdCLV9ZSEJhQllsMVlHNGFTcHZ6QldZenhVUW55Tm52dk5iQW81ZnZ4SUxxSW9DMFh4enMtQThWZE9Nc3Bhb2prWmYzR1pSMGZHaG9SdDBYOHlSdTFCMVJhTEMzU0xodFNFWmllNU5BRlZpTmdF?oc=5",
-      "category": "general",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaF82SUotZmFBdDJESVg0UDBTNjZXOVJEdngtckFIbFB2UHR6dTRzS3ZENmd3NkNMc3NDTEFDM3RpbTFpMDMzZWEwZEQtRXdCLV9ZSEJhQllsMVlHNGFTcHZ6QldZenhVUW55Tm52dk5iQW81ZnZ4SUxxSW9DMFh4enMtQThWZE9Nc3Bhb2prWmYzR1pSMGZHaG9SdDBYOHlSdTFCMVJhTEMzU0xodFNFWmllNU5BRlZpTm"
-    },
-    {
       "title": "Ousmane Dembele injury update as PSG star removed vs Barcelona",
       "source": " url=\"https://www.usatoday.com\">USA Today",
       "date": "2026-10-20",
@@ -586,6 +586,24 @@
       "category": "injuries",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQTEVYX2ZWZWpHaUJGQ0YtWXRtU0pUNkxsWnlndkJkcEVsWFRQa0FveW5SLXh2eEVLcGozMW94Vk5QcFh6YnJydXE2dGE5V2ZxRkNtcXVBYVBCdGR1UzdKNGZneW9DYnFfeTh0T282d2ZNZmMzbnp1UTRIMUhzS3dpb2lmWlp1aEczTm5IZWVvc0ZxeWNkb0lQZWJFTG5RTHRIbGNibkRZbGJReE5oaXJYc2Y3eC1RMFNtbW"
+    },
+    {
+      "title": "Tonga treating every game like a grand final so Izzy soldiers on",
+      "source": " url=\"https://www.nrl.com\">NRL.com",
+      "date": "2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZGVCUUlPLWJDdDVCbXh4Z214TDZsRmYzdkw0Z211SmdBRHZTSWtqRnR0WXVJMk5zdDBER1ptb3JGaFR6a0VtcTgtTi1PZ1JvVi1aQUxtWmhiNGFFX2NZRklXY1ZrZEdYSUNBODEwb2RqN2x2TWFnejBlUm1iMW9IQTFtQlNDajd2RnI1bDlLUUp3UjFjNU5jNHJGSkt3ems0QWs4?oc=5",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNZGVCUUlPLWJDdDVCbXh4Z214TDZsRmYzdkw0Z211SmdBRHZTSWtqRnR0WXVJMk5zdDBER1ptb3JGaFR6a0VtcTgtTi1PZ1JvVi1aQUxtWmhiNGFFX2NZRklXY1ZrZEdYSUNBODEwb2RqN2x2TWFnejBlUm1iMW9IQTFtQlNDajd2RnI1bDlLUUp3UjFjNU5jNHJGSkt3ems0QWs4?oc=5\" target=\"_blank\">Tonga t"
+    },
+    {
+      "title": "U.S. squads advance to team brackets at 2026 IBF World Cup",
+      "source": " url=\"https://bowl.com\">BOWL.com",
+      "date": "2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMUVpV29xQXlVVkJsbnRVR2JncWN1LVZ6TG9wdWRmQ0lUR1ppRjVmVmhNTXlZSkVzVkRxWjdCMGNHSndyTkswLXdQNkVwWnZUMWFzcTh6aTVFbGZQaTJfUVQtV0M0cjFFY3NRN0FIdjFzb19FOXM0Zkx6NWJVbGRhSUNPRjVQdw?oc=5",
+      "category": "squad",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQMUVpV29xQXlVVkJsbnRVR2JncWN1LVZ6TG9wdWRmQ0lUR1ppRjVmVmhNTXlZSkVzVkRxWjdCMGNHSndyTkswLXdQNkVwWnZUMWFzcTh6aTVFbGZQaTJfUVQtV0M0cjFFY3NRN0FIdjFzb19FOXM0Zkx6NWJVbGRhSUNPRjVQdw?oc=5\" target=\"_blank\">U.S. squads advance to team brackets at 2026 "
     },
     {
       "title": "USMNT to face Jamaica in December friendly to close 2026, with MLS-heavy squad",
@@ -606,15 +624,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQQndvQXBhLVRndzlPOXZtbmdsY1RtZWtzZFI3SVJQZ1JGOFg3dDlDdGxUY1hrLWRGRXZ0MjFkMDYwYnBEazFXT28xOFFKdElzb2RBNnJhcTZ1TjVxZDhHaWdkMHM0anBVTDZLbzJkck9KdURuYU1WdEg4SzA5dVdWOHBlcnd0M2ZtNnBDMlp1NERoaVp1dVpVdlpNVnlSZVZ0NWQ3TEowTzM5bWZtMmVVcUNCaDJWQQ?oc="
     },
     {
-      "title": "OFC Beach Soccer Men’s Nations Cup 2026 | Team Profile | Tahiti",
-      "source": " url=\"https://www.oceaniafootball.com\">Oceania Football Confederation",
-      "date": "2026-10-20",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOREhXZlVwNWlaV3ZqMXV5MmdVUmhZVkNRUkNmUE9xYXNjTTBneTFTQTJDY3hldURVdnJmYWY1dGpxeGI4eTlkR3oxLWhDakNJLW5NLTctYlJzc3VqOTFxZzVIRzBjVU9wZklrSGF5a2ZMMHhIY19qWWdQLW5KY3R6cXkyLU1PS3o0SlZxTURNTWlkckZSaUE?oc=5",
-      "category": "squad",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOREhXZlVwNWlaV3ZqMXV5MmdVUmhZVkNRUkNmUE9xYXNjTTBneTFTQTJDY3hldURVdnJmYWY1dGpxeGI4eTlkR3oxLWhDakNJLW5NLTctYlJzc3VqOTFxZzVIRzBjVU9wZklrSGF5a2ZMMHhIY19qWWdQLW5KY3R6cXkyLU1PS3o0SlZxTURNTWlkckZSaUE?oc=5\" target=\"_blank\">OFC Beach Soccer Men’s N"
-    },
-    {
       "title": "Bibiano Fernandes names 14-player squad for FIFA U15 World Cup & Festival Azerbaijan 2026",
       "source": " url=\"https://www.the-aiff.com\">All India Football Federation",
       "date": "2026-10-20",
@@ -624,6 +633,33 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOek1xQ1lwcWZTb0JoOHBlejZjaGdEcmdfSE1DSkVnR05mVWo5Mmt5WFAtSWczYzJfc09KTGFGSzdzSGk2RG84YWp5VzNoeExrY20wYVNIaDRmb2Z2WU1rZnVOTjNvazFiOGR6TnB0Z3pnOXNWVlAzVmdWT1dJQ2czZVRrNWJTQ0hyeW1kekJxN2tWNzVUcWRENzlOVHNzN2JlRmtDZzMxaEtvd0xqbTlhelpDcTQ3bE1yVV"
     },
     {
+      "title": "Anna Davies excited to build on World Cup opener! | 2026 Rugby League World Cup",
+      "source": " url=\"https://www.rugby-league.com\">The Home of Rugby League",
+      "date": "2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWTB1SUp5YkNDazVtU2s1UE9VSXRLcWJMMjBWVUw4YXNOYlJCMzJ1aDFvTXRoUzF6cGJoSHRxbjBkSkxsTFJJRGxEQXJLcU1aLVc4ak5qUWJoX0hKRThPUEtsN0ZZVTdialo0TnlxWVNTUndfMVFFMU9YVjNOUkZGaUhCV3BGUEJVREUwRFdYUUgwMW5XZmFzQV9TNlNzbkd3UzJldFBUNGFBMjdyQlZHcEVPdk8yVDBZQV93bWdXbE8?oc=5",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWTB1SUp5YkNDazVtU2s1UE9VSXRLcWJMMjBWVUw4YXNOYlJCMzJ1aDFvTXRoUzF6cGJoSHRxbjBkSkxsTFJJRGxEQXJLcU1aLVc4ak5qUWJoX0hKRThPUEtsN0ZZVTdialo0TnlxWVNTUndfMVFFMU9YVjNOUkZGaUhCV3BGUEJVREUwRFdYUUgwMW5XZmFzQV9TNlNzbkd3UzJldFBUNGFBMjdyQlZHcEVPdk8yVDBZQV"
+    },
+    {
+      "title": "Kallum Watkins on joining up with England | 2026 Rugby League World Cup",
+      "source": " url=\"https://www.rugby-league.com\">The Home of Rugby League",
+      "date": "2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa1JpbnF4NmJTUjhrQ25rbmZvczZ3NmlaZXZVb3k4M1VVTUVDVlVXX3VkMlJQMERyQWYyaTJpUERMTkMtTXhuR2poazY3TjZ3YllWSWRxM1ZjVTM0RUtoUmZOeFhkazJ1U080RFpSTXRTeVlHQVJpMFU1OFZSZExQUUVOSVY2eXprRFhhVmNSMWUwSlc4bmtGQWg0NlZNZkNIaTJnMkRjbnlOMWtybDROanIzSDQxUWR2?oc=5",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa1JpbnF4NmJTUjhrQ25rbmZvczZ3NmlaZXZVb3k4M1VVTUVDVlVXX3VkMlJQMERyQWYyaTJpUERMTkMtTXhuR2poazY3TjZ3YllWSWRxM1ZjVTM0RUtoUmZOeFhkazJ1U080RFpSTXRTeVlHQVJpMFU1OFZSZExQUUVOSVY2eXprRFhhVmNSMWUwSlc4bmtGQWg0NlZNZkNIaTJnMkRjbnlOMWtybDROanIzSDQxUWR2?o"
+    },
+    {
+      "title": "OFC Beach Soccer Men’s Nations Cup 2026 | Team Profile | Tahiti",
+      "source": " url=\"https://www.oceaniafootball.com\">Oceania Football Confederation",
+      "date": "2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOREhXZlVwNWlaV3ZqMXV5MmdVUmhZVkNRUkNmUE9xYXNjTTBneTFTQTJDY3hldURVdnJmYWY1dGpxeGI4eTlkR3oxLWhDakNJLW5NLTctYlJzc3VqOTFxZzVIRzBjVU9wZklrSGF5a2ZMMHhIY19qWWdQLW5KY3R6cXkyLU1PS3o0SlZxTURNTWlkckZSaUE?oc=5",
+      "category": "squad",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOREhXZlVwNWlaV3ZqMXV5MmdVUmhZVkNRUkNmUE9xYXNjTTBneTFTQTJDY3hldURVdnJmYWY1dGpxeGI4eTlkR3oxLWhDakNJLW5NLTctYlJzc3VqOTFxZzVIRzBjVU9wZklrSGF5a2ZMMHhIY19qWWdQLW5KY3R6cXkyLU1PS3o0SlZxTURNTWlkckZSaUE?oc=5\" target=\"_blank\">OFC Beach Soccer Men’s N"
+    },
+    {
       "title": "England Women name squad for World Cup showdown with Australia Jillaroos",
       "source": " url=\"https://www.rugby-league.com\">The Home of Rugby League",
       "date": "2026-10-20",
@@ -631,33 +667,6 @@
       "category": "squad",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ0NoSHVKVmJsZnBZblZTWURhb3QtLUd5QjVJdlVpa1dxTER4TnE1Q1hid1g0NzRVRUNXU2lQN2ZBaUFKc2FhbnJzUGVCemFzeTRFOWxGNjRqUmRZMy1fZnRSRXlrN1RhZHpwSWdCVk9DRTlpR2RVcHRGSnNhRld2S0Q2VVNBSnU2OVB6OFJaMElId1kwRVhZalVBTk1YLTFvTGRycHZiSHM2WEF0MFpWUWNiem9Qdw?oc="
-    },
-    {
-      "title": "2026 Rugby League World Cup Round 2 Team Lists: Every squad confirmed",
-      "source": " url=\"https://www.zerotackle.com\">Zero Tackle",
-      "date": "2026-10-20",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kalVwU2ctd0kyWjFJbzlqOC0ycTE0X2UyN1NWY0VDNGpJYk1FazFyQklFSVFSZHZBejladDYwUld3bG5QUTAzeDNrdDh1RFhRNlJESy1JSk8wTEcxdXNIbTF1cTQ1QllpQUFaR1VyYkVzMjd0UEhj?oc=5",
-      "category": "squad",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5kalVwU2ctd0kyWjFJbzlqOC0ycTE0X2UyN1NWY0VDNGpJYk1FazFyQklFSVFSZHZBejladDYwUld3bG5QUTAzeDNrdDh1RFhRNlJESy1JSk8wTEcxdXNIbTF1cTQ1QllpQUFaR1VyYkVzMjd0UEhj?oc=5\" target=\"_blank\">2026 Rugby League World Cup Round 2 Team Lists: Every squad confirm"
-    },
-    {
-      "title": "World Cup team lists week 2: England, PNG, Australia...",
-      "source": " url=\"https://www.loverugbyleague.com\">Love Rugby League",
-      "date": "2026-10-20",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BcGZfZUQxTUIzUnN6RWp0ako5UFRNck91ZzJpV1pQWkp3dkxWcXkyU2lwOWU5UFRJY3U2S09WVkxDSXFIQXlqcW0tTS12aWZZYXRqblp1R0lzRkpHZDJ0eHBocFBfUlhCT2d6UUlTQXJUT25LUGhR?oc=5",
-      "category": "squad",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9BcGZfZUQxTUIzUnN6RWp0ako5UFRNck91ZzJpV1pQWkp3dkxWcXkyU2lwOWU5UFRJY3U2S09WVkxDSXFIQXlqcW0tTS12aWZZYXRqblp1R0lzRkpHZDJ0eHBocFBfUlhCT2d6UUlTQXJUT25LUGhR?oc=5\" target=\"_blank\">World Cup team lists week 2: England, PNG, Australia...</a>  <font "
-    },
-    {
-      "title": "How to get FIFA Under-17 World Cup 2026 tickets: Dates, schedule, ticket prices, Qatar venue information and more",
-      "source": " url=\"https://www.goal.com\">Goal.com",
-      "date": "2026-10-20",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONVdfNllyaEpLdTVjQkNXWDJ4NWxJMzZTdzhwRFdPeTA0bTJiTUozUFVVM1hCbGdLWlRsMUVIUVBhbzJJLUlvWlRKQ0kyUU5aeTZ5UTc3TlhpMnNYNGptMnlmSHpUTXNKYy11TkcxUUd3M2hFOThPb3NCODd4akZDb2VORy10cTlEOGxqN1ZxUEU1R1JhOUwtRkRfV1ZsZEhmVDJsNQ?oc=5",
-      "category": "venues",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxONVdfNllyaEpLdTVjQkNXWDJ4NWxJMzZTdzhwRFdPeTA0bTJiTUozUFVVM1hCbGdLWlRsMUVIUVBhbzJJLUlvWlRKQ0kyUU5aeTZ5UTc3TlhpMnNYNGptMnlmSHpUTXNKYy11TkcxUUd3M2hFOThPb3NCODd4akZDb2VORy10cTlEOGxqN1ZxUEU1R1JhOUwtRkRfV1ZsZEhmVDJsNQ?oc=5\" target=\"_blank\">How t"
     },
     {
       "title": "Narvik, Norway, Withdraws from Hosting FIS Alpine Races in 2026-27 World Cup Season",
@@ -750,15 +759,6 @@
       "description": "<p>Centre-back has settled right in at Arsenal and is looking ‘to win everything’, starting with Wednesday’s duel against Harry Kane</p><p>For Ezri Konsa, it was just a wonderfully satisfying challenge. The Nottingham Forest striker Liam Delap had stolen in behind him up the inside left channel on S"
     },
     {
-      "title": "Uefa demands Fifa releases documents relating to World Cup sell-off scheme",
-      "source": "The Guardian",
-      "date": "2026-10-19",
-      "url": "https://www.theguardian.com/football/2026/oct/19/uefa-demands-fifa-releases-documents-relating-to-world-cup-sell-off-scheme",
-      "category": "general",
-      "thumbnail": "",
-      "description": "<ul><li><p>European governing body gives two-week deadline</p></li><li><p>Letter addresses other issues including Balogun affair</p></li></ul><p>Uefa has given Fifa a two-week deadline to release key documents relating to Gianni Infantino’s <a href=\"https://www.theguardian.com/football/2026/sep/24/g"
-    },
-    {
       "title": "Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson",
       "source": "The Guardian",
       "date": "2026-10-19",
@@ -831,15 +831,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE95Uk1fVzIwNHEyM2Jfc1BONVF3WHliRS1uREdtUWpIbGZ5RDd0UGRXUGtLTnN3b0paQkpMaTNwd3VrQmZhZldyWEtiZ0UwemNMSXgtRlpTaXYtSnhIVnhvVUo1SGZ2M3FiRm9GdUFsWGtKV1NwZGRF?oc=5\" target=\"_blank\">Display your soccer pride with LEGO's FIFA World Cup trophy down at"
     },
     {
-      "title": "Inside the World Cup",
-      "source": " url=\"https://magazine.wm.edu\">W&amp;M Alumni Magazine",
-      "date": "2026-10-19",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GUEdLUEQ3YTI1WGUxdEkxcll0Y1pydFYzWmk5SXNDbTIxZ3FmcTRDOHlQT2VqS0p3UmctS3Nnc2xvVXVfWmI3WEJXVDBSWWM5NzhHdVhGbmdvSV9XSzBQTUphNmZhTVROX1J3SzlNY2xsUQ?oc=5",
-      "category": "general",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9GUEdLUEQ3YTI1WGUxdEkxcll0Y1pydFYzWmk5SXNDbTIxZ3FmcTRDOHlQT2VqS0p3UmctS3Nnc2xvVXVfWmI3WEJXVDBSWWM5NzhHdVhGbmdvSV9XSzBQTUphNmZhTVROX1J3SzlNY2xsUQ?oc=5\" target=\"_blank\">Inside the World Cup</a>  <font color=\"#6f6f6f\">W&M Alumni Magazine</font"
-    },
-    {
       "title": "Uefa demands Fifa releases documents relating to World Cup sell-off scheme",
       "source": " url=\"https://www.theguardian.com\">The Guardian",
       "date": "2026-10-19",
@@ -847,15 +838,6 @@
       "category": "general",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVkZMTk5hMC1iQXdINXE4Vl8zSHhYRWpvUWZSWnJpcXlDcG9KaXFiV005M3hiV3dBR0RyUWR1SjFvZll6RHNZVjZ1bi1jbUZrZDZ3QzdmRnF0ZmVyZDlncmNmX1lnWUxIZzdTNDVDdDFRSGhwVVhnT0VtUVlJbWkzM2dRdWxlZXVKWXRqTlhYWjJJUjE1RWhtZlRkcEZCMVNhb3VkSlA4cHNIckQyYmZFaEdTd1BnT2lRTT"
-    },
-    {
-      "title": "Shiny Scores: Panini Prizm FIFA World Cup 2026TM Official Sticker Collection",
-      "source": " url=\"https://blog.paniniamerica.net\">Panini America",
-      "date": "2026-10-19",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWHJLRHpsanJBUkR6dUkwUHJnd2dYOV9JZDNMbmlpbGVUdXhkVG16SW5jbGJsRk5IUnd2cXVrb1lXRGxFOXB6ZlIxMldkTE9wVzNibTZtckc2TTU2MEgyWWwtcVR4MkljaDA3eGNVVVpNSGk3Qnp3OHJWQWhON1VjN0dNbXl0c2NFQzd0d2pKR2ZXbkZUelpPN2JzZ29XVW16MW9raFpFdzltR3c?oc=5",
-      "category": "results",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWHJLRHpsanJBUkR6dUkwUHJnd2dYOV9JZDNMbmlpbGVUdXhkVG16SW5jbGJsRk5IUnd2cXVrb1lXRGxFOXB6ZlIxMldkTE9wVzNibTZtckc2TTU2MEgyWWwtcVR4MkljaDA3eGNVVVpNSGk3Qnp3OHJWQWhON1VjN0dNbXl0c2NFQzd0d2pKR2ZXbkZUelpPN2JzZ29XVW16MW9raFpFdzltR3c?oc=5\" target=\"_bla"
     },
     {
       "title": "Health and Emergency Preparedness for Mass Gatherings at the 2034 FIFA World Cup in Saudi Arabia: A Systematic Review and Targeted Evidence Update",
@@ -912,15 +894,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ1Q5WEFKdDVLcTN0Yks3dUdMazNPRmpfWlJoWXRpNnYzQ2Y5ZW0zLWd2SklkTWhNX1dCUGN2bHpjOW1ESjN4dUt1UHJoTmwySDluNmRscmdySkVFOURVcFdFbjMzRHBEdV9VY08xNW9mZEdqUmpidWNSWEdxRUZfdXFwQ1h1R3ZmVFNCQW12X3ZuT2dKdVJYTm1vMWZoUFJTTERkeHpEaXo0VERrcVpmelhtSFROSEFLcl"
     },
     {
-      "title": "OFC Beach Soccer Men’s Nations Cup 2026 | Team Profile | New Caledonia",
-      "source": " url=\"https://www.oceaniafootball.com\">Oceania Football Confederation",
-      "date": "2026-10-19",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa1paY2ppanR4LURIMHFFbXdzVzRKRzl4c3pnSjFKZWV3UnZjY0xkeHZrSGtxTW5vUDJZa0lLZlF5ekxSeXdjQUZ6WW54RnBIV3U1T1FQMFpISmEzV3FmU1Y0bGgwNk53WVlZcVZQTDFpb3ZJZVJqVGZVWV85UEdkbF94VklzdURzSTlVcXcyQkZ6bmZuWWo0REw2Z0hhQ3M?oc=5",
-      "category": "squad",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNa1paY2ppanR4LURIMHFFbXdzVzRKRzl4c3pnSjFKZWV3UnZjY0xkeHZrSGtxTW5vUDJZa0lLZlF5ekxSeXdjQUZ6WW54RnBIV3U1T1FQMFpISmEzV3FmU1Y0bGgwNk53WVlZcVZQTDFpb3ZJZVJqVGZVWV85UEdkbF94VklzdURzSTlVcXcyQkZ6bmZuWWo0REw2Z0hhQ3M?oc=5\" target=\"_blank\">OFC Beach So"
-    },
-    {
       "title": "Narvik withdraws from hosting 2026/27 FIS World Cup races",
       "source": " url=\"https://www.fis-ski.com\">International Ski and Snowboard Federation (FIS)",
       "date": "2026-10-19",
@@ -966,13 +939,13 @@
       "description": "<p>Getting rid of head coach is not going to solve the problems that led to his appointment. Perhaps it’s worth, for once, doing something different</p><p>At the final whistle at Elland Road the TV cameras cut to a lingering shot of the Manchester United chief executive, Omar Berrada, looking down p"
     },
     {
-      "title": "New Zealand avoid massive World Cup shock against Fiji",
-      "source": " url=\"https://www.bbc.com\">BBC",
+      "title": "2026-27 FIS Alpine World Cup Calendar — Women",
+      "source": " url=\"https://snowbrains.com\">SnowBrains",
       "date": "2026-10-18",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16TWgxZm9tX0tYV3k3aVZTcnowZ0RiWlBtVkoxaWMwM2RKMnN4Y3ZKT3FoWU50a3hBb1FVOVI5MThoaGlISWRWRGxBR0MxWGN0VXB0WWxCTW0xeFI4OWFOZFN6c2ZURXFwaTBSbkdB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KQ1ZXbHlXbW9PZmhPaWVFM1J5Nmw1M3ltaFhRMEJSUm05NG9JQjZRcG9IOWFMalVQNm9fV29LR3c2UTEwSlc3dHV3a29PaVFfd3hWZkI1cEZuQlNWTXpOd1Q3ZDNZY0daZkRhRDFiM2R1cnNGUmc?oc=5",
       "category": "general",
       "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE16TWgxZm9tX0tYV3k3aVZTcnowZ0RiWlBtVkoxaWMwM2RKMnN4Y3ZKT3FoWU50a3hBb1FVOVI5MThoaGlISWRWRGxBR0MxWGN0VXB0WWxCTW0xeFI4OWFOZFN6c2ZURXFwaTBSbkdB?oc=5\" target=\"_blank\">New Zealand avoid massive World Cup shock against Fiji</a>  <font color=\"#6f6f6"
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1KQ1ZXbHlXbW9PZmhPaWVFM1J5Nmw1M3ltaFhRMEJSUm05NG9JQjZRcG9IOWFMalVQNm9fV29LR3c2UTEwSlc3dHV3a29PaVFfd3hWZkI1cEZuQlNWTXpOd1Q3ZDNZY0daZkRhRDFiM2R1cnNGUmc?oc=5\" target=\"_blank\">2026-27 FIS Alpine World Cup Calendar — Women</a>  <font color=\"#6f6"
     },
     {
       "title": "James McClean: ‘Wearing the poppy was just never going to happen’",
@@ -1209,6 +1182,15 @@
       "description": "<p>Goal averages are crumbling as players take fewer touches in the box and forwards underperform against xG</p><p>Goals are on the up in the Premier League. The average of 2.70 non-penalty goals per game in 2026-27 is higher than last season and two of the four previous campaigns. Yet we should hav"
     },
     {
+      "title": "Roberto De Zerbi's latest Pedro Porro injury news puts even more pressure on Mohammed Kudus and Savio",
+      "source": " url=\"https://sports.yahoo.com\">Yahoo Sports",
+      "date": "2026-10-09",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa0RQU29IMVRkdG1zRlRoX1FmYzJuRzQ0OWFLUXF6OEdQVnJQWG9RSWxjMGJFY1doRDNpM0JmYkhJWEZ2aFl2dEVYSy1Jb2xCUnJWX08xMXBmRFdEcEhwY3RMd2RaV0NmS0Nhdl9xTlAtczZyb2UyTWNybGRjYkNzMEprMWNmX3pDcUE?oc=5",
+      "category": "injuries",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPa0RQU29IMVRkdG1zRlRoX1FmYzJuRzQ0OWFLUXF6OEdQVnJQWG9RSWxjMGJFY1doRDNpM0JmYkhJWEZ2aFl2dEVYSy1Jb2xCUnJWX08xMXBmRFdEcEhwY3RMd2RaV0NmS0Nhdl9xTlAtczZyb2UyTWNybGRjYkNzMEprMWNmX3pDcUE?oc=5\" target=\"_blank\">Roberto De Zerbi's latest Pedro Porro in"
+    },
+    {
       "title": "Mikel Arteta’s new contract reflects where the power now lies at Arsenal | Ed Aarons",
       "source": "The Guardian",
       "date": "2026-10-08",
@@ -1272,15 +1254,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ2pRTER4OGtQS01WaGYxMkVLOWVnRVNlTGFKb1ZuQjVFT296TUhVSkNsSV9BTXItRVhlQUNUZG56OC1KS3B5WUVIWVIzZG1EUEUwbkt3Tm80NEc4dVloT0RLMkVZZlQ0WlFTRGVGeW1Va2NxdThBY1hSeHM2Wkg0S0hNcjFaa0ZBVm9QMVhodGxSRHVGVjduVmliTlhQQ3VLY2xWVnNLVnlZVzlKS0J2YXVRRWZIa3hIUW"
     },
     {
-      "title": "Lamar Jackson injury update: Ravens QB returns to practice in full capacity after back issue - The Athletic",
-      "source": " url=\"https://www.nytimes.com\">The New York Times",
-      "date": "2026-10-01",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdC1YSjZZS1oyUU0yVVhhRlp2akdVdG01QUQ1M1VMUFJ4TnEtcXlGWHVHdU83NmpYMGlQaFoxTm9SVDBtM0RrbjNhSzA3MUlCSUJxdWgwbTd5TC1qU2ZXX0Ria1lGaUVFXzlERmJiWnl6emxPMUNMYU1sdnlRRU9KUlJra0FiZERxNzJuMzE4NVlhaTZEZmxFZkpB?oc=5",
-      "category": "injuries",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPdC1YSjZZS1oyUU0yVVhhRlp2akdVdG01QUQ1M1VMUFJ4TnEtcXlGWHVHdU83NmpYMGlQaFoxTm9SVDBtM0RrbjNhSzA3MUlCSUJxdWgwbTd5TC1qU2ZXX0Ria1lGaUVFXzlERmJiWnl6emxPMUNMYU1sdnlRRU9KUlJra0FiZERxNzJuMzE4NVlhaTZEZmxFZkpB?oc=5\" target=\"_blank\">Lamar Jackson injur"
-    },
-    {
       "title": "The part-timers who won three Wembley finals in a row",
       "source": "BBC Sport",
       "date": "2026-09-30",
@@ -1297,15 +1270,6 @@
       "category": "results",
       "thumbnail": "",
       "description": "<p>Our NextGen picks from five years ago show that breaking through early does not guarantee longevity or future success</p><ul><li><p>Read the full updates on our class of 2021 <a href=\"https://www.theguardian.com/football/ng-interactive/2021/oct/07/next-generation-2021-60-of-the-best-young-talents"
-    },
-    {
-      "title": "NFL Week 3 fantasy football injury report and weather forecast - The Athletic",
-      "source": " url=\"https://www.nytimes.com\">The New York Times",
-      "date": "2026-09-28",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSnRWM3dHSmh5YXBzaHdic3F1aUVXTndRQ2paaEhNV1VaRGJaQVY0Vll3aHBxVTBvQWI1bXlNbV9XNW51SldKWGtWc1hYdlYxMWE1Rlc2UjhrQlFHN21kakU0SGdJSGQ1YUpHWEtxNWxQc0Y0RjRkYl9zQkhUelRtOFBfZWRuckp0by0zLWdZQUktUFZPbkNMeQ?oc=5",
-      "category": "injuries",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQSnRWM3dHSmh5YXBzaHdic3F1aUVXTndRQ2paaEhNV1VaRGJaQVY0Vll3aHBxVTBvQWI1bXlNbV9XNW51SldKWGtWc1hYdlYxMWE1Rlc2UjhrQlFHN21kakU0SGdJSGQ1YUpHWEtxNWxQc0Y0RjRkYl9zQkhUelRtOFBfZWRuckp0by0zLWdZQUktUFZPbkNMeQ?oc=5\" target=\"_blank\">NFL Week 3 fantasy fo"
     },
     {
       "title": "'I persuaded my club to give me a job as a content creator'",
@@ -1344,13 +1308,13 @@
       "description": "<p>Every deal in the NWSL, WSL, Liga F, Frauen-Bundesliga, Première Ligue and Serie A Femminile as well as a club-by-club guide</p><ul><li><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues\">Men’s trans"
     },
     {
-      "title": "2026 FIFA World Cup™ ⭐️ TOP 10 MOMENTS of the Tournament",
+      "title": "Watch FIFA World Cup 2026™: Stream Live Matches on FOX One",
       "source": " url=\"https://www.fox.com\">FOX One",
       "date": "2026-09-22",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RVTl6eDdvVXY2UWRLR3RzTE1QZzh2NzZxaW1jVmkyTXFPTURycGdobVRVdVRnbFZYVFBOcFdraVM3U0VKTE9PbTdIU2RFU1puOHZoNTItSFk1SEZl?oc=5",
       "category": "general",
       "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RVTl6eDdvVXY2UWRLR3RzTE1QZzh2NzZxaW1jVmkyTXFPTURycGdobVRVdVRnbFZYVFBOcFdraVM3U0VKTE9PbTdIU2RFU1puOHZoNTItSFk1SEZl?oc=5\" target=\"_blank\">2026 FIFA World Cup™ ⭐️ TOP 10 MOMENTS of the Tournament</a>  <font color=\"#6f6f6f\">FOX One</font>"
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RVTl6eDdvVXY2UWRLR3RzTE1QZzh2NzZxaW1jVmkyTXFPTURycGdobVRVdVRnbFZYVFBOcFdraVM3U0VKTE9PbTdIU2RFU1puOHZoNTItSFk1SEZl?oc=5\" target=\"_blank\">Watch FIFA World Cup 2026™: Stream Live Matches on FOX One</a>  <font color=\"#6f6f6f\">FOX One</font>"
     },
     {
       "title": "Ten unusual jobs in football",
@@ -1369,6 +1333,15 @@
       "category": "squad",
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04ca/live/e0721ca0-9f9e-11f1-aed2-8d6da8d75094.jpg",
       "description": "Can the potential of a golden generation of Israel's footballers, in sport and society, be realised?"
+    },
+    {
+      "title": "Aces give A’ja Wilson injury update, defend MVP’s choice to miss FIBA World Cup",
+      "source": " url=\"https://www.usatoday.com\">USA Today",
+      "date": "2026-09-10",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTm96UDJJUE55VGYtUmJ0OVBZUjN0cURoWXRuUWF5TWVpdm94Q19VelVGQ1NCMHQxaDBiUVhRZnp0QlF3dzNLWXpHWXNRQTREU1pwa1hUb09mTl80YmtYMmt3Wk9iVk1NQlpQX3JDSDBHZFp0R25obkdWY202cFZ0OTJVZ3o1X0xGelJHaWxDT3VLVlNFeS1GTzR4dWlJUFU0aG5rSjJRRGVWNkF2Qk5aSA?oc=5",
+      "category": "injuries",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPTm96UDJJUE55VGYtUmJ0OVBZUjN0cURoWXRuUWF5TWVpdm94Q19VelVGQ1NCMHQxaDBiUVhRZnp0QlF3dzNLWXpHWXNRQTREU1pwa1hUb09mTl80YmtYMmt3Wk9iVk1NQlpQX3JDSDBHZFp0R25obkdWY202cFZ0OTJVZ3o1X0xGelJHaWxDT3VLVlNFeS1GTzR4dWlJUFU0aG5rSjJRRGVWNkF2Qk5aSA?oc=5\" targe"
     },
     {
       "title": "TikTok and FIFA Introduce the FIFA World Cup 2026™ Creator Correspondents",
@@ -1426,7 +1399,7 @@
     },
     {
       "title": "Meet the Team: USA’s 2026 FIFA U-20 Women’s World Cup Roster",
-      "source": " url=\"https://ussoccer.com\">U.S. Soccer",
+      "source": " url=\"https://ussoccer.com\">US Soccer",
       "date": "2026-09-03",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONXZuY1VqTHB2T3d5RlNaQ29STmlha01RUGxGWGtuOGZLWUdSWUxUdnlCMldxZXZRaGtaLVMtRG1NNGV0Nkx4d0dvTzJRUjR4bDNqVmVyQS1NYnprSU01c0Yxb0plX011OFBpcVE4bDIxVm9uRjRmTGxURGpJaW5obDBRUUVfOHYzNHM2a3VvaWc4YTRLRmlvSmdnX01qTm9J?oc=5",
       "category": "squad",
@@ -1468,6 +1441,15 @@
       "category": "general",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWVzTlRyYmFkOVl3aUNIUWZtR3lRR3Jqc3l1Y1FOdm5zZGZwOUQ5RGFhYzFEck83b3oxbFdzWnpDWWRIV0EwVmxFQnJfY1hhRjhDWXNWZWYyUF9iZm5LSUtHUHNocVNaYnBBNXlPeUd3a0VlWWUyZy14LUlscUpzdldiRmJZSU8xc1d1WkQ1NUZEczZCSDVwNGlqbnRFS1Jlb0lwS0dISk9QcFhxa3lCZmJTOU1KTDIydT"
+    },
+    {
+      "title": "How A'ja Wilson and Kelsey Plum injuries impact USA at World Cup",
+      "source": " url=\"https://www.espn.com\">ESPN",
+      "date": "2026-08-31",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT1NyM0txWWV1cEVQZjJfVjM1ZVQzSG5GVHV2TEUwQWxfcTg4MWh5ME9kRXR2aVVibVNLVjg4ZDA4SjNEQ1YxVlYzVEJiTXh4SGY0WWhIZGpRUkQ1UWROSzhYVkF5YzlxdHpqMy1WYTYzU3N3dXVrYnRhTnVNX0JYOWxKTGlQb1ROczJlTkNmcHVpR0hNaXoybElHYW9qZTB4WHZiZmtCR01xSzZqcFdHZERCVnVhOVhwenZ2ag?oc=5",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQT1NyM0txWWV1cEVQZjJfVjM1ZVQzSG5GVHV2TEUwQWxfcTg4MWh5ME9kRXR2aVVibVNLVjg4ZDA4SjNEQ1YxVlYzVEJiTXh4SGY0WWhIZGpRUkQ1UWROSzhYVkF5YzlxdHpqMy1WYTYzU3N3dXVrYnRhTnVNX0JYOWxKTGlQb1ROczJlTkNmcHVpR0hNaXoybElHYW9qZTB4WHZiZmtCR01xSzZqcFdHZERCVnVhOVhwen"
     },
     {
       "title": "NEW YORK NEW JERSEY HOST COMMITTEE ANNOUNCES $3.5 BILLION IN REGIONAL ECONOMIC IMPACT FROM FIFA WORLD CUP 2026",
@@ -1560,15 +1542,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5fQWUzdlFaa3JpankxNGFNcHZvUHdIakVlZFV5bzBWQ2QtdU5DUTNpZzhwOU1kVFpBTEF3N3F0ZDkxX2c2VEJDOEJtcVpGX2FGUGYydW9xNXEzeEZBZ1NnNm9NYlNtdlNlRnNDMy1PWWJ3SDdYYTBpV0FyNA?oc=5\" target=\"_blank\">U.S. Gets Bad News On Future World Cups After President Trump"
     },
     {
-      "title": "FIFA is embroiled in a $20 billion World Cup controversy. Here's what's going on",
-      "source": " url=\"https://www.cnbc.com\">CNBC",
-      "date": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWVR4Q0NvUWZBaFZwSHBZcVlNQXQ5a2JUUHpPdnRvMkYzc0tLbEwxWGNFc3RZbjF0YS11TGZ5QzRWdGZRYm5nM3RtZlJOanZSOVktQ2REbWd5VTBRVjhvTk9WckhTaHlCYVVkeHhUMXVHVVR0SV9mYkN6TXRyWUF1ctIBhgFBVV95cUxPZXdCYjIyaFZNTXhNZWZ3WVRjYW1GbWRhN0QxVk9ZUm95c2ZyeXE5Y3oyaF9JTFcxeXlocDU1ZjFaWlhYZl8tbzdlSDBfaGwyUkdXYVhPWE5VcFZfaTVPM1J1M2Qxc3dvVnVOZ0tJVEo4WUt0RmFiaGpZZWtZRUN2cEkzRV9wUQ?oc=5",
-      "category": "general",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNWVR4Q0NvUWZBaFZwSHBZcVlNQXQ5a2JUUHpPdnRvMkYzc0tLbEwxWGNFc3RZbjF0YS11TGZ5QzRWdGZRYm5nM3RtZlJOanZSOVktQ2REbWd5VTBRVjhvTk9WckhTaHlCYVVkeHhUMXVHVVR0SV9mYkN6TXRyWUF1ctIBhgFBVV95cUxPZXdCYjIyaFZNTXhNZWZ3WVRjYW1GbWRhN0QxVk9ZUm95c2ZyeXE5Y3oyaF9JTF"
-    },
-    {
       "title": "Ranked: The Most Valuable Squads at the 2026 FIFA World Cup",
       "source": " url=\"https://www.visualcapitalist.com\">Visual Capitalist",
       "date": "2026-07-28",
@@ -1632,15 +1605,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOGtxV1gtQjVhWUtCQ1k5Ym5ETWI0bHZib1FPUVhaMmNSVmpTaGt5SWR6M0ZScjV1OW1OT3J3Yk5KX05KM2R0M0dIOHA2QzgtYWxQbGFySFNkSVVWTVRBX3RJaTR3MnY4RE1SYVc4dzNzSWV4bTJ5eEUzZktjRjJxdlNjQnBUR1J1aktyb2NZY25zZ2JPRU1hNnJWQUhIbHgtUTRXSFRUUVRNcmY1dWRLSFRnajgxZHgxUm"
     },
     {
-      "title": "Mercedes-Benz Stadium Sets New Standard During FIFA World Cup 2026 - Mercedes-Benz Stadium",
-      "source": " url=\"https://www.mercedesbenzstadium.com\">Mercedes-Benz Stadium",
-      "date": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQS1DVG5nWTJpMXVCZ2tYLUZVOWNmOXVHMjVxQ2Y3WnJHYlRZcmhacTc0UkNMOVhtbldMeHNSTzMyaGp0S2F6MHd6cVpBS2R2X3FHejZEYW9FNEswUGZ4ZW1LZ3hsWF9ObzI0YWlCbzNaSVV6WmdDeVhlT2RyaE9WeVZld2J4Q0VaZ2YyR0g5dnVVS2stdDQ0ZkYwazZ2c2huQXJ4RmM3MEMwcU0?oc=5",
-      "category": "venues",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQS1DVG5nWTJpMXVCZ2tYLUZVOWNmOXVHMjVxQ2Y3WnJHYlRZcmhacTc0UkNMOVhtbldMeHNSTzMyaGp0S2F6MHd6cVpBS2R2X3FHejZEYW9FNEswUGZ4ZW1LZ3hsWF9ObzI0YWlCbzNaSVV6WmdDeVhlT2RyaE9WeVZld2J4Q0VaZ2YyR0g5dnVVS2stdDQ0ZkYwazZ2c2huQXJ4RmM3MEMwcU0?oc=5\" target=\"_bla"
-    },
-    {
       "title": "2026 FIFA World Cup Best XI, Team of the Tournament unveiled: Full list of players",
       "source": " url=\"https://sports.yahoo.com\">Yahoo Sports",
       "date": "2026-07-22",
@@ -1648,6 +1612,15 @@
       "category": "squad",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBzRk5CUndyUFRnTHZTejd2ZFhKUk44a3c4anpUaTVXalFqSWN3d21oMnotWWFaSjN3YWxEdHRVUTVuSGxMM2R1OHBzZk5PVGVDS3VjS0FWbTVGSmJiMUJKMzJfa3ExelNkM3F1bmUzaVNhYk5POHU4ZjIxOHg3Zw?oc=5\" target=\"_blank\">2026 FIFA World Cup Best XI, Team of the Tournament unvei"
+    },
+    {
+      "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament",
+      "source": " url=\"https://sports.yahoo.com\">Yahoo Sports",
+      "date": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
+      "category": "squad",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5\" target=\"_blank\">🏆 FIFA unveil official World Cup 2026 Team o"
     },
     {
       "title": "New Jersey World Cup 2026 generates $2.1B impact (updated)",
@@ -1668,15 +1641,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JbXhZa0hCWUdvZ2FlSXk5VXB3bGxhNkFldmo5QmliZHdUYTY1SG5yUzJnUUtPc1ZYRUZVdmRXZ2p3a2E3TXBhRV9xNjFQQmtxVnFEaWl5bnNEZ0czUkJyVw?oc=5\" target=\"_blank\">How This World Cup Tested FIFA and Changed Soccer</a>  <font color=\"#6f6f6f\">The New York Times</"
     },
     {
-      "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament",
-      "source": " url=\"https://sports.yahoo.com\">Yahoo Sports",
-      "date": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
-      "category": "squad",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5\" target=\"_blank\">🏆 FIFA unveil official World Cup 2026 Team o"
-    },
-    {
       "title": "Mbappé, Cucurella, and Bellingham in the World Cup Best XI",
       "source": " url=\"https://www.realmadrid.com\">Real Madrid CF | Web Oficial",
       "date": "2026-07-22",
@@ -1684,6 +1648,15 @@
       "category": "general",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQndRSUdsbnFqU2tNLUlka2pldDBFX1I5N1dVelhKbmdodndVTlktQmFRU1FZVnBjZ3hDWXNRZmM2aHZpMFg3NHJZeGxzYXpyUFlUU2xRSDFQX1pHREhkRlRnRXJZNWIxVHMyTHE2QWlyYnd2b2xrSmdMQjIzQUVPb2E1ZU5RTnFFRzJfam1IZm42Skh2dmFCUmRwSWJpNnQza2R5Ykx1RHBfcFhPamFHUkplc1BsbnlZMT"
+    },
+    {
+      "title": "Mercedes-Benz Stadium Sets New Standard During FIFA World Cup 2026 - Mercedes-Benz Stadium",
+      "source": " url=\"https://www.mercedesbenzstadium.com\">Mercedes-Benz Stadium",
+      "date": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQS1DVG5nWTJpMXVCZ2tYLUZVOWNmOXVHMjVxQ2Y3WnJHYlRZcmhacTc0UkNMOVhtbldMeHNSTzMyaGp0S2F6MHd6cVpBS2R2X3FHejZEYW9FNEswUGZ4ZW1LZ3hsWF9ObzI0YWlCbzNaSVV6WmdDeVhlT2RyaE9WeVZld2J4Q0VaZ2YyR0g5dnVVS2stdDQ0ZkYwazZ2c2huQXJ4RmM3MEMwcU0?oc=5",
+      "category": "venues",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQS1DVG5nWTJpMXVCZ2tYLUZVOWNmOXVHMjVxQ2Y3WnJHYlRZcmhacTc0UkNMOVhtbldMeHNSTzMyaGp0S2F6MHd6cVpBS2R2X3FHejZEYW9FNEswUGZ4ZW1LZ3hsWF9ObzI0YWlCbzNaSVV6WmdDeVhlT2RyaE9WeVZld2J4Q0VaZ2YyR0g5dnVVS2stdDQ0ZkYwazZ2c2huQXJ4RmM3MEMwcU0?oc=5\" target=\"_bla"
     },
     {
       "title": "Grading the 2026 World Cup from Spain's A to Infantino's F",
@@ -1695,15 +1668,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOSnoyQ3lqcGxjQkZfZ0xrNWdmUmh3OTdfaG85a2hjRGFxTEdWYnQ0ams4ZG1GZGdKVmVJcEliNDVQRnpzWUNxdmVaWGtlSHdYUFRxVTFnNEhPbHJEX0V6TmMwdXUydFN2UXhwYjlZUml2cGlocUtHWk51cU1ZYW5SQ1NPcktFcDFzdWlLSWRrWkVrNE42?oc=5\" target=\"_blank\">Grading the 2026 World Cup "
     },
     {
-      "title": "Fifa World Cup 2026 What You Need To Know During The Big Event",
-      "source": " url=\"https://newjersey.news12.com\">News12 | New Jersey",
-      "date": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNkswcE5uUlBsSzBEM0FiZXUxd1RQRWpuWnNQNDhBakd3cGNDOVNSakVjYnA3YzltLWhEZFY5UWRlTk5oVEpTTDhOWXFEQkZOaTJZLWdjMXNDcUxkblk3d0Z6SHBfaFNkYmZESVNJdGYwVVZCa0JSaHBmeS1YU1ZkbFpPS0ZjUl9mNEZGbldZanRhZENzX1MzbF9hWUUtdjJyZ3Q4NUZBakppZDlrUlFZVmd0U0xoY1dqWjJwSkN6RVpINU0?oc=5",
-      "category": "general",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNkswcE5uUlBsSzBEM0FiZXUxd1RQRWpuWnNQNDhBakd3cGNDOVNSakVjYnA3YzltLWhEZFY5UWRlTk5oVEpTTDhOWXFEQkZOaTJZLWdjMXNDcUxkblk3d0Z6SHBfaFNkYmZESVNJdGYwVVZCa0JSaHBmeS1YU1ZkbFpPS0ZjUl9mNEZGbldZanRhZENzX1MzbF9hWUUtdjJyZ3Q4NUZBakppZDlrUlFZVmd0U0xoY1dqWj"
-    },
-    {
       "title": "How will 2026 World Cup be remembered: Messi? Haaland? Cape Verde? Trump?",
       "source": " url=\"https://www.espn.com\">ESPN",
       "date": "2026-07-21",
@@ -1711,6 +1675,15 @@
       "category": "general",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQbDRQZ2tMR1lyRlFiVjVMMjBlaV9nbWtQZHRUSmxSRHEtMU5uMi1ScGNiR3Vtd0Q4LTBkVDRfMFdzMmhtQmo2bUN4NkF0elpKSVVVUDQwcEJfeFplNko1UVptUzdFU2pmVWQxQTZiOS0wWm44STBzTEtXWXlwUGhFaDZKOVdTT2JTSTBidk0xUXlGajlfN3k5OGxMT3hubUZWbUJQRjNwbkl1Rlc2?oc=5\" target=\"_bl"
+    },
+    {
+      "title": "Fifa World Cup 2026 What You Need To Know During The Big Event",
+      "source": " url=\"https://newjersey.news12.com\">News12 | New Jersey",
+      "date": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNkswcE5uUlBsSzBEM0FiZXUxd1RQRWpuWnNQNDhBakd3cGNDOVNSakVjYnA3YzltLWhEZFY5UWRlTk5oVEpTTDhOWXFEQkZOaTJZLWdjMXNDcUxkblk3d0Z6SHBfaFNkYmZESVNJdGYwVVZCa0JSaHBmeS1YU1ZkbFpPS0ZjUl9mNEZGbldZanRhZENzX1MzbF9hWUUtdjJyZ3Q4NUZBakppZDlrUlFZVmd0U0xoY1dqWjJwSkN6RVpINU0?oc=5",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNkswcE5uUlBsSzBEM0FiZXUxd1RQRWpuWnNQNDhBakd3cGNDOVNSakVjYnA3YzltLWhEZFY5UWRlTk5oVEpTTDhOWXFEQkZOaTJZLWdjMXNDcUxkblk3d0Z6SHBfaFNkYmZESVNJdGYwVVZCa0JSaHBmeS1YU1ZkbFpPS0ZjUl9mNEZGbldZanRhZENzX1MzbF9hWUUtdjJyZ3Q4NUZBakppZDlrUlFZVmd0U0xoY1dqWj"
     },
     {
       "title": "How to Watch the 2026 FIFA World Cup: Scores for Every Match",
@@ -1729,6 +1702,15 @@
       "category": "general",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNWFJ2VzV1ODVuVzRfNWhVYjYtMnZMaUY2emNmLTUtTXl2cjc2aGRLWm95anR2dUdqaWNXV0hsN1NOSnZycXJsWV8xTmp5WkV6X3h6SDYwVExpTjVBRFRvNjNqRVNNSXFaMUZUUEFOZGNDOU1nVzB6VTB3VFduVVNJaXZBVdIBgwFBVV95cUxOTW9pLTFIMHVPbFRVekRtTjJkRnd1RkdXNHhJUUNXY3prMElRanpnZmVpMm"
+    },
+    {
+      "title": "10 things that wowed us at the 2026 World Cup",
+      "source": " url=\"https://www.npr.org\">NPR",
+      "date": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOajdYdEJoUjNoWUJJTWY3Y0dIaVN3blZVLVJncVVZV3pGRlI1WFd3T0pONHQ1czRzQnZmTm40SWs0OXhGaXF1ZWNJeU9paEgyV1NjTDNXRmFsWGVwV2NvanA5VDNkRWQ4ZGdOcmRyaUxyRGZGVjBSRTZIN1FycGYyb0l0b0FkamRyMEZubGdfTTQzVDR6emc?oc=5",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOajdYdEJoUjNoWUJJTWY3Y0dIaVN3blZVLVJncVVZV3pGRlI1WFd3T0pONHQ1czRzQnZmTm40SWs0OXhGaXF1ZWNJeU9paEgyV1NjTDNXRmFsWGVwV2NvanA5VDNkRWQ4ZGdOcmRyaUxyRGZGVjBSRTZIN1FycGYyb0l0b0FkamRyMEZubGdfTTQzVDR6emc?oc=5\" target=\"_blank\">10 things that wowed us "
     },
     {
       "title": "The 50 Best Moments Of The 2026 FIFA World Cup",
@@ -1783,15 +1765,6 @@
       "category": "general",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWVVaTVhCVGhka0huSDJ4alRXdEZmNndsRkhQQU5ONHhiR3dBS1ZCSGlfUUlTcWRjTlBTbVhRUFZGQVhBN3hQVi1OeW1pdi1HUTF3RzNoT21vN2NkQzc1eXRrOG03RHZrMkZHQkRrTkl2c0lHYWZYdms2WFdENkktamhDVXZPWVF5QkRPV244WGNmcjhCS3ktMGJtR3ZaOHNXVUVpZGJOcC1ZOWfSAbABQVVfeXFMTjFSaW"
-    },
-    {
-      "title": "10 things that wowed us at the 2026 World Cup",
-      "source": " url=\"https://www.npr.org\">NPR",
-      "date": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOajdYdEJoUjNoWUJJTWY3Y0dIaVN3blZVLVJncVVZV3pGRlI1WFd3T0pONHQ1czRzQnZmTm40SWs0OXhGaXF1ZWNJeU9paEgyV1NjTDNXRmFsWGVwV2NvanA5VDNkRWQ4ZGdOcmRyaUxyRGZGVjBSRTZIN1FycGYyb0l0b0FkamRyMEZubGdfTTQzVDR6emc?oc=5",
-      "category": "general",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOajdYdEJoUjNoWUJJTWY3Y0dIaVN3blZVLVJncVVZV3pGRlI1WFd3T0pONHQ1czRzQnZmTm40SWs0OXhGaXF1ZWNJeU9paEgyV1NjTDNXRmFsWGVwV2NvanA5VDNkRWQ4ZGdOcmRyaUxyRGZGVjBSRTZIN1FycGYyb0l0b0FkamRyMEZubGdfTTQzVDR6emc?oc=5\" target=\"_blank\">10 things that wowed us "
     },
     {
       "title": "FIFA World Cup Final 2026",
@@ -1965,6 +1938,15 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOVWtVbWZ1a2VNcnV6aVdQZExFYnVhQzhaZjlBUG5rQ1lqNmZSYTJFMzNLTmRRaTJsaHJlWmVfc0dZcE02ODBkQ1NSbmowajlwNUN1dG5MWUxtNnJxZVJCZE5GVXJnYWRBZnQ1TTB0MEViZDVBbjEzM3pVa1cyYTUxcExXUENrbFVkTzY1eVJn0gGTAUFVX3lxTE95SDhINzlvUDRoUFp0Rm1QdTZvbGtka3dPT3Q5dmpJY0"
     },
     {
+      "title": "Spain vs. Argentina: What to know about the World Cup final teams, players and records",
+      "source": " url=\"https://www.cbsnews.com\">CBS News",
+      "date": "2026-07-19",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY0FUZ3BYWW92aHZselRaRzVXYmxIR1lTQ2h6S0J3d1J5UzJROG1rZ0N1NGFhZ0J0TE05OTVtSDNUblNROWVLejlLeW51Y05fVnFERVk1ZzRuMVVmQlU0S0J6MTdmbkFpcU9wd3Nyd1pvOUc3THdwdkNBV0tiVHdXZ001Zw?oc=5",
+      "category": "squad",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOY0FUZ3BYWW92aHZselRaRzVXYmxIR1lTQ2h6S0J3d1J5UzJROG1rZ0N1NGFhZ0J0TE05OTVtSDNUblNROWVLejlLeW51Y05fVnFERVk1ZzRuMVVmQlU0S0J6MTdmbkFpcU9wd3Nyd1pvOUc3THdwdkNBV0tiVHdXZ001Zw?oc=5\" target=\"_blank\">Spain vs. Argentina: What to know about the World"
+    },
+    {
       "title": "Spain is the 2026 World Cup champion, defeating Argentina for its 2nd title",
       "source": " url=\"https://www.npr.org\">NPR",
       "date": "2026-07-19",
@@ -1992,15 +1974,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOR1M4Q2tnSU9RVTF1b1hKQVdPUTNDQzJGcTZ1TUVpLTNuVzdwcFI4M0xjZlBoVlZJRDctSExaSzc1Sks4UVVwY2Nuem5FSkhTVUtCWTNhSXhVa291U0d6ZzJvWkM2R2VDejFSMEVqcDBYWUtESGx6RVotOXRlNkdSRjhwSlNLQTRLclBOelZfdnljNGV3RkMwN2MyNjF5eFIwbkV6RVFsX1pqUzJzMXd6MjZTUW4?oc=5\" "
     },
     {
-      "title": "FIFA World Cup schedule today: Games, kickoff times, livestream info for July 19",
-      "source": " url=\"https://mashable.com\">Mashable",
-      "date": "2026-07-19",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWlhQYzVrYXFwSXVOVVlhV0x1TDdRc1BqakNPWUcxLTJVcWRlSndlaDZaOTdHNFBTX180cFlZRVJlV19QTUI4ZmJiTTk5V0JIV2VsR1hqQzBwdXE4bXdra0FzWXcwalV1UlZKVDRmZzRXWHhUeVF6THZmdWlfS3VVNktuVS1ZRlF1YkJzQmZiVks5bkpzSFE?oc=5",
-      "category": "general",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPWlhQYzVrYXFwSXVOVVlhV0x1TDdRc1BqakNPWUcxLTJVcWRlSndlaDZaOTdHNFBTX180cFlZRVJlV19QTUI4ZmJiTTk5V0JIV2VsR1hqQzBwdXE4bXdra0FzWXcwalV1UlZKVDRmZzRXWHhUeVF6THZmdWlfS3VVNktuVS1ZRlF1YkJzQmZiVks5bkpzSFE?oc=5\" target=\"_blank\">FIFA World Cup schedule "
-    },
-    {
       "title": "What time is the World Cup final? July 19 soccer schedule",
       "source": " url=\"https://www.espn.com\">ESPN",
       "date": "2026-07-19",
@@ -2008,6 +1981,15 @@
       "category": "general",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNWHFNeks0SU5vUWJYQ3FQekxIdG9UTXAtY2hHbzdtRUQ5SS1pX3lmRDlKaXNpeXFhWTZKRTlEdmtYWXQzamFLcFp0ZTRQRXFEek5HNjRQOFo0ekNld1NGWVdwNktQU29jWU5FMTNxS3c0aFgtZnFnZ2R0eUxjZ0s5X3kwcGZuRGx4UUFvSTZXSUtBTGhURU9N?oc=5\" target=\"_blank\">What time is the World "
+    },
+    {
+      "title": "FIFA World Cup schedule today: Games, kickoff times, livestream info for July 19",
+      "source": " url=\"https://mashable.com\">Mashable",
+      "date": "2026-07-19",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWlhQYzVrYXFwSXVOVVlhV0x1TDdRc1BqakNPWUcxLTJVcWRlSndlaDZaOTdHNFBTX180cFlZRVJlV19QTUI4ZmJiTTk5V0JIV2VsR1hqQzBwdXE4bXdra0FzWXcwalV1UlZKVDRmZzRXWHhUeVF6THZmdWlfS3VVNktuVS1ZRlF1YkJzQmZiVks5bkpzSFE?oc=5",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPWlhQYzVrYXFwSXVOVVlhV0x1TDdRc1BqakNPWUcxLTJVcWRlSndlaDZaOTdHNFBTX180cFlZRVJlV19QTUI4ZmJiTTk5V0JIV2VsR1hqQzBwdXE4bXdra0FzWXcwalV1UlZKVDRmZzRXWHhUeVF6THZmdWlfS3VVNktuVS1ZRlF1YkJzQmZiVks5bkpzSFE?oc=5\" target=\"_blank\">FIFA World Cup schedule "
     },
     {
       "title": "2026 World Cup Title Results: Spain Defeats Argentina",
@@ -2044,15 +2026,6 @@
       "category": "general",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOUEpleWo5Y3dSdGVBUDFzTm1Cb2kzWnVPbXpod3NsZDBDb1pJb1BlZmx4V0dWNldSNVh3LVpZTGNCRTB2N0x1OHhkc3hEdHB5MXdZa3pHNENXamF4VDNxQURUZTZEZUNWbk5aeVFDRG9Ra1U1cWlPWWJwMzJ3N08tUg?oc=5\" target=\"_blank\">What time does World Cup final start?</a>  <font colo"
-    },
-    {
-      "title": "All The Celebrities Spotted At 2026 FIFA World Cup Final Match",
-      "source": " url=\"https://www.forbes.com\">Forbes",
-      "date": "2026-07-19",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZTJxbXRKbF9uWDZRZ1RoOGUyUFdCMHlQNkFqOXkzRjhRUk9YNldXN0JTVEltb0VoaFZXWmR0RGxLZk8zUWRWZlZPNVF5ZjlUSmdhTzRhNWxVdUFWZmlHUU9tVkRmaU84TnNvTHp6YllzTnVIZ1RCRzdzcnhMc3hraWtPbzRIQWwtaXY5MHkyNXh0M0VkbGFUMXpNUExaV1pKTEJISjdfSGRDWGxPUjNaWnN6N3daNlU?oc=5",
-      "category": "general",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQZTJxbXRKbF9uWDZRZ1RoOGUyUFdCMHlQNkFqOXkzRjhRUk9YNldXN0JTVEltb0VoaFZXWmR0RGxLZk8zUWRWZlZPNVF5ZjlUSmdhTzRhNWxVdUFWZmlHUU9tVkRmaU84TnNvTHp6YllzTnVIZ1RCRzdzcnhMc3hraWtPbzRIQWwtaXY5MHkyNXh0M0VkbGFUMXpNUExaV1pKTEJISjdfSGRDWGxPUjNaWnN6N3daNlU?oc"
     },
     {
       "title": "FIFA World Cup 2026 Final In Photos: Closing Ceremony, Halftime Show, Donald Trump & More",
@@ -2107,15 +2080,6 @@
       "category": "squad",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5xNFdodXNvM09wOE5TWHZfZi1mdFdmR0hKS1h6NDFiaEZqLVhlMmFKNmNfVXNyYW5hb0RZMVZZdEJfZ0E4WUxPQUZRT3RkRVFKaWZUSm43aThGb0czaUhxUWhRQjJuVG5vTzRmX1pPbV9DREdlRzRnLWdtTWI1UQ?oc=5\" target=\"_blank\">2026 FIFA World Cup Team of the Tournament: Messi, Mbappe"
-    },
-    {
-      "title": "Spain vs. Argentina: What to know about the World Cup final teams, players and records",
-      "source": " url=\"https://www.cbsnews.com\">CBS News",
-      "date": "2026-07-19",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY0FUZ3BYWW92aHZselRaRzVXYmxIR1lTQ2h6S0J3d1J5UzJROG1rZ0N1NGFhZ0J0TE05OTVtSDNUblNROWVLejlLeW51Y05fVnFERVk1ZzRuMVVmQlU0S0J6MTdmbkFpcU9wd3Nyd1pvOUc3THdwdkNBV0tiVHdXZ001Zw?oc=5",
-      "category": "squad",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOY0FUZ3BYWW92aHZselRaRzVXYmxIR1lTQ2h6S0J3d1J5UzJROG1rZ0N1NGFhZ0J0TE05OTVtSDNUblNROWVLejlLeW51Y05fVnFERVk1ZzRuMVVmQlU0S0J6MTdmbkFpcU9wd3Nyd1pvOUc3THdwdkNBV0tiVHdXZ001Zw?oc=5\" target=\"_blank\">Spain vs. Argentina: What to know about the World"
     },
     {
       "title": "2026 World Cup final one of the most expensive sporting events ever",
@@ -2208,6 +2172,15 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNemxvSmNqc2ZWUEZYWmJ5UjZKeXFtbm0zdmM3U3RHVVRCT3BZek1pRGhfUkVFN0JoZW9YcUdxanZxZ0V2aGZrUTdPb1QzTWRNeEk4Y2R2SUxHLXkyd3M3cWYyeERNSGNHMnFqR2pac0lMN0JXN1BJc0U2THpvbUM0bQ?oc=5\" target=\"_blank\">World Cup Games Today: Time & Channel For Saturday’s "
     },
     {
+      "title": "How much does World Cup winner get? Explaining record-breaking prize money for 2026",
+      "source": " url=\"https://sports.yahoo.com\">Yahoo Sports",
+      "date": "2026-07-18",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbEU0VGo2XzNETHVHODF5V3o3TkE3T2lhQlJra1FFNzQ2VFcySnFsWE5MN1FlM0pZZml1Tm1YNGhHQXdPQzJTendNU2dBOXl5X01qRk5qZEgwblF6SnotSVFqZDNxeWNiNDloZGtWMFRKSUdPQ3U1SW03QXlHYWhaSQ?oc=5",
+      "category": "results",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQbEU0VGo2XzNETHVHODF5V3o3TkE3T2lhQlJra1FFNzQ2VFcySnFsWE5MN1FlM0pZZml1Tm1YNGhHQXdPQzJTendNU2dBOXl5X01qRk5qZEgwblF6SnotSVFqZDNxeWNiNDloZGtWMFRKSUdPQ3U1SW03QXlHYWhaSQ?oc=5\" target=\"_blank\">How much does World Cup winner get? Explaining record"
+    },
+    {
       "title": "Kylian Mbappé leads Golden Boot race and is now all-time FIFA World Cup top scorer, but France lose 6-4 to England in third-place play-off thriller",
       "source": " url=\"https://www.olympics.com\">Olympics",
       "date": "2026-07-18",
@@ -2280,15 +2253,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQWEw4Zmphb3Y1dTlFSkhfX2RiS3lFdXU2bGg5MmdvTjNNeFBPc3BhWEJPdENLZlp6RW9URXpSV3dpZjEtdG5GcEhuZXo5NExudEhkMmpTNThJYUpvMDJEZW15Zloyd1lJRG9MNUdRemYyY1E2OXl5a0dLdDQ3SFJyUE5Pb29qOW8?oc=5\" target=\"_blank\">Lamine Yamal Injury Update: Will Spain's Sta"
     },
     {
-      "title": "France’s William Saliba forced off with injury in World Cup semi-final vs. Spain - The Athletic",
-      "source": " url=\"https://www.nytimes.com\">The New York Times",
-      "date": "2026-07-18",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON1k2NmNiZUNaM2cydWtFemZ0enljMElzZFFjYi1mYVc1WkN6ZExhcXUtRlc5cEhuSUZ0TzZndkZSRlJhZTE0SzRYZVVxbnc3NGwwUmZwLU16ZVZPc3lnclVQTFVXQTBBX1kwMndrcVZtWE1ub2F3NmpTYmlZY090NjRXdjhhSFUxa3piNTN5U3FpdEwya21TZWN5UQ?oc=5",
-      "category": "injuries",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxON1k2NmNiZUNaM2cydWtFemZ0enljMElzZFFjYi1mYVc1WkN6ZExhcXUtRlc5cEhuSUZ0TzZndkZSRlJhZTE0SzRYZVVxbnc3NGwwUmZwLU16ZVZPc3lnclVQTFVXQTBBX1kwMndrcVZtWE1ub2F3NmpTYmlZY090NjRXdjhhSFUxa3piNTN5U3FpdEwya21TZWN5UQ?oc=5\" target=\"_blank\">France’s William "
-    },
-    {
       "title": "Spain v Argentina | Lamine Yamal injury update | World Cup 2026 final",
       "source": " url=\"https://football360.com.au\">football360.com.au",
       "date": "2026-07-18",
@@ -2296,6 +2260,15 @@
       "category": "injuries",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNZmFRbUFEUllKd2s0TUF0SFI2c0pYUVloZ1ViMnI1dk42aDlBdFZPMUxYQU4xYzZ6YXZlZ1dkXzgzb3hYa1hhaWVuRi1WSmdmTkNxUmNDVHFhWjNBYzhSUWhHNzFNbnQzMmdwVWtGRnVfSmFUZGxMUlFCdmxoekYzYjc5Y2hNUkJHTnNlVnEybWJLSnFIamZ5Xw?oc=5\" target=\"_blank\">Spain v Argentina | L"
+    },
+    {
+      "title": "France’s William Saliba forced off with injury in World Cup semi-final vs. Spain - The Athletic",
+      "source": " url=\"https://www.nytimes.com\">The New York Times",
+      "date": "2026-07-18",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON1k2NmNiZUNaM2cydWtFemZ0enljMElzZFFjYi1mYVc1WkN6ZExhcXUtRlc5cEhuSUZ0TzZndkZSRlJhZTE0SzRYZVVxbnc3NGwwUmZwLU16ZVZPc3lnclVQTFVXQTBBX1kwMndrcVZtWE1ub2F3NmpTYmlZY090NjRXdjhhSFUxa3piNTN5U3FpdEwya21TZWN5UQ?oc=5",
+      "category": "injuries",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxON1k2NmNiZUNaM2cydWtFemZ0enljMElzZFFjYi1mYVc1WkN6ZExhcXUtRlc5cEhuSUZ0TzZndkZSRlJhZTE0SzRYZVVxbnc3NGwwUmZwLU16ZVZPc3lnclVQTFVXQTBBX1kwMndrcVZtWE1ub2F3NmpTYmlZY090NjRXdjhhSFUxa3piNTN5U3FpdEwya21TZWN5UQ?oc=5\" target=\"_blank\">France’s William "
     },
     {
       "title": "Lamine Yamal Injury: Spain Boss Provides Update for 2026 World Cup Final",
@@ -2514,6 +2487,15 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNMEE4Z2RuWHVDN1cxaTd5WTVTamRaVmJ0aHdkSmNlaHBtMUIybk5iX21VRzNmMnFrTmFRQ3FvZmdaeGQySV9kV3Q4VUVpcGtWSEZEb0M3VWt1SjdRUDd4VG9SV2dhNU5pbFJvLVpSYnpHNUpWbzNOc1lzRWxMeGo4VnJxeDZCU0U5ZnBxMld6UEJQdjhiY3ZVcTEyeHdiNGcyYWxacg?oc=5\" target=\"_blank\">FIFA "
     },
     {
+      "title": "The cheapest World Cup final ticket costs more than you think.",
+      "source": " url=\"https://sports.yahoo.com\">Yahoo Sports",
+      "date": "2026-07-17",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSXJHckd3MFU3dTZ1VE5TbFF0MkZPMTFlX2ZSTGF3NDMzcGhXZkhZdFRvX0tIdWJYOE5Gek1PLXJsQzNvcnlBWFVJSkJSNmpmNFRBN05lc1FfUS1HX0RfMFhHNjZQVVk3ZEhuOVNyNHpBODNrVzg3MEtmWXJxcUQ5U2hXNzFwQUU?oc=5",
+      "category": "venues",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOSXJHckd3MFU3dTZ1VE5TbFF0MkZPMTFlX2ZSTGF3NDMzcGhXZkhZdFRvX0tIdWJYOE5Gek1PLXJsQzNvcnlBWFVJSkJSNmpmNFRBN05lc1FfUS1HX0RfMFhHNjZQVVk3ZEhuOVNyNHpBODNrVzg3MEtmWXJxcUQ5U2hXNzFwQUU?oc=5\" target=\"_blank\">The cheapest World Cup final ticket costs mo"
+    },
+    {
       "title": "Ticket Prices for 2026 World Cup Final Soar, Set Record",
       "source": " url=\"https://www.si.com\">Sports Illustrated",
       "date": "2026-07-17",
@@ -2530,15 +2512,6 @@
       "category": "venues",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE00bEhMOUp1ZG5GS1lKZjZZWlF0Nlh3NFpqV0pCNVZ1TWFSVkNWWm1QVG9IRTd1VXN4VVJUZEVqMG1MOUJXb2Q2VXNIN01nbXl6eUh5X0RKTXZlVDByQndlVEdhMHMxc3Zrb3ZlX190aw?oc=5\" target=\"_blank\">World Cup games with highest (and lowest) get-in ticket prices</a>  <font col"
-    },
-    {
-      "title": "The cheapest World Cup final ticket costs more than you think.",
-      "source": " url=\"https://www.providencejournal.com\">The Providence Journal",
-      "date": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdTFhbWUyWVpMTFJTek5oNjc4LWhiWEduejhXb1JXSU1YcXNaS1RnOXpTTFRzRHhoMThvRjdyRTdkT0FIcEtKSnZ2cm9FNzhYZ3hBcEM5Uk1MQl9LX2dhbUhoVkpVTmJsc3p5S0V4ZXJuWHJOUlZkSjhaQkZsZk1wOGV3eGRsejJubkk4M196MjlLZ3kwUHNPallEdGVOdkd4aWNhVjRfWlVja1NEOGN6Rm1TMmlnUkpINWlqd3VIajlUa09adS1MUQ?oc=5",
-      "category": "venues",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdTFhbWUyWVpMTFJTek5oNjc4LWhiWEduejhXb1JXSU1YcXNaS1RnOXpTTFRzRHhoMThvRjdyRTdkT0FIcEtKSnZ2cm9FNzhYZ3hBcEM5Uk1MQl9LX2dhbUhoVkpVTmJsc3p5S0V4ZXJuWHJOUlZkSjhaQkZsZk1wOGV3eGRsejJubkk4M196MjlLZ3kwUHNPallEdGVOdkd4aWNhVjRfWlVja1NEOGN6Rm1TMmlnUkpINW"
     },
     {
       "title": "FIFA’s Clean Venue Policy and the Future of Naming Rights: Lessons for Practitioners from the 2026 World Cup",
@@ -2613,6 +2586,15 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQNjc3M01iTU5UYWN1R2V3dWtuOFNNWDM0VUZ5YWJWdVhlZFQ1M1NrYW5YWHJ0dHJBbjl6YVJPclA2LWt6ZllXZDF0RkF5Z0JTd1pIUmc1aFB5ZWNZcmdLRk1kVGRGWTdwRkVDOVBHdGw4MzlJVkw0ellSS3R5TGpkeUtzR1Bra0FZZ1d6ZDRCcWQwdHRoQVgwWjFfa0dHOUpPaDJSYWZKUEdqRlhYSmfSAa4BQVVfeXFMTV"
     },
     {
+      "title": "Who is still in the World Cup? Updated list of teams left in FIFA quarterfinal bracket",
+      "source": " url=\"https://sports.yahoo.com\">Yahoo Sports",
+      "date": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOEgzaU91Z3ZYYVNGbGRYZ3VLU3A1MzZ1NXAyUE9IbnNBTjZ5Y1NMakw3V1JhT1c5cFFuM3VTTmczMk81bVhiaEJ5OHBhcGxhUWxReE1CT2VtVXlzN1VJMlpiNHF3Q09SNVByN0hVSWlUd0ltQmc3aTJrOVFsN3hhR080WQ?oc=5",
+      "category": "squad",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQOEgzaU91Z3ZYYVNGbGRYZ3VLU3A1MzZ1NXAyUE9IbnNBTjZ5Y1NMakw3V1JhT1c5cFFuM3VTTmczMk81bVhiaEJ5OHBhcGxhUWxReE1CT2VtVXlzN1VJMlpiNHF3Q09SNVByN0hVSWlUd0ltQmc3aTJrOVFsN3hhR080WQ?oc=5\" target=\"_blank\">Who is still in the World Cup? Updated list of te"
+    },
+    {
       "title": "FIFA World Cup final: Date, time, halftime show, prediction and Trump",
       "source": " url=\"https://www.aljazeera.com\">Al Jazeera",
       "date": "2026-07-16",
@@ -2629,15 +2611,6 @@
       "category": "venues",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPU2l5R3lZdVRGZlZUYmlpRE5zNmVJNkVEZEQzVHI5aFZVdzhHbHRqd3FUdEFrQ056UEtyRmF3UmlGLTh3QmpQQnNIQ3B5czNvX2o0aFJZeWZENUstNm9fa3FzUHctd0xRSkF3NFZDbFVRTFNtSXUxanZfSzNWSVBubTNoeGp3UEgtci1UcnZoa2xJY1ZieWNzY2VCdDZvczlqTmpfQURXYUFzUmczVWRrU3E3a1ZCLUE?oc"
-    },
-    {
-      "title": "Who is still in the World Cup? Updated list of teams left in FIFA quarterfinal bracket",
-      "source": " url=\"https://sports.yahoo.com\">Yahoo Sports",
-      "date": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOEgzaU91Z3ZYYVNGbGRYZ3VLU3A1MzZ1NXAyUE9IbnNBTjZ5Y1NMakw3V1JhT1c5cFFuM3VTTmczMk81bVhiaEJ5OHBhcGxhUWxReE1CT2VtVXlzN1VJMlpiNHF3Q09SNVByN0hVSWlUd0ltQmc3aTJrOVFsN3hhR080WQ?oc=5",
-      "category": "squad",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQOEgzaU91Z3ZYYVNGbGRYZ3VLU3A1MzZ1NXAyUE9IbnNBTjZ5Y1NMakw3V1JhT1c5cFFuM3VTTmczMk81bVhiaEJ5OHBhcGxhUWxReE1CT2VtVXlzN1VJMlpiNHF3Q09SNVByN0hVSWlUd0ltQmc3aTJrOVFsN3hhR080WQ?oc=5\" target=\"_blank\">Who is still in the World Cup? Updated list of te"
     },
     {
       "title": "Will Lamine Yamal play in World Cup final? Injury update for Spain star",
@@ -2820,6 +2793,15 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOX19GN2x6d1FtRzducm5rSlZ4NXJ5eDI5bU5ENDA1WmpVY1R5X0UzRUtZbkVaWmJfbmpCbUNIN2N1WDd1Ykh6OGM3Q0tPd2FuTlIxRG40bVlpaFprX0p0eXhIN2RfaUdsU2RUaXYtejcyMGFHQnpTckY2eEhXR2IwZzd30gGCAUFVX3lxTE92ODNFQVRpZWM0YmVNbkZ6RkVPVE1EQ3V6OUZZaGUxSkstZ1Y1RmdUOTgxWn"
     },
     {
+      "title": "Spain vs. Argentina: 2026 FIFA World Cup final is set",
+      "source": " url=\"https://www.mlssoccer.com\">MLSsoccer.com",
+      "date": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQmFmT2JDQzRXWlEzYzYxR0ZFeTlVU3h6UUFaR3NVMW9NQTRtWS1tMWkzLTBZV2RpQmRuc3VsQm1UVUtRQ0RkX2M3YldZNVpvb24xVlVXclJHc2Vrb1djdGNSWnlwUEo1ekgtY1B1dHVnN0dUOTB5blR2RDZySTdELWlKUzhEdElvYTBLd1MzMXpQRW0zUWRvWXNlU3dLcFRkSzB3M2hmVGY3aFV6Ni1N?oc=5",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQQmFmT2JDQzRXWlEzYzYxR0ZFeTlVU3h6UUFaR3NVMW9NQTRtWS1tMWkzLTBZV2RpQmRuc3VsQm1UVUtRQ0RkX2M3YldZNVpvb24xVlVXclJHc2Vrb1djdGNSWnlwUEo1ekgtY1B1dHVnN0dUOTB5blR2RDZySTdELWlKUzhEdElvYTBLd1MzMXpQRW0zUWRvWXNlU3dLcFRkSzB3M2hmVGY3aFV6Ni1N?oc=5\" target="
+    },
+    {
       "title": "Will Declan Rice play for England today? Latest World Cup injury news before Argentina clash",
       "source": " url=\"https://sports.yahoo.com\">Yahoo Sports",
       "date": "2026-07-15",
@@ -2955,15 +2937,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNRDk4R1o5V2RJNFItczE2X19vdHpJWFRRY0k5d3MySlVzd0RUUzljOEpyclNlVEUySU8wQWZGSG9zSkR1QkNEM3VGM0FteGEwSlBYYmY3bmJYVWJwZy0tNTg0aC1RNDgzR0ZyTDdKUUk5M0JPSXNTNXlRbE5CSW8tNGdhR3RvbnpfamNMWnhxaXI?oc=5\" target=\"_blank\">Spain sparkles to shock France 2"
     },
     {
-      "title": "Your cheat sheet to the teams headed to the World Cup semi-finals",
-      "source": " url=\"https://www.npr.org\">NPR",
-      "date": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzR6X3lHR3ZkbjhITFVYZGw4RFlQdDlCTGtocmNqRXZ5QU9UeG10VDIzbGJ1VzFqMHBXMzdJU0NJdXdGZElYT1lRc0lkdmhJcDU1RjNoUWN1c0R4bWhmdnBPUHFwTFdvYjBOekJHTWdMVHpJUXZYWDYyRG00TlJoTnQ1Vng4S045dnF3RzVxdlJ4MDQ?oc=5",
-      "category": "squad",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzR6X3lHR3ZkbjhITFVYZGw4RFlQdDlCTGtocmNqRXZ5QU9UeG10VDIzbGJ1VzFqMHBXMzdJU0NJdXdGZElYT1lRc0lkdmhJcDU1RjNoUWN1c0R4bWhmdnBPUHFwTFdvYjBOekJHTWdMVHpJUXZYWDYyRG00TlJoTnQ1Vng4S045dnF3RzVxdlJ4MDQ?oc=5\" target=\"_blank\">Your cheat sheet to the team"
-    },
-    {
       "title": "When and where is the World Cup final being played? What to know for Argentina-Spain",
       "source": " url=\"https://www.nbcnewyork.com\">NBC New York",
       "date": "2026-07-14",
@@ -2971,6 +2944,15 @@
       "category": "general",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPVGpFNExHWFpsdWNOV3dQNTVUQkYxOW1PdTgwbnVXUDV2eHNTY0lCV2ItTVdYMTR1VEFjWkJoQjJiZTZ3ajVwa0p1aFJ5a3kteWhNeFd6UkNkSm13aWNucEtCMGpNR2JUN3lSZHM4dFptTEVER0RZNXZqLWwyampEVnBncWhmNjlvMm9tQTV30gGWAUFVX3lxTFBLUm5qckNaNGN5Z1hmME5PRzY5anRWYkp1YkFqbk80eT"
+    },
+    {
+      "title": "Your cheat sheet to the teams headed to the World Cup semi-finals",
+      "source": " url=\"https://www.npr.org\">NPR",
+      "date": "2026-07-14",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzR6X3lHR3ZkbjhITFVYZGw4RFlQdDlCTGtocmNqRXZ5QU9UeG10VDIzbGJ1VzFqMHBXMzdJU0NJdXdGZElYT1lRc0lkdmhJcDU1RjNoUWN1c0R4bWhmdnBPUHFwTFdvYjBOekJHTWdMVHpJUXZYWDYyRG00TlJoTnQ1Vng4S045dnF3RzVxdlJ4MDQ?oc=5",
+      "category": "squad",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzR6X3lHR3ZkbjhITFVYZGw4RFlQdDlCTGtocmNqRXZ5QU9UeG10VDIzbGJ1VzFqMHBXMzdJU0NJdXdGZElYT1lRc0lkdmhJcDU1RjNoUWN1c0R4bWhmdnBPUHFwTFdvYjBOekJHTWdMVHpJUXZYWDYyRG00TlJoTnQ1Vng4S045dnF3RzVxdlJ4MDQ?oc=5\" target=\"_blank\">Your cheat sheet to the team"
     },
     {
       "title": "France and Spain have dominated this World Cup, but only one can reach the final",
@@ -2991,13 +2973,13 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNOHVNV1pVZjRvNzRvWFVvQjRUWFVfeElKRVJ3UHJFNGc3dDc4VV9xU25CS1daWnNVTTQwakw1c01TREFOSTZQLTRyWjIzREN1N2I5MmVNT2N0V0lyc01NSGUzMmstdGFYUFl2STVGWG5lX2JFU3d3b2R6NUEtQ3NGMjBub25RSE56MUYzNDVORThMUGR50gGUAUFVX3lxTFBpX0pKV0lSSEVZOUhVNGlnbjk1bEd6cDRsMD"
     },
     {
-      "title": "Spain Advances To 2026 World Cup Final With Win Over France",
-      "source": " url=\"https://www.foxsports.com\">FOX Sports",
+      "title": "France defender leaves World Cup semifinal early with clear message following injury",
+      "source": " url=\"https://sports.yahoo.com\">Yahoo Sports",
       "date": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObEVOSmhsVWJRWFpxUG9UN0VqeFBNSUtkd1o1cVJRNjQ3X1l0NVRhYTNBZDFQM1dtNkxPNjJtTU1MMUhKUEVqSlZSbHM4bnJGR21oWThGS05tUHRfR2hVekdGTG9IcjdCa3hTMEpNV19HRWN4UkJXY1ZQaE1mcVAwLVZXLTRhbjE4MDJvRVNuUm9VZFIzb05N0gGXAUFVX3lxTE1XMjBHSFRVVk1QczJQbF9aNUxtaTlrMlhjNVVMdnB0MjNPMms1RzUyQjdkRnJmNGZiNUZZcDVkb05CQkpDMjFiYXhXS28tTTFxWThiRG1aOTJLTTlOanhsVVRwUTVJRVExekdaS0FLdHNWNFh5NnNWcllWVVJzZkRKOVR4MXhpMjZ0T3hxZ3BoUzJNT3JBOUU?oc=5",
-      "category": "results",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS0xnNmVtTGlOT2txNHJLMWhodDB2M1BybURRX2VTLVgxT3pvUVMwU2kwNjJmTXpwOW42eW5lRTZJaG9aYUptallnWG11MmNnNGJCb3ZDcWMycW9SUHdKdTNuS3M3a3I4eXRmVF9ET1lScUoydFZUdFJHNGswaU41X2UxTjNEYnRp?oc=5",
+      "category": "injuries",
       "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxObEVOSmhsVWJRWFpxUG9UN0VqeFBNSUtkd1o1cVJRNjQ3X1l0NVRhYTNBZDFQM1dtNkxPNjJtTU1MMUhKUEVqSlZSbHM4bnJGR21oWThGS05tUHRfR2hVekdGTG9IcjdCa3hTMEpNV19HRWN4UkJXY1ZQaE1mcVAwLVZXLTRhbjE4MDJvRVNuUm9VZFIzb05N0gGXAUFVX3lxTE1XMjBHSFRVVk1QczJQbF9aNUxtaTlrMl"
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS0xnNmVtTGlOT2txNHJLMWhodDB2M1BybURRX2VTLVgxT3pvUVMwU2kwNjJmTXpwOW42eW5lRTZJaG9aYUptallnWG11MmNnNGJCb3ZDcWMycW9SUHdKdTNuS3M3a3I4eXRmVF9ET1lScUoydFZUdFJHNGswaU41X2UxTjNEYnRp?oc=5\" target=\"_blank\">France defender leaves World Cup semifinal "
     },
     {
       "title": "Kylian Mbappe’s status for France vs. Spain World Cup match confirmed after ankle injury update",
@@ -3007,6 +2989,15 @@
       "category": "injuries",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPXzcyQk1uRnpqOHA0MmNtdExwUEU2VmRBWkp1WGNxdDhiTUpVNFA2UmZKTXdTM0NrbWw2YmtNdTRkX1B5c2wtOTkzSlpkdnVMcDgxSHRtT3pJbUJCcVJUYzFhUXVKQ1VxOFlraThtdmVHempJdW1DTm13NHhZVzE4Q0NIVHVmUQ?oc=5\" target=\"_blank\">Kylian Mbappe’s status for France vs. Spain W"
+    },
+    {
+      "title": "Will Declan Rice Play vs. Argentina? Latest England Injury Update Before World Cup Semifinal",
+      "source": " url=\"https://sports.yahoo.com\">Yahoo Sports",
+      "date": "2026-07-14",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObmRUS0hhbDBibDdMMVhFQjdDaUZ3c2xHUExFdTZHSXFiakt6UWtMejZJN2w1VlJOQTY5NXNZNU4yNDlGQ1NKSFFKdXNLRlVqU2p2V2JDMGp5dzhHMjBna0d4TUU2dVJnb0RKTXg0UGFjS2pjWm5YR2xyZTJ6dWpUbjF0YmQ?oc=5",
+      "category": "injuries",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxObmRUS0hhbDBibDdMMVhFQjdDaUZ3c2xHUExFdTZHSXFiakt6UWtMejZJN2w1VlJOQTY5NXNZNU4yNDlGQ1NKSFFKdXNLRlVqU2p2V2JDMGp5dzhHMjBna0d4TUU2dVJnb0RKTXg0UGFjS2pjWm5YR2xyZTJ6dWpUbjF0YmQ?oc=5\" target=\"_blank\">Will Declan Rice Play vs. Argentina? Latest Engl"
     },
     {
       "title": "William Saliba injury news: France, Arsenal defender subbed off in World Cup semifinal",
@@ -3279,15 +3270,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQW1KcndKb1RRZDlYY3VuWXBwTFIzLXZGd0Fnbi1Vb19IZ0swX3RMMy1vU0hSbFRFelpnVmtQazdRUmdmTHV0YU4xenJ1aE1oLXhEdnNCb0h6WnpjZGs0Zkl4UmhQQUFZSVhGbE5CTUNzQ3Y0Y0Y1ejA3SEM1b2RJLUNLMDBVdHZ3aktHSFRNY1g2d0hLa1g1WUM3WUZrWUxrQVVqTm5vMXVjUkUzWlY0Zi1LaDJNZWo5Um"
     },
     {
-      "title": "Australia's Bos to miss three months for Feyenoord after World Cup knee injury",
-      "source": " url=\"https://www.reuters.com\">Reuters",
-      "date": "2026-07-11",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONEdwX1NXU0gtcXFZcld3NE5TbUM0TE5jbDNtY1dfNElNQXlucWZFZ1dtbE5TQ0ZkZ3ZnNWxocHdIOUlzdXgzNkZFX0NNSkRuSS0yelRGVmdtc3l2SEhtX2dXRVRYMFMzNlgyRHJWaW95NjVaMnliZFN3NWtlNVgxOTJUd01ITER3ZjV4dzZTRkJua2tpdW5XMjNZMXhETzhGSkZId20xR1NBR3pqdHY5Q0psN3hPWGdHWFFmaQ?oc=5",
-      "category": "injuries",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxONEdwX1NXU0gtcXFZcld3NE5TbUM0TE5jbDNtY1dfNElNQXlucWZFZ1dtbE5TQ0ZkZ3ZnNWxocHdIOUlzdXgzNkZFX0NNSkRuSS0yelRGVmdtc3l2SEhtX2dXRVRYMFMzNlgyRHJWaW95NjVaMnliZFN3NWtlNVgxOTJUd01ITER3ZjV4dzZTRkJua2tpdW5XMjNZMXhETzhGSkZId20xR1NBR3pqdHY5Q0psN3hPWGdHWF"
-    },
-    {
       "title": "FIFA World Cup 2026 stats: Merino makes World Cup history; Yamal-Cubarsi first since Pele-Altafini",
       "source": " url=\"https://www.espn.com\">ESPN",
       "date": "2026-07-10",
@@ -3295,6 +3277,15 @@
       "category": "general",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNGszNi1UR1EybzhKM0hPVmpVSWxsYjk3RExNLU40SXl6eWhxZ2VxdGlIYVNROVBWM2VFNjNLcGRPQno1NUUtSDhlQVpENS1rUXFLak1WcE54akJwaklOOXVnWVNUZ0EyNjdHNnVFeHplZHhHcWdIUkFFYVBZQzJ4LWdoVzVENldNRlNtU25KQUE5MDc3Z2NFal9NXzNtelF5VGFhSjZWLU16UjRfRVRpTFhvZHNrNXYtY2"
+    },
+    {
+      "title": "Cristiano Ronaldo Confirms 2026 FIFA World Cup Will Be His Last",
+      "source": " url=\"https://sports.yahoo.com\">Yahoo Sports",
+      "date": "2026-07-10",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLVFNNWQ2cjFpMlBjUkF5ZXBIT29yTWxkNjdMWnhXSVVzNVFDWl9WU1dSbngweFFjcm0yRXpwLUhoUjVGNjZ3REg0OFhrUE12dm9wcFFkTzZYWlZjaXA4LXRNaG5jYTF6V2p1VzFsMWhnRHFzY0RFSGxBNEs2U0tsSVlCdlVGV0ttOExwSDZn?oc=5",
+      "category": "breaking",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQLVFNNWQ2cjFpMlBjUkF5ZXBIT29yTWxkNjdMWnhXSVVzNVFDWl9WU1dSbngweFFjcm0yRXpwLUhoUjVGNjZ3REg0OFhrUE12dm9wcFFkTzZYWlZjaXA4LXRNaG5jYTF6V2p1VzFsMWhnRHFzY0RFSGxBNEs2U0tsSVlCdlVGV0ttOExwSDZn?oc=5\" target=\"_blank\">Cristiano Ronaldo Confirms 2026 FIF"
     },
     {
       "title": "Swiss without injured Manzambi for Argentina quarter-final, Yakin says",
@@ -3412,15 +3403,6 @@
       "category": "venues",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQVWpwREREZlUzRTd3cVVjZFNRMVgwNU9hbkdUTmpPTkh3UDBLZGZTcVNhczdJZ0d0RU9FaUU2aklGRUVWX2hnQl8xWnNwSE5TWGJJdUtrSEdXaGR6NHBlUVpHRjVMRWZUTEYyUGhmUF92emhaY3hOdG9TUmhKbVVudFlsVGJHRXRTWklUUW95UQ?oc=5\" target=\"_blank\">World Cup Final and Semi-Finals T"
-    },
-    {
-      "title": "FIFA selling nearly 1,200 World Cup final tickets at $7,380 each",
-      "source": " url=\"https://www.espn.com\">ESPN",
-      "date": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaG1uRW0ySkpqTy1iY1RHMW9jNkc4WFRBY09JazFTMl9RNXRxX3k1V1hfTGZoTldIVXpUY2c4ZTVaLWd2WkM5QWJuVHh0bGh0Z3p0MmtiWW4weWJwc3RVemdyS0sxNThqNlE5d2M2NWxRbVFnREFpYjgwbXMwRVc3T2dKMnJUQnphOXphVXpJbTlnM0EwWE0zSmlMQWd0QTc3MWFTZHFZdl9YSWpjcm1QT2p4OTZfRjQ?oc=5",
-      "category": "venues",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNaG1uRW0ySkpqTy1iY1RHMW9jNkc4WFRBY09JazFTMl9RNXRxX3k1V1hfTGZoTldIVXpUY2c4ZTVaLWd2WkM5QWJuVHh0bGh0Z3p0MmtiWW4weWJwc3RVemdyS0sxNThqNlE5d2M2NWxRbVFnREFpYjgwbXMwRVc3T2dKMnJUQnphOXphVXpJbTlnM0EwWE0zSmlMQWd0QTc3MWFTZHFZdl9YSWpjcm1QT2p4OTZfRjQ?oc"
     },
     {
       "title": "Top 10 World Cup venues for fan experience",
@@ -3747,15 +3729,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNY3RGRUY4amdMYnhqMU4wenlpREZvd2t0UHlzTWlWa3dqNDJDTzN2bi0wOERRTWtXeVFncW9JYW0zOEp4eE5NWWZQOUtEQUNvR2E5TmZRUFVkX0NnZUJmbW9PREgweGg2RVBZYk1VOVl6VjhHWjFVTXBYdUNQZnhVZHl0OXlqa0NaMTFQbjVwWm1FdUJ3VGctQ3JmdDFzMVRldXpuS0M5VFlPR1JTcDR4a09YUV92aC1CZH"
     },
     {
-      "title": "Belgium's Onana suffers World Cup-ending knee injury against US",
-      "source": " url=\"https://www.reuters.com\">Reuters",
-      "date": "2026-07-07",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORjlzcmxnVDZUN0pWcTB4dUx6QnR4enQ1RU9PS2Ruc25uV3hjSk84ZEtUTHRsOWhLb1o3b1VPdHkyWmtWZTRqRllvaG5wQVZaTE5WTnlyRmFWeGZJLUZqUXNUcWdvQTh4cF8wdTRSV1dLRnQxX241R25vc3dFbm1ueTc2TkxTbGV6T2pCZzJMQ1ZDR1JOMEw3V0JFSFptUWJwclB2aUFVU3h5X3pHcDdOMUl3?oc=5",
-      "category": "injuries",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxORjlzcmxnVDZUN0pWcTB4dUx6QnR4enQ1RU9PS2Ruc25uV3hjSk84ZEtUTHRsOWhLb1o3b1VPdHkyWmtWZTRqRllvaG5wQVZaTE5WTnlyRmFWeGZJLUZqUXNUcWdvQTh4cF8wdTRSV1dLRnQxX241R25vc3dFbm1ueTc2TkxTbGV6T2pCZzJMQ1ZDR1JOMEw3V0JFSFptUWJwclB2aUFVU3h5X3pHcDdOMUl3?oc=5\" tar"
-    },
-    {
       "title": "2026 World Cup Quarterfinals Preview: The Key Storyline For Every Team",
       "source": " url=\"https://www.foxsports.com\">FOX Sports",
       "date": "2026-07-07",
@@ -3790,6 +3763,15 @@
       "category": "venues",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQbHF1YjRBdERic29hSjNjUWpBMlpKdlUzdUpNWWdicVVrLUYxMUJBTWQ3aGptbV9NRjFJa2VvVmpPZTFjVjUxQ3FBX2l4RndKZmlhXzREbE5aazNjblBzVWdpUU9fWFpyUE5vVVo3R1UtMjgxTjJ1b2tveDlHZFdYTVRnXzRQNFpUSmZyVmdwU0pKYzJTYURkeExjX1BodlZLOEh2MWZ5UlJ4WUg0YkdmOTUyMS1NV25NU0"
+    },
+    {
+      "title": "‘They had hyped us up so much’: Seattle businesses near World Cup stadium report declining sales",
+      "source": " url=\"https://www.theguardian.com\">The Guardian",
+      "date": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50MGZkYnVRa1FPUmVCVktqZmZJU1lBNjU0M19oSU5CQ2w0Y0ttMkF6OWQzUEZOTjhwRXdaeEktdUhrWHhoMGMwVmVVcWhqVjREMFBhUWktUncxenJSdjU3UGp0Y2FXcXRfbVZwSDZzZUJBcDQ5bG0zWUg4Y2lKbUE?oc=5",
+      "category": "venues",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE50MGZkYnVRa1FPUmVCVktqZmZJU1lBNjU0M19oSU5CQ2w0Y0ttMkF6OWQzUEZOTjhwRXdaeEktdUhrWHhoMGMwVmVVcWhqVjREMFBhUWktUncxenJSdjU3UGp0Y2FXcXRfbVZwSDZzZUJBcDQ5bG0zWUg4Y2lKbUE?oc=5\" target=\"_blank\">‘They had hyped us up so much’: Seattle businesses near "
     },
     {
       "title": "World Cup Quarterfinal Injury Tracker: Latest Player Availability, Injuries and Return Timelines",
@@ -3957,19 +3939,10 @@
       "title": "2026 World Cup Bracket: A Full Look At The Round Of 16 Matchups",
       "source": " url=\"https://www.foxsports.com\">FOX Sports",
       "date": "2026-07-04",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTlNqX29fU2tjdXJZNVhmeTd6MC1wYlpKODhPZlYzSllKd0dsTFhCV1VMZjI3WjlTV3FrbjlZX0p3eTNkcHp3NGY0SDVYR1lEZFIxeWw2Ty0yaV9sSWx3WmFRMm9nSWpmclZOSFpOYUFLZ3NQanByaDFDUG1FRlViWmNnYjAzQjk50gGIAUFVX3lxTE40aHpCVW1BbEJhSjRnaVNQaFp1WVFmOGktczgyYnJUVTRhck9UUnhBZVp4SnB4clIyLXhkOFhhSGxmeW5ycVU1VVNoRnJkOGd0TkNWUEZSMW5pSWFpbk4tOVRjR0FRcHlWNEhUU2p4cXBKRmtlOURsM1o2T1RDVC1MTjl2eXh2STM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTlNqX29fU2tjdXJZNVhmeTd6MC1wYlpKODhPZlYzSllKd0dsTFhCV1VMZjI3WjlTV3FrbjlZX0p3eTNkcHp3NGY0SDVYR1lEZFIxeWw2Ty0yaV9sSWx3WmFRMm9nSWpmclZOSFpOYUFLZ3NQanByaDFDUG1FRlViWmNnYjAzQjk5?oc=5",
       "category": "general",
       "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTlNqX29fU2tjdXJZNVhmeTd6MC1wYlpKODhPZlYzSllKd0dsTFhCV1VMZjI3WjlTV3FrbjlZX0p3eTNkcHp3NGY0SDVYR1lEZFIxeWw2Ty0yaV9sSWx3WmFRMm9nSWpmclZOSFpOYUFLZ3NQanByaDFDUG1FRlViWmNnYjAzQjk50gGIAUFVX3lxTE40aHpCVW1BbEJhSjRnaVNQaFp1WVFmOGktczgyYnJUVTRhck9UUn"
-    },
-    {
-      "title": "2026 World Cup July 4 schedule: Soccer games today",
-      "source": " url=\"https://www.espn.com\">ESPN",
-      "date": "2026-07-04",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMUQ3WC1relF5OXRINWFIRFlRT3oyMzhfMzcwNDNnRTB6VnRSaEFkcXZYbU1oTDY3dmx3bTBpNUsxdnhTWTlmLTBRNWhuUEpFVDd6UXg5Z2FaNDlqenlQNkRLbk85TjBOOERFRVEyd2hOYmJwb0JLbWVsTmNyWjZkaW9NTGprbVV5U2pnMVFvc2RIYVFoeG5fdHo4cXRqdw?oc=5",
-      "category": "general",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQMUQ3WC1relF5OXRINWFIRFlRT3oyMzhfMzcwNDNnRTB6VnRSaEFkcXZYbU1oTDY3dmx3bTBpNUsxdnhTWTlmLTBRNWhuUEpFVDd6UXg5Z2FaNDlqenlQNkRLbk85TjBOOERFRVEyd2hOYmJwb0JLbWVsTmNyWjZkaW9NTGprbVV5U2pnMVFvc2RIYVFoeG5fdHo4cXRqdw?oc=5\" target=\"_blank\">2026 World Cu"
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTlNqX29fU2tjdXJZNVhmeTd6MC1wYlpKODhPZlYzSllKd0dsTFhCV1VMZjI3WjlTV3FrbjlZX0p3eTNkcHp3NGY0SDVYR1lEZFIxeWw2Ty0yaV9sSWx3WmFRMm9nSWpmclZOSFpOYUFLZ3NQanByaDFDUG1FRlViWmNnYjAzQjk5?oc=5\" target=\"_blank\">2026 World Cup Bracket: A Full Look At The "
     },
     {
       "title": "World Cup Round of 16 Preview: One Player For Every Team You Need To Know",
@@ -4107,6 +4080,15 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNbFZtR2NKUTdNTjdJQlRLZW5kVll1eEQ0VFNqVm9OdjJQMlFlbkRjU0tBRlUtMkhlZzl0MENQOThRMDBWeXhPZmxsN1RnTlp6Z0htMFBaeGdkbHA4Z1BYemtsX3U3SVJyUXpUaFFkeXByLVJWbHNIWFVFb0VveF9EV3IxcGh6YWJwRXcyT1BSMG9VYlpDcU81MFZBalZ2MEM1N24xbw?oc=5\" target=\"_blank\">FIFA "
     },
     {
+      "title": "FIFA World Cup 2026 – Every match result on Wednesday 1 July – Live scores",
+      "source": " url=\"https://www.olympics.com\">Olympics",
+      "date": "2026-07-01",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdjg2WVo1MHZvdzVwUXFveXFXSDQyZWJFZ2E2cVNFcS1ZOUx5MDRJT3B0SG43QXM3RXVzaEJ3OE9aM3dia25JTDd6RW0wQUJFVFhRS2FfY1VtN2FxTGY3SUYzdnZlaU9QdzQ2c3ZjeF8xZkFhOFdJY1VmYktwSC1tUFpDYw?oc=5",
+      "category": "results",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNdjg2WVo1MHZvdzVwUXFveXFXSDQyZWJFZ2E2cVNFcS1ZOUx5MDRJT3B0SG43QXM3RXVzaEJ3OE9aM3dia25JTDd6RW0wQUJFVFhRS2FfY1VtN2FxTGY3SUYzdnZlaU9QdzQ2c3ZjeF8xZkFhOFdJY1VmYktwSC1tUFpDYw?oc=5\" target=\"_blank\">FIFA World Cup 2026 – Every match result on Wedne"
+    },
+    {
       "title": "FIFA World Cup 2026 stats: Kane joins Messi, passes Pelé, Tielemans goal the latest ever, USA's 4",
       "source": " url=\"https://www.espn.com\">ESPN",
       "date": "2026-07-01",
@@ -4144,7 +4126,7 @@
     },
     {
       "title": "Starting XI & Lineup Notes: USMNT vs. Bosnia and Herzegovina in FIFA World Cup 2026 Round of 32",
-      "source": " url=\"https://ussoccer.com\">U.S. Soccer",
+      "source": " url=\"https://ussoccer.com\">US Soccer",
       "date": "2026-07-01",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVFpVMFlFUUVIa0NaeFhLTmVzUFBfUGowTkpIWFR2bnJmaG1ZVjR6RWNBb3JkWVNseXNqMUtxQlhFUWVCWmRCeEd0MXdpM0FKMmduQmhjSWRCRmE2UFpEMEZJN1ZqQnc3YThiYjB5c3JUcWFoZFgtbUZUYVByZkEyVkJxYTE5cWhIZTNmUTJUcTE5MXhLN2NYV3lCdnR4Q1FOT21YX2p3?oc=5",
       "category": "squad",
@@ -4197,15 +4179,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwJBVV95cUxPR2dCNWltS2NKdnoxZS1sbkRrcHFmSE5tTHhZQi1UaXJPamxfcmFhakwwLTRhSUhNRG1obFBRallPcVkwNzNzWE5PdXFXZDZVMVJNbWFIWXVqamtQc1dTLTcwRW03VklZYzBTUnd5TGJzREZzSzl5ek9yVDJSWVBCaHJvNWRaellaMmNhVlhUbUZuWERHb29paDcxWnI3c0hFZFBVZjZaUmg4YjY3R1pScHF0bWhOV2RXcU"
     },
     {
-      "title": "FIFA World Cup 2026 – Every match result on Wednesday 1 July – Live scores",
-      "source": " url=\"https://www.olympics.com\">Olympics",
-      "date": "2026-06-30",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdjg2WVo1MHZvdzVwUXFveXFXSDQyZWJFZ2E2cVNFcS1ZOUx5MDRJT3B0SG43QXM3RXVzaEJ3OE9aM3dia25JTDd6RW0wQUJFVFhRS2FfY1VtN2FxTGY3SUYzdnZlaU9QdzQ2c3ZjeF8xZkFhOFdJY1VmYktwSC1tUFpDYw?oc=5",
-      "category": "results",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNdjg2WVo1MHZvdzVwUXFveXFXSDQyZWJFZ2E2cVNFcS1ZOUx5MDRJT3B0SG43QXM3RXVzaEJ3OE9aM3dia25JTDd6RW0wQUJFVFhRS2FfY1VtN2FxTGY3SUYzdnZlaU9QdzQ2c3ZjeF8xZkFhOFdJY1VmYktwSC1tUFpDYw?oc=5\" target=\"_blank\">FIFA World Cup 2026 – Every match result on Wedne"
-    },
-    {
       "title": "The EU must learn the lessons from FIFA’s ticket pricing at the 2026 World Cup",
       "source": " url=\"https://blogs.lse.ac.uk\">LSE Blogs",
       "date": "2026-06-30",
@@ -4243,7 +4216,7 @@
     },
     {
       "title": "USMNT Set for FIFA World Cup 2026 Round of 32 Match Against Bosnia and Herzegovina",
-      "source": " url=\"https://ussoccer.com\">U.S. Soccer",
+      "source": " url=\"https://ussoccer.com\">US Soccer",
       "date": "2026-06-30",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeXloMUh1Wkx5d3FMUC1ET2YwcGNiei1WLWZ0YmJzcnhpbUJZYmxrWXQ5NnBWQjJqX1RQd3d2YzMzTDhXd0xVaHNDMTNtNlRsT0hEQmZvc012X3FaOVVhSkVMX3F3eXNfTDUzNk1VY3pwVWZHRlNwR1FnakJWQjM4YnZuQmwxeW1LOTE4NFF6aExteDh3VHZ2cG81MHZaYUdfekdia29wYU4yVGVmVWU2QXU5eUdnbm4tZG5LRHJXYw?oc=5",
       "category": "general",
@@ -4314,15 +4287,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMEo5QUFUOWplVkpKbnV3cDFLTEw2a0wtVTM3ZE51UndHeGxfZW9GaWFkMjV5VHBuNEZNWkRRekFMNkRIRTdFYTFON0lvYk5wZ0VKVFgtc1hfS3Z4WnBWNWhqVzBYM0h5X1NlZXVOQmQzdlZqMGlWMXBzOTNPaWJCeFVuY0xGTU1IQ3lYWWE3cnhFMEJGeWVxZzU4bjdRNlllU082SjZXYnAyQzQ?oc=5\" target=\"_bla"
     },
     {
-      "title": "FIFA World Cup 2026 MD17 recap: Portugal finish second, Colombia, England, Argentina top groups, Congo DR, Algeria, Austria through",
-      "source": " url=\"https://www.espn.com\">ESPN",
-      "date": "2026-06-28",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcmFQSE4xZmhsaXZBdDJnczRyZ1ptQjNVb3pUbjNfb3lhSXc3TGgxTTdaQ1Y3UDBLX1BXNEQ4azFURDhQdVcyYURwRjN6Y2JpbEZDdzlpVURnV21LVmtMblVZajIzcFRFZ29QbzJlUHRVR0l2bzMxS1dZOWVSZ2Qwb2RhMUxNMWh2M2dDWGljZm40UlNSd3BQRTRIc2hVdmlCamJLRG1HZVZHemh1ZXhBY09DZ2tneGNLcVFSOExua3BJY1lXdUs1SzhINmMzSVMzZTRFeE1vWXZmMFRnYXhsSlBzNWZNQlZpek5PTVI3Q19FbjlGYVF4enYzaEJDd05v?oc=5",
-      "category": "general",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxQcmFQSE4xZmhsaXZBdDJnczRyZ1ptQjNVb3pUbjNfb3lhSXc3TGgxTTdaQ1Y3UDBLX1BXNEQ4azFURDhQdVcyYURwRjN6Y2JpbEZDdzlpVURnV21LVmtMblVZajIzcFRFZ29QbzJlUHRVR0l2bzMxS1dZOWVSZ2Qwb2RhMUxNMWh2M2dDWGljZm40UlNSd3BQRTRIc2hVdmlCamJLRG1HZVZHemh1ZXhBY09DZ2tneGNLcV"
-    },
-    {
       "title": "World Cup 2026 Power Rankings after group stage: Who's No. 1?",
       "source": " url=\"https://www.espn.com\">ESPN",
       "date": "2026-06-28",
@@ -4330,6 +4294,15 @@
       "category": "general",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQRG92YmxCdXpVQ09oTllTVVEzTmxUVGZ4Yk9lMExrbWxmbnVyWDVxNzhIVWhHRTZRYTRXWUUwbmNWRkxubC05b3REVmpyNzJjU0h5OU5MaHlxQVE5TFlQYkVyR2prdno4VDVzOHRJNEM2UXFVX1BCWGdlRTh0dExGaVlfZDBvVmljUnR5TXotSzhENWxOZncySFM4cTRkeUQ4SlBzMTRTb1Rxc3ZialF5am1mRTR1WWdvbW"
+    },
+    {
+      "title": "FIFA World Cup 2026 stats: Messi sets another World Cup record; Ronaldo second with 25; Kane's 11 best for England; Modric record 40",
+      "source": " url=\"https://www.espn.com\">ESPN",
+      "date": "2026-06-28",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNZVpEd216b3VOU0tQbVZOUFFpQnVRRkZwVGN6RERydS1vUjl2WHZNS2NSTVlWMjFuWTVscW1nQ0tzMzlmeUdmc0N1cXI5dU1pLXJYMEo0YmdMWFplSi0xS0MyanczaGU3S0E5aGpvSjBhWHh5clg5SW4wM08zVmllYXU4bFFIaFozeG5iTl9vcUNyRHYtZF82bkdMMDloTXZhdEMzd2tBcHoxZzBfbkR2VUg3UW82YkJ5Mi11bmJTR3BxMVJ4Z2x6Q1dET1U0Y09iTkdqOU5Ba0trLVU3Q1ZBZWI4NVRNd0dpZkl3RXVRRW1iUVl6endtVnh0UFJfbTNjdEFBOFJycTZFNGF4X3R2NDktWlhQWFdqOV95Zmtn?oc=5",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxNZVpEd216b3VOU0tQbVZOUFFpQnVRRkZwVGN6RERydS1vUjl2WHZNS2NSTVlWMjFuWTVscW1nQ0tzMzlmeUdmc0N1cXI5dU1pLXJYMEo0YmdMWFplSi0xS0MyanczaGU3S0E5aGpvSjBhWHh5clg5SW4wM08zVmllYXU4bFFIaFozeG5iTl9vcUNyRHYtZF82bkdMMDloTXZhdEMzd2tBcHoxZzBfbkR2VUg3UW82YkJ5Mi"
     },
     {
       "title": "On to the knockout round: 4 takeaways from the FIFA World Cup so far",
@@ -4362,10 +4335,10 @@
       "title": "World Cup final day of group play will set the field for the round of 32",
       "source": " url=\"https://www.pbs.org\">PBS",
       "date": "2026-06-27",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU3lqbERiRGUwcHpOTHVFdU5YVl9nMkp6bG0ySFg2cWZLc1BwcHpKbTV0ajJ1bnlOalVpVVN4WTRabHdEam9aSkdfX2w2clBPcFB1WlV2YWd1NjA3SlRSNk9xT19nakxpX0M5MmlsNHhVLVluZ0dRR1hOMGdXMDhOZHNVX2VwcXQyUEpRTHBmX0xDbkUxS1JNWE8wLTgzNVVocGMzUFNIME8xNW8?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU3lqbERiRGUwcHpOTHVFdU5YVl9nMkp6bG0ySFg2cWZLc1BwcHpKbTV0ajJ1bnlOalVpVVN4WTRabHdEam9aSkdfX2w2clBPcFB1WlV2YWd1NjA3SlRSNk9xT19nakxpX0M5MmlsNHhVLVluZ0dRR1hOMGdXMDhOZHNVX2VwcXQyUEpRTHBmX0xDbkUxS1JNWE8wLTgzNVVocGMzUFNIME8xNW_SAbABQVVfeXFMTUgzcm1heE1CaUI4dFNkeVVBaDdDa2liRjNtSERLUGx4Y1dKTUwyaTlKbmhRbnA0b3FKcUJzWWtOVzh0M243UjF1V2ZBTkFEXzJPZWpzUldDRUU4R193ekN3dEVvT2QtNGVpUl95YTBORGRIckpkeHFzQ1VKYUE3alRXaVNnTVc3cnRlUVFZbWNxV2szUm9PaGlMYzJWTkdzVC1GRWVOVDR4LUtFWXlVZ1Y?oc=5",
       "category": "general",
       "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU3lqbERiRGUwcHpOTHVFdU5YVl9nMkp6bG0ySFg2cWZLc1BwcHpKbTV0ajJ1bnlOalVpVVN4WTRabHdEam9aSkdfX2w2clBPcFB1WlV2YWd1NjA3SlRSNk9xT19nakxpX0M5MmlsNHhVLVluZ0dRR1hOMGdXMDhOZHNVX2VwcXQyUEpRTHBmX0xDbkUxS1JNWE8wLTgzNVVocGMzUFNIME8xNW8?oc=5\" target=\"_bla"
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU3lqbERiRGUwcHpOTHVFdU5YVl9nMkp6bG0ySFg2cWZLc1BwcHpKbTV0ajJ1bnlOalVpVVN4WTRabHdEam9aSkdfX2w2clBPcFB1WlV2YWd1NjA3SlRSNk9xT19nakxpX0M5MmlsNHhVLVluZ0dRR1hOMGdXMDhOZHNVX2VwcXQyUEpRTHBmX0xDbkUxS1JNWE8wLTgzNVVocGMzUFNIME8xNW_SAbABQVVfeXFMTUgzcm"
     },
     {
       "title": "Spain's Nico Williams on injury: One of worst days of my life",
@@ -4594,7 +4567,7 @@
     },
     {
       "title": "USMNT Set for FIFA World Cup 2026 Group Stage Finale Against Türkiye",
-      "source": " url=\"https://ussoccer.com\">U.S. Soccer",
+      "source": " url=\"https://ussoccer.com\">US Soccer",
       "date": "2026-06-24",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM0FncEZTVTJwakZfU3dEaTNjSERITzFaTUw4TzdzcFlXdzlPTno2b3VkZkl2UVRiR3BPcTFPMy1TeUFyeWNTMTBvMDRYSGtnMGE3MHBqZXZSSHl5dlVCelVvT1Z1eHh1VXV1dzZkSTF4eDhCenhBV21PNG85eTBVNEJiNFdTZTVyeWhkeHZzVUd1Ym1KQnhicEdqdnl6LVVOWmNqNl9PR3g?oc=5",
       "category": "general",
@@ -4890,15 +4863,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpNWExTFkwZk4wMDg3ai1hNlloRkozdUlXX0NEQ2stWWlEZnRJQkhPSWlpYVloZXNMOWpCVi1Hb0FwNTB2eUpxSGFzUVV3TE5XcWpQMGRQRnRmYWY3NTBQZ3NRRTRCbFk?oc=5\" target=\"_blank\">World Cup 2026 stadiums: all 16 venues, capacities and host cities</a>  <font color=\"#6f"
     },
     {
-      "title": "Is this the diaspora World Cup? Is the final in the wrong stadium? Day 4 Recap - The Athletic",
-      "source": " url=\"https://www.nytimes.com\">The New York Times",
-      "date": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcW1fZEdsZEprQ3h4Zi1hNHpHaHRVU2Uza0NIRUNBbzBISVBnVXFRT0RzZTN6X1hlbGdHLXpGTjBDUGtrUXd3OVc2VkVUN2JSbDdmcExOT0lvUnhsTDU3V2d2M1NIUFI4MG1oUlBGM2V3OTZWVWxjMWRKWFBKNzJJNEJwTVdNNGFISzlwaUNnT0xBOWQ1X0E?oc=5",
-      "category": "venues",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQcW1fZEdsZEprQ3h4Zi1hNHpHaHRVU2Uza0NIRUNBbzBISVBnVXFRT0RzZTN6X1hlbGdHLXpGTjBDUGtrUXd3OVc2VkVUN2JSbDdmcExOT0lvUnhsTDU3V2d2M1NIUFI4MG1oUlBGM2V3OTZWVWxjMWRKWFBKNzJJNEJwTVdNNGFISzlwaUNnT0xBOWQ1X0E?oc=5\" target=\"_blank\">Is this the diaspora Wor"
-    },
-    {
       "title": "Every 2026 World Cup team ranked, according to FIFA",
       "source": " url=\"https://sports.yahoo.com\">Yahoo Sports",
       "date": "2026-06-14",
@@ -4978,6 +4942,15 @@
       "category": "venues",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZGd3VXdOQlo1TXlfZ1V5WXRCNmwwNGVGY2lXY2NRRlF3TkxGVVRydVdHUlF0ZE9jUmk3RHREVUg5d0YyWTgyMGZ1VGVzVWNXVW93N2R0cGlzeVE1M1lraWJPUXNmdEFlRm9yWGZrT2NIYUF3OGxtX3JldTVEMExZaUdZa2dsa2paYXFnTU9Pemo5WTU2dTI5V2FyWHFtWWJzaER6bWF4QVhuUQ?oc=5\" target=\"_blan"
+    },
+    {
+      "title": "GOVERNOR SHERRILL ANNOUNCES 250 ADDITIONAL FREE FIFA WORLD CUP 2026™ TICKETS FOR NJ YOUTH",
+      "source": " url=\"https://www.insidernj.com\">Insider NJ",
+      "date": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQWM2c3RXcjhENkYtaHBSZ1dyT19NWXJwdlRvUTM2b2ZyRTQ5cm55YVJ6bkVJTnlEbjJfb1c4WnVTX2FCRmVyTUpsTERfVVJ3M2prMFFLTHlfY2xXX2lHRk9tb2JjVVgyYVJxaW1YSlVQaDZQREZTLVBSVGFjYUlkWEQ2QXFGd2xCOGlPVmJxa1VnMWxYY21Wb3FHOG45enZwVFBxMGN3TVd1OXRzUFJJV01ZN0VXUXNNek9rSTV5SmtSOVNCQVZqaw?oc=5",
+      "category": "venues",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQWM2c3RXcjhENkYtaHBSZ1dyT19NWXJwdlRvUTM2b2ZyRTQ5cm55YVJ6bkVJTnlEbjJfb1c4WnVTX2FCRmVyTUpsTERfVVJ3M2prMFFLTHlfY2xXX2lHRk9tb2JjVVgyYVJxaW1YSlVQaDZQREZTLVBSVGFjYUlkWEQ2QXFGd2xCOGlPVmJxa1VnMWxYY21Wb3FHOG45enZwVFBxMGN3TVd1OXRzUFJJV01ZN0VXUXNNek"
     },
     {
       "title": "From gridiron to pitch: How NFL stadiums have transformed for the World Cup",
@@ -5331,15 +5304,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE4teDh3Y2VMY2F4TUMtMDdMNkdEQWVJOU91cjhMQVR2MUJtbk0ySG12YkMyS19ScjhHTHREVl96YTNRdGZCdHJyeHJZNk91T3dSZzBXbzlPV0RSMzR0cWJTbWpDZWZfeTdUS05WVndweGdzVFJBOVE?oc=5\" target=\"_blank\">Ecuador’s schedule in the FIFA World Cup 2026</a>  <font color=\"#6f6"
     },
     {
-      "title": "FIFA turned NRG Stadium into ‘Houston Stadium.’ Here’s an exclusive look inside",
-      "source": " url=\"https://www.houstonpublicmedia.org\">Houston Public Media",
-      "date": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRXVvclMtMlZTcFAyYlh6QUNCM1Q1Tm9aM3NiZVk2ZEFOZHE5MWVoNzBiRkU1MmhLaDdUUVU1YnZ3RDlwcmV0NVRVOG9USFdQN2xvNmtRMG9sdEJOSXc5cnpsOWdEaF9sNnFYTU9TczhkbFp6eEZRQ3dHS05XMzlVSHJmR2V3YThsSzFzeWlxOVJHTnU2Y1hXaEtPZG5TLURZS0hpMWxHRDBmU0RtLTVLeklfczdBQk1YRG1pb016MVA1VlNZVF9pYW1hSk1KV196M3d6VmFMSlBZZFRQYzR3THdpRnY1T2szMUozdnVtVkJZd9IB-gFBVV95cUxQeU5GLXE5Y0FTWUp6bHJ0WEFSelZzdkJTaklUY3FnNXk0ZTMzU3VjWW1NOS1ncElTUnNCSkxDak8yWTFUWTBQTmxJOWpwbHlldUZwYzE4dmxkbUU2ZzVCTlZVNGNzQ1hjME4zbFF0ZzM3T2lhRnV4dVFZWkNYY0kxNnNXRzNxS0JheTVEZlJ0OXR6QnZydVJVZndQYXlPRVZPT1hEdmp6RFA0Q0piQUtrcVdPRnEwcWhSMHBNcGtMQTZsTWY0RmVRcjQ0aFZxa0FjR2ZCdFpBUjNOYmZvc2pQY2JNT3FyMkhkUFJuazhOQmt3WFZ1SzRYa2RB?oc=5",
-      "category": "venues",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRXVvclMtMlZTcFAyYlh6QUNCM1Q1Tm9aM3NiZVk2ZEFOZHE5MWVoNzBiRkU1MmhLaDdUUVU1YnZ3RDlwcmV0NVRVOG9USFdQN2xvNmtRMG9sdEJOSXc5cnpsOWdEaF9sNnFYTU9TczhkbFp6eEZRQ3dHS05XMzlVSHJmR2V3YThsSzFzeWlxOVJHTnU2Y1hXaEtPZG5TLURZS0hpMWxHRDBmU0RtLTVLeklfczdBQk1YRG"
-    },
-    {
       "title": "ESPN to provide expansive news and information coverage of World Cup 2026",
       "source": " url=\"https://espnpressroom.com\">ESPN Press Room",
       "date": "2026-06-09",
@@ -5509,6 +5473,15 @@
       "category": "squad",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZDZfdFphMEN4NW1SU016Ny1zZ0hLZlNJb2QtRmU2WEtSNjc4ZGhtdXo3TVhrZURRTmFTa0lveDFNS2pVTGt5c09RMjNCX2tLYzJnbEZaUVpIaGN3UmtHYU9Hdnc1dGMzRm9zWXRvVGZGM25nY0lRYmdua1BRWFlkT2d4bm5UQVlJbWxQdjZxMkxXbEZOR1doQWdsQndVcW1GWWt1NmpDblZHdUV3WlVDOXNZejBQY0hvaF"
+    },
+    {
+      "title": "Free World Cup tickets for U.S. military, vets and their families",
+      "source": " url=\"https://www.wate.com\">WATE 6 On Your Side",
+      "date": "2026-06-07",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRllxdjVlRXRiZE1UbHY2LTJGY3JpX2tYNmk3SElqclROYjVWQWxYVUR1UUcteHhvSGY0TnlVSEZKWmY5d25MLXFDLVRBVXBiZVBpMEtIdTFzM0c2SmJQRUhuaDJjOGFERHJUU1FSdGx0eGR0QlBFb3gwZU9aZTRqLVNyTWwxM2RBZ2lPTEFKWEV5dVZH0gGaAUFVX3lxTE0tV3h6SllEQVF0RzhYblR0UVR4QTFiQ0hYeTY0ZzVwdEVwNTBWbEMwd2h4VFZrUk41YjA2bENveDhVNHRvd0ZUUWEtTmpsOE51VjBWSW5CZEFtSzd6OUIwTEMtNXQ1QTZyMmV3WlJaWGNPdFA5YkFWRUFHd3pPRmpMS1I1eHVFM3JxMEpkdU9qcHlKVzZYSGp1U3c?oc=5",
+      "category": "venues",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNRllxdjVlRXRiZE1UbHY2LTJGY3JpX2tYNmk3SElqclROYjVWQWxYVUR1UUcteHhvSGY0TnlVSEZKWmY5d25MLXFDLVRBVXBiZVBpMEtIdTFzM0c2SmJQRUhuaDJjOGFERHJUU1FSdGx0eGR0QlBFb3gwZU9aZTRqLVNyTWwxM2RBZ2lPTEFKWEV5dVZH0gGaAUFVX3lxTE0tV3h6SllEQVF0RzhYblR0UVR4QTFiQ0hYeT"
     },
     {
       "title": "Uzbekistan: 2026 World Cup Squad, Fixtures and Schedule",
@@ -5835,15 +5808,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNcTJlbUtMWVNtVUI0NmVtaHl5d0ppcllQVXZjMkpDOFptekhVeUlwR1BtVGhJOURsZFdMOHhjZVA0Yk1DNEJOYUV1LXlDQmhpdDJLWFpGY2dLcmtMdjJGbFRiSHl5Z0RSVlMtM3R1dU1XcFlQWUR2U2hmZW5QUkJoam1TUHNMVmZmN0VqM055NlN1em5MVkxlS2VtQTFuZEhIazdvN0J3eEJrM3JRWGpWNVM3TXM?oc=5\" "
     },
     {
-      "title": "Free World Cup tickets for US Military, Vets and their families",
-      "source": " url=\"https://pix11.com\">PIX11",
-      "date": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOTg0dXNvZlBadms4dTAzaHk3aTdxd29pLV95aWJ4amRud3duNC1jZkVYbG9ubjZ4dTBUU1dwOVhLZzI5SVZFLWFCWlFsYThZSks1NEUwX1FsM3luMlRoR3piZTcxQ2V2SFphYUxlNzF4aEloVFdLaHJHZmxWUkNGTXRZeUFKQlRqUWxiVEVoakNxbkkzQmRGeVZqUURlQnPSAaQBQVVfeXFMUC0wMHJoUGJxX0QwM2FrXzZTOWVoanhBbUVqa2I1NHAyNXJWRkhFczBGbTZ2VjFKYWRSREJCVGlFb3puYlFVTkFfcU82ajNOYkdVdHVjTHB0SVViNkNkVHBtQ1dhXzMtSlQ0MXlnM0VXUHJKOVE4dEM2YlU2UXVFUFJ4eUdNLXRwNWZFeUlmVmloMVZXNUM1Y1Y5ZzF2TVFQRzc4ejk?oc=5",
-      "category": "venues",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPOTg0dXNvZlBadms4dTAzaHk3aTdxd29pLV95aWJ4amRud3duNC1jZkVYbG9ubjZ4dTBUU1dwOVhLZzI5SVZFLWFCWlFsYThZSks1NEUwX1FsM3luMlRoR3piZTcxQ2V2SFphYUxlNzF4aEloVFdLaHJHZmxWUkNGTXRZeUFKQlRqUWxiVEVoakNxbkkzQmRGeVZqUURlQnPSAaQBQVVfeXFMUC0wMHJoUGJxX0QwM2FrXz"
-    },
-    {
       "title": "World Cup tickets are expensive. Here are some ways to go for free.",
       "source": " url=\"https://www.kitsapsun.com\">Kitsap Sun",
       "date": "2026-06-04",
@@ -5988,26 +5952,17 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNmFsRXdqTFpXZXFWaFpUbldZbS0tMzF6WWYxZU52ejlqUVYzMzdGdkUzR1NSZFQ0ZVUwRFotQ2Rvc1A1U3VRalg1ZnM0UGVnbGNtR2oxZmFnSTRQOU9SYmJRYWFlbkdzdExqa0VLZGVZSnE5d3dnNHlFMkFrR1lwWVlET2ppQ1NP?oc=5\" target=\"_blank\">Why 2026 World Cup Ticket Prices Are So Hig"
     },
     {
-      "title": "Freedom 250 Announces FIFA World Cup 2026™ Fan Zone Washington, D.C., on the National Mall",
-      "source": " url=\"https://freedom250.org\">Freedom 250",
-      "date": "2026-05-26",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTGYwOFBkcmZKN3VTOHNEcmcwOGp4Rk1KajdDRVowV2Jmc2p1bm54cWhWNWtCRHRKQVU3T3BYZjNuTjJsNUdJZk5wUlNpYUVJcGFjcVhNc2FIR1JoaTVITG1nVDk0U25yYXlfZkFFU1pQdk5PWjZwUThSVE14WFhDYkZKVUtLaWZ0RlJ5blN4YndPSlNkbDlWZ0s4WExfZkFfTGVQMFR4SlhMaERZMGJQOWtsOHY?oc=5",
-      "category": "breaking",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQTGYwOFBkcmZKN3VTOHNEcmcwOGp4Rk1KajdDRVowV2Jmc2p1bm54cWhWNWtCRHRKQVU3T3BYZjNuTjJsNUdJZk5wUlNpYUVJcGFjcVhNc2FIR1JoaTVITG1nVDk0U25yYXlfZkFFU1pQdk5PWjZwUThSVE14WFhDYkZKVUtLaWZ0RlJ5blN4YndPSlNkbDlWZ0s4WExfZkFfTGVQMFR4SlhMaERZMGJQOWtsOHY?oc=5\" "
-    },
-    {
-      "title": "Meet the Team: USMNT Roster For FIFA World Cup 2026",
+      "title": "Meet the Team: USMNT 2026 World Cup Roster",
       "source": " url=\"https://ussoccer.com\">US Soccer",
       "date": "2026-05-26",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FQUVfWnEwcEljZHlPUGxQTHpuRHR1a28zTU5xaFBXV01Md3VTamxtSnl6VUZVQUlLa0gxRDBLM29obVU4N1NIUFc4S2F2RkctTEloQVdJRWZqQXRpV3hUbjA1MDEwZUFYM25UX0dLVGJCSnJ5TGs0cVgzVEh1QQ?oc=5",
       "category": "squad",
       "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5FQUVfWnEwcEljZHlPUGxQTHpuRHR1a28zTU5xaFBXV01Md3VTamxtSnl6VUZVQUlLa0gxRDBLM29obVU4N1NIUFc4S2F2RkctTEloQVdJRWZqQXRpV3hUbjA1MDEwZUFYM25UX0dLVGJCSnJ5TGs0cVgzVEh1QQ?oc=5\" target=\"_blank\">Meet the Team: USMNT Roster For FIFA World Cup 2026</a>  "
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5FQUVfWnEwcEljZHlPUGxQTHpuRHR1a28zTU5xaFBXV01Md3VTamxtSnl6VUZVQUlLa0gxRDBLM29obVU4N1NIUFc4S2F2RkctTEloQVdJRWZqQXRpV3hUbjA1MDEwZUFYM25UX0dLVGJCSnJ5TGs0cVgzVEh1QQ?oc=5\" target=\"_blank\">Meet the Team: USMNT 2026 World Cup Roster</a>  <font col"
     },
     {
       "title": "U.S. Men's National Team Head Coach Mauricio Pochettino Names 26-Player Roster for FIFA World Cup 2026",
-      "source": " url=\"https://ussoccer.com\">U.S. Soccer",
+      "source": " url=\"https://ussoccer.com\">US Soccer",
       "date": "2026-05-26",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTGxfeFVrY3VlR2RNZVhSeUJaQzB2dC1FMDFDYjVuQWtXUGIweG96WlRZN1pNRmJMU2dTc0U5VHRMdGxvQUpqSkxzVzBCTE01d0JLRGZGdjlIaFFpVE9KUXExQ2s5aTZQNlZBVE51MVE1RVVyeUgxMzM1eXBnbXFCUXV1NmhUQzRTd2dXNktfVllTTGRON1BZRmlGb25BT0d1X3BudFcwWndYYTRwLXlqWHdoWHNpRnNERkZnVU1kWXpYbTV1UFlQU1FjOUM0MnJwdjN6QWhTMkoydw?oc=5",
       "category": "squad",
@@ -6303,6 +6258,294 @@
       "description": "<p>The best of our sports journalism from the past seven days and a heads-up on the weekend’s action</p><p>Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, pl"
     },
     {
+      "title": "UEFA gives FIFA two-week deadline to release Infantino documents",
+      "source": " url=\"https://sports.yahoo.com\">Yahoo Sports",
+      "date": "2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXN1JndndSbGpSeGFrdjJyT0h1UHgtMktWV182eHFWR0ZQNWtuVkY3aDM3UlhJZlRmZ0xrakR2ZTFUcHNXZ29wSGpzZWhOd1ljbXMxRGp1ZnNGN3NPeXY0ZUFBbmxSbTFDZ1UxUWQ0Zk9uYk9IbkQ0YWRtZkpZQQ?oc=5",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBXN1JndndSbGpSeGFrdjJyT0h1UHgtMktWV182eHFWR0ZQNWtuVkY3aDM3UlhJZlRmZ0xrakR2ZTFUcHNXZ29wSGpzZWhOd1ljbXMxRGp1ZnNGN3NPeXY0ZUFBbmxSbTFDZ1UxUWQ0Zk9uYk9IbkQ0YWRtZkpZQQ?oc=5\" target=\"_blank\">UEFA gives FIFA two-week deadline to release Infantino do"
+    },
+    {
+      "title": "2026 FIFA U-17 Women's World Cup: Argentina vs. New Zealand",
+      "source": " url=\"https://www.tsn.ca\">TSN",
+      "date": "2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdjFyZkp5dU1MOE1wSURhcF9XRXVCOFE0SlhPM3lOX0tQWWRTVERmUnNwSzgxM012R3FadkYzTld5VVhPXzBpVlltY2NsUnJadW9sb3hGLXVWZG9nQWQxRzFiUmpaN3hIY0VYVTlUeFVyVFBWUmZUV1p5Q2E2TmljaFNrS2V3LV9tanpFSF9xamQxLUFBTTFfbDM2UnZET282Nnc?oc=5",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNdjFyZkp5dU1MOE1wSURhcF9XRXVCOFE0SlhPM3lOX0tQWWRTVERmUnNwSzgxM012R3FadkYzTld5VVhPXzBpVlltY2NsUnJadW9sb3hGLXVWZG9nQWQxRzFiUmpaN3hIY0VYVTlUeFVyVFBWUmZUV1p5Q2E2TmljaFNrS2V3LV9tanpFSF9xamQxLUFBTTFfbDM2UnZET282Nnc?oc=5\" target=\"_blank\">2026 FIF"
+    },
+    {
+      "title": "2026 FIFA U-17 Women's World Cup: DPR Korea vs. Poland",
+      "source": " url=\"https://www.tsn.ca\">TSN",
+      "date": "2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMWV3U3JCNlMwVFJiV0VEWHlBSi1nZEEtczdMcjJkVDVlRlRjNU1YSUlmWFRNZ1VhN2NwN3BEWFl5aWQ2MlhPSzZMZS1aQW5KX3JkckVnbHoxQ0RNeE03S1NZMzNsV3VtMnIzZlhzeEdJVEMzUWhEaTZxckd5MEI1MjZFbkRXeGFNMzUwMVg5OUV5Q1B3bkcydURXOA?oc=5",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQMWV3U3JCNlMwVFJiV0VEWHlBSi1nZEEtczdMcjJkVDVlRlRjNU1YSUlmWFRNZ1VhN2NwN3BEWFl5aWQ2MlhPSzZMZS1aQW5KX3JkckVnbHoxQ0RNeE03S1NZMzNsV3VtMnIzZlhzeEdJVEMzUWhEaTZxckd5MEI1MjZFbkRXeGFNMzUwMVg5OUV5Q1B3bkcydURXOA?oc=5\" target=\"_blank\">2026 FIFA U-17 Wo"
+    },
+    {
+      "title": "Infantino set to take his FIFA re-election campaign to Japan to court Asian soccer federations",
+      "source": " url=\"https://www.wtnh.com\">WTNH.com",
+      "date": "2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaDM0WFZrZmQwTVVHRUFqakQ1V1J2My1tUDY3SFVuajdrVXJkUDhKOEhpQzdqVmgxZ1c3RWY5bGNraElsZmZhbkVKSEtoWHZwd0c2QXRteGJqTnY5Nmp3b3E3eHEwYW5zNEpMQ2xBRFJmQmpaZS0ySTMyU0c2ZElZcjltWVpTQWNfdmg1S1RvYktNcU9ZaDR3VUY2SFJiTlFYM1VzeFI4NzB6MUNRbnNDdG41am1LQ2xfZEd3U1JJQ0JvX0Ix0gHKAUFVX3lxTE9HOFFqbVJfOHQ4Rk1MNDZrTWNFVGhxZ3lRY2pwckRKaXpiclZSbnZPSUdCZGkxdkxXbEIySld2U1I3LS1CVFB4bUpiaW9GOHNfTUlnOGs5SWZaVWFCZTNfUnJfLS05bmVYdS1jRS1lVnJDZW5hdWNlOHlJMHYtVUZDZjdLMjJIQ0VUc0VGQzlCbmVLT3BiYlFXM3h1YW0zVTBkeWQzS2dLLXpqYU04NGZLamFfQnhuVF9vbXEwTXRvUVdaNVVsUjlfN2c?oc=5",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNaDM0WFZrZmQwTVVHRUFqakQ1V1J2My1tUDY3SFVuajdrVXJkUDhKOEhpQzdqVmgxZ1c3RWY5bGNraElsZmZhbkVKSEtoWHZwd0c2QXRteGJqTnY5Nmp3b3E3eHEwYW5zNEpMQ2xBRFJmQmpaZS0ySTMyU0c2ZElZcjltWVpTQWNfdmg1S1RvYktNcU9ZaDR3VUY2SFJiTlFYM1VzeFI4NzB6MUNRbnNDdG41am1LQ2xfZE"
+    },
+    {
+      "title": "Nigeria vs Puerto Rico Preview: Flamingos target first win at 2026 FIFA U-17 Women’s World Cup",
+      "source": " url=\"https://www.premiumtimesng.com\">Premium Times Nigeria",
+      "date": "2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNR3FBU3RIaEEtMkxKSmg5Ym9BdWl0dU9QS2JENk8tb0d0VEwzd1JEY2h4cjVrNFI2REthUEctWlpEMHc1ZTYxd1JYQy04Z3ZlMXV5VDlZa09xTlNhNk5MOGwyTFhLQ1hENUN1cDh4T0pqVlVnNTZrOHo3UHdLN05yNHNWZlEyZ0pxWVNoTzc0Z2NfZXVJRVV6S28xUzhzcTFyWnZHTm9XUnpuNlJsX3ltSGZhNDJWeE9uYkNoNW9rdEpwUnBibkRLR2NGY2lHbmRTTm5aUFVxN25reEg0Z2RPS3Vvaw?oc=5",
+      "category": "results",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNR3FBU3RIaEEtMkxKSmg5Ym9BdWl0dU9QS2JENk8tb0d0VEwzd1JEY2h4cjVrNFI2REthUEctWlpEMHc1ZTYxd1JYQy04Z3ZlMXV5VDlZa09xTlNhNk5MOGwyTFhLQ1hENUN1cDh4T0pqVlVnNTZrOHo3UHdLN05yNHNWZlEyZ0pxWVNoTzc0Z2NfZXVJRVV6S28xUzhzcTFyWnZHTm9XUnpuNlJsX3ltSGZhNDJWeE9uYk"
+    },
+    {
+      "title": "Spain consolidate top spot in the FIFA Women's World Ranking while Malawi achieve a historic 49-place climb",
+      "source": " url=\"https://www.goal.com\">Goal.com",
+      "date": "2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS3VJZ085X1U5U1Q5d1RsNmJ5LUcwbTIyeldOaDVheEFkeUc4NDN4VmhWY081dDFjWlNOSERQZkVmaFpETjVfc181Z3hHUVlFRTFNUHVUTDBhVVM5ekxCUVNQOW1uRWFFWFcxSU00WU5Wc3prZnk5U3VtSHEwVnNmTTI2SWhScjJyTHR3SGpXdVlHeDhKYWYxU2JERGlmVmlRaUFwWEhLQndEWldLYnMxYzliclZ5NmU5T3B6T0REc2ZqVnNkaDJDZ19jeG1tMXpKY3VJemtZeFZOMFE?oc=5",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS3VJZ085X1U5U1Q5d1RsNmJ5LUcwbTIyeldOaDVheEFkeUc4NDN4VmhWY081dDFjWlNOSERQZkVmaFpETjVfc181Z3hHUVlFRTFNUHVUTDBhVVM5ekxCUVNQOW1uRWFFWFcxSU00WU5Wc3prZnk5U3VtSHEwVnNmTTI2SWhScjJyTHR3SGpXdVlHeDhKYWYxU2JERGlmVmlRaUFwWEhLQndEWldLYnMxYzliclZ5NmU5T3"
+    },
+    {
+      "title": "How to watch New Zealand play Argentina at FIFA U-17 Women’s World Cup",
+      "source": " url=\"https://www.friendsoffootballnz.com\">Friends of Football",
+      "date": "2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaF82SUotZmFBdDJESVg0UDBTNjZXOVJEdngtckFIbFB2UHR6dTRzS3ZENmd3NkNMc3NDTEFDM3RpbTFpMDMzZWEwZEQtRXdCLV9ZSEJhQllsMVlHNGFTcHZ6QldZenhVUW55Tm52dk5iQW81ZnZ4SUxxSW9DMFh4enMtQThWZE9Nc3Bhb2prWmYzR1pSMGZHaG9SdDBYOHlSdTFCMVJhTEMzU0xodFNFWmllNU5BRlZpTmdF?oc=5",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaF82SUotZmFBdDJESVg0UDBTNjZXOVJEdngtckFIbFB2UHR6dTRzS3ZENmd3NkNMc3NDTEFDM3RpbTFpMDMzZWEwZEQtRXdCLV9ZSEJhQllsMVlHNGFTcHZ6QldZenhVUW55Tm52dk5iQW81ZnZ4SUxxSW9DMFh4enMtQThWZE9Nc3Bhb2prWmYzR1pSMGZHaG9SdDBYOHlSdTFCMVJhTEMzU0xodFNFWmllNU5BRlZpTm"
+    },
+    {
+      "title": "2026 Rugby League World Cup Round 2 Team Lists: Every squad confirmed",
+      "source": " url=\"https://www.zerotackle.com\">Zero Tackle",
+      "date": "2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kalVwU2ctd0kyWjFJbzlqOC0ycTE0X2UyN1NWY0VDNGpJYk1FazFyQklFSVFSZHZBejladDYwUld3bG5QUTAzeDNrdDh1RFhRNlJESy1JSk8wTEcxdXNIbTF1cTQ1QllpQUFaR1VyYkVzMjd0UEhj?oc=5",
+      "category": "squad",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5kalVwU2ctd0kyWjFJbzlqOC0ycTE0X2UyN1NWY0VDNGpJYk1FazFyQklFSVFSZHZBejladDYwUld3bG5QUTAzeDNrdDh1RFhRNlJESy1JSk8wTEcxdXNIbTF1cTQ1QllpQUFaR1VyYkVzMjd0UEhj?oc=5\" target=\"_blank\">2026 Rugby League World Cup Round 2 Team Lists: Every squad confirm"
+    },
+    {
+      "title": "World Cup team lists week 2: England, PNG, Australia...",
+      "source": " url=\"https://www.loverugbyleague.com\">Love Rugby League",
+      "date": "2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BcGZfZUQxTUIzUnN6RWp0ako5UFRNck91ZzJpV1pQWkp3dkxWcXkyU2lwOWU5UFRJY3U2S09WVkxDSXFIQXlqcW0tTS12aWZZYXRqblp1R0lzRkpHZDJ0eHBocFBfUlhCT2d6UUlTQXJUT25LUGhR?oc=5",
+      "category": "squad",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9BcGZfZUQxTUIzUnN6RWp0ako5UFRNck91ZzJpV1pQWkp3dkxWcXkyU2lwOWU5UFRJY3U2S09WVkxDSXFIQXlqcW0tTS12aWZZYXRqblp1R0lzRkpHZDJ0eHBocFBfUlhCT2d6UUlTQXJUT25LUGhR?oc=5\" target=\"_blank\">World Cup team lists week 2: England, PNG, Australia...</a>  <font "
+    },
+    {
+      "title": "How to get FIFA Under-17 World Cup 2026 tickets: Dates, schedule, ticket prices, Qatar venue information and more",
+      "source": " url=\"https://www.goal.com\">Goal.com",
+      "date": "2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONVdfNllyaEpLdTVjQkNXWDJ4NWxJMzZTdzhwRFdPeTA0bTJiTUozUFVVM1hCbGdLWlRsMUVIUVBhbzJJLUlvWlRKQ0kyUU5aeTZ5UTc3TlhpMnNYNGptMnlmSHpUTXNKYy11TkcxUUd3M2hFOThPb3NCODd4akZDb2VORy10cTlEOGxqN1ZxUEU1R1JhOUwtRkRfV1ZsZEhmVDJsNQ?oc=5",
+      "category": "venues",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxONVdfNllyaEpLdTVjQkNXWDJ4NWxJMzZTdzhwRFdPeTA0bTJiTUozUFVVM1hCbGdLWlRsMUVIUVBhbzJJLUlvWlRKQ0kyUU5aeTZ5UTc3TlhpMnNYNGptMnlmSHpUTXNKYy11TkcxUUd3M2hFOThPb3NCODd4akZDb2VORy10cTlEOGxqN1ZxUEU1R1JhOUwtRkRfV1ZsZEhmVDJsNQ?oc=5\" target=\"_blank\">How t"
+    },
+    {
+      "title": "Uefa demands Fifa releases documents relating to World Cup sell-off scheme",
+      "source": "The Guardian",
+      "date": "2026-10-19",
+      "url": "https://www.theguardian.com/football/2026/oct/19/uefa-demands-fifa-releases-documents-relating-to-world-cup-sell-off-scheme",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<ul><li><p>European governing body gives two-week deadline</p></li><li><p>Letter addresses other issues including Balogun affair</p></li></ul><p>Uefa has given Fifa a two-week deadline to release key documents relating to Gianni Infantino’s <a href=\"https://www.theguardian.com/football/2026/sep/24/g"
+    },
+    {
+      "title": "Inside the World Cup",
+      "source": " url=\"https://magazine.wm.edu\">W&amp;M Alumni Magazine",
+      "date": "2026-10-19",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GUEdLUEQ3YTI1WGUxdEkxcll0Y1pydFYzWmk5SXNDbTIxZ3FmcTRDOHlQT2VqS0p3UmctS3Nnc2xvVXVfWmI3WEJXVDBSWWM5NzhHdVhGbmdvSV9XSzBQTUphNmZhTVROX1J3SzlNY2xsUQ?oc=5",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9GUEdLUEQ3YTI1WGUxdEkxcll0Y1pydFYzWmk5SXNDbTIxZ3FmcTRDOHlQT2VqS0p3UmctS3Nnc2xvVXVfWmI3WEJXVDBSWWM5NzhHdVhGbmdvSV9XSzBQTUphNmZhTVROX1J3SzlNY2xsUQ?oc=5\" target=\"_blank\">Inside the World Cup</a>  <font color=\"#6f6f6f\">W&M Alumni Magazine</font"
+    },
+    {
+      "title": "Shiny Scores: Panini Prizm FIFA World Cup 2026TM Official Sticker Collection",
+      "source": " url=\"https://blog.paniniamerica.net\">Panini America",
+      "date": "2026-10-19",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWHJLRHpsanJBUkR6dUkwUHJnd2dYOV9JZDNMbmlpbGVUdXhkVG16SW5jbGJsRk5IUnd2cXVrb1lXRGxFOXB6ZlIxMldkTE9wVzNibTZtckc2TTU2MEgyWWwtcVR4MkljaDA3eGNVVVpNSGk3Qnp3OHJWQWhON1VjN0dNbXl0c2NFQzd0d2pKR2ZXbkZUelpPN2JzZ29XVW16MW9raFpFdzltR3c?oc=5",
+      "category": "results",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWHJLRHpsanJBUkR6dUkwUHJnd2dYOV9JZDNMbmlpbGVUdXhkVG16SW5jbGJsRk5IUnd2cXVrb1lXRGxFOXB6ZlIxMldkTE9wVzNibTZtckc2TTU2MEgyWWwtcVR4MkljaDA3eGNVVVpNSGk3Qnp3OHJWQWhON1VjN0dNbXl0c2NFQzd0d2pKR2ZXbkZUelpPN2JzZ29XVW16MW9raFpFdzltR3c?oc=5\" target=\"_bla"
+    },
+    {
+      "title": "OFC Beach Soccer Men’s Nations Cup 2026 | Team Profile | New Caledonia",
+      "source": " url=\"https://www.oceaniafootball.com\">Oceania Football Confederation",
+      "date": "2026-10-19",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa1paY2ppanR4LURIMHFFbXdzVzRKRzl4c3pnSjFKZWV3UnZjY0xkeHZrSGtxTW5vUDJZa0lLZlF5ekxSeXdjQUZ6WW54RnBIV3U1T1FQMFpISmEzV3FmU1Y0bGgwNk53WVlZcVZQTDFpb3ZJZVJqVGZVWV85UEdkbF94VklzdURzSTlVcXcyQkZ6bmZuWWo0REw2Z0hhQ3M?oc=5",
+      "category": "squad",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNa1paY2ppanR4LURIMHFFbXdzVzRKRzl4c3pnSjFKZWV3UnZjY0xkeHZrSGtxTW5vUDJZa0lLZlF5ekxSeXdjQUZ6WW54RnBIV3U1T1FQMFpISmEzV3FmU1Y0bGgwNk53WVlZcVZQTDFpb3ZJZVJqVGZVWV85UEdkbF94VklzdURzSTlVcXcyQkZ6bmZuWWo0REw2Z0hhQ3M?oc=5\" target=\"_blank\">OFC Beach So"
+    },
+    {
+      "title": "New Zealand avoid massive World Cup shock against Fiji",
+      "source": " url=\"https://www.bbc.com\">BBC",
+      "date": "2026-10-18",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16TWgxZm9tX0tYV3k3aVZTcnowZ0RiWlBtVkoxaWMwM2RKMnN4Y3ZKT3FoWU50a3hBb1FVOVI5MThoaGlISWRWRGxBR0MxWGN0VXB0WWxCTW0xeFI4OWFOZFN6c2ZURXFwaTBSbkdB?oc=5",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE16TWgxZm9tX0tYV3k3aVZTcnowZ0RiWlBtVkoxaWMwM2RKMnN4Y3ZKT3FoWU50a3hBb1FVOVI5MThoaGlISWRWRGxBR0MxWGN0VXB0WWxCTW0xeFI4OWFOZFN6c2ZURXFwaTBSbkdB?oc=5\" target=\"_blank\">New Zealand avoid massive World Cup shock against Fiji</a>  <font color=\"#6f6f6"
+    },
+    {
+      "title": "Lamar Jackson injury update: Ravens QB returns to practice in full capacity after back issue - The Athletic",
+      "source": " url=\"https://www.nytimes.com\">The New York Times",
+      "date": "2026-10-01",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdC1YSjZZS1oyUU0yVVhhRlp2akdVdG01QUQ1M1VMUFJ4TnEtcXlGWHVHdU83NmpYMGlQaFoxTm9SVDBtM0RrbjNhSzA3MUlCSUJxdWgwbTd5TC1qU2ZXX0Ria1lGaUVFXzlERmJiWnl6emxPMUNMYU1sdnlRRU9KUlJra0FiZERxNzJuMzE4NVlhaTZEZmxFZkpB?oc=5",
+      "category": "injuries",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPdC1YSjZZS1oyUU0yVVhhRlp2akdVdG01QUQ1M1VMUFJ4TnEtcXlGWHVHdU83NmpYMGlQaFoxTm9SVDBtM0RrbjNhSzA3MUlCSUJxdWgwbTd5TC1qU2ZXX0Ria1lGaUVFXzlERmJiWnl6emxPMUNMYU1sdnlRRU9KUlJra0FiZERxNzJuMzE4NVlhaTZEZmxFZkpB?oc=5\" target=\"_blank\">Lamar Jackson injur"
+    },
+    {
+      "title": "NFL Week 3 fantasy football injury report and weather forecast - The Athletic",
+      "source": " url=\"https://www.nytimes.com\">The New York Times",
+      "date": "2026-09-28",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSnRWM3dHSmh5YXBzaHdic3F1aUVXTndRQ2paaEhNV1VaRGJaQVY0Vll3aHBxVTBvQWI1bXlNbV9XNW51SldKWGtWc1hYdlYxMWE1Rlc2UjhrQlFHN21kakU0SGdJSGQ1YUpHWEtxNWxQc0Y0RjRkYl9zQkhUelRtOFBfZWRuckp0by0zLWdZQUktUFZPbkNMeQ?oc=5",
+      "category": "injuries",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQSnRWM3dHSmh5YXBzaHdic3F1aUVXTndRQ2paaEhNV1VaRGJaQVY0Vll3aHBxVTBvQWI1bXlNbV9XNW51SldKWGtWc1hYdlYxMWE1Rlc2UjhrQlFHN21kakU0SGdJSGQ1YUpHWEtxNWxQc0Y0RjRkYl9zQkhUelRtOFBfZWRuckp0by0zLWdZQUktUFZPbkNMeQ?oc=5\" target=\"_blank\">NFL Week 3 fantasy fo"
+    },
+    {
+      "title": "FIFA is embroiled in a $20 billion World Cup controversy. Here's what's going on",
+      "source": " url=\"https://www.cnbc.com\">CNBC",
+      "date": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWVR4Q0NvUWZBaFZwSHBZcVlNQXQ5a2JUUHpPdnRvMkYzc0tLbEwxWGNFc3RZbjF0YS11TGZ5QzRWdGZRYm5nM3RtZlJOanZSOVktQ2REbWd5VTBRVjhvTk9WckhTaHlCYVVkeHhUMXVHVVR0SV9mYkN6TXRyWUF1ctIBhgFBVV95cUxPZXdCYjIyaFZNTXhNZWZ3WVRjYW1GbWRhN0QxVk9ZUm95c2ZyeXE5Y3oyaF9JTFcxeXlocDU1ZjFaWlhYZl8tbzdlSDBfaGwyUkdXYVhPWE5VcFZfaTVPM1J1M2Qxc3dvVnVOZ0tJVEo4WUt0RmFiaGpZZWtZRUN2cEkzRV9wUQ?oc=5",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNWVR4Q0NvUWZBaFZwSHBZcVlNQXQ5a2JUUHpPdnRvMkYzc0tLbEwxWGNFc3RZbjF0YS11TGZ5QzRWdGZRYm5nM3RtZlJOanZSOVktQ2REbWd5VTBRVjhvTk9WckhTaHlCYVVkeHhUMXVHVVR0SV9mYkN6TXRyWUF1ctIBhgFBVV95cUxPZXdCYjIyaFZNTXhNZWZ3WVRjYW1GbWRhN0QxVk9ZUm95c2ZyeXE5Y3oyaF9JTF"
+    },
+    {
+      "title": "All The Celebrities Spotted At 2026 FIFA World Cup Final Match",
+      "source": " url=\"https://www.forbes.com\">Forbes",
+      "date": "2026-07-19",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZTJxbXRKbF9uWDZRZ1RoOGUyUFdCMHlQNkFqOXkzRjhRUk9YNldXN0JTVEltb0VoaFZXWmR0RGxLZk8zUWRWZlZPNVF5ZjlUSmdhTzRhNWxVdUFWZmlHUU9tVkRmaU84TnNvTHp6YllzTnVIZ1RCRzdzcnhMc3hraWtPbzRIQWwtaXY5MHkyNXh0M0VkbGFUMXpNUExaV1pKTEJISjdfSGRDWGxPUjNaWnN6N3daNlU?oc=5",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQZTJxbXRKbF9uWDZRZ1RoOGUyUFdCMHlQNkFqOXkzRjhRUk9YNldXN0JTVEltb0VoaFZXWmR0RGxLZk8zUWRWZlZPNVF5ZjlUSmdhTzRhNWxVdUFWZmlHUU9tVkRmaU84TnNvTHp6YllzTnVIZ1RCRzdzcnhMc3hraWtPbzRIQWwtaXY5MHkyNXh0M0VkbGFUMXpNUExaV1pKTEJISjdfSGRDWGxPUjNaWnN6N3daNlU?oc"
+    },
+    {
+      "title": "The cheapest World Cup final ticket costs more than you think.",
+      "source": " url=\"https://www.providencejournal.com\">The Providence Journal",
+      "date": "2026-07-17",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdTFhbWUyWVpMTFJTek5oNjc4LWhiWEduejhXb1JXSU1YcXNaS1RnOXpTTFRzRHhoMThvRjdyRTdkT0FIcEtKSnZ2cm9FNzhYZ3hBcEM5Uk1MQl9LX2dhbUhoVkpVTmJsc3p5S0V4ZXJuWHJOUlZkSjhaQkZsZk1wOGV3eGRsejJubkk4M196MjlLZ3kwUHNPallEdGVOdkd4aWNhVjRfWlVja1NEOGN6Rm1TMmlnUkpINWlqd3VIajlUa09adS1MUQ?oc=5",
+      "category": "venues",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdTFhbWUyWVpMTFJTek5oNjc4LWhiWEduejhXb1JXSU1YcXNaS1RnOXpTTFRzRHhoMThvRjdyRTdkT0FIcEtKSnZ2cm9FNzhYZ3hBcEM5Uk1MQl9LX2dhbUhoVkpVTmJsc3p5S0V4ZXJuWHJOUlZkSjhaQkZsZk1wOGV3eGRsejJubkk4M196MjlLZ3kwUHNPallEdGVOdkd4aWNhVjRfWlVja1NEOGN6Rm1TMmlnUkpINW"
+    },
+    {
+      "title": "Spain Advances To 2026 World Cup Final With Win Over France",
+      "source": " url=\"https://www.foxsports.com\">FOX Sports",
+      "date": "2026-07-14",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObEVOSmhsVWJRWFpxUG9UN0VqeFBNSUtkd1o1cVJRNjQ3X1l0NVRhYTNBZDFQM1dtNkxPNjJtTU1MMUhKUEVqSlZSbHM4bnJGR21oWThGS05tUHRfR2hVekdGTG9IcjdCa3hTMEpNV19HRWN4UkJXY1ZQaE1mcVAwLVZXLTRhbjE4MDJvRVNuUm9VZFIzb05N0gGXAUFVX3lxTE1XMjBHSFRVVk1QczJQbF9aNUxtaTlrMlhjNVVMdnB0MjNPMms1RzUyQjdkRnJmNGZiNUZZcDVkb05CQkpDMjFiYXhXS28tTTFxWThiRG1aOTJLTTlOanhsVVRwUTVJRVExekdaS0FLdHNWNFh5NnNWcllWVVJzZkRKOVR4MXhpMjZ0T3hxZ3BoUzJNT3JBOUU?oc=5",
+      "category": "results",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxObEVOSmhsVWJRWFpxUG9UN0VqeFBNSUtkd1o1cVJRNjQ3X1l0NVRhYTNBZDFQM1dtNkxPNjJtTU1MMUhKUEVqSlZSbHM4bnJGR21oWThGS05tUHRfR2hVekdGTG9IcjdCa3hTMEpNV19HRWN4UkJXY1ZQaE1mcVAwLVZXLTRhbjE4MDJvRVNuUm9VZFIzb05N0gGXAUFVX3lxTE1XMjBHSFRVVk1QczJQbF9aNUxtaTlrMl"
+    },
+    {
+      "title": "Australia's Bos to miss three months for Feyenoord after World Cup knee injury",
+      "source": " url=\"https://www.reuters.com\">Reuters",
+      "date": "2026-07-11",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONEdwX1NXU0gtcXFZcld3NE5TbUM0TE5jbDNtY1dfNElNQXlucWZFZ1dtbE5TQ0ZkZ3ZnNWxocHdIOUlzdXgzNkZFX0NNSkRuSS0yelRGVmdtc3l2SEhtX2dXRVRYMFMzNlgyRHJWaW95NjVaMnliZFN3NWtlNVgxOTJUd01ITER3ZjV4dzZTRkJua2tpdW5XMjNZMXhETzhGSkZId20xR1NBR3pqdHY5Q0psN3hPWGdHWFFmaQ?oc=5",
+      "category": "injuries",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxONEdwX1NXU0gtcXFZcld3NE5TbUM0TE5jbDNtY1dfNElNQXlucWZFZ1dtbE5TQ0ZkZ3ZnNWxocHdIOUlzdXgzNkZFX0NNSkRuSS0yelRGVmdtc3l2SEhtX2dXRVRYMFMzNlgyRHJWaW95NjVaMnliZFN3NWtlNVgxOTJUd01ITER3ZjV4dzZTRkJua2tpdW5XMjNZMXhETzhGSkZId20xR1NBR3pqdHY5Q0psN3hPWGdHWF"
+    },
+    {
+      "title": "FIFA selling nearly 1,200 World Cup final tickets at $7,380 each",
+      "source": " url=\"https://www.espn.com\">ESPN",
+      "date": "2026-07-10",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaG1uRW0ySkpqTy1iY1RHMW9jNkc4WFRBY09JazFTMl9RNXRxX3k1V1hfTGZoTldIVXpUY2c4ZTVaLWd2WkM5QWJuVHh0bGh0Z3p0MmtiWW4weWJwc3RVemdyS0sxNThqNlE5d2M2NWxRbVFnREFpYjgwbXMwRVc3T2dKMnJUQnphOXphVXpJbTlnM0EwWE0zSmlMQWd0QTc3MWFTZHFZdl9YSWpjcm1QT2p4OTZfRjQ?oc=5",
+      "category": "venues",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNaG1uRW0ySkpqTy1iY1RHMW9jNkc4WFRBY09JazFTMl9RNXRxX3k1V1hfTGZoTldIVXpUY2c4ZTVaLWd2WkM5QWJuVHh0bGh0Z3p0MmtiWW4weWJwc3RVemdyS0sxNThqNlE5d2M2NWxRbVFnREFpYjgwbXMwRVc3T2dKMnJUQnphOXphVXpJbTlnM0EwWE0zSmlMQWd0QTc3MWFTZHFZdl9YSWpjcm1QT2p4OTZfRjQ?oc"
+    },
+    {
+      "title": "Belgium's Onana suffers World Cup-ending knee injury against US",
+      "source": " url=\"https://www.reuters.com\">Reuters",
+      "date": "2026-07-07",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORjlzcmxnVDZUN0pWcTB4dUx6QnR4enQ1RU9PS2Ruc25uV3hjSk84ZEtUTHRsOWhLb1o3b1VPdHkyWmtWZTRqRllvaG5wQVZaTE5WTnlyRmFWeGZJLUZqUXNUcWdvQTh4cF8wdTRSV1dLRnQxX241R25vc3dFbm1ueTc2TkxTbGV6T2pCZzJMQ1ZDR1JOMEw3V0JFSFptUWJwclB2aUFVU3h5X3pHcDdOMUl3?oc=5",
+      "category": "injuries",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxORjlzcmxnVDZUN0pWcTB4dUx6QnR4enQ1RU9PS2Ruc25uV3hjSk84ZEtUTHRsOWhLb1o3b1VPdHkyWmtWZTRqRllvaG5wQVZaTE5WTnlyRmFWeGZJLUZqUXNUcWdvQTh4cF8wdTRSV1dLRnQxX241R25vc3dFbm1ueTc2TkxTbGV6T2pCZzJMQ1ZDR1JOMEw3V0JFSFptUWJwclB2aUFVU3h5X3pHcDdOMUl3?oc=5\" tar"
+    },
+    {
+      "title": "2026 World Cup Bracket: A Full Look At The Round Of 16 Matchups",
+      "source": " url=\"https://www.foxsports.com\">FOX Sports",
+      "date": "2026-07-04",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTlNqX29fU2tjdXJZNVhmeTd6MC1wYlpKODhPZlYzSllKd0dsTFhCV1VMZjI3WjlTV3FrbjlZX0p3eTNkcHp3NGY0SDVYR1lEZFIxeWw2Ty0yaV9sSWx3WmFRMm9nSWpmclZOSFpOYUFLZ3NQanByaDFDUG1FRlViWmNnYjAzQjk50gGIAUFVX3lxTE40aHpCVW1BbEJhSjRnaVNQaFp1WVFmOGktczgyYnJUVTRhck9UUnhBZVp4SnB4clIyLXhkOFhhSGxmeW5ycVU1VVNoRnJkOGd0TkNWUEZSMW5pSWFpbk4tOVRjR0FRcHlWNEhUU2p4cXBKRmtlOURsM1o2T1RDVC1MTjl2eXh2STM?oc=5",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTlNqX29fU2tjdXJZNVhmeTd6MC1wYlpKODhPZlYzSllKd0dsTFhCV1VMZjI3WjlTV3FrbjlZX0p3eTNkcHp3NGY0SDVYR1lEZFIxeWw2Ty0yaV9sSWx3WmFRMm9nSWpmclZOSFpOYUFLZ3NQanByaDFDUG1FRlViWmNnYjAzQjk50gGIAUFVX3lxTE40aHpCVW1BbEJhSjRnaVNQaFp1WVFmOGktczgyYnJUVTRhck9UUn"
+    },
+    {
+      "title": "2026 World Cup July 4 schedule: Soccer games today",
+      "source": " url=\"https://www.espn.com\">ESPN",
+      "date": "2026-07-04",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMUQ3WC1relF5OXRINWFIRFlRT3oyMzhfMzcwNDNnRTB6VnRSaEFkcXZYbU1oTDY3dmx3bTBpNUsxdnhTWTlmLTBRNWhuUEpFVDd6UXg5Z2FaNDlqenlQNkRLbk85TjBOOERFRVEyd2hOYmJwb0JLbWVsTmNyWjZkaW9NTGprbVV5U2pnMVFvc2RIYVFoeG5fdHo4cXRqdw?oc=5",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQMUQ3WC1relF5OXRINWFIRFlRT3oyMzhfMzcwNDNnRTB6VnRSaEFkcXZYbU1oTDY3dmx3bTBpNUsxdnhTWTlmLTBRNWhuUEpFVDd6UXg5Z2FaNDlqenlQNkRLbk85TjBOOERFRVEyd2hOYmJwb0JLbWVsTmNyWjZkaW9NTGprbVV5U2pnMVFvc2RIYVFoeG5fdHo4cXRqdw?oc=5\" target=\"_blank\">2026 World Cu"
+    },
+    {
+      "title": "FIFA World Cup 2026 MD17 recap: Portugal finish second, Colombia, England, Argentina top groups, Congo DR, Algeria, Austria through",
+      "source": " url=\"https://www.espn.com\">ESPN",
+      "date": "2026-06-28",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcmFQSE4xZmhsaXZBdDJnczRyZ1ptQjNVb3pUbjNfb3lhSXc3TGgxTTdaQ1Y3UDBLX1BXNEQ4azFURDhQdVcyYURwRjN6Y2JpbEZDdzlpVURnV21LVmtMblVZajIzcFRFZ29QbzJlUHRVR0l2bzMxS1dZOWVSZ2Qwb2RhMUxNMWh2M2dDWGljZm40UlNSd3BQRTRIc2hVdmlCamJLRG1HZVZHemh1ZXhBY09DZ2tneGNLcVFSOExua3BJY1lXdUs1SzhINmMzSVMzZTRFeE1vWXZmMFRnYXhsSlBzNWZNQlZpek5PTVI3Q19FbjlGYVF4enYzaEJDd05v?oc=5",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxQcmFQSE4xZmhsaXZBdDJnczRyZ1ptQjNVb3pUbjNfb3lhSXc3TGgxTTdaQ1Y3UDBLX1BXNEQ4azFURDhQdVcyYURwRjN6Y2JpbEZDdzlpVURnV21LVmtMblVZajIzcFRFZ29QbzJlUHRVR0l2bzMxS1dZOWVSZ2Qwb2RhMUxNMWh2M2dDWGljZm40UlNSd3BQRTRIc2hVdmlCamJLRG1HZVZHemh1ZXhBY09DZ2tneGNLcV"
+    },
+    {
+      "title": "World Cup final day of group play will set the field for the round of 32",
+      "source": " url=\"https://www.pbs.org\">PBS",
+      "date": "2026-06-27",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU3lqbERiRGUwcHpOTHVFdU5YVl9nMkp6bG0ySFg2cWZLc1BwcHpKbTV0ajJ1bnlOalVpVVN4WTRabHdEam9aSkdfX2w2clBPcFB1WlV2YWd1NjA3SlRSNk9xT19nakxpX0M5MmlsNHhVLVluZ0dRR1hOMGdXMDhOZHNVX2VwcXQyUEpRTHBmX0xDbkUxS1JNWE8wLTgzNVVocGMzUFNIME8xNW8?oc=5",
+      "category": "general",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU3lqbERiRGUwcHpOTHVFdU5YVl9nMkp6bG0ySFg2cWZLc1BwcHpKbTV0ajJ1bnlOalVpVVN4WTRabHdEam9aSkdfX2w2clBPcFB1WlV2YWd1NjA3SlRSNk9xT19nakxpX0M5MmlsNHhVLVluZ0dRR1hOMGdXMDhOZHNVX2VwcXQyUEpRTHBmX0xDbkUxS1JNWE8wLTgzNVVocGMzUFNIME8xNW8?oc=5\" target=\"_bla"
+    },
+    {
+      "title": "Is this the diaspora World Cup? Is the final in the wrong stadium? Day 4 Recap - The Athletic",
+      "source": " url=\"https://www.nytimes.com\">The New York Times",
+      "date": "2026-06-15",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcW1fZEdsZEprQ3h4Zi1hNHpHaHRVU2Uza0NIRUNBbzBISVBnVXFRT0RzZTN6X1hlbGdHLXpGTjBDUGtrUXd3OVc2VkVUN2JSbDdmcExOT0lvUnhsTDU3V2d2M1NIUFI4MG1oUlBGM2V3OTZWVWxjMWRKWFBKNzJJNEJwTVdNNGFISzlwaUNnT0xBOWQ1X0E?oc=5",
+      "category": "venues",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQcW1fZEdsZEprQ3h4Zi1hNHpHaHRVU2Uza0NIRUNBbzBISVBnVXFRT0RzZTN6X1hlbGdHLXpGTjBDUGtrUXd3OVc2VkVUN2JSbDdmcExOT0lvUnhsTDU3V2d2M1NIUFI4MG1oUlBGM2V3OTZWVWxjMWRKWFBKNzJJNEJwTVdNNGFISzlwaUNnT0xBOWQ1X0E?oc=5\" target=\"_blank\">Is this the diaspora Wor"
+    },
+    {
+      "title": "FIFA turned NRG Stadium into ‘Houston Stadium.’ Here’s an exclusive look inside",
+      "source": " url=\"https://www.houstonpublicmedia.org\">Houston Public Media",
+      "date": "2026-06-10",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRXVvclMtMlZTcFAyYlh6QUNCM1Q1Tm9aM3NiZVk2ZEFOZHE5MWVoNzBiRkU1MmhLaDdUUVU1YnZ3RDlwcmV0NVRVOG9USFdQN2xvNmtRMG9sdEJOSXc5cnpsOWdEaF9sNnFYTU9TczhkbFp6eEZRQ3dHS05XMzlVSHJmR2V3YThsSzFzeWlxOVJHTnU2Y1hXaEtPZG5TLURZS0hpMWxHRDBmU0RtLTVLeklfczdBQk1YRG1pb016MVA1VlNZVF9pYW1hSk1KV196M3d6VmFMSlBZZFRQYzR3THdpRnY1T2szMUozdnVtVkJZd9IB-gFBVV95cUxQeU5GLXE5Y0FTWUp6bHJ0WEFSelZzdkJTaklUY3FnNXk0ZTMzU3VjWW1NOS1ncElTUnNCSkxDak8yWTFUWTBQTmxJOWpwbHlldUZwYzE4dmxkbUU2ZzVCTlZVNGNzQ1hjME4zbFF0ZzM3T2lhRnV4dVFZWkNYY0kxNnNXRzNxS0JheTVEZlJ0OXR6QnZydVJVZndQYXlPRVZPT1hEdmp6RFA0Q0piQUtrcVdPRnEwcWhSMHBNcGtMQTZsTWY0RmVRcjQ0aFZxa0FjR2ZCdFpBUjNOYmZvc2pQY2JNT3FyMkhkUFJuazhOQmt3WFZ1SzRYa2RB?oc=5",
+      "category": "venues",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRXVvclMtMlZTcFAyYlh6QUNCM1Q1Tm9aM3NiZVk2ZEFOZHE5MWVoNzBiRkU1MmhLaDdUUVU1YnZ3RDlwcmV0NVRVOG9USFdQN2xvNmtRMG9sdEJOSXc5cnpsOWdEaF9sNnFYTU9TczhkbFp6eEZRQ3dHS05XMzlVSHJmR2V3YThsSzFzeWlxOVJHTnU2Y1hXaEtPZG5TLURZS0hpMWxHRDBmU0RtLTVLeklfczdBQk1YRG"
+    },
+    {
+      "title": "Free World Cup tickets for US Military, Vets and their families",
+      "source": " url=\"https://pix11.com\">PIX11",
+      "date": "2026-06-04",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOTg0dXNvZlBadms4dTAzaHk3aTdxd29pLV95aWJ4amRud3duNC1jZkVYbG9ubjZ4dTBUU1dwOVhLZzI5SVZFLWFCWlFsYThZSks1NEUwX1FsM3luMlRoR3piZTcxQ2V2SFphYUxlNzF4aEloVFdLaHJHZmxWUkNGTXRZeUFKQlRqUWxiVEVoakNxbkkzQmRGeVZqUURlQnPSAaQBQVVfeXFMUC0wMHJoUGJxX0QwM2FrXzZTOWVoanhBbUVqa2I1NHAyNXJWRkhFczBGbTZ2VjFKYWRSREJCVGlFb3puYlFVTkFfcU82ajNOYkdVdHVjTHB0SVViNkNkVHBtQ1dhXzMtSlQ0MXlnM0VXUHJKOVE4dEM2YlU2UXVFUFJ4eUdNLXRwNWZFeUlmVmloMVZXNUM1Y1Y5ZzF2TVFQRzc4ejk?oc=5",
+      "category": "venues",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPOTg0dXNvZlBadms4dTAzaHk3aTdxd29pLV95aWJ4amRud3duNC1jZkVYbG9ubjZ4dTBUU1dwOVhLZzI5SVZFLWFCWlFsYThZSks1NEUwX1FsM3luMlRoR3piZTcxQ2V2SFphYUxlNzF4aEloVFdLaHJHZmxWUkNGTXRZeUFKQlRqUWxiVEVoakNxbkkzQmRGeVZqUURlQnPSAaQBQVVfeXFMUC0wMHJoUGJxX0QwM2FrXz"
+    },
+    {
+      "title": "Freedom 250 Announces FIFA World Cup 2026™ Fan Zone Washington, D.C., on the National Mall",
+      "source": " url=\"https://freedom250.org\">Freedom 250",
+      "date": "2026-05-26",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTGYwOFBkcmZKN3VTOHNEcmcwOGp4Rk1KajdDRVowV2Jmc2p1bm54cWhWNWtCRHRKQVU3T3BYZjNuTjJsNUdJZk5wUlNpYUVJcGFjcVhNc2FIR1JoaTVITG1nVDk0U25yYXlfZkFFU1pQdk5PWjZwUThSVE14WFhDYkZKVUtLaWZ0RlJ5blN4YndPSlNkbDlWZ0s4WExfZkFfTGVQMFR4SlhMaERZMGJQOWtsOHY?oc=5",
+      "category": "breaking",
+      "thumbnail": "",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQTGYwOFBkcmZKN3VTOHNEcmcwOGp4Rk1KajdDRVowV2Jmc2p1bm54cWhWNWtCRHRKQVU3T3BYZjNuTjJsNUdJZk5wUlNpYUVJcGFjcVhNc2FIR1JoaTVITG1nVDk0U25yYXlfZkFFU1pQdk5PWjZwUThSVE14WFhDYkZKVUtLaWZ0RlJ5blN4YndPSlNkbDlWZ0s4WExfZkFfTGVQMFR4SlhMaERZMGJQOWtsOHY?oc=5\" "
+    },
+    {
       "title": "Who am I? Plus today's other quizzes",
       "source": "BBC Sport",
       "date": "2026-10-20",
@@ -6537,15 +6780,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5sZy1yZWl2VUNFVUVrTDRUYm5qZGpVMDJZUlN4dXdYbmZ3eC00SVBVZVpXTUlUaGxKZHQyUmUyMEV4RTVKMHJEOTBmeHdaOHlyeHFWZVpSNmJHZHZyejE4Wjl5a2ozUXdnbkdUam9lYmU2Z1BnUkN3V0RGVQ?oc=5\" target=\"_blank\">‘No one else in the world more deserving’: White House defend"
     },
     {
-      "title": "2026-27 FIS Alpine World Cup Calendar — Women",
-      "source": " url=\"https://snowbrains.com\">SnowBrains",
-      "date": "2026-10-18",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KQ1ZXbHlXbW9PZmhPaWVFM1J5Nmw1M3ltaFhRMEJSUm05NG9JQjZRcG9IOWFMalVQNm9fV29LR3c2UTEwSlc3dHV3a29PaVFfd3hWZkI1cEZuQlNWTXpOd1Q3ZDNZY0daZkRhRDFiM2R1cnNGUmc?oc=5",
-      "category": "general",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1KQ1ZXbHlXbW9PZmhPaWVFM1J5Nmw1M3ltaFhRMEJSUm05NG9JQjZRcG9IOWFMalVQNm9fV29LR3c2UTEwSlc3dHV3a29PaVFfd3hWZkI1cEZuQlNWTXpOd1Q3ZDNZY0daZkRhRDFiM2R1cnNGUmc?oc=5\" target=\"_blank\">2026-27 FIS Alpine World Cup Calendar — Women</a>  <font color=\"#6f6"
-    },
-    {
       "title": "Big scorelines, one-sided games - are Women's World Cup play-offs working?",
       "source": "BBC Sport",
       "date": "2026-10-14",
@@ -6589,15 +6823,6 @@
       "category": "venues",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTEVkVUpsQWRFQTliSHluMzh1SzNCTVp1bkt0Um1Nd0xmVXNobEJMUjVvOUExQUhPX0hXWUlBY05CaC1fa0NGRmZvZFJmamFuVk94R1dRZkItaWlNd2tDUVAzRFJaanNtaVhleVlPa09WbjN5bjJ5Z1huQVQ5N2R1UXIyNW1xVjN0SE1maWNvamVKU0V6amt4NnJ6ZGR4eEZXVlpXWHRPZXdBUdIBrwFBVV95cUxNa2VNST"
-    },
-    {
-      "title": "The cheapest World Cup final ticket costs more than you think.",
-      "source": " url=\"https://sports.yahoo.com\">Yahoo Sports",
-      "date": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSXJHckd3MFU3dTZ1VE5TbFF0MkZPMTFlX2ZSTGF3NDMzcGhXZkhZdFRvX0tIdWJYOE5Gek1PLXJsQzNvcnlBWFVJSkJSNmpmNFRBN05lc1FfUS1HX0RfMFhHNjZQVVk3ZEhuOVNyNHpBODNrVzg3MEtmWXJxcUQ5U2hXNzFwQUU?oc=5",
-      "category": "venues",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOSXJHckd3MFU3dTZ1VE5TbFF0MkZPMTFlX2ZSTGF3NDMzcGhXZkhZdFRvX0tIdWJYOE5Gek1PLXJsQzNvcnlBWFVJSkJSNmpmNFRBN05lc1FfUS1HX0RfMFhHNjZQVVk3ZEhuOVNyNHpBODNrVzg3MEtmWXJxcUQ5U2hXNzFwQUU?oc=5\" target=\"_blank\">The cheapest World Cup final ticket costs mo"
     },
     {
       "title": "Who will win the World Cup 2026? New favorites emerge before semifinals",
@@ -6663,15 +6888,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBVcFNRZjFxcHhIckIxN2ZUaEdjVWdId2d2bGRYZVV5dXZjMlR5VzVKRXFUV25DN01BdVFBbHRqdEItbTBvM24wQWN6QjNkS2hFTmFuT0xTSVl4MXRwb0N3RU5Edm83TnFpck91ZDNRZk9aVnhvRzJn?oc=5\" target=\"_blank\">Colombia Emerges As Major World Cup 2026 Title Contender</a>  <font"
     },
     {
-      "title": "FIFA World Cup 2026 stats: Messi sets another World Cup record; Ronaldo second with 25; Kane's 11 best for England; Modric record 40",
-      "source": " url=\"https://www.espn.com\">ESPN",
-      "date": "2026-06-28",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNZVpEd216b3VOU0tQbVZOUFFpQnVRRkZwVGN6RERydS1vUjl2WHZNS2NSTVlWMjFuWTVscW1nQ0tzMzlmeUdmc0N1cXI5dU1pLXJYMEo0YmdMWFplSi0xS0MyanczaGU3S0E5aGpvSjBhWHh5clg5SW4wM08zVmllYXU4bFFIaFozeG5iTl9vcUNyRHYtZF82bkdMMDloTXZhdEMzd2tBcHoxZzBfbkR2VUg3UW82YkJ5Mi11bmJTR3BxMVJ4Z2x6Q1dET1U0Y09iTkdqOU5Ba0trLVU3Q1ZBZWI4NVRNd0dpZkl3RXVRRW1iUVl6endtVnh0UFJfbTNjdEFBOFJycTZFNGF4X3R2NDktWlhQWFdqOV95Zmtn?oc=5",
-      "category": "general",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxNZVpEd216b3VOU0tQbVZOUFFpQnVRRkZwVGN6RERydS1vUjl2WHZNS2NSTVlWMjFuWTVscW1nQ0tzMzlmeUdmc0N1cXI5dU1pLXJYMEo0YmdMWFplSi0xS0MyanczaGU3S0E5aGpvSjBhWHh5clg5SW4wM08zVmllYXU4bFFIaFozeG5iTl9vcUNyRHYtZF82bkdMMDloTXZhdEMzd2tBcHoxZzBfbkR2VUg3UW82YkJ5Mi"
-    },
-    {
       "title": "South Africa at the 2026 World Cup: roster, list, players and results",
       "source": " url=\"https://en.as.com\">Diario AS",
       "date": "2026-06-28",
@@ -6679,15 +6895,6 @@
       "category": "results",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNTENUcWp4eXZUNzR2QUdUaTc2RUtSbGNLQXp6TGFQZ0VPV3p5R28zYXl0dFMwZVBKRE45cTFMRW5mVGFueWxUTTJoaERyVTZHQl9UeTFDTl9rY05tZVJ0YWVfNXROb1lPUXJBSmNZZ01yV3drVDRNcm1kZEtSemZtUmFlM0s5Skt1WXUwVk1ucHZaMXItRWd3Y3JRSWlHTzZTbzRMZklJQ3Fzb3ZnUVRHOGhn0gHGAUFVX3"
-    },
-    {
-      "title": "World Cup final day of group play will set the field for the round of 32",
-      "source": " url=\"https://www.pbs.org\">PBS",
-      "date": "2026-06-27",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU3lqbERiRGUwcHpOTHVFdU5YVl9nMkp6bG0ySFg2cWZLc1BwcHpKbTV0ajJ1bnlOalVpVVN4WTRabHdEam9aSkdfX2w2clBPcFB1WlV2YWd1NjA3SlRSNk9xT19nakxpX0M5MmlsNHhVLVluZ0dRR1hOMGdXMDhOZHNVX2VwcXQyUEpRTHBmX0xDbkUxS1JNWE8wLTgzNVVocGMzUFNIME8xNW_SAbABQVVfeXFMTUgzcm1heE1CaUI4dFNkeVVBaDdDa2liRjNtSERLUGx4Y1dKTUwyaTlKbmhRbnA0b3FKcUJzWWtOVzh0M243UjF1V2ZBTkFEXzJPZWpzUldDRUU4R193ekN3dEVvT2QtNGVpUl95YTBORGRIckpkeHFzQ1VKYUE3alRXaVNnTVc3cnRlUVFZbWNxV2szUm9PaGlMYzJWTkdzVC1GRWVOVDR4LUtFWXlVZ1Y?oc=5",
-      "category": "general",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU3lqbERiRGUwcHpOTHVFdU5YVl9nMkp6bG0ySFg2cWZLc1BwcHpKbTV0ajJ1bnlOalVpVVN4WTRabHdEam9aSkdfX2w2clBPcFB1WlV2YWd1NjA3SlRSNk9xT19nakxpX0M5MmlsNHhVLVluZ0dRR1hOMGdXMDhOZHNVX2VwcXQyUEpRTHBmX0xDbkUxS1JNWE8wLTgzNVVocGMzUFNIME8xNW_SAbABQVVfeXFMTUgzcm"
     },
     {
       "title": "Uruguay injury: Manuel Ugarte stretchered off in World Cup game vs. Spain",
@@ -7192,42 +7399,6 @@
       "category": "injuries",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPdElGNEM0a2tZSWpDaWxZYXRCNDM0Q1E2bkRhNDJET0l5UFB4cG1pVnVCSGdhVU9Sd25KSFlHUWJfRTcyQWFyOXFJdGdQMUhDbFZVZFMyLWZFWWpnRjJ3ZVBvVG9qQkRWdEVjenRrTVhyTDBRZ2hHOFpwWno4eUduZEtDNVg1NENNeUVxLXN0d1FxaEJjSHc?oc=5\" target=\"_blank\">Cristian Roldan Shares D"
-    },
-    {
-      "title": "Spain vs. Argentina: 2026 FIFA World Cup final is set",
-      "source": " url=\"https://www.mlssoccer.com\">MLSsoccer.com",
-      "date": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQmFmT2JDQzRXWlEzYzYxR0ZFeTlVU3h6UUFaR3NVMW9NQTRtWS1tMWkzLTBZV2RpQmRuc3VsQm1UVUtRQ0RkX2M3YldZNVpvb24xVlVXclJHc2Vrb1djdGNSWnlwUEo1ekgtY1B1dHVnN0dUOTB5blR2RDZySTdELWlKUzhEdElvYTBLd1MzMXpQRW0zUWRvWXNlU3dLcFRkSzB3M2hmVGY3aFV6Ni1N?oc=5",
-      "category": "general",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQQmFmT2JDQzRXWlEzYzYxR0ZFeTlVU3h6UUFaR3NVMW9NQTRtWS1tMWkzLTBZV2RpQmRuc3VsQm1UVUtRQ0RkX2M3YldZNVpvb24xVlVXclJHc2Vrb1djdGNSWnlwUEo1ekgtY1B1dHVnN0dUOTB5blR2RDZySTdELWlKUzhEdElvYTBLd1MzMXpQRW0zUWRvWXNlU3dLcFRkSzB3M2hmVGY3aFV6Ni1N?oc=5\" target="
-    },
-    {
-      "title": "France defender leaves World Cup semifinal early with clear message following injury",
-      "source": " url=\"https://sports.yahoo.com\">Yahoo Sports",
-      "date": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS0xnNmVtTGlOT2txNHJLMWhodDB2M1BybURRX2VTLVgxT3pvUVMwU2kwNjJmTXpwOW42eW5lRTZJaG9aYUptallnWG11MmNnNGJCb3ZDcWMycW9SUHdKdTNuS3M3a3I4eXRmVF9ET1lScUoydFZUdFJHNGswaU41X2UxTjNEYnRp?oc=5",
-      "category": "injuries",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS0xnNmVtTGlOT2txNHJLMWhodDB2M1BybURRX2VTLVgxT3pvUVMwU2kwNjJmTXpwOW42eW5lRTZJaG9aYUptallnWG11MmNnNGJCb3ZDcWMycW9SUHdKdTNuS3M3a3I4eXRmVF9ET1lScUoydFZUdFJHNGswaU41X2UxTjNEYnRp?oc=5\" target=\"_blank\">France defender leaves World Cup semifinal "
-    },
-    {
-      "title": "Will Declan Rice Play vs. Argentina? Latest England Injury Update Before World Cup Semifinal",
-      "source": " url=\"https://sports.yahoo.com\">Yahoo Sports",
-      "date": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObmRUS0hhbDBibDdMMVhFQjdDaUZ3c2xHUExFdTZHSXFiakt6UWtMejZJN2w1VlJOQTY5NXNZNU4yNDlGQ1NKSFFKdXNLRlVqU2p2V2JDMGp5dzhHMjBna0d4TUU2dVJnb0RKTXg0UGFjS2pjWm5YR2xyZTJ6dWpUbjF0YmQ?oc=5",
-      "category": "injuries",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxObmRUS0hhbDBibDdMMVhFQjdDaUZ3c2xHUExFdTZHSXFiakt6UWtMejZJN2w1VlJOQTY5NXNZNU4yNDlGQ1NKSFFKdXNLRlVqU2p2V2JDMGp5dzhHMjBna0d4TUU2dVJnb0RKTXg0UGFjS2pjWm5YR2xyZTJ6dWpUbjF0YmQ?oc=5\" target=\"_blank\">Will Declan Rice Play vs. Argentina? Latest Engl"
-    },
-    {
-      "title": "‘They had hyped us up so much’: Seattle businesses near World Cup stadium report declining sales",
-      "source": " url=\"https://www.theguardian.com\">The Guardian",
-      "date": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50MGZkYnVRa1FPUmVCVktqZmZJU1lBNjU0M19oSU5CQ2w0Y0ttMkF6OWQzUEZOTjhwRXdaeEktdUhrWHhoMGMwVmVVcWhqVjREMFBhUWktUncxenJSdjU3UGp0Y2FXcXRfbVZwSDZzZUJBcDQ5bG0zWUg4Y2lKbUE?oc=5",
-      "category": "venues",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE50MGZkYnVRa1FPUmVCVktqZmZJU1lBNjU0M19oSU5CQ2w0Y0ttMkF6OWQzUEZOTjhwRXdaeEktdUhrWHhoMGMwVmVVcWhqVjREMFBhUWktUncxenJSdjU3UGp0Y2FXcXRfbVZwSDZzZUJBcDQ5bG0zWUg4Y2lKbUE?oc=5\" target=\"_blank\">‘They had hyped us up so much’: Seattle businesses near "
     },
     {
       "title": "Canada’s World Cup exit revives questions over Alphonso Davies injury management",
@@ -9084,15 +9255,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOZWNNYWpYYVlzc1ZpNldTbGVXcWdrTnBwUVpLbzRrajM2RThWUlNLYU04RWVPUXhJWUh5Ym5QYkRSaGxJQmVMcjYybUlkcWJ4WmVZdWFxMXM1aDBtYW92ejB0b3FsX2ZBallnbXJOODVjVFR1T1NLQ0VaYjhvbndqbklaN3Q?oc=5\" target=\"_blank\">England World Cup Roster 2026: Harry Kane Enters"
     },
     {
-      "title": "GOVERNOR SHERRILL ANNOUNCES 250 ADDITIONAL FREE FIFA WORLD CUP 2026™ TICKETS FOR NJ YOUTH",
-      "source": " url=\"https://www.insidernj.com\">Insider NJ",
-      "date": "2026-06-12",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQWM2c3RXcjhENkYtaHBSZ1dyT19NWXJwdlRvUTM2b2ZyRTQ5cm55YVJ6bkVJTnlEbjJfb1c4WnVTX2FCRmVyTUpsTERfVVJ3M2prMFFLTHlfY2xXX2lHRk9tb2JjVVgyYVJxaW1YSlVQaDZQREZTLVBSVGFjYUlkWEQ2QXFGd2xCOGlPVmJxa1VnMWxYY21Wb3FHOG45enZwVFBxMGN3TVd1OXRzUFJJV01ZN0VXUXNNek9rSTV5SmtSOVNCQVZqaw?oc=5",
-      "category": "venues",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQWM2c3RXcjhENkYtaHBSZ1dyT19NWXJwdlRvUTM2b2ZyRTQ5cm55YVJ6bkVJTnlEbjJfb1c4WnVTX2FCRmVyTUpsTERfVVJ3M2prMFFLTHlfY2xXX2lHRk9tb2JjVVgyYVJxaW1YSlVQaDZQREZTLVBSVGFjYUlkWEQ2QXFGd2xCOGlPVmJxa1VnMWxYY21Wb3FHOG45enZwVFBxMGN3TVd1OXRzUFJJV01ZN0VXUXNNek"
-    },
-    {
       "title": "2026 FIFA U-17 Women's World Cup: Canada vs. Brazil",
       "source": " url=\"https://www.tsn.ca\">TSN",
       "date": "2026-10-18",
@@ -9703,15 +9865,6 @@
       "category": "squad",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeUZhZzQxTHBkdXY4bzJ1Tm5OSURpbDRYSmtUc2JBZ01OdVpPeVRlRFdRdVFGTmd5QUQ1NlpkOF9zeDVOdC1TRWhHakUwLVBqYnVzT0dmeURMdHJrM3ZCRkNkMmNfYjBLcGRZYy1RVHBraVFpcldvZmY5RkRlZ3ljZkM5cW5PemhEcFhLWUVMSXM4a3FXdjhwOUdKb0NoY1Jkc1JXbTY1WnZidw?oc=5\" target=\"_blan"
-    },
-    {
-      "title": "Roberto De Zerbi's latest Pedro Porro injury news puts even more pressure on Mohammed Kudus and Savio",
-      "source": " url=\"https://sports.yahoo.com\">Yahoo Sports",
-      "date": "2026-10-09",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa0RQU29IMVRkdG1zRlRoX1FmYzJuRzQ0OWFLUXF6OEdQVnJQWG9RSWxjMGJFY1doRDNpM0JmYkhJWEZ2aFl2dEVYSy1Jb2xCUnJWX08xMXBmRFdEcEhwY3RMd2RaV0NmS0Nhdl9xTlAtczZyb2UyTWNybGRjYkNzMEprMWNmX3pDcUE?oc=5",
-      "category": "injuries",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPa0RQU29IMVRkdG1zRlRoX1FmYzJuRzQ0OWFLUXF6OEdQVnJQWG9RSWxjMGJFY1doRDNpM0JmYkhJWEZ2aFl2dEVYSy1Jb2xCUnJWX08xMXBmRFdEcEhwY3RMd2RaV0NmS0Nhdl9xTlAtczZyb2UyTWNybGRjYkNzMEprMWNmX3pDcUE?oc=5\" target=\"_blank\">Roberto De Zerbi's latest Pedro Porro in"
     },
     {
       "title": "FIFA World Cup 2026: The top 5 brand sponsors based on Advertiser Impact Score (AIS)",
@@ -15330,15 +15483,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPVkdvRENvd1EwR05jY2NEWlhrVVVuWW5idnIzcHBiOS1hZVZrM1c5NkR4akM4NzVJZXMzSFdTVHpFTXlmRDNmb0FUdDJUaXFmbXlfb0E4MlE4LUlqcWpHeFluajgwN3B1YTF6X3dPbXZsdkxkdVQ4TmhEYTBlT29Wd2p1NTNIRzZ5WmdGNFhKWWYtdzduaXdUMWR3?oc=5\" target=\"_blank\">2026 World Cup Brac"
     },
     {
-      "title": "2026 World Cup Bracket: A Full Look At The Round Of 16 Matchups",
-      "source": " url=\"https://www.foxsports.com\">FOX Sports",
-      "date": "2026-07-04",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTlNqX29fU2tjdXJZNVhmeTd6MC1wYlpKODhPZlYzSllKd0dsTFhCV1VMZjI3WjlTV3FrbjlZX0p3eTNkcHp3NGY0SDVYR1lEZFIxeWw2Ty0yaV9sSWx3WmFRMm9nSWpmclZOSFpOYUFLZ3NQanByaDFDUG1FRlViWmNnYjAzQjk5?oc=5",
-      "category": "general",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTlNqX29fU2tjdXJZNVhmeTd6MC1wYlpKODhPZlYzSllKd0dsTFhCV1VMZjI3WjlTV3FrbjlZX0p3eTNkcHp3NGY0SDVYR1lEZFIxeWw2Ty0yaV9sSWx3WmFRMm9nSWpmclZOSFpOYUFLZ3NQanByaDFDUG1FRlViWmNnYjAzQjk5?oc=5\" target=\"_blank\">2026 World Cup Bracket: A Full Look At The "
-    },
-    {
       "title": "England release squad numbers for the 2026 FIFA World Cup",
       "source": " url=\"https://sports.yahoo.com\">Yahoo Sports",
       "date": "2026-06-03",
@@ -19866,15 +20010,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRGdPeWRCTmtJcElESXRybTZrSjFtdnVpOXBuMWJZeVpBWnJwbFJwVzhMZFlZWE5DRTBrRTlqcnd0RjhWaXdrME1EZVZjZ1ltdmRjMkllM2NhUndXa05TSWlGVGxvczFlMUFyNlpTYW90X2JmZlVsemEtZUxlc0k2UzdFeTZpdTA1YVpqZzVaQXlZU0pUOGtEUy0tYmtFajFES096enB6cEZHUURYaDZocDdnQ3NVa2RwcD"
     },
     {
-      "title": "Cristiano Ronaldo Confirms 2026 FIFA World Cup Will Be His Last",
-      "source": " url=\"https://sports.yahoo.com\">Yahoo Sports",
-      "date": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLVFNNWQ2cjFpMlBjUkF5ZXBIT29yTWxkNjdMWnhXSVVzNVFDWl9WU1dSbngweFFjcm0yRXpwLUhoUjVGNjZ3REg0OFhrUE12dm9wcFFkTzZYWlZjaXA4LXRNaG5jYTF6V2p1VzFsMWhnRHFzY0RFSGxBNEs2U0tsSVlCdlVGV0ttOExwSDZn?oc=5",
-      "category": "breaking",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQLVFNNWQ2cjFpMlBjUkF5ZXBIT29yTWxkNjdMWnhXSVVzNVFDWl9WU1dSbngweFFjcm0yRXpwLUhoUjVGNjZ3REg0OFhrUE12dm9wcFFkTzZYWlZjaXA4LXRNaG5jYTF6V2p1VzFsMWhnRHFzY0RFSGxBNEs2U0tsSVlCdlVGV0ttOExwSDZn?oc=5\" target=\"_blank\">Cristiano Ronaldo Confirms 2026 FIF"
-    },
-    {
       "title": "World Cup 2026 today: Live updates and news -- as it happened on July 7",
       "source": " url=\"https://www.espn.com\">ESPN",
       "date": "2026-07-07",
@@ -22636,15 +22771,6 @@
       "category": "transfers",
       "thumbnail": "",
       "description": "<ul><li><p>SFV withdraws support after endorsing candidacy in June</p></li><li><p>Swiss-born Infantino has faced calls for his resignation</p></li></ul><p>The Swiss Football Association (SFV) has withdrawn its support for Gianni Infantino’s bid for another term as Fifa president, the organisation co"
-    },
-    {
-      "title": "Aces give A’ja Wilson injury update, defend MVP’s choice to miss FIBA World Cup",
-      "source": " url=\"https://www.usatoday.com\">USA Today",
-      "date": "2026-09-10",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTm96UDJJUE55VGYtUmJ0OVBZUjN0cURoWXRuUWF5TWVpdm94Q19VelVGQ1NCMHQxaDBiUVhRZnp0QlF3dzNLWXpHWXNRQTREU1pwa1hUb09mTl80YmtYMmt3Wk9iVk1NQlpQX3JDSDBHZFp0R25obkdWY202cFZ0OTJVZ3o1X0xGelJHaWxDT3VLVlNFeS1GTzR4dWlJUFU0aG5rSjJRRGVWNkF2Qk5aSA?oc=5",
-      "category": "injuries",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPTm96UDJJUE55VGYtUmJ0OVBZUjN0cURoWXRuUWF5TWVpdm94Q19VelVGQ1NCMHQxaDBiUVhRZnp0QlF3dzNLWXpHWXNRQTREU1pwa1hUb09mTl80YmtYMmt3Wk9iVk1NQlpQX3JDSDBHZFp0R25obkdWY202cFZ0OTJVZ3o1X0xGelJHaWxDT3VLVlNFeS1GTzR4dWlJUFU0aG5rSjJRRGVWNkF2Qk5aSA?oc=5\" targe"
     },
     {
       "title": "Prices for last-minute World Cup semifinal tickets have dropped, but there's a catch - NBC 5 Dallas-Fort Worth",
@@ -37056,15 +37182,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNWE15TDFOUTBPLUg4V09jVWROSXlXV0dSVktwejJMcDhaVWpvLU9SUl9ySWg5UjlxbUxIWXYwT0pkLUpGaXZjVXI2cWw1OHR1S1pVZFQwdzltT3BoVUhzN3BrbnBiNlViV09qeWxBRFlMNVVsRFQxUmhmaGJGX3JfVnNtT1BXRl8zU2FRTFJnM2V1VS1HbGxpT3Jvd2RwRExOYlZmdWVsVUpCR1ZhX2Y5MWpQcUtiOVRBb2"
     },
     {
-      "title": "How A'ja Wilson and Kelsey Plum injuries impact USA at World Cup",
-      "source": " url=\"https://www.espn.com\">ESPN",
-      "date": "2026-08-31",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT1NyM0txWWV1cEVQZjJfVjM1ZVQzSG5GVHV2TEUwQWxfcTg4MWh5ME9kRXR2aVVibVNLVjg4ZDA4SjNEQ1YxVlYzVEJiTXh4SGY0WWhIZGpRUkQ1UWROSzhYVkF5YzlxdHpqMy1WYTYzU3N3dXVrYnRhTnVNX0JYOWxKTGlQb1ROczJlTkNmcHVpR0hNaXoybElHYW9qZTB4WHZiZmtCR01xSzZqcFdHZERCVnVhOVhwenZ2ag?oc=5",
-      "category": "general",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQT1NyM0txWWV1cEVQZjJfVjM1ZVQzSG5GVHV2TEUwQWxfcTg4MWh5ME9kRXR2aVVibVNLVjg4ZDA4SjNEQ1YxVlYzVEJiTXh4SGY0WWhIZGpRUkQ1UWROSzhYVkF5YzlxdHpqMy1WYTYzU3N3dXVrYnRhTnVNX0JYOWxKTGlQb1ROczJlTkNmcHVpR0hNaXoybElHYW9qZTB4WHZiZmtCR01xSzZqcFdHZERCVnVhOVhwen"
-    },
-    {
       "title": "High-end FIFA World Cup tickets top $62K for U.S. match in Seattle",
       "source": " url=\"https://mynorthwest.com\">MyNorthwest.com",
       "date": "2026-06-11",
@@ -40465,15 +40582,6 @@
       "category": "results",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPdUhQY3FxWWdqNE41M3JXVl8zZnNVNXB5YVhqRVpTYlVGaU1oZ25CdktqMGZqajlVem44dnhtSndHS3hHVWMwUGM2Y0dVWFZqVjZKMUVPeHVvNTFUSnc2R09DT0luUXAzLS1UajRpTnU0NFI3ZEJzbm1JNzdGbHFnWkYyS3FwLUU?oc=5\" target=\"_blank\">Rodri, Mbappe and every award winner from FI"
-    },
-    {
-      "title": "How much does World Cup winner get? Explaining record-breaking prize money for 2026",
-      "source": " url=\"https://sports.yahoo.com\">Yahoo Sports",
-      "date": "2026-07-18",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbEU0VGo2XzNETHVHODF5V3o3TkE3T2lhQlJra1FFNzQ2VFcySnFsWE5MN1FlM0pZZml1Tm1YNGhHQXdPQzJTendNU2dBOXl5X01qRk5qZEgwblF6SnotSVFqZDNxeWNiNDloZGtWMFRKSUdPQ3U1SW03QXlHYWhaSQ?oc=5",
-      "category": "results",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQbEU0VGo2XzNETHVHODF5V3o3TkE3T2lhQlJra1FFNzQ2VFcySnFsWE5MN1FlM0pZZml1Tm1YNGhHQXdPQzJTendNU2dBOXl5X01qRk5qZEgwblF6SnotSVFqZDNxeWNiNDloZGtWMFRKSUdPQ3U1SW03QXlHYWhaSQ?oc=5\" target=\"_blank\">How much does World Cup winner get? Explaining record"
     },
     {
       "title": "FIFA World Cup 2026™ Final",
@@ -339850,15 +339958,6 @@
       "category": "venues",
       "thumbnail": "",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxONG1WWVpqTjhxYk1MUl9QaFlyYXA0dmZqdFJDR1JaTWRjMWFqVDJ4WVF2SXpMcjI5RElRdGl1SDJYRC1FZHNCUnBzSzJsNzZYM0lsek9IeWpNaFJhb3lLbU1rOGYtbFYtSVBZaFdmV2RuSGFtd3djRWR4YkRPX2t0OF9ta1lOalBZRndWY1d1Rk1UMldQazVFczhDZC1yN3ZhdWMySzMtV3dPLW1KdHh0NXRLUzhGVUJNNT"
-    },
-    {
-      "title": "Free World Cup tickets for U.S. military, vets and their families",
-      "source": " url=\"https://www.wate.com\">WATE 6 On Your Side",
-      "date": "2026-06-08",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRllxdjVlRXRiZE1UbHY2LTJGY3JpX2tYNmk3SElqclROYjVWQWxYVUR1UUcteHhvSGY0TnlVSEZKWmY5d25MLXFDLVRBVXBiZVBpMEtIdTFzM0c2SmJQRUhuaDJjOGFERHJUU1FSdGx0eGR0QlBFb3gwZU9aZTRqLVNyTWwxM2RBZ2lPTEFKWEV5dVZH0gGaAUFVX3lxTE0tV3h6SllEQVF0RzhYblR0UVR4QTFiQ0hYeTY0ZzVwdEVwNTBWbEMwd2h4VFZrUk41YjA2bENveDhVNHRvd0ZUUWEtTmpsOE51VjBWSW5CZEFtSzd6OUIwTEMtNXQ1QTZyMmV3WlJaWGNPdFA5YkFWRUFHd3pPRmpMS1I1eHVFM3JxMEpkdU9qcHlKVzZYSGp1U3c?oc=5",
-      "category": "venues",
-      "thumbnail": "",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNRllxdjVlRXRiZE1UbHY2LTJGY3JpX2tYNmk3SElqclROYjVWQWxYVUR1UUcteHhvSGY0TnlVSEZKWmY5d25MLXFDLVRBVXBiZVBpMEtIdTFzM0c2SmJQRUhuaDJjOGFERHJUU1FSdGx0eGR0QlBFb3gwZU9aZTRqLVNyTWwxM2RBZ2lPTEFKWEV5dVZH0gGaAUFVX3lxTE0tV3h6SllEQVF0RzhYblR0UVR4QTFiQ0hYeT"
     },
     {
       "title": "$18 for a Beer, $8.75 for Water: The FIFA 2026 World Cup's Ugly Price Tag",
