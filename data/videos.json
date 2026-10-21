@@ -1,11 +1,42 @@
 {
-  "lastUpdated": "2026-10-21T09:13:19.413Z",
+  "lastUpdated": "2026-10-21T14:56:34.162Z",
   "featured": {
     "match": "8CEZOaRGMl8",
-    "highlight": "dsE6r9btDxw",
+    "highlight": "YV0-WbvXIFU",
     "interview": "5l03lSYyM0o"
   },
   "videos": [
+    {
+      "title": "60-Second Highlights | Brazil v Morocco | 2026 World Cup",
+      "videoId": "YV0-WbvXIFU",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-21",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/YV0-WbvXIFU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "3 Goals In 3 Games! Saibari's 2026 World Cup Scoring Streak Was 🔥",
+      "videoId": "8Aw0wNOj0kc",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-21",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/8Aw0wNOj0kc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "ALL GROUP STAGE GOALS | Part 4 | 2026 FIFA World Cup",
       "videoId": "dsE6r9btDxw",
@@ -307,39 +338,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/o2htsT60ERw/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "USA vs Samoa Highlights | FIFA U-17 Women's World Cup 2026™",
-      "videoId": "_gzn9x06stA",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-19",
-      "category": "Highlights",
-      "team": [
-        "USA"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_gzn9x06stA/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Australia vs Chile Highlights | FIFA U-17 Women's World Cup 2026™",
-      "videoId": "QdvV64oUSzk",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-19",
-      "category": "Highlights",
-      "team": [
-        "Australia",
-        "Chile"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/QdvV64oUSzk/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
