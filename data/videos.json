@@ -1,11 +1,45 @@
 {
-  "lastUpdated": "2026-10-21T14:56:34.162Z",
+  "lastUpdated": "2026-10-21T19:11:41.834Z",
   "featured": {
     "match": "8CEZOaRGMl8",
-    "highlight": "YV0-WbvXIFU",
+    "highlight": "xUg2rN1wjAc",
     "interview": "5l03lSYyM0o"
   },
   "videos": [
+    {
+      "title": "Canada vs  Norway | FIFA U-17 Women's World Cup 2026™",
+      "videoId": "xUg2rN1wjAc",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-21",
+      "category": "Highlights",
+      "team": [
+        "Canada",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xUg2rN1wjAc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Japan vs France Highlights | FIFA U-17 Women's World Cup 2026™",
+      "videoId": "l5w8mDXjnnA",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-21",
+      "category": "Highlights",
+      "team": [
+        "France",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/l5w8mDXjnnA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "60-Second Highlights | Brazil v Morocco | 2026 World Cup",
       "videoId": "YV0-WbvXIFU",
@@ -193,53 +227,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/8CEZOaRGMl8/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Pierre Njanka Wonder GOAL | Cameroon v Austria | 1998 Match Highlights",
-      "videoId": "jt0j3BBVM00",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-20",
-      "category": "Highlights",
-      "team": [
-        "Cameroon",
-        "Austria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/jt0j3BBVM00/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "You Won't Believe These Vintage Screamers | 1974 World Cup",
-      "videoId": "rQ5HquSlF1k",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-20",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/rQ5HquSlF1k/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "1-Minute Classic | Honduras Face Spain In First World Cup Match | 1982 World Cup",
-      "videoId": "XrxKEdtxkzE",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-20",
-      "category": "Highlights",
-      "team": [
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/XrxKEdtxkzE/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -450,6 +437,23 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/x4slD8a-CcU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "LIVE NOW | Germany v Colombia | Group Stage | FIFA Women's World Cup 2023™",
+      "videoId": "5fci-Ez_4SU",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-23",
+      "category": "Highlights",
+      "team": [
+        "Germany",
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/5fci-Ez_4SU/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
