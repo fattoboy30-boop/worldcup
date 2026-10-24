@@ -1,9 +1,461 @@
 {
-  "lastUpdated": "2026-10-24T05:31:53.766Z",
+  "lastUpdated": "2026-10-24T10:33:52.747Z",
   "featured": {
-    "match": "",
-    "highlight": "",
-    "interview": ""
+    "match": "j9dRVS8v008",
+    "highlight": "I1ysW4-ZK7A",
+    "interview": "I1ysW4-ZK7A"
   },
-  "videos": []
+  "videos": [
+    {
+      "title": "FOUR LATE GOALS! Switzerland v Bosnia and Herzegovina | 2026 World Cup Match Highlights",
+      "videoId": "I1ysW4-ZK7A",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-24",
+      "category": "Highlights",
+      "team": [
+        "Switzerland",
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/I1ysW4-ZK7A/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "1-Min Highlights | Mexico Complete Perfect Group Stage Against Czechia | 2026 FIFA World Cup",
+      "videoId": "oCj9WbK8wT0",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-24",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Czechia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/oCj9WbK8wT0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "New Zealand vs Germany Highlights | FIFA U-17 Women's World Cup 2026™",
+      "videoId": "nj9dFrUMCEM",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-23",
+      "category": "Highlights",
+      "team": [
+        "Germany"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/nj9dFrUMCEM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Argentina vs Morocco Highlights | FIFA U-17 Women's World Cup 2026™",
+      "videoId": "rsXFY4SLTH8",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-23",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/rsXFY4SLTH8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Nigeria vs DPR Korea Highlights | FIFA U-17 Women's World Cup 2026™",
+      "videoId": "GTWCUNFIo-g",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-23",
+      "category": "Highlights",
+      "team": [
+        "Nigeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/GTWCUNFIo-g/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Puerto Rico vs Poland Highlights | FIFA U-17 Women's World Cup 2026™",
+      "videoId": "0te5v-rgeYQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-23",
+      "category": "Highlights",
+      "team": [
+        "Poland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0te5v-rgeYQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "LIVE NOW | USA v Paraguay | Group Stage | FIFA World Cup 2026™",
+      "videoId": "DIBmIVAdlO0",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-23",
+      "category": "Highlights",
+      "team": [
+        "USA",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/DIBmIVAdlO0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "What A Group Stage For Vini Jr! All Four Goals | 2026 World Cup",
+      "videoId": "g0UrI-7AA1E",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/g0UrI-7AA1E/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "ALL GROUP STAGE GOALS | Part 5 | 2026 FIFA World Cup",
+      "videoId": "jeoL2k_0yUo",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jeoL2k_0yUo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "60-Seconds: South Africa Secure First-Ever Knockout Spot | Korea Republic Miss Out | 2026 World Cup",
+      "videoId": "f8qWBzi5Kic",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-23",
+      "category": "Highlights",
+      "team": [
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/f8qWBzi5Kic/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Imagine Scoring This World Cup Goal At 18 Years Old",
+      "videoId": "Cc-I29dvjvk",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Cc-I29dvjvk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Match Highlights | Canada Hit Qatar For Six | 2026 World Cup",
+      "videoId": "EjpJhlIkbKQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-23",
+      "category": "Highlights",
+      "team": [
+        "Canada",
+        "Qatar"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/EjpJhlIkbKQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "48 HOURS TO EL CLASICO ⏳ Make-or-break for Barca or Real Madrid's season?! | ESPN FC",
+      "videoId": "-w3JHls1gU8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-w3JHls1gU8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Will Trent Alexander-Arnold ever get back in Mourinho’s Starting XI? | ESPN FC Extra Time",
+      "videoId": "6GM5WJth16c",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6GM5WJth16c/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Can Real Madrid find consistency against Barcelona? 🤔 El Clasico PREVIEW | ESPN FC",
+      "videoId": "20IFDoCGDgc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/20IFDoCGDgc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "'It's a little bit of a statement if Liverpool beat Brighton!' - Steve McManaman | ESPN FC",
+      "videoId": "wsZzcYmAMhU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/wsZzcYmAMhU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "‘He’s a dead man walking’ 😳 Craig Burley on Michael Carrick’s future at Man United | ESPN FC",
+      "videoId": "aI955CvAV70",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/aI955CvAV70/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Imagine Haaland in LALIGA 🤯",
+      "videoId": "R4epmsh-7QU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/R4epmsh-7QU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "'Too much cheating, too much crying!' 😮 Frank Lebouef has some strong words for Bruno Fernandes 🗣️",
+      "videoId": "z-5BqF2Nd0Y",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/z-5BqF2Nd0Y/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Real Madrid vs. Barcelona EXTENDED HIGHLIGHTS [October 26, 2025] | ESPN FC",
+      "videoId": "BZyOb9qqRSU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/BZyOb9qqRSU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Real Madrid vs. Barcelona [OCTOBER 26, 2025] | LALIGA Full Match Replay | ESPN FC",
+      "videoId": "j9dRVS8v008",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-23",
+      "category": "Full Match",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/j9dRVS8v008/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Craig Burley’s Barcelona vs. Real Madrid VERDICT 👀 | Futbol Americas",
+      "videoId": "eFc59WFZxrw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/eFc59WFZxrw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "USA vs Kenya Highlights | FIFA U-17 Women's World Cup 2026™",
+      "videoId": "uSO5HmxwktQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-22",
+      "category": "Highlights",
+      "team": [
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/uSO5HmxwktQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Chile vs Mexico Highlights | FIFA U-17 Women's World Cup 2026™",
+      "videoId": "Ol9iUNryyI4",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-22",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Chile"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Ol9iUNryyI4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "LIVE NOW | Mexico v South Africa | Group Stage | FIFA World Cup 2026™",
+      "videoId": "CVZNyD1Opbk",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-22",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "South Africa"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/CVZNyD1Opbk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "El Clasico causes Futbol Americas TO GET INTO A HEATED DEBATE 🔥",
+      "videoId": "LrAWyb9Kjmo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-22",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/LrAWyb9Kjmo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Sergi Roberto offers up 3-0 Barcelona vs. Real Madrid SCORE PREDICTION! | Futbol Americas",
+      "videoId": "VESa3Z62RfU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-22",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/VESa3Z62RfU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Bruno Fernandes 'throws Michael Carrick under the bus’ + El Clasico preview | ESPN FC",
+      "videoId": "uyIZTlkUgu8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-22",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/uyIZTlkUgu8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Will Real Madrid REGRET giving Vinicius Junior a new contract? 😳 | ESPN FC Extra Time",
+      "videoId": "O4nG4Pxc81k",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-22",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/O4nG4Pxc81k/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Can Brighton keep up their ELITE form vs. Liverpool? + Chelsea vs. Spurs preview | ESPN FC",
+      "videoId": "_7GxbvCG0LQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-22",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_7GxbvCG0LQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    }
+  ]
 }
