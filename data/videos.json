@@ -1,9 +1,466 @@
 {
-  "lastUpdated": "2026-10-25T01:00:58.468Z",
+  "lastUpdated": "2026-10-25T07:24:20.828Z",
   "featured": {
-    "match": "",
-    "highlight": "",
-    "interview": ""
+    "match": "PFvNIBOeMZ4",
+    "highlight": "PFvNIBOeMZ4",
+    "interview": "8wVAh-W4eVA"
   },
-  "videos": []
+  "videos": [
+    {
+      "title": "Côte d'Ivoire And Ecuador's EPIC Encounter | 2026 World Cup EXTENDED HIGHLIGHTS",
+      "videoId": "PFvNIBOeMZ4",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-25",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/PFvNIBOeMZ4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "This play from Messi 😤",
+      "videoId": "FyGIzW9cLBk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-25",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/FyGIzW9cLBk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "👀",
+      "videoId": "gE4PGHhTZZU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-25",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/gE4PGHhTZZU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Inter Miami lose vs. New York Red Bulls.",
+      "videoId": "Erzv7l0uTh0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-25",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Erzv7l0uTh0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Orlando City SC vs. New York City FC | MLS Highlights | ESPN FC",
+      "videoId": "p6V40Eb_3-k",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-25",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/p6V40Eb_3-k/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Zambia vs France Highlights | FIFA U-17 Women's World Cup 2026™",
+      "videoId": "z6PCKMYoDSs",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-24",
+      "category": "Highlights",
+      "team": [
+        "France"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/z6PCKMYoDSs/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Venezuela vs Japan Highlights | FIFA U-17 Women's World Cup 2026™",
+      "videoId": "T593Kj5THY4",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-24",
+      "category": "Highlights",
+      "team": [
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/T593Kj5THY4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Ghana vs Canada Highlights | FIFA U-17 Women's World Cup 2026™",
+      "videoId": "zRwuZPki5TY",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-24",
+      "category": "Highlights",
+      "team": [
+        "Canada",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/zRwuZPki5TY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Brazil vs Norway Highlights | FIFA U-17 Women's World Cup 2026™",
+      "videoId": "2EW0u07PXdA",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-24",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/2EW0u07PXdA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Brilliant Balogun Brace | USA v Paraguay | 2026 World Cup",
+      "videoId": "vKMS5ccxKA8",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-24",
+      "category": "Highlights",
+      "team": [
+        "USA",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vKMS5ccxKA8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Neymar Returns | Scotland 0-3 Brazil | 2026 World Cup EXTENDED HIGHLIGHTS",
+      "videoId": "-kssJOIuSr0",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-24",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Scotland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-kssJOIuSr0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "FOUR LATE GOALS! Switzerland v Bosnia and Herzegovina | 2026 World Cup Match Highlights",
+      "videoId": "I1ysW4-ZK7A",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-24",
+      "category": "Highlights",
+      "team": [
+        "Switzerland",
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/I1ysW4-ZK7A/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "1-Min Highlights | Mexico Complete Perfect Group Stage Against Czechia | 2026 FIFA World Cup",
+      "videoId": "oCj9WbK8wT0",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-24",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Czechia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/oCj9WbK8wT0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "New York Red Bulls vs. Inter Miami | MLS Highlights | ESPN FC",
+      "videoId": "NeZrv_oVJts",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/NeZrv_oVJts/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Premier League reaction + What to expect from Barcelona and Real Madrid in El Clasico | ESPN FC",
+      "videoId": "8wVAh-W4eVA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-24",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/8wVAh-W4eVA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Should Michael Carrick drop Bruno Fernandes from his starting XI? 👀 | ESPN FC Extra Time",
+      "videoId": "7y7oXY0WBIA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7y7oXY0WBIA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Can Barcelona keep up their perfect LALIGA record vs. Real Madrid? 👀 | El Clasico preview | ESPN FC",
+      "videoId": "VY-YJT5GJi8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/VY-YJT5GJi8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "🚨 Julian Alvarez apologizes to Atletico Madrid fans for his transfer request | ESPN FC",
+      "videoId": "E7TczcgeaeA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/E7TczcgeaeA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Ale Moreno wants to see MORE from Arsenal | ESPN FC",
+      "videoId": "K6ommvebSqc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/K6ommvebSqc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "REACTION to Tottenham’s 2-0 win over Chelsea 👀 How high can Spurs finish in the EPL? | ESPN FC",
+      "videoId": "3kOb_CY0Fko",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-24",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/3kOb_CY0Fko/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "This painting of Lamine Yamal and Kylian Mbappé 🔥🙌 Watch ELCLÁSICO on ABC and ESPN+ 🍿",
+      "videoId": "N0banhC6RA4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/N0banhC6RA4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "‘They got EXPOSED’ 😳 Ale Moreno on Man City’s costly mistakes in 2-1 loss to Aston Villa | ESPN FC",
+      "videoId": "ksHxEvkrztE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ksHxEvkrztE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Deportivo vs. Atlético Madrid | LALIGA Highlights | ESPN FC",
+      "videoId": "eYZ5ZTZDiBE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/eYZ5ZTZDiBE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Pedri doing his celly on the controller is tuff 😮‍💨 🔥",
+      "videoId": "EHm4A86gJ8U",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/EHm4A86gJ8U/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "New Zealand vs Germany Highlights | FIFA U-17 Women's World Cup 2026™",
+      "videoId": "nj9dFrUMCEM",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-23",
+      "category": "Highlights",
+      "team": [
+        "Germany"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/nj9dFrUMCEM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Argentina vs Morocco Highlights | FIFA U-17 Women's World Cup 2026™",
+      "videoId": "rsXFY4SLTH8",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-23",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/rsXFY4SLTH8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Nigeria vs DPR Korea Highlights | FIFA U-17 Women's World Cup 2026™",
+      "videoId": "GTWCUNFIo-g",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-23",
+      "category": "Highlights",
+      "team": [
+        "Nigeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/GTWCUNFIo-g/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Puerto Rico vs Poland Highlights | FIFA U-17 Women's World Cup 2026™",
+      "videoId": "0te5v-rgeYQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-23",
+      "category": "Highlights",
+      "team": [
+        "Poland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0te5v-rgeYQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "LIVE NOW | USA v Paraguay | Group Stage | FIFA World Cup 2026™",
+      "videoId": "DIBmIVAdlO0",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-23",
+      "category": "Highlights",
+      "team": [
+        "USA",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/DIBmIVAdlO0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "What A Group Stage For Vini Jr! All Four Goals | 2026 World Cup",
+      "videoId": "g0UrI-7AA1E",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-23",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/g0UrI-7AA1E/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    }
+  ]
 }
