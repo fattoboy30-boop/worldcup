@@ -1,11 +1,28 @@
 {
-  "lastUpdated": "2026-10-25T07:24:20.828Z",
+  "lastUpdated": "2026-10-25T13:02:42.720Z",
   "featured": {
-    "match": "PFvNIBOeMZ4",
-    "highlight": "PFvNIBOeMZ4",
+    "match": "IKrhkR3UVWk",
+    "highlight": "IKrhkR3UVWk",
     "interview": "8wVAh-W4eVA"
   },
   "videos": [
+    {
+      "title": "60-Second Scotland WIN against Haiti | 2026 World Cup",
+      "videoId": "IKrhkR3UVWk",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-25",
+      "category": "Highlights",
+      "team": [
+        "Scotland",
+        "Haiti"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/IKrhkR3UVWk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Côte d'Ivoire And Ecuador's EPIC Encounter | 2026 World Cup EXTENDED HIGHLIGHTS",
       "videoId": "PFvNIBOeMZ4",
@@ -444,20 +461,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/DIBmIVAdlO0/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "What A Group Stage For Vini Jr! All Four Goals | 2026 World Cup",
-      "videoId": "g0UrI-7AA1E",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-23",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/g0UrI-7AA1E/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
