@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-10-26T09:57:45.355Z",
+  "lastUpdated": "2026-10-26T16:42:39.984Z",
   "featured": {
-    "match": "Vrft4mEca9s",
-    "highlight": "Vrft4mEca9s",
+    "match": "s1u208TxBaY",
+    "highlight": "s1u208TxBaY",
     "interview": "zLgg4ZIUQBI"
   },
   "videos": [
+    {
+      "title": "Extended Highlights | Curacao's Tough Debut Against Germany | 2026 World Cup",
+      "videoId": "s1u208TxBaY",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-26",
+      "category": "Highlights",
+      "team": [
+        "Germany"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/s1u208TxBaY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Highlights | Naegohyang Women’s FC v Auckland United FC | FIFA Women's Champions Cup Round One",
       "videoId": "Vrft4mEca9s",
@@ -33,6 +49,62 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/6CnCIWsEGug/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Michael Carrick isn’t blameless",
+      "videoId": "BAC60ey1Wys",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/BAC60ey1Wys/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "ABSOLUTE CHAOS! 👀 FINAL MINUTES of El Trafico | MLS Highlights | ESPN FC",
+      "videoId": "QjEyIpftbz0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QjEyIpftbz0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Ferran said to DM Vitinha for a cut 💈(via @ferrantorres/TT)",
+      "videoId": "mCDJSNqAF-8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/mCDJSNqAF-8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Chaos in El Trafico (via MLS on Apple TV)",
+      "videoId": "fKpsTlOfodw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fKpsTlOfodw/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -319,62 +391,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "REAL MADRID BLOW THE LALIGA TITLE RACE OPEN WITH AN EL CLÁSICO WIN AT THE SPOTIFY CAMP NOU 😱",
-      "videoId": "GY-DrNqASlY",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-25",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/GY-DrNqASlY/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "EL CLASICO 🔥 Barcelona vs. Real Madrid | LALIGA Highlights | ESPN FC",
-      "videoId": "YQ7q4mq6jow",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-25",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/YQ7q4mq6jow/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "MBAPPÉ PUTS REAL MADRID AHEAD LATE IN ELCLÁSICO!",
-      "videoId": "3vy1Iw5I-CQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-25",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/3vy1Iw5I-CQ/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "KYLIAN MBAPPE SCORES THE WINNER FOR REAL MADRID IN EL CLASICO 🔥 MOURINHO IS LOVING IT | ESPN FC",
-      "videoId": "h3gX79rl7W4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-25",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/h3gX79rl7W4/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "Zambia vs France Highlights | FIFA U-17 Women's World Cup 2026™",
       "videoId": "z6PCKMYoDSs",
       "channel": "FIFA",
@@ -424,35 +440,18 @@
       "fixtureTeams": null
     },
     {
-      "title": "Brazil vs Norway Highlights | FIFA U-17 Women's World Cup 2026™",
-      "videoId": "2EW0u07PXdA",
+      "title": "LIVE NOW | Canada v Qatar | Group Stage | FIFA World Cup 2026™",
+      "videoId": "ybjeFdCWt0Y",
       "channel": "FIFA",
-      "publishedAt": "2026-10-24",
+      "publishedAt": "2026-09-23",
       "category": "Highlights",
       "team": [
-        "Brazil",
-        "Norway"
+        "Canada",
+        "Qatar"
       ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/2EW0u07PXdA/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Brilliant Balogun Brace | USA v Paraguay | 2026 World Cup",
-      "videoId": "vKMS5ccxKA8",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-24",
-      "category": "Highlights",
-      "team": [
-        "USA",
-        "Paraguay"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vKMS5ccxKA8/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/ybjeFdCWt0Y/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
