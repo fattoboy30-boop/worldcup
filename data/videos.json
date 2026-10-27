@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-10-27T01:17:07.644Z",
+  "lastUpdated": "2026-10-27T07:30:50.060Z",
   "featured": {
     "match": "ybjeFdCWt0Y",
-    "highlight": "YkuEKejr9pg",
+    "highlight": "dtCd5YhVmWc",
     "interview": "kX5K-eI4-PU"
   },
   "videos": [
+    {
+      "title": "Bosnia And Herzegovina Into Knockouts! 🇧🇦 v 🇶🇦 Match Highlights | 2026 World Cup",
+      "videoId": "dtCd5YhVmWc",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-27",
+      "category": "Highlights",
+      "team": [
+        "Bosnia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/dtCd5YhVmWc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Jose Mourinho ‘COMPLETELY VALIDATED’ with El Clasico win | ESPN FC",
       "videoId": "YkuEKejr9pg",
@@ -435,22 +451,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/z6PCKMYoDSs/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Venezuela vs Japan Highlights | FIFA U-17 Women's World Cup 2026™",
-      "videoId": "T593Kj5THY4",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-24",
-      "category": "Highlights",
-      "team": [
-        "Japan"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/T593Kj5THY4/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
