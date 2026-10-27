@@ -1,11 +1,41 @@
 {
-  "lastUpdated": "2026-10-27T14:10:03.873Z",
+  "lastUpdated": "2026-10-27T19:55:13.011Z",
   "featured": {
-    "match": "ybjeFdCWt0Y",
-    "highlight": "YsX3botCNCk",
-    "interview": "kX5K-eI4-PU"
+    "match": "S_qyv_MTy90",
+    "highlight": "J_JDlfkaRqQ",
+    "interview": "D7O51I_F48Q"
   },
   "videos": [
+    {
+      "title": "FULL MATCH | Portugal v Uzbekistan | Group Stage | FIFA World Cup 2026™",
+      "videoId": "S_qyv_MTy90",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-27",
+      "category": "Full Match",
+      "team": [
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/S_qyv_MTy90/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "All Round Of 32 GOALS | Part 1 | 2026 FIFA World Cup",
+      "videoId": "J_JDlfkaRqQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-27",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/J_JDlfkaRqQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "These Historic 1982 World Cup Headers Hit Different!",
       "videoId": "YsX3botCNCk",
@@ -49,6 +79,62 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/dtCd5YhVmWc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "W Harry 😂👏 (via @IShowSpeed/TT)",
+      "videoId": "fF70WAdv34k",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-27",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fF70WAdv34k/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Barcelona vs. Real Madrid REACTION: No one saw this coming?! | ESPN FC",
+      "videoId": "D7O51I_F48Q",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-27",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/D7O51I_F48Q/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "How can he run up on Pep Guardiola like this? 😭 (via @jb.cdw4l/TT)",
+      "videoId": "Z-l5M1KCn08",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-27",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Z-l5M1KCn08/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "'IT IS A JUVENILE MISTAKE!' 😳 - Alejandro Moreno on Barcelona's El Clásico loss | Futbol Americas",
+      "videoId": "AqFymoGX6cI",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-27",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/AqFymoGX6cI/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -288,62 +374,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "The French sitting together 🇫🇷 (via Ballondor/TT)",
-      "videoId": "Jz9wicjMyiQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-26",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Jz9wicjMyiQ/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Someone is winning a Ballon d’Or soon 🏆",
-      "videoId": "LDhVR_XJIMs",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-26",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/LDhVR_XJIMs/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "❤️🔥 (via @ballondorofficial)",
-      "videoId": "_QOqDIimFJU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-26",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_QOqDIimFJU/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Kylian went straight to take his seat at the Ballon d’Or ceremony 😂 (via @ballondorofficial/IG)",
-      "videoId": "diW3OpeJQAM",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-26",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/diW3OpeJQAM/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "China PR vs USA Highlights | FIFA U-17 Women's World Cup 2026™",
       "videoId": "CLxz1KBxzmg",
       "channel": "FIFA",
@@ -419,37 +449,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/Tlpn8l2bEA8/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "ALL GROUP STAGE GOALS | Part 6 | 2026 FIFA World Cup",
-      "videoId": "jZBwt5XMAOg",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-25",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/jZBwt5XMAOg/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "60-Second Scotland WIN against Haiti | 2026 World Cup",
-      "videoId": "IKrhkR3UVWk",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-25",
-      "category": "Highlights",
-      "team": [
-        "Scotland",
-        "Haiti"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/IKrhkR3UVWk/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
