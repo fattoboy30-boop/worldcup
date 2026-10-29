@@ -1,11 +1,58 @@
 {
-  "lastUpdated": "2026-10-29T09:37:25.683Z",
+  "lastUpdated": "2026-10-29T16:44:43.812Z",
   "featured": {
-    "match": "G3zxz-ewBxc",
-    "highlight": "iKVqVV5BowM",
+    "match": "d78qutOa2Os",
+    "highlight": "M_L01uOZCeU",
     "interview": "JhP_txCKC_4"
   },
   "videos": [
+    {
+      "title": "All Round Of 32 GOALS | Part 2 | 2026 FIFA World Cup",
+      "videoId": "M_L01uOZCeU",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-29",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/M_L01uOZCeU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "FULL MATCH | Australia v Nigeria | Group Stage | FIFA Women's World Cup 2023™",
+      "videoId": "d78qutOa2Os",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-29",
+      "category": "Full Match",
+      "team": [
+        "Australia",
+        "Nigeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/d78qutOa2Os/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Undav Sparks Germany Comeback Against Côte d'Ivoire | 2026 World Cup EXTENDED HIGHLIGHTS",
+      "videoId": "J7AkeNfjLf0",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-29",
+      "category": "Highlights",
+      "team": [
+        "Germany"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/J7AkeNfjLf0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "10-Minute Match | Netherlands v Japan | 2026 World Cup EXTENDED HIGHLIGHTS",
       "videoId": "iKVqVV5BowM",
@@ -35,6 +82,48 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/DERJAJ2WNu8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Harry Kane SHOULD NOT have won the 2026 Ballon d’Or?! | ESPN FC",
+      "videoId": "ZesvUgBsB5E",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-29",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ZesvUgBsB5E/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "This is Chelsea’s CHAMPIONS LEAGUE - Gab Marcotti | ESPN FC",
+      "videoId": "pWUlFDouCqE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-29",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/pWUlFDouCqE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Harry Kane builds his ultimate Ballon d’Or winner and includes himself 🤩",
+      "videoId": "SNuW5b_-QUM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-29",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/SNuW5b_-QUM/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -342,53 +431,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "These Historic 1982 World Cup Headers Hit Different!",
-      "videoId": "YsX3botCNCk",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-27",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/YsX3botCNCk/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Late Drama In Qatar v Switzerland Showdown | Match Highlights | 2026 World Cup",
-      "videoId": "FDKxx7KjzZw",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-27",
-      "category": "Highlights",
-      "team": [
-        "Switzerland",
-        "Qatar"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FDKxx7KjzZw/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Bosnia And Herzegovina Into Knockouts! 🇧🇦 v 🇶🇦 Match Highlights | 2026 World Cup",
-      "videoId": "dtCd5YhVmWc",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-27",
-      "category": "Highlights",
-      "team": [
-        "Bosnia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/dtCd5YhVmWc/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "Arsenal's SHOCKING elimination from Carabao Cup 😳 + Harry Kane wins the Ballon d'Or | ESPN FC",
       "videoId": "BEL0hKwersY",
       "channel": "ESPN FC",
@@ -412,48 +454,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/ygWhpyuqUtQ/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "‘Don’t tell me about tired legs’ – Moreno sounds off on Cubarsi’s El Clasico comments | ESPN FC",
-      "videoId": "4yVaHJCdlh4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-27",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/4yVaHJCdlh4/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "‘This cannot be your standard!’ - Ale Moreno after Arsenal's loss to Fleetwood Town | ESPN FC",
-      "videoId": "eWlLnKWCg1U",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-27",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/eWlLnKWCg1U/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "'[Man United is] waiting because they're expecting Michael Carrick to LEAVE!' - Ale Moreno | ESPN FC",
-      "videoId": "UwxBeBBNLcQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-27",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/UwxBeBBNLcQ/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
