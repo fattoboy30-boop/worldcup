@@ -1,11 +1,28 @@
 {
-  "lastUpdated": "2026-10-30T08:18:50.966Z",
+  "lastUpdated": "2026-10-30T15:42:12.721Z",
   "featured": {
     "match": "d78qutOa2Os",
-    "highlight": "htkyNHDWKyk",
+    "highlight": "dKoZ97_IOuw",
     "interview": "ygbfafSjsDM"
   },
   "videos": [
+    {
+      "title": "60-Second Highlights | Cunha & Vinicius Jr Show Class | Brazil v Haiti | 2026 World Cup",
+      "videoId": "dKoZ97_IOuw",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-30",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Haiti"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/dKoZ97_IOuw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Six-Goal Game! Sweden Start Strong Against Tunisia | 2026 World Cup EXTENDED HIGHLIGHTS",
       "videoId": "htkyNHDWKyk",
@@ -35,6 +52,20 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/zcHkDFo44hw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Hugo Sanchez returned to the pitch where he made his debut 🏟️",
+      "videoId": "7zWmDonkNmM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-30",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7zWmDonkNmM/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -387,39 +418,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Brazil vs Poland Highlights | FIFA U-17 Women's World Cup 2026™",
-      "videoId": "P9TyHUiyIh0",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-28",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Poland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/P9TyHUiyIh0/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "DPR Korea vs Morocco Highlights | FIFA U-17 Women's World Cup 2026™",
-      "videoId": "OrFs27viFuw",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-28",
-      "category": "Highlights",
-      "team": [
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/OrFs27viFuw/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "Carabao Cup Reaction 🍿 Liverpool & Man City advance on penalties | ESPN FC",
       "videoId": "ygbfafSjsDM",
       "channel": "ESPN FC",
@@ -450,15 +448,18 @@
       "fixtureTeams": null
     },
     {
-      "title": "Michael Carrick to continue at Man United 👀 Craig Burley calls them CLUELESS | ESPN FC",
-      "videoId": "JAvSm_00GOs",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-28",
+      "title": "LIVE NOW | Belgium v Senegal | Round of 32 | FIFA World Cup 2026™",
+      "videoId": "T2bZoD7dWyI",
+      "channel": "FIFA",
+      "publishedAt": "2026-09-24",
       "category": "Highlights",
-      "team": [],
+      "team": [
+        "Belgium",
+        "Senegal"
+      ],
       "duration": "N/A",
       "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/JAvSm_00GOs/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/T2bZoD7dWyI/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
