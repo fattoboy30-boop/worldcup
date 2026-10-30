@@ -1,11 +1,63 @@
 {
-  "lastUpdated": "2026-10-30T15:42:12.721Z",
+  "lastUpdated": "2026-10-30T20:33:02.920Z",
   "featured": {
-    "match": "d78qutOa2Os",
-    "highlight": "dKoZ97_IOuw",
+    "match": "T2bZoD7dWyI",
+    "highlight": "BAn_q65NUqY",
     "interview": "ygbfafSjsDM"
   },
   "videos": [
+    {
+      "title": "60-Second Highlights | Saibari Strikes For Morocco In Scotland Showdown",
+      "videoId": "BAn_q65NUqY",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-30",
+      "category": "Highlights",
+      "team": [
+        "Morocco",
+        "Scotland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/BAn_q65NUqY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "FULL MATCH | Belgium v Senegal | Round of 32 | FIFA World Cup 2026™",
+      "videoId": "T2bZoD7dWyI",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-30",
+      "category": "Full Match",
+      "team": [
+        "Belgium",
+        "Senegal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/T2bZoD7dWyI/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Group D Best GOALS | USA, Paraguay, Australia, Türkiye | 2026 World Cup",
+      "videoId": "RqzYKdobyww",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-30",
+      "category": "Highlights",
+      "team": [
+        "USA",
+        "Australia",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RqzYKdobyww/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "60-Second Highlights | Cunha & Vinicius Jr Show Class | Brazil v Haiti | 2026 World Cup",
       "videoId": "dKoZ97_IOuw",
@@ -52,6 +104,20 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/zcHkDFo44hw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "El Clásico: Barcelona vs. Real Madrid | EXTENDED HIGHLIGHTS [October 25, 2026] | ESPN FC",
+      "videoId": "g1h8PDqey6M",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-30",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/g1h8PDqey6M/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -245,22 +311,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Australia's Awesome Opener Against Türkiye | 2026 World Cup Match Highlights",
-      "videoId": "DERJAJ2WNu8",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-29",
-      "category": "Highlights",
-      "team": [
-        "Australia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/DERJAJ2WNu8/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "Are Atleti title contenders? Will Vini Jr. starting⁉️Answering LALIGA Fast 5 questions | ESPN FC",
       "videoId": "fFjyIWzDC1Y",
       "channel": "ESPN FC",
@@ -401,23 +451,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Brazil vs Poland Highlights | FIFA U-17 Women's World Cup 2026™",
-      "videoId": "w3_DwgvmWaE",
-      "channel": "FIFA",
-      "publishedAt": "2026-10-28",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Poland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/w3_DwgvmWaE/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "Carabao Cup Reaction 🍿 Liverpool & Man City advance on penalties | ESPN FC",
       "videoId": "ygbfafSjsDM",
       "channel": "ESPN FC",
@@ -427,39 +460,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/ygbfafSjsDM/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Has Harry Kane become England’s greatest forward after winning the Ballon d’Or? | ESPN FC Extra Time",
-      "videoId": "SW7jBkD-BhU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-10-28",
-      "category": "Highlights",
-      "team": [
-        "England"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/SW7jBkD-BhU/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "LIVE NOW | Belgium v Senegal | Round of 32 | FIFA World Cup 2026™",
-      "videoId": "T2bZoD7dWyI",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-24",
-      "category": "Highlights",
-      "team": [
-        "Belgium",
-        "Senegal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/T2bZoD7dWyI/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
