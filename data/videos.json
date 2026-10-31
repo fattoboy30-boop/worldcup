@@ -1,9 +1,468 @@
 {
-  "lastUpdated": "2026-10-31T06:46:52.126Z",
+  "lastUpdated": "2026-10-31T13:27:03.210Z",
   "featured": {
-    "match": "",
-    "highlight": "",
-    "interview": ""
+    "match": "T2bZoD7dWyI",
+    "highlight": "OV9aVRnc8h8",
+    "interview": "w9hZufSS1RI"
   },
-  "videos": []
+  "videos": [
+    {
+      "title": "All Round Of 16 GOALS | 2026 FIFA World Cup",
+      "videoId": "OV9aVRnc8h8",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-31",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/OV9aVRnc8h8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "EXTENDED HIGHLIGHTS | Saudi Arabia v Uruguay | 2026 FIFA World Cup",
+      "videoId": "jwCGfQ_ve2c",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-31",
+      "category": "Highlights",
+      "team": [
+        "Uruguay",
+        "Saudi Arabia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jwCGfQ_ve2c/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "When USA Beat Australia For Back-To-Back Wins | 2026 FIFA World Cup Highlights",
+      "videoId": "2I-Udlg7IeE",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-31",
+      "category": "Highlights",
+      "team": [
+        "USA",
+        "Australia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/2I-Udlg7IeE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Paraguay Overcome Tough Türkiye Test | 2026 World Cup Match Highlights",
+      "videoId": "KnoqIDmfWCU",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-30",
+      "category": "Highlights",
+      "team": [
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/KnoqIDmfWCU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "60-Second Highlights | Saibari Strikes For Morocco In Scotland Showdown",
+      "videoId": "BAn_q65NUqY",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-30",
+      "category": "Highlights",
+      "team": [
+        "Morocco",
+        "Scotland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/BAn_q65NUqY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "FULL MATCH | Belgium v Senegal | Round of 32 | FIFA World Cup 2026™",
+      "videoId": "T2bZoD7dWyI",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-30",
+      "category": "Full Match",
+      "team": [
+        "Belgium",
+        "Senegal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/T2bZoD7dWyI/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Group D Best GOALS | USA, Paraguay, Australia, Türkiye | 2026 World Cup",
+      "videoId": "RqzYKdobyww",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-30",
+      "category": "Highlights",
+      "team": [
+        "USA",
+        "Australia",
+        "Paraguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RqzYKdobyww/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "60-Second Highlights | Cunha & Vinicius Jr Show Class | Brazil v Haiti | 2026 World Cup",
+      "videoId": "dKoZ97_IOuw",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-30",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Haiti"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/dKoZ97_IOuw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Six-Goal Game! Sweden Start Strong Against Tunisia | 2026 World Cup EXTENDED HIGHLIGHTS",
+      "videoId": "htkyNHDWKyk",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-30",
+      "category": "Highlights",
+      "team": [
+        "Tunisia",
+        "Sweden"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/htkyNHDWKyk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Curacao's Eloy Room Repels Ecuador Onslaught | 2026 World Cup EXTENDED HIGHLIGHTS",
+      "videoId": "zcHkDFo44hw",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-30",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/zcHkDFo44hw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Flamengo vs. Barcelona | Messi Cup Highlights | ESPN on Disney+",
+      "videoId": "mFNLOG-zGEQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-30",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/mFNLOG-zGEQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "PREMIER LEAGUE WEEKEND PREVIEW ⚽️ Can Arsenal bounce back after Carabao Cup loss? | ESPN FC",
+      "videoId": "PH2PB_jLKok",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-30",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/PH2PB_jLKok/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Where does Harry Kane rank among the greatest English players ever? | ESPN FC Extra Time",
+      "videoId": "NW5K2qC7VCU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-30",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/NW5K2qC7VCU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "‘ENOUGH EXCUSES’ 😳 Reaction to Barca players blaming ‘fatigue’ for loss to Real Madrid | ESPN FC",
+      "videoId": "w9hZufSS1RI",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-30",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/w9hZufSS1RI/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Could Brighton bounce back and take down Man City in their rematch? 👀 EPL match preview | ESPN FC",
+      "videoId": "8Rsda8H7J-Q",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-30",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/8Rsda8H7J-Q/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Can Michael Carrick lead man United to a win against Chelsea? | ESPN FC",
+      "videoId": "tvVhsNa-BIw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-30",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tvVhsNa-BIw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Reaction to Mikel Arteta’s comments on Max Dowman’s red card + Preview vs. Liverpool | ESPN FC",
+      "videoId": "HDbsVnBRXdI",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-30",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/HDbsVnBRXdI/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "El Clásico: Barcelona vs. Real Madrid | EXTENDED HIGHLIGHTS [October 25, 2026] | ESPN FC",
+      "videoId": "g1h8PDqey6M",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-30",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/g1h8PDqey6M/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Hugo Sanchez returned to the pitch where he made his debut 🏟️",
+      "videoId": "7zWmDonkNmM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-30",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7zWmDonkNmM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "DRAMA AT CHELSEA & MAN UNITED 👀 + LALIGA predictions & standings | ESPN FC",
+      "videoId": "6MozoH5kV-M",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-30",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6MozoH5kV-M/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Will Harry Kane be remembered more for his time with Spurs, Bayern or England? | ESPN FC Extra Time",
+      "videoId": "Dd1L-fNtOoM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-30",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Dd1L-fNtOoM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Spain vs USA Highlights | FIFA U-17 Women's World Cup 2026™",
+      "videoId": "LbfvOpmiA7g",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-29",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/LbfvOpmiA7g/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Japan vs Kenya Highlights | FIFA U-17 Women's World Cup 2026™",
+      "videoId": "ujnKEK_obYw",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-29",
+      "category": "Highlights",
+      "team": [
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ujnKEK_obYw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "China PR vs France Highlights | FIFA U-17 Women's World Cup 2026™",
+      "videoId": "q72eFRq8RLk",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-29",
+      "category": "Highlights",
+      "team": [
+        "France"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/q72eFRq8RLk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Brilliant Block Denies Balogun! Take A Bow, Alessandro Circati",
+      "videoId": "y1VR2TADhLs",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-29",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/y1VR2TADhLs/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Nigeria vs Mexico Highlights | FIFA U-17 Women's World Cup 2026™",
+      "videoId": "1e-Yq-GATiY",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-29",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Nigeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/1e-Yq-GATiY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Are Atleti title contenders? Will Vini Jr. starting⁉️Answering LALIGA Fast 5 questions | ESPN FC",
+      "videoId": "fFjyIWzDC1Y",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-29",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fFjyIWzDC1Y/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Who could be Manchester United's next manager if Michael Carrick is sacked? 🤔 | ESPN FC",
+      "videoId": "Sm-va6tt3eA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-29",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Sm-va6tt3eA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "'100% WRONG!' 🗣️ Ale Moreno finds Xabi Alonso downplaying Carabao Cup UNACCEPTABLE | ESPN FC",
+      "videoId": "sl6WPI2aba4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-29",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/sl6WPI2aba4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Man City had 'GOOD FORTUNE' vs. Brighton to advance to Carabao Cup quarterfinals 👀 - Nedum | ESPN FC",
+      "videoId": "KjqZF0W7hHc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-10-29",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/KjqZF0W7hHc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    }
+  ]
 }
