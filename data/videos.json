@@ -1,9 +1,461 @@
 {
-  "lastUpdated": "2026-11-02T07:28:27.111Z",
+  "lastUpdated": "2026-11-02T17:59:34.808Z",
   "featured": {
-    "match": "",
-    "highlight": "",
-    "interview": ""
+    "match": "02qZWzkm9es",
+    "highlight": "Id8-8xlgi2g",
+    "interview": "5RlWQ-BpDpY"
   },
-  "videos": []
+  "videos": [
+    {
+      "title": "ALL GOALS & HIGHLIGHTS | Türkiye 3-2 USA | 2026 World Cup",
+      "videoId": "Id8-8xlgi2g",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-02",
+      "category": "Highlights",
+      "team": [
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Id8-8xlgi2g/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "FULL MATCH | New Zealand v Egypt | Group Stage | FIFA World Cup 2026™",
+      "videoId": "02qZWzkm9es",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-02",
+      "category": "Full Match",
+      "team": [
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/02qZWzkm9es/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Close Contest! Switzerland Clinch Win Against Canada | 2026 World Cup Match Highlights",
+      "videoId": "SIARBWPPeGs",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-02",
+      "category": "Highlights",
+      "team": [
+        "Canada",
+        "Switzerland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/SIARBWPPeGs/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Ecuador's Epic Win Over Germany | 2026 World Cup EXTENDED HIGHLIGHTS",
+      "videoId": "xKH1I0qk3UY",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-02",
+      "category": "Highlights",
+      "team": [
+        "Germany",
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xKH1I0qk3UY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "'The clown show that is Lisandro Martinez' 😮",
+      "videoId": "RoZrJmb6bGc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-02",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RoZrJmb6bGc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "When Diego Maradona gave Harry Kane some shooting advice ⚽ (via @spursofficial/TT)",
+      "videoId": "O4cFRt65g0Y",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-02",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/O4cFRt65g0Y/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Liverpool legend Steve Nicol thinks the current squad is too nice 🗣️",
+      "videoId": "5RlWQ-BpDpY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-02",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/5RlWQ-BpDpY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Messi and Inter Miami pick up the win in New England 🔥",
+      "videoId": "PsM2X9keBB8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-02",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/PsM2X9keBB8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "The header assist from Messi 😳",
+      "videoId": "GtH47su_dKo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-02",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/GtH47su_dKo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "They were hyped 😂",
+      "videoId": "RVDsTsgMffw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-02",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RVDsTsgMffw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Messi wins it for Miami 🔥",
+      "videoId": "2iHxmmuYZ4c",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-02",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/2iHxmmuYZ4c/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "New England Revolution vs. Inter Miami CF | MLS Highlights | ESPN FC",
+      "videoId": "ZWfoZGoRs-0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-02",
+      "category": "Highlights",
+      "team": [
+        "England"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ZWfoZGoRs-0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "River Plate vs. Palmeiras | Messi Cup Final Highlights | ESPN on Disney+",
+      "videoId": "WwIX8MbB8b4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-02",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/WwIX8MbB8b4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "China PR vs Brazil Highlights | FIFA U-17 Women's World Cup 2026™",
+      "videoId": "BuMpOGVHiqk",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-01",
+      "category": "Highlights",
+      "team": [
+        "Brazil"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/BuMpOGVHiqk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Nigeria vs Venezuela Highlights | FIFA U-17 Women's World Cup 2026™",
+      "videoId": "GkDbGJSwEx0",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-01",
+      "category": "Highlights",
+      "team": [
+        "Nigeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/GkDbGJSwEx0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Ghana vs Japan Highlights | FIFA U-17 Women's World Cup 2026™",
+      "videoId": "qv_KKKjrdi4",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-01",
+      "category": "Highlights",
+      "team": [
+        "Japan",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/qv_KKKjrdi4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "DPR Korea vs USA | FIFA U-17 Women's World Cup 2026™",
+      "videoId": "9StUYOFO_CQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-01",
+      "category": "Highlights",
+      "team": [
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/9StUYOFO_CQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "ALL GOALS | Quarter-Finals To Final | FIFA World Cup 2026",
+      "videoId": "Os7Djuf1wjc",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-01",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Os7Djuf1wjc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Cabo Verde Defy Spain On Debut | 2026 World Cup EXTENDED HIGHLIGHTS",
+      "videoId": "4FiOmLfL10g",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-01",
+      "category": "Highlights",
+      "team": [
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4FiOmLfL10g/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Tunisia 0-4 Japan | 2026 FIFA World Cup EXTENDED HIGHLIGHTS",
+      "videoId": "BT7GK-r7-98",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-01",
+      "category": "Highlights",
+      "team": [
+        "Japan",
+        "Tunisia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/BT7GK-r7-98/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "😳😳",
+      "videoId": "GRQi1h1dp4s",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-01",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/GRQi1h1dp4s/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Athletic Club vs. Real Sociedad | LALIGA Highlights | ESPN FC",
+      "videoId": "G3Q_GkPSYW8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-01",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/G3Q_GkPSYW8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Can Real Madrid catch Barcelona in LALIGA standings? 🤔 + Man United's freefall | ESPN FC",
+      "videoId": "R341AUAx2IU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-01",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/R341AUAx2IU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Should Mourinho DROP Vini Jr. after he returns from suspension? | ESPN FC Extra Time",
+      "videoId": "0eB8K73Vd04",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-01",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/0eB8K73Vd04/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "SCARY TIMES FOR MAN UNITED 👀 Is relegation from the Premier League a serious possibility? | ESPN FC",
+      "videoId": "O2dsZPpkGcg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-01",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/O2dsZPpkGcg/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "'They didn't take their chances' - Nedum on Man City's home loss 👀 + Real Madrid's big win | ESPN FC",
+      "videoId": "7JVs4zGLnY8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-01",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7JVs4zGLnY8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Les Éléphants Reach First Knockouts | Curacao 0-2 Côte d'Ivoire | 2026 World Cup EXTENDED HIGHLIGHTS",
+      "videoId": "_taJtJ_p2QQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-31",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_taJtJ_p2QQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "EXTENDED HIGHLIGHTS | Netherlands v Sweden | 2026 FIFA World Cup",
+      "videoId": "BOW_m7yuly0",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-31",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Sweden"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/BOW_m7yuly0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Best Header From FIFA World Cup 1998?",
+      "videoId": "-bpFKwuluo0",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-31",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-bpFKwuluo0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "All Round Of 16 GOALS | 2026 FIFA World Cup",
+      "videoId": "OV9aVRnc8h8",
+      "channel": "FIFA",
+      "publishedAt": "2026-10-31",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/OV9aVRnc8h8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    }
+  ]
 }
