@@ -1,11 +1,45 @@
 {
-  "lastUpdated": "2026-11-03T15:58:37.883Z",
+  "lastUpdated": "2026-11-03T21:40:43.224Z",
   "featured": {
-    "match": "02qZWzkm9es",
-    "highlight": "FznMMgrSE-I",
+    "match": "FWRuEKeeuG8",
+    "highlight": "_VDa4S9rd44",
     "interview": "5RlWQ-BpDpY"
   },
   "videos": [
+    {
+      "title": "10-Minute Match | Japan v Sweden | 2026 World Cup",
+      "videoId": "_VDa4S9rd44",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-03",
+      "category": "Highlights",
+      "team": [
+        "Japan",
+        "Sweden"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_VDa4S9rd44/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "FULL MATCH | Algeria v Austria | Group Stage | FIFA World Cup 2026™",
+      "videoId": "FWRuEKeeuG8",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-03",
+      "category": "Full Match",
+      "team": [
+        "Algeria",
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/FWRuEKeeuG8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Scotland v Brazil In Just 60 Seconds! | 2026 FIFA World Cup HIGHLIGHTS",
       "videoId": "FznMMgrSE-I",
@@ -417,23 +451,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Tunisia 0-4 Japan | 2026 FIFA World Cup EXTENDED HIGHLIGHTS",
-      "videoId": "BT7GK-r7-98",
-      "channel": "FIFA",
-      "publishedAt": "2026-11-01",
-      "category": "Highlights",
-      "team": [
-        "Japan",
-        "Tunisia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/BT7GK-r7-98/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "😳😳",
       "videoId": "GRQi1h1dp4s",
       "channel": "ESPN FC",
@@ -443,23 +460,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/GRQi1h1dp4s/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "LIVE NOW | Algeria v Austria | Group Stage | FIFA World Cup 2026™",
-      "videoId": "FWRuEKeeuG8",
-      "channel": "FIFA",
-      "publishedAt": "2026-09-24",
-      "category": "Highlights",
-      "team": [
-        "Algeria",
-        "Austria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FWRuEKeeuG8/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
