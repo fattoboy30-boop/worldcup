@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-11-04T08:59:39.720Z",
+  "lastUpdated": "2026-11-04T17:06:03.240Z",
   "featured": {
     "match": "FWRuEKeeuG8",
-    "highlight": "6hODQ3xpNaw",
+    "highlight": "EvNRgPPMH18",
     "interview": "kkE0gUH4N5I"
   },
   "videos": [
+    {
+      "title": "That Mbappe Masterclass Against Senegal | World Cup 2026 EXTENDED HIGHLIGHTS",
+      "videoId": "EvNRgPPMH18",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-04",
+      "category": "Highlights",
+      "team": [
+        "Senegal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/EvNRgPPMH18/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "EXTENDED HIGHLIGHTS | Belgium v Egypt  | 2026 FIFA World Cup",
       "videoId": "6hODQ3xpNaw",
@@ -443,22 +459,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/qv_KKKjrdi4/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "DPR Korea vs USA | FIFA U-17 Women's World Cup 2026™",
-      "videoId": "9StUYOFO_CQ",
-      "channel": "FIFA",
-      "publishedAt": "2026-11-01",
-      "category": "Highlights",
-      "team": [
-        "USA"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/9StUYOFO_CQ/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
