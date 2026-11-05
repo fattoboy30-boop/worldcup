@@ -1,11 +1,90 @@
 {
-  "lastUpdated": "2026-11-05T14:19:23.393Z",
+  "lastUpdated": "2026-11-05T21:23:03.106Z",
   "featured": {
-    "match": "oXMVjw1lYUs",
-    "highlight": "Ki0IJ5K3wgA",
-    "interview": "dtjCpYC1cXY"
+    "match": "X0Dl93aqqQY",
+    "highlight": "DGv3GDhIpbo",
+    "interview": "jmlSSJhtt0s"
   },
   "videos": [
+    {
+      "title": "8 Goals In 3 Minutes | Germany v Curacao Match Highlights | 2026 World Cup",
+      "videoId": "DGv3GDhIpbo",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-05",
+      "category": "Highlights",
+      "team": [
+        "Germany"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/DGv3GDhIpbo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Cristiano Ronaldo's ICONIC hat-trick vs Spain 🇵🇹🎩",
+      "videoId": "jmlSSJhtt0s",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-05",
+      "category": "Viral",
+      "team": [
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jmlSSJhtt0s/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "FULL MATCH | Côte d’Ivoire v Ecaudor | Group Stage | FIFA World Cup 2026™",
+      "videoId": "X0Dl93aqqQY",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-05",
+      "category": "Full Match",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/X0Dl93aqqQY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Haiti's First World Cup Goal In 52 Years",
+      "videoId": "iOgq7RqFbMc",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-05",
+      "category": "Highlights",
+      "team": [
+        "Haiti"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/iOgq7RqFbMc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "6 Goals In 60 Seconds | Morocco Secure Comeback Against Haiti | 2026 World Cup",
+      "videoId": "obNC5dxHVj8",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-05",
+      "category": "Highlights",
+      "team": [
+        "Morocco",
+        "Haiti"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/obNC5dxHVj8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Awesome Ayari BANGER! Sweden v Tunisia | 2026 World Cup",
       "videoId": "Ki0IJ5K3wgA",
@@ -269,72 +348,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "FULL MATCH | Algeria v Austria | Group Stage | FIFA World Cup 2026™",
-      "videoId": "FWRuEKeeuG8",
-      "channel": "FIFA",
-      "publishedAt": "2026-11-03",
-      "category": "Full Match",
-      "team": [
-        "Algeria",
-        "Austria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FWRuEKeeuG8/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Scotland v Brazil In Just 60 Seconds! | 2026 FIFA World Cup HIGHLIGHTS",
-      "videoId": "FznMMgrSE-I",
-      "channel": "FIFA",
-      "publishedAt": "2026-11-03",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Scotland"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/FznMMgrSE-I/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "FOUR-GOAL THRILLER | IR Iran v New Zealand | 2026 World Cup",
-      "videoId": "I44ZEzHymO8",
-      "channel": "FIFA",
-      "publishedAt": "2026-11-03",
-      "category": "Highlights",
-      "team": [
-        "Iran"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/I44ZEzHymO8/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Côte d'Ivoire v Ecuador Goes To The Wire | 2026 World Cup Match Highlights",
-      "videoId": "_-IUTJ1lS1s",
-      "channel": "FIFA",
-      "publishedAt": "2026-11-03",
-      "category": "Highlights",
-      "team": [
-        "Ecuador"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_-IUTJ1lS1s/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "Has the new Champions League format become mundane? | ESPN FC Extra Time",
       "videoId": "6ZZGv92bjFY",
       "channel": "ESPN FC",
@@ -400,22 +413,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/-jJ3mBKcMGo/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "ALL GOALS & HIGHLIGHTS | Türkiye 3-2 USA | 2026 World Cup",
-      "videoId": "Id8-8xlgi2g",
-      "channel": "FIFA",
-      "publishedAt": "2026-11-02",
-      "category": "Highlights",
-      "team": [
-        "USA"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Id8-8xlgi2g/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
