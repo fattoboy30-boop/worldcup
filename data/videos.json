@@ -1,9 +1,466 @@
 {
-  "lastUpdated": "2026-11-05T05:49:47.764Z",
+  "lastUpdated": "2026-11-05T14:19:23.393Z",
   "featured": {
-    "match": "",
-    "highlight": "",
-    "interview": ""
+    "match": "oXMVjw1lYUs",
+    "highlight": "Ki0IJ5K3wgA",
+    "interview": "dtjCpYC1cXY"
   },
-  "videos": []
+  "videos": [
+    {
+      "title": "Awesome Ayari BANGER! Sweden v Tunisia | 2026 World Cup",
+      "videoId": "Ki0IJ5K3wgA",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-05",
+      "category": "Highlights",
+      "team": [
+        "Tunisia",
+        "Sweden"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Ki0IJ5K3wgA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "10-Minute Match | Tunisia 1-3 Netherlands | 2026 World Cup",
+      "videoId": "bKmTJYKqezw",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-05",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Tunisia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/bKmTJYKqezw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Undav's LATE Game-Changer | Germany v Côte d'Ivoire Match Highlights | 2026 World Cup",
+      "videoId": "YQPS-A1jvOs",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-05",
+      "category": "Highlights",
+      "team": [
+        "Germany"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/YQPS-A1jvOs/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Champions League Reaction 🍿 Real Madrid extends streak, Como makes statement | ESPN FC",
+      "videoId": "dtjCpYC1cXY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-05",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/dtjCpYC1cXY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Who’s the hotter commodity right now: Nico Paz or Cesc Fabregas? | ESPN FC Extra Time",
+      "videoId": "RvQA_Ofp2Ac",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-05",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/RvQA_Ofp2Ac/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Brazil vs Nigeria Highlights | FIFA U-17 Women's World Cup 2026™",
+      "videoId": "Bx3eG3fIDP8",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-04",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Nigeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Bx3eG3fIDP8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "FULL MATCH | Argentina v Algeria | Group Stage | FIFA World Cup 2026™",
+      "videoId": "oXMVjw1lYUs",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-04",
+      "category": "Full Match",
+      "team": [
+        "Argentina",
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/oXMVjw1lYUs/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Japan vs DPR Korea Highlights | FIFA U-17 Women's World Cup 2026™",
+      "videoId": "xXUABCjcNZ8",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-04",
+      "category": "Highlights",
+      "team": [
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xXUABCjcNZ8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "That Mbappe Masterclass Against Senegal | World Cup 2026 EXTENDED HIGHLIGHTS",
+      "videoId": "EvNRgPPMH18",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-04",
+      "category": "Highlights",
+      "team": [
+        "Senegal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/EvNRgPPMH18/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "EXTENDED HIGHLIGHTS | Belgium v Egypt  | 2026 FIFA World Cup",
+      "videoId": "6hODQ3xpNaw",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-04",
+      "category": "Highlights",
+      "team": [
+        "Belgium",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6hODQ3xpNaw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Cabo Verde Score First-Ever Goals To Remain Unbeaten | 2026 World Cup EXTENDED HIGHLIGHTS",
+      "videoId": "mHMnFvyM4_M",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-04",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/mHMnFvyM4_M/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Sasho Cirovski addresses the future of NCAA D-1 men’s soccer schedule | ESPN FC",
+      "videoId": "BByXOYg5r1k",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-04",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/BByXOYg5r1k/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "'They don't inspire me that they're a dominant team' - Stewart Robson on Man City | ESPN FC",
+      "videoId": "aBnBgnA3aP4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-04",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/aBnBgnA3aP4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "AEK Athens vs. Real Madrid Reaction ⚽ The importance of momentum? | ESPN FC",
+      "videoId": "SvQfT0-WLik",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-04",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/SvQfT0-WLik/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "'You just can't trust them!' 🗣️ Craig Burley after Liverpool's UCL loss to Fenerbahce | ESPN FC",
+      "videoId": "pxOJk0EEazs",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-04",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/pxOJk0EEazs/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Champions League Reaction ⚽ Man United snap winless streak | ESPN FC",
+      "videoId": "kkE0gUH4N5I",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-04",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/kkE0gUH4N5I/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "10-Minute Match | Japan v Sweden | 2026 World Cup",
+      "videoId": "_VDa4S9rd44",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-03",
+      "category": "Highlights",
+      "team": [
+        "Japan",
+        "Sweden"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_VDa4S9rd44/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "FULL MATCH | Algeria v Austria | Group Stage | FIFA World Cup 2026™",
+      "videoId": "FWRuEKeeuG8",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-03",
+      "category": "Full Match",
+      "team": [
+        "Algeria",
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/FWRuEKeeuG8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Scotland v Brazil In Just 60 Seconds! | 2026 FIFA World Cup HIGHLIGHTS",
+      "videoId": "FznMMgrSE-I",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-03",
+      "category": "Highlights",
+      "team": [
+        "Brazil",
+        "Scotland"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/FznMMgrSE-I/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "FOUR-GOAL THRILLER | IR Iran v New Zealand | 2026 World Cup",
+      "videoId": "I44ZEzHymO8",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-03",
+      "category": "Highlights",
+      "team": [
+        "Iran"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/I44ZEzHymO8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Côte d'Ivoire v Ecuador Goes To The Wire | 2026 World Cup Match Highlights",
+      "videoId": "_-IUTJ1lS1s",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-03",
+      "category": "Highlights",
+      "team": [
+        "Ecuador"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_-IUTJ1lS1s/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Has the new Champions League format become mundane? | ESPN FC Extra Time",
+      "videoId": "6ZZGv92bjFY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-03",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/6ZZGv92bjFY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "'Very professional performance' - Frank Leboeuf continues to be impressed by Barcelona 👏 | ESPN FC",
+      "videoId": "MTQTOMeFyAk",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-03",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/MTQTOMeFyAk/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "ESPN FC reacts to FC Bayern’s win vs. Atletico Madrid in Champions League",
+      "videoId": "Rv_7qJi0HPo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-03",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Rv_7qJi0HPo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Manchester United vs. Roma Reaction 👀 A tale of two halves? | ESPN FC",
+      "videoId": "MVYaYwWmRO8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-03",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/MVYaYwWmRO8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Kounde 🤝 Tyler, The Creator (via @fcbarcelona/TT)",
+      "videoId": "-jJ3mBKcMGo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-03",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-jJ3mBKcMGo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "ALL GOALS & HIGHLIGHTS | Türkiye 3-2 USA | 2026 World Cup",
+      "videoId": "Id8-8xlgi2g",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-02",
+      "category": "Highlights",
+      "team": [
+        "USA"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Id8-8xlgi2g/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Premier League Fallout 👀 What is preventing Liverpool from being elite? | ESPN FC",
+      "videoId": "REHxJ5WYG9U",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-02",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/REHxJ5WYG9U/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Should Hürzeler and Brighton be given more credit for successful season? 🤔 | ESPN FC Extra Time",
+      "videoId": "gay5cnLfuiM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-02",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/gay5cnLfuiM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Lisandro Martinez has been a LIABILITY for Manchester United – Steve Nicol | ESPN FC",
+      "videoId": "Ws3CEd9FA8E",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-02",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Ws3CEd9FA8E/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    }
+  ]
 }
