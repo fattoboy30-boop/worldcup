@@ -1,11 +1,75 @@
 {
-  "lastUpdated": "2026-11-06T10:34:02.485Z",
+  "lastUpdated": "2026-11-06T17:51:05.237Z",
   "featured": {
-    "match": "X0Dl93aqqQY",
-    "highlight": "1X5pjHoTjI4",
+    "match": "Tpsd7mM8wYY",
+    "highlight": "LSkz9G5AT8I",
     "interview": "jmlSSJhtt0s"
   },
   "videos": [
+    {
+      "title": "Lamine Yamal SCORES | Spain 4-0 Saudi Arabia | 2026 World Cup EXTENDED HIGHLIGHTS",
+      "videoId": "LSkz9G5AT8I",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-06",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Saudi Arabia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/LSkz9G5AT8I/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "FULL MATCH | Spain v Netherlands | Quarter-Finals | FIFA Women's World Cup 2023™",
+      "videoId": "Tpsd7mM8wYY",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-06",
+      "category": "Full Match",
+      "team": [
+        "Spain",
+        "Netherlands"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Tpsd7mM8wYY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "First Save Or Second Save? Back-To-Back Blocks From Johny Placide",
+      "videoId": "GaTEA7oKFZM",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-06",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/GaTEA7oKFZM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Haaland Doubles On Debut | Iraq 1-4 Norway | 2026 World Cup EXTENDED HIGHLIGHTS",
+      "videoId": "KTa1AKvtqtY",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-06",
+      "category": "Highlights",
+      "team": [
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/KTa1AKvtqtY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "EXTENDED HIGHLIGHTS | Belgium v IR Iran | 2026 World Cup",
       "videoId": "1X5pjHoTjI4",
@@ -19,6 +83,20 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/1X5pjHoTjI4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "His son will carry on his SIUUUU legacy 😂 (via @cristiano/IG)",
+      "videoId": "746uQjTLDew",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-06",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/746uQjTLDew/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -38,7 +116,7 @@
       "fixtureTeams": null
     },
     {
-      "title": "Steve Nicol questions Harry Kane's longevity after Bayern Munich extension 👀 | ESPN FC",
+      "title": "Harry Kane's 3-year Bayern Munich extension raises questions for Steve Nicol 👀 | ESPN FC",
       "videoId": "Eq82kWmp8Ps",
       "channel": "ESPN FC",
       "publishedAt": "2026-11-06",
@@ -368,72 +446,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "FULL MATCH | Argentina v Algeria | Group Stage | FIFA World Cup 2026™",
-      "videoId": "oXMVjw1lYUs",
-      "channel": "FIFA",
-      "publishedAt": "2026-11-04",
-      "category": "Full Match",
-      "team": [
-        "Argentina",
-        "Algeria"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/oXMVjw1lYUs/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Japan vs DPR Korea Highlights | FIFA U-17 Women's World Cup 2026™",
-      "videoId": "xXUABCjcNZ8",
-      "channel": "FIFA",
-      "publishedAt": "2026-11-04",
-      "category": "Highlights",
-      "team": [
-        "Japan"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xXUABCjcNZ8/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "That Mbappe Masterclass Against Senegal | World Cup 2026 EXTENDED HIGHLIGHTS",
-      "videoId": "EvNRgPPMH18",
-      "channel": "FIFA",
-      "publishedAt": "2026-11-04",
-      "category": "Highlights",
-      "team": [
-        "Senegal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/EvNRgPPMH18/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "EXTENDED HIGHLIGHTS | Belgium v Egypt  | 2026 FIFA World Cup",
-      "videoId": "6hODQ3xpNaw",
-      "channel": "FIFA",
-      "publishedAt": "2026-11-04",
-      "category": "Highlights",
-      "team": [
-        "Belgium",
-        "Egypt"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/6hODQ3xpNaw/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "Sasho Cirovski addresses the future of NCAA D-1 men’s soccer schedule | ESPN FC",
       "videoId": "BByXOYg5r1k",
       "channel": "ESPN FC",
@@ -443,20 +455,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/BByXOYg5r1k/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "'They don't inspire me that they're a dominant team' - Stewart Robson on Man City | ESPN FC",
-      "videoId": "aBnBgnA3aP4",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-11-04",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/aBnBgnA3aP4/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
