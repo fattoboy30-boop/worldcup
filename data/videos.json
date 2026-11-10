@@ -1,11 +1,28 @@
 {
-  "lastUpdated": "2026-11-10T16:52:27.021Z",
+  "lastUpdated": "2026-11-10T22:12:05.965Z",
   "featured": {
-    "match": "7UxLhz2K-Kc",
+    "match": "w9Ta9Sf_R8g",
     "highlight": "tL3g_EWOFYw",
     "interview": "DdcHzzpq6gc"
   },
   "videos": [
+    {
+      "title": "FULL MATCH | Sweden v USA | Round of 16 | FIFA Women's World Cup 2023™",
+      "videoId": "w9Ta9Sf_R8g",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-10",
+      "category": "Full Match",
+      "team": [
+        "USA",
+        "Sweden"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/w9Ta9Sf_R8g/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Scoring a trivela to open your FIFA World Cup account 🤌🇺🇸",
       "videoId": "tL3g_EWOFYw",
@@ -431,22 +448,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/jTfR8kR1ZrA/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "8 Goals In 3 Minutes | Germany v Curacao Match Highlights | 2026 World Cup",
-      "videoId": "DGv3GDhIpbo",
-      "channel": "FIFA",
-      "publishedAt": "2026-11-05",
-      "category": "Highlights",
-      "team": [
-        "Germany"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/DGv3GDhIpbo/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
