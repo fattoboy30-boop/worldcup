@@ -1,11 +1,28 @@
 {
-  "lastUpdated": "2026-11-12T01:22:41.581Z",
+  "lastUpdated": "2026-11-12T09:29:30.326Z",
   "featured": {
     "match": "cju__zdjJDA",
-    "highlight": "j5-bJUEv3nY",
+    "highlight": "Ssz1hQQf9kY",
     "interview": "eCxq2rEmx9c"
   },
   "videos": [
+    {
+      "title": "10-Minute Match | Egypt v IR Iran | 2026 World Cup",
+      "videoId": "Ssz1hQQf9kY",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-12",
+      "category": "Highlights",
+      "team": [
+        "Iran",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Ssz1hQQf9kY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "FULL MATCH | Argentina v Cabo Verde | Round of 32 | FIFA World Cup 2026™",
       "videoId": "cju__zdjJDA",
@@ -37,7 +54,7 @@
       "fixtureTeams": null
     },
     {
-      "title": "Ale Moreno TAKES AIM at Mbappe's priorities amid Zidane tension 🗣️ 'TEAM FIRST!'  | ESPN FC",
+      "title": "'MBAPPE, KNOW BETTER!' 🗣️ Stevie RIPS Kylian Mbappe's strained relationship with Zidane | ESPN FC",
       "videoId": "I825sZPsyX8",
       "channel": "ESPN FC",
       "publishedAt": "2026-11-11",
@@ -431,23 +448,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/KTa1AKvtqtY/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "EXTENDED HIGHLIGHTS | Belgium v IR Iran | 2026 World Cup",
-      "videoId": "1X5pjHoTjI4",
-      "channel": "FIFA",
-      "publishedAt": "2026-11-06",
-      "category": "Highlights",
-      "team": [
-        "Belgium",
-        "Iran"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/1X5pjHoTjI4/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
