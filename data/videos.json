@@ -1,11 +1,44 @@
 {
-  "lastUpdated": "2026-11-13T14:13:35.049Z",
+  "lastUpdated": "2026-11-13T21:16:17.068Z",
   "featured": {
-    "match": "Gv371quXIss",
-    "highlight": "22JhbO9WvjY",
+    "match": "yBs1rVfPnPQ",
+    "highlight": "_dOJIC-hO1c",
     "interview": "C4XukpAwbrU"
   },
   "videos": [
+    {
+      "title": "60-Second Highlights | Netherlands 2-2 Japan | 2026 FIFA World Cup",
+      "videoId": "_dOJIC-hO1c",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-13",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_dOJIC-hO1c/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "FULL MATCH | Panama v France | Group Stage | FIFA Women's World Cup 2023™",
+      "videoId": "yBs1rVfPnPQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-13",
+      "category": "Full Match",
+      "team": [
+        "France"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/yBs1rVfPnPQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "When Mbappe & Dembele Cooked For France Against Iraq | 2026 World Cup EXTENDED HIGHLIGHTS",
       "videoId": "22JhbO9WvjY",
@@ -64,6 +97,96 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/LmYwQUSP7eY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "'You play the way you train' (via @intermiamicf)",
+      "videoId": "iftvxqup_wA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/iftvxqup_wA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "All love for his people back home 💚🧡 (via @ange_leho_officiel, @le_media_100filtre)",
+      "videoId": "fXHBdnxr2ts",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/fXHBdnxr2ts/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Lionel Scaloni got emotional during his contract extension with Argentina ❤️ (via @scespn/IG)",
+      "videoId": "iVcqUYcq75Y",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-13",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/iVcqUYcq75Y/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Scaloni says there won't be a player wearing No. 10 for Argentina's next match (via @scespn/IG)",
+      "videoId": "GtZDYGgNRpc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-13",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/GtZDYGgNRpc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "William Saliba and Gabriel Magalhães have been inseparable from day one 😅",
+      "videoId": "WkPy2hUlvWY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/WkPy2hUlvWY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Enzo's ready for the Argentina friendlies 🔥",
+      "videoId": "WsbS4-gOmQ0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-13",
+      "category": "Highlights",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/WsbS4-gOmQ0/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -175,7 +298,7 @@
       "fixtureTeams": null
     },
     {
-      "title": "Baena Bags Against Uruguay As Spain Top Group | 2026 World Cup EXTENDED HIGHLIGHTS",
+      "title": "EXTENDED HIGHLIGHTS | Uruguay v Spain | 2026 FIFA World Cup",
       "videoId": "gtwGSfMYJJo",
       "channel": "FIFA",
       "publishedAt": "2026-11-12",
@@ -296,90 +419,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Mr. Beast stood blindfolded in the goal while Haaland fired shots at him 😅 (via @erling/TT)",
-      "videoId": "xZVP9GEIRmo",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-11-12",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/xZVP9GEIRmo/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "👀 (via @lamine.yamal/TT)",
-      "videoId": "AoSy-fHZgaM",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-11-12",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/AoSy-fHZgaM/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Man United are nearing an agreement with Pochettino, sources have told ESPN (via @ussoccer/TT)",
-      "videoId": "VvWeYnp_EjE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-11-12",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/VvWeYnp_EjE/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Lots of emotions before his last match as captain for Barca ❤️ (via @fcbarcelona/TT)",
-      "videoId": "zDt7aXhlnL8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-11-12",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/zDt7aXhlnL8/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "A matchup of pure pace down the left wing ⚡",
-      "videoId": "SogzonMyWaQ",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-11-12",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/SogzonMyWaQ/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "When Cristiano Ronaldo showed his son how to do his famous chop 🤩⚽️ (via @georginagio/X)",
-      "videoId": "3bGGNLrJn-0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-11-12",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/3bGGNLrJn-0/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "FULL MATCH | Argentina v Cabo Verde | Round of 32 | FIFA World Cup 2026™",
       "videoId": "cju__zdjJDA",
       "channel": "FIFA",
@@ -422,37 +461,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/tL3g_EWOFYw/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "FULL MATCH | Brazil v Norway | Round of 16 | FIFA World Cup 2026™",
-      "videoId": "7UxLhz2K-Kc",
-      "channel": "FIFA",
-      "publishedAt": "2026-11-09",
-      "category": "Full Match",
-      "team": [
-        "Brazil",
-        "Norway"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7UxLhz2K-Kc/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "The control. The finish. 👏🇦🇷 #FIFAWorldCup",
-      "videoId": "1MYIJcWS8UU",
-      "channel": "FIFA",
-      "publishedAt": "2026-11-09",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/1MYIJcWS8UU/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
