@@ -1,9 +1,461 @@
 {
-  "lastUpdated": "2026-11-13T05:46:56.853Z",
+  "lastUpdated": "2026-11-13T14:13:35.049Z",
   "featured": {
-    "match": "",
-    "highlight": "",
-    "interview": ""
+    "match": "Gv371quXIss",
+    "highlight": "22JhbO9WvjY",
+    "interview": "C4XukpAwbrU"
   },
-  "videos": []
+  "videos": [
+    {
+      "title": "When Mbappe & Dembele Cooked For France Against Iraq | 2026 World Cup EXTENDED HIGHLIGHTS",
+      "videoId": "22JhbO9WvjY",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-13",
+      "category": "Highlights",
+      "team": [
+        "France"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/22JhbO9WvjY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Egypt serving pure football delight 🇪🇬✨",
+      "videoId": "En6bjeW9eZo",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-13",
+      "category": "Highlights",
+      "team": [
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/En6bjeW9eZo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Egypt's First World Cup Win! | New Zealand v Egypt | 2026 World Cup EXTENDED HIGHLIGHTS",
+      "videoId": "xT3zd9KZHjQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-13",
+      "category": "Highlights",
+      "team": [
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xT3zd9KZHjQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Pepe Powers Côte d'Ivoire To First Knockout Stage | Curacao Crash Out | 2026 World Cup",
+      "videoId": "LmYwQUSP7eY",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/LmYwQUSP7eY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "‘Happy days for Man United if Pochettino beats Liverpool’ 👀",
+      "videoId": "M0H7hhzjiD4",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/M0H7hhzjiD4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Have to get used to not seeing Ronaldo anymore ❤️‍🩹 (via @portugal/TT)",
+      "videoId": "KQIw3KfQmjg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-13",
+      "category": "Highlights",
+      "team": [
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/KQIw3KfQmjg/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "‘Manchester United are FAR from the teams I faced’ - Theo Walcott 😳",
+      "videoId": "JTQwZTnVZgQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-13",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JTQwZTnVZgQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Lionel Scaloni, chasing more moments like this. 🇦🇷 #FIFAWorldCup",
+      "videoId": "-uQiW1hN04k",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-uQiW1hN04k/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Haaland Storms Into Round Of 32 | Norway 3-2 Senegal | 2026 World Cup EXTENDED HIGHLIGHTS",
+      "videoId": "LwP0TSz9zuE",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-12",
+      "category": "Highlights",
+      "team": [
+        "Senegal",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/LwP0TSz9zuE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "FULL MATCH | England v Croatia | Group Stage | FIFA World Cup 2026™",
+      "videoId": "Gv371quXIss",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-12",
+      "category": "Full Match",
+      "team": [
+        "England",
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Gv371quXIss/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "The best goals from last year's #U17WC! ⚽️",
+      "videoId": "wEigXWGHNo4",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/wEigXWGHNo4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Baena Bags Against Uruguay As Spain Top Group | 2026 World Cup EXTENDED HIGHLIGHTS",
+      "videoId": "gtwGSfMYJJo",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-12",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Uruguay"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/gtwGSfMYJJo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "10-Minute Match | Egypt v IR Iran | 2026 World Cup",
+      "videoId": "Ssz1hQQf9kY",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-12",
+      "category": "Highlights",
+      "team": [
+        "Iran",
+        "Egypt"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Ssz1hQQf9kY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Ranking the TOP CONTENDERS in the Champions League 👀 + Biggest surprises so far | ESPN FC",
+      "videoId": "Iv1J7q1PG5o",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Iv1J7q1PG5o/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Michael Carrick SACKED 🚨 Man United close to finalizing deal with Mauricio Pochettino | ESPN FC",
+      "videoId": "BoGwVCYfLAM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/BoGwVCYfLAM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Where does Mauricio Pochettino rank among Premier League managers? | ESPN FC Extra Time",
+      "videoId": "WdZarPNfCSM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/WdZarPNfCSM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "REACTION to Italy vs. France UEFA Nations League‼️'France have BIGGER problems' - Leboeuf | ESPN FC",
+      "videoId": "C4XukpAwbrU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-12",
+      "category": "Viral",
+      "team": [
+        "France",
+        "Italy"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/C4XukpAwbrU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "'Disappointed the way it was handled' - Theo Walcott on Man United sacking Michael Carrick | ESPN FC",
+      "videoId": "ISMsGKy9hPM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ISMsGKy9hPM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Lamine Yamal asked two fans for food recommendations and got headphones 🤯 (via @lamine.yamal/TT)",
+      "videoId": "xRJFlYBuOeU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xRJFlYBuOeU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Mr. Beast stood blindfolded in the goal while Haaland fired shots at him 😅 (via @erling/TT)",
+      "videoId": "xZVP9GEIRmo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xZVP9GEIRmo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "👀 (via @lamine.yamal/TT)",
+      "videoId": "AoSy-fHZgaM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/AoSy-fHZgaM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Man United are nearing an agreement with Pochettino, sources have told ESPN (via @ussoccer/TT)",
+      "videoId": "VvWeYnp_EjE",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/VvWeYnp_EjE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Lots of emotions before his last match as captain for Barca ❤️ (via @fcbarcelona/TT)",
+      "videoId": "zDt7aXhlnL8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/zDt7aXhlnL8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "A matchup of pure pace down the left wing ⚡",
+      "videoId": "SogzonMyWaQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/SogzonMyWaQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "When Cristiano Ronaldo showed his son how to do his famous chop 🤩⚽️ (via @georginagio/X)",
+      "videoId": "3bGGNLrJn-0",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-12",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/3bGGNLrJn-0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "FULL MATCH | Argentina v Cabo Verde | Round of 32 | FIFA World Cup 2026™",
+      "videoId": "cju__zdjJDA",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-11",
+      "category": "Full Match",
+      "team": [
+        "Argentina"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/cju__zdjJDA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "FULL MATCH | Sweden v USA | Round of 16 | FIFA Women's World Cup 2023™",
+      "videoId": "w9Ta9Sf_R8g",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-10",
+      "category": "Full Match",
+      "team": [
+        "USA",
+        "Sweden"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/w9Ta9Sf_R8g/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Scoring a trivela to open your FIFA World Cup account 🤌🇺🇸",
+      "videoId": "tL3g_EWOFYw",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-10",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tL3g_EWOFYw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "FULL MATCH | Brazil v Norway | Round of 16 | FIFA World Cup 2026™",
+      "videoId": "7UxLhz2K-Kc",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-09",
+      "category": "Full Match",
+      "team": [
+        "Brazil",
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7UxLhz2K-Kc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "The control. The finish. 👏🇦🇷 #FIFAWorldCup",
+      "videoId": "1MYIJcWS8UU",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-09",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/1MYIJcWS8UU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    }
+  ]
 }
