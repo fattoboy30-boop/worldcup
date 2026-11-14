@@ -1,11 +1,28 @@
 {
-  "lastUpdated": "2026-11-14T09:55:34.288Z",
+  "lastUpdated": "2026-11-14T16:27:17.710Z",
   "featured": {
     "match": "yBs1rVfPnPQ",
-    "highlight": "1Z2ywU5AHAM",
+    "highlight": "evs534bh0c0",
     "interview": "Q3PPCHOzu1I"
   },
   "videos": [
+    {
+      "title": "Messi's First World Cup Hat Trick | Argentina 3-0 Algeria | 2026 World Cup EXTENDED HIGHLIGHTS",
+      "videoId": "evs534bh0c0",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-14",
+      "category": "Highlights",
+      "team": [
+        "Argentina",
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/evs534bh0c0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Harry Kane Leads England To Victory Over Croatia | 2026 World Cup EXTENDED HIGHLIGHTS",
       "videoId": "1Z2ywU5AHAM",
@@ -35,6 +52,22 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/MlKr-av_gl8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Cristiano Ronaldo and a seated Luis Figo doing kick-ups during a Portugal camp 🥺⚽️",
+      "videoId": "FHSSR6AQAtc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-14",
+      "category": "Highlights",
+      "team": [
+        "Portugal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/FHSSR6AQAtc/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -433,36 +466,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/Iv1J7q1PG5o/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Michael Carrick SACKED 🚨 Man United close to finalizing deal with Mauricio Pochettino | ESPN FC",
-      "videoId": "BoGwVCYfLAM",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-11-12",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/BoGwVCYfLAM/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "FULL MATCH | Argentina v Cabo Verde | Round of 32 | FIFA World Cup 2026™",
-      "videoId": "cju__zdjJDA",
-      "channel": "FIFA",
-      "publishedAt": "2026-11-11",
-      "category": "Full Match",
-      "team": [
-        "Argentina"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/cju__zdjJDA/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
