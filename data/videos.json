@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-11-19T20:13:40.513Z",
+  "lastUpdated": "2026-11-20T02:06:20.243Z",
   "featured": {
     "match": "T9BfcJiy1L4",
     "highlight": "3tt244a6mj8",
-    "interview": "t_Yj5OGJ2Hc"
+    "interview": "3tt244a6mj8"
   },
   "videos": [
     {
@@ -131,6 +131,79 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/X1wWZz6C100/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Can Mauricio Pochettino turn Man United’s season around? + Vini Jr. & Real Madrid | ESPN FC",
+      "videoId": "E8zdIlQlOtU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-19",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/E8zdIlQlOtU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Is Jude Bellingham the BEST PLAYER in the world? 👀  | ESPN FC Extra Time",
+      "videoId": "qWF3-cJx3JQ",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-19",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/qWF3-cJx3JQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Does England have what it takes to win UEFA Euro 2028? 🤔 What did win over Spain mean? | ESPN FC",
+      "videoId": "4QVBKESO6mU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-19",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Spain"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/4QVBKESO6mU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Will Jose Mourinho start Vini Jr. or Yan Diomande against Celta Vigo? 👀 | ESPN FC",
+      "videoId": "y_YIyWtVKvo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-19",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/y_YIyWtVKvo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "What to expect from Mauricio Pochettino’s Man United debut vs. Liverpool | ESPN FC",
+      "videoId": "C4PDSDzSXEs",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-19",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/C4PDSDzSXEs/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -378,84 +451,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/UeFXgsc4R98/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "'I have no doubt that the best eleven for Real Madrid is without Vinicus' - Gustavo Hofman | ESPN FC",
-      "videoId": "aE-kq_LdZGk",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-11-17",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/aE-kq_LdZGk/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Denmark vs. Norway Reaction ⚽ Erling Haaland was Mr. Cool! – Fjortoft | ESPN FC",
-      "videoId": "t_Yj5OGJ2Hc",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-11-17",
-      "category": "Viral",
-      "team": [
-        "Norway",
-        "Denmark"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/t_Yj5OGJ2Hc/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "A young Marcus Rashford channeling his inner Brazilian 🪄⚽️ (via @marcusrashford/IG)",
-      "videoId": "AXDxtYCsqIA",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-11-17",
-      "category": "Highlights",
-      "team": [
-        "Brazil"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/AXDxtYCsqIA/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "What to make of England's 3-2 victory over Spain 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | ESPN FC",
-      "videoId": "9HczSrBtYr8",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-11-16",
-      "category": "Highlights",
-      "team": [
-        "England",
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/9HczSrBtYr8/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Should Manchester City regret selling James Trafford? 🤔 | ESPN FC Extra Time",
-      "videoId": "SXvUnTpcCGc",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-11-16",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/SXvUnTpcCGc/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
