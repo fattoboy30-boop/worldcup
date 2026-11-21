@@ -1,11 +1,27 @@
 {
-  "lastUpdated": "2026-11-21T01:11:29.947Z",
+  "lastUpdated": "2026-11-21T09:23:38.298Z",
   "featured": {
-    "match": "_4K8lcz03gg",
-    "highlight": "_4K8lcz03gg",
+    "match": "jiAzst8eeTQ",
+    "highlight": "jiAzst8eeTQ",
     "interview": "eGoxA9I0rqk"
   },
   "videos": [
+    {
+      "title": "10-Minute Match | Ghana Leave It LATE Against Panama | 2026 World Cup",
+      "videoId": "jiAzst8eeTQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-21",
+      "category": "Highlights",
+      "team": [
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jiAzst8eeTQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Premier League preview 🍿 Can Pochettino’s Man United take down Liverpool? | ESPN FC",
       "videoId": "_4K8lcz03gg",
@@ -358,22 +374,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/z-n9heuQxLo/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Qatar v Panama | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-      "videoId": "TVssLLLNxuw",
-      "channel": "FIFA",
-      "publishedAt": "2026-11-19",
-      "category": "Highlights",
-      "team": [
-        "Qatar"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/TVssLLLNxuw/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
