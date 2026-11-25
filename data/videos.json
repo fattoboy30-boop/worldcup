@@ -1,11 +1,106 @@
 {
-  "lastUpdated": "2026-11-24T17:12:46.773Z",
+  "lastUpdated": "2026-11-25T02:01:19.089Z",
   "featured": {
-    "match": "fwmui9tFzL0",
-    "highlight": "fwmui9tFzL0",
-    "interview": "WKx4PQms05s"
+    "match": "ds_H87r94Us",
+    "highlight": "ds_H87r94Us",
+    "interview": "ds_H87r94Us"
   },
   "videos": [
+    {
+      "title": "Can anyone stop Jude Bellingham and Real Madrid? 😮‍💨 + Arsenal vs. Man City preview 🍿 | ESPN FC",
+      "videoId": "ds_H87r94Us",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-25",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ds_H87r94Us/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Algeria v Montenegro | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+      "videoId": "xQHNGqL_juo",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-24",
+      "category": "Highlights",
+      "team": [
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/xQHNGqL_juo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Honduras v Colombia | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+      "videoId": "GcCbeHi6cxo",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-24",
+      "category": "Highlights",
+      "team": [
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/GcCbeHi6cxo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Brazil v Tanzania | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+      "videoId": "oUZTyB9vEKE",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-24",
+      "category": "Highlights",
+      "team": [
+        "Brazil"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/oUZTyB9vEKE/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Dominican Republic v Chile | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+      "videoId": "UbA-dMwl0_c",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-24",
+      "category": "Highlights",
+      "team": [
+        "Chile"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/UbA-dMwl0_c/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Mexico v Cameroon | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+      "videoId": "_Zco_huNr8U",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-24",
+      "category": "Highlights",
+      "team": [
+        "Mexico",
+        "Cameroon"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_Zco_huNr8U/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Japan v Serbia | HIGHLIGHTS | FIFA U-17 World Cup 2026",
       "videoId": "fwmui9tFzL0",
@@ -93,6 +188,90 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/Nv7EdZRG6HQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Is Enzo Maresca's job in danger amid recent results? | ESPN FC Extra Time",
+      "videoId": "JxtEQAiL_tY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JxtEQAiL_tY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Manchester United win appeal over Leny Yoro’s red card 👀 | ESPN FC",
+      "videoId": "j1Qk8C08_jg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/j1Qk8C08_jg/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Erling Haaland was INVISIBLE against Napoli – Jurgen Klinsmann | ESPN FC",
+      "videoId": "mUjBYb08Q5U",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/mUjBYb08Q5U/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Are Arsenal playing TOO CONSERVATIVE with big lead in Premier League? 🤔 | ESPN FC",
+      "videoId": "B08GPSuEAdg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/B08GPSuEAdg/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "'Everything seems to be easy for him' - Jurgen on Jude Bellingham 👏 | ESPN FC",
+      "videoId": "jFAmS4iNWGo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/jFAmS4iNWGo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "When Jude Bellingham linked up with Russ in Dubai 😅 (via @russmillions/TT)",
+      "videoId": "52dPxJU1DNo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/52dPxJU1DNo/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -188,85 +367,6 @@
       "fixtureTeams": null
     },
     {
-      "title": "Senegal v Cuba | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-      "videoId": "iTGlNKLLo_8",
-      "channel": "FIFA",
-      "publishedAt": "2026-11-23",
-      "category": "Highlights",
-      "team": [
-        "Senegal"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/iTGlNKLLo_8/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Uzbekistan v Jamaica | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-      "videoId": "JpLx_06N90E",
-      "channel": "FIFA",
-      "publishedAt": "2026-11-23",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/JpLx_06N90E/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Spain v Fiji | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-      "videoId": "GB5JtRbhnCE",
-      "channel": "FIFA",
-      "publishedAt": "2026-11-23",
-      "category": "Highlights",
-      "team": [
-        "Spain"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/GB5JtRbhnCE/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Tajikistan v Croatia | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-      "videoId": "akcLx-o9q44",
-      "channel": "FIFA",
-      "publishedAt": "2026-11-23",
-      "category": "Highlights",
-      "team": [
-        "Croatia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/akcLx-o9q44/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Brazil v Japan | Round Of 32 | 2026 World Cup EXTENDED HIGHLIGHTS",
-      "videoId": "He4qjO0pUB8",
-      "channel": "FIFA",
-      "publishedAt": "2026-11-23",
-      "category": "Highlights",
-      "team": [
-        "Brazil",
-        "Japan"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/He4qjO0pUB8/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
       "title": "Chelsea are in a ‘FRAGILE MOMENT’ 👀 ESPN FC reacts to Xabi Alonso’s comments",
       "videoId": "6x0PfIt44X0",
       "channel": "ESPN FC",
@@ -348,104 +448,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/hZ6zb3tHRto/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Asamoah Gyan's still got it 🤩",
-      "videoId": "9Ku6RSfI8eI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-11-23",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/9Ku6RSfI8eI/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Steve Nicol savages Man United's back line 😡",
-      "videoId": "_yg8NQeND_c",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-11-23",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_yg8NQeND_c/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "WILD ENDING 😱 Chicago Fire vs. Charlotte FC | MLS Cup Playoff Highlights | ESPN FC",
-      "videoId": "ilUTTgEQcPE",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-11-23",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ilUTTgEQcPE/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Takeaways from Liverpool vs. Man United + Barca take control of the LALIGA title race | ESPN FC",
-      "videoId": "iRuz2auiq8Q",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-11-22",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/iRuz2auiq8Q/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Getafe vs. Atletico Madrid | LALIGA Highlights | ESPN FC",
-      "videoId": "Y40dSDMqpXs",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-11-22",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Y40dSDMqpXs/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "REACTION to Man United’s 4-0 loss to Liverpool in Pochettino’s first match | ESPN FC",
-      "videoId": "WKx4PQms05s",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-11-22",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/WKx4PQms05s/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Can Liverpool finish 2nd in the Premier League this season? | ESPN FC Extra Time",
-      "videoId": "wboYT6XE3tg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-11-22",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/wboYT6XE3tg/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
