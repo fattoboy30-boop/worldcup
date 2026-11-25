@@ -1,11 +1,44 @@
 {
-  "lastUpdated": "2026-11-25T02:01:19.089Z",
+  "lastUpdated": "2026-11-25T12:19:05.381Z",
   "featured": {
-    "match": "ds_H87r94Us",
-    "highlight": "ds_H87r94Us",
-    "interview": "ds_H87r94Us"
+    "match": "_lM7W9b12QQ",
+    "highlight": "_lM7W9b12QQ",
+    "interview": "_lM7W9b12QQ"
   },
   "videos": [
+    {
+      "title": "10-Minute Match | England v Ghana | 2026 World Cup Group Stage",
+      "videoId": "_lM7W9b12QQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-25",
+      "category": "Highlights",
+      "team": [
+        "England",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/_lM7W9b12QQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Austria Start Strong Against Debutants Jordan | 2026 World Cup EXTENDED HIGHLIGHTS",
+      "videoId": "JUqxG4slgH8",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-25",
+      "category": "Highlights",
+      "team": [
+        "Austria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JUqxG4slgH8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Can anyone stop Jude Bellingham and Real Madrid? 😮‍💨 + Arsenal vs. Man City preview 🍿 | ESPN FC",
       "videoId": "ds_H87r94Us",
@@ -330,38 +363,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/Z7KsKAS0OsM/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Morocco v China PR | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-      "videoId": "5pduZHZjejI",
-      "channel": "FIFA",
-      "publishedAt": "2026-11-23",
-      "category": "Highlights",
-      "team": [
-        "Morocco"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/5pduZHZjejI/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Italy v Côte d'Ivoire | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-      "videoId": "7MFwvcGAzr4",
-      "channel": "FIFA",
-      "publishedAt": "2026-11-23",
-      "category": "Highlights",
-      "team": [
-        "Italy"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/7MFwvcGAzr4/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
