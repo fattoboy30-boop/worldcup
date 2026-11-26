@@ -1,11 +1,45 @@
 {
-  "lastUpdated": "2026-11-26T04:45:09.933Z",
+  "lastUpdated": "2026-11-26T14:48:49.629Z",
   "featured": {
-    "match": "laWrOoGrte8",
-    "highlight": "laWrOoGrte8",
+    "match": "SQMErcMyEow",
+    "highlight": "SQMErcMyEow",
     "interview": "IUD6uVUru_Y"
   },
   "videos": [
+    {
+      "title": "Legends Ronaldo & James Face Off | Colombia v Portugal | 2026 World Cup EXTENDED HIGHLIGHTS",
+      "videoId": "SQMErcMyEow",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-26",
+      "category": "Highlights",
+      "team": [
+        "Portugal",
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/SQMErcMyEow/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "10-Minute Match | Croatia v Ghana | 2026 World Cup Group Stage",
+      "videoId": "ehk1auURMJo",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-26",
+      "category": "Highlights",
+      "team": [
+        "Croatia",
+        "Ghana"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ehk1auURMJo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "10-Minute Match | Jordan v Algeria | 2026 World Cup Group Stage",
       "videoId": "laWrOoGrte8",
@@ -296,38 +330,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/GcCbeHi6cxo/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Brazil v Tanzania | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-      "videoId": "oUZTyB9vEKE",
-      "channel": "FIFA",
-      "publishedAt": "2026-11-24",
-      "category": "Highlights",
-      "team": [
-        "Brazil"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/oUZTyB9vEKE/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Dominican Republic v Chile | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-      "videoId": "UbA-dMwl0_c",
-      "channel": "FIFA",
-      "publishedAt": "2026-11-24",
-      "category": "Highlights",
-      "team": [
-        "Chile"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/UbA-dMwl0_c/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
