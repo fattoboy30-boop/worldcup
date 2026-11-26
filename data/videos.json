@@ -1,11 +1,55 @@
 {
-  "lastUpdated": "2026-11-25T22:12:28.709Z",
+  "lastUpdated": "2026-11-26T04:45:09.933Z",
   "featured": {
-    "match": "m329TQAKbyI",
-    "highlight": "m329TQAKbyI",
-    "interview": "m329TQAKbyI"
+    "match": "laWrOoGrte8",
+    "highlight": "laWrOoGrte8",
+    "interview": "IUD6uVUru_Y"
   },
   "videos": [
+    {
+      "title": "10-Minute Match | Jordan v Algeria | 2026 World Cup Group Stage",
+      "videoId": "laWrOoGrte8",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-26",
+      "category": "Highlights",
+      "team": [
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/laWrOoGrte8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "UCL REACTION 👀 Lille hand FC Bayern their first loss & Man United outlook after draw | ESPN FC",
+      "videoId": "IUD6uVUru_Y",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-26",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/IUD6uVUru_Y/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Reacting to the refereeing performance in Sporting vs. Man United | ESPN FC Extra Time",
+      "videoId": "Rx0IE1ah5iM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Rx0IE1ah5iM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Australia v Mozambique | HIGHLIGHTS | FIFA U-17 World Cup 2026",
       "videoId": "m329TQAKbyI",
@@ -169,6 +213,34 @@
       "fixtureTeams": null
     },
     {
+      "title": "REACTION to FC Bayern's first loss of the season 👀 + Latest on Jamal Musiala's situation | ESPN FC",
+      "videoId": "vOlafDrzeVs",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-25",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vOlafDrzeVs/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "’The work ahead for Mauricio Pochettino is tough’ - Ale Moreno on Man Utd's current state | ESPN FC",
+      "videoId": "e7F5tRzY4Xc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-25",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/e7F5tRzY4Xc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
       "title": "Cunha asking this Man United fan for his pen 😅 (via @_uq67/IG)",
       "videoId": "2BttbjcTRCU",
       "channel": "ESPN FC",
@@ -256,23 +328,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/UbA-dMwl0_c/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Mexico v Cameroon | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-      "videoId": "_Zco_huNr8U",
-      "channel": "FIFA",
-      "publishedAt": "2026-11-24",
-      "category": "Highlights",
-      "team": [
-        "Mexico",
-        "Cameroon"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/_Zco_huNr8U/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -399,64 +454,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/6x0PfIt44X0/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Proud coaching moment for Flick 😂",
-      "videoId": "6hVS2wsrw1c",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-11-23",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/6hVS2wsrw1c/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Bad play or bad sign? 🤔 What to make of Yamal's missed penalty kick vs. Villarreal | ESPN FC",
-      "videoId": "nVGJVikpba0",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-11-23",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/nVGJVikpba0/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "‘Pochettino got it HORRIBLY WRONG!’ 😳 Can Man United improve after 4-0 loss to Liverpool? | ESPN FC",
-      "videoId": "hpNNCiCaN6k",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-11-23",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/hpNNCiCaN6k/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Paqueta after clinching Brazil's Serie A title with Flamengo 👏 (via @Flamengo/TT)",
-      "videoId": "Rn9Lh9oNoVI",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-11-23",
-      "category": "Highlights",
-      "team": [
-        "Brazil"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Rn9Lh9oNoVI/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
