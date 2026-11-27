@@ -1,9 +1,456 @@
 {
-  "lastUpdated": "2026-11-27T07:29:14.205Z",
+  "lastUpdated": "2026-11-27T17:56:15.137Z",
   "featured": {
-    "match": "",
-    "highlight": "",
-    "interview": ""
+    "match": "FZzHTBa9TXM",
+    "highlight": "FZzHTBa9TXM",
+    "interview": "LEmT-fkaUNU"
   },
-  "videos": []
+  "videos": [
+    {
+      "title": "Costa Rica v Brazil | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+      "videoId": "FZzHTBa9TXM",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-27",
+      "category": "Highlights",
+      "team": [
+        "Brazil"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/FZzHTBa9TXM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Republic of Ireland v Tanzania | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+      "videoId": "s3mKBvL39y8",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-27",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/s3mKBvL39y8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Colombia v Serbia | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+      "videoId": "B6GHJh1oQpY",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-27",
+      "category": "Highlights",
+      "team": [
+        "Colombia",
+        "Serbia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/B6GHJh1oQpY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Honduras v Japan | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+      "videoId": "pWnMglAr-Ds",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-27",
+      "category": "Highlights",
+      "team": [
+        "Japan"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/pWnMglAr-Ds/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Haaland Heads To Round Of 16 | Côte d'Ivoire v Norway | 2026 World Cup EXTENDED HIGHLIGHTS",
+      "videoId": "z6JD2dPTwJM",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-27",
+      "category": "Highlights",
+      "team": [
+        "Norway"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/z6JD2dPTwJM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "10-Minute Match | Round of 32 | Netherlands v Morocco | 2026 World Cup",
+      "videoId": "MpFAdUx-6_Q",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-27",
+      "category": "Highlights",
+      "team": [
+        "Netherlands",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/MpFAdUx-6_Q/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Tajikistan v Senegal | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+      "videoId": "A1bKwah986Q",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-26",
+      "category": "Highlights",
+      "team": [
+        "Senegal"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/A1bKwah986Q/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Croatia v Cuba | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+      "videoId": "uKoikYl0jJo",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-26",
+      "category": "Highlights",
+      "team": [
+        "Croatia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/uKoikYl0jJo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Morocco v Spain | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+      "videoId": "tr7SqpfS2VM",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-26",
+      "category": "Highlights",
+      "team": [
+        "Spain",
+        "Morocco"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/tr7SqpfS2VM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "China PR v Fiji | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+      "videoId": "aZkaYSGmBFM",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/aZkaYSGmBFM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Uzbekistan v Italy | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+      "videoId": "3l2KcKSIhvY",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-26",
+      "category": "Highlights",
+      "team": [
+        "Italy"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/3l2KcKSIhvY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Jamaica v Côte d'Ivoire | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+      "videoId": "z2IkFZeVkUY",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/z2IkFZeVkUY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Vietnam v Mali | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+      "videoId": "GukVH2uoZ2s",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/GukVH2uoZ2s/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "New Zealand v Belgium | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+      "videoId": "Q_Zko7YJa6k",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-26",
+      "category": "Highlights",
+      "team": [
+        "Belgium"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Q_Zko7YJa6k/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Legends Ronaldo & James Face Off | Colombia v Portugal | 2026 World Cup EXTENDED HIGHLIGHTS",
+      "videoId": "SQMErcMyEow",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-26",
+      "category": "Highlights",
+      "team": [
+        "Portugal",
+        "Colombia"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/SQMErcMyEow/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "'It feels like I'm playing baseball with my dad' 😂❤️ (via @IShowSpeed/TT)",
+      "videoId": "2X7IS2GKkbc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/2X7IS2GKkbc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Will Man United be in a relegation fight? 🤔 + UCL refereeing performance vs. Sporting | ESPN FC",
+      "videoId": "IEo7wuo-1co",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/IEo7wuo-1co/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Was Chelsea's decline INEVITABLE? 😱 | ESPN FC Extra Time",
+      "videoId": "PfzNvr4TGlM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/PfzNvr4TGlM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Stevie Nicol reveals 2️⃣ reasons for Rodri's rise to the top 📈 | ESPN FC",
+      "videoId": "zN1xSwCNtA8",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/zN1xSwCNtA8/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Harry Kane's got hands 🥊",
+      "videoId": "3GgEZm_4-iM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/3GgEZm_4-iM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Reaction to Wesley Fofana apologizing for unauthorized interview + Forest-Chelsea preview | ESPN FC",
+      "videoId": "LEmT-fkaUNU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-26",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/LEmT-fkaUNU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "'They were robbed!' 🗣️ - Stevie Nicol says Man United should have won vs. Sporting | ESPN FC",
+      "videoId": "-nNcncloKco",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/-nNcncloKco/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "UCL REACTION 👀 Lille hand FC Bayern their first loss & Man United outlook after draw | ESPN FC",
+      "videoId": "IUD6uVUru_Y",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-26",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/IUD6uVUru_Y/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Reacting to the refereeing performance in Sporting vs. Man United | ESPN FC Extra Time",
+      "videoId": "Rx0IE1ah5iM",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-26",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/Rx0IE1ah5iM/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "REACTION to FC Bayern's first loss of the season 👀 + Latest on Jamal Musiala's situation | ESPN FC",
+      "videoId": "vOlafDrzeVs",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-25",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vOlafDrzeVs/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "’The work ahead for Mauricio Pochettino is tough’ - Ale Moreno on Man Utd's current state | ESPN FC",
+      "videoId": "e7F5tRzY4Xc",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-25",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/e7F5tRzY4Xc/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Cunha asking this Man United fan for his pen 😅 (via @_uq67/IG)",
+      "videoId": "2BttbjcTRCU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-25",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/2BttbjcTRCU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Can anyone stop Jude Bellingham and Real Madrid? 😮‍💨 + Arsenal vs. Man City preview 🍿 | ESPN FC",
+      "videoId": "ds_H87r94Us",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-25",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/ds_H87r94Us/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Is Enzo Maresca's job in danger amid recent results? | ESPN FC Extra Time",
+      "videoId": "JxtEQAiL_tY",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JxtEQAiL_tY/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Manchester United win appeal over Leny Yoro’s red card 👀 | ESPN FC",
+      "videoId": "j1Qk8C08_jg",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-24",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/j1Qk8C08_jg/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    }
+  ]
 }
