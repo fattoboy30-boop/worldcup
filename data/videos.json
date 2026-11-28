@@ -1,11 +1,89 @@
 {
-  "lastUpdated": "2026-11-27T17:56:15.137Z",
+  "lastUpdated": "2026-11-28T01:17:27.279Z",
   "featured": {
-    "match": "FZzHTBa9TXM",
-    "highlight": "FZzHTBa9TXM",
-    "interview": "LEmT-fkaUNU"
+    "match": "iKx7c0bvV-g",
+    "highlight": "iKx7c0bvV-g",
+    "interview": "bLev9-2NSEo"
   },
   "videos": [
+    {
+      "title": "Who needs FEWER signings to compete with Arsenal: Liverpool or Man City? 🤔 | ESPN FC Extra Time",
+      "videoId": "iKx7c0bvV-g",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-28",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/iKx7c0bvV-g/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Venezuela v Mexico | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+      "videoId": "qlVGGiXrxG4",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-27",
+      "category": "Highlights",
+      "team": [
+        "Mexico"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/qlVGGiXrxG4/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Romania v Cameroon | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+      "videoId": "QiS1_GGqOUQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-27",
+      "category": "Highlights",
+      "team": [
+        "Cameroon"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/QiS1_GGqOUQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Montenegro v Chile | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+      "videoId": "lZuAMc_RiwQ",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-27",
+      "category": "Highlights",
+      "team": [
+        "Chile"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/lZuAMc_RiwQ/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Algeria v Dominican Republic | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+      "videoId": "JAc58y50MT0",
+      "channel": "FIFA",
+      "publishedAt": "2026-11-27",
+      "category": "Highlights",
+      "team": [
+        "Algeria"
+      ],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/JAc58y50MT0/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
     {
       "title": "Costa Rica v Brazil | HIGHLIGHTS | FIFA U-17 World Cup 2026",
       "videoId": "FZzHTBa9TXM",
@@ -103,6 +181,76 @@
       "fixtureTeams": null
     },
     {
+      "title": "‘Everything about him is EXCEPTIONAL’ - Theo Walcott on Jude Bellingham’s play this season | ESPN FC",
+      "videoId": "7F4FalNlIKA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-27",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/7F4FalNlIKA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Is the Premier League the most competitive out of Europe’s top 5 leagues? | ESPN FC",
+      "videoId": "oX1IrNXy1EA",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-27",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/oX1IrNXy1EA/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Arsenal vs. Man City preview 🍿 Is the Premier League title race already over? | ESPN FC",
+      "videoId": "vCAYmKdRAwU",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-27",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/vCAYmKdRAwU/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "‘He doesn’t know what he’s doing’ 😳 Reaction to Xabi Alonso’s tactics in Chelsea’s loss | ESPN FC",
+      "videoId": "bLev9-2NSEo",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-27",
+      "category": "Viral",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/bLev9-2NSEo/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
+      "title": "Levante vs. Racing Santander | LALIGA Highlights | ESPN FC",
+      "videoId": "pBaPRCrEpgw",
+      "channel": "ESPN FC",
+      "publishedAt": "2026-11-27",
+      "category": "Highlights",
+      "team": [],
+      "duration": "N/A",
+      "views": 0,
+      "thumbnail": "https://img.youtube.com/vi/pBaPRCrEpgw/mqdefault.jpg",
+      "matchday": null,
+      "stage": null,
+      "fixtureTeams": null
+    },
+    {
       "title": "Tajikistan v Senegal | HIGHLIGHTS | FIFA U-17 World Cup 2026",
       "videoId": "A1bKwah986Q",
       "channel": "FIFA",
@@ -177,67 +325,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/3l2KcKSIhvY/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Jamaica v Côte d'Ivoire | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-      "videoId": "z2IkFZeVkUY",
-      "channel": "FIFA",
-      "publishedAt": "2026-11-26",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/z2IkFZeVkUY/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Vietnam v Mali | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-      "videoId": "GukVH2uoZ2s",
-      "channel": "FIFA",
-      "publishedAt": "2026-11-26",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/GukVH2uoZ2s/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "New Zealand v Belgium | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-      "videoId": "Q_Zko7YJa6k",
-      "channel": "FIFA",
-      "publishedAt": "2026-11-26",
-      "category": "Highlights",
-      "team": [
-        "Belgium"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/Q_Zko7YJa6k/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Legends Ronaldo & James Face Off | Colombia v Portugal | 2026 World Cup EXTENDED HIGHLIGHTS",
-      "videoId": "SQMErcMyEow",
-      "channel": "FIFA",
-      "publishedAt": "2026-11-26",
-      "category": "Highlights",
-      "team": [
-        "Portugal",
-        "Colombia"
-      ],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/SQMErcMyEow/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
@@ -364,90 +451,6 @@
       "duration": "N/A",
       "views": 0,
       "thumbnail": "https://img.youtube.com/vi/Rx0IE1ah5iM/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "REACTION to FC Bayern's first loss of the season 👀 + Latest on Jamal Musiala's situation | ESPN FC",
-      "videoId": "vOlafDrzeVs",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-11-25",
-      "category": "Viral",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/vOlafDrzeVs/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "’The work ahead for Mauricio Pochettino is tough’ - Ale Moreno on Man Utd's current state | ESPN FC",
-      "videoId": "e7F5tRzY4Xc",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-11-25",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/e7F5tRzY4Xc/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Cunha asking this Man United fan for his pen 😅 (via @_uq67/IG)",
-      "videoId": "2BttbjcTRCU",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-11-25",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/2BttbjcTRCU/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Can anyone stop Jude Bellingham and Real Madrid? 😮‍💨 + Arsenal vs. Man City preview 🍿 | ESPN FC",
-      "videoId": "ds_H87r94Us",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-11-25",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/ds_H87r94Us/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Is Enzo Maresca's job in danger amid recent results? | ESPN FC Extra Time",
-      "videoId": "JxtEQAiL_tY",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-11-24",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/JxtEQAiL_tY/mqdefault.jpg",
-      "matchday": null,
-      "stage": null,
-      "fixtureTeams": null
-    },
-    {
-      "title": "Manchester United win appeal over Leny Yoro’s red card 👀 | ESPN FC",
-      "videoId": "j1Qk8C08_jg",
-      "channel": "ESPN FC",
-      "publishedAt": "2026-11-24",
-      "category": "Highlights",
-      "team": [],
-      "duration": "N/A",
-      "views": 0,
-      "thumbnail": "https://img.youtube.com/vi/j1Qk8C08_jg/mqdefault.jpg",
       "matchday": null,
       "stage": null,
       "fixtureTeams": null
